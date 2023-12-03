@@ -39,18 +39,4 @@ jobs:
         with:
           github_token: ${{ secrets.MY_GIT_TOKEN }}
           branch: main
-      - name: Checkout destination repo
-        uses: actions/checkout@v2
-        with:
-          repository: LittleGaofx/Clock
-          token: ${{ secrets.MY_GIT_TOKEN }}
-          path: Clock
-      - name: Copy files to destination repo
-        run: |
-          cp img/background.jpg Clock/img
-          cd Clock
-          git config user.name "LtgX"
-          git config user.email "SK_HansonX@outlook.com"
-          git add 
-          git commit -m "Update files"
-          git push
+
