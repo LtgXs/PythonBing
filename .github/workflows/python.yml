@@ -1,0 +1,38 @@
+name: Run python script and push files
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *' # This runs at 00:00 and 12:00 UTC each day.
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner.
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+      - name: Setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # install the python version needed
+      - name: Install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run python script
+        run: |
+          python wallpaper.py
+      - name: Commit files
+        run: |
+          git config --local user.email "SK_HansonX@outlook.com"
+          git config --local user.name "LtgX"
+          git add README.md
+          git add img/*
+          git commit -m "Update files"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GIT_TOKEN }}
+          branch: main
