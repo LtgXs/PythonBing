@@ -37,8 +37,8 @@ if response.status_code == 200:
     history_path = os.path.join("history",yy,mm,history_file_name)
     os.makedirs(os.path.dirname(history_path), exist_ok=True)
     with open(history_path, "w", encoding='utf-8') as f:
-        f.write(f"## Today's Bing Wallpaper\n")
-        f.write(f"Update: {enddate}\n")
+        f.write(f"## History Bing Wallpaper\n")
+        f.write(f"Wallpaper date: {enddate}\n")
         f.write(f"![]({url}&w=1000)Download: [{copy}]({url})")
         f.write(f"\n\nAuto get programm by LtgX\n")
     print(f"信息已经保存到 {history_path}")
