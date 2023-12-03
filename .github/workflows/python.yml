@@ -1,8 +1,10 @@
+# GitHub Actions workflow文件
 name: Run python script and push files
 
 on:
   schedule:
-    - cron: '0 0,12 * * *' # This runs at 00:00 and 12:00 UTC each day.
+    - cron: '0 16,4 * * *' # This runs at 00:00 and 12:00 UTC each day.
+
   workflow_dispatch: # This allows manual trigger.
 
 jobs:
@@ -32,8 +34,23 @@ jobs:
           git add README.md
           git add img/*
           git commit -m "Update files"
-      - name: Push changes
+      - name: Push changes to source repo
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.MY_GIT_TOKEN }}
           branch: main
+      - name: Checkout destination repo
+        uses: actions/checkout@v2
+        with:
+          repository: LittleGaofx/Clock
+          token: ${{ secrets.MY_GIT_TOKEN }}
+          path: Clock
+      - name: Copy files to destination repo
+        run: |
+          cp img/* Clock
+          cd Clock
+          git config user.name "LtgX"
+          git config user.email "SK_HansonX@outlook.com"
+          git add img/*
+          git commit -m "Update files"
+          git push
