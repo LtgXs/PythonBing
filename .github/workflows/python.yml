@@ -3,7 +3,7 @@ name: Run python script and push files
 
 on:
   schedule:
-    - cron: '0 16,4 * * *' # This runs at 00:00 and 12:00 UTC each day.
+    - cron: '0 17 * * *' # This runs at 1:00 UTC+8 each day.
 
   workflow_dispatch: # This allows manual trigger.
 
@@ -33,6 +33,7 @@ jobs:
           git config --local user.name "LtgX"
           git add README.md
           git add img/*
+          git add history/*
           git commit -m "Update files"
       - name: Push changes to source repo
         uses: ad-m/github-push-action@master
