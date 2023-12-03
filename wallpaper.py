@@ -36,17 +36,13 @@ if response.status_code == 200:
     # 从 json 数据中读取 title 项
     title = data["images"][0]["title"]
     # 定义 info.txt 的保存路径，如果 img 文件夹不存在，就创建它
-    info_path = os.path.join("img", "info.txt")
-    os.makedirs(os.path.dirname(info_path), exist_ok=True)
+    info_path = os.path.join("README.md")
     # 以文本写入模式打开 info.txt 文件，写入 enddate, copy, title 的内容，关闭文件
     with open(info_path, "w", encoding='utf-8') as f:
-        f.write(f"Picture Title: {title}\n")
-        f.write(f"Copyright: {copy}\n")
+        f.write(f"## Today's Bing Wallpaper\n")
         f.write(f"Update: {enddate}\n")
-        f.write(f"\nFrom Bing API\n")
-        f.write(f"\nAuto get programm by LtgX\n")        
-        f.close()
-        
+        f.write(f"![]({url}&w=1000)Download: [{copy}]({url})")
+        f.write(f"\nAuto get programm by LtgX\n")
     # 打印成功的信息
     print(f"信息已经保存到 {info_path}")
 else:
