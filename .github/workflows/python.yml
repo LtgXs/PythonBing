@@ -47,10 +47,10 @@ jobs:
           path: Clock
       - name: Copy files to destination repo
         run: |
-          cp img/background.jpg Clock
+          cp img/background.jpg Clock/img
           cd Clock
           git config user.name "LtgX"
           git config user.email "SK_HansonX@outlook.com"
-          git add img/*
+          git add 
           git commit -m "Update files"
           git push
