@@ -47,7 +47,7 @@ jobs:
           path: Clock
       - name: Copy files to destination repo
         run: |
-          cp img/* Clock
+          cp img/background.jpg Clock
           cd Clock
           git config user.name "LtgX"
           git config user.email "SK_HansonX@outlook.com"
