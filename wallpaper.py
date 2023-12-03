@@ -18,7 +18,11 @@ if response.status_code == 200:
     print(f"图片已经保存到 {image_path}")
 
     enddate = data["images"][0]["enddate"]
+    yy = f"{enddate[:4]}"
+    mm = f"{enddate[4:6]}"
+    dd = f"{enddate[6:]}"
     enddate = f"{enddate[:4]}-{enddate[4:6]}-{enddate[6:]}"
+
     copy = data["images"][0]["copyright"]
     title = data["images"][0]["title"]
     info_path = os.path.join("README.md")
@@ -28,6 +32,16 @@ if response.status_code == 200:
         f.write(f"![]({url}&w=1000)Download: [{copy}]({url})")
         f.write(f"\n\nAuto get programm by LtgX\n")
     print(f"信息已经保存到 {info_path}")
+
+    history_file_name = f"{dd}.md"
+    history_path = os.path.join("history",yy,mm,history_file_name)
+    os.makedirs(os.path.dirname(history_path), exist_ok=True)
+    with open(history_path, "w", encoding='utf-8') as f:
+        f.write(f"## Today's Bing Wallpaper\n")
+        f.write(f"Update: {enddate}\n")
+        f.write(f"![]({url}&w=1000)Download: [{copy}]({url})")
+        f.write(f"\n\nAuto get programm by LtgX\n")
+    print(f"信息已经保存到 {history_path}")
     
 else:
     print(f"请求失败，状态码为 {response.status_code}")
