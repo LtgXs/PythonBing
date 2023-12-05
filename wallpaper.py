@@ -60,12 +60,12 @@ for region in RegionList:
         urlbase = data["images"][0]["urlbase"]
         url = "https://www.bing.com" + urlbase + "_UHD.jpg"
         image_data = requests.get(url).content
-        image_path = os.path.join("global",region,"img","background.jpg")
-        os.makedirs(os.path.dirname(image_path), exist_ok=True)
-        with open(image_path, "wb") as f:
-            f.write(image_data)
-            f.close()
-        print(f"图片已经保存到 {image_path}")
+        #image_path = os.path.join("global",region,"img","background.jpg")
+        #os.makedirs(os.path.dirname(image_path), exist_ok=True)
+        #with open(image_path, "wb") as f:
+            #f.write(image_data)
+            #f.close()
+        #print(f"图片已经保存到 {image_path}")
 
         enddate = data["images"][0]["enddate"]
         yy = f"{enddate[:4]}"
