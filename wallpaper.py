@@ -83,7 +83,7 @@ for region in RegionList:
             f.write(f"\n\nAuto get programm by LtgX\n")
         print(f"信息已经保存到 {info_path}")
 
-        history_file_name = f"{dd}.md"
+        history_file_name = f"{dd}_{region}.md"
         history_path = os.path.join("global",region,"history",yy,mm,history_file_name)
         os.makedirs(os.path.dirname(history_path), exist_ok=True)
         with open(history_path, "w", encoding='utf-8') as f:
