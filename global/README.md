@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-07 [download](https://www.bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.CERNCenter_JA-JP8644590306_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-06 [download](https://www.bing.com/th?id=OHR.CERNCenter_JA-JP8644590306_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.Taisetsu2023_JA-JP8835846835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-07 [download](https://www.bing.com/th?id=OHR.Taisetsu2023_JA-JP8835846835_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.PalolemGoa_EN-IN1818092671_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-06 [download](https://www.bing.com/th?id=OHR.PalolemGoa_EN-IN1818092671_UHD.jpg)|
 |Region: pt-BR
