@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-08 [download](https://www.bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.Taisetsu2023_JA-JP8835846835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-07 [download](https://www.bing.com/th?id=OHR.Taisetsu2023_JA-JP8835846835_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.JerseyIsland_JA-JP9047717221_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-08 [download](https://www.bing.com/th?id=OHR.JerseyIsland_JA-JP9047717221_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.GrandCanyonVerdon_EN-IN1889492687_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-07 [download](https://www.bing.com/th?id=OHR.GrandCanyonVerdon_EN-IN1889492687_UHD.jpg)|
 |Region: pt-BR
