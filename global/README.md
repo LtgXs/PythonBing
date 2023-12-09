@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-10 [download](https://www.bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.PatagoniaGuanaco_JA-JP9289899395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-09 [download](https://www.bing.com/th?id=OHR.PatagoniaGuanaco_JA-JP9289899395_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.SaharaDunes_JA-JP9880519356_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-10 [download](https://www.bing.com/th?id=OHR.SaharaDunes_JA-JP9880519356_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.IndiaGate_EN-IN7190380885_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-09 [download](https://www.bing.com/th?id=OHR.IndiaGate_EN-IN7190380885_UHD.jpg)|
 |Region: pt-BR
