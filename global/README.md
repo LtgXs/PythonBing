@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-11 [download](https://www.bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.SaharaDunes_JA-JP9880519356_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-10 [download](https://www.bing.com/th?id=OHR.SaharaDunes_JA-JP9880519356_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.MountainDayChina_JA-JP0160517596_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-11 [download](https://www.bing.com/th?id=OHR.MountainDayChina_JA-JP0160517596_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.SaharaDunes_EN-IN6130690163_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-10 [download](https://www.bing.com/th?id=OHR.SaharaDunes_EN-IN6130690163_UHD.jpg)|
 |Region: pt-BR
