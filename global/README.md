@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-12 [download](https://www.bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.MountainDayChina_JA-JP0160517596_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-11 [download](https://www.bing.com/th?id=OHR.MountainDayChina_JA-JP0160517596_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.Poinsettia_JA-JP0391640145_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-12 [download](https://www.bing.com/th?id=OHR.Poinsettia_JA-JP0391640145_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.MountainDayChina_EN-IN2198461233_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-11 [download](https://www.bing.com/th?id=OHR.MountainDayChina_EN-IN2198461233_UHD.jpg)|
 |Region: pt-BR
