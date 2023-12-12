@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-13 [download](https://www.bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.Poinsettia_JA-JP0391640145_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-12 [download](https://www.bing.com/th?id=OHR.Poinsettia_JA-JP0391640145_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.LofotenRorbu_JA-JP0645776855_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-13 [download](https://www.bing.com/th?id=OHR.LofotenRorbu_JA-JP0645776855_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.Poinsettia_EN-IN2286227046_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-12 [download](https://www.bing.com/th?id=OHR.Poinsettia_EN-IN2286227046_UHD.jpg)|
 |Region: pt-BR
