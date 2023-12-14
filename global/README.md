@@ -2,26 +2,26 @@
 |      |      |      |
 | :----: | :----: | :----: |
 |Region: en-US
-||![](https://www.bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.BorealOwl_EN-US1112219806_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-15 [download](https://www.bing.com/th?id=OHR.BorealOwl_EN-US1112219806_UHD.jpg)|
 |Region: ja-JP
 ||![](https://www.bing.com/th?id=OHR.BorealOwl_JA-JP0826064778_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.BorealOwl_JA-JP0826064778_UHD.jpg)|
 |Region: en-IN
-||![](https://www.bing.com/th?id=OHR.LofotenRorbu_EN-IN2344556168_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-13 [download](https://www.bing.com/th?id=OHR.LofotenRorbu_EN-IN2344556168_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.BorealOwl_EN-IN2428329798_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.BorealOwl_EN-IN2428329798_UHD.jpg)|
 |Region: pt-BR
-||![](https://www.bing.com/th?id=OHR.ChapadaDiamantina_PT-BR0912635874_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.ChapadaDiamantina_PT-BR0912635874_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.BorealOwl_PT-BR1424303006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-15 [download](https://www.bing.com/th?id=OHR.BorealOwl_PT-BR1424303006_UHD.jpg)|
 |Region: fr-FR
-||![](https://www.bing.com/th?id=OHR.LofotenRorbu_FR-FR0517651581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-13 [download](https://www.bing.com/th?id=OHR.LofotenRorbu_FR-FR0517651581_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.BorealOwl_FR-FR1337451334_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.BorealOwl_FR-FR1337451334_UHD.jpg)|
 |Region: de-DE
-||![](https://www.bing.com/th?id=OHR.LofotenRorbu_DE-DE8900976536_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-13 [download](https://www.bing.com/th?id=OHR.LofotenRorbu_DE-DE8900976536_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.BorealOwl_DE-DE9921570307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.BorealOwl_DE-DE9921570307_UHD.jpg)|
 |Region: en-CA
-||![](https://www.bing.com/th?id=OHR.LofotenRorbu_EN-CA0505973846_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.LofotenRorbu_EN-CA0505973846_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.BorealOwl_EN-CA5986329708_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-15 [download](https://www.bing.com/th?id=OHR.BorealOwl_EN-CA5986329708_UHD.jpg)|
 |Region: en-GB
-||![](https://www.bing.com/th?id=OHR.LofotenRorbu_EN-GB4727739447_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.LofotenRorbu_EN-GB4727739447_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.BorealOwl_EN-GB5088919623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-15 [download](https://www.bing.com/th?id=OHR.BorealOwl_EN-GB5088919623_UHD.jpg)|
 |Region: it-IT
-||![](https://www.bing.com/th?id=OHR.LofotenRorbu_IT-IT7817886766_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-13 [download](https://www.bing.com/th?id=OHR.LofotenRorbu_IT-IT7817886766_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.BorealOwl_IT-IT7088650867_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.BorealOwl_IT-IT7088650867_UHD.jpg)|
 |Region: es-ES
-||![](https://www.bing.com/th?id=OHR.LofotenRorbu_ES-ES5389345078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-13 [download](https://www.bing.com/th?id=OHR.LofotenRorbu_ES-ES5389345078_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.BorealOwl_ES-ES9940337262_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.BorealOwl_ES-ES9940337262_UHD.jpg)|
 |Region: fr-CA
-||![](https://www.bing.com/th?id=OHR.LofotenRorbu_FR-CA3353222427_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.LofotenRorbu_FR-CA3353222427_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.BorealOwl_FR-CA3630029602_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-15 [download](https://www.bing.com/th?id=OHR.BorealOwl_FR-CA3630029602_UHD.jpg)|
 
 Auto get programm by LtgX
