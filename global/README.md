@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.BorealOwl_EN-US1112219806_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-15 [download](https://www.bing.com/th?id=OHR.BorealOwl_EN-US1112219806_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.BorealOwl_JA-JP0826064778_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.BorealOwl_JA-JP0826064778_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.SantaPark_JA-JP8169777943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-15 [download](https://www.bing.com/th?id=OHR.SantaPark_JA-JP8169777943_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.BorealOwl_EN-IN2428329798_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-14 [download](https://www.bing.com/th?id=OHR.BorealOwl_EN-IN2428329798_UHD.jpg)|
 |Region: pt-BR
