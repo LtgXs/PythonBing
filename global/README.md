@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-16 [download](https://www.bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.SantaPark_JA-JP8169777943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-15 [download](https://www.bing.com/th?id=OHR.SantaPark_JA-JP8169777943_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.GrandPlaceXmas_JA-JP8582950407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-16 [download](https://www.bing.com/th?id=OHR.GrandPlaceXmas_JA-JP8582950407_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.SantaPark_EN-IN0838447771_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-15 [download](https://www.bing.com/th?id=OHR.SantaPark_EN-IN0838447771_UHD.jpg)|
 |Region: pt-BR
