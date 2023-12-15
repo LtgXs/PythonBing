@@ -1,5 +1,5 @@
 # GitHub Actions workflow文件
-name: Run python script and push files
+name: Update Bing Wallpaper
 
 on:
   schedule:
@@ -36,7 +36,7 @@ jobs:
           git add history/*
           git add global/*
           git commit -m "Update files"
-      - name: Push changes to source repo
+      - name: Push
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.MY_GIT_TOKEN }}
