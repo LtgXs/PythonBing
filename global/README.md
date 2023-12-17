@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-18 [download](https://www.bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.WinterWaxwings_JA-JP9441530604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-17 [download](https://www.bing.com/th?id=OHR.WinterWaxwings_JA-JP9441530604_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.CapitolReefSnow_JA-JP1048193516_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-18 [download](https://www.bing.com/th?id=OHR.CapitolReefSnow_JA-JP1048193516_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.WinterWaxwings_EN-IN2074933322_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-17 [download](https://www.bing.com/th?id=OHR.WinterWaxwings_EN-IN2074933322_UHD.jpg)|
 |Region: pt-BR
