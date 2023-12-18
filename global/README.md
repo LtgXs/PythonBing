@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.CapitolReefSnow_EN-US8594085615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-19 [download](https://www.bing.com/th?id=OHR.CapitolReefSnow_EN-US8594085615_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.CapitolReefSnow_JA-JP1048193516_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-18 [download](https://www.bing.com/th?id=OHR.CapitolReefSnow_JA-JP1048193516_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.WarsawChristmas_JA-JP1330837754_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-19 [download](https://www.bing.com/th?id=OHR.WarsawChristmas_JA-JP1330837754_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.CapitolReefSnow_EN-IN2337695579_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-18 [download](https://www.bing.com/th?id=OHR.CapitolReefSnow_EN-IN2337695579_UHD.jpg)|
 |Region: pt-BR
