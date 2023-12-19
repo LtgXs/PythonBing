@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.WarsawChristmas_EN-US8819312496_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-20 [download](https://www.bing.com/th?id=OHR.WarsawChristmas_EN-US8819312496_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.WarsawChristmas_JA-JP1330837754_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-19 [download](https://www.bing.com/th?id=OHR.WarsawChristmas_JA-JP1330837754_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.ValGardenaItaly_JA-JP2238333845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-20 [download](https://www.bing.com/th?id=OHR.ValGardenaItaly_JA-JP2238333845_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.WarsawChristmas_EN-IN2544599667_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-19 [download](https://www.bing.com/th?id=OHR.WarsawChristmas_EN-IN2544599667_UHD.jpg)|
 |Region: pt-BR
