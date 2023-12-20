@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-21 [download](https://www.bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.ValGardenaItaly_JA-JP2238333845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-20 [download](https://www.bing.com/th?id=OHR.ValGardenaItaly_JA-JP2238333845_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.LjubljanaLights_JA-JP9081354484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-21 [download](https://www.bing.com/th?id=OHR.LjubljanaLights_JA-JP9081354484_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.ValGardenaItaly_EN-IN2770254332_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-20 [download](https://www.bing.com/th?id=OHR.ValGardenaItaly_EN-IN2770254332_UHD.jpg)|
 |Region: pt-BR
