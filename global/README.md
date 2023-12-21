@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-22 [download](https://www.bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.LjubljanaLights_JA-JP9081354484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-21 [download](https://www.bing.com/th?id=OHR.LjubljanaLights_JA-JP9081354484_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.Wintersolstice2023_JA-JP9488437005_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-22 [download](https://www.bing.com/th?id=OHR.Wintersolstice2023_JA-JP9488437005_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.LjubljanaLights_EN-IN3699052507_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-21 [download](https://www.bing.com/th?id=OHR.LjubljanaLights_EN-IN3699052507_UHD.jpg)|
 |Region: pt-BR
