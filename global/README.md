@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.LjubljanaLights_EN-US9215683814_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-23 [download](https://www.bing.com/th?id=OHR.LjubljanaLights_EN-US9215683814_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.Wintersolstice2023_JA-JP9488437005_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-22 [download](https://www.bing.com/th?id=OHR.Wintersolstice2023_JA-JP9488437005_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.TokyoTower2023_JA-JP0066858338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-23 [download](https://www.bing.com/th?id=OHR.TokyoTower2023_JA-JP0066858338_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.RedFortDelhi_EN-IN3982983147_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-22 [download](https://www.bing.com/th?id=OHR.RedFortDelhi_EN-IN3982983147_UHD.jpg)|
 |Region: pt-BR
