@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-24 [download](https://www.bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.TokyoTower2023_JA-JP0066858338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-23 [download](https://www.bing.com/th?id=OHR.TokyoTower2023_JA-JP0066858338_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.EstoniaXmasEve_JA-JP0366507453_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-24 [download](https://www.bing.com/th?id=OHR.EstoniaXmasEve_JA-JP0366507453_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.FestivusPenguins_EN-IN5922835342_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-23 [download](https://www.bing.com/th?id=OHR.FestivusPenguins_EN-IN5922835342_UHD.jpg)|
 |Region: pt-BR
