@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2023-12-25
+## History Bing Wallpaper
+Wallpaper date: 2023-12-25
 ![](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-CA2639551026_UHD.jpg&w=1000)Download: [Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-CA2639551026_UHD.jpg)
 
 Auto get programm by LtgX
