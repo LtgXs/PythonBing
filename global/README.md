@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-US9431079565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-25 [download](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-US9431079565_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.EstoniaXmasEve_JA-JP0366507453_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-24 [download](https://www.bing.com/th?id=OHR.EstoniaXmasEve_JA-JP0366507453_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.CaribouChristmas_JA-JP0784356200_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-25 [download](https://www.bing.com/th?id=OHR.CaribouChristmas_JA-JP0784356200_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-IN6293418304_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-24 [download](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-IN6293418304_UHD.jpg)|
 |Region: pt-BR
