@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-27 [download](https://www.bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.BoxingDaySunrise_JA-JP3167199681_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-26 [download](https://www.bing.com/th?id=OHR.BoxingDaySunrise_JA-JP3167199681_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.KirkjufellAurora_JA-JP1371346229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-27 [download](https://www.bing.com/th?id=OHR.KirkjufellAurora_JA-JP1371346229_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.SanchiStupaMP_EN-IN0719147985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-26 [download](https://www.bing.com/th?id=OHR.SanchiStupaMP_EN-IN0719147985_UHD.jpg)|
 |Region: pt-BR
