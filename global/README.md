@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-28 [download](https://www.bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.KirkjufellAurora_JA-JP1371346229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-27 [download](https://www.bing.com/th?id=OHR.KirkjufellAurora_JA-JP1371346229_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.GreenlandHumpback_JA-JP1574725222_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-28 [download](https://www.bing.com/th?id=OHR.GreenlandHumpback_JA-JP1574725222_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.KirkjufellAurora_EN-IN0930050121_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-27 [download](https://www.bing.com/th?id=OHR.KirkjufellAurora_EN-IN0930050121_UHD.jpg)|
 |Region: pt-BR
