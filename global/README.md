@@ -4,7 +4,7 @@
 |Region: en-US
 ||![](https://www.bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-30 [download](https://www.bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg)|
 |Region: ja-JP
-||![](https://www.bing.com/th?id=OHR.BlueAmsterdam_JA-JP3650946549_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-29 [download](https://www.bing.com/th?id=OHR.BlueAmsterdam_JA-JP3650946549_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.TadamiWinter_JA-JP3859322331_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-30 [download](https://www.bing.com/th?id=OHR.TadamiWinter_JA-JP3859322331_UHD.jpg)|
 |Region: en-IN
 ||![](https://www.bing.com/th?id=OHR.BlueAmsterdam_EN-IN3729532166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)|2023-12-29 [download](https://www.bing.com/th?id=OHR.BlueAmsterdam_EN-IN3729532166_UHD.jpg)|
 |Region: pt-BR
