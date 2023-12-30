@@ -6,9 +6,9 @@
 ||*Copyright: Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)*
 ||
 |||
-|2023-12-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TadamiWinter_JA-JP3859322331_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TadamiWinter_JA-JP3859322331_UHD.jpg)|
-||*Copyright: 第一只見川橋梁, 福島県 (© DoctorEgg/Getty Images)*
+|2023-12-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_UHD.jpg)|
+||*Copyright: 増上寺の梵鐘, 東京 (© kanzilyou/Adobe Stock)*
 ||
 |||
 |2023-12-30|**Region: en-IN**||

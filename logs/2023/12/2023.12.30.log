@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:20:41] Picture infomations saved to  global/fr-CA/README.md
 [09:20:41] Picture infomations saved to global/fr-CA/history/2023/12/31_fr-CA.md
 Program exit at 09:20:41
+
+Program started at 16:10:39
+Operating System Name: Linux
+Operating System Version: #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az523-358
+Processor Type: x86_64
+Python Version: 3.10.13
+Python Interpreter Name: CPython
+[16:10:39] Start geting CN Bing Wallpaper
+[16:10:39] Successful get url: https://www.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_UHD.jpg
+[16:10:39] Image saved to img/background.jpg
+[16:10:39] Info saved to README.md
+[16:10:39] Image saved to history/2023/12/31.md
+[16:10:39] Start geting global Bing Wallpaper, region=en-US
+[16:10:39] Successful get url: https://www.bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg
+[16:10:39] Picture infomations saved to  global/en-US/README.md
+[16:10:39] Picture infomations saved to global/en-US/history/2023/12/31_en-US.md
+[16:10:39] Start geting global Bing Wallpaper, region=ja-JP
+[16:10:40] Successful get url: https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_UHD.jpg
+[16:10:40] Picture infomations saved to  global/ja-JP/README.md
+[16:10:40] Picture infomations saved to global/ja-JP/history/2023/12/31_ja-JP.md
+[16:10:40] Start geting global Bing Wallpaper, region=en-IN
+[16:10:40] Successful get url: https://www.bing.com/th?id=OHR.TadamiWinter_EN-IN3654080004_UHD.jpg
+[16:10:40] Picture infomations saved to  global/en-IN/README.md
+[16:10:40] Picture infomations saved to global/en-IN/history/2023/12/30_en-IN.md
+[16:10:40] Start geting global Bing Wallpaper, region=pt-BR
+[16:10:40] Successful get url: https://www.bing.com/th?id=OHR.TadamiWinter_PT-BR9134257179_UHD.jpg
+[16:10:40] Picture infomations saved to  global/pt-BR/README.md
+[16:10:40] Picture infomations saved to global/pt-BR/history/2023/12/31_pt-BR.md
+[16:10:40] Start geting global Bing Wallpaper, region=fr-FR
+[16:10:40] Successful get url: https://www.bing.com/th?id=OHR.TadamiWinter_FR-FR9156285439_UHD.jpg
+[16:10:40] Picture infomations saved to  global/fr-FR/README.md
+[16:10:40] Picture infomations saved to global/fr-FR/history/2023/12/30_fr-FR.md
+[16:10:40] Start geting global Bing Wallpaper, region=de-DE
+[16:10:40] Successful get url: https://www.bing.com/th?id=OHR.TadamiWinter_DE-DE9740554519_UHD.jpg
+[16:10:41] Picture infomations saved to  global/de-DE/README.md
+[16:10:41] Picture infomations saved to global/de-DE/history/2023/12/30_de-DE.md
+[16:10:41] Start geting global Bing Wallpaper, region=en-CA
+[16:10:41] Successful get url: https://www.bing.com/th?id=OHR.TadamiWinter_EN-CA2053501506_UHD.jpg
+[16:10:41] Picture infomations saved to  global/en-CA/README.md
+[16:10:41] Picture infomations saved to global/en-CA/history/2023/12/31_en-CA.md
+[16:10:41] Start geting global Bing Wallpaper, region=en-GB
+[16:10:41] Successful get url: https://www.bing.com/th?id=OHR.TadamiWinter_EN-GB2259719616_UHD.jpg
+[16:10:41] Picture infomations saved to  global/en-GB/README.md
+[16:10:41] Picture infomations saved to global/en-GB/history/2023/12/31_en-GB.md
+[16:10:41] Start geting global Bing Wallpaper, region=it-IT
+[16:10:41] Successful get url: https://www.bing.com/th?id=OHR.TadamiWinter_IT-IT9712600092_UHD.jpg
+[16:10:41] Picture infomations saved to  global/it-IT/README.md
+[16:10:41] Picture infomations saved to global/it-IT/history/2023/12/30_it-IT.md
+[16:10:41] Start geting global Bing Wallpaper, region=es-ES
+[16:10:41] Successful get url: https://www.bing.com/th?id=OHR.TadamiWinter_ES-ES7930493260_UHD.jpg
+[16:10:41] Picture infomations saved to  global/es-ES/README.md
+[16:10:41] Picture infomations saved to global/es-ES/history/2023/12/30_es-ES.md
+[16:10:41] Start geting global Bing Wallpaper, region=fr-CA
+[16:10:42] Successful get url: https://www.bing.com/th?id=OHR.TadamiWinter_FR-CA3172603926_UHD.jpg
+[16:10:42] Picture infomations saved to  global/fr-CA/README.md
+[16:10:42] Picture infomations saved to global/fr-CA/history/2023/12/31_fr-CA.md
+Program exit at 16:10:42
