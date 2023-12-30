@@ -35,6 +35,7 @@ jobs:
           git add README.md
           git add history/*
           git add global/*
+          git add logs/*
           git commit -m "Update files"
       - name: Push
         uses: ad-m/github-push-action@master
