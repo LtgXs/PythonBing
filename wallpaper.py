@@ -1,5 +1,6 @@
 import os
 import sys
+import zoneinfo
 import platform
 import requests
 from datetime import datetime
@@ -25,7 +26,6 @@ class Logger(object):
         pass
 
 sys.stdout = Logger()
-
 
 # Log time
 def get_current_time():
@@ -55,7 +55,7 @@ print(f"[{log_current_time}] Start geting CN Bing Wallpaper")
 api_url_cn = "https://cn.bing.com/HPImageArchive.aspx?n=1&mkt=zh-cn&idx=0&format=js"
 response = requests.get(api_url_cn)
 if response.status_code == 200:
-    #保存图片
+    #save image
     data = response.json()
     urlbase = data["images"][0]["urlbase"]
     url = "https://www.bing.com" + urlbase + "_UHD.jpg"
@@ -69,7 +69,7 @@ if response.status_code == 200:
         f.close()
     log_current_time = get_current_time()
     print(f"[{log_current_time}] Image saved to {image_path}")
-    #获取图片信息
+    #Get image info
     enddate = data["images"][0]["enddate"]
     yy = f"{enddate[:4]}"
     mm = f"{enddate[4:6]}"
@@ -77,7 +77,7 @@ if response.status_code == 200:
     enddate = f"{enddate[:4]}-{enddate[4:6]}-{enddate[6:]}"
     copy = data["images"][0]["copyright"]
     title = data["images"][0]["title"]
-    #写入README.md
+    #write README.md
     info_path = os.path.join("README.md")
     with open(info_path, "w", encoding='utf-8') as f:
         f.write(f"## Today's Bing Wallpaper\n")
@@ -86,7 +86,7 @@ if response.status_code == 200:
         f.write(f"\n\nAuto get programm by LtgX\n")
     log_current_time = get_current_time()
     print(f"[{log_current_time}] Info saved to {info_path}")
-    #写入备份
+    #write backup markdown
     history_file_name = f"{dd}.md"
     history_path = os.path.join("history",yy,mm,history_file_name)
     os.makedirs(os.path.dirname(history_path), exist_ok=True)
@@ -104,6 +104,35 @@ else:
 
 #Get Blobal Bing Wallpaper
 RegionList = ["en-US", "ja-JP", "en-IN", "pt-BR", "fr-FR", "de-DE", "en-CA", "en-GB", "it-IT", "es-ES", "fr-CA"] #add your country here
+
+# Converts region codes to zoneinfo-supported time zone formats
+def region_to_zone(region):
+    # Split the region code, get the language code and country code
+    language, country = region.split("-")
+    # Return the corresponding time zone based on the country code
+    if country == "US":
+        return "America/New_York" # United States
+    elif country == "JP":
+        return "Asia/Tokyo" # Japan
+    elif country == "IN":
+        return "Asia/Kolkata" # India
+    elif country == "BR":
+        return "America/Sao_Paulo" # Brazil
+    elif country == "FR":
+        return "Europe/Paris" # France
+    elif country == "DE":
+        return "Europe/Berlin" # Germany
+    elif country == "CA":
+        return "America/Toronto" # Canada
+    elif country == "GB":
+        return "Europe/London" # United Kingdom
+    elif country == "IT":
+        return "Europe/Rome" # Italy
+    elif country == "ES":
+        return "Europe/Madrid" # Spain
+    else:
+        return None
+
 #Create Readme.md for github display
 info_path = os.path.join("global","README.md")
 os.makedirs(os.path.dirname(info_path), exist_ok=True)
@@ -115,7 +144,19 @@ with open(info_path, "w", encoding='utf-8') as f:
 #Main function
 for region in RegionList:
     log_current_time = get_current_time()
-    print(f"[{log_current_time}] Start geting global Bing Wallpaper, region={region}")
+    # Convert the region code to a time zone
+    zone = region_to_zone(region)
+    # If the time zone is not empty, use the zoneinfo module to get the local time
+    if zone:
+        tz = zoneinfo.ZoneInfo(zone)
+        now = datetime.now()
+        local_time = now.astimezone(tz)
+    else:
+        # If the time zone is empty, print the region code and an error message
+        local_time = (f"{region}: Invalid region code")
+        
+    print(f"[{log_current_time}] Start geting global Bing Wallpaper, region={region}, local time is {local_time}")
+    
     api_url_global = f"https://global.bing.com/HPImageArchive.aspx?n=1&setmkt={region}&setlang=en&idx=0&format=js"
     response = requests.get(api_url_global)
     if response.status_code == 200: #Check response
