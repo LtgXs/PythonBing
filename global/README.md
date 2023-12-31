@@ -6,9 +6,9 @@
 ||*Copyright: Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)*
 ||
 |||
-|2023-12-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_UHD.jpg)|
-||*Copyright: 増上寺の梵鐘, 東京 (© kanzilyou/Adobe Stock)*
+|2024-01-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Sunrise2024_JA-JP1927003758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Sunrise2024_JA-JP1927003758_UHD.jpg)|
+||*Copyright: 本栖湖から見る富士山の日の出, 山梨県 (© Sakarin Sawasdinaka/Shutterstock)*
 ||
 |||
 |2023-12-31|**Region: en-IN**||
