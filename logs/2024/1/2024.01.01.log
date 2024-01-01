@@ -1,0 +1,60 @@
+
+Program started at 09:22:23
+Operating System Name: Linux
+Operating System Version: #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1198-580
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[09:22:23] Start geting CN Bing Wallpaper
+[09:22:23] Successful get url: https://www.bing.com/th?id=OHR.SleepingFox_ZH-CN2622967726_UHD.jpg
+[09:22:24] Image saved to img/background.jpg
+[09:22:24] Info saved to README.md
+[09:22:24] Image saved to history/2024/01/01.md
+[09:22:24] Start geting global Bing Wallpaper, region=en-US, local time is 2024-01-01 04:22:24.230881-05:00
+[09:22:24] Successful get url: https://www.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg
+[09:22:24] Picture infomations saved to  global/en-US/README.md
+[09:22:24] Picture infomations saved to global/en-US/history/2024/01/02_en-US.md
+[09:22:24] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-01-01 18:22:24.653826+09:00
+[09:22:24] Successful get url: https://www.bing.com/th?id=OHR.Sunrise2024_JA-JP1927003758_UHD.jpg
+[09:22:25] Picture infomations saved to  global/ja-JP/README.md
+[09:22:25] Picture infomations saved to global/ja-JP/history/2024/01/01_ja-JP.md
+[09:22:25] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-01-01 14:52:25.040569+05:30
+[09:22:25] Successful get url: https://www.bing.com/th?id=OHR.SleepingFox_EN-IN4256691389_UHD.jpg
+[09:22:25] Picture infomations saved to  global/en-IN/README.md
+[09:22:25] Picture infomations saved to global/en-IN/history/2024/01/01_en-IN.md
+[09:22:25] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-01-01 06:22:25.432866-03:00
+[09:22:25] Successful get url: https://www.bing.com/th?id=OHR.SleepingFox_PT-BR0026523663_UHD.jpg
+[09:22:25] Picture infomations saved to  global/pt-BR/README.md
+[09:22:25] Picture infomations saved to global/pt-BR/history/2024/01/02_pt-BR.md
+[09:22:25] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-01-01 10:22:25.828603+01:00
+[09:22:25] Successful get url: https://www.bing.com/th?id=OHR.SleepingFox_FR-FR9573665261_UHD.jpg
+[09:22:26] Picture infomations saved to  global/fr-FR/README.md
+[09:22:26] Picture infomations saved to global/fr-FR/history/2024/01/01_fr-FR.md
+[09:22:26] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-01-01 10:22:26.218273+01:00
+[09:22:26] Successful get url: https://www.bing.com/th?id=OHR.SleepingFox_DE-DE0284095330_UHD.jpg
+[09:22:26] Picture infomations saved to  global/de-DE/README.md
+[09:22:26] Picture infomations saved to global/de-DE/history/2024/01/01_de-DE.md
+[09:22:26] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-01-01 04:22:26.612672-05:00
+[09:22:26] Successful get url: https://www.bing.com/th?id=OHR.SleepingFox_EN-CA4697579541_UHD.jpg
+[09:22:27] Picture infomations saved to  global/en-CA/README.md
+[09:22:27] Picture infomations saved to global/en-CA/history/2024/01/02_en-CA.md
+[09:22:27] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-01-01 09:22:27.004468+00:00
+[09:22:27] Successful get url: https://www.bing.com/th?id=OHR.SleepingFox_EN-GB2968569198_UHD.jpg
+[09:22:27] Picture infomations saved to  global/en-GB/README.md
+[09:22:27] Picture infomations saved to global/en-GB/history/2024/01/02_en-GB.md
+[09:22:27] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-01-01 10:22:27.397843+01:00
+[09:22:27] Successful get url: https://www.bing.com/th?id=OHR.SleepingFox_IT-IT1479703607_UHD.jpg
+[09:22:27] Picture infomations saved to  global/it-IT/README.md
+[09:22:27] Picture infomations saved to global/it-IT/history/2024/01/01_it-IT.md
+[09:22:27] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-01-01 10:22:27.788524+01:00
+[09:22:27] Successful get url: https://www.bing.com/th?id=OHR.SleepingFox_ES-ES8416762367_UHD.jpg
+[09:22:28] Picture infomations saved to  global/es-ES/README.md
+[09:22:28] Picture infomations saved to global/es-ES/history/2024/01/01_es-ES.md
+[09:22:28] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-01-01 04:22:28.183793-05:00
+[09:22:28] Successful get url: https://www.bing.com/th?id=OHR.SleepingFox_FR-CA8714534728_UHD.jpg
+[09:22:28] Picture infomations saved to  global/fr-CA/README.md
+[09:22:28] Picture infomations saved to global/fr-CA/history/2024/01/02_fr-CA.md
+Program exit at 09:22:28

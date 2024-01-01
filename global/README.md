@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg)|
-||*Copyright: Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)*
+|2024-01-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg)|
+||*Copyright: Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)*
 ||
 |||
 |2024-01-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 本栖湖から見る富士山の日の出, 山梨県 (© Sakarin Sawasdinaka/Shutterstock)*
 ||
 |||
-|2023-12-31|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-IN4004784311_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-IN4004784311_UHD.jpg)|
-||*Copyright: Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)*
+|2024-01-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SleepingFox_EN-IN4256691389_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepingFox_EN-IN4256691389_UHD.jpg)|
+||*Copyright: Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)*
 ||
 |||
-|2024-01-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ReveillonBrazil_PT-BR9820187694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReveillonBrazil_PT-BR9820187694_UHD.jpg)|
-||*Copyright: Fogos de artifício na festa de Ano Novo na praia de Copacabana (© Pulsar Imagens/Alamy)*
+|2024-01-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SleepingFox_PT-BR0026523663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepingFox_PT-BR0026523663_UHD.jpg)|
+||*Copyright: Raposa-vermelha dormindo na neve, Abruzzo, Itália (© marco vancini/500px/Getty Images)*
 ||
 |||
-|2023-12-31|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ThailandNewYears_FR-FR9400381287_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandNewYears_FR-FR9400381287_UHD.jpg)|
-||*Copyright: Feux d'artifice sur Phra Nakhon Khiri, Phetchaburi, Thaïlande (© noomcpk/Shutterstock)*
+|2024-01-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SleepingFox_FR-FR9573665261_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepingFox_FR-FR9573665261_UHD.jpg)|
+||*Copyright: Renard roux dormant dans la neige, Abruzzes, Italie (© marco vancini/500px/Getty Images)*
 ||
 |||
-|2023-12-31|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ThailandNewYears_DE-DE0040209012_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandNewYears_DE-DE0040209012_UHD.jpg)|
-||*Copyright: Feuerwerk in Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)*
+|2024-01-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SleepingFox_DE-DE0284095330_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepingFox_DE-DE0284095330_UHD.jpg)|
+||*Copyright: Schlafender Rotfuchs im Schnee, Abruzzen, Italien (© marco vancini/500px/Getty Images)*
 ||
 |||
-|2024-01-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-CA2541480849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-CA2541480849_UHD.jpg)|
-||*Copyright: Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)*
+|2024-01-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SleepingFox_EN-CA4697579541_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepingFox_EN-CA4697579541_UHD.jpg)|
+||*Copyright: Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)*
 ||
 |||
-|2024-01-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-GB2689906608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-GB2689906608_UHD.jpg)|
-||*Copyright: Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)*
+|2024-01-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SleepingFox_EN-GB2968569198_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepingFox_EN-GB2968569198_UHD.jpg)|
+||*Copyright: Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)*
 ||
 |||
-|2023-12-31|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SantaMariaVenice_1185725818_IT-IT0984119913_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaMariaVenice_1185725818_IT-IT0984119913_UHD.jpg)|
-||*Copyright: Fuochi artificiali di Venezia, Italia (© Patryk Kosmider/Getty Images)*
+|2024-01-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SleepingFox_IT-IT1479703607_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepingFox_IT-IT1479703607_UHD.jpg)|
+||*Copyright: Volpe che sonnecchia nella neve, Abruzzo, Italia (© Marco Vancini/500px/Getty Images)*
 ||
 |||
-|2023-12-31|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SpainNewYear_ES-ES8250941524_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainNewYear_ES-ES8250941524_UHD.jpg)|
-||*Copyright: Año Nuevo en la Puerta del Sol, Madrid, España (© ADDICTIVE STOCK CREATIVES/Alamy Stock Photo)*
+|2024-01-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SleepingFox_ES-ES8416762367_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepingFox_ES-ES8416762367_UHD.jpg)|
+||*Copyright: Zorro rojo durmiendo en la nieve, Abruzzo, Italia (© marco vancini/500px/Getty Images)*
 ||
 |||
-|2024-01-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ThailandNewYears_FR-CA3518368515_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandNewYears_FR-CA3518368515_UHD.jpg)|
-||*Copyright: Feux d'artifice sur Phra Nakhon Khiri, Phetchaburi, Thaïlande (© noomcpk/Shutterstock)*
+|2024-01-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SleepingFox_FR-CA8714534728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepingFox_FR-CA8714534728_UHD.jpg)|
+||*Copyright: Renard roux dormant dans la neige, Abruzzes, Italie (© marco vancini/500px/Getty Images)*
 ||
 |||
 
