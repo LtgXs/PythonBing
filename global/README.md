@@ -6,9 +6,9 @@
 ||*Copyright: Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)*
 ||
 |||
-|2024-01-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Sunrise2024_JA-JP1927003758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Sunrise2024_JA-JP1927003758_UHD.jpg)|
-||*Copyright: 本栖湖から見る富士山の日の出, 山梨県 (© Sakarin Sawasdinaka/Shutterstock)*
+|2024-01-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BhutanSolstice_JA-JP1805849873_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanSolstice_JA-JP1805849873_UHD.jpg)|
+||*Copyright: ポブジカ渓谷, ブータン (© John Warburton-Lee/DanitaDelimont.com)*
 ||
 |||
 |2024-01-01|**Region: en-IN**||
