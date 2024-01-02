@@ -6,9 +6,9 @@
 ||*Copyright: Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)*
 ||
 |||
-|2024-01-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BhutanSolstice_JA-JP1805849873_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanSolstice_JA-JP1805849873_UHD.jpg)|
-||*Copyright: ポブジカ渓谷, ブータン (© John Warburton-Lee/DanitaDelimont.com)*
+|2024-01-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BodleianCeiling_JA-JP1889636385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_JA-JP1889636385_UHD.jpg)|
+||*Copyright: オックスフォード大学のボドリアン図書館, イギリス (© Andrew Holt/Getty Images)*
 ||
 |||
 |2024-01-02|**Region: en-IN**||

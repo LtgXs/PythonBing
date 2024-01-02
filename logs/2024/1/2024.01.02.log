@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:21:55] Picture infomations saved to  global/fr-CA/README.md
 [09:21:55] Picture infomations saved to global/fr-CA/history/2024/01/03_fr-CA.md
 Program exit at 09:21:55
+
+Program started at 16:10:39
+Operating System Name: Linux
+Operating System Version: #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az837-394
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[16:10:39] Start geting CN Bing Wallpaper
+[16:10:39] Successful get url: https://www.bing.com/th?id=OHR.MinnewankaLake_ZH-CN3020982568_UHD.jpg
+[16:10:40] Image saved to img/background.jpg
+[16:10:40] Info saved to README.md
+[16:10:40] Image saved to history/2024/01/03.md
+[16:10:40] Start geting global Bing Wallpaper, region=en-US, local time is 2024-01-02 11:10:40.147345-05:00
+[16:10:40] Successful get url: https://www.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg
+[16:10:40] Picture infomations saved to  global/en-US/README.md
+[16:10:40] Picture infomations saved to global/en-US/history/2024/01/03_en-US.md
+[16:10:40] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-01-03 01:10:40.372027+09:00
+[16:10:40] Successful get url: https://www.bing.com/th?id=OHR.BodleianCeiling_JA-JP1889636385_UHD.jpg
+[16:10:40] Picture infomations saved to  global/ja-JP/README.md
+[16:10:40] Picture infomations saved to global/ja-JP/history/2024/01/03_ja-JP.md
+[16:10:40] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-01-02 21:40:40.586024+05:30
+[16:10:40] Successful get url: https://www.bing.com/th?id=OHR.BhutanSolstice_EN-IN4523335748_UHD.jpg
+[16:10:40] Picture infomations saved to  global/en-IN/README.md
+[16:10:40] Picture infomations saved to global/en-IN/history/2024/01/02_en-IN.md
+[16:10:40] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-01-02 13:10:40.801798-03:00
+[16:10:40] Successful get url: https://www.bing.com/th?id=OHR.BhutanSolstice_PT-BR0103911356_UHD.jpg
+[16:10:41] Picture infomations saved to  global/pt-BR/README.md
+[16:10:41] Picture infomations saved to global/pt-BR/history/2024/01/03_pt-BR.md
+[16:10:41] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-01-02 17:10:41.042580+01:00
+[16:10:41] Successful get url: https://www.bing.com/th?id=OHR.BhutanSolstice_FR-FR0006679350_UHD.jpg
+[16:10:41] Picture infomations saved to  global/fr-FR/README.md
+[16:10:41] Picture infomations saved to global/fr-FR/history/2024/01/02_fr-FR.md
+[16:10:41] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-01-02 17:10:41.248531+01:00
+[16:10:41] Successful get url: https://www.bing.com/th?id=OHR.BhutanSolstice_DE-DE0513592693_UHD.jpg
+[16:10:41] Picture infomations saved to  global/de-DE/README.md
+[16:10:41] Picture infomations saved to global/de-DE/history/2024/01/02_de-DE.md
+[16:10:41] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-01-02 11:10:41.475867-05:00
+[16:10:41] Successful get url: https://www.bing.com/th?id=OHR.BhutanSolstice_EN-CA3332703739_UHD.jpg
+[16:10:41] Picture infomations saved to  global/en-CA/README.md
+[16:10:41] Picture infomations saved to global/en-CA/history/2024/01/03_en-CA.md
+[16:10:41] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-01-02 16:10:41.645550+00:00
+[16:10:41] Successful get url: https://www.bing.com/th?id=OHR.BhutanSolstice_EN-GB3360165069_UHD.jpg
+[16:10:41] Picture infomations saved to  global/en-GB/README.md
+[16:10:41] Picture infomations saved to global/en-GB/history/2024/01/03_en-GB.md
+[16:10:41] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-01-02 17:10:41.860670+01:00
+[16:10:41] Successful get url: https://www.bing.com/th?id=OHR.BhutanSolstice_IT-IT4114371274_UHD.jpg
+[16:10:42] Picture infomations saved to  global/it-IT/README.md
+[16:10:42] Picture infomations saved to global/it-IT/history/2024/01/02_it-IT.md
+[16:10:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-01-02 17:10:42.064909+01:00
+[16:10:42] Successful get url: https://www.bing.com/th?id=OHR.BhutanSolstice_ES-ES8582320012_UHD.jpg
+[16:10:42] Picture infomations saved to  global/es-ES/README.md
+[16:10:42] Picture infomations saved to global/es-ES/history/2024/01/02_es-ES.md
+[16:10:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-01-02 11:10:42.288165-05:00
+[16:10:42] Successful get url: https://www.bing.com/th?id=OHR.BhutanSolstice_FR-CA9052135514_UHD.jpg
+[16:10:42] Picture infomations saved to  global/fr-CA/README.md
+[16:10:42] Picture infomations saved to global/fr-CA/history/2024/01/03_fr-CA.md
+Program exit at 16:10:42
