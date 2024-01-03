@@ -6,9 +6,9 @@
 ||*Copyright: Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)*
 ||
 |||
-|2024-01-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BodleianCeiling_JA-JP1889636385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_JA-JP1889636385_UHD.jpg)|
-||*Copyright: オックスフォード大学のボドリアン図書館, イギリス (© Andrew Holt/Getty Images)*
+|2024-01-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GoldenGateLight_JA-JP2205373586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_JA-JP2205373586_UHD.jpg)|
+||*Copyright: ゴールデン・ゲート・ブリッジ, 米国 サンフランシスコ (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
 |2024-01-03|**Region: en-IN**||
