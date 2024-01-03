@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-03|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg)|
-||*Copyright: Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)*
+|2024-01-04|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg)|
+||*Copyright: Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)*
 ||
 |||
 |2024-01-03|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: オックスフォード大学のボドリアン図書館, イギリス (© Andrew Holt/Getty Images)*
 ||
 |||
-|2024-01-02|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BhutanSolstice_EN-IN4523335748_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanSolstice_EN-IN4523335748_UHD.jpg)|
-||*Copyright: Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)*
+|2024-01-03|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.VirupakshaTempleIN_EN-IN4741302858_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VirupakshaTempleIN_EN-IN4741302858_UHD.jpg)|
+||*Copyright: Virupaksha temple in the ancient city of Vijayanagar at Hampi, Karnataka, India. (© leshiy985/shutterstock)*
 ||
 |||
-|2024-01-03|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BhutanSolstice_PT-BR0103911356_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanSolstice_PT-BR0103911356_UHD.jpg)|
-||*Copyright: Bandeiras de oração no Vale de Phobjikha, Butão (© John Warburton-Lee/DanitaDelimont.com)*
+|2024-01-04|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BodleianCeiling_PT-BR0267945002_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_PT-BR0267945002_UHD.jpg)|
+||*Copyright: Biblioteca Bodleian, Universidade de Oxford, Inglaterra (© Andrew Holt/Getty Images)*
 ||
 |||
-|2024-01-02|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BhutanSolstice_FR-FR0006679350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanSolstice_FR-FR0006679350_UHD.jpg)|
-||*Copyright: Drapeaux de prière dans la vallée de Phobjikha, Bhoutan (© John Warburton-Lee/DanitaDelimont.com)*
+|2024-01-03|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Cheserys_FR-FR0495311297_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Cheserys_FR-FR0495311297_UHD.jpg)|
+||*Copyright: Coucher de soleil sur les lacs des Chéserys, Chamonix-Mont Blanc, France (© Smit/Shutterstock)*
 ||
 |||
-|2024-01-02|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BhutanSolstice_DE-DE0513592693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanSolstice_DE-DE0513592693_UHD.jpg)|
-||*Copyright: Gebetsfahnen im Phobjikha-Tal, Bhutan (© John Warburton-Lee/DanitaDelimont.com)*
+|2024-01-03|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BodleianCeiling_DE-DE0740071981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_DE-DE0740071981_UHD.jpg)|
+||*Copyright: Bodleian Library, Universität von Oxford, England (© Andrew Holt/Getty Images)*
 ||
 |||
-|2024-01-03|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BhutanSolstice_EN-CA3332703739_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanSolstice_EN-CA3332703739_UHD.jpg)|
-||*Copyright: Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)*
+|2024-01-04|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-CA4231401380_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-CA4231401380_UHD.jpg)|
+||*Copyright: Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)*
 ||
 |||
-|2024-01-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BhutanSolstice_EN-GB3360165069_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanSolstice_EN-GB3360165069_UHD.jpg)|
-||*Copyright: Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)*
+|2024-01-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-GB7979385278_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-GB7979385278_UHD.jpg)|
+||*Copyright: Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)*
 ||
 |||
-|2024-01-02|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BhutanSolstice_IT-IT4114371274_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanSolstice_IT-IT4114371274_UHD.jpg)|
-||*Copyright: Bandiere di preghiera, Valle di Phobjikha, Bhutan (© John Warburton-Lee/DanitaDelimont.com)*
+|2024-01-03|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BodleianCeiling_IT-IT4543985613_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_IT-IT4543985613_UHD.jpg)|
+||*Copyright: Biblioteca di Bodleian, Università di Oxford, Inghilterra (© Andrew Holt/Getty Images)*
 ||
 |||
-|2024-01-02|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BhutanSolstice_ES-ES8582320012_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanSolstice_ES-ES8582320012_UHD.jpg)|
-||*Copyright: Banderas de oración en el valle de Phobjikha, Bután (© John Warburton-Lee/DanitaDelimont.com)*
+|2024-01-03|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BodleianCeiling_ES-ES8751450139_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_ES-ES8751450139_UHD.jpg)|
+||*Copyright: Biblioteca Bodleian, Universidad de Oxford, Inglaterra (© Andrew Holt/Getty Images)*
 ||
 |||
-|2024-01-03|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BhutanSolstice_FR-CA9052135514_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanSolstice_FR-CA9052135514_UHD.jpg)|
-||*Copyright: Drapeaux de prière dans la vallée de Phobjikha, Bhoutan (© John Warburton-Lee/DanitaDelimont.com)*
+|2024-01-04|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BodleianCeiling_FR-CA9474362716_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_FR-CA9474362716_UHD.jpg)|
+||*Copyright: Bibliothèque Bodléienne, Université d'Oxford, Angleterre (© Andrew Holt/Getty Images)*
 ||
 |||
 

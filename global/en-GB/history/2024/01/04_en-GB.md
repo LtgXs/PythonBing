@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2024-01-04
+## History Bing Wallpaper
+Wallpaper date: 2024-01-04
 ![](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-GB7979385278_UHD.jpg&w=1000)Download: [Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-GB7979385278_UHD.jpg)
 
 Auto get programm by LtgX
