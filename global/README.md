@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg)|
-||*Copyright: Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)*
+|2024-01-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg)|
+||*Copyright: Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
 |2024-01-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ゴールデン・ゲート・ブリッジ, 米国 サンフランシスコ (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2024-01-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.VirupakshaTempleIN_EN-IN4741302858_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VirupakshaTempleIN_EN-IN4741302858_UHD.jpg)|
-||*Copyright: Virupaksha temple in the ancient city of Vijayanagar at Hampi, Karnataka, India. (© leshiy985/shutterstock)*
+|2024-01-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-IN5018210556_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-IN5018210556_UHD.jpg)|
+||*Copyright: Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2024-01-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BodleianCeiling_PT-BR0267945002_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_PT-BR0267945002_UHD.jpg)|
-||*Copyright: Biblioteca Bodleian, Universidade de Oxford, Inglaterra (© Andrew Holt/Getty Images)*
+|2024-01-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GoldenGateLight_PT-BR0467523919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_PT-BR0467523919_UHD.jpg)|
+||*Copyright: A Ponte Golden Gate, San Francisco, Califórnia, EUA (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2024-01-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.Cheserys_FR-FR0495311297_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Cheserys_FR-FR0495311297_UHD.jpg)|
-||*Copyright: Coucher de soleil sur les lacs des Chéserys, Chamonix-Mont Blanc, France (© Smit/Shutterstock)*
+|2024-01-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GoldenGateLight_FR-FR0705317378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_FR-FR0705317378_UHD.jpg)|
+||*Copyright: Pont du Golden Gate, San Francisco, Californie, États-Unis (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2024-01-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BodleianCeiling_DE-DE0740071981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_DE-DE0740071981_UHD.jpg)|
-||*Copyright: Bodleian Library, Universität von Oxford, England (© Andrew Holt/Getty Images)*
+|2024-01-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.StPeterMonastery_DE-DE0883907232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StPeterMonastery_DE-DE0883907232_UHD.jpg)|
+||*Copyright: Klosterkirche St. Peter auf dem Schwarzwald, Südschwarzwald, Baden-Württemberg (© Reinhard Schmid/Huber/eStock Photo)*
 ||
 |||
-|2024-01-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-CA4231401380_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-CA4231401380_UHD.jpg)|
-||*Copyright: Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)*
+|2024-01-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-CA5633568958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-CA5633568958_UHD.jpg)|
+||*Copyright: Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2024-01-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-GB7979385278_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-GB7979385278_UHD.jpg)|
-||*Copyright: Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)*
+|2024-01-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-GB6303595201_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-GB6303595201_UHD.jpg)|
+||*Copyright: Golden Gate Bridge, San Francisco, California, USA (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2024-01-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BodleianCeiling_IT-IT4543985613_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_IT-IT4543985613_UHD.jpg)|
-||*Copyright: Biblioteca di Bodleian, Università di Oxford, Inghilterra (© Andrew Holt/Getty Images)*
+|2024-01-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GoldenGateLight_IT-IT6075752946_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_IT-IT6075752946_UHD.jpg)|
+||*Copyright: Golden Gate Bridge, San Francisco, California, Stati Uniti (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2024-01-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BodleianCeiling_ES-ES8751450139_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_ES-ES8751450139_UHD.jpg)|
-||*Copyright: Biblioteca Bodleian, Universidad de Oxford, Inglaterra (© Andrew Holt/Getty Images)*
+|2024-01-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GoldenGateLight_ES-ES8887697115_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_ES-ES8887697115_UHD.jpg)|
+||*Copyright: Puente Golden Gate, San Francisco, California, EE.UU. (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2024-01-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BodleianCeiling_FR-CA9474362716_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodleianCeiling_FR-CA9474362716_UHD.jpg)|
-||*Copyright: Bibliothèque Bodléienne, Université d'Oxford, Angleterre (© Andrew Holt/Getty Images)*
+|2024-01-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GoldenGateLight_FR-CA9672349267_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_FR-CA9672349267_UHD.jpg)|
+||*Copyright: Pont du Golden Gate, San Francisco, Californie, États-Unis (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
 
