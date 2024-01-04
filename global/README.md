@@ -6,9 +6,9 @@
 ||*Copyright: Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2024-01-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GoldenGateLight_JA-JP2205373586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_JA-JP2205373586_UHD.jpg)|
-||*Copyright: ゴールデン・ゲート・ブリッジ, 米国 サンフランシスコ (© Jim Patterson/Tandem Stills + Motion)*
+|2024-01-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HarbinFestival_JA-JP2258801493_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HarbinFestival_JA-JP2258801493_UHD.jpg)|
+||*Copyright: ハルビン氷祭り, 中国 (© WANG ZHAO/AFP/Getty Images)*
 ||
 |||
 |2024-01-04|**Region: en-IN**||
