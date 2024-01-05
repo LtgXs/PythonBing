@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg)|
-||*Copyright: Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)*
+|2024-01-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg)|
+||*Copyright: International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)*
 ||
 |||
 |2024-01-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ハルビン氷祭り, 中国 (© WANG ZHAO/AFP/Getty Images)*
 ||
 |||
-|2024-01-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-IN5018210556_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-IN5018210556_UHD.jpg)|
-||*Copyright: Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)*
+|2024-01-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HarbinFestival_EN-IN5886314487_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HarbinFestival_EN-IN5886314487_UHD.jpg)|
+||*Copyright: International Ice and Snow Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)*
 ||
 |||
-|2024-01-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GoldenGateLight_PT-BR0467523919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_PT-BR0467523919_UHD.jpg)|
-||*Copyright: A Ponte Golden Gate, San Francisco, Califórnia, EUA (© Jim Patterson/Tandem Stills + Motion)*
+|2024-01-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SunsetPantanal_PT-BR1044442706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPantanal_PT-BR1044442706_UHD.jpg)|
+||*Copyright: Um belo pôr do sol no Pantanal do Brasil (© Lucas Ninno/Getty Images)*
 ||
 |||
-|2024-01-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GoldenGateLight_FR-FR0705317378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_FR-FR0705317378_UHD.jpg)|
-||*Copyright: Pont du Golden Gate, San Francisco, Californie, États-Unis (© Jim Patterson/Tandem Stills + Motion)*
+|2024-01-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HarbinFestival_FR-FR0937758437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HarbinFestival_FR-FR0937758437_UHD.jpg)|
+||*Copyright: Festival international de la glace et de la neige, Harbin, Chine (© WANG ZHAO/AFP/Getty Images)*
 ||
 |||
-|2024-01-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.StPeterMonastery_DE-DE0883907232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StPeterMonastery_DE-DE0883907232_UHD.jpg)|
-||*Copyright: Klosterkirche St. Peter auf dem Schwarzwald, Südschwarzwald, Baden-Württemberg (© Reinhard Schmid/Huber/eStock Photo)*
+|2024-01-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HarbinFestival_DE-DE1103368312_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HarbinFestival_DE-DE1103368312_UHD.jpg)|
+||*Copyright: Harbiner Internationales Eis- und Schneefest, Harbin, China (© WANG ZHAO/AFP/Getty Images)*
 ||
 |||
-|2024-01-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-CA5633568958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-CA5633568958_UHD.jpg)|
-||*Copyright: Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)*
+|2024-01-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HarbinFestival_EN-CA4930649632_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HarbinFestival_EN-CA4930649632_UHD.jpg)|
+||*Copyright: International Ice and Snow Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)*
 ||
 |||
-|2024-01-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-GB6303595201_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-GB6303595201_UHD.jpg)|
-||*Copyright: Golden Gate Bridge, San Francisco, California, USA (© Jim Patterson/Tandem Stills + Motion)*
+|2024-01-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HarbinFestival_EN-GB9198021502_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HarbinFestival_EN-GB9198021502_UHD.jpg)|
+||*Copyright: International Ice and Snow Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)*
 ||
 |||
-|2024-01-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GoldenGateLight_IT-IT6075752946_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_IT-IT6075752946_UHD.jpg)|
-||*Copyright: Golden Gate Bridge, San Francisco, California, Stati Uniti (© Jim Patterson/Tandem Stills + Motion)*
+|2024-01-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HarbinFestival_IT-IT2915874871_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HarbinFestival_IT-IT2915874871_UHD.jpg)|
+||*Copyright: Festival Internazionale del Ghiaccio e della Neve, Harbin, Cina (© WANG ZHAO/AFP/Getty Images)*
 ||
 |||
-|2024-01-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GoldenGateLight_ES-ES8887697115_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_ES-ES8887697115_UHD.jpg)|
-||*Copyright: Puente Golden Gate, San Francisco, California, EE.UU. (© Jim Patterson/Tandem Stills + Motion)*
+|2024-01-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.KingsDay_ES-ES9269541177_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingsDay_ES-ES9269541177_UHD.jpg)|
+||*Copyright: Mercadillo navideño en la Plaza Mayor, Madrid, España (© Mattia Bicchi/Alamy Stock Photo)*
 ||
 |||
-|2024-01-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.GoldenGateLight_FR-CA9672349267_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_FR-CA9672349267_UHD.jpg)|
-||*Copyright: Pont du Golden Gate, San Francisco, Californie, États-Unis (© Jim Patterson/Tandem Stills + Motion)*
+|2024-01-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HarbinFestival_FR-CA0128827383_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HarbinFestival_FR-CA0128827383_UHD.jpg)|
+||*Copyright: Festival international de la glace et de la neige, Harbin, Chine (© WANG ZHAO/AFP/Getty Images)*
 ||
 |||
 

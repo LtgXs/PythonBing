@@ -1,0 +1,60 @@
+
+Program started at 09:21:59
+Operating System Name: Linux
+Operating System Version: #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1499-580
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[09:21:59] Start geting CN Bing Wallpaper
+[09:21:59] Successful get url: https://www.bing.com/th?id=OHR.AlpsReflecting_ZH-CN4036320440_UHD.jpg
+[09:22:00] Image saved to img/background.jpg
+[09:22:00] Info saved to README.md
+[09:22:00] Image saved to history/2024/01/05.md
+[09:22:00] Start geting global Bing Wallpaper, region=en-US, local time is 2024-01-05 04:22:00.068980-05:00
+[09:22:00] Successful get url: https://www.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg
+[09:22:00] Picture infomations saved to  global/en-US/README.md
+[09:22:00] Picture infomations saved to global/en-US/history/2024/01/06_en-US.md
+[09:22:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-01-05 18:22:00.336463+09:00
+[09:22:00] Successful get url: https://www.bing.com/th?id=OHR.HarbinFestival_JA-JP2258801493_UHD.jpg
+[09:22:00] Picture infomations saved to  global/ja-JP/README.md
+[09:22:00] Picture infomations saved to global/ja-JP/history/2024/01/05_ja-JP.md
+[09:22:00] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-01-05 14:52:00.508191+05:30
+[09:22:00] Successful get url: https://www.bing.com/th?id=OHR.HarbinFestival_EN-IN5886314487_UHD.jpg
+[09:22:00] Picture infomations saved to  global/en-IN/README.md
+[09:22:00] Picture infomations saved to global/en-IN/history/2024/01/05_en-IN.md
+[09:22:00] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-01-05 06:22:00.711061-03:00
+[09:22:00] Successful get url: https://www.bing.com/th?id=OHR.SunsetPantanal_PT-BR1044442706_UHD.jpg
+[09:22:00] Picture infomations saved to  global/pt-BR/README.md
+[09:22:00] Picture infomations saved to global/pt-BR/history/2024/01/06_pt-BR.md
+[09:22:00] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-01-05 10:22:00.914322+01:00
+[09:22:00] Successful get url: https://www.bing.com/th?id=OHR.HarbinFestival_FR-FR0937758437_UHD.jpg
+[09:22:01] Picture infomations saved to  global/fr-FR/README.md
+[09:22:01] Picture infomations saved to global/fr-FR/history/2024/01/05_fr-FR.md
+[09:22:01] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-01-05 10:22:01.094922+01:00
+[09:22:01] Successful get url: https://www.bing.com/th?id=OHR.HarbinFestival_DE-DE1103368312_UHD.jpg
+[09:22:01] Picture infomations saved to  global/de-DE/README.md
+[09:22:01] Picture infomations saved to global/de-DE/history/2024/01/05_de-DE.md
+[09:22:01] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-01-05 04:22:01.318090-05:00
+[09:22:01] Successful get url: https://www.bing.com/th?id=OHR.HarbinFestival_EN-CA4930649632_UHD.jpg
+[09:22:01] Picture infomations saved to  global/en-CA/README.md
+[09:22:01] Picture infomations saved to global/en-CA/history/2024/01/06_en-CA.md
+[09:22:01] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-01-05 09:22:01.485558+00:00
+[09:22:01] Successful get url: https://www.bing.com/th?id=OHR.HarbinFestival_EN-GB9198021502_UHD.jpg
+[09:22:01] Picture infomations saved to  global/en-GB/README.md
+[09:22:01] Picture infomations saved to global/en-GB/history/2024/01/06_en-GB.md
+[09:22:01] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-01-05 10:22:01.651293+01:00
+[09:22:01] Successful get url: https://www.bing.com/th?id=OHR.HarbinFestival_IT-IT2915874871_UHD.jpg
+[09:22:01] Picture infomations saved to  global/it-IT/README.md
+[09:22:01] Picture infomations saved to global/it-IT/history/2024/01/05_it-IT.md
+[09:22:01] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-01-05 10:22:01.876772+01:00
+[09:22:01] Successful get url: https://www.bing.com/th?id=OHR.KingsDay_ES-ES9269541177_UHD.jpg
+[09:22:02] Picture infomations saved to  global/es-ES/README.md
+[09:22:02] Picture infomations saved to global/es-ES/history/2024/01/05_es-ES.md
+[09:22:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-01-05 04:22:02.045643-05:00
+[09:22:02] Successful get url: https://www.bing.com/th?id=OHR.HarbinFestival_FR-CA0128827383_UHD.jpg
+[09:22:02] Picture infomations saved to  global/fr-CA/README.md
+[09:22:02] Picture infomations saved to global/fr-CA/history/2024/01/06_fr-CA.md
+Program exit at 09:22:02
