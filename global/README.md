@@ -6,9 +6,9 @@
 ||*Copyright: International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)*
 ||
 |||
-|2024-01-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HarbinFestival_JA-JP2258801493_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HarbinFestival_JA-JP2258801493_UHD.jpg)|
-||*Copyright: ハルビン氷祭り, 中国 (© WANG ZHAO/AFP/Getty Images)*
+|2024-01-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CrabappleChaffinch_JA-JP2354093241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrabappleChaffinch_JA-JP2354093241_UHD.jpg)|
+||*Copyright: クラブアップルの木とズアオアトリ (© Mark Hamblin/2020VISION/Minden Pictures)*
 ||
 |||
 |2024-01-05|**Region: en-IN**||
