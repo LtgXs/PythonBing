@@ -6,9 +6,9 @@
 ||*Copyright: Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)*
 ||
 |||
-|2024-01-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CrabappleChaffinch_JA-JP2354093241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrabappleChaffinch_JA-JP2354093241_UHD.jpg)|
-||*Copyright: クラブアップルの木とズアオアトリ (© Mark Hamblin/2020VISION/Minden Pictures)*
+|2024-01-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DevilsMarbles_JA-JP2428291852_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsMarbles_JA-JP2428291852_UHD.jpg)|
+||*Copyright: デビルズマーブルズ保護区, オーストラリア (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
 |2024-01-06|**Region: en-IN**||
