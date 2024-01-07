@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-07|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg)|
-||*Copyright: Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)*
+|2024-01-08|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg)|
+||*Copyright: Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
 |2024-01-07|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: デビルズマーブルズ保護区, オーストラリア (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
-|2024-01-06|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CrabappleChaffinch_EN-IN8958634852_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrabappleChaffinch_EN-IN8958634852_UHD.jpg)|
-||*Copyright: Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)*
+|2024-01-07|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.DevilsMarbles_EN-IN6479219710_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsMarbles_EN-IN6479219710_UHD.jpg)|
+||*Copyright: Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
-|2024-01-07|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CrabappleChaffinch_PT-BR1131580779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrabappleChaffinch_PT-BR1131580779_UHD.jpg)|
-||*Copyright: Tentilhão macho pousado em uma macieira (© Mark Hamblin/2020VISION/Minden Pictures)*
+|2024-01-08|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DevilsMarbles_PT-BR1760984393_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsMarbles_PT-BR1760984393_UHD.jpg)|
+||*Copyright: Reserva de Conservação Karlu Karlu, Devils Marbles, Austrália (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
-|2024-01-06|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GuadeloupeCarnival_FR-FR1231104335_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GuadeloupeCarnival_FR-FR1231104335_UHD.jpg)|
-||*Copyright: Antilles françaises, Guadeloupe, brume sur le volcan de la Soufrière (© Walter Bibikow/Getty Images)*
+|2024-01-07|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.DevilsMarbles_FR-FR1418224441_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsMarbles_FR-FR1418224441_UHD.jpg)|
+||*Copyright: Karlu Karlu, Réserve de conservation des billes du diable, Australie (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
-|2024-01-06|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GoldenGateLight_DE-DE1352725160_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenGateLight_DE-DE1352725160_UHD.jpg)|
-||*Copyright: Golden Gate Bridge, San Francisco, Kalifornien, USA (© Jim Patterson/Tandem Stills + Motion)*
+|2024-01-07|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.DevilsMarbles_DE-DE1638220976_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsMarbles_DE-DE1638220976_UHD.jpg)|
+||*Copyright: Karlu Karlu, heilige Stätte der Aborigines, Australien (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
-|2024-01-07|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.VermilionLakesCA_EN-CA5785272161_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VermilionLakesCA_EN-CA5785272161_UHD.jpg)|
-||*Copyright: Vermilion Lakes, Banff, Canada (© Carlos Fernandez/Moment/Getty Images)*
+|2024-01-08|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.DevilsMarbles_EN-CA8561451534_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsMarbles_EN-CA8561451534_UHD.jpg)|
+||*Copyright: Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
-|2024-01-07|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BlueAmsterdam_EN-GB2503528249_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueAmsterdam_EN-GB2503528249_UHD.jpg)|
-||*Copyright: Oud-West neighbourhood, Amsterdam, Netherlands (© George Pachantouris/Getty Images)*
+|2024-01-08|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GreatStapleSnowUK_EN-GB2875416954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreatStapleSnowUK_EN-GB2875416954_UHD.jpg)|
+||*Copyright: Great Staple Tor, Dartmoor National Park (© MattStansfield/E+/Getty Images)*
 ||
 |||
-|2024-01-06|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BefanaPiazzaNavona_459973167_IT-IT4250570937_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BefanaPiazzaNavona_459973167_IT-IT4250570937_UHD.jpg)|
-||*Copyright: Artigianato natalizio a Piazza Navona, Roma (© piola666/Getty Images)*
+|2024-01-07|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DevilsMarbles_IT-IT1859405943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsMarbles_IT-IT1859405943_UHD.jpg)|
+||*Copyright: Riserva Naturale Devils Marbles, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
-|2024-01-06|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CrabappleChaffinch_ES-ES9402342278_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrabappleChaffinch_ES-ES9402342278_UHD.jpg)|
-||*Copyright: Pinzón vulgar macho posado en un manzano cangrejo en invierno (© Mark Hamblin/2020VISION/Minden Pictures)*
+|2024-01-07|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.DevilsMarbles_ES-ES9592851915_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsMarbles_ES-ES9592851915_UHD.jpg)|
+||*Copyright: Karlu Karlu/Reserva Natural Devils Marbles, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
-|2024-01-07|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.VermilionLakesCA_FR-CA0230229812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VermilionLakesCA_FR-CA0230229812_UHD.jpg)|
-||*Copyright: Lacs Vermilion, Banff, Canada (© Carlos Fernandez/Moment/Getty Images)*
+|2024-01-08|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.DevilsMarbles_FR-CA0294680098_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsMarbles_FR-CA0294680098_UHD.jpg)|
+||*Copyright: Karlu Karlu, Réserve de conservation des billes du diable, Australie (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
 
