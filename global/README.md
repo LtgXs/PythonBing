@@ -6,9 +6,9 @@
 ||*Copyright: Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
-|2024-01-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DevilsMarbles_JA-JP2428291852_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsMarbles_JA-JP2428291852_UHD.jpg)|
-||*Copyright: デビルズマーブルズ保護区, オーストラリア (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-01-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BerninaPass_JA-JP7712918425_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerninaPass_JA-JP7712918425_UHD.jpg)|
+||*Copyright: ベルニナ峠, スイス (© Francesco Bergamaschi/Getty Images)*
 ||
 |||
 |2024-01-07|**Region: en-IN**||
