@@ -6,9 +6,9 @@
 ||*Copyright: Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)*
 ||
 |||
-|2024-01-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BerninaPass_JA-JP7712918425_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerninaPass_JA-JP7712918425_UHD.jpg)|
-||*Copyright: ベルニナ峠, スイス (© Francesco Bergamaschi/Getty Images)*
+|2024-01-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BalloonDay_JA-JP2573832501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalloonDay_JA-JP2573832501_UHD.jpg)|
+||*Copyright: リオ・グランデ川上空に舞い上がる気球, 米国 コロラド州 (© Jennifer MacCornack/Shutterstock)*
 ||
 |||
 |2024-01-08|**Region: en-IN**||
