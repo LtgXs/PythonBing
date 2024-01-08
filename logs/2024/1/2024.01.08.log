@@ -1,0 +1,60 @@
+
+Program started at 09:22:53
+Operating System Name: Linux
+Operating System Version: #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1022-218
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[09:22:53] Start geting CN Bing Wallpaper
+[09:22:53] Successful get url: https://www.bing.com/th?id=OHR.BerninaPass_ZH-CN5776010452_UHD.jpg
+[09:22:53] Image saved to img/background.jpg
+[09:22:53] Info saved to README.md
+[09:22:53] Image saved to history/2024/01/08.md
+[09:22:53] Start geting global Bing Wallpaper, region=en-US, local time is 2024-01-08 04:22:53.427346-05:00
+[09:22:53] Successful get url: https://www.bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg
+[09:22:53] Picture infomations saved to  global/en-US/README.md
+[09:22:53] Picture infomations saved to global/en-US/history/2024/01/09_en-US.md
+[09:22:53] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-01-08 18:22:53.598391+09:00
+[09:22:53] Successful get url: https://www.bing.com/th?id=OHR.BerninaPass_JA-JP7712918425_UHD.jpg
+[09:22:53] Picture infomations saved to  global/ja-JP/README.md
+[09:22:53] Picture infomations saved to global/ja-JP/history/2024/01/08_ja-JP.md
+[09:22:53] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-01-08 14:52:53.797226+05:30
+[09:22:53] Successful get url: https://www.bing.com/th?id=OHR.BerninaPass_EN-IN9489085308_UHD.jpg
+[09:22:53] Picture infomations saved to  global/en-IN/README.md
+[09:22:53] Picture infomations saved to global/en-IN/history/2024/01/08_en-IN.md
+[09:22:53] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-01-08 06:22:53.983039-03:00
+[09:22:54] Successful get url: https://www.bing.com/th?id=OHR.BerninaPass_PT-BR1871424589_UHD.jpg
+[09:22:54] Picture infomations saved to  global/pt-BR/README.md
+[09:22:54] Picture infomations saved to global/pt-BR/history/2024/01/09_pt-BR.md
+[09:22:54] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-01-08 10:22:54.166981+01:00
+[09:22:54] Successful get url: https://www.bing.com/th?id=OHR.BerninaPass_FR-FR1590880403_UHD.jpg
+[09:22:54] Picture infomations saved to  global/fr-FR/README.md
+[09:22:54] Picture infomations saved to global/fr-FR/history/2024/01/08_fr-FR.md
+[09:22:54] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-01-08 10:22:54.428370+01:00
+[09:22:54] Successful get url: https://www.bing.com/th?id=OHR.BerninaPass_DE-DE1884250361_UHD.jpg
+[09:22:54] Picture infomations saved to  global/de-DE/README.md
+[09:22:54] Picture infomations saved to global/de-DE/history/2024/01/08_de-DE.md
+[09:22:54] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-01-08 04:22:54.605856-05:00
+[09:22:54] Successful get url: https://www.bing.com/th?id=OHR.BerninaPass_EN-CA0858357158_UHD.jpg
+[09:22:54] Picture infomations saved to  global/en-CA/README.md
+[09:22:54] Picture infomations saved to global/en-CA/history/2024/01/09_en-CA.md
+[09:22:54] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-01-08 09:22:54.792947+00:00
+[09:22:54] Successful get url: https://www.bing.com/th?id=OHR.BerninaPass_EN-GB1258077580_UHD.jpg
+[09:22:54] Picture infomations saved to  global/en-GB/README.md
+[09:22:54] Picture infomations saved to global/en-GB/history/2024/01/09_en-GB.md
+[09:22:54] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-01-08 10:22:54.975868+01:00
+[09:22:55] Successful get url: https://www.bing.com/th?id=OHR.BerninaPass_IT-IT0635782959_UHD.jpg
+[09:22:55] Picture infomations saved to  global/it-IT/README.md
+[09:22:55] Picture infomations saved to global/it-IT/history/2024/01/08_it-IT.md
+[09:22:55] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-01-08 10:22:55.154128+01:00
+[09:22:55] Successful get url: https://www.bing.com/th?id=OHR.BerninaPass_ES-ES9729899080_UHD.jpg
+[09:22:55] Picture infomations saved to  global/es-ES/README.md
+[09:22:55] Picture infomations saved to global/es-ES/history/2024/01/08_es-ES.md
+[09:22:55] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-01-08 04:22:55.352244-05:00
+[09:22:55] Successful get url: https://www.bing.com/th?id=OHR.BerninaPass_FR-CA0491163310_UHD.jpg
+[09:22:55] Picture infomations saved to  global/fr-CA/README.md
+[09:22:55] Picture infomations saved to global/fr-CA/history/2024/01/09_fr-CA.md
+Program exit at 09:22:55
