@@ -6,9 +6,9 @@
 ||*Copyright: Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)*
 ||
 |||
-|2024-01-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BalloonDay_JA-JP2573832501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalloonDay_JA-JP2573832501_UHD.jpg)|
-||*Copyright: リオ・グランデ川上空に舞い上がる気球, 米国 コロラド州 (© Jennifer MacCornack/Shutterstock)*
+|2024-01-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MilopotamosStairs_JA-JP2627387814_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilopotamosStairs_JA-JP2627387814_UHD.jpg)|
+||*Copyright: ミロポタモスの海岸にある階段, ギリシャ (© Orestis Zoumpos/Amazing Aerial Agency)*
 ||
 |||
 |2024-01-09|**Region: en-IN**||
