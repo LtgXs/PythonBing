@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-09|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg)|
-||*Copyright: Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)*
+|2024-01-10|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg)|
+||*Copyright: Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)*
 ||
 |||
 |2024-01-09|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: リオ・グランデ川上空に舞い上がる気球, 米国 コロラド州 (© Jennifer MacCornack/Shutterstock)*
 ||
 |||
-|2024-01-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BerninaPass_EN-IN9489085308_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerninaPass_EN-IN9489085308_UHD.jpg)|
-||*Copyright: Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)*
+|2024-01-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GayathriReservoir_EN-IN7178721819_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GayathriReservoir_EN-IN7178721819_UHD.jpg)|
+||*Copyright: Gayathri Reservoir, near Chitradurga, Karnataka, India. (© Amith Nag Photography/Getty images)*
 ||
 |||
-|2024-01-09|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BerninaPass_PT-BR1871424589_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerninaPass_PT-BR1871424589_UHD.jpg)|
-||*Copyright: Esquiador no Passo Bernina, Grisões, Suíça (© Francesco Bergamaschi/Getty Images)*
+|2024-01-10|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BalloonDay_PT-BR2020170449_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalloonDay_PT-BR2020170449_UHD.jpg)|
+||*Copyright: Balões de ar quente sobre o Rio Grande, Albuquerque, Novo México, EUA (© Jennifer MacCornack/Shutterstock)*
 ||
 |||
-|2024-01-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BerninaPass_FR-FR1590880403_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerninaPass_FR-FR1590880403_UHD.jpg)|
-||*Copyright: Skieur au col de la Bernina, Grisons, Suisse (© Francesco Bergamaschi/Getty Images)*
+|2024-01-09|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BalloonDay_FR-FR1975351459_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalloonDay_FR-FR1975351459_UHD.jpg)|
+||*Copyright: Montgolfières au-dessus du Rio Grande, Albuquerque, Nouveau Mexique, États-Unis (© Jennifer MacCornack/Shutterstock)*
 ||
 |||
-|2024-01-08|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BerninaPass_DE-DE1884250361_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerninaPass_DE-DE1884250361_UHD.jpg)|
-||*Copyright: Skifahrer am Berninapass, Graubünden, Schweiz (© Francesco Bergamaschi/Getty Images)*
+|2024-01-09|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BalloonDay_DE-DE2164566346_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalloonDay_DE-DE2164566346_UHD.jpg)|
+||*Copyright: Heißluftballons über dem Rio Grande, Albuquerque, New Mexico, USA (© Jennifer MacCornack/Shutterstock)*
 ||
 |||
-|2024-01-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BerninaPass_EN-CA0858357158_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerninaPass_EN-CA0858357158_UHD.jpg)|
-||*Copyright: Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)*
+|2024-01-10|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BalloonDay_EN-CA0285762156_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalloonDay_EN-CA0285762156_UHD.jpg)|
+||*Copyright: Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)*
 ||
 |||
-|2024-01-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BerninaPass_EN-GB1258077580_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerninaPass_EN-GB1258077580_UHD.jpg)|
-||*Copyright: Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)*
+|2024-01-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BalloonDay_EN-GB9560500420_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalloonDay_EN-GB9560500420_UHD.jpg)|
+||*Copyright: Hot air balloons over the Rio Grande, Albuquerque, New Mexico, USA (© Jennifer MacCornack/Shutterstock)*
 ||
 |||
-|2024-01-08|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BerninaPass_IT-IT0635782959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerninaPass_IT-IT0635782959_UHD.jpg)|
-||*Copyright: Sciatore al Passo del Bernina, Grigioni, Svizzera (© Francesco Bergamaschi/Getty Images)*
+|2024-01-09|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BalloonDay_IT-IT9345867684_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalloonDay_IT-IT9345867684_UHD.jpg)|
+||*Copyright: Mongolfiere sopra il Rio Grande, Albuquerque, Nuovo Messico, USA (© Jennifer MacCornack/Shutterstock)*
 ||
 |||
-|2024-01-08|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BerninaPass_ES-ES9729899080_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerninaPass_ES-ES9729899080_UHD.jpg)|
-||*Copyright: Esquiador en el paso de Bernina, Graubunden, Suiza (© Francesco Bergamaschi/Getty Images)*
+|2024-01-09|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BalloonDay_ES-ES6385510449_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalloonDay_ES-ES6385510449_UHD.jpg)|
+||*Copyright: Globos aerostáticos sobre el Río Grande, Albuquerque, Nuevo México, EE.UU. (© Jennifer MacCornack/Shutterstock)*
 ||
 |||
-|2024-01-09|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BerninaPass_FR-CA0491163310_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerninaPass_FR-CA0491163310_UHD.jpg)|
-||*Copyright: Skieur au col de la Bernina, Grisons, Suisse (© Francesco Bergamaschi/Getty Images)*
+|2024-01-10|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BalloonDay_FR-CA0625295007_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalloonDay_FR-CA0625295007_UHD.jpg)|
+||*Copyright: Montgolfières au-dessus du Rio Grande, Albuquerque, Nouveau Mexique, États-Unis (© Jennifer MacCornack/Shutterstock)*
 ||
 |||
 
