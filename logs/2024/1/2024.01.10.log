@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:22:50] Picture infomations saved to  global/fr-CA/README.md
 [09:22:50] Picture infomations saved to global/fr-CA/history/2024/01/11_fr-CA.md
 Program exit at 09:22:50
+
+Program started at 16:12:35
+Operating System Name: Linux
+Operating System Version: #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az801-468
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[16:12:35] Start geting CN Bing Wallpaper
+[16:12:35] Successful get url: https://www.bing.com/th?id=OHR.LynxSnow_ZH-CN8908082275_UHD.jpg
+[16:12:35] Image saved to img/background.jpg
+[16:12:35] Info saved to README.md
+[16:12:35] Image saved to history/2024/01/11.md
+[16:12:35] Start geting global Bing Wallpaper, region=en-US, local time is 2024-01-10 11:12:35.719946-05:00
+[16:12:35] Successful get url: https://www.bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_UHD.jpg
+[16:12:36] Picture infomations saved to  global/en-US/README.md
+[16:12:36] Picture infomations saved to global/en-US/history/2024/01/11_en-US.md
+[16:12:36] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-01-11 01:12:36.155128+09:00
+[16:12:36] Successful get url: https://www.bing.com/th?id=OHR.LynxSnow_JA-JP2676099304_UHD.jpg
+[16:12:36] Picture infomations saved to  global/ja-JP/README.md
+[16:12:36] Picture infomations saved to global/ja-JP/history/2024/01/11_ja-JP.md
+[16:12:36] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-01-10 21:42:36.561088+05:30
+[16:12:36] Successful get url: https://www.bing.com/th?id=OHR.MilopotamosStairs_EN-IN7483499264_UHD.jpg
+[16:12:36] Picture infomations saved to  global/en-IN/README.md
+[16:12:36] Picture infomations saved to global/en-IN/history/2024/01/10_en-IN.md
+[16:12:36] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-01-10 13:12:36.961467-03:00
+[16:12:37] Successful get url: https://www.bing.com/th?id=OHR.MilopotamosStairs_PT-BR2096578395_UHD.jpg
+[16:12:37] Picture infomations saved to  global/pt-BR/README.md
+[16:12:37] Picture infomations saved to global/pt-BR/history/2024/01/11_pt-BR.md
+[16:12:37] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-01-10 17:12:37.361018+01:00
+[16:12:37] Successful get url: https://www.bing.com/th?id=OHR.MilopotamosStairs_FR-FR2141657119_UHD.jpg
+[16:12:37] Picture infomations saved to  global/fr-FR/README.md
+[16:12:37] Picture infomations saved to global/fr-FR/history/2024/01/10_fr-FR.md
+[16:12:37] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-01-10 17:12:37.770464+01:00
+[16:12:37] Successful get url: https://www.bing.com/th?id=OHR.LynxSnow_DE-DE2468940407_UHD.jpg
+[16:12:38] Picture infomations saved to  global/de-DE/README.md
+[16:12:38] Picture infomations saved to global/de-DE/history/2024/01/10_de-DE.md
+[16:12:38] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-01-10 11:12:38.169128-05:00
+[16:12:38] Successful get url: https://www.bing.com/th?id=OHR.MilopotamosStairs_EN-CA9415025805_UHD.jpg
+[16:12:38] Picture infomations saved to  global/en-CA/README.md
+[16:12:38] Picture infomations saved to global/en-CA/history/2024/01/11_en-CA.md
+[16:12:38] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-01-10 16:12:38.565150+00:00
+[16:12:38] Successful get url: https://www.bing.com/th?id=OHR.MilopotamosStairs_EN-GB4757752959_UHD.jpg
+[16:12:38] Picture infomations saved to  global/en-GB/README.md
+[16:12:38] Picture infomations saved to global/en-GB/history/2024/01/11_en-GB.md
+[16:12:38] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-01-10 17:12:38.965156+01:00
+[16:12:39] Successful get url: https://www.bing.com/th?id=OHR.MilopotamosStairs_IT-IT8276211075_UHD.jpg
+[16:12:39] Picture infomations saved to  global/it-IT/README.md
+[16:12:39] Picture infomations saved to global/it-IT/history/2024/01/10_it-IT.md
+[16:12:39] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-01-10 17:12:39.398115+01:00
+[16:12:39] Successful get url: https://www.bing.com/th?id=OHR.MilopotamosStairs_ES-ES9277675627_UHD.jpg
+[16:12:39] Picture infomations saved to  global/es-ES/README.md
+[16:12:39] Picture infomations saved to global/es-ES/history/2024/01/10_es-ES.md
+[16:12:39] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-01-10 11:12:39.821252-05:00
+[16:12:39] Successful get url: https://www.bing.com/th?id=OHR.MilopotamosStairs_FR-CA0783061940_UHD.jpg
+[16:12:40] Picture infomations saved to  global/fr-CA/README.md
+[16:12:40] Picture infomations saved to global/fr-CA/history/2024/01/11_fr-CA.md
+Program exit at 16:12:40

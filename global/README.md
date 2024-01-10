@@ -6,9 +6,9 @@
 ||*Copyright: Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)*
 ||
 |||
-|2024-01-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MilopotamosStairs_JA-JP2627387814_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilopotamosStairs_JA-JP2627387814_UHD.jpg)|
-||*Copyright: ミロポタモスの海岸にある階段, ギリシャ (© Orestis Zoumpos/Amazing Aerial Agency)*
+|2024-01-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LynxSnow_JA-JP2676099304_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynxSnow_JA-JP2676099304_UHD.jpg)|
+||*Copyright: オオヤマネコ (© Jan Stria/Shutterstock)*
 ||
 |||
 |2024-01-10|**Region: en-IN**||
