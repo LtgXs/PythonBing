@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg)|
-||*Copyright: Eurasian lynx in the snow (© Jan Stria/Shutterstock)*
+|2024-01-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg)|
+||*Copyright: Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)*
 ||
 |||
 |2024-01-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 北漢山国立公園, 韓国 (© TRAVEL TAKE PHOTOS/Shutterstock)*
 ||
 |||
-|2024-01-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LynxSnow_EN-IN7700742978_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynxSnow_EN-IN7700742978_UHD.jpg)|
-||*Copyright: Eurasian lynx in the snow (© Jan Stria/Shutterstock)*
+|2024-01-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-IN2243207205_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-IN2243207205_UHD.jpg)|
+||*Copyright: Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)*
 ||
 |||
-|2024-01-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LynxSnow_PT-BR2256931375_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynxSnow_PT-BR2256931375_UHD.jpg)|
-||*Copyright: Lince-euroasiático na neve (© Jan Stria/Shutterstock)*
+|2024-01-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_PT-BR9378454130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_PT-BR9378454130_UHD.jpg)|
+||*Copyright: Parque Nacional de Bukhansan, Coreia do Sul (© TRAVEL TAKE PHOTOS/Shutterstock)*
 ||
 |||
-|2024-01-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LynxSnow_FR-FR2285365573_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynxSnow_FR-FR2285365573_UHD.jpg)|
-||*Copyright: Lynx boréal dans la neige (© Jan Stria/Shutterstock)*
+|2024-01-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_FR-FR2089322284_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_FR-FR2089322284_UHD.jpg)|
+||*Copyright: Parc national de Bukhansan, Corée du Sud (© TRAVEL TAKE PHOTOS/Shutterstock)*
 ||
 |||
-|2024-01-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.OrnamentalAppleTree_DE-DE2719116255_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrnamentalAppleTree_DE-DE2719116255_UHD.jpg)|
-||*Copyright: Früchte-im-Frost-und-Eis-versteckt,-Göttingen (© Duncan Usher/Alamy Stock Foto)*
+|2024-01-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_DE-DE2867363525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_DE-DE2867363525_UHD.jpg)|
+||*Copyright: Bukhansan-Nationalpark, Südkorea (© TRAVEL TAKE PHOTOS/Shutterstock)*
 ||
 |||
-|2024-01-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LynxSnow_EN-CA9725800228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynxSnow_EN-CA9725800228_UHD.jpg)|
-||*Copyright: Eurasian lynx in the snow (© Jan Stria/Shutterstock)*
+|2024-01-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-CA7594639923_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-CA7594639923_UHD.jpg)|
+||*Copyright: Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)*
 ||
 |||
-|2024-01-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LynxSnow_EN-GB4274178722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynxSnow_EN-GB4274178722_UHD.jpg)|
-||*Copyright: Eurasian lynx in the snow (© Jan Stria/Shutterstock)*
+|2024-01-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-GB0341063799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-GB0341063799_UHD.jpg)|
+||*Copyright: Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)*
 ||
 |||
-|2024-01-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LynxSnow_IT-IT4529092262_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynxSnow_IT-IT4529092262_UHD.jpg)|
-||*Copyright: Lince eurasiatica nella neve (© Jan Stria/Shutterstock)*
+|2024-01-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_IT-IT1722160676_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_IT-IT1722160676_UHD.jpg)|
+||*Copyright: Parco Nazionale di Bukhansan, Corea del Sud (© TRAVEL TAKE PHOTOS/Shutterstock)*
 ||
 |||
-|2024-01-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LynxSnow_ES-ES0115513442_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynxSnow_ES-ES0115513442_UHD.jpg)|
-||*Copyright: Lince euroasiático en la nieve (© Jan Stria/Shutterstock)*
+|2024-01-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FestaMajorBarcelona_ES-ES2068839332_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FestaMajorBarcelona_ES-ES2068839332_UHD.jpg)|
+||*Copyright: Imagen aérea de La Sargrada Familia, Barcelona, España (© AirPano LLC/Amazing Aerial Agency)*
 ||
 |||
-|2024-01-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LynxSnow_FR-CA0947513351_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynxSnow_FR-CA0947513351_UHD.jpg)|
-||*Copyright: Lynx boréal dans la neige (© Jan Stria/Shutterstock)*
+|2024-01-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_FR-CA8033910108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_FR-CA8033910108_UHD.jpg)|
+||*Copyright: Parc national de Bukhansan, Corée du Sud (© TRAVEL TAKE PHOTOS/Shutterstock)*
 ||
 |||
 
