@@ -6,9 +6,9 @@
 ||*Copyright: Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)*
 ||
 |||
-|2024-01-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_JA-JP1162904036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_JA-JP1162904036_UHD.jpg)|
-||*Copyright: 北漢山国立公園, 韓国 (© TRAVEL TAKE PHOTOS/Shutterstock)*
+|2024-01-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Daruma2024_JA-JP9897104150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Daruma2024_JA-JP9897104150_UHD.jpg)|
+||*Copyright: 勝尾寺の勝ちダルマ, 大阪府 箕面市 (© feathercollector/Adobe Stock)*
 ||
 |||
 |2024-01-12|**Region: en-IN**||
