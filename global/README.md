@@ -6,9 +6,9 @@
 ||*Copyright: Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)*
 ||
 |||
-|2024-01-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Daruma2024_JA-JP9897104150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Daruma2024_JA-JP9897104150_UHD.jpg)|
-||*Copyright: 勝尾寺の勝ちダルマ, 大阪府 箕面市 (© feathercollector/Adobe Stock)*
+|2024-01-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_JA-JP3605792409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_JA-JP3605792409_UHD.jpg)|
+||*Copyright: 屈斜路湖, 北海道 (© Darrell Gulin/DanitaDelimont.com)*
 ||
 |||
 |2024-01-13|**Region: en-IN**||
