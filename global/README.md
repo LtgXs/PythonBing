@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg)|
-||*Copyright: Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)*
+|2024-01-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg)|
+||*Copyright: Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)*
 ||
 |||
 |2024-01-13|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 勝尾寺の勝ちダルマ, 大阪府 箕面市 (© feathercollector/Adobe Stock)*
 ||
 |||
-|2024-01-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-IN2243207205_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-IN2243207205_UHD.jpg)|
-||*Copyright: Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)*
+|2024-01-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HanaHighway_EN-IN2324182593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_EN-IN2324182593_UHD.jpg)|
+||*Copyright: Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)*
 ||
 |||
-|2024-01-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_PT-BR9378454130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_PT-BR9378454130_UHD.jpg)|
-||*Copyright: Parque Nacional de Bukhansan, Coreia do Sul (© TRAVEL TAKE PHOTOS/Shutterstock)*
+|2024-01-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HanaHighway_PT-BR9575647146_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_PT-BR9575647146_UHD.jpg)|
+||*Copyright: Estrada para Hana, Maui, Havai, EUA (© Matteo Colombo/Getty Images)*
 ||
 |||
-|2024-01-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_FR-FR2089322284_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_FR-FR2089322284_UHD.jpg)|
-||*Copyright: Parc national de Bukhansan, Corée du Sud (© TRAVEL TAKE PHOTOS/Shutterstock)*
+|2024-01-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HanaHighway_FR-FR2322911528_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_FR-FR2322911528_UHD.jpg)|
+||*Copyright: Route d’Hana, Maui, Hawaï, États-Unis (© Matteo Colombo/Getty Images)*
 ||
 |||
-|2024-01-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_DE-DE2867363525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_DE-DE2867363525_UHD.jpg)|
-||*Copyright: Bukhansan-Nationalpark, Südkorea (© TRAVEL TAKE PHOTOS/Shutterstock)*
+|2024-01-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HanaHighway_DE-DE3152977646_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_DE-DE3152977646_UHD.jpg)|
+||*Copyright: Road to Hāna, Maui, Hawaii, USA (© Matteo Colombo/Getty Images)*
 ||
 |||
-|2024-01-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-CA7594639923_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-CA7594639923_UHD.jpg)|
-||*Copyright: Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)*
+|2024-01-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HanaHighway_EN-CA7042798392_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_EN-CA7042798392_UHD.jpg)|
+||*Copyright: Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)*
 ||
 |||
-|2024-01-13|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-GB0341063799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-GB0341063799_UHD.jpg)|
-||*Copyright: Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)*
+|2024-01-14|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HanaHighway_EN-GB1532378824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_EN-GB1532378824_UHD.jpg)|
+||*Copyright: Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)*
 ||
 |||
-|2024-01-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_IT-IT1722160676_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_IT-IT1722160676_UHD.jpg)|
-||*Copyright: Parco Nazionale di Bukhansan, Corea del Sud (© TRAVEL TAKE PHOTOS/Shutterstock)*
+|2024-01-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SanLucanoValley_IT-IT3035454153_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanLucanoValley_IT-IT3035454153_UHD.jpg)|
+||*Copyright: Taibor Agordino, Belluno (© Moreno Geremetta/Alamy)*
 ||
 |||
-|2024-01-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FestaMajorBarcelona_ES-ES2068839332_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FestaMajorBarcelona_ES-ES2068839332_UHD.jpg)|
-||*Copyright: Imagen aérea de La Sargrada Familia, Barcelona, España (© AirPano LLC/Amazing Aerial Agency)*
+|2024-01-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HanaHighway_ES-ES1267688219_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_ES-ES1267688219_UHD.jpg)|
+||*Copyright: Carretera a Hana, Maui, Hawai, EE.UU. (© Matteo Colombo/Getty Images)*
 ||
 |||
-|2024-01-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BukhansanSeoul_FR-CA8033910108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BukhansanSeoul_FR-CA8033910108_UHD.jpg)|
-||*Copyright: Parc national de Bukhansan, Corée du Sud (© TRAVEL TAKE PHOTOS/Shutterstock)*
+|2024-01-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HanaHighway_FR-CA8279096953_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_FR-CA8279096953_UHD.jpg)|
+||*Copyright: Route d’Hana, Maui, Hawaï, États-Unis (© Matteo Colombo/Getty Images)*
 ||
 |||
 
