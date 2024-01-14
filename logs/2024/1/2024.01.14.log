@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:21:16] Picture infomations saved to  global/fr-CA/README.md
 [09:21:16] Picture infomations saved to global/fr-CA/history/2024/01/15_fr-CA.md
 Program exit at 09:21:16
+
+Program started at 16:10:54
+Operating System Name: Linux
+Operating System Version: #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1016-333
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[16:10:54] Start geting CN Bing Wallpaper
+[16:10:54] Successful get url: https://www.bing.com/th?id=OHR.IceChapel_ZH-CN9189733666_UHD.jpg
+[16:10:54] Image saved to img/background.jpg
+[16:10:54] Info saved to README.md
+[16:10:54] Image saved to history/2024/01/15.md
+[16:10:54] Start geting global Bing Wallpaper, region=en-US, local time is 2024-01-14 11:10:54.576910-05:00
+[16:10:54] Successful get url: https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg
+[16:10:54] Picture infomations saved to  global/en-US/README.md
+[16:10:54] Picture infomations saved to global/en-US/history/2024/01/15_en-US.md
+[16:10:54] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-01-15 01:10:54.755162+09:00
+[16:10:54] Successful get url: https://www.bing.com/th?id=OHR.HanaHighway_JA-JP5594909770_UHD.jpg
+[16:10:54] Picture infomations saved to  global/ja-JP/README.md
+[16:10:54] Picture infomations saved to global/ja-JP/history/2024/01/15_ja-JP.md
+[16:10:54] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-01-14 21:40:54.980228+05:30
+[16:10:55] Successful get url: https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-IN2668123953_UHD.jpg
+[16:10:55] Picture infomations saved to  global/en-IN/README.md
+[16:10:55] Picture infomations saved to global/en-IN/history/2024/01/14_en-IN.md
+[16:10:55] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-01-14 13:10:55.204168-03:00
+[16:10:55] Successful get url: https://www.bing.com/th?id=OHR.HokkaidoSwans_PT-BR9743619852_UHD.jpg
+[16:10:55] Picture infomations saved to  global/pt-BR/README.md
+[16:10:55] Picture infomations saved to global/pt-BR/history/2024/01/15_pt-BR.md
+[16:10:55] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-01-14 17:10:55.424071+01:00
+[16:10:55] Successful get url: https://www.bing.com/th?id=OHR.HokkaidoSwans_FR-FR2489851452_UHD.jpg
+[16:10:55] Picture infomations saved to  global/fr-FR/README.md
+[16:10:55] Picture infomations saved to global/fr-FR/history/2024/01/14_fr-FR.md
+[16:10:55] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-01-14 17:10:55.743098+01:00
+[16:10:55] Successful get url: https://www.bing.com/th?id=OHR.HokkaidoSwans_DE-DE3486591797_UHD.jpg
+[16:10:56] Picture infomations saved to  global/de-DE/README.md
+[16:10:56] Picture infomations saved to global/de-DE/history/2024/01/14_de-DE.md
+[16:10:56] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-01-14 11:10:56.113737-05:00
+[16:10:56] Successful get url: https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-CA6678796195_UHD.jpg
+[16:10:56] Picture infomations saved to  global/en-CA/README.md
+[16:10:56] Picture infomations saved to global/en-CA/history/2024/01/15_en-CA.md
+[16:10:56] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-01-14 16:10:56.394795+00:00
+[16:10:56] Successful get url: https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-GB1710828228_UHD.jpg
+[16:10:56] Picture infomations saved to  global/en-GB/README.md
+[16:10:56] Picture infomations saved to global/en-GB/history/2024/01/15_en-GB.md
+[16:10:56] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-01-14 17:10:56.658381+01:00
+[16:10:56] Successful get url: https://www.bing.com/th?id=OHR.HokkaidoSwans_IT-IT3824531235_UHD.jpg
+[16:10:56] Picture infomations saved to  global/it-IT/README.md
+[16:10:56] Picture infomations saved to global/it-IT/history/2024/01/14_it-IT.md
+[16:10:56] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-01-14 17:10:56.872203+01:00
+[16:10:56] Successful get url: https://www.bing.com/th?id=OHR.HokkaidoSwans_ES-ES1414604730_UHD.jpg
+[16:10:57] Picture infomations saved to  global/es-ES/README.md
+[16:10:57] Picture infomations saved to global/es-ES/history/2024/01/14_es-ES.md
+[16:10:57] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-01-14 11:10:57.114275-05:00
+[16:10:57] Successful get url: https://www.bing.com/th?id=OHR.HokkaidoSwans_FR-CA8449575039_UHD.jpg
+[16:10:57] Picture infomations saved to  global/fr-CA/README.md
+[16:10:57] Picture infomations saved to global/fr-CA/history/2024/01/15_fr-CA.md
+Program exit at 16:10:57
