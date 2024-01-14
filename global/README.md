@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-14|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg)|
-||*Copyright: Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)*
+|2024-01-15|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg)|
+||*Copyright: Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)*
 ||
 |||
 |2024-01-14|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 屈斜路湖, 北海道 (© Darrell Gulin/DanitaDelimont.com)*
 ||
 |||
-|2024-01-13|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.HanaHighway_EN-IN2324182593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_EN-IN2324182593_UHD.jpg)|
-||*Copyright: Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)*
+|2024-01-14|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-IN2668123953_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-IN2668123953_UHD.jpg)|
+||*Copyright: Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)*
 ||
 |||
-|2024-01-14|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.HanaHighway_PT-BR9575647146_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_PT-BR9575647146_UHD.jpg)|
-||*Copyright: Estrada para Hana, Maui, Havai, EUA (© Matteo Colombo/Getty Images)*
+|2024-01-15|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_PT-BR9743619852_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_PT-BR9743619852_UHD.jpg)|
+||*Copyright: Cisnes-bravo no Lago Kussharo, Japão (© Darrell Gulin/DanitaDelimont.com)*
 ||
 |||
-|2024-01-13|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HanaHighway_FR-FR2322911528_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_FR-FR2322911528_UHD.jpg)|
-||*Copyright: Route d’Hana, Maui, Hawaï, États-Unis (© Matteo Colombo/Getty Images)*
+|2024-01-14|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_FR-FR2489851452_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_FR-FR2489851452_UHD.jpg)|
+||*Copyright: Cygnes chanteurs sur le lac Kussharo, Japon (© Darrell Gulin/DanitaDelimont.com)*
 ||
 |||
-|2024-01-13|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.HanaHighway_DE-DE3152977646_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_DE-DE3152977646_UHD.jpg)|
-||*Copyright: Road to Hāna, Maui, Hawaii, USA (© Matteo Colombo/Getty Images)*
+|2024-01-14|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_DE-DE3486591797_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_DE-DE3486591797_UHD.jpg)|
+||*Copyright: Singschwäne im Kussharo-See, Hokkaido, Japan (© Darrell Gulin/DanitaDelimont.com)*
 ||
 |||
-|2024-01-14|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HanaHighway_EN-CA7042798392_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_EN-CA7042798392_UHD.jpg)|
-||*Copyright: Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)*
+|2024-01-15|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-CA6678796195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-CA6678796195_UHD.jpg)|
+||*Copyright: Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)*
 ||
 |||
-|2024-01-14|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.HanaHighway_EN-GB1532378824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_EN-GB1532378824_UHD.jpg)|
-||*Copyright: Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)*
+|2024-01-15|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-GB1710828228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-GB1710828228_UHD.jpg)|
+||*Copyright: Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)*
 ||
 |||
-|2024-01-13|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SanLucanoValley_IT-IT3035454153_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanLucanoValley_IT-IT3035454153_UHD.jpg)|
-||*Copyright: Taibor Agordino, Belluno (© Moreno Geremetta/Alamy)*
+|2024-01-14|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_IT-IT3824531235_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_IT-IT3824531235_UHD.jpg)|
+||*Copyright: Cigni sevatici nel Lago di Kussharo, Giappone (© Darrell Gulin/DanitaDelimont.com)*
 ||
 |||
-|2024-01-13|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.HanaHighway_ES-ES1267688219_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_ES-ES1267688219_UHD.jpg)|
-||*Copyright: Carretera a Hana, Maui, Hawai, EE.UU. (© Matteo Colombo/Getty Images)*
+|2024-01-14|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_ES-ES1414604730_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_ES-ES1414604730_UHD.jpg)|
+||*Copyright: Cisnes cantores en el lago Kussharo, Japón (© Darrell Gulin/DanitaDelimont.com)*
 ||
 |||
-|2024-01-14|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HanaHighway_FR-CA8279096953_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_FR-CA8279096953_UHD.jpg)|
-||*Copyright: Route d’Hana, Maui, Hawaï, États-Unis (© Matteo Colombo/Getty Images)*
+|2024-01-15|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_FR-CA8449575039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_FR-CA8449575039_UHD.jpg)|
+||*Copyright: Cygnes chanteurs sur le lac Kussharo, Japon (© Darrell Gulin/DanitaDelimont.com)*
 ||
 |||
 
