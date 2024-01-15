@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg)|
-||*Copyright: Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)*
+|2024-01-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg)|
+||*Copyright: Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)*
 ||
 |||
 |2024-01-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: マウイ島のハナハイウェイ, 米国 ハワイ州 (© Matteo Colombo/Getty Images)*
 ||
 |||
-|2024-01-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-IN2668123953_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-IN2668123953_UHD.jpg)|
-||*Copyright: Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)*
+|2024-01-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MakarSankrantiKites_EN-IN1385639662_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MakarSankrantiKites_EN-IN1385639662_UHD.jpg)|
+||*Copyright: Kite flying in Ahmedabad during the last hour of Uttarayan (© Saumil Shah - flickr.com/saumil/Getty images)*
 ||
 |||
-|2024-01-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_PT-BR9743619852_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_PT-BR9743619852_UHD.jpg)|
-||*Copyright: Cisnes-bravo no Lago Kussharo, Japão (© Darrell Gulin/DanitaDelimont.com)*
+|2024-01-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.IceChapel_PT-BR9970254317_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceChapel_PT-BR9970254317_UHD.jpg)|
+||*Copyright: A Eiskapelle (Capela de Gelo) no sopé da montanha Watzmann, Baviera, Alemanha (© Christian Bäck/eStock Photo)*
 ||
 |||
-|2024-01-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_FR-FR2489851452_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_FR-FR2489851452_UHD.jpg)|
-||*Copyright: Cygnes chanteurs sur le lac Kussharo, Japon (© Darrell Gulin/DanitaDelimont.com)*
+|2024-01-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SnowHorses_FR-FR2904040226_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowHorses_FR-FR2904040226_UHD.jpg)|
+||*Copyright: Chevaux comtois, Jura, Bourgogne-Franche-Comté, France (© Philippe Saire Photography/Getty Images)*
 ||
 |||
-|2024-01-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_DE-DE3486591797_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_DE-DE3486591797_UHD.jpg)|
-||*Copyright: Singschwäne im Kussharo-See, Hokkaido, Japan (© Darrell Gulin/DanitaDelimont.com)*
+|2024-01-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.IceChapel_DE-DE7506991008_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceChapel_DE-DE7506991008_UHD.jpg)|
+||*Copyright: Eiskapelle am Fuße des Watzmanns, Bayern (© Christian Bäck/eStock Photo)*
 ||
 |||
-|2024-01-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-CA6678796195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-CA6678796195_UHD.jpg)|
-||*Copyright: Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)*
+|2024-01-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AuroraBritishColumbia_EN-CA6392674959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AuroraBritishColumbia_EN-CA6392674959_UHD.jpg)|
+||*Copyright: Geomagnetic storm at night, Penticton, British Columbia, Canada (© DEEPOL by plainpicture/Preserved Light Photography)*
 ||
 |||
-|2024-01-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-GB1710828228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-GB1710828228_UHD.jpg)|
-||*Copyright: Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)*
+|2024-01-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ParisBridge_EN-GB8372523882_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisBridge_EN-GB8372523882_UHD.jpg)|
+||*Copyright: Pont Alexandre III, Paris, France (© Sizun Eye/Getty Images)*
 ||
 |||
-|2024-01-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_IT-IT3824531235_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_IT-IT3824531235_UHD.jpg)|
-||*Copyright: Cigni sevatici nel Lago di Kussharo, Giappone (© Darrell Gulin/DanitaDelimont.com)*
+|2024-01-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.IceChapel_IT-IT4504163641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceChapel_IT-IT4504163641_UHD.jpg)|
+||*Copyright: La "Cappella di ghiaccio" ai piedi del Monte Watzmann, Baviera, Germania (© Christian Bäck/eStock Photo)*
 ||
 |||
-|2024-01-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_ES-ES1414604730_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_ES-ES1414604730_UHD.jpg)|
-||*Copyright: Cisnes cantores en el lago Kussharo, Japón (© Darrell Gulin/DanitaDelimont.com)*
+|2024-01-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.IceChapel_ES-ES1557442050_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceChapel_ES-ES1557442050_UHD.jpg)|
+||*Copyright: La Eiskapelle (Capilla de Hielo) al pie de la montaña Watzmann, Baviera, Alemania (© Christian Bäck/eStock Photo)*
 ||
 |||
-|2024-01-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HokkaidoSwans_FR-CA8449575039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HokkaidoSwans_FR-CA8449575039_UHD.jpg)|
-||*Copyright: Cygnes chanteurs sur le lac Kussharo, Japon (© Darrell Gulin/DanitaDelimont.com)*
+|2024-01-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AuroraBritishColumbia_FR-CA3046583166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AuroraBritishColumbia_FR-CA3046583166_UHD.jpg)|
+||*Copyright: Tempête géomagnétique nocturne, Penticton, Colombie-Britannique, Canada (© DEEPOL by plainpicture/Preserved Light Photography)*
 ||
 |||
 
