@@ -6,9 +6,9 @@
 ||*Copyright: Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)*
 ||
 |||
-|2024-01-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HanaHighway_JA-JP5594909770_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HanaHighway_JA-JP5594909770_UHD.jpg)|
-||*Copyright: マウイ島のハナハイウェイ, 米国 ハワイ州 (© Matteo Colombo/Getty Images)*
+|2024-01-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LakeLouise_JA-JP5881267112_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_JA-JP5881267112_UHD.jpg)|
+||*Copyright: レイク・ルイーズ, カナダ アルバータ州 (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
 |2024-01-15|**Region: en-IN**||
