@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg)|
-||*Copyright: Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)*
+|2024-01-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg)|
+||*Copyright: Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
 |2024-01-16|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: レイク・ルイーズ, カナダ アルバータ州 (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
-|2024-01-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MakarSankrantiKites_EN-IN1385639662_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MakarSankrantiKites_EN-IN1385639662_UHD.jpg)|
-||*Copyright: Kite flying in Ahmedabad during the last hour of Uttarayan (© Saumil Shah - flickr.com/saumil/Getty images)*
+|2024-01-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LakeLouise_EN-IN3194487086_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_EN-IN3194487086_UHD.jpg)|
+||*Copyright: Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
-|2024-01-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.IceChapel_PT-BR9970254317_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceChapel_PT-BR9970254317_UHD.jpg)|
-||*Copyright: A Eiskapelle (Capela de Gelo) no sopé da montanha Watzmann, Baviera, Alemanha (© Christian Bäck/eStock Photo)*
+|2024-01-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.LakeLouise_PT-BR0201889430_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_PT-BR0201889430_UHD.jpg)|
+||*Copyright: Lago Louise, Parque Nacional de Banff, Alberta, Canadá (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
-|2024-01-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SnowHorses_FR-FR2904040226_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowHorses_FR-FR2904040226_UHD.jpg)|
-||*Copyright: Chevaux comtois, Jura, Bourgogne-Franche-Comté, France (© Philippe Saire Photography/Getty Images)*
+|2024-01-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LakeLouise_FR-FR3546637527_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_FR-FR3546637527_UHD.jpg)|
+||*Copyright: Lac Louise, parc national de Banff, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
-|2024-01-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.IceChapel_DE-DE7506991008_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceChapel_DE-DE7506991008_UHD.jpg)|
-||*Copyright: Eiskapelle am Fuße des Watzmanns, Bayern (© Christian Bäck/eStock Photo)*
+|2024-01-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LakeLouise_DE-DE3736207762_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_DE-DE3736207762_UHD.jpg)|
+||*Copyright: Lake Louise, Banff-Nationalpark, Alberta, Kanada (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
-|2024-01-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AuroraBritishColumbia_EN-CA6392674959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AuroraBritishColumbia_EN-CA6392674959_UHD.jpg)|
-||*Copyright: Geomagnetic storm at night, Penticton, British Columbia, Canada (© DEEPOL by plainpicture/Preserved Light Photography)*
+|2024-01-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LakeLouise_EN-CA6262650023_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_EN-CA6262650023_UHD.jpg)|
+||*Copyright: Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
-|2024-01-16|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ParisBridge_EN-GB8372523882_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisBridge_EN-GB8372523882_UHD.jpg)|
-||*Copyright: Pont Alexandre III, Paris, France (© Sizun Eye/Getty Images)*
+|2024-01-17|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.LakeLouise_EN-GB2053286596_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_EN-GB2053286596_UHD.jpg)|
+||*Copyright: Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
-|2024-01-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.IceChapel_IT-IT4504163641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceChapel_IT-IT4504163641_UHD.jpg)|
-||*Copyright: La "Cappella di ghiaccio" ai piedi del Monte Watzmann, Baviera, Germania (© Christian Bäck/eStock Photo)*
+|2024-01-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LakeLouise_IT-IT5093605505_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_IT-IT5093605505_UHD.jpg)|
+||*Copyright: Lago Louise, Parco Nazionale di Banff, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
-|2024-01-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.IceChapel_ES-ES1557442050_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceChapel_ES-ES1557442050_UHD.jpg)|
-||*Copyright: La Eiskapelle (Capilla de Hielo) al pie de la montaña Watzmann, Baviera, Alemania (© Christian Bäck/eStock Photo)*
+|2024-01-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LakeLouise_ES-ES1691998822_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_ES-ES1691998822_UHD.jpg)|
+||*Copyright: Lago Louise, Parque Nacional de Banff, Alberta, Canadá (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
-|2024-01-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AuroraBritishColumbia_FR-CA3046583166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AuroraBritishColumbia_FR-CA3046583166_UHD.jpg)|
-||*Copyright: Tempête géomagnétique nocturne, Penticton, Colombie-Britannique, Canada (© DEEPOL by plainpicture/Preserved Light Photography)*
+|2024-01-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.LakeLouise_FR-CA8844491559_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_FR-CA8844491559_UHD.jpg)|
+||*Copyright: Lac Louise, parc national de Banff, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
 
