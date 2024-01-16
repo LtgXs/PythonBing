@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:22:43] Picture infomations saved to  global/fr-CA/README.md
 [09:22:43] Picture infomations saved to global/fr-CA/history/2024/01/17_fr-CA.md
 Program exit at 09:22:43
+
+Program started at 16:12:12
+Operating System Name: Linux
+Operating System Version: #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az525-509
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[16:12:12] Start geting CN Bing Wallpaper
+[16:12:12] Successful get url: https://www.bing.com/th?id=OHR.SleepyWolf_ZH-CN9870873990_UHD.jpg
+[16:12:12] Image saved to img/background.jpg
+[16:12:12] Info saved to README.md
+[16:12:12] Image saved to history/2024/01/17.md
+[16:12:12] Start geting global Bing Wallpaper, region=en-US, local time is 2024-01-16 11:12:12.530180-05:00
+[16:12:12] Successful get url: https://www.bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg
+[16:12:12] Picture infomations saved to  global/en-US/README.md
+[16:12:12] Picture infomations saved to global/en-US/history/2024/01/17_en-US.md
+[16:12:12] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-01-17 01:12:12.744006+09:00
+[16:12:12] Successful get url: https://www.bing.com/th?id=OHR.SleepyWolf_JA-JP7170122030_UHD.jpg
+[16:12:12] Picture infomations saved to  global/ja-JP/README.md
+[16:12:12] Picture infomations saved to global/ja-JP/history/2024/01/17_ja-JP.md
+[16:12:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-01-16 21:42:12.942485+05:30
+[16:12:13] Successful get url: https://www.bing.com/th?id=OHR.LakeLouise_EN-IN3194487086_UHD.jpg
+[16:12:13] Picture infomations saved to  global/en-IN/README.md
+[16:12:13] Picture infomations saved to global/en-IN/history/2024/01/16_en-IN.md
+[16:12:13] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-01-16 13:12:13.142410-03:00
+[16:12:13] Successful get url: https://www.bing.com/th?id=OHR.LakeLouise_PT-BR0201889430_UHD.jpg
+[16:12:13] Picture infomations saved to  global/pt-BR/README.md
+[16:12:13] Picture infomations saved to global/pt-BR/history/2024/01/17_pt-BR.md
+[16:12:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-01-16 17:12:13.318886+01:00
+[16:12:13] Successful get url: https://www.bing.com/th?id=OHR.LakeLouise_FR-FR3546637527_UHD.jpg
+[16:12:13] Picture infomations saved to  global/fr-FR/README.md
+[16:12:13] Picture infomations saved to global/fr-FR/history/2024/01/16_fr-FR.md
+[16:12:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-01-16 17:12:13.503900+01:00
+[16:12:13] Successful get url: https://www.bing.com/th?id=OHR.LakeLouise_DE-DE3736207762_UHD.jpg
+[16:12:13] Picture infomations saved to  global/de-DE/README.md
+[16:12:13] Picture infomations saved to global/de-DE/history/2024/01/16_de-DE.md
+[16:12:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-01-16 11:12:13.682023-05:00
+[16:12:13] Successful get url: https://www.bing.com/th?id=OHR.LakeLouise_EN-CA6262650023_UHD.jpg
+[16:12:13] Picture infomations saved to  global/en-CA/README.md
+[16:12:13] Picture infomations saved to global/en-CA/history/2024/01/17_en-CA.md
+[16:12:13] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-01-16 16:12:13.967910+00:00
+[16:12:14] Successful get url: https://www.bing.com/th?id=OHR.LakeLouise_EN-GB2053286596_UHD.jpg
+[16:12:14] Picture infomations saved to  global/en-GB/README.md
+[16:12:14] Picture infomations saved to global/en-GB/history/2024/01/17_en-GB.md
+[16:12:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-01-16 17:12:14.198820+01:00
+[16:12:14] Successful get url: https://www.bing.com/th?id=OHR.LakeLouise_IT-IT5093605505_UHD.jpg
+[16:12:14] Picture infomations saved to  global/it-IT/README.md
+[16:12:14] Picture infomations saved to global/it-IT/history/2024/01/16_it-IT.md
+[16:12:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-01-16 17:12:14.379046+01:00
+[16:12:14] Successful get url: https://www.bing.com/th?id=OHR.LakeLouise_ES-ES1691998822_UHD.jpg
+[16:12:14] Picture infomations saved to  global/es-ES/README.md
+[16:12:14] Picture infomations saved to global/es-ES/history/2024/01/16_es-ES.md
+[16:12:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-01-16 11:12:14.649687-05:00
+[16:12:14] Successful get url: https://www.bing.com/th?id=OHR.LakeLouise_FR-CA8844491559_UHD.jpg
+[16:12:14] Picture infomations saved to  global/fr-CA/README.md
+[16:12:14] Picture infomations saved to global/fr-CA/history/2024/01/17_fr-CA.md
+Program exit at 16:12:14

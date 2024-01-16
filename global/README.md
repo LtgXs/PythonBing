@@ -6,9 +6,9 @@
 ||*Copyright: Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
 ||
 |||
-|2024-01-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LakeLouise_JA-JP5881267112_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_JA-JP5881267112_UHD.jpg)|
-||*Copyright: レイク・ルイーズ, カナダ アルバータ州 (© Mr. Simon Paul/Shutterstock)*
+|2024-01-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SleepyWolf_JA-JP7170122030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyWolf_JA-JP7170122030_UHD.jpg)|
+||*Copyright: バイエルンの森国立公園, ドイツ (© Raimund Linke/Getty Images)*
 ||
 |||
 |2024-01-16|**Region: en-IN**||
