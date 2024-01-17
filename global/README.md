@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-17|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg)|
-||*Copyright: Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
+|2024-01-18|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SleepyWolf_EN-US1667992900_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyWolf_EN-US1667992900_UHD.jpg)|
+||*Copyright: Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)*
 ||
 |||
 |2024-01-17|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: バイエルンの森国立公園, ドイツ (© Raimund Linke/Getty Images)*
 ||
 |||
-|2024-01-16|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LakeLouise_EN-IN3194487086_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_EN-IN3194487086_UHD.jpg)|
-||*Copyright: Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
+|2024-01-17|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SleepyWolf_EN-IN3304782533_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyWolf_EN-IN3304782533_UHD.jpg)|
+||*Copyright: Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)*
 ||
 |||
-|2024-01-17|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LakeLouise_PT-BR0201889430_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_PT-BR0201889430_UHD.jpg)|
-||*Copyright: Lago Louise, Parque Nacional de Banff, Alberta, Canadá (© Mr. Simon Paul/Shutterstock)*
+|2024-01-18|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GiantAnteaterBR_PT-BR0815796970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantAnteaterBR_PT-BR0815796970_UHD.jpg)|
+||*Copyright: Um tamanduá passeando pelo Pantanal brasileiro (© Pedro Ferreira do Amaral/Getty Images)*
 ||
 |||
-|2024-01-16|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LakeLouise_FR-FR3546637527_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_FR-FR3546637527_UHD.jpg)|
-||*Copyright: Lac Louise, parc national de Banff, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
+|2024-01-17|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SleepyWolf_FR-FR3759485122_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyWolf_FR-FR3759485122_UHD.jpg)|
+||*Copyright: Loup endormi dans le parc national de la forêt bavaroise, Allemagne (© Raimund Linke/Getty Images)*
 ||
 |||
-|2024-01-16|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LakeLouise_DE-DE3736207762_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_DE-DE3736207762_UHD.jpg)|
-||*Copyright: Lake Louise, Banff-Nationalpark, Alberta, Kanada (© Mr. Simon Paul/Shutterstock)*
+|2024-01-17|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SleepyWolf_DE-DE6606781162_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyWolf_DE-DE6606781162_UHD.jpg)|
+||*Copyright: Schlafender Wolf im Nationalpark Bayerischer Wald (© Raimund Linke/Getty Images)*
 ||
 |||
-|2024-01-17|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LakeLouise_EN-CA6262650023_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_EN-CA6262650023_UHD.jpg)|
-||*Copyright: Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
+|2024-01-18|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SleepyWolf_EN-CA6144184677_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyWolf_EN-CA6144184677_UHD.jpg)|
+||*Copyright: Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)*
 ||
 |||
-|2024-01-17|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LakeLouise_EN-GB2053286596_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_EN-GB2053286596_UHD.jpg)|
-||*Copyright: Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
+|2024-01-18|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SleepyWolf_EN-GB2239080031_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyWolf_EN-GB2239080031_UHD.jpg)|
+||*Copyright: Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)*
 ||
 |||
-|2024-01-16|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LakeLouise_IT-IT5093605505_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_IT-IT5093605505_UHD.jpg)|
-||*Copyright: Lago Louise, Parco Nazionale di Banff, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
+|2024-01-17|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SleepyWolf_IT-IT5699370388_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyWolf_IT-IT5699370388_UHD.jpg)|
+||*Copyright: Lupo durante un pisolino nel Parco nazionale della foresta bavarese, Germania (© Raimund Linke/Getty Images)*
 ||
 |||
-|2024-01-16|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LakeLouise_ES-ES1691998822_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_ES-ES1691998822_UHD.jpg)|
-||*Copyright: Lago Louise, Parque Nacional de Banff, Alberta, Canadá (© Mr. Simon Paul/Shutterstock)*
+|2024-01-17|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SleepyWolf_ES-ES1847599512_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyWolf_ES-ES1847599512_UHD.jpg)|
+||*Copyright: Lobo dormido en el Parque Nacional del Bosque Bávaro, Alemania (© Raimund Linke/Getty Images)*
 ||
 |||
-|2024-01-17|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LakeLouise_FR-CA8844491559_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeLouise_FR-CA8844491559_UHD.jpg)|
-||*Copyright: Lac Louise, parc national de Banff, Alberta, Canada (© Mr. Simon Paul/Shutterstock)*
+|2024-01-18|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SleepyWolf_FR-CA8993757269_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyWolf_FR-CA8993757269_UHD.jpg)|
+||*Copyright: Loup endormi dans le parc national de la forêt bavaroise, Allemagne (© Raimund Linke/Getty Images)*
 ||
 |||
 
