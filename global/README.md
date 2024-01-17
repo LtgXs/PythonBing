@@ -6,9 +6,9 @@
 ||*Copyright: Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)*
 ||
 |||
-|2024-01-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SleepyWolf_JA-JP7170122030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyWolf_JA-JP7170122030_UHD.jpg)|
-||*Copyright: バイエルンの森国立公園, ドイツ (© Raimund Linke/Getty Images)*
+|2024-01-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ParisBridge_JA-JP7502194315_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisBridge_JA-JP7502194315_UHD.jpg)|
+||*Copyright: アレクサンドル 3 世橋, フランス パリ (© Sizun Eye/Getty Images)*
 ||
 |||
 |2024-01-17|**Region: en-IN**||
