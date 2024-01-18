@@ -6,9 +6,9 @@
 ||*Copyright: Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)*
 ||
 |||
-|2024-01-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ParisBridge_JA-JP7502194315_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisBridge_JA-JP7502194315_UHD.jpg)|
-||*Copyright: アレクサンドル 3 世橋, フランス パリ (© Sizun Eye/Getty Images)*
+|2024-01-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PlitviceWinter_JA-JP1926981970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlitviceWinter_JA-JP1926981970_UHD.jpg)|
+||*Copyright: プリトヴィツェ湖群国立公園, クロアチア (© Massimo_S8/Getty Images)*
 ||
 |||
 |2024-01-18|**Region: en-IN**||
@@ -17,7 +17,7 @@
 ||
 |||
 |2024-01-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ParisBridge_PT-BR1047809633_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisBridge_PT-BR1047809633_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.ParisBridge_PT-BR5007932654_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisBridge_PT-BR5007932654_UHD.jpg)|
 ||*Copyright: A Ponte Alexandre III ao crepúsculo, Paris, França (© Sizun Eye/Getty Images)*
 ||
 |||
