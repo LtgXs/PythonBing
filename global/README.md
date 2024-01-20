@@ -6,9 +6,9 @@
 ||*Copyright: Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)*
 ||
 |||
-|2024-01-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Daikan2024_JA-JP9341510234_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Daikan2024_JA-JP9341510234_UHD.jpg)|
-||*Copyright: 音羽橋から見る川霧に佇むタンチョウ, 北海道 阿寒郡 (© Natapong Supalertsophon/Getty Images)*
+|2024-01-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_JA-JP9623906743_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SquirrelNetherlands_JA-JP9623906743_UHD.jpg)|
+||*Copyright: 木の枝につかまるキタリス, オランダ (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
 |2024-01-20|**Region: en-IN**||
