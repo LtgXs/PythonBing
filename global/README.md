@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MacaroniPenguins_EN-US2046934125_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MacaroniPenguins_EN-US2046934125_UHD.jpg)|
-||*Copyright: Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)*
+|2024-01-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_EN-US2174319616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SquirrelNetherlands_EN-US2174319616_UHD.jpg)|
+||*Copyright: Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
 |2024-01-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 木の枝につかまるキタリス, オランダ (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2024-01-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MacaroniPenguins_EN-IN3516700130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MacaroniPenguins_EN-IN3516700130_UHD.jpg)|
-||*Copyright: Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)*
+|2024-01-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_EN-IN3567633626_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SquirrelNetherlands_EN-IN3567633626_UHD.jpg)|
+||*Copyright: Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2024-01-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MacaroniPenguins_PT-BR1446877304_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MacaroniPenguins_PT-BR1446877304_UHD.jpg)|
-||*Copyright: Pinguins de Macaroni, Passagem de Drake, Chile (© Paul Souders/Getty Images)*
+|2024-01-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_PT-BR1648489881_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SquirrelNetherlands_PT-BR1648489881_UHD.jpg)|
+||*Copyright: Esquilo vermelho da Eurásia, Países Baixos (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2024-01-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.Castlenaud_FR-FR4922909582_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Castlenaud_FR-FR4922909582_UHD.jpg)|
-||*Copyright: Château de Castelnaud avant le lever du soleil, Dordogne, France (© Gareth Kirkland/Alamy Stock Photo)*
+|2024-01-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_FR-FR5106085626_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SquirrelNetherlands_FR-FR5106085626_UHD.jpg)|
+||*Copyright: Écureuil roux, Pays-Bas (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2024-01-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MacaroniPenguins_DE-DE9243593440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MacaroniPenguins_DE-DE9243593440_UHD.jpg)|
-||*Copyright: Goldschopfpinguine, Drakestraße, Chile (© Paul Souders/Getty Images)*
+|2024-01-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_DE-DE9549410470_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SquirrelNetherlands_DE-DE9549410470_UHD.jpg)|
+||*Copyright: Rotes Eurasisches Eichhörnchen, Niederlande (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2024-01-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MacaroniPenguins_EN-CA8464340368_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MacaroniPenguins_EN-CA8464340368_UHD.jpg)|
-||*Copyright: Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)*
+|2024-01-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_EN-CA8803161648_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SquirrelNetherlands_EN-CA8803161648_UHD.jpg)|
+||*Copyright: Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2024-01-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MacaroniPenguins_EN-GB2958332106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MacaroniPenguins_EN-GB2958332106_UHD.jpg)|
-||*Copyright: Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)*
+|2024-01-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_EN-GB3144776010_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SquirrelNetherlands_EN-GB3144776010_UHD.jpg)|
+||*Copyright: Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2024-01-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MacaroniPenguins_IT-IT1123912901_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MacaroniPenguins_IT-IT1123912901_UHD.jpg)|
-||*Copyright: Pinguini Macaroni, Passaggio di Drake, Cile (© Paul Souders/Getty Images)*
+|2024-01-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_IT-IT1961289620_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SquirrelNetherlands_IT-IT1961289620_UHD.jpg)|
+||*Copyright: Scoiattolo rosso eurasiatico, Paesi Bassi (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2024-01-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MacaroniPenguins_ES-ES2099572646_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MacaroniPenguins_ES-ES2099572646_UHD.jpg)|
-||*Copyright: Pingüinos macaroni, Pasaje de Drake, Chile (© Paul Souders/Getty Images)*
+|2024-01-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_ES-ES2236986269_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SquirrelNetherlands_ES-ES2236986269_UHD.jpg)|
+||*Copyright: Ardilla roja euroasiática, Países Bajos (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2024-01-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MacaroniPenguins_FR-CA3166351888_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MacaroniPenguins_FR-CA3166351888_UHD.jpg)|
-||*Copyright: Manchot gorfou doré, passage de Drake, Chili (© Paul Souders/Getty Images)*
+|2024-01-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_FR-CA5904290241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SquirrelNetherlands_FR-CA5904290241_UHD.jpg)|
+||*Copyright: Écureuil roux, Pays-Bas (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
 
