@@ -6,9 +6,9 @@
 ||*Copyright: Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2024-01-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_JA-JP9623906743_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SquirrelNetherlands_JA-JP9623906743_UHD.jpg)|
-||*Copyright: 木の枝につかまるキタリス, オランダ (© Ernst Dirksen/Minden Pictures)*
+|2024-01-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SantaCruzSunrise_JA-JP5594322328_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCruzSunrise_JA-JP5594322328_UHD.jpg)|
+||*Copyright: ウォルトン灯台, 米国 カリフォルニア州 (© Jeff Lewis/Tandem Stills + Motion)*
 ||
 |||
 |2024-01-21|**Region: en-IN**||
