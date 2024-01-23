@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-23|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-US6436233856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-US6436233856_UHD.jpg)|
-||*Copyright: Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)*
+|2024-01-24|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-US2498947967_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-US2498947967_UHD.jpg)|
+||*Copyright: Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)*
 ||
 |||
 |2024-01-23|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: インド洋の環礁, モルディブ (© Amazing Aerial Premium/Shutterstock)*
 ||
 |||
-|2024-01-22|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-IN4813866194_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-IN4813866194_UHD.jpg)|
-||*Copyright: Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)*
+|2024-01-23|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-IN3706143252_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-IN3706143252_UHD.jpg)|
+||*Copyright: Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)*
 ||
 |||
-|2024-01-23|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SantaCruzSunrise_PT-BR7110866378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCruzSunrise_PT-BR7110866378_UHD.jpg)|
-||*Copyright: Amanhecer de inverno, Farol de Walton, Santa Cruz, Califórnia, EUA (© Jeff Lewis/Tandem Stills + Motion)*
+|2024-01-24|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MaldivesAtolls_PT-BR2284826864_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaldivesAtolls_PT-BR2284826864_UHD.jpg)|
+||*Copyright: Atóis no Oceano Índico, Maldivas (© Amazing Aerial Premium/Shutterstock)*
 ||
 |||
-|2024-01-22|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SantaCruzSunrise_FR-FR1541398588_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCruzSunrise_FR-FR1541398588_UHD.jpg)|
-||*Copyright: Lever du soleil hivernal, phare de Santa Cruz, Californie, États-Unis (© Jeff Lewis/Tandem Stills + Motion)*
+|2024-01-23|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MaldivesAtolls_FR-FR6343636525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaldivesAtolls_FR-FR6343636525_UHD.jpg)|
+||*Copyright: Atolls de l'océan Indien, Maldives (© Amazing Aerial Premium/Shutterstock)*
 ||
 |||
-|2024-01-22|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.RenanusBridge_DE-DE1445260424_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RenanusBridge_DE-DE1445260424_UHD.jpg)|
-||*Copyright: Beatus-Rhenanus-Brücke über den Rhein, zwischen Straßburg und Kehl, Straßburg, Frankreich (© mauritius images GmbH/Alamy)*
+|2024-01-23|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MaldivesAtolls_DE-DE0846925099_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaldivesAtolls_DE-DE0846925099_UHD.jpg)|
+||*Copyright: Atolle im Indischen Ozean, Malediven (© Amazing Aerial Premium/Shutterstock)*
 ||
 |||
-|2024-01-23|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-CA9651520074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-CA9651520074_UHD.jpg)|
-||*Copyright: Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)*
+|2024-01-24|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-CA0649098426_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-CA0649098426_UHD.jpg)|
+||*Copyright: Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)*
 ||
 |||
-|2024-01-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-GB0952968899_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-GB0952968899_UHD.jpg)|
-||*Copyright: Walton Lighthouse, Santa Cruz, California, USA (© Jeff Lewis/Tandem Stills + Motion)*
+|2024-01-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-GB3594196029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-GB3594196029_UHD.jpg)|
+||*Copyright: Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)*
 ||
 |||
-|2024-01-22|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SantaCruzSunrise_IT-IT2418215934_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCruzSunrise_IT-IT2418215934_UHD.jpg)|
-||*Copyright: Alba invernale, Faro di Walton, Santa Cruz, California, USA (© Jeff Lewis/Tandem Stills + Motion)*
+|2024-01-23|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MaldivesAtolls_IT-IT6509796728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaldivesAtolls_IT-IT6509796728_UHD.jpg)|
+||*Copyright: Atolli nell'Oceano Indiano, Maldive (© Amazing Aerial Premium/Shutterstock)*
 ||
 |||
-|2024-01-22|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SantaCruzSunrise_ES-ES1191004799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCruzSunrise_ES-ES1191004799_UHD.jpg)|
-||*Copyright: Amanecer de invierno, Faro Walton, Santa Cruz, California, EE.UU. (© Jeff Lewis/Tandem Stills + Motion)*
+|2024-01-23|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MaldivesAtolls_ES-ES2469932499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaldivesAtolls_ES-ES2469932499_UHD.jpg)|
+||*Copyright: Atolones del océano Índico, Maldivas (© Amazing Aerial Premium/Shutterstock)*
 ||
 |||
-|2024-01-23|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SantaCruzSunrise_FR-CA1920260402_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCruzSunrise_FR-CA1920260402_UHD.jpg)|
-||*Copyright: Lever du soleil hivernal, phare de Santa Cruz, Californie, États-Unis (© Jeff Lewis/Tandem Stills + Motion)*
+|2024-01-24|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MaldivesAtolls_FR-CA6454078758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaldivesAtolls_FR-CA6454078758_UHD.jpg)|
+||*Copyright: Atolls de l'océan Indien, Maldives (© Amazing Aerial Premium/Shutterstock)*
 ||
 |||
 
