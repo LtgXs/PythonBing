@@ -6,9 +6,9 @@
 ||*Copyright: Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)*
 ||
 |||
-|2024-01-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MaldivesAtolls_JA-JP0994970307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaldivesAtolls_JA-JP0994970307_UHD.jpg)|
-||*Copyright: インド洋の環礁, モルディブ (© Amazing Aerial Premium/Shutterstock)*
+|2024-01-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IcelandBeach_JA-JP1317464051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandBeach_JA-JP1317464051_UHD.jpg)|
+||*Copyright: ダイヤモンドビーチ, アイスランド (© Rachid Dahnoun/Tandem Stills + Motion)*
 ||
 |||
 |2024-01-23|**Region: en-IN**||
