@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:23:29] Picture infomations saved to  global/fr-CA/README.md
 [09:23:29] Picture infomations saved to global/fr-CA/history/2024/01/25_fr-CA.md
 Program exit at 09:23:29
+
+Program started at 16:12:51
+Operating System Name: Linux
+Operating System Version: #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az740-501
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[16:12:51] Start geting CN Bing Wallpaper
+[16:12:51] Successful get url: https://www.bing.com/th?id=OHR.DwynwensDay_ZH-CN1768649253_UHD.jpg
+[16:12:51] Image saved to img/background.jpg
+[16:12:51] Info saved to README.md
+[16:12:51] Image saved to history/2024/01/25.md
+[16:12:51] Start geting global Bing Wallpaper, region=en-US, local time is 2024-01-24 11:12:51.425300-05:00
+[16:12:51] Successful get url: https://www.bing.com/th?id=OHR.IcelandBeach_EN-US2647667820_UHD.jpg
+[16:12:51] Picture infomations saved to  global/en-US/README.md
+[16:12:51] Picture infomations saved to global/en-US/history/2024/01/25_en-US.md
+[16:12:51] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-01-25 01:12:51.599510+09:00
+[16:12:51] Successful get url: https://www.bing.com/th?id=OHR.DwynwensDay_JA-JP1767839645_UHD.jpg
+[16:12:51] Picture infomations saved to  global/ja-JP/README.md
+[16:12:51] Picture infomations saved to global/ja-JP/history/2024/01/25_ja-JP.md
+[16:12:51] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-01-24 21:42:51.841049+05:30
+[16:12:51] Successful get url: https://www.bing.com/th?id=OHR.IcelandBeach_EN-IN3783601162_UHD.jpg
+[16:12:52] Picture infomations saved to  global/en-IN/README.md
+[16:12:52] Picture infomations saved to global/en-IN/history/2024/01/24_en-IN.md
+[16:12:52] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-01-24 13:12:52.014922-03:00
+[16:12:52] Successful get url: https://www.bing.com/th?id=OHR.IcelandBeach_PT-BR2508967674_UHD.jpg
+[16:12:52] Picture infomations saved to  global/pt-BR/README.md
+[16:12:52] Picture infomations saved to global/pt-BR/history/2024/01/25_pt-BR.md
+[16:12:52] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-01-24 17:12:52.189617+01:00
+[16:12:52] Successful get url: https://www.bing.com/th?id=OHR.IcelandBeach_FR-FR6659305695_UHD.jpg
+[16:12:52] Picture infomations saved to  global/fr-FR/README.md
+[16:12:52] Picture infomations saved to global/fr-FR/history/2024/01/24_fr-FR.md
+[16:12:52] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-01-24 17:12:52.372333+01:00
+[16:12:52] Successful get url: https://www.bing.com/th?id=OHR.IcelandBeach_DE-DE2839387359_UHD.jpg
+[16:12:52] Picture infomations saved to  global/de-DE/README.md
+[16:12:52] Picture infomations saved to global/de-DE/history/2024/01/24_de-DE.md
+[16:12:52] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-01-24 11:12:52.560963-05:00
+[16:12:52] Successful get url: https://www.bing.com/th?id=OHR.IcelandBeach_EN-CA0939804104_UHD.jpg
+[16:12:52] Picture infomations saved to  global/en-CA/README.md
+[16:12:52] Picture infomations saved to global/en-CA/history/2024/01/25_en-CA.md
+[16:12:52] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-01-24 16:12:52.852610+00:00
+[16:12:52] Successful get url: https://www.bing.com/th?id=OHR.IcelandBeach_EN-GB3731647332_UHD.jpg
+[16:12:53] Picture infomations saved to  global/en-GB/README.md
+[16:12:53] Picture infomations saved to global/en-GB/history/2024/01/25_en-GB.md
+[16:12:53] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-01-24 17:12:53.029450+01:00
+[16:12:53] Successful get url: https://www.bing.com/th?id=OHR.AbruzzoGranSasso_IT-IT5897224471_UHD.jpg
+[16:12:53] Picture infomations saved to  global/it-IT/README.md
+[16:12:53] Picture infomations saved to global/it-IT/history/2024/01/24_it-IT.md
+[16:12:53] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-01-24 17:12:53.200616+01:00
+[16:12:53] Successful get url: https://www.bing.com/th?id=OHR.IcelandBeach_ES-ES2591644727_UHD.jpg
+[16:12:53] Picture infomations saved to  global/es-ES/README.md
+[16:12:53] Picture infomations saved to global/es-ES/history/2024/01/24_es-ES.md
+[16:12:53] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-01-24 11:12:53.373560-05:00
+[16:12:53] Successful get url: https://www.bing.com/th?id=OHR.IcelandBeach_FR-CA7069803263_UHD.jpg
+[16:12:53] Picture infomations saved to  global/fr-CA/README.md
+[16:12:53] Picture infomations saved to global/fr-CA/history/2024/01/25_fr-CA.md
+Program exit at 16:12:53

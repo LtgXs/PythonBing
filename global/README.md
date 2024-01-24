@@ -6,9 +6,9 @@
 ||*Copyright: Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)*
 ||
 |||
-|2024-01-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IcelandBeach_JA-JP1317464051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandBeach_JA-JP1317464051_UHD.jpg)|
-||*Copyright: ダイヤモンドビーチ, アイスランド (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-01-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DwynwensDay_JA-JP1767839645_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DwynwensDay_JA-JP1767839645_UHD.jpg)|
+||*Copyright: イニス・ランドウィンにある遺跡, イギリス ウェールズ (© Photos by R A Kearton/Getty Images)*
 ||
 |||
 |2024-01-24|**Region: en-IN**||
