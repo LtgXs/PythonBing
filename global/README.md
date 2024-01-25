@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-25|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.IcelandBeach_EN-US2647667820_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandBeach_EN-US2647667820_UHD.jpg)|
-||*Copyright: Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-01-26|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg)|
+||*Copyright: Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)*
 ||
 |||
 |2024-01-25|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: イニス・ランドウィンにある遺跡, イギリス ウェールズ (© Photos by R A Kearton/Getty Images)*
 ||
 |||
-|2024-01-24|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.IcelandBeach_EN-IN3783601162_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandBeach_EN-IN3783601162_UHD.jpg)|
-||*Copyright: Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-01-25|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AgraFortUP_EN-IN3840610789_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AgraFortUP_EN-IN3840610789_UHD.jpg)|
+||*Copyright: Agra Fort, Uttar Pradesh (© Roop_Dey/Shutterstock)*
 ||
 |||
-|2024-01-25|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.IcelandBeach_PT-BR2508967674_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandBeach_PT-BR2508967674_UHD.jpg)|
-||*Copyright: Praia dos Diamantes, Islândia (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-01-26|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.FundacaodaCapital_PT-BR3549565256_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FundacaodaCapital_PT-BR3549565256_UHD.jpg)|
+||*Copyright: Baleia metálica, Avenida Faria Lima, São Paulo, Brasil (© Brazil Photo Press/Alamy)*
 ||
 |||
-|2024-01-24|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.IcelandBeach_FR-FR6659305695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandBeach_FR-FR6659305695_UHD.jpg)|
-||*Copyright: Plage de Diamant, Islande (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-01-25|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.DwynwensDay_FR-FR7589802554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DwynwensDay_FR-FR7589802554_UHD.jpg)|
+||*Copyright: Ruines de l'église St. Dwynwen, Ynys Llanddwyn, Pays de Galles, Royaume-Uni (© Photos by R A Kearton/Getty Images)*
 ||
 |||
-|2024-01-24|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.IcelandBeach_DE-DE2839387359_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandBeach_DE-DE2839387359_UHD.jpg)|
-||*Copyright: Jökulsárlón, Island (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-01-25|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.DwynwensDay_DE-DE3164731658_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DwynwensDay_DE-DE3164731658_UHD.jpg)|
+||*Copyright: Ruinen der St. Dwynwen's Church, Ynys Llanddwyn, Wales, Vereinigtes Königreich (© Photos by R A Kearton/Getty Images)*
 ||
 |||
-|2024-01-25|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.IcelandBeach_EN-CA0939804104_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandBeach_EN-CA0939804104_UHD.jpg)|
-||*Copyright: Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-01-26|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SnowyOwlQuebec_EN-CA1326772856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowyOwlQuebec_EN-CA1326772856_UHD.jpg)|
+||*Copyright: A snowy owl on the icy field, Quebec City, Canada (© Marco Pozzi Photographer/Moment/Getty Images)*
 ||
 |||
-|2024-01-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.IcelandBeach_EN-GB3731647332_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandBeach_EN-GB3731647332_UHD.jpg)|
-||*Copyright: Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-01-26|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BurnsNightAlloway_EN-GB4165452223_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BurnsNightAlloway_EN-GB4165452223_UHD.jpg)|
+||*Copyright: Burns National Heritage Park, Alloway, Ayrshire, Scotland (© Alister Firth/Alamy Stock Photo)*
 ||
 |||
-|2024-01-24|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AbruzzoGranSasso_IT-IT5897224471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AbruzzoGranSasso_IT-IT5897224471_UHD.jpg)|
-||*Copyright: Parco Nazionale del Gran Sasso, con il castello di Rocca Calascio (© Riccardo Spila/Sime/eStock Photo)*
+|2024-01-25|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DwynwensDay_IT-IT3386589226_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DwynwensDay_IT-IT3386589226_UHD.jpg)|
+||*Copyright: Rovine della Chiesa di San Dwynwen, Ynys Llanddwyn, Galles, Regno Unito (© Photos by R A Kearton/Getty Images)*
 ||
 |||
-|2024-01-24|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.IcelandBeach_ES-ES2591644727_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandBeach_ES-ES2591644727_UHD.jpg)|
-||*Copyright: Playa Diamante, Islandia (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-01-25|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.DwynwensDay_ES-ES2710084737_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DwynwensDay_ES-ES2710084737_UHD.jpg)|
+||*Copyright: Ruinas de la iglesia de San Dwynwen, Ynys Llanddwyn, Gales, Reino Unido (© Photos by R A Kearton/Getty Images)*
 ||
 |||
-|2024-01-25|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.IcelandBeach_FR-CA7069803263_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandBeach_FR-CA7069803263_UHD.jpg)|
-||*Copyright: Plage de Diamant, Islande (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-01-26|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SnowyOwlQuebec_FR-CA3269766822_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowyOwlQuebec_FR-CA3269766822_UHD.jpg)|
+||*Copyright: Un harfang des neiges sur un champ glacé, Québec, Canada (© Marco Pozzi Photographer/Moment/Getty Images)*
 ||
 |||
 
