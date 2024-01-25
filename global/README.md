@@ -6,9 +6,9 @@
 ||*Copyright: Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)*
 ||
 |||
-|2024-01-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DwynwensDay_JA-JP1767839645_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DwynwensDay_JA-JP1767839645_UHD.jpg)|
-||*Copyright: イニス・ランドウィンにある遺跡, イギリス ウェールズ (© Photos by R A Kearton/Getty Images)*
+|2024-01-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HawkOwl_JA-JP5530639554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HawkOwl_JA-JP5530639554_UHD.jpg)|
+||*Copyright: 枝にとまるオナガフクロウ (© Remo Savisaar/Alamy)*
 ||
 |||
 |2024-01-25|**Region: en-IN**||
