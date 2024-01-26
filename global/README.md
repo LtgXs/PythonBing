@@ -6,9 +6,9 @@
 ||*Copyright: Northern hawk-owl (© Remo Savisaar/Alamy)*
 ||
 |||
-|2024-01-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HawkOwl_JA-JP5530639554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HawkOwl_JA-JP5530639554_UHD.jpg)|
-||*Copyright: 枝にとまるオナガフクロウ (© Remo Savisaar/Alamy)*
+|2024-01-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WinterCarnival_JA-JP8320595671_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterCarnival_JA-JP8320595671_UHD.jpg)|
+||*Copyright: 氷の宮殿, 米国 ミネソタ州 (© Joe Mamer Photography/Alamy)*
 ||
 |||
 |2024-01-26|**Region: en-IN**||
