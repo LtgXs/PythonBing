@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:20:13] Picture infomations saved to  global/fr-CA/README.md
 [09:20:13] Picture infomations saved to global/fr-CA/history/2024/01/29_fr-CA.md
 Program exit at 09:20:13
+
+Program started at 16:09:31
+Operating System Name: Linux
+Operating System Version: #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1052-768
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[16:09:31] Start geting CN Bing Wallpaper
+[16:09:31] Successful get url: https://www.bing.com/th?id=OHR.GollingerFalls_ZH-CN1137680822_UHD.jpg
+[16:09:31] Image saved to img/background.jpg
+[16:09:31] Info saved to README.md
+[16:09:31] Image saved to history/2024/01/29.md
+[16:09:31] Start geting global Bing Wallpaper, region=en-US, local time is 2024-01-28 11:09:31.883978-05:00
+[16:09:32] Successful get url: https://www.bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg
+[16:09:32] Picture infomations saved to  global/en-US/README.md
+[16:09:32] Picture infomations saved to global/en-US/history/2024/01/29_en-US.md
+[16:09:32] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-01-29 01:09:32.424846+09:00
+[16:09:32] Successful get url: https://www.bing.com/th?id=OHR.GollingerFalls_JA-JP9041099728_UHD.jpg
+[16:09:32] Picture infomations saved to  global/ja-JP/README.md
+[16:09:32] Picture infomations saved to global/ja-JP/history/2024/01/29_ja-JP.md
+[16:09:32] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-01-28 21:39:32.873043+05:30
+[16:09:32] Successful get url: https://www.bing.com/th?id=OHR.ChannelOutback_EN-IN1616131874_UHD.jpg
+[16:09:33] Picture infomations saved to  global/en-IN/README.md
+[16:09:33] Picture infomations saved to global/en-IN/history/2024/01/28_en-IN.md
+[16:09:33] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-01-28 13:09:33.377440-03:00
+[16:09:33] Successful get url: https://www.bing.com/th?id=OHR.ChannelOutback_PT-BR0542625781_UHD.jpg
+[16:09:33] Picture infomations saved to  global/pt-BR/README.md
+[16:09:33] Picture infomations saved to global/pt-BR/history/2024/01/29_pt-BR.md
+[16:09:33] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-01-28 17:09:33.805974+01:00
+[16:09:33] Successful get url: https://www.bing.com/th?id=OHR.SnowFox_FR-FR3113896350_UHD.jpg
+[16:09:34] Picture infomations saved to  global/fr-FR/README.md
+[16:09:34] Picture infomations saved to global/fr-FR/history/2024/01/28_fr-FR.md
+[16:09:34] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-01-28 17:09:34.237225+01:00
+[16:09:34] Successful get url: https://www.bing.com/th?id=OHR.ChannelOutback_DE-DE2211262112_UHD.jpg
+[16:09:34] Picture infomations saved to  global/de-DE/README.md
+[16:09:34] Picture infomations saved to global/de-DE/history/2024/01/28_de-DE.md
+[16:09:34] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-01-28 11:09:34.709214-05:00
+[16:09:34] Successful get url: https://www.bing.com/th?id=OHR.ChannelOutback_EN-CA2352335616_UHD.jpg
+[16:09:35] Picture infomations saved to  global/en-CA/README.md
+[16:09:35] Picture infomations saved to global/en-CA/history/2024/01/29_en-CA.md
+[16:09:35] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-01-28 16:09:35.241246+00:00
+[16:09:35] Successful get url: https://www.bing.com/th?id=OHR.ChannelOutback_EN-GB6512449937_UHD.jpg
+[16:09:35] Picture infomations saved to  global/en-GB/README.md
+[16:09:35] Picture infomations saved to global/en-GB/history/2024/01/29_en-GB.md
+[16:09:35] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-01-28 17:09:35.740250+01:00
+[16:09:35] Successful get url: https://www.bing.com/th?id=OHR.ChannelOutback_IT-IT0059174441_UHD.jpg
+[16:09:36] Picture infomations saved to  global/it-IT/README.md
+[16:09:36] Picture infomations saved to global/it-IT/history/2024/01/28_it-IT.md
+[16:09:36] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-01-28 17:09:36.692160+01:00
+[16:09:36] Successful get url: https://www.bing.com/th?id=OHR.SanLesmesBurgos_ES-ES5995468445_UHD.jpg
+[16:09:37] Picture infomations saved to  global/es-ES/README.md
+[16:09:37] Picture infomations saved to global/es-ES/history/2024/01/28_es-ES.md
+[16:09:37] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-01-28 11:09:37.144904-05:00
+[16:09:37] Successful get url: https://www.bing.com/th?id=OHR.ChannelOutback_FR-CA8543321231_UHD.jpg
+[16:09:37] Picture infomations saved to  global/fr-CA/README.md
+[16:09:37] Picture infomations saved to global/fr-CA/history/2024/01/29_fr-CA.md
+Program exit at 16:09:37

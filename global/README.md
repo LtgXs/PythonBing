@@ -6,9 +6,9 @@
 ||*Copyright: Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)*
 ||
 |||
-|2024-01-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ChannelOutback_JA-JP8591978293_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChannelOutback_JA-JP8591978293_UHD.jpg)|
-||*Copyright: チャネル・カントリー, オーストラリア クイーンズランド州 (© Southern Lightscapes-Australia/Getty Images)*
+|2024-01-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GollingerFalls_JA-JP9041099728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GollingerFalls_JA-JP9041099728_UHD.jpg)|
+||*Copyright: ゴーリング滝, オーストリア ザルツブルク州 (© Frank Fischbach/Alamy)*
 ||
 |||
 |2024-01-28|**Region: en-IN**||
