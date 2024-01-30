@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-01-30|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg)|
-||*Copyright: Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)*
+|2024-01-31|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg)|
+||*Copyright: Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
 |2024-01-30|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アイナ, スペイン カスティーリャ・ラ・マンチャ自治州 (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2024-01-29|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GollingerFalls_EN-IN2127634667_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GollingerFalls_EN-IN2127634667_UHD.jpg)|
-||*Copyright: Gollinger Waterfalls, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)*
+|2024-01-30|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MartyrsDayIndia_EN-IN0212578144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartyrsDayIndia_EN-IN0212578144_UHD.jpg)|
+||*Copyright: The biggest Mahatma Gandhi statue in Pondicherry (© Geraint Rowland Photography/Getty Images)*
 ||
 |||
-|2024-01-30|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GollingerFalls_PT-BR0731696047_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GollingerFalls_PT-BR0731696047_UHD.jpg)|
-||*Copyright: Cachoeiras de Gollinger, Tennengau, Salzburgo, Áustria (© Frank Fischbach/Alamy)*
+|2024-01-31|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AlbaceteSpain_PT-BR1055348221_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbaceteSpain_PT-BR1055348221_UHD.jpg)|
+||*Copyright: Aýna, Sierra del Segura, Albacete, Espanha (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2024-01-29|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GollingerFalls_FR-FR3295584531_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GollingerFalls_FR-FR3295584531_UHD.jpg)|
-||*Copyright: Cascade de Gollinger, Tennengau, Salzbourg, Autriche (© Frank Fischbach/Alamy)*
+|2024-01-30|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AlbaceteSpain_FR-FR3668738448_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbaceteSpain_FR-FR3668738448_UHD.jpg)|
+||*Copyright: Ayna, Sierra del Segura, Albacete, Espagne  (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2024-01-29|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GollingerFalls_DE-DE0072333494_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GollingerFalls_DE-DE0072333494_UHD.jpg)|
-||*Copyright: Gollinger Wasserfall, Tennengau, Salzburg, Österreich (© Frank Fischbach/Alamy Stock Photo)*
+|2024-01-30|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AlbaceteSpain_DE-DE8393270432_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbaceteSpain_DE-DE8393270432_UHD.jpg)|
+||*Copyright: Ayna, Sierra del Segura, Albacete, Spanien (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2024-01-30|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GollingerFalls_EN-CA5492770721_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GollingerFalls_EN-CA5492770721_UHD.jpg)|
-||*Copyright: Gollinger Waterfalls, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)*
+|2024-01-31|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-CA6620755478_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-CA6620755478_UHD.jpg)|
+||*Copyright: Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2024-01-30|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.GollingerFalls_EN-GB7103601086_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GollingerFalls_EN-GB7103601086_UHD.jpg)|
-||*Copyright: Gollinger Waterfalls, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy Stock Photo)*
+|2024-01-31|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-GB4279721479_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-GB4279721479_UHD.jpg)|
+||*Copyright: Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2024-01-29|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GollingerFalls_IT-IT3317217540_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GollingerFalls_IT-IT3317217540_UHD.jpg)|
-||*Copyright: Cascata di Gollinger, Tennengau, Salisburgo, Austria (© Frank Fischbach/Alamy)*
+|2024-01-30|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AlbaceteSpain_IT-IT3657513736_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbaceteSpain_IT-IT3657513736_UHD.jpg)|
+||*Copyright: Villaggio di Ayna, Sierra del Segura, Albacete, Spagna (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2024-01-29|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GollingerFalls_ES-ES0904440430_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GollingerFalls_ES-ES0904440430_UHD.jpg)|
-||*Copyright: Cascadas de Gollinger, Tennengau, Salzburgo, Austria (© Frank Fischbach/Alamy)*
+|2024-01-30|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AlbaceteSpain_ES-ES6264558269_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbaceteSpain_ES-ES6264558269_UHD.jpg)|
+||*Copyright: Ayna, Sierra de Segura, Albacete, España (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2024-01-30|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.GollingerFalls_FR-CA8735743106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GollingerFalls_FR-CA8735743106_UHD.jpg)|
-||*Copyright: Cascade de Gollinger, Tennengau, Salzbourg, Autriche (© Frank Fischbach/Alamy)*
+|2024-01-31|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AlbaceteSpain_FR-CA8897837933_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbaceteSpain_FR-CA8897837933_UHD.jpg)|
+||*Copyright: Ayna, Sierra del Segura, Albacete, Espagne (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
 
