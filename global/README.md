@@ -6,9 +6,9 @@
 ||*Copyright: Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2024-01-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AlbaceteSpain_JA-JP9272536909_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbaceteSpain_JA-JP9272536909_UHD.jpg)|
-||*Copyright: アイナ, スペイン カスティーリャ・ラ・マンチャ自治州 (© Juan Maria Coy Vergara/Getty Images)*
+|2024-01-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ZebraMother_JA-JP9484568475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZebraMother_JA-JP9484568475_UHD.jpg)|
+||*Copyright: リットフレイ自然保護区, 南アフリカ (© Richard Du Toit/Minden Pictures)*
 ||
 |||
 |2024-01-30|**Region: en-IN**||
