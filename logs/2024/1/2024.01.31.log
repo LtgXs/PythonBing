@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:20:44] Picture infomations saved to  global/fr-CA/README.md
 [09:20:44] Picture infomations saved to global/fr-CA/history/2024/02/01_fr-CA.md
 Program exit at 09:20:44
+
+Program started at 16:11:11
+Operating System Name: Linux
+Operating System Version: #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1249-755
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[16:11:11] Start geting CN Bing Wallpaper
+[16:11:11] Successful get url: https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg
+[16:11:11] Image saved to img/background.jpg
+[16:11:11] Info saved to README.md
+[16:11:11] Image saved to history/2024/02/01.md
+[16:11:11] Start geting global Bing Wallpaper, region=en-US, local time is 2024-01-31 11:11:11.945620-05:00
+[16:11:12] Successful get url: https://www.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg
+[16:11:12] Picture infomations saved to  global/en-US/README.md
+[16:11:12] Picture infomations saved to global/en-US/history/2024/02/01_en-US.md
+[16:11:12] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-02-01 01:11:12.129503+09:00
+[16:11:12] Successful get url: https://www.bing.com/th?id=OHR.DevetashkaCave_JA-JP9707792334_UHD.jpg
+[16:11:12] Picture infomations saved to  global/ja-JP/README.md
+[16:11:12] Picture infomations saved to global/ja-JP/history/2024/02/01_ja-JP.md
+[16:11:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-01-31 21:41:12.322593+05:30
+[16:11:12] Successful get url: https://www.bing.com/th?id=OHR.ZebraMother_EN-IN5092330040_UHD.jpg
+[16:11:12] Picture infomations saved to  global/en-IN/README.md
+[16:11:12] Picture infomations saved to global/en-IN/history/2024/01/31_en-IN.md
+[16:11:12] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-01-31 13:11:12.513757-03:00
+[16:11:12] Successful get url: https://www.bing.com/th?id=OHR.MacawParrot_PT-BR2174373090_UHD.jpg
+[16:11:12] Picture infomations saved to  global/pt-BR/README.md
+[16:11:12] Picture infomations saved to global/pt-BR/history/2024/02/01_pt-BR.md
+[16:11:12] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-01-31 17:11:12.703943+01:00
+[16:11:12] Successful get url: https://www.bing.com/th?id=OHR.ZebraMother_FR-FR5676160511_UHD.jpg
+[16:11:12] Picture infomations saved to  global/fr-FR/README.md
+[16:11:12] Picture infomations saved to global/fr-FR/history/2024/01/31_fr-FR.md
+[16:11:12] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-01-31 17:11:12.978227+01:00
+[16:11:13] Successful get url: https://www.bing.com/th?id=OHR.ZebraMother_DE-DE8530297892_UHD.jpg
+[16:11:13] Picture infomations saved to  global/de-DE/README.md
+[16:11:13] Picture infomations saved to global/de-DE/history/2024/01/31_de-DE.md
+[16:11:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-01-31 11:11:13.161320-05:00
+[16:11:13] Successful get url: https://www.bing.com/th?id=OHR.ZebraMother_EN-CA5020659638_UHD.jpg
+[16:11:13] Picture infomations saved to  global/en-CA/README.md
+[16:11:13] Picture infomations saved to global/en-CA/history/2024/02/01_en-CA.md
+[16:11:13] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-01-31 16:11:13.354640+00:00
+[16:11:13] Successful get url: https://www.bing.com/th?id=OHR.ZebraMother_EN-GB8255598898_UHD.jpg
+[16:11:13] Picture infomations saved to  global/en-GB/README.md
+[16:11:13] Picture infomations saved to global/en-GB/history/2024/02/01_en-GB.md
+[16:11:13] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-01-31 17:11:13.545112+01:00
+[16:11:13] Successful get url: https://www.bing.com/th?id=OHR.ZebraMother_IT-IT4043343068_UHD.jpg
+[16:11:13] Picture infomations saved to  global/it-IT/README.md
+[16:11:13] Picture infomations saved to global/it-IT/history/2024/01/31_it-IT.md
+[16:11:13] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-01-31 17:11:13.721495+01:00
+[16:11:13] Successful get url: https://www.bing.com/th?id=OHR.ZebraMother_ES-ES6542218245_UHD.jpg
+[16:11:13] Picture infomations saved to  global/es-ES/README.md
+[16:11:13] Picture infomations saved to global/es-ES/history/2024/01/31_es-ES.md
+[16:11:13] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-01-31 11:11:13.890868-05:00
+[16:11:13] Successful get url: https://www.bing.com/th?id=OHR.ZebraMother_FR-CA9105263189_UHD.jpg
+[16:11:14] Picture infomations saved to  global/fr-CA/README.md
+[16:11:14] Picture infomations saved to global/fr-CA/history/2024/02/01_fr-CA.md
+Program exit at 16:11:14

@@ -6,9 +6,9 @@
 ||*Copyright: Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)*
 ||
 |||
-|2024-01-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ZebraMother_JA-JP9484568475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZebraMother_JA-JP9484568475_UHD.jpg)|
-||*Copyright: リットフレイ自然保護区, 南アフリカ (© Richard Du Toit/Minden Pictures)*
+|2024-02-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DevetashkaCave_JA-JP9707792334_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevetashkaCave_JA-JP9707792334_UHD.jpg)|
+||*Copyright: デヴェタシュカ洞窟, ブルガリア (© Jasmine_K/Shutterstock)*
 ||
 |||
 |2024-01-31|**Region: en-IN**||
