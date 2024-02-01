@@ -6,9 +6,9 @@
 ||*Copyright: Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)*
 ||
 |||
-|2024-02-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DevetashkaCave_JA-JP9707792334_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevetashkaCave_JA-JP9707792334_UHD.jpg)|
-||*Copyright: デヴェタシュカ洞窟, ブルガリア (© Jasmine_K/Shutterstock)*
+|2024-02-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AlpineMarmot_JA-JP5712211606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineMarmot_JA-JP5712211606_UHD.jpg)|
+||*Copyright: 巣穴から顔を出すマーモット (© Scacciamosche/Getty Images)*
 ||
 |||
 |2024-02-01|**Region: en-IN**||
