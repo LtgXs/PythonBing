@@ -1,0 +1,60 @@
+
+Program started at 09:22:33
+Operating System Name: Linux
+Operating System Version: #19~22.04.1-Ubuntu SMP Wed Jan 10 22:57:03 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1543-44
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[09:22:33] Start geting CN Bing Wallpaper
+[09:22:34] Successful get url: https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg
+[09:22:34] Image saved to img/background.jpg
+[09:22:34] Info saved to README.md
+[09:22:34] Image saved to history/2024/02/01.md
+[09:22:34] Start geting global Bing Wallpaper, region=en-US, local time is 2024-02-01 04:22:34.140360-05:00
+[09:22:34] Successful get url: https://www.bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg
+[09:22:34] Picture infomations saved to  global/en-US/README.md
+[09:22:34] Picture infomations saved to global/en-US/history/2024/02/02_en-US.md
+[09:22:34] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-02-01 18:22:34.333527+09:00
+[09:22:34] Successful get url: https://www.bing.com/th?id=OHR.DevetashkaCave_JA-JP9707792334_UHD.jpg
+[09:22:34] Picture infomations saved to  global/ja-JP/README.md
+[09:22:34] Picture infomations saved to global/ja-JP/history/2024/02/01_ja-JP.md
+[09:22:34] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-02-01 14:52:34.523536+05:30
+[09:22:34] Successful get url: https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-IN7833370046_UHD.jpg
+[09:22:34] Picture infomations saved to  global/en-IN/README.md
+[09:22:34] Picture infomations saved to global/en-IN/history/2024/02/01_en-IN.md
+[09:22:34] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-02-01 06:22:34.713971-03:00
+[09:22:34] Successful get url: https://www.bing.com/th?id=OHR.HalbinselJasmund_PT-BR2384900992_UHD.jpg
+[09:22:34] Picture infomations saved to  global/pt-BR/README.md
+[09:22:34] Picture infomations saved to global/pt-BR/history/2024/02/02_pt-BR.md
+[09:22:34] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-02-01 10:22:34.880123+01:00
+[09:22:34] Successful get url: https://www.bing.com/th?id=OHR.HalbinselJasmund_FR-FR6083504122_UHD.jpg
+[09:22:35] Picture infomations saved to  global/fr-FR/README.md
+[09:22:35] Picture infomations saved to global/fr-FR/history/2024/02/01_fr-FR.md
+[09:22:35] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-02-01 10:22:35.043413+01:00
+[09:22:35] Successful get url: https://www.bing.com/th?id=OHR.HalbinselJasmund_DE-DE8684103043_UHD.jpg
+[09:22:35] Picture infomations saved to  global/de-DE/README.md
+[09:22:35] Picture infomations saved to global/de-DE/history/2024/02/01_de-DE.md
+[09:22:35] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-02-01 04:22:35.226182-05:00
+[09:22:35] Successful get url: https://www.bing.com/th?id=OHR.PolarBearResting_EN-CA5363891860_UHD.jpg
+[09:22:35] Picture infomations saved to  global/en-CA/README.md
+[09:22:35] Picture infomations saved to global/en-CA/history/2024/02/02_en-CA.md
+[09:22:35] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-02-01 09:22:35.413241+00:00
+[09:22:35] Successful get url: https://www.bing.com/th?id=OHR.HalbinselJasmund_EN-GB9035766828_UHD.jpg
+[09:22:35] Picture infomations saved to  global/en-GB/README.md
+[09:22:35] Picture infomations saved to global/en-GB/history/2024/02/02_en-GB.md
+[09:22:35] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-02-01 10:22:35.570358+01:00
+[09:22:35] Successful get url: https://www.bing.com/th?id=OHR.HalbinselJasmund_IT-IT4499863722_UHD.jpg
+[09:22:35] Picture infomations saved to  global/it-IT/README.md
+[09:22:35] Picture infomations saved to global/it-IT/history/2024/02/01_it-IT.md
+[09:22:35] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-02-01 10:22:35.746679+01:00
+[09:22:35] Successful get url: https://www.bing.com/th?id=OHR.HalbinselJasmund_ES-ES6725793206_UHD.jpg
+[09:22:35] Picture infomations saved to  global/es-ES/README.md
+[09:22:35] Picture infomations saved to global/es-ES/history/2024/02/01_es-ES.md
+[09:22:35] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-02-01 04:22:35.917683-05:00
+[09:22:35] Successful get url: https://www.bing.com/th?id=OHR.PolarBearResting_FR-CA9620717871_UHD.jpg
+[09:22:36] Picture infomations saved to  global/fr-CA/README.md
+[09:22:36] Picture infomations saved to global/fr-CA/history/2024/02/02_fr-CA.md
+Program exit at 09:22:36

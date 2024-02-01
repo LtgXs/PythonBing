@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-02-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg)|
-||*Copyright: Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)*
+|2024-02-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg)|
+||*Copyright: Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)*
 ||
 |||
 |2024-02-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: デヴェタシュカ洞窟, ブルガリア (© Jasmine_K/Shutterstock)*
 ||
 |||
-|2024-01-31|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ZebraMother_EN-IN5092330040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZebraMother_EN-IN5092330040_UHD.jpg)|
-||*Copyright: Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)*
+|2024-02-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-IN7833370046_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-IN7833370046_UHD.jpg)|
+||*Copyright: Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2024-02-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MacawParrot_PT-BR2174373090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MacawParrot_PT-BR2174373090_UHD.jpg)|
-||*Copyright: Arara-canindé voando na floresta do Pantanal, Brasil (© Ondrej Prosicky/Shutterstock)*
+|2024-02-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HalbinselJasmund_PT-BR2384900992_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalbinselJasmund_PT-BR2384900992_UHD.jpg)|
+||*Copyright: Farol de Sassnitz, Rügen, Mecklenburg-Pomerânia Ocidental (© Christian Back/eStock)*
 ||
 |||
-|2024-01-31|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ZebraMother_FR-FR5676160511_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZebraMother_FR-FR5676160511_UHD.jpg)|
-||*Copyright: Zèbre de Burchell, mère et poulain, réserve naturelle de Rietvlei, Afrique du Sud (© Richard Du Toit/Minden Pictures)*
+|2024-02-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HalbinselJasmund_FR-FR6083504122_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalbinselJasmund_FR-FR6083504122_UHD.jpg)|
+||*Copyright: Phare de Sassnitz, Rügen, Mecklembourg-Poméranie-Occidentale,  Allemagne (© Christian Back/eStock)*
 ||
 |||
-|2024-01-31|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ZebraMother_DE-DE8530297892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZebraMother_DE-DE8530297892_UHD.jpg)|
-||*Copyright: Burchell-Zebra Mutter und Fohlen, Rietvlei Nature Reserve, Südafrika (© Richard Du Toit/Minden Pictures)*
+|2024-02-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HalbinselJasmund_DE-DE8684103043_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalbinselJasmund_DE-DE8684103043_UHD.jpg)|
+||*Copyright: Sassnitz Leuchtturm, Rügen, Mecklenburg-Vorpommern (© Christian Back/eStock)*
 ||
 |||
-|2024-02-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ZebraMother_EN-CA5020659638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZebraMother_EN-CA5020659638_UHD.jpg)|
-||*Copyright: Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)*
+|2024-02-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PolarBearResting_EN-CA5363891860_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearResting_EN-CA5363891860_UHD.jpg)|
+||*Copyright: Polar bear resting in rocky landscape, Churchill, Manitoba, Canada (© Warwick Sloss/NPL/Minden Pictures)*
 ||
 |||
-|2024-02-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ZebraMother_EN-GB8255598898_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZebraMother_EN-GB8255598898_UHD.jpg)|
-||*Copyright: Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)*
+|2024-02-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HalbinselJasmund_EN-GB9035766828_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalbinselJasmund_EN-GB9035766828_UHD.jpg)|
+||*Copyright: Sassnitz lighthouse, Rügen, Germany (© Christian Back/Huber/eStock Photo)*
 ||
 |||
-|2024-01-31|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ZebraMother_IT-IT4043343068_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZebraMother_IT-IT4043343068_UHD.jpg)|
-||*Copyright: Esemplare di zebra di Burchell con il suo piccolo, Riserva naturale di Rietvlei, Sud Africa (© Richard Du Toit/Minden Pictures)*
+|2024-02-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HalbinselJasmund_IT-IT4499863722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalbinselJasmund_IT-IT4499863722_UHD.jpg)|
+||*Copyright: Faro di Sassnitz sull’isola di Rüge, Germania (© Christian Back/eStock)*
 ||
 |||
-|2024-01-31|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ZebraMother_ES-ES6542218245_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZebraMother_ES-ES6542218245_UHD.jpg)|
-||*Copyright: Madre y potro de cebra de Burchell, Reserva Natural de Rietvlei, Sudáfrica (© Richard Du Toit/Minden Pictures)*
+|2024-02-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HalbinselJasmund_ES-ES6725793206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalbinselJasmund_ES-ES6725793206_UHD.jpg)|
+||*Copyright: Faro de Sassnitz en la isla de Rügen, Alemania (© Christian Back/eStock)*
 ||
 |||
-|2024-02-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ZebraMother_FR-CA9105263189_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZebraMother_FR-CA9105263189_UHD.jpg)|
-||*Copyright: Zèbre de Burchell, mère et poulain, réserve naturelle de Rietvlei, Afrique du Sud (© Richard Du Toit/Minden Pictures)*
+|2024-02-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PolarBearResting_FR-CA9620717871_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearResting_FR-CA9620717871_UHD.jpg)|
+||*Copyright: Ours polaire se reposant dans un paysage rocheux, Churchill, Manitoba, Canada (© Warwick Sloss/NPL/Minden Pictures)*
 ||
 |||
 
