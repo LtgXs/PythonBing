@@ -6,9 +6,9 @@
 ||*Copyright: Marmot peeking out of its burrow (© Scacciamosche/Getty Images)*
 ||
 |||
-|2024-02-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AlpineMarmot_JA-JP5712211606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineMarmot_JA-JP5712211606_UHD.jpg)|
-||*Copyright: 巣穴から顔を出すマーモット (© Scacciamosche/Getty Images)*
+|2024-02-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Hakodate2024_JA-JP0227242180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hakodate2024_JA-JP0227242180_UHD.jpg)|
+||*Copyright: 函館山から見る夜景, 北海道 函館市 (© Hiro1775/Getty Images)*
 ||
 |||
 |2024-02-02|**Region: en-IN**||
