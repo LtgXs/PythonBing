@@ -1,0 +1,60 @@
+
+Program started at 09:21:31
+Operating System Name: Linux
+Operating System Version: #19~22.04.1-Ubuntu SMP Wed Jan 10 22:57:03 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1499-134
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[09:21:31] Start geting CN Bing Wallpaper
+[09:21:31] Successful get url: https://www.bing.com/th?id=OHR.AlpineMarmot_ZH-CN3818584615_UHD.jpg
+[09:21:31] Image saved to img/background.jpg
+[09:21:31] Info saved to README.md
+[09:21:31] Image saved to history/2024/02/02.md
+[09:21:31] Start geting global Bing Wallpaper, region=en-US, local time is 2024-02-02 04:21:31.402040-05:00
+[09:21:31] Successful get url: https://www.bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_UHD.jpg
+[09:21:31] Picture infomations saved to  global/en-US/README.md
+[09:21:31] Picture infomations saved to global/en-US/history/2024/02/03_en-US.md
+[09:21:31] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-02-02 18:21:31.636824+09:00
+[09:21:31] Successful get url: https://www.bing.com/th?id=OHR.AlpineMarmot_JA-JP5712211606_UHD.jpg
+[09:21:31] Picture infomations saved to  global/ja-JP/README.md
+[09:21:31] Picture infomations saved to global/ja-JP/history/2024/02/02_ja-JP.md
+[09:21:31] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-02-02 14:51:31.837681+05:30
+[09:21:31] Successful get url: https://www.bing.com/th?id=OHR.AlpineMarmot_EN-IN2558708163_UHD.jpg
+[09:21:32] Picture infomations saved to  global/en-IN/README.md
+[09:21:32] Picture infomations saved to global/en-IN/history/2024/02/02_en-IN.md
+[09:21:32] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-02-02 06:21:32.045052-03:00
+[09:21:32] Successful get url: https://www.bing.com/th?id=OHR.AlpineMarmot_PT-BR7817972128_UHD.jpg
+[09:21:32] Picture infomations saved to  global/pt-BR/README.md
+[09:21:32] Picture infomations saved to global/pt-BR/history/2024/02/03_pt-BR.md
+[09:21:32] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-02-02 10:21:32.188763+01:00
+[09:21:32] Successful get url: https://www.bing.com/th?id=OHR.Chandeleur_FR-FR6465418601_UHD.jpg
+[09:21:32] Picture infomations saved to  global/fr-FR/README.md
+[09:21:32] Picture infomations saved to global/fr-FR/history/2024/02/02_fr-FR.md
+[09:21:32] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-02-02 10:21:32.403360+01:00
+[09:21:32] Successful get url: https://www.bing.com/th?id=OHR.AlpineMarmot_DE-DE8110603230_UHD.jpg
+[09:21:32] Picture infomations saved to  global/de-DE/README.md
+[09:21:32] Picture infomations saved to global/de-DE/history/2024/02/02_de-DE.md
+[09:21:32] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-02-02 04:21:32.537308-05:00
+[09:21:32] Successful get url: https://www.bing.com/th?id=OHR.AlpineMarmot_EN-CA0148441892_UHD.jpg
+[09:21:32] Picture infomations saved to  global/en-CA/README.md
+[09:21:32] Picture infomations saved to global/en-CA/history/2024/02/03_en-CA.md
+[09:21:32] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-02-02 09:21:32.710053+00:00
+[09:21:32] Successful get url: https://www.bing.com/th?id=OHR.SixNationsStartUK_EN-GB9311975661_UHD.jpg
+[09:21:32] Picture infomations saved to  global/en-GB/README.md
+[09:21:32] Picture infomations saved to global/en-GB/history/2024/02/03_en-GB.md
+[09:21:32] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-02-02 10:21:32.871871+01:00
+[09:21:32] Successful get url: https://www.bing.com/th?id=OHR.AlpineMarmot_IT-IT3513060995_UHD.jpg
+[09:21:33] Picture infomations saved to  global/it-IT/README.md
+[09:21:33] Picture infomations saved to global/it-IT/history/2024/02/02_it-IT.md
+[09:21:33] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-02-02 10:21:33.035494+01:00
+[09:21:33] Successful get url: https://www.bing.com/th?id=OHR.AlpineMarmot_ES-ES0215898729_UHD.jpg
+[09:21:33] Picture infomations saved to  global/es-ES/README.md
+[09:21:33] Picture infomations saved to global/es-ES/history/2024/02/02_es-ES.md
+[09:21:33] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-02-02 04:21:33.199690-05:00
+[09:21:33] Successful get url: https://www.bing.com/th?id=OHR.AlpineMarmot_FR-CA0148868169_UHD.jpg
+[09:21:33] Picture infomations saved to  global/fr-CA/README.md
+[09:21:33] Picture infomations saved to global/fr-CA/history/2024/02/03_fr-CA.md
+Program exit at 09:21:33
