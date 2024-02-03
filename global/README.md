@@ -6,9 +6,9 @@
 ||*Copyright: Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)*
 ||
 |||
-|2024-02-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Hakodate2024_JA-JP0227242180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hakodate2024_JA-JP0227242180_UHD.jpg)|
-||*Copyright: 函館山から見る夜景, 北海道 函館市 (© Hiro1775/Getty Images)*
+|2024-02-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Risshun2024_JA-JP0473025978_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Risshun2024_JA-JP0473025978_UHD.jpg)|
+||*Copyright: 梅の枝に止まるメジロ  (© pheeby/Adobe Stock)*
 ||
 |||
 |2024-02-03|**Region: en-IN**||
