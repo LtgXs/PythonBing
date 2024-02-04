@@ -6,9 +6,9 @@
 ||*Copyright: Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)*
 ||
 |||
-|2024-02-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Risshun2024_JA-JP0473025978_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Risshun2024_JA-JP0473025978_UHD.jpg)|
-||*Copyright: 梅の枝に止まるメジロ  (© pheeby/Adobe Stock)*
+|2024-02-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TeideNational_JA-JP0929359307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeideNational_JA-JP0929359307_UHD.jpg)|
+||*Copyright: テイデ国立公園, スペイン (© Javier Martínez Morán/Alamy)*
 ||
 |||
 |2024-02-04|**Region: en-IN**||

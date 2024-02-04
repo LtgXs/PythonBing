@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:20:13] Picture infomations saved to  global/fr-CA/README.md
 [09:20:13] Picture infomations saved to global/fr-CA/history/2024/02/05_fr-CA.md
 Program exit at 09:20:13
+
+Program started at 16:10:05
+Operating System Name: Linux
+Operating System Version: #19~22.04.1-Ubuntu SMP Wed Jan 10 22:57:03 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1535-568
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[16:10:05] Start geting CN Bing Wallpaper
+[16:10:05] Successful get url: https://www.bing.com/th?id=OHR.LakeBledSunrise_ZH-CN5580697031_UHD.jpg
+[16:10:05] Image saved to img/background.jpg
+[16:10:05] Info saved to README.md
+[16:10:05] Image saved to history/2024/02/05.md
+[16:10:05] Start geting global Bing Wallpaper, region=en-US, local time is 2024-02-04 11:10:05.554085-05:00
+[16:10:05] Successful get url: https://www.bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg
+[16:10:05] Picture infomations saved to  global/en-US/README.md
+[16:10:05] Picture infomations saved to global/en-US/history/2024/02/05_en-US.md
+[16:10:05] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-02-05 01:10:05.715751+09:00
+[16:10:05] Successful get url: https://www.bing.com/th?id=OHR.TeideNational_JA-JP0929359307_UHD.jpg
+[16:10:05] Picture infomations saved to  global/ja-JP/README.md
+[16:10:05] Picture infomations saved to global/ja-JP/history/2024/02/05_ja-JP.md
+[16:10:05] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-02-04 21:40:05.866376+05:30
+[16:10:05] Successful get url: https://www.bing.com/th?id=OHR.DevetashkaCave_EN-IN5940085595_UHD.jpg
+[16:10:06] Picture infomations saved to  global/en-IN/README.md
+[16:10:06] Picture infomations saved to global/en-IN/history/2024/02/04_en-IN.md
+[16:10:06] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-02-04 13:10:06.024609-03:00
+[16:10:06] Successful get url: https://www.bing.com/th?id=OHR.DevetashkaCave_PT-BR2895645670_UHD.jpg
+[16:10:06] Picture infomations saved to  global/pt-BR/README.md
+[16:10:06] Picture infomations saved to global/pt-BR/history/2024/02/05_pt-BR.md
+[16:10:06] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-02-04 17:10:06.216104+01:00
+[16:10:06] Successful get url: https://www.bing.com/th?id=OHR.DevetashkaCave_FR-FR4993374932_UHD.jpg
+[16:10:06] Picture infomations saved to  global/fr-FR/README.md
+[16:10:06] Picture infomations saved to global/fr-FR/history/2024/02/04_fr-FR.md
+[16:10:06] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-02-04 17:10:06.397974+01:00
+[16:10:06] Successful get url: https://www.bing.com/th?id=OHR.DevetashkaCave_DE-DE0726583850_UHD.jpg
+[16:10:06] Picture infomations saved to  global/de-DE/README.md
+[16:10:06] Picture infomations saved to global/de-DE/history/2024/02/04_de-DE.md
+[16:10:06] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-02-04 11:10:06.603603-05:00
+[16:10:06] Successful get url: https://www.bing.com/th?id=OHR.DevetashkaCave_EN-CA8463876587_UHD.jpg
+[16:10:06] Picture infomations saved to  global/en-CA/README.md
+[16:10:06] Picture infomations saved to global/en-CA/history/2024/02/05_en-CA.md
+[16:10:06] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-02-04 16:10:06.787304+00:00
+[16:10:06] Successful get url: https://www.bing.com/th?id=OHR.DevetashkaCave_EN-GB0187525185_UHD.jpg
+[16:10:06] Picture infomations saved to  global/en-GB/README.md
+[16:10:06] Picture infomations saved to global/en-GB/history/2024/02/05_en-GB.md
+[16:10:06] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-02-04 17:10:06.937582+01:00
+[16:10:07] Successful get url: https://www.bing.com/th?id=OHR.DevetashkaCave_IT-IT5414731780_UHD.jpg
+[16:10:07] Picture infomations saved to  global/it-IT/README.md
+[16:10:07] Picture infomations saved to global/it-IT/history/2024/02/04_it-IT.md
+[16:10:07] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-02-04 17:10:07.105471+01:00
+[16:10:07] Successful get url: https://www.bing.com/th?id=OHR.DevetashkaCave_ES-ES7825741448_UHD.jpg
+[16:10:07] Picture infomations saved to  global/es-ES/README.md
+[16:10:07] Picture infomations saved to global/es-ES/history/2024/02/04_es-ES.md
+[16:10:07] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-02-04 11:10:07.269538-05:00
+[16:10:07] Successful get url: https://www.bing.com/th?id=OHR.DevetashkaCave_FR-CA0940185215_UHD.jpg
+[16:10:07] Picture infomations saved to  global/fr-CA/README.md
+[16:10:07] Picture infomations saved to global/fr-CA/history/2024/02/05_fr-CA.md
+Program exit at 16:10:07
