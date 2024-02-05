@@ -6,9 +6,9 @@
 ||*Copyright: Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)*
 ||
 |||
-|2024-02-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TeideNational_JA-JP0929359307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeideNational_JA-JP0929359307_UHD.jpg)|
-||*Copyright: テイデ国立公園, スペイン (© Javier Martínez Morán/Alamy)*
+|2024-02-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LakeTahoeRock_JA-JP1426233885_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTahoeRock_JA-JP1426233885_UHD.jpg)|
+||*Copyright: タホ湖, 米国 (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
 |2024-02-05|**Region: en-IN**||
