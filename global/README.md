@@ -6,9 +6,9 @@
 ||*Copyright: Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2024-02-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LakeTahoeRock_JA-JP1426233885_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTahoeRock_JA-JP1426233885_UHD.jpg)|
-||*Copyright: タホ湖, 米国 (© Jim Patterson/Tandem Stills + Motion)*
+|2024-02-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GrandCanyonVerdon_JA-JP1674672705_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandCanyonVerdon_JA-JP1674672705_UHD.jpg)|
+||*Copyright: ヴェルドン峡谷, フランス (© Hemis/Alamy)*
 ||
 |||
 |2024-02-06|**Region: en-IN**||
