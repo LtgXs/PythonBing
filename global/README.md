@@ -6,9 +6,9 @@
 ||*Copyright: St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)*
 ||
 |||
-|2024-02-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GrandCanyonVerdon_JA-JP1674672705_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandCanyonVerdon_JA-JP1674672705_UHD.jpg)|
-||*Copyright: ヴェルドン峡谷, フランス (© Hemis/Alamy)*
+|2024-02-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MtHoodOregon_JA-JP1952709545_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_JA-JP1952709545_UHD.jpg)|
+||*Copyright: フッド山, 米国 オレゴン州 (© Inigo Cia/Getty Images)*
 ||
 |||
 |2024-02-07|**Region: en-IN**||
