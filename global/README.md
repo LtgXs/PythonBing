@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-02-07|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LakeTahoeRock_EN-US8513392756_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTahoeRock_EN-US8513392756_UHD.jpg)|
-||*Copyright: Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)*
+|2024-02-08|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg)|
+||*Copyright: St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)*
 ||
 |||
 |2024-02-07|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ヴェルドン峡谷, フランス (© Hemis/Alamy)*
 ||
 |||
-|2024-02-06|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LakeTahoeRock_EN-IN9092668370_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTahoeRock_EN-IN9092668370_UHD.jpg)|
-||*Copyright: Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)*
+|2024-02-07|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.StJamesPool_EN-IN9666211879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_EN-IN9666211879_UHD.jpg)|
+||*Copyright: St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)*
 ||
 |||
-|2024-02-07|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LakeTahoeRock_PT-BR3293078683_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTahoeRock_PT-BR3293078683_UHD.jpg)|
-||*Copyright: Bonsai Rock, Lago Tahoe, EUA (© Jim Patterson/Tandem Stills + Motion)*
+|2024-02-08|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PovosIndigenas_PT-BR6197320294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PovosIndigenas_PT-BR6197320294_UHD.jpg)|
+||*Copyright: Figuras feitas pelos indígenas locais de Manaus, Brasil (© rchphoto/Getty Images)*
 ||
 |||
-|2024-02-06|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LakeTahoeRock_FR-FR6130128094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTahoeRock_FR-FR6130128094_UHD.jpg)|
-||*Copyright: Bonsai Rock, lac Tahoe, États-Unis (© Jim Patterson/Tandem Stills + Motion)*
+|2024-02-07|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.StJamesPool_FR-FR6584771825_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_FR-FR6584771825_UHD.jpg)|
+||*Copyright: Piscine Tidal, plage St James, Le Cap, Afrique du Sud (© AmazingAerialAgency/Adobe)*
 ||
 |||
-|2024-02-06|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LakeTahoeRock_DE-DE1626232597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTahoeRock_DE-DE1626232597_UHD.jpg)|
-||*Copyright: Bonsai Rock, Lake Tahoe, USA (© Jim Patterson/Tandem Stills + Motion)*
+|2024-02-07|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.StJamesPool_DE-DE1729086692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_DE-DE1729086692_UHD.jpg)|
+||*Copyright: St. James Tidal Pool, Kapstadt, Südafrika (© AmazingAerialAgency/Adobe)*
 ||
 |||
-|2024-02-07|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LakeTahoeRock_EN-CA0439655696_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTahoeRock_EN-CA0439655696_UHD.jpg)|
-||*Copyright: Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)*
+|2024-02-08|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.StJamesPool_EN-CA4005235851_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_EN-CA4005235851_UHD.jpg)|
+||*Copyright: St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)*
 ||
 |||
-|2024-02-07|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LakeTahoeRock_EN-GB2276440186_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTahoeRock_EN-GB2276440186_UHD.jpg)|
-||*Copyright: Bonsai Rock, Lake Tahoe, Nevada, USA (© Jim Patterson/Tandem Stills + Motion)*
+|2024-02-08|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.StJamesPool_EN-GB2890656111_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_EN-GB2890656111_UHD.jpg)|
+||*Copyright: St James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)*
 ||
 |||
-|2024-02-06|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SanremoFestival_IT-IT4644793189_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanremoFestival_IT-IT4644793189_UHD.jpg)|
-||*Copyright: Città di Sanremo di notte (© Surkov Dimitri/Getty Images)*
+|2024-02-07|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.StJamesPool_IT-IT1919954550_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_IT-IT1919954550_UHD.jpg)|
+||*Copyright: St. James Tidal Pool, Città del Capo, Sudafrica (© AmazingAerialAgency/Adobe)*
 ||
 |||
-|2024-02-06|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LakeTahoeRock_ES-ES8162819510_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTahoeRock_ES-ES8162819510_UHD.jpg)|
-||*Copyright: Bonsai Rock, Lago Tahoe, EE.UU. (© Jim Patterson/Tandem Stills + Motion)*
+|2024-02-07|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.StJamesPool_ES-ES0103959547_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_ES-ES0103959547_UHD.jpg)|
+||*Copyright: St. James Tidal Pool, Ciudad del Cabo, Sudáfrica (© AmazingAerialAgency/Adobe)*
 ||
 |||
-|2024-02-07|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LakeTahoeRock_FR-CA1317270894_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTahoeRock_FR-CA1317270894_UHD.jpg)|
-||*Copyright: Bonsai Rock, lac Tahoe, États-Unis (© Jim Patterson/Tandem Stills + Motion)*
+|2024-02-08|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.StJamesPool_FR-CA1459733898_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_FR-CA1459733898_UHD.jpg)|
+||*Copyright: Piscine Tidal, plage St James, Le Cap, Afrique du Sud (© AmazingAerialAgency/Adobe)*
 ||
 |||
 
