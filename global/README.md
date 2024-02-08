@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-02-08|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg)|
-||*Copyright: St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)*
+|2024-02-09|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg)|
+||*Copyright: Mount Hood, Oregon (© Inigo Cia/Getty Images)*
 ||
 |||
 |2024-02-08|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: フッド山, 米国 オレゴン州 (© Inigo Cia/Getty Images)*
 ||
 |||
-|2024-02-07|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.StJamesPool_EN-IN9666211879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_EN-IN9666211879_UHD.jpg)|
-||*Copyright: St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)*
+|2024-02-08|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-IN0378754040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-IN0378754040_UHD.jpg)|
+||*Copyright: Mount Hood, Oregon (© Inigo Cia/Getty Images)*
 ||
 |||
-|2024-02-08|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PovosIndigenas_PT-BR6197320294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PovosIndigenas_PT-BR6197320294_UHD.jpg)|
-||*Copyright: Figuras feitas pelos indígenas locais de Manaus, Brasil (© rchphoto/Getty Images)*
+|2024-02-09|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MtHoodOregon_PT-BR4355402757_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_PT-BR4355402757_UHD.jpg)|
+||*Copyright: Monte Hood, Oregon, EUA (© Inigo Cia/Getty Images)*
 ||
 |||
-|2024-02-07|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.StJamesPool_FR-FR6584771825_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_FR-FR6584771825_UHD.jpg)|
-||*Copyright: Piscine Tidal, plage St James, Le Cap, Afrique du Sud (© AmazingAerialAgency/Adobe)*
+|2024-02-08|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MtHoodOregon_FR-FR7401351171_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_FR-FR7401351171_UHD.jpg)|
+||*Copyright: Mont Hood, Oregon, États-Unis (© Inigo Cia/Getty Images)*
 ||
 |||
-|2024-02-07|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.StJamesPool_DE-DE1729086692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_DE-DE1729086692_UHD.jpg)|
-||*Copyright: St. James Tidal Pool, Kapstadt, Südafrika (© AmazingAerialAgency/Adobe)*
+|2024-02-08|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MtHoodOregon_DE-DE1892795022_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_DE-DE1892795022_UHD.jpg)|
+||*Copyright: Mount Hood, Stratovulkan, Oregon, USA (© Inigo Cia/Getty Images)*
 ||
 |||
-|2024-02-08|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.StJamesPool_EN-CA4005235851_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_EN-CA4005235851_UHD.jpg)|
-||*Copyright: St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)*
+|2024-02-09|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-CA4458868395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-CA4458868395_UHD.jpg)|
+||*Copyright: Mount Hood, Oregon (© Inigo Cia/Getty Images)*
 ||
 |||
-|2024-02-08|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.StJamesPool_EN-GB2890656111_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_EN-GB2890656111_UHD.jpg)|
-||*Copyright: St James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)*
+|2024-02-09|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-GB3166689282_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-GB3166689282_UHD.jpg)|
+||*Copyright: Mount Hood, Oregon, USA (© Inigo Cia/Getty Images)*
 ||
 |||
-|2024-02-07|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.StJamesPool_IT-IT1919954550_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_IT-IT1919954550_UHD.jpg)|
-||*Copyright: St. James Tidal Pool, Città del Capo, Sudafrica (© AmazingAerialAgency/Adobe)*
+|2024-02-08|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MtHoodOregon_IT-IT1426084840_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_IT-IT1426084840_UHD.jpg)|
+||*Copyright: Monte Hood, Oregon, USA (© Inigo Cia/Getty Images)*
 ||
 |||
-|2024-02-07|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.StJamesPool_ES-ES0103959547_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_ES-ES0103959547_UHD.jpg)|
-||*Copyright: St. James Tidal Pool, Ciudad del Cabo, Sudáfrica (© AmazingAerialAgency/Adobe)*
+|2024-02-08|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MtHoodOregon_ES-ES8487119175_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_ES-ES8487119175_UHD.jpg)|
+||*Copyright: Monte Hood, Oregón, EE.UU. (© Inigo Cia/Getty Images)*
 ||
 |||
-|2024-02-08|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.StJamesPool_FR-CA1459733898_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StJamesPool_FR-CA1459733898_UHD.jpg)|
-||*Copyright: Piscine Tidal, plage St James, Le Cap, Afrique du Sud (© AmazingAerialAgency/Adobe)*
+|2024-02-09|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MtHoodOregon_FR-CA1616294369_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_FR-CA1616294369_UHD.jpg)|
+||*Copyright: Mont Hood, Oregon, États-Unis (© Inigo Cia/Getty Images)*
 ||
 |||
 
