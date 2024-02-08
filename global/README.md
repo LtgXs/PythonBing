@@ -6,9 +6,9 @@
 ||*Copyright: Mount Hood, Oregon (© Inigo Cia/Getty Images)*
 ||
 |||
-|2024-02-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MtHoodOregon_JA-JP1952709545_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_JA-JP1952709545_UHD.jpg)|
-||*Copyright: フッド山, 米国 オレゴン州 (© Inigo Cia/Getty Images)*
+|2024-02-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SapporoSnowFest2024_JA-JP5845958327_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapporoSnowFest2024_JA-JP5845958327_UHD.jpg)|
+||*Copyright: お城の雪像, 北海道 札幌市 (© Terry Donnelly/Alamy Stock Photo)*
 ||
 |||
 |2024-02-08|**Region: en-IN**||
