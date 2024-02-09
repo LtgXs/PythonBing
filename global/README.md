@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-02-09|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg)|
-||*Copyright: Mount Hood, Oregon (© Inigo Cia/Getty Images)*
+|2024-02-10|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg)|
+||*Copyright: Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)*
 ||
 |||
 |2024-02-09|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: お城の雪像, 北海道 札幌市 (© Terry Donnelly/Alamy Stock Photo)*
 ||
 |||
-|2024-02-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-IN0378754040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-IN0378754040_UHD.jpg)|
-||*Copyright: Mount Hood, Oregon (© Inigo Cia/Getty Images)*
+|2024-02-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PegadungRocks_EN-IN8508139337_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PegadungRocks_EN-IN8508139337_UHD.jpg)|
+||*Copyright: Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)*
 ||
 |||
-|2024-02-09|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MtHoodOregon_PT-BR4355402757_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_PT-BR4355402757_UHD.jpg)|
-||*Copyright: Monte Hood, Oregon, EUA (© Inigo Cia/Getty Images)*
+|2024-02-10|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PraiadeCopacabana_PT-BR1256625219_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PraiadeCopacabana_PT-BR1256625219_UHD.jpg)|
+||*Copyright: Praia de Copacabana, Rio de Janeiro, Brasil (© Anton Petrus/Getty Images)*
 ||
 |||
-|2024-02-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MtHoodOregon_FR-FR7401351171_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_FR-FR7401351171_UHD.jpg)|
-||*Copyright: Mont Hood, Oregon, États-Unis (© Inigo Cia/Getty Images)*
+|2024-02-09|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PegadungRocks_FR-FR0984354515_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PegadungRocks_FR-FR0984354515_UHD.jpg)|
+||*Copyright: Rocher de Pegadung, Lampung, Sumatra, Indonésie (© CK NG/500px/Getty Images)*
 ||
 |||
-|2024-02-08|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MtHoodOregon_DE-DE1892795022_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_DE-DE1892795022_UHD.jpg)|
-||*Copyright: Mount Hood, Stratovulkan, Oregon, USA (© Inigo Cia/Getty Images)*
+|2024-02-09|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PegadungRocks_DE-DE2295980114_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PegadungRocks_DE-DE2295980114_UHD.jpg)|
+||*Copyright: Pegadung-Felsen, Lampung, Sumatra, Indonesien (© CK NG/500px/Getty Images)*
 ||
 |||
-|2024-02-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-CA4458868395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-CA4458868395_UHD.jpg)|
-||*Copyright: Mount Hood, Oregon (© Inigo Cia/Getty Images)*
+|2024-02-10|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PegadungRocks_EN-CA1944880628_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PegadungRocks_EN-CA1944880628_UHD.jpg)|
+||*Copyright: Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)*
 ||
 |||
-|2024-02-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-GB3166689282_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-GB3166689282_UHD.jpg)|
-||*Copyright: Mount Hood, Oregon, USA (© Inigo Cia/Getty Images)*
+|2024-02-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PegadungRocks_EN-GB6159819116_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PegadungRocks_EN-GB6159819116_UHD.jpg)|
+||*Copyright: Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)*
 ||
 |||
-|2024-02-08|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MtHoodOregon_IT-IT1426084840_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_IT-IT1426084840_UHD.jpg)|
-||*Copyright: Monte Hood, Oregon, USA (© Inigo Cia/Getty Images)*
+|2024-02-09|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PegadungRocks_IT-IT3929820367_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PegadungRocks_IT-IT3929820367_UHD.jpg)|
+||*Copyright: Pegadung Rock, Provincia di Lampung, Isola di Sumatra, Indonesia (© CK NG/500px/Getty Images)*
 ||
 |||
-|2024-02-08|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MtHoodOregon_ES-ES8487119175_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_ES-ES8487119175_UHD.jpg)|
-||*Copyright: Monte Hood, Oregón, EE.UU. (© Inigo Cia/Getty Images)*
+|2024-02-09|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.Ribadeo_ES-ES6070191561_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Ribadeo_ES-ES6070191561_UHD.jpg)|
+||*Copyright: Vista del faro de Ribadeo, Galicia, España (© Stas Moroz/Shutterstock)*
 ||
 |||
-|2024-02-09|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MtHoodOregon_FR-CA1616294369_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtHoodOregon_FR-CA1616294369_UHD.jpg)|
-||*Copyright: Mont Hood, Oregon, États-Unis (© Inigo Cia/Getty Images)*
+|2024-02-10|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PegadungRocks_FR-CA7250193799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PegadungRocks_FR-CA7250193799_UHD.jpg)|
+||*Copyright: Rocher de Pegadung, Lampung, Sumatra, Indonésie (© CK NG/500px/Getty Images)*
 ||
 |||
 
