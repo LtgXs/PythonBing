@@ -6,9 +6,9 @@
 ||*Copyright: Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)*
 ||
 |||
-|2024-02-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SapporoSnowFest2024_JA-JP5845958327_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapporoSnowFest2024_JA-JP5845958327_UHD.jpg)|
-||*Copyright: お城の雪像, 北海道 札幌市 (© Terry Donnelly/Alamy Stock Photo)*
+|2024-02-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ChinaDragon_JA-JP6088029412_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChinaDragon_JA-JP6088029412_UHD.jpg)|
+||*Copyright: 華やかな龍舞, 中国 四川省 瀘州市 (© Liu Guoxing/VCG via Getty Images)*
 ||
 |||
 |2024-02-09|**Region: en-IN**||
