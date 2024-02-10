@@ -6,9 +6,9 @@
 ||*Copyright: Artists performing the dragon dance for Chinese New Year, Luzhou, China (© Liu Guoxing/VCG via Getty Images)*
 ||
 |||
-|2024-02-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ChinaDragon_JA-JP6088029412_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChinaDragon_JA-JP6088029412_UHD.jpg)|
-||*Copyright: 華やかな龍舞, 中国 四川省 瀘州市 (© Liu Guoxing/VCG via Getty Images)*
+|2024-02-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FolegandrosGreece_JA-JP6408429847_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolegandrosGreece_JA-JP6408429847_UHD.jpg)|
+||*Copyright: フォレガンドロス島, ギリシャ (© Francesco Riccardo Iacomino/Getty Images)*
 ||
 |||
 |2024-02-10|**Region: en-IN**||
