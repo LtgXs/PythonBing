@@ -1,0 +1,60 @@
+
+Program started at 09:19:38
+Operating System Name: Linux
+Operating System Version: #19~22.04.1-Ubuntu SMP Wed Jan 10 22:57:03 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az665-253
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[09:19:38] Start geting CN Bing Wallpaper
+[09:19:38] Successful get url: https://www.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_UHD.jpg
+[09:19:38] Image saved to img/background.jpg
+[09:19:38] Info saved to README.md
+[09:19:38] Image saved to history/2024/02/10.md
+[09:19:38] Start geting global Bing Wallpaper, region=en-US, local time is 2024-02-10 04:19:38.391184-05:00
+[09:19:38] Successful get url: https://www.bing.com/th?id=OHR.ChinaDragon_EN-US6781838142_UHD.jpg
+[09:19:38] Picture infomations saved to  global/en-US/README.md
+[09:19:38] Picture infomations saved to global/en-US/history/2024/02/11_en-US.md
+[09:19:38] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-02-10 18:19:38.545690+09:00
+[09:19:38] Successful get url: https://www.bing.com/th?id=OHR.ChinaDragon_JA-JP6088029412_UHD.jpg
+[09:19:38] Picture infomations saved to  global/ja-JP/README.md
+[09:19:38] Picture infomations saved to global/ja-JP/history/2024/02/10_ja-JP.md
+[09:19:38] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-02-10 14:49:38.689818+05:30
+[09:19:38] Successful get url: https://www.bing.com/th?id=OHR.ChinaDragon_EN-IN9122034629_UHD.jpg
+[09:19:38] Picture infomations saved to  global/en-IN/README.md
+[09:19:38] Picture infomations saved to global/en-IN/history/2024/02/10_en-IN.md
+[09:19:38] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-02-10 06:19:38.893557-03:00
+[09:19:38] Successful get url: https://www.bing.com/th?id=OHR.ChinaDragon_PT-BR1649344638_UHD.jpg
+[09:19:39] Picture infomations saved to  global/pt-BR/README.md
+[09:19:39] Picture infomations saved to global/pt-BR/history/2024/02/11_pt-BR.md
+[09:19:39] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-02-10 10:19:39.023476+01:00
+[09:19:39] Successful get url: https://www.bing.com/th?id=OHR.ChinaDragon_FR-FR1214192528_UHD.jpg
+[09:19:39] Picture infomations saved to  global/fr-FR/README.md
+[09:19:39] Picture infomations saved to global/fr-FR/history/2024/02/10_fr-FR.md
+[09:19:39] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-02-10 10:19:39.227893+01:00
+[09:19:39] Successful get url: https://www.bing.com/th?id=OHR.ChinaDragon_DE-DE3426075443_UHD.jpg
+[09:19:39] Picture infomations saved to  global/de-DE/README.md
+[09:19:39] Picture infomations saved to global/de-DE/history/2024/02/10_de-DE.md
+[09:19:39] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-02-10 04:19:39.387430-05:00
+[09:19:39] Successful get url: https://www.bing.com/th?id=OHR.ChineseNYParade_EN-CA8193422091_UHD.jpg
+[09:19:39] Picture infomations saved to  global/en-CA/README.md
+[09:19:39] Picture infomations saved to global/en-CA/history/2024/02/11_en-CA.md
+[09:19:39] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-02-10 09:19:39.531633+00:00
+[09:19:39] Successful get url: https://www.bing.com/th?id=OHR.DarkSkiesFestivalUK_EN-GB6799040204_UHD.jpg
+[09:19:39] Picture infomations saved to  global/en-GB/README.md
+[09:19:39] Picture infomations saved to global/en-GB/history/2024/02/11_en-GB.md
+[09:19:39] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-02-10 10:19:39.665775+01:00
+[09:19:39] Successful get url: https://www.bing.com/th?id=OHR.ChinaDragon_IT-IT5937378207_UHD.jpg
+[09:19:39] Picture infomations saved to  global/it-IT/README.md
+[09:19:39] Picture infomations saved to global/it-IT/history/2024/02/10_it-IT.md
+[09:19:39] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-02-10 10:19:39.797952+01:00
+[09:19:39] Successful get url: https://www.bing.com/th?id=OHR.ChinaDragon_ES-ES6591533646_UHD.jpg
+[09:19:39] Picture infomations saved to  global/es-ES/README.md
+[09:19:39] Picture infomations saved to global/es-ES/history/2024/02/10_es-ES.md
+[09:19:39] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-02-10 04:19:39.954683-05:00
+[09:19:40] Successful get url: https://www.bing.com/th?id=OHR.ChineseNYParade_FR-CA8478352341_UHD.jpg
+[09:19:40] Picture infomations saved to  global/fr-CA/README.md
+[09:19:40] Picture infomations saved to global/fr-CA/history/2024/02/11_fr-CA.md
+Program exit at 09:19:40
