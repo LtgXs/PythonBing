@@ -6,9 +6,9 @@
 ||*Copyright: Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)*
 ||
 |||
-|2024-02-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FolegandrosGreece_JA-JP6408429847_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolegandrosGreece_JA-JP6408429847_UHD.jpg)|
-||*Copyright: フォレガンドロス島, ギリシャ (© Francesco Riccardo Iacomino/Getty Images)*
+|2024-02-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GiantTortoise_JA-JP6597399891_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantTortoise_JA-JP6597399891_UHD.jpg)|
+||*Copyright: ガラパゴスゾウガメ, エクアドル (© Tui De Roy/Minden Pictures)*
 ||
 |||
 |2024-02-11|**Region: en-IN**||
