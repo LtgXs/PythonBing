@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-02-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg)|
-||*Copyright: Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)*
+|2024-02-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg)|
+||*Copyright: Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
 |2024-02-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ガラパゴスゾウガメ, エクアドル (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-02-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-IN9382800968_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-IN9382800968_UHD.jpg)|
-||*Copyright: Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)*
+|2024-02-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GiantTortoise_EN-IN9689128271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantTortoise_EN-IN9689128271_UHD.jpg)|
+||*Copyright: Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-02-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FolegandrosGreece_PT-BR2119893846_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolegandrosGreece_PT-BR2119893846_UHD.jpg)|
-||*Copyright: Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)*
+|2024-02-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GiantTortoise_PT-BR2643244597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantTortoise_PT-BR2643244597_UHD.jpg)|
+||*Copyright: Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-02-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FolegandrosGreece_FR-FR1575425081_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolegandrosGreece_FR-FR1575425081_UHD.jpg)|
-||*Copyright: Chora, île de Folegandros, Cyclades, Grèce (© Francesco Riccardo Iacomino/Getty Images)*
+|2024-02-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GiantTortoise_FR-FR1778987386_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantTortoise_FR-FR1778987386_UHD.jpg)|
+||*Copyright: Tortues géantes, Volcan Alcedo, île d'Isabela, Galápagos, Équateur (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-02-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FolegandrosGreece_DE-DE3993128464_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolegandrosGreece_DE-DE3993128464_UHD.jpg)|
-||*Copyright: Chora, Insel Folegandros, Kykladen, Griechenland (© Francesco Riccardo Iacomino/Getty Images)*
+|2024-02-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GiantTortoise_DE-DE4591798432_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantTortoise_DE-DE4591798432_UHD.jpg)|
+||*Copyright: Riesenschildkröten am Vulkan Alcedo, Insel Isabela, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-02-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-CA9478453572_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-CA9478453572_UHD.jpg)|
-||*Copyright: Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)*
+|2024-02-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GiantTortoise_EN-CA0647448469_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantTortoise_EN-CA0647448469_UHD.jpg)|
+||*Copyright: Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-02-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-GB7117617499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-GB7117617499_UHD.jpg)|
-||*Copyright: Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)*
+|2024-02-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GiantTortoise_EN-GB9626304730_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantTortoise_EN-GB9626304730_UHD.jpg)|
+||*Copyright: Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-02-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FolegandrosGreece_IT-IT6602141211_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolegandrosGreece_IT-IT6602141211_UHD.jpg)|
-||*Copyright: Isola di Policandro, Isole Cicladi, Grecia (© Francesco Riccardo Iacomino/Getty Images)*
+|2024-02-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GiantTortoise_IT-IT7539494378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantTortoise_IT-IT7539494378_UHD.jpg)|
+||*Copyright: Testuggini delle Galapagos vicino al vulcano Alcedo, Isola di Isabela, Galapagos, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-02-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FolegandrosGreece_ES-ES0493333315_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolegandrosGreece_ES-ES0493333315_UHD.jpg)|
-||*Copyright: Chora, Isla de Folegandros, Cícladas, Grecia (© Francesco Riccardo Iacomino/Getty Images)*
+|2024-02-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GiantTortoise_ES-ES0844160920_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantTortoise_ES-ES0844160920_UHD.jpg)|
+||*Copyright: Tortugas gigantes del Volcán Alcedo, Isla Isabela, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-02-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FolegandrosGreece_FR-CA7633816931_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolegandrosGreece_FR-CA7633816931_UHD.jpg)|
-||*Copyright: Chora, île de Folegandros, Cyclades, Grèce (© Francesco Riccardo Iacomino/Getty Images)*
+|2024-02-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GiantTortoise_FR-CA7783159591_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantTortoise_FR-CA7783159591_UHD.jpg)|
+||*Copyright: Tortues géantes, Volcan Alcedo, île d'Isabela, Galápagos, Équateur (© Tui De Roy/Minden Pictures)*
 ||
 |||
 
