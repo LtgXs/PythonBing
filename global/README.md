@@ -6,9 +6,9 @@
 ||*Copyright: Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-02-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GiantTortoise_JA-JP6597399891_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantTortoise_JA-JP6597399891_UHD.jpg)|
-||*Copyright: ガラパゴスゾウガメ, エクアドル (© Tui De Roy/Minden Pictures)*
+|2024-02-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MarignyBeads_JA-JP4162697836_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MarignyBeads_JA-JP4162697836_UHD.jpg)|
+||*Copyright: カラフルなビーズの首飾り, 米国 ルイジアナ州 (© Erik Pronske Photography/Getty Images)*
 ||
 |||
 |2024-02-12|**Region: en-IN**||
