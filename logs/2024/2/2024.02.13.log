@@ -1,0 +1,60 @@
+
+Program started at 09:20:53
+Operating System Name: Linux
+Operating System Version: #19~22.04.1-Ubuntu SMP Wed Jan 10 22:57:03 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az777-937
+Processor Type: x86_64
+Python Version: 3.12.1
+Python Interpreter Name: CPython
+[09:20:53] Start geting CN Bing Wallpaper
+[09:20:53] Successful get url: https://www.bing.com/th?id=OHR.MarignyBeads_ZH-CN9346804869_UHD.jpg
+[09:20:53] Image saved to img/background.jpg
+[09:20:53] Info saved to README.md
+[09:20:53] Image saved to history/2024/02/13.md
+[09:20:53] Start geting global Bing Wallpaper, region=en-US, local time is 2024-02-13 04:20:53.180907-05:00
+[09:20:53] Successful get url: https://www.bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg
+[09:20:53] Picture infomations saved to  global/en-US/README.md
+[09:20:53] Picture infomations saved to global/en-US/history/2024/02/14_en-US.md
+[09:20:53] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-02-13 18:20:53.443337+09:00
+[09:20:53] Successful get url: https://www.bing.com/th?id=OHR.MarignyBeads_JA-JP4162697836_UHD.jpg
+[09:20:53] Picture infomations saved to  global/ja-JP/README.md
+[09:20:53] Picture infomations saved to global/ja-JP/history/2024/02/13_ja-JP.md
+[09:20:53] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-02-13 14:50:53.605358+05:30
+[09:20:53] Successful get url: https://www.bing.com/th?id=OHR.MarignyBeads_EN-IN9891323909_UHD.jpg
+[09:20:53] Picture infomations saved to  global/en-IN/README.md
+[09:20:53] Picture infomations saved to global/en-IN/history/2024/02/13_en-IN.md
+[09:20:53] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-02-13 06:20:53.769055-03:00
+[09:20:53] Successful get url: https://www.bing.com/th?id=OHR.PegadungRocks_PT-BR4077101673_UHD.jpg
+[09:20:53] Picture infomations saved to  global/pt-BR/README.md
+[09:20:53] Picture infomations saved to global/pt-BR/history/2024/02/14_pt-BR.md
+[09:20:53] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-02-13 10:20:53.930330+01:00
+[09:20:54] Successful get url: https://www.bing.com/th?id=OHR.MarignyBeads_FR-FR2441069115_UHD.jpg
+[09:20:54] Picture infomations saved to  global/fr-FR/README.md
+[09:20:54] Picture infomations saved to global/fr-FR/history/2024/02/13_fr-FR.md
+[09:20:54] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-02-13 10:20:54.106049+01:00
+[09:20:54] Successful get url: https://www.bing.com/th?id=OHR.MarignyBeads_DE-DE5830440814_UHD.jpg
+[09:20:54] Picture infomations saved to  global/de-DE/README.md
+[09:20:54] Picture infomations saved to global/de-DE/history/2024/02/13_de-DE.md
+[09:20:54] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-02-13 04:20:54.268632-05:00
+[09:20:54] Successful get url: https://www.bing.com/th?id=OHR.MarignyBeads_EN-CA1889405550_UHD.jpg
+[09:20:54] Picture infomations saved to  global/en-CA/README.md
+[09:20:54] Picture infomations saved to global/en-CA/history/2024/02/14_en-CA.md
+[09:20:54] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-02-13 09:20:54.424274+00:00
+[09:20:54] Successful get url: https://www.bing.com/th?id=OHR.MarignyBeads_EN-GB6455478514_UHD.jpg
+[09:20:54] Picture infomations saved to  global/en-GB/README.md
+[09:20:54] Picture infomations saved to global/en-GB/history/2024/02/14_en-GB.md
+[09:20:54] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-02-13 10:20:54.596042+01:00
+[09:20:54] Successful get url: https://www.bing.com/th?id=OHR.CarnevaleViareggio_IT-IT8940909658_UHD.jpg
+[09:20:54] Picture infomations saved to  global/it-IT/README.md
+[09:20:54] Picture infomations saved to global/it-IT/history/2024/02/13_it-IT.md
+[09:20:54] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-02-13 10:20:54.759943+01:00
+[09:20:54] Successful get url: https://www.bing.com/th?id=OHR.MarignyBeads_ES-ES0958430194_UHD.jpg
+[09:20:54] Picture infomations saved to  global/es-ES/README.md
+[09:20:54] Picture infomations saved to global/es-ES/history/2024/02/13_es-ES.md
+[09:20:54] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-02-13 04:20:54.939661-05:00
+[09:20:55] Successful get url: https://www.bing.com/th?id=OHR.MarignyBeads_FR-CA8649408883_UHD.jpg
+[09:20:55] Picture infomations saved to  global/fr-CA/README.md
+[09:20:55] Picture infomations saved to global/fr-CA/history/2024/02/14_fr-CA.md
+Program exit at 09:20:55
