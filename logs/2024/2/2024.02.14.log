@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:21:51] Picture infomations saved to  global/fr-CA/README.md
 [09:21:51] Picture infomations saved to global/fr-CA/history/2024/02/15_fr-CA.md
 Program exit at 09:21:51
+
+Program started at 16:11:32
+Operating System Name: Linux
+Operating System Version: #19~22.04.1-Ubuntu SMP Wed Jan 10 22:57:03 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az849-999
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[16:11:32] Start geting CN Bing Wallpaper
+[16:11:32] Successful get url: https://www.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_UHD.jpg
+[16:11:32] Image saved to img/background.jpg
+[16:11:32] Info saved to README.md
+[16:11:32] Image saved to history/2024/02/15.md
+[16:11:32] Start geting global Bing Wallpaper, region=en-US, local time is 2024-02-14 11:11:32.626139-05:00
+[16:11:32] Successful get url: https://www.bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg
+[16:11:32] Picture infomations saved to  global/en-US/README.md
+[16:11:32] Picture infomations saved to global/en-US/history/2024/02/15_en-US.md
+[16:11:32] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-02-15 01:11:32.944272+09:00
+[16:11:33] Successful get url: https://www.bing.com/th?id=OHR.HippopotamusDay_JA-JP7192785124_UHD.jpg
+[16:11:33] Picture infomations saved to  global/ja-JP/README.md
+[16:11:33] Picture infomations saved to global/ja-JP/history/2024/02/15_ja-JP.md
+[16:11:33] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-02-14 21:41:33.089004+05:30
+[16:11:33] Successful get url: https://www.bing.com/th?id=OHR.VasantPanchamiIN_EN-IN0210941348_UHD.jpg
+[16:11:33] Picture infomations saved to  global/en-IN/README.md
+[16:11:33] Picture infomations saved to global/en-IN/history/2024/02/14_en-IN.md
+[16:11:33] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-02-14 13:11:33.237089-03:00
+[16:11:33] Successful get url: https://www.bing.com/th?id=OHR.BowingCrane_PT-BR4236124881_UHD.jpg
+[16:11:33] Picture infomations saved to  global/pt-BR/README.md
+[16:11:33] Picture infomations saved to global/pt-BR/history/2024/02/15_pt-BR.md
+[16:11:33] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-02-14 17:11:33.382556+01:00
+[16:11:33] Successful get url: https://www.bing.com/th?id=OHR.BowingCrane_FR-FR5228524278_UHD.jpg
+[16:11:33] Picture infomations saved to  global/fr-FR/README.md
+[16:11:33] Picture infomations saved to global/fr-FR/history/2024/02/14_fr-FR.md
+[16:11:33] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-02-14 17:11:33.601394+01:00
+[16:11:33] Successful get url: https://www.bing.com/th?id=OHR.BowingCrane_DE-DE6578691031_UHD.jpg
+[16:11:33] Picture infomations saved to  global/de-DE/README.md
+[16:11:33] Picture infomations saved to global/de-DE/history/2024/02/14_de-DE.md
+[16:11:33] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-02-14 11:11:33.776964-05:00
+[16:11:33] Successful get url: https://www.bing.com/th?id=OHR.BowingCrane_EN-CA2979553656_UHD.jpg
+[16:11:33] Picture infomations saved to  global/en-CA/README.md
+[16:11:33] Picture infomations saved to global/en-CA/history/2024/02/15_en-CA.md
+[16:11:33] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-02-14 16:11:33.913221+00:00
+[16:11:33] Successful get url: https://www.bing.com/th?id=OHR.BowingCrane_EN-GB2663827319_UHD.jpg
+[16:11:34] Picture infomations saved to  global/en-GB/README.md
+[16:11:34] Picture infomations saved to global/en-GB/history/2024/02/15_en-GB.md
+[16:11:34] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-02-14 17:11:34.074880+01:00
+[16:11:34] Successful get url: https://www.bing.com/th?id=OHR.BowingCrane_IT-IT9417947557_UHD.jpg
+[16:11:34] Picture infomations saved to  global/it-IT/README.md
+[16:11:34] Picture infomations saved to global/it-IT/history/2024/02/14_it-IT.md
+[16:11:34] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-02-14 17:11:34.208576+01:00
+[16:11:34] Successful get url: https://www.bing.com/th?id=OHR.BowingCrane_ES-ES1063645662_UHD.jpg
+[16:11:34] Picture infomations saved to  global/es-ES/README.md
+[16:11:34] Picture infomations saved to global/es-ES/history/2024/02/14_es-ES.md
+[16:11:34] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-02-14 11:11:34.407584-05:00
+[16:11:34] Successful get url: https://www.bing.com/th?id=OHR.BowingCrane_FR-CA8809114758_UHD.jpg
+[16:11:34] Picture infomations saved to  global/fr-CA/README.md
+[16:11:34] Picture infomations saved to global/fr-CA/history/2024/02/15_fr-CA.md
+Program exit at 16:11:34

@@ -6,9 +6,9 @@
 ||*Copyright: Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)*
 ||
 |||
-|2024-02-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BowingCrane_JA-JP6968020887_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BowingCrane_JA-JP6968020887_UHD.jpg)|
-||*Copyright: 求愛ダンスを舞うタンチョウ, 北海道 (© Steve Bloom Images/Alamy)*
+|2024-02-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HippopotamusDay_JA-JP7192785124_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HippopotamusDay_JA-JP7192785124_UHD.jpg)|
+||*Copyright: 水中から顔をのぞかせるカバ, ザンビア (© Nature Picture Library/Alamy)*
 ||
 |||
 |2024-02-14|**Region: en-IN**||
