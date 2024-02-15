@@ -6,9 +6,9 @@
 ||*Copyright: Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)*
 ||
 |||
-|2024-02-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HippopotamusDay_JA-JP7192785124_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HippopotamusDay_JA-JP7192785124_UHD.jpg)|
-||*Copyright: 水中から顔をのぞかせるカバ, ザンビア (© Nature Picture Library/Alamy)*
+|2024-02-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BackyardBird_JA-JP7123530976_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BackyardBird_JA-JP7123530976_UHD.jpg)|
+||*Copyright: サボテンにとまるムネアカコウカンチョウ, 米国 テキサス州 (© outtakes/Getty Images)*
 ||
 |||
 |2024-02-15|**Region: en-IN**||
