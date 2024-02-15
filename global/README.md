@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-02-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg)|
-||*Copyright: Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)*
+|2024-02-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_UHD.jpg)|
+||*Copyright: Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)*
 ||
 |||
 |2024-02-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 水中から顔をのぞかせるカバ, ザンビア (© Nature Picture Library/Alamy)*
 ||
 |||
-|2024-02-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.VasantPanchamiIN_EN-IN0210941348_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VasantPanchamiIN_EN-IN0210941348_UHD.jpg)|
-||*Copyright: Vasant Panchmi celebration in Noida, India (© Burhaan Kinu/Hindustan Times via Getty Images)*
+|2024-02-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HippopotamusDay_EN-IN0488110772_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HippopotamusDay_EN-IN0488110772_UHD.jpg)|
+||*Copyright: Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)*
 ||
 |||
-|2024-02-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BowingCrane_PT-BR4236124881_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BowingCrane_PT-BR4236124881_UHD.jpg)|
-||*Copyright: Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)*
+|2024-02-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HippopotamusDay_PT-BR4524933452_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HippopotamusDay_PT-BR4524933452_UHD.jpg)|
+||*Copyright: Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)*
 ||
 |||
-|2024-02-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BowingCrane_FR-FR5228524278_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BowingCrane_FR-FR5228524278_UHD.jpg)|
-||*Copyright: Grue du Japon s'inclinant devant son compagnon à Hokkaido, Japon (© Steve Bloom Images/Alamy)*
+|2024-02-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HippopotamusDay_FR-FR5524617155_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HippopotamusDay_FR-FR5524617155_UHD.jpg)|
+||*Copyright: Mère hippopotame et son petit, parc national de South Luangwa, Zambie (© Nature Picture Library/Alamy)*
 ||
 |||
-|2024-02-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BowingCrane_DE-DE6578691031_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BowingCrane_DE-DE6578691031_UHD.jpg)|
-||*Copyright: Mandschurenkranich mit Gefährtin in Hokkaido, Japan (© Steve Bloom Images/Alamy Stock Photo)*
+|2024-02-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BerlinalePalast_DE-DE2536739383_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerlinalePalast_DE-DE2536739383_UHD.jpg)|
+||*Copyright: Berlinale, roter Teppich am Potsdamer Platz, Berlin (© Cineberg/Getty Images)*
 ||
 |||
-|2024-02-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BowingCrane_EN-CA2979553656_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BowingCrane_EN-CA2979553656_UHD.jpg)|
-||*Copyright: Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)*
+|2024-02-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HippopotamusDay_EN-CA3448449315_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HippopotamusDay_EN-CA3448449315_UHD.jpg)|
+||*Copyright: Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)*
 ||
 |||
-|2024-02-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BowingCrane_EN-GB2663827319_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BowingCrane_EN-GB2663827319_UHD.jpg)|
-||*Copyright: Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)*
+|2024-02-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HippopotamusDay_EN-GB3159174291_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HippopotamusDay_EN-GB3159174291_UHD.jpg)|
+||*Copyright: Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)*
 ||
 |||
-|2024-02-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BowingCrane_IT-IT9417947557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BowingCrane_IT-IT9417947557_UHD.jpg)|
-||*Copyright: Gru della Manciuria durante il corteggiamento ad Hokkaido, Giappone (© Steve Bloom Images/Alamy)*
+|2024-02-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HippopotamusDay_IT-IT9950254763_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HippopotamusDay_IT-IT9950254763_UHD.jpg)|
+||*Copyright: Mamma ippopotamo con il suo piccolo, Parco Nazionale del Sud Luangwa, Zambia (© Nature Picture Library/Alamy)*
 ||
 |||
-|2024-02-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BowingCrane_ES-ES1063645662_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BowingCrane_ES-ES1063645662_UHD.jpg)|
-||*Copyright: Grulla de coronilla roja saludando a su pareja en Hokkaido, Japón (© Steve Bloom Images/Alamy)*
+|2024-02-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HippopotamusDay_ES-ES1187827553_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HippopotamusDay_ES-ES1187827553_UHD.jpg)|
+||*Copyright: Madre y cría de hipopótamo, Parque Nacional de South Luangwa, Zambia (© Nature Picture Library/Alamy)*
 ||
 |||
-|2024-02-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BowingCrane_FR-CA8809114758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BowingCrane_FR-CA8809114758_UHD.jpg)|
-||*Copyright: Grue du Japon s'inclinant devant son compagnon à Hokkaido, Japon (© Steve Bloom Images/Alamy)*
+|2024-02-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HippopotamusDay_FR-CA8953449236_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HippopotamusDay_FR-CA8953449236_UHD.jpg)|
+||*Copyright: Mère hippopotame et son petit, parc national de South Luangwa, Zambie (© Nature Picture Library/Alamy)*
 ||
 |||
 
