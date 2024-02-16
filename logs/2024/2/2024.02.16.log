@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:20:53] Picture infomations saved to  global/fr-CA/README.md
 [09:20:53] Picture infomations saved to global/fr-CA/history/2024/02/17_fr-CA.md
 Program exit at 09:20:53
+
+Program started at 16:11:20
+Operating System Name: Linux
+Operating System Version: #19~22.04.1-Ubuntu SMP Wed Jan 10 22:57:03 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1148-604
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[16:11:20] Start geting CN Bing Wallpaper
+[16:11:20] Successful get url: https://www.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_UHD.jpg
+[16:11:21] Image saved to img/background.jpg
+[16:11:21] Info saved to README.md
+[16:11:21] Image saved to history/2024/02/17.md
+[16:11:21] Start geting global Bing Wallpaper, region=en-US, local time is 2024-02-16 11:11:21.051450-05:00
+[16:11:21] Successful get url: https://www.bing.com/th?id=OHR.BackyardBird_EN-US8255123787_UHD.jpg
+[16:11:21] Picture infomations saved to  global/en-US/README.md
+[16:11:21] Picture infomations saved to global/en-US/history/2024/02/17_en-US.md
+[16:11:21] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-02-17 01:11:21.228064+09:00
+[16:11:21] Successful get url: https://www.bing.com/th?id=OHR.PegadungRocks_JA-JP7689168051_UHD.jpg
+[16:11:21] Picture infomations saved to  global/ja-JP/README.md
+[16:11:21] Picture infomations saved to global/ja-JP/history/2024/02/17_ja-JP.md
+[16:11:21] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-02-16 21:41:21.391692+05:30
+[16:11:21] Successful get url: https://www.bing.com/th?id=OHR.BackyardBird_EN-IN0575498831_UHD.jpg
+[16:11:21] Picture infomations saved to  global/en-IN/README.md
+[16:11:21] Picture infomations saved to global/en-IN/history/2024/02/16_en-IN.md
+[16:11:21] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-02-16 13:11:21.569968-03:00
+[16:11:21] Successful get url: https://www.bing.com/th?id=OHR.BackyardBird_PT-BR4739609894_UHD.jpg
+[16:11:21] Picture infomations saved to  global/pt-BR/README.md
+[16:11:21] Picture infomations saved to global/pt-BR/history/2024/02/17_pt-BR.md
+[16:11:21] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-02-16 17:11:21.821371+01:00
+[16:11:21] Successful get url: https://www.bing.com/th?id=OHR.SkiResort_FR-FR5956789786_UHD.jpg
+[16:11:21] Picture infomations saved to  global/fr-FR/README.md
+[16:11:21] Picture infomations saved to global/fr-FR/history/2024/02/16_fr-FR.md
+[16:11:21] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-02-16 17:11:21.990913+01:00
+[16:11:22] Successful get url: https://www.bing.com/th?id=OHR.BackyardBird_DE-DE3770277310_UHD.jpg
+[16:11:22] Picture infomations saved to  global/de-DE/README.md
+[16:11:22] Picture infomations saved to global/de-DE/history/2024/02/16_de-DE.md
+[16:11:22] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-02-16 11:11:22.208607-05:00
+[16:11:22] Successful get url: https://www.bing.com/th?id=OHR.BackyardBird_EN-CA9775079263_UHD.jpg
+[16:11:22] Picture infomations saved to  global/en-CA/README.md
+[16:11:22] Picture infomations saved to global/en-CA/history/2024/02/17_en-CA.md
+[16:11:22] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-02-16 16:11:22.434012+00:00
+[16:11:22] Successful get url: https://www.bing.com/th?id=OHR.BackyardBird_EN-GB7177541567_UHD.jpg
+[16:11:22] Picture infomations saved to  global/en-GB/README.md
+[16:11:22] Picture infomations saved to global/en-GB/history/2024/02/17_en-GB.md
+[16:11:22] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-02-16 17:11:22.600533+01:00
+[16:11:22] Successful get url: https://www.bing.com/th?id=OHR.BackyardBird_IT-IT6515911686_UHD.jpg
+[16:11:22] Picture infomations saved to  global/it-IT/README.md
+[16:11:22] Picture infomations saved to global/it-IT/history/2024/02/16_it-IT.md
+[16:11:22] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-02-16 17:11:22.809474+01:00
+[16:11:22] Successful get url: https://www.bing.com/th?id=OHR.BackyardBird_ES-ES5058549868_UHD.jpg
+[16:11:22] Picture infomations saved to  global/es-ES/README.md
+[16:11:22] Picture infomations saved to global/es-ES/history/2024/02/16_es-ES.md
+[16:11:22] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-02-16 11:11:22.984470-05:00
+[16:11:23] Successful get url: https://www.bing.com/th?id=OHR.BackyardBird_FR-CA2494607716_UHD.jpg
+[16:11:23] Picture infomations saved to  global/fr-CA/README.md
+[16:11:23] Picture infomations saved to global/fr-CA/history/2024/02/17_fr-CA.md
+Program exit at 16:11:23
