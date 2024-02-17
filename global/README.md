@@ -6,9 +6,9 @@
 ||*Copyright: The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York (© STAN HONDA/AFP via Getty Images)*
 ||
 |||
-|2024-02-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PegadungRocks_JA-JP7689168051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PegadungRocks_JA-JP7689168051_UHD.jpg)|
-||*Copyright: ペガドゥン・ロック, インドネシア (© CK NG/500px/Getty Images)*
+|2024-02-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DominicaWhales_JA-JP8354635905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DominicaWhales_JA-JP8354635905_UHD.jpg)|
+||*Copyright: マッコウクジラ, ドミニカ国 (© Franco Banfi/Minden Pictures)*
 ||
 |||
 |2024-02-17|**Region: en-IN**||
