@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:20:26] Picture infomations saved to  global/fr-CA/README.md
 [09:20:26] Picture infomations saved to global/fr-CA/history/2024/02/19_fr-CA.md
 Program exit at 09:20:26
+
+Program started at 16:10:57
+Operating System Name: Linux
+Operating System Version: #19~22.04.1-Ubuntu SMP Wed Jan 10 22:57:03 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az529-347
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[16:10:57] Start geting CN Bing Wallpaper
+[16:10:57] Successful get url: https://www.bing.com/th?id=OHR.CarnavalTenerife_ZH-CN1559136778_UHD.jpg
+[16:10:57] Image saved to img/background.jpg
+[16:10:57] Info saved to README.md
+[16:10:57] Image saved to history/2024/02/19.md
+[16:10:57] Start geting global Bing Wallpaper, region=en-US, local time is 2024-02-18 11:10:57.733243-05:00
+[16:10:57] Successful get url: https://www.bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_UHD.jpg
+[16:10:57] Picture infomations saved to  global/en-US/README.md
+[16:10:57] Picture infomations saved to global/en-US/history/2024/02/19_en-US.md
+[16:10:57] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-02-19 01:10:57.930650+09:00
+[16:10:57] Successful get url: https://www.bing.com/th?id=OHR.Ume2024_JA-JP3356449258_UHD.jpg
+[16:10:58] Picture infomations saved to  global/ja-JP/README.md
+[16:10:58] Picture infomations saved to global/ja-JP/history/2024/02/19_ja-JP.md
+[16:10:58] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-02-18 21:40:58.144010+05:30
+[16:10:58] Successful get url: https://www.bing.com/th?id=OHR.DominicaWhales_EN-IN1231273818_UHD.jpg
+[16:10:58] Picture infomations saved to  global/en-IN/README.md
+[16:10:58] Picture infomations saved to global/en-IN/history/2024/02/18_en-IN.md
+[16:10:58] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-02-18 13:10:58.323483-03:00
+[16:10:58] Successful get url: https://www.bing.com/th?id=OHR.DominicaWhales_PT-BR4985904903_UHD.jpg
+[16:10:58] Picture infomations saved to  global/pt-BR/README.md
+[16:10:58] Picture infomations saved to global/pt-BR/history/2024/02/19_pt-BR.md
+[16:10:58] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-02-18 17:10:58.518329+01:00
+[16:10:58] Successful get url: https://www.bing.com/th?id=OHR.CarnavalTenerife_FR-FR6743804203_UHD.jpg
+[16:10:58] Picture infomations saved to  global/fr-FR/README.md
+[16:10:58] Picture infomations saved to global/fr-FR/history/2024/02/18_fr-FR.md
+[16:10:58] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-02-18 17:10:58.729951+01:00
+[16:10:58] Successful get url: https://www.bing.com/th?id=OHR.DominicaWhales_DE-DE9056542872_UHD.jpg
+[16:10:58] Picture infomations saved to  global/de-DE/README.md
+[16:10:58] Picture infomations saved to global/de-DE/history/2024/02/18_de-DE.md
+[16:10:58] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-02-18 11:10:58.945397-05:00
+[16:10:59] Successful get url: https://www.bing.com/th?id=OHR.DominicaWhales_EN-CA6901378196_UHD.jpg
+[16:10:59] Picture infomations saved to  global/en-CA/README.md
+[16:10:59] Picture infomations saved to global/en-CA/history/2024/02/19_en-CA.md
+[16:10:59] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-02-18 16:10:59.135669+00:00
+[16:10:59] Successful get url: https://www.bing.com/th?id=OHR.DominicaWhales_EN-GB4669286045_UHD.jpg
+[16:10:59] Picture infomations saved to  global/en-GB/README.md
+[16:10:59] Picture infomations saved to global/en-GB/history/2024/02/19_en-GB.md
+[16:10:59] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-02-18 17:10:59.314625+01:00
+[16:10:59] Successful get url: https://www.bing.com/th?id=OHR.DominicaWhales_IT-IT8820553852_UHD.jpg
+[16:10:59] Picture infomations saved to  global/it-IT/README.md
+[16:10:59] Picture infomations saved to global/it-IT/history/2024/02/18_it-IT.md
+[16:10:59] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-02-18 17:10:59.501886+01:00
+[16:10:59] Successful get url: https://www.bing.com/th?id=OHR.DominicaWhales_ES-ES1609036579_UHD.jpg
+[16:10:59] Picture infomations saved to  global/es-ES/README.md
+[16:10:59] Picture infomations saved to global/es-ES/history/2024/02/18_es-ES.md
+[16:10:59] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-02-18 11:10:59.744047-05:00
+[16:10:59] Successful get url: https://www.bing.com/th?id=OHR.CarnavalTenerife_FR-CA9707802936_UHD.jpg
+[16:10:59] Picture infomations saved to  global/fr-CA/README.md
+[16:10:59] Picture infomations saved to global/fr-CA/history/2024/02/19_fr-CA.md
+Program exit at 16:10:59

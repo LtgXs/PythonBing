@@ -6,9 +6,9 @@
 ||*Copyright: Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)*
 ||
 |||
-|2024-02-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DominicaWhales_JA-JP8354635905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DominicaWhales_JA-JP8354635905_UHD.jpg)|
-||*Copyright: マッコウクジラ, ドミニカ国 (© Franco Banfi/Minden Pictures)*
+|2024-02-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Ume2024_JA-JP3356449258_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Ume2024_JA-JP3356449258_UHD.jpg)|
+||*Copyright: 乱れて咲くしだれ梅の花, 京都府 京都市 (© EvergreenPlanet/Getty Images)*
 ||
 |||
 |2024-02-18|**Region: en-IN**||
