@@ -6,9 +6,9 @@
 ||*Copyright: Kinder Scout at sunrise, Peak District National Park, England (© john finney photography/Getty Images)*
 ||
 |||
-|2024-02-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PeakDistrictNP_JA-JP8773323840_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeakDistrictNP_JA-JP8773323840_UHD.jpg)|
-||*Copyright: キンダー・スカウト, イギリス (© john finney photography/Getty Images)*
+|2024-02-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YosemiteFirefall_JA-JP8953953821_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteFirefall_JA-JP8953953821_UHD.jpg)|
+||*Copyright: ホーステール滝, 米国 カリフォルニア州 (© Gregory B Cuvelier/Shutterstock)*
 ||
 |||
 |2024-02-20|**Region: en-IN**||
