@@ -6,9 +6,9 @@
 ||*Copyright: Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)*
 ||
 |||
-|2024-02-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BrightonBoxes_JA-JP7289590135_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrightonBoxes_JA-JP7289590135_UHD.jpg)|
-||*Copyright: ブライトンビーチ, オーストラリア ビクトリア州 (© Prasit photo/Getty Images)*
+|2024-02-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Fuji2024_JA-JP9270000739_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fuji2024_JA-JP9270000739_UHD.jpg)|
+||*Copyright: 朝焼けに輝く富士山と山中湖, 山梨県 (© magicflute002/Getty Images)*
 ||
 |||
 |2024-02-22|**Region: en-IN**||
