@@ -6,9 +6,9 @@
 ||*Copyright: Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)*
 ||
 |||
-|2024-02-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Fuji2024_JA-JP9270000739_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fuji2024_JA-JP9270000739_UHD.jpg)|
-||*Copyright: 朝焼けに輝く富士山と山中湖, 山梨県 (© magicflute002/Getty Images)*
+|2024-02-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AlmondBloom_JA-JP9467341348_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlmondBloom_JA-JP9467341348_UHD.jpg)|
+||*Copyright: アーモンド畑, 米国 カリフォルニア州 (© Jeffrey Lewis/Tandem Stills + Motion)*
 ||
 |||
 |2024-02-23|**Region: en-IN**||

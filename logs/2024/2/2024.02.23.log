@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:20:35] Picture infomations saved to  global/fr-CA/README.md
 [09:20:35] Picture infomations saved to global/fr-CA/history/2024/02/24_fr-CA.md
 Program exit at 09:20:35
+
+Program started at 16:10:53
+Operating System Name: Linux
+Operating System Version: #19~22.04.1-Ubuntu SMP Wed Jan 10 22:57:03 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az802-972
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[16:10:53] Start geting CN Bing Wallpaper
+[16:10:53] Successful get url: https://www.bing.com/th?id=OHR.LaternFestival2024_ZH-CN8050981828_UHD.jpg
+[16:10:53] Image saved to img/background.jpg
+[16:10:53] Info saved to README.md
+[16:10:53] Image saved to history/2024/02/24.md
+[16:10:53] Start geting global Bing Wallpaper, region=en-US, local time is 2024-02-23 11:10:53.947087-05:00
+[16:10:54] Successful get url: https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg
+[16:10:54] Picture infomations saved to  global/en-US/README.md
+[16:10:54] Picture infomations saved to global/en-US/history/2024/02/24_en-US.md
+[16:10:54] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-02-24 01:10:54.440656+09:00
+[16:10:54] Successful get url: https://www.bing.com/th?id=OHR.AlmondBloom_JA-JP9467341348_UHD.jpg
+[16:10:54] Picture infomations saved to  global/ja-JP/README.md
+[16:10:54] Picture infomations saved to global/ja-JP/history/2024/02/24_ja-JP.md
+[16:10:54] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-02-23 21:40:54.973457+05:30
+[16:10:55] Successful get url: https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-IN0847461521_UHD.jpg
+[16:10:55] Picture infomations saved to  global/en-IN/README.md
+[16:10:55] Picture infomations saved to global/en-IN/history/2024/02/23_en-IN.md
+[16:10:55] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-02-23 13:10:55.391401-03:00
+[16:10:55] Successful get url: https://www.bing.com/th?id=OHR.HaghartsinMonastery_PT-BR9216139787_UHD.jpg
+[16:10:55] Picture infomations saved to  global/pt-BR/README.md
+[16:10:55] Picture infomations saved to global/pt-BR/history/2024/02/24_pt-BR.md
+[16:10:55] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-02-23 17:10:55.806996+01:00
+[16:10:55] Successful get url: https://www.bing.com/th?id=OHR.HaghartsinMonastery_FR-FR1636518850_UHD.jpg
+[16:10:56] Picture infomations saved to  global/fr-FR/README.md
+[16:10:56] Picture infomations saved to global/fr-FR/history/2024/02/23_fr-FR.md
+[16:10:56] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-02-23 17:10:56.234664+01:00
+[16:10:56] Successful get url: https://www.bing.com/th?id=OHR.HaghartsinMonastery_DE-DE6295908879_UHD.jpg
+[16:10:56] Picture infomations saved to  global/de-DE/README.md
+[16:10:56] Picture infomations saved to global/de-DE/history/2024/02/23_de-DE.md
+[16:10:56] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-02-23 11:10:56.650658-05:00
+[16:10:56] Successful get url: https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-CA4755376213_UHD.jpg
+[16:10:57] Picture infomations saved to  global/en-CA/README.md
+[16:10:57] Picture infomations saved to global/en-CA/history/2024/02/24_en-CA.md
+[16:10:57] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-02-23 16:10:57.058397+00:00
+[16:10:57] Successful get url: https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-GB1207846096_UHD.jpg
+[16:10:57] Picture infomations saved to  global/en-GB/README.md
+[16:10:57] Picture infomations saved to global/en-GB/history/2024/02/24_en-GB.md
+[16:10:57] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-02-23 17:10:57.606405+01:00
+[16:10:57] Successful get url: https://www.bing.com/th?id=OHR.HaghartsinMonastery_IT-IT8194609337_UHD.jpg
+[16:10:58] Picture infomations saved to  global/it-IT/README.md
+[16:10:58] Picture infomations saved to global/it-IT/history/2024/02/23_it-IT.md
+[16:10:58] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-02-23 17:10:58.103296+01:00
+[16:10:58] Successful get url: https://www.bing.com/th?id=OHR.HaghartsinMonastery_ES-ES1400026000_UHD.jpg
+[16:10:58] Picture infomations saved to  global/es-ES/README.md
+[16:10:58] Picture infomations saved to global/es-ES/history/2024/02/23_es-ES.md
+[16:10:58] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-02-23 11:10:58.593588-05:00
+[16:10:58] Successful get url: https://www.bing.com/th?id=OHR.HaghartsinMonastery_FR-CA8430145744_UHD.jpg
+[16:10:59] Picture infomations saved to  global/fr-CA/README.md
+[16:10:59] Picture infomations saved to global/fr-CA/history/2024/02/24_fr-CA.md
+Program exit at 16:10:59
