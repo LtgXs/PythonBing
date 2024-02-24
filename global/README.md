@@ -6,9 +6,9 @@
 ||*Copyright: Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)*
 ||
 |||
-|2024-02-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AlmondBloom_JA-JP9467341348_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlmondBloom_JA-JP9467341348_UHD.jpg)|
-||*Copyright: アーモンド畑, 米国 カリフォルニア州 (© Jeffrey Lewis/Tandem Stills + Motion)*
+|2024-02-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HaghartsinMonastery_JA-JP9652317145_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HaghartsinMonastery_JA-JP9652317145_UHD.jpg)|
+||*Copyright: ハガルツィン修道院, アルメニア (© Alexey Kharitonov/Shutterstock)*
 ||
 |||
 |2024-02-24|**Region: en-IN**||
