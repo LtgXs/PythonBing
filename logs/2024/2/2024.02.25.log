@@ -1,0 +1,60 @@
+
+Program started at 09:18:55
+Operating System Name: Linux
+Operating System Version: #19~22.04.1-Ubuntu SMP Wed Jan 10 22:57:03 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az529-673
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[09:18:55] Start geting CN Bing Wallpaper
+[09:18:55] Successful get url: https://www.bing.com/th?id=OHR.MtPrevostDuncan_ZH-CN2333619635_UHD.jpg
+[09:18:55] Image saved to img/background.jpg
+[09:18:55] Info saved to README.md
+[09:18:55] Image saved to history/2024/02/25.md
+[09:18:55] Start geting global Bing Wallpaper, region=en-US, local time is 2024-02-25 04:18:55.701274-05:00
+[09:18:55] Successful get url: https://www.bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg
+[09:18:55] Picture infomations saved to  global/en-US/README.md
+[09:18:55] Picture infomations saved to global/en-US/history/2024/02/26_en-US.md
+[09:18:55] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-02-25 18:18:55.975702+09:00
+[09:18:56] Successful get url: https://www.bing.com/th?id=OHR.HaghartsinMonastery_JA-JP9652317145_UHD.jpg
+[09:18:56] Picture infomations saved to  global/ja-JP/README.md
+[09:18:56] Picture infomations saved to global/ja-JP/history/2024/02/25_ja-JP.md
+[09:18:56] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-02-25 14:48:56.152040+05:30
+[09:18:56] Successful get url: https://www.bing.com/th?id=OHR.MtPrevostDuncan_EN-IN1992031596_UHD.jpg
+[09:18:56] Picture infomations saved to  global/en-IN/README.md
+[09:18:56] Picture infomations saved to global/en-IN/history/2024/02/25_en-IN.md
+[09:18:56] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-02-25 06:18:56.325477-03:00
+[09:18:56] Successful get url: https://www.bing.com/th?id=OHR.MtPrevostDuncan_PT-BR0029292582_UHD.jpg
+[09:18:56] Picture infomations saved to  global/pt-BR/README.md
+[09:18:56] Picture infomations saved to global/pt-BR/history/2024/02/26_pt-BR.md
+[09:18:56] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-02-25 10:18:56.607962+01:00
+[09:18:56] Successful get url: https://www.bing.com/th?id=OHR.AlmondBloom_FR-FR1944191852_UHD.jpg
+[09:18:56] Picture infomations saved to  global/fr-FR/README.md
+[09:18:56] Picture infomations saved to global/fr-FR/history/2024/02/25_fr-FR.md
+[09:18:56] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-02-25 10:18:56.868391+01:00
+[09:18:56] Successful get url: https://www.bing.com/th?id=OHR.MtPrevostDuncan_DE-DE5893806279_UHD.jpg
+[09:18:57] Picture infomations saved to  global/de-DE/README.md
+[09:18:57] Picture infomations saved to global/de-DE/history/2024/02/25_de-DE.md
+[09:18:57] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-02-25 04:18:57.064435-05:00
+[09:18:57] Successful get url: https://www.bing.com/th?id=OHR.MtPrevostDuncan_EN-CA3290198869_UHD.jpg
+[09:18:57] Picture infomations saved to  global/en-CA/README.md
+[09:18:57] Picture infomations saved to global/en-CA/history/2024/02/26_en-CA.md
+[09:18:57] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-02-25 09:18:57.254853+00:00
+[09:18:57] Successful get url: https://www.bing.com/th?id=OHR.ModicaItaly_EN-GB1957642559_UHD.jpg
+[09:18:57] Picture infomations saved to  global/en-GB/README.md
+[09:18:57] Picture infomations saved to global/en-GB/history/2024/02/26_en-GB.md
+[09:18:57] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-02-25 10:18:57.453663+01:00
+[09:18:57] Successful get url: https://www.bing.com/th?id=OHR.MtPrevostDuncan_IT-IT3250174651_UHD.jpg
+[09:18:57] Picture infomations saved to  global/it-IT/README.md
+[09:18:57] Picture infomations saved to global/it-IT/history/2024/02/25_it-IT.md
+[09:18:57] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-02-25 10:18:57.639820+01:00
+[09:18:57] Successful get url: https://www.bing.com/th?id=OHR.MtPrevostDuncan_ES-ES1488593633_UHD.jpg
+[09:18:57] Picture infomations saved to  global/es-ES/README.md
+[09:18:57] Picture infomations saved to global/es-ES/history/2024/02/25_es-ES.md
+[09:18:57] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-02-25 04:18:57.837869-05:00
+[09:18:57] Successful get url: https://www.bing.com/th?id=OHR.MtPrevostDuncan_FR-CA9746512592_UHD.jpg
+[09:18:58] Picture infomations saved to  global/fr-CA/README.md
+[09:18:58] Picture infomations saved to global/fr-CA/history/2024/02/26_fr-CA.md
+Program exit at 09:18:58
