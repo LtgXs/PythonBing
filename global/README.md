@@ -6,9 +6,9 @@
 ||*Copyright: 'United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan (© Jim West/Alamy)*
 ||
 |||
-|2024-02-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HaghartsinMonastery_JA-JP9652317145_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HaghartsinMonastery_JA-JP9652317145_UHD.jpg)|
-||*Copyright: ハガルツィン修道院, アルメニア (© Alexey Kharitonov/Shutterstock)*
+|2024-02-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GrandCanyonWinter_JA-JP9819536991_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandCanyonWinter_JA-JP9819536991_UHD.jpg)|
+||*Copyright: グランドキャニオン国立公園, 米国 アリゾナ州 (© Jeremy Janus/Getty Images)*
 ||
 |||
 |2024-02-25|**Region: en-IN**||
