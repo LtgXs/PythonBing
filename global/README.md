@@ -6,9 +6,9 @@
 ||*Copyright: Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)*
 ||
 |||
-|2024-02-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GrandCanyonWinter_JA-JP9819536991_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandCanyonWinter_JA-JP9819536991_UHD.jpg)|
-||*Copyright: グランドキャニオン国立公園, 米国 アリゾナ州 (© Jeremy Janus/Getty Images)*
+|2024-02-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PolarBearCubs_JA-JP0012953029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearCubs_JA-JP0012953029_UHD.jpg)|
+||*Copyright: じゃれあうホッキョクグマの赤ちゃん, 米国 アラスカ州 (© Piriya Photography/Getty Images)*
 ||
 |||
 |2024-02-26|**Region: en-IN**||
