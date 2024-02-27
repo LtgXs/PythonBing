@@ -6,9 +6,9 @@
 ||*Copyright: Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)*
 ||
 |||
-|2024-02-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PolarBearCubs_JA-JP0012953029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearCubs_JA-JP0012953029_UHD.jpg)|
-||*Copyright: じゃれあうホッキョクグマの赤ちゃん, 米国 アラスカ州 (© Piriya Photography/Getty Images)*
+|2024-02-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_JA-JP0209461050_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_JA-JP0209461050_UHD.jpg)|
+||*Copyright: バンバラ城, イングランド ノーサンバーランド州 (© Blackbeck/Getty Images)*
 ||
 |||
 |2024-02-27|**Region: en-IN**||
