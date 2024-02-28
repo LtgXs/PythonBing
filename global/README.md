@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-02-28|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg)|
-||*Copyright: Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)*
+|2024-02-29|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg)|
+||*Copyright: Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)*
 ||
 |||
 |2024-02-28|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: バンバラ城, イングランド ノーサンバーランド州 (© Blackbeck/Getty Images)*
 ||
 |||
-|2024-02-27|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-IN7268694911_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-IN7268694911_UHD.jpg)|
-||*Copyright: Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)*
+|2024-02-28|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-IN2760491461_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-IN2760491461_UHD.jpg)|
+||*Copyright: Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)*
 ||
 |||
-|2024-02-28|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PolarBearCubs_PT-BR0512178061_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearCubs_PT-BR0512178061_UHD.jpg)|
-||*Copyright: Filhotes de ursos polares brincando, Kaktovik, Alasca, EUA (© Piriya Photography/Getty Images)*
+|2024-02-29|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_PT-BR0750396632_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_PT-BR0750396632_UHD.jpg)|
+||*Copyright: Castelo de Bamburgo, Northumberland, Inglaterra (© Blackbeck/Getty Images)*
 ||
 |||
-|2024-02-27|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PolarBearCubs_FR-FR2914859035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearCubs_FR-FR2914859035_UHD.jpg)|
-||*Copyright: Oursons polaires, Kaktovik, Alaska, États-Unis (© Piriya Photography/Getty Images)*
+|2024-02-28|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_FR-FR3136425670_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_FR-FR3136425670_UHD.jpg)|
+||*Copyright: Château de Bamburgh, Northumberland, Angleterre (© Blackbeck/Getty Images)*
 ||
 |||
-|2024-02-27|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PolarBearCubs_DE-DE7089509348_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearCubs_DE-DE7089509348_UHD.jpg)|
-||*Copyright: Eisbärenjunge beim Spielen, Kaktovik, Alaska, USA (© Piriya Photography/Getty Images)*
+|2024-02-28|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_DE-DE7368019020_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_DE-DE7368019020_UHD.jpg)|
+||*Copyright: Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)*
 ||
 |||
-|2024-02-28|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-CA5276612628_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-CA5276612628_UHD.jpg)|
-||*Copyright: Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)*
+|2024-02-29|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-CA8209720771_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-CA8209720771_UHD.jpg)|
+||*Copyright: Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)*
 ||
 |||
-|2024-02-28|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-GB3190423564_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-GB3190423564_UHD.jpg)|
-||*Copyright: Polar bear cubs playing, Kaktovik, Alaska, USA (© Piriya Photography/Getty Images)*
+|2024-02-29|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-GB3792083746_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-GB3792083746_UHD.jpg)|
+||*Copyright: Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)*
 ||
 |||
-|2024-02-27|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PolarBearCubs_IT-IT9998741209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearCubs_IT-IT9998741209_UHD.jpg)|
-||*Copyright: Cuccioli di orso polare che giocano, Kaktovik, Alaska, Stati Uniti (© Piriya Photography/Getty Images)*
+|2024-02-28|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_IT-IT5518925488_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_IT-IT5518925488_UHD.jpg)|
+||*Copyright: Castello di Bamburgh, Northumberland, Inghilterra (© Blackbeck/Getty Images)*
 ||
 |||
-|2024-02-27|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PolarBearCubs_ES-ES1868103985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearCubs_ES-ES1868103985_UHD.jpg)|
-||*Copyright: Cachorros de oso polar jugando, Kaktovik, Alaska, EE.UU. (© Piriya Photography/Getty Images)*
+|2024-02-28|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SevilleAndalusiaDay_ES-ES5223382941_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevilleAndalusiaDay_ES-ES5223382941_UHD.jpg)|
+||*Copyright: Plaza de España, Sevilla, España (© KavalenkavaVolha/Getty images)*
 ||
 |||
-|2024-02-28|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PolarBearCubs_FR-CA0127528639_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearCubs_FR-CA0127528639_UHD.jpg)|
-||*Copyright: Oursons polaires, Kaktovik, Alaska, États-Unis (© Piriya Photography/Getty Images)*
+|2024-02-29|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_FR-CA0361606003_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_FR-CA0361606003_UHD.jpg)|
+||*Copyright: Château de Bamburgh, Northumberland, Angleterre (© Blackbeck/Getty Images)*
 ||
 |||
 
