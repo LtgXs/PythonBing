@@ -6,9 +6,9 @@
 ||*Copyright: Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)*
 ||
 |||
-|2024-02-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_JA-JP0209461050_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_JA-JP0209461050_UHD.jpg)|
-||*Copyright: バンバラ城, イングランド ノーサンバーランド州 (© Blackbeck/Getty Images)*
+|2024-02-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.VermilionCliffs_JA-JP0444568228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VermilionCliffs_JA-JP0444568228_UHD.jpg)|
+||*Copyright: バーミリオン・クリフ国定公園, 米国 アリゾナ州 (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
 |2024-02-28|**Region: en-IN**||
