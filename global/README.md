@@ -6,9 +6,9 @@
 ||*Copyright: Eurasian red squirrel (© Westend61/Getty Images)*
 ||
 |||
-|2024-02-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.VermilionCliffs_JA-JP0444568228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VermilionCliffs_JA-JP0444568228_UHD.jpg)|
-||*Copyright: バーミリオン・クリフ国定公園, 米国 アリゾナ州 (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-03-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ModicaItaly_JA-JP0616823869_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ModicaItaly_JA-JP0616823869_UHD.jpg)|
+||*Copyright: モディカ, イタリア (© Sandro Bisaro/Getty Images)*
 ||
 |||
 |2024-02-29|**Region: en-IN**||
