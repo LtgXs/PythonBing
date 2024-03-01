@@ -6,9 +6,9 @@
 ||*Copyright: Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915 (© Bettmann/Getty Images)*
 ||
 |||
-|2024-03-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ModicaItaly_JA-JP0616823869_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ModicaItaly_JA-JP0616823869_UHD.jpg)|
-||*Copyright: モディカ, イタリア (© Sandro Bisaro/Getty Images)*
+|2024-03-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KrugerLeopard_JA-JP0770741894_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KrugerLeopard_JA-JP0770741894_UHD.jpg)|
+||*Copyright: クルーガー国立公園のヒョウ, 南アフリカ (© Tonino De Marco/Minden Pictures)*
 ||
 |||
 |2024-03-01|**Region: en-IN**||
@@ -47,8 +47,8 @@
 ||
 |||
 |2024-03-01|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FilmFestivalMalaga_ES-ES5797431476_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FilmFestivalMalaga_ES-ES5797431476_UHD.jpg)|
-||*Copyright: Málaga, Andalucia, España (© Manfred Gottschalk/Getty Images)*
+||![](https://www.bing.com/th?id=OHR.FilmFestivalMalaga_ES-ES1114429111_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FilmFestivalMalaga_ES-ES1114429111_UHD.jpg)|
+||*Copyright: Málaga, Andalucía, España (© Manfred Gottschalk/Getty Images)*
 ||
 |||
 |2024-03-02|**Region: fr-CA**||
