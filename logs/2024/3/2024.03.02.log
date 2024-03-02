@@ -1,0 +1,60 @@
+
+Program started at 09:19:07
+Operating System Name: Linux
+Operating System Version: #15~22.04.1-Ubuntu SMP Tue Feb 13 01:15:12 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1532-911
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[09:19:07] Start geting CN Bing Wallpaper
+[09:19:07] Successful get url: https://www.bing.com/th?id=OHR.ModicaItaly_ZH-CN3893147952_UHD.jpg
+[09:19:08] Image saved to img/background.jpg
+[09:19:08] Info saved to README.md
+[09:19:08] Image saved to history/2024/03/02.md
+[09:19:08] Start geting global Bing Wallpaper, region=en-US, local time is 2024-03-02 04:19:08.007409-05:00
+[09:19:08] Successful get url: https://www.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg
+[09:19:08] Picture infomations saved to  global/en-US/README.md
+[09:19:08] Picture infomations saved to global/en-US/history/2024/03/03_en-US.md
+[09:19:08] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-03-02 18:19:08.199992+09:00
+[09:19:08] Successful get url: https://www.bing.com/th?id=OHR.KrugerLeopard_JA-JP0770741894_UHD.jpg
+[09:19:08] Picture infomations saved to  global/ja-JP/README.md
+[09:19:08] Picture infomations saved to global/ja-JP/history/2024/03/02_ja-JP.md
+[09:19:08] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-03-02 14:49:08.406055+05:30
+[09:19:08] Successful get url: https://www.bing.com/th?id=OHR.ModicaItaly_EN-IN0487333046_UHD.jpg
+[09:19:08] Picture infomations saved to  global/en-IN/README.md
+[09:19:08] Picture infomations saved to global/en-IN/history/2024/03/02_en-IN.md
+[09:19:08] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-03-02 06:19:08.578432-03:00
+[09:19:08] Successful get url: https://www.bing.com/th?id=OHR.ModicaItaly_PT-BR1634339196_UHD.jpg
+[09:19:08] Picture infomations saved to  global/pt-BR/README.md
+[09:19:08] Picture infomations saved to global/pt-BR/history/2024/03/03_pt-BR.md
+[09:19:08] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-03-02 10:19:08.784254+01:00
+[09:19:08] Successful get url: https://www.bing.com/th?id=OHR.ModicaItaly_FR-FR5433904766_UHD.jpg
+[09:19:08] Picture infomations saved to  global/fr-FR/README.md
+[09:19:08] Picture infomations saved to global/fr-FR/history/2024/03/02_fr-FR.md
+[09:19:08] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-03-02 10:19:08.968903+01:00
+[09:19:09] Successful get url: https://www.bing.com/th?id=OHR.ModicaItaly_DE-DE7624827179_UHD.jpg
+[09:19:09] Picture infomations saved to  global/de-DE/README.md
+[09:19:09] Picture infomations saved to global/de-DE/history/2024/03/02_de-DE.md
+[09:19:09] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-03-02 04:19:09.140434-05:00
+[09:19:09] Successful get url: https://www.bing.com/th?id=OHR.ModicaItaly_EN-CA9502115177_UHD.jpg
+[09:19:09] Picture infomations saved to  global/en-CA/README.md
+[09:19:09] Picture infomations saved to global/en-CA/history/2024/03/03_en-CA.md
+[09:19:09] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-03-02 09:19:09.337333+00:00
+[09:19:09] Successful get url: https://www.bing.com/th?id=OHR.BritAwardsGuitarsUK_EN-GB7128101081_UHD.jpg
+[09:19:09] Picture infomations saved to  global/en-GB/README.md
+[09:19:09] Picture infomations saved to global/en-GB/history/2024/03/03_en-GB.md
+[09:19:09] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-03-02 10:19:09.523262+01:00
+[09:19:09] Successful get url: https://www.bing.com/th?id=OHR.ModicaItaly_IT-IT4926775993_UHD.jpg
+[09:19:09] Picture infomations saved to  global/it-IT/README.md
+[09:19:09] Picture infomations saved to global/it-IT/history/2024/03/02_it-IT.md
+[09:19:09] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-03-02 10:19:09.708243+01:00
+[09:19:09] Successful get url: https://www.bing.com/th?id=OHR.ModicaItaly_ES-ES5949854185_UHD.jpg
+[09:19:09] Picture infomations saved to  global/es-ES/README.md
+[09:19:09] Picture infomations saved to global/es-ES/history/2024/03/02_es-ES.md
+[09:19:09] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-03-02 04:19:09.882843-05:00
+[09:19:09] Successful get url: https://www.bing.com/th?id=OHR.ModicaItaly_FR-CA4861122152_UHD.jpg
+[09:19:10] Picture infomations saved to  global/fr-CA/README.md
+[09:19:10] Picture infomations saved to global/fr-CA/history/2024/03/03_fr-CA.md
+Program exit at 09:19:10
