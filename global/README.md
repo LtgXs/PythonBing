@@ -6,9 +6,9 @@
 ||*Copyright: Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden Pictures)*
 ||
 |||
-|2024-03-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Hinamatsuri2024_JA-JP0939071176_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hinamatsuri2024_JA-JP0939071176_UHD.jpg)|
-||*Copyright: 下鴨神社の流し雛, 京都 (© masahiro Makino/Getty Images)*
+|2024-03-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ArenalCostaRica_JA-JP1112345495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArenalCostaRica_JA-JP1112345495_UHD.jpg)|
+||*Copyright: アレナル火山, コスタリカ (© Lukas Bischoff/Getty Images)*
 ||
 |||
 |2024-03-03|**Region: en-IN**||
