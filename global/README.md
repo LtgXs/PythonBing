@@ -6,9 +6,9 @@
 ||*Copyright: Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)*
 ||
 |||
-|2024-03-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ArenalCostaRica_JA-JP1112345495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArenalCostaRica_JA-JP1112345495_UHD.jpg)|
-||*Copyright: アレナル火山, コスタリカ (© Lukas Bischoff/Getty Images)*
+|2024-03-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BangkokCircle_JA-JP1249849159_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_JA-JP1249849159_UHD.jpg)|
+||*Copyright: バンコク, タイ (© Avigator Fortuner/Shutterstock)*
 ||
 |||
 |2024-03-04|**Region: en-IN**||
