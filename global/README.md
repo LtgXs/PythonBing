@@ -6,9 +6,9 @@
 ||*Copyright: Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)*
 ||
 |||
-|2024-03-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BangkokCircle_JA-JP1249849159_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_JA-JP1249849159_UHD.jpg)|
-||*Copyright: バンコク, タイ (© Avigator Fortuner/Shutterstock)*
+|2024-03-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WahclellaFalls_JA-JP1412765410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_JA-JP1412765410_UHD.jpg)|
+||*Copyright: ワクレラ滝, 米国 オレゴン州 (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
 |2024-03-05|**Region: en-IN**||
