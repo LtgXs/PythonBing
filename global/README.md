@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-03-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg)|
-||*Copyright: Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)*
+|2024-03-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg)|
+||*Copyright: Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)*
 ||
 |||
 |2024-03-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: バンコク, タイ (© Avigator Fortuner/Shutterstock)*
 ||
 |||
-|2024-03-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ArenalCostaRica_EN-IN6333017933_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArenalCostaRica_EN-IN6333017933_UHD.jpg)|
-||*Copyright: Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)*
+|2024-03-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BangkokCircle_EN-IN0487845274_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_EN-IN0487845274_UHD.jpg)|
+||*Copyright: Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)*
 ||
 |||
-|2024-03-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ArenalCostaRica_PT-BR2896313529_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArenalCostaRica_PT-BR2896313529_UHD.jpg)|
-||*Copyright: Vulcão Arenal visto de Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)*
+|2024-03-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.NandayParakeet_PT-BR2771660938_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NandayParakeet_PT-BR2771660938_UHD.jpg)|
+||*Copyright: Nanday, família dos periquitos, Pantanal (© Pedro Hélder da Costa Pinheiro/Getty Images)*
 ||
 |||
-|2024-03-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ArenalCostaRica_FR-FR6380413439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArenalCostaRica_FR-FR6380413439_UHD.jpg)|
-||*Copyright: Volcan Arenal observé depuis Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)*
+|2024-03-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BangkokCircle_FR-FR6646035887_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_FR-FR6646035887_UHD.jpg)|
+||*Copyright: Rond-point et autoroute à Bangkok, Thaïlande (© Avigator Fortuner/Shutterstock)*
 ||
 |||
-|2024-03-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ArenalCostaRica_DE-DE6048833504_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArenalCostaRica_DE-DE6048833504_UHD.jpg)|
-||*Copyright: Vulkan Arenal in Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)*
+|2024-03-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BangkokCircle_DE-DE6353935365_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_DE-DE6353935365_UHD.jpg)|
+||*Copyright: Schnellstraße in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)*
 ||
 |||
-|2024-03-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ArenalCostaRica_EN-CA8547140342_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArenalCostaRica_EN-CA8547140342_UHD.jpg)|
-||*Copyright: Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)*
+|2024-03-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BangkokCircle_EN-CA9121846654_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_EN-CA9121846654_UHD.jpg)|
+||*Copyright: Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)*
 ||
 |||
-|2024-03-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ArenalCostaRica_EN-GB7820638738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArenalCostaRica_EN-GB7820638738_UHD.jpg)|
-||*Copyright: Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)*
+|2024-03-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BangkokCircle_EN-GB8143129520_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_EN-GB8143129520_UHD.jpg)|
+||*Copyright: Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)*
 ||
 |||
-|2024-03-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ArenalCostaRica_IT-IT1610887300_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArenalCostaRica_IT-IT1610887300_UHD.jpg)|
-||*Copyright: Il vulcano Arenal visto da Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)*
+|2024-03-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BangkokCircle_IT-IT8552577608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_IT-IT8552577608_UHD.jpg)|
+||*Copyright: Rotatoria stradale e autostrada a Bangkok, Thailandia (© Avigator Fortuner/Shutterstock)*
 ||
 |||
-|2024-03-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ArenalCostaRica_ES-ES6180859689_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArenalCostaRica_ES-ES6180859689_UHD.jpg)|
-||*Copyright: Volcán Arenal visto desde Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)*
+|2024-03-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BangkokCircle_ES-ES6741125775_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_ES-ES6741125775_UHD.jpg)|
+||*Copyright: Rotonda y autopista en Bangkok, Tailandia (© Avigator Fortuner/Shutterstock)*
 ||
 |||
-|2024-03-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ArenalCostaRica_FR-CA5199908591_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArenalCostaRica_FR-CA5199908591_UHD.jpg)|
-||*Copyright: Volcan Arenal observé depuis Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)*
+|2024-03-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BangkokCircle_FR-CA5359064809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_FR-CA5359064809_UHD.jpg)|
+||*Copyright: Rond-point et autoroute à Bangkok, Thaïlande (© Avigator Fortuner/Shutterstock)*
 ||
 |||
 
