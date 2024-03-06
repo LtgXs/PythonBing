@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-03-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg)|
-||*Copyright: Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)*
+|2024-03-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg)|
+||*Copyright: Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
 |2024-03-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ワクレラ滝, 米国 オレゴン州 (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BangkokCircle_EN-IN0487845274_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_EN-IN0487845274_UHD.jpg)|
-||*Copyright: Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)*
+|2024-03-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-IN2266702818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-IN2266702818_UHD.jpg)|
+||*Copyright: Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.NandayParakeet_PT-BR2771660938_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NandayParakeet_PT-BR2771660938_UHD.jpg)|
-||*Copyright: Nanday, família dos periquitos, Pantanal (© Pedro Hélder da Costa Pinheiro/Getty Images)*
+|2024-03-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.WahclellaFalls_PT-BR3300718426_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_PT-BR3300718426_UHD.jpg)|
+||*Copyright: Cachoeiras de Wahclella na garganta do rio Columbia, Oregon, EUA (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BangkokCircle_FR-FR6646035887_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_FR-FR6646035887_UHD.jpg)|
-||*Copyright: Rond-point et autoroute à Bangkok, Thaïlande (© Avigator Fortuner/Shutterstock)*
+|2024-03-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.WahclellaFalls_FR-FR6884948477_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_FR-FR6884948477_UHD.jpg)|
+||*Copyright: Cascade de Wahclella dans les gorges du fleuve Columbia, Oregon, États-Unis (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BangkokCircle_DE-DE6353935365_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_DE-DE6353935365_UHD.jpg)|
-||*Copyright: Schnellstraße in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)*
+|2024-03-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.WahclellaFalls_DE-DE6758659326_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_DE-DE6758659326_UHD.jpg)|
+||*Copyright: Wahclella-Fälle in der Columbia Fluss-Schlucht, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BangkokCircle_EN-CA9121846654_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_EN-CA9121846654_UHD.jpg)|
-||*Copyright: Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)*
+|2024-03-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-CA9749764776_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-CA9749764776_UHD.jpg)|
+||*Copyright: Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-06|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BangkokCircle_EN-GB8143129520_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_EN-GB8143129520_UHD.jpg)|
-||*Copyright: Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)*
+|2024-03-07|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-GB8488291917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-GB8488291917_UHD.jpg)|
+||*Copyright: Wahclella Falls in the Columbia River Gorge, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BangkokCircle_IT-IT8552577608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_IT-IT8552577608_UHD.jpg)|
-||*Copyright: Rotatoria stradale e autostrada a Bangkok, Thailandia (© Avigator Fortuner/Shutterstock)*
+|2024-03-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.WahclellaFalls_IT-IT1579861571_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_IT-IT1579861571_UHD.jpg)|
+||*Copyright: Cascate di Wahclella, Columbia River Gorge, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BangkokCircle_ES-ES6741125775_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_ES-ES6741125775_UHD.jpg)|
-||*Copyright: Rotonda y autopista en Bangkok, Tailandia (© Avigator Fortuner/Shutterstock)*
+|2024-03-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.WahclellaFalls_ES-ES6891915374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_ES-ES6891915374_UHD.jpg)|
+||*Copyright: Cascadas de Wahclella en la garganta del río Columbia, Oregón, EE.UU. (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BangkokCircle_FR-CA5359064809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BangkokCircle_FR-CA5359064809_UHD.jpg)|
-||*Copyright: Rond-point et autoroute à Bangkok, Thaïlande (© Avigator Fortuner/Shutterstock)*
+|2024-03-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.WahclellaFalls_FR-CA5508571587_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_FR-CA5508571587_UHD.jpg)|
+||*Copyright: Cascade de Wahclella dans les gorges du fleuve Columbia, Oregon, États-Unis (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
 
