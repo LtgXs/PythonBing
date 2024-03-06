@@ -6,9 +6,9 @@
 ||*Copyright: Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WahclellaFalls_JA-JP1412765410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_JA-JP1412765410_UHD.jpg)|
-||*Copyright: ワクレラ滝, 米国 オレゴン州 (© Eric Vogt/Tandem Stills + Motion)*
+|2024-03-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TarragonaSpain_JA-JP1624420185_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaSpain_JA-JP1624420185_UHD.jpg)|
+||*Copyright: エルス・ポート自然公園, スペイン カタルーニャ州 (© Sergi Boixader/Alamy)*
 ||
 |||
 |2024-03-06|**Region: en-IN**||

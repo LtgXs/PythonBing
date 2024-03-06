@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:21:29] Picture infomations saved to  global/fr-CA/README.md
 [09:21:29] Picture infomations saved to global/fr-CA/history/2024/03/07_fr-CA.md
 Program exit at 09:21:29
+
+Program started at 16:11:07
+Operating System Name: Linux
+Operating System Version: #15~22.04.1-Ubuntu SMP Tue Feb 13 01:15:12 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az847-780
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[16:11:07] Start geting CN Bing Wallpaper
+[16:11:07] Successful get url: https://www.bing.com/th?id=OHR.TarragonaSpain_ZH-CN5488361711_UHD.jpg
+[16:11:08] Image saved to img/background.jpg
+[16:11:08] Info saved to README.md
+[16:11:08] Image saved to history/2024/03/07.md
+[16:11:08] Start geting global Bing Wallpaper, region=en-US, local time is 2024-03-06 11:11:08.084496-05:00
+[16:11:08] Successful get url: https://www.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg
+[16:11:08] Picture infomations saved to  global/en-US/README.md
+[16:11:08] Picture infomations saved to global/en-US/history/2024/03/07_en-US.md
+[16:11:08] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-03-07 01:11:08.371470+09:00
+[16:11:08] Successful get url: https://www.bing.com/th?id=OHR.TarragonaSpain_JA-JP1624420185_UHD.jpg
+[16:11:08] Picture infomations saved to  global/ja-JP/README.md
+[16:11:08] Picture infomations saved to global/ja-JP/history/2024/03/07_ja-JP.md
+[16:11:08] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-03-06 21:41:08.987985+05:30
+[16:11:09] Successful get url: https://www.bing.com/th?id=OHR.WahclellaFalls_EN-IN2266702818_UHD.jpg
+[16:11:09] Picture infomations saved to  global/en-IN/README.md
+[16:11:09] Picture infomations saved to global/en-IN/history/2024/03/06_en-IN.md
+[16:11:09] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-03-06 13:11:09.222271-03:00
+[16:11:09] Successful get url: https://www.bing.com/th?id=OHR.WahclellaFalls_PT-BR3300718426_UHD.jpg
+[16:11:09] Picture infomations saved to  global/pt-BR/README.md
+[16:11:09] Picture infomations saved to global/pt-BR/history/2024/03/07_pt-BR.md
+[16:11:09] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-03-06 17:11:09.379904+01:00
+[16:11:09] Successful get url: https://www.bing.com/th?id=OHR.WahclellaFalls_FR-FR6884948477_UHD.jpg
+[16:11:09] Picture infomations saved to  global/fr-FR/README.md
+[16:11:09] Picture infomations saved to global/fr-FR/history/2024/03/06_fr-FR.md
+[16:11:09] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-03-06 17:11:09.557352+01:00
+[16:11:09] Successful get url: https://www.bing.com/th?id=OHR.WahclellaFalls_DE-DE6758659326_UHD.jpg
+[16:11:09] Picture infomations saved to  global/de-DE/README.md
+[16:11:09] Picture infomations saved to global/de-DE/history/2024/03/06_de-DE.md
+[16:11:09] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-03-06 11:11:09.758974-05:00
+[16:11:09] Successful get url: https://www.bing.com/th?id=OHR.WahclellaFalls_EN-CA9749764776_UHD.jpg
+[16:11:09] Picture infomations saved to  global/en-CA/README.md
+[16:11:09] Picture infomations saved to global/en-CA/history/2024/03/07_en-CA.md
+[16:11:09] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-03-06 16:11:09.951372+00:00
+[16:11:10] Successful get url: https://www.bing.com/th?id=OHR.WahclellaFalls_EN-GB8488291917_UHD.jpg
+[16:11:10] Picture infomations saved to  global/en-GB/README.md
+[16:11:10] Picture infomations saved to global/en-GB/history/2024/03/07_en-GB.md
+[16:11:10] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-03-06 17:11:10.147450+01:00
+[16:11:10] Successful get url: https://www.bing.com/th?id=OHR.WahclellaFalls_IT-IT1579861571_UHD.jpg
+[16:11:10] Picture infomations saved to  global/it-IT/README.md
+[16:11:10] Picture infomations saved to global/it-IT/history/2024/03/06_it-IT.md
+[16:11:10] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-03-06 17:11:10.297683+01:00
+[16:11:10] Successful get url: https://www.bing.com/th?id=OHR.WahclellaFalls_ES-ES6891915374_UHD.jpg
+[16:11:10] Picture infomations saved to  global/es-ES/README.md
+[16:11:10] Picture infomations saved to global/es-ES/history/2024/03/06_es-ES.md
+[16:11:10] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-03-06 11:11:10.453287-05:00
+[16:11:10] Successful get url: https://www.bing.com/th?id=OHR.WahclellaFalls_FR-CA5508571587_UHD.jpg
+[16:11:10] Picture infomations saved to  global/fr-CA/README.md
+[16:11:10] Picture infomations saved to global/fr-CA/history/2024/03/07_fr-CA.md
+Program exit at 16:11:10
