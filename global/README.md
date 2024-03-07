@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-03-07|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg)|
-||*Copyright: Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)*
+|2024-03-08|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TarragonaSpain_EN-US4664908149_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaSpain_EN-US4664908149_UHD.jpg)|
+||*Copyright: Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)*
 ||
 |||
 |2024-03-07|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: エルス・ポート自然公園, スペイン カタルーニャ州 (© Sergi Boixader/Alamy)*
 ||
 |||
-|2024-03-06|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-IN2266702818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-IN2266702818_UHD.jpg)|
-||*Copyright: Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)*
+|2024-03-07|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TarragonaSpain_EN-IN2183884361_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaSpain_EN-IN2183884361_UHD.jpg)|
+||*Copyright: Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)*
 ||
 |||
-|2024-03-07|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.WahclellaFalls_PT-BR3300718426_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_PT-BR3300718426_UHD.jpg)|
-||*Copyright: Cachoeiras de Wahclella na garganta do rio Columbia, Oregon, EUA (© Eric Vogt/Tandem Stills + Motion)*
+|2024-03-08|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TarragonaSpain_PT-BR3520793083_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaSpain_PT-BR3520793083_UHD.jpg)|
+||*Copyright: Roques de Benet, Parque Natural Els Ports, Catalunha, Espanha (© Sergi Boixader/Alamy Stock Photo)*
 ||
 |||
-|2024-03-06|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WahclellaFalls_FR-FR6884948477_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_FR-FR6884948477_UHD.jpg)|
-||*Copyright: Cascade de Wahclella dans les gorges du fleuve Columbia, Oregon, États-Unis (© Eric Vogt/Tandem Stills + Motion)*
+|2024-03-07|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TarragonaSpain_FR-FR7145786425_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaSpain_FR-FR7145786425_UHD.jpg)|
+||*Copyright: Roques de Benet, parc naturel Els Ports, Catalogne, Espagne (© Sergi Boixader/Alamy)*
 ||
 |||
-|2024-03-06|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WahclellaFalls_DE-DE6758659326_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_DE-DE6758659326_UHD.jpg)|
-||*Copyright: Wahclella-Fälle in der Columbia Fluss-Schlucht, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)*
+|2024-03-07|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TarragonaSpain_DE-DE8015147907_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaSpain_DE-DE8015147907_UHD.jpg)|
+||*Copyright: Felsen von Benet, Parc Natural dels Ports, Katalonien, Spanien (© Sergi Boixader/Alamy Stock Photo)*
 ||
 |||
-|2024-03-07|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-CA9749764776_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-CA9749764776_UHD.jpg)|
-||*Copyright: Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)*
+|2024-03-08|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TarragonaSpain_EN-CA0184990294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaSpain_EN-CA0184990294_UHD.jpg)|
+||*Copyright: Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)*
 ||
 |||
-|2024-03-07|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-GB8488291917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-GB8488291917_UHD.jpg)|
-||*Copyright: Wahclella Falls in the Columbia River Gorge, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)*
+|2024-03-08|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TarragonaSpain_EN-GB6677575953_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaSpain_EN-GB6677575953_UHD.jpg)|
+||*Copyright: Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy Stock Photo)*
 ||
 |||
-|2024-03-06|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WahclellaFalls_IT-IT1579861571_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_IT-IT1579861571_UHD.jpg)|
-||*Copyright: Cascate di Wahclella, Columbia River Gorge, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)*
+|2024-03-07|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TarragonaSpain_IT-IT1704210976_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaSpain_IT-IT1704210976_UHD.jpg)|
+||*Copyright: Roques de Benet, Parco Naturale di Els Ports, Catalogna, Spagna (© Sergi Boixader/Alamy)*
 ||
 |||
-|2024-03-06|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.WahclellaFalls_ES-ES6891915374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_ES-ES6891915374_UHD.jpg)|
-||*Copyright: Cascadas de Wahclella en la garganta del río Columbia, Oregón, EE.UU. (© Eric Vogt/Tandem Stills + Motion)*
+|2024-03-07|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TarragonaSpain_ES-ES7042057551_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaSpain_ES-ES7042057551_UHD.jpg)|
+||*Copyright: Roques de Benet, Parque Natural de Els Ports, Cataluña, España (© Sergi Boixader/Alamy)*
 ||
 |||
-|2024-03-07|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WahclellaFalls_FR-CA5508571587_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WahclellaFalls_FR-CA5508571587_UHD.jpg)|
-||*Copyright: Cascade de Wahclella dans les gorges du fleuve Columbia, Oregon, États-Unis (© Eric Vogt/Tandem Stills + Motion)*
+|2024-03-08|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TarragonaSpain_FR-CA5706201102_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaSpain_FR-CA5706201102_UHD.jpg)|
+||*Copyright: Roques de Benet, parc naturel Els Ports, Catalogne, Espagne (© Sergi Boixader/Alamy)*
 ||
 |||
 
