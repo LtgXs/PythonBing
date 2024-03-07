@@ -6,9 +6,9 @@
 ||*Copyright: Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)*
 ||
 |||
-|2024-03-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TarragonaSpain_JA-JP1624420185_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaSpain_JA-JP1624420185_UHD.jpg)|
-||*Copyright: エルス・ポート自然公園, スペイン カタルーニャ州 (© Sergi Boixader/Alamy)*
+|2024-03-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TateLightUp_JA-JP2160540676_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateLightUp_JA-JP2160540676_UHD.jpg)|
+||*Copyright: テート・モダン, イギリス ロンドン (© Stephen Chung/Alamy Stock Photo)*
 ||
 |||
 |2024-03-07|**Region: en-IN**||
