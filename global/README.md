@@ -6,9 +6,9 @@
 ||*Copyright: Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)*
 ||
 |||
-|2024-03-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TateLightUp_JA-JP2160540676_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateLightUp_JA-JP2160540676_UHD.jpg)|
-||*Copyright: テート・モダン, イギリス ロンドン (© Stephen Chung/Alamy Stock Photo)*
+|2024-03-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BistiBlue_JA-JP2352512218_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_JA-JP2352512218_UHD.jpg)|
+||*Copyright: ビスティ・デナジン荒野, 米国 ニューメキシコ州 (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
 |2024-03-08|**Region: en-IN**||
