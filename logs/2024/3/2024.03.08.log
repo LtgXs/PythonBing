@@ -1,0 +1,60 @@
+
+Program started at 09:20:57
+Operating System Name: Linux
+Operating System Version: #15~22.04.1-Ubuntu SMP Tue Feb 13 01:15:12 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1493-8
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[09:20:57] Start geting CN Bing Wallpaper
+[09:20:57] Successful get url: https://www.bing.com/th?id=OHR.IguazuFalls_ZH-CN4749837052_UHD.jpg
+[09:20:57] Image saved to img/background.jpg
+[09:20:57] Info saved to README.md
+[09:20:57] Image saved to history/2024/03/08.md
+[09:20:57] Start geting global Bing Wallpaper, region=en-US, local time is 2024-03-08 04:20:57.548829-05:00
+[09:20:57] Successful get url: https://www.bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg
+[09:20:57] Picture infomations saved to  global/en-US/README.md
+[09:20:57] Picture infomations saved to global/en-US/history/2024/03/09_en-US.md
+[09:20:57] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-03-08 18:20:57.734679+09:00
+[09:20:57] Successful get url: https://www.bing.com/th?id=OHR.TateLightUp_JA-JP2160540676_UHD.jpg
+[09:20:57] Picture infomations saved to  global/ja-JP/README.md
+[09:20:57] Picture infomations saved to global/ja-JP/history/2024/03/08_ja-JP.md
+[09:20:57] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-03-08 14:50:57.930348+05:30
+[09:20:58] Successful get url: https://www.bing.com/th?id=OHR.TateLightUp_EN-IN0743144601_UHD.jpg
+[09:20:58] Picture infomations saved to  global/en-IN/README.md
+[09:20:58] Picture infomations saved to global/en-IN/history/2024/03/08_en-IN.md
+[09:20:58] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-03-08 06:20:58.089281-03:00
+[09:20:58] Successful get url: https://www.bing.com/th?id=OHR.TateLightUp_PT-BR7094951242_UHD.jpg
+[09:20:58] Picture infomations saved to  global/pt-BR/README.md
+[09:20:58] Picture infomations saved to global/pt-BR/history/2024/03/09_pt-BR.md
+[09:20:58] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-03-08 10:20:58.256531+01:00
+[09:20:58] Successful get url: https://www.bing.com/th?id=OHR.TateLightUp_FR-FR0418217610_UHD.jpg
+[09:20:58] Picture infomations saved to  global/fr-FR/README.md
+[09:20:58] Picture infomations saved to global/fr-FR/history/2024/03/08_fr-FR.md
+[09:20:58] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-03-08 10:20:58.414631+01:00
+[09:20:58] Successful get url: https://www.bing.com/th?id=OHR.TateLightUp_DE-DE4723592694_UHD.jpg
+[09:20:58] Picture infomations saved to  global/de-DE/README.md
+[09:20:58] Picture infomations saved to global/de-DE/history/2024/03/08_de-DE.md
+[09:20:58] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-03-08 04:20:58.599116-05:00
+[09:20:58] Successful get url: https://www.bing.com/th?id=OHR.TateLightUp_EN-CA4364910189_UHD.jpg
+[09:20:58] Picture infomations saved to  global/en-CA/README.md
+[09:20:58] Picture infomations saved to global/en-CA/history/2024/03/09_en-CA.md
+[09:20:58] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-03-08 09:20:58.765054+00:00
+[09:20:58] Successful get url: https://www.bing.com/th?id=OHR.TateLightUp_EN-GB9793906084_UHD.jpg
+[09:20:58] Picture infomations saved to  global/en-GB/README.md
+[09:20:58] Picture infomations saved to global/en-GB/history/2024/03/09_en-GB.md
+[09:20:58] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-03-08 10:20:58.927874+01:00
+[09:20:59] Successful get url: https://www.bing.com/th?id=OHR.TateLightUp_IT-IT9961329902_UHD.jpg
+[09:20:59] Picture infomations saved to  global/it-IT/README.md
+[09:20:59] Picture infomations saved to global/it-IT/history/2024/03/08_it-IT.md
+[09:20:59] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-03-08 10:20:59.100150+01:00
+[09:20:59] Successful get url: https://www.bing.com/th?id=OHR.TateLightUp_ES-ES5015555147_UHD.jpg
+[09:20:59] Picture infomations saved to  global/es-ES/README.md
+[09:20:59] Picture infomations saved to global/es-ES/history/2024/03/08_es-ES.md
+[09:20:59] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-03-08 04:20:59.269729-05:00
+[09:20:59] Successful get url: https://www.bing.com/th?id=OHR.TateLightUp_FR-CA0620263799_UHD.jpg
+[09:20:59] Picture infomations saved to  global/fr-CA/README.md
+[09:20:59] Picture infomations saved to global/fr-CA/history/2024/03/09_fr-CA.md
+Program exit at 09:20:59
