@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-03-09|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg)|
-||*Copyright: Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)*
+|2024-03-10|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg)|
+||*Copyright: Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
 |2024-03-09|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ビスティ・デナジン荒野, 米国 ニューメキシコ州 (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TateLightUp_EN-IN0743144601_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateLightUp_EN-IN0743144601_UHD.jpg)|
-||*Copyright: Tate Modern lit up on International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)*
+|2024-03-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BistiBlue_EN-IN1019261604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_EN-IN1019261604_UHD.jpg)|
+||*Copyright: Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-09|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TateLightUp_PT-BR7094951242_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateLightUp_PT-BR7094951242_UHD.jpg)|
-||*Copyright: Galeria Tate Modern iluminada no Dia Internacional da Mulher, Londres, Inglaterra (© Stephen Chung/Alamy Stock Photo)*
+|2024-03-10|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ArdeAlba_PT-BR8363660380_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdeAlba_PT-BR8363660380_UHD.jpg)|
+||*Copyright: Garça-branca-grande (Ardea alba) em pé em uma lagoa de vitórias-régias, Pantanal (© Geraldi Corsi/Getty Images)*
 ||
 |||
-|2024-03-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TateLightUp_FR-FR0418217610_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateLightUp_FR-FR0418217610_UHD.jpg)|
-||*Copyright: Musée Tate Modern illuminé à l'occasion de la Journée internationale des femmes, Londres, Angleterre (© Stephen Chung/Alamy Stock Photo)*
+|2024-03-09|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BistiBlue_FR-FR0934555196_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_FR-FR0934555196_UHD.jpg)|
+||*Copyright: Région sauvage de Bisti/De-Na-Zin, Nouveau-Mexique, États-Unis (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-08|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TateLightUp_DE-DE4723592694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateLightUp_DE-DE4723592694_UHD.jpg)|
-||*Copyright: Tate Modern am Weltfrauentag, London, England (© Stephen Chung/Alamy Stock Photo)*
+|2024-03-09|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BistiBlue_DE-DE4146045796_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_DE-DE4146045796_UHD.jpg)|
+||*Copyright: Bisti/De-Na-Zin unberührte Wildnis, New Mexico, USA (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TateLightUp_EN-CA4364910189_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateLightUp_EN-CA4364910189_UHD.jpg)|
-||*Copyright: Tate Modern lit up on International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)*
+|2024-03-10|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BistiBlue_EN-CA4421892310_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_EN-CA4421892310_UHD.jpg)|
+||*Copyright: Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TateLightUp_EN-GB9793906084_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateLightUp_EN-GB9793906084_UHD.jpg)|
-||*Copyright: Tate Modern lit up on International Women's Day, London (© Stephen Chung/Alamy Stock Photo)*
+|2024-03-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BistiBlue_EN-GB9222273593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_EN-GB9222273593_UHD.jpg)|
+||*Copyright: Bisti/De-Na-Zin Wilderness, New Mexico, USA (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-08|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TateLightUp_IT-IT9961329902_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateLightUp_IT-IT9961329902_UHD.jpg)|
-||*Copyright: Tate Modern illuminato di viola, Londra, Inghilterra (© Stephen Chung/Alamy Stock Photo)*
+|2024-03-09|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BistiBlue_IT-IT0491354330_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_IT-IT0491354330_UHD.jpg)|
+||*Copyright: La natura selvaggia del Bisti/De-Na-Zin, Nuovo Messico, Stati Uniti (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-08|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TateLightUp_ES-ES5015555147_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateLightUp_ES-ES5015555147_UHD.jpg)|
-||*Copyright: Tate Modern iluminada en el Día Internacional de la Mujer, Londres, Inglaterra (© Stephen Chung/Alamy Stock Photo)*
+|2024-03-09|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BistiBlue_ES-ES5203614111_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_ES-ES5203614111_UHD.jpg)|
+||*Copyright: Bisti/De-Na-Zin Wilderness, Nuevo México, EE.UU. (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-09|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TateLightUp_FR-CA0620263799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateLightUp_FR-CA0620263799_UHD.jpg)|
-||*Copyright: Musée Tate Modern illuminé à l'occasion de la Journée internationale des femmes, Londres, Angleterre (© Stephen Chung/Alamy Stock Photo)*
+|2024-03-10|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BistiBlue_FR-CA0558895041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_FR-CA0558895041_UHD.jpg)|
+||*Copyright: Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
 
