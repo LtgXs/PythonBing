@@ -6,9 +6,9 @@
 ||*Copyright: Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BistiBlue_JA-JP2352512218_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_JA-JP2352512218_UHD.jpg)|
-||*Copyright: ビスティ・デナジン荒野, 米国 ニューメキシコ州 (© Ian Shive/Tandem Stills + Motion)*
+|2024-03-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BeaumontClock_JA-JP2519288408_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaumontClock_JA-JP2519288408_UHD.jpg)|
+||*Copyright: サン・ジャシント・ビルの大時計, 米国 テキサス州 (© Richard T. Nowitz/Getty Images)*
 ||
 |||
 |2024-03-09|**Region: en-IN**||
