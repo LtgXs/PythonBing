@@ -6,9 +6,9 @@
 ||*Copyright: San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)*
 ||
 |||
-|2024-03-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BeaumontClock_JA-JP2519288408_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaumontClock_JA-JP2519288408_UHD.jpg)|
-||*Copyright: サン・ジャシント・ビルの大時計, 米国 テキサス州 (© Richard T. Nowitz/Getty Images)*
+|2024-03-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Earthquake2024_JA-JP2825640638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Earthquake2024_JA-JP2825640638_UHD.jpg)|
+||*Copyright: 追悼イベントの灯籠, 宮城県 名取市 (© Satoshi Takahashi/Getty Images)*
 ||
 |||
 |2024-03-10|**Region: en-IN**||
