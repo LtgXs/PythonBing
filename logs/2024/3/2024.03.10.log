@@ -1,0 +1,60 @@
+
+Program started at 09:22:20
+Operating System Name: Linux
+Operating System Version: #15~22.04.1-Ubuntu SMP Tue Feb 13 01:15:12 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az665-461
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[09:22:20] Start geting CN Bing Wallpaper
+[09:22:20] Successful get url: https://www.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_UHD.jpg
+[09:22:20] Image saved to img/background.jpg
+[09:22:20] Info saved to README.md
+[09:22:20] Image saved to history/2024/03/10.md
+[09:22:20] Start geting global Bing Wallpaper, region=en-US, local time is 2024-03-10 05:22:20.910264-04:00
+[09:22:20] Successful get url: https://www.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg
+[09:22:21] Picture infomations saved to  global/en-US/README.md
+[09:22:21] Picture infomations saved to global/en-US/history/2024/03/11_en-US.md
+[09:22:21] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-03-10 18:22:21.070513+09:00
+[09:22:21] Successful get url: https://www.bing.com/th?id=OHR.BeaumontClock_JA-JP2519288408_UHD.jpg
+[09:22:21] Picture infomations saved to  global/ja-JP/README.md
+[09:22:21] Picture infomations saved to global/ja-JP/history/2024/03/10_ja-JP.md
+[09:22:21] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-03-10 14:52:21.230631+05:30
+[09:22:21] Successful get url: https://www.bing.com/th?id=OHR.MorningElephants_EN-IN1473865657_UHD.jpg
+[09:22:21] Picture infomations saved to  global/en-IN/README.md
+[09:22:21] Picture infomations saved to global/en-IN/history/2024/03/10_en-IN.md
+[09:22:21] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-03-10 06:22:21.381915-03:00
+[09:22:21] Successful get url: https://www.bing.com/th?id=OHR.BistiBlue_PT-BR3525071051_UHD.jpg
+[09:22:21] Picture infomations saved to  global/pt-BR/README.md
+[09:22:21] Picture infomations saved to global/pt-BR/history/2024/03/11_pt-BR.md
+[09:22:21] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-03-10 10:22:21.620908+01:00
+[09:22:21] Successful get url: https://www.bing.com/th?id=OHR.MontBlancGlacier_FR-FR3426443690_UHD.jpg
+[09:22:21] Picture infomations saved to  global/fr-FR/README.md
+[09:22:21] Picture infomations saved to global/fr-FR/history/2024/03/10_fr-FR.md
+[09:22:21] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-03-10 10:22:21.770399+01:00
+[09:22:21] Successful get url: https://www.bing.com/th?id=OHR.AstrologicalClock_DE-DE9747364573_UHD.jpg
+[09:22:21] Picture infomations saved to  global/de-DE/README.md
+[09:22:21] Picture infomations saved to global/de-DE/history/2024/03/10_de-DE.md
+[09:22:21] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-03-10 05:22:21.922443-04:00
+[09:22:21] Successful get url: https://www.bing.com/th?id=OHR.BeaumontClock_EN-CA5068787864_UHD.jpg
+[09:22:22] Picture infomations saved to  global/en-CA/README.md
+[09:22:22] Picture infomations saved to global/en-CA/history/2024/03/11_en-CA.md
+[09:22:22] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-03-10 09:22:22.069826+00:00
+[09:22:22] Successful get url: https://www.bing.com/th?id=OHR.MotheringSundayMuteSwan_EN-GB7947590349_UHD.jpg
+[09:22:22] Picture infomations saved to  global/en-GB/README.md
+[09:22:22] Picture infomations saved to global/en-GB/history/2024/03/11_en-GB.md
+[09:22:22] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-03-10 10:22:22.214650+01:00
+[09:22:22] Successful get url: https://www.bing.com/th?id=OHR.BeaumontClock_IT-IT6612904601_UHD.jpg
+[09:22:22] Picture infomations saved to  global/it-IT/README.md
+[09:22:22] Picture infomations saved to global/it-IT/history/2024/03/10_it-IT.md
+[09:22:22] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-03-10 10:22:22.358688+01:00
+[09:22:22] Successful get url: https://www.bing.com/th?id=OHR.BamburghCastleUK_ES-ES6621606251_UHD.jpg
+[09:22:22] Picture infomations saved to  global/es-ES/README.md
+[09:22:22] Picture infomations saved to global/es-ES/history/2024/03/10_es-ES.md
+[09:22:22] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-03-10 05:22:22.499279-04:00
+[09:22:22] Successful get url: https://www.bing.com/th?id=OHR.BeaumontClock_FR-CA7147166599_UHD.jpg
+[09:22:22] Picture infomations saved to  global/fr-CA/README.md
+[09:22:22] Picture infomations saved to global/fr-CA/history/2024/03/11_fr-CA.md
+Program exit at 09:22:22

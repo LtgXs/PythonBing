@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-03-10|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg)|
-||*Copyright: Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)*
+|2024-03-11|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg)|
+||*Copyright: San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)*
 ||
 |||
 |2024-03-10|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: サン・ジャシント・ビルの大時計, 米国 テキサス州 (© Richard T. Nowitz/Getty Images)*
 ||
 |||
-|2024-03-09|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BistiBlue_EN-IN1019261604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_EN-IN1019261604_UHD.jpg)|
+|2024-03-10|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MorningElephants_EN-IN1473865657_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MorningElephants_EN-IN1473865657_UHD.jpg)|
+||*Copyright: Elephants crossing river in Jim Corbett National Park, India (© ABHILASH VISWA PICASSO/Shutterstock)*
+||
+|||
+|2024-03-11|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BistiBlue_PT-BR3525071051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_PT-BR3525071051_UHD.jpg)|
 ||*Copyright: Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-10|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ArdeAlba_PT-BR8363660380_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdeAlba_PT-BR8363660380_UHD.jpg)|
-||*Copyright: Garça-branca-grande (Ardea alba) em pé em uma lagoa de vitórias-régias, Pantanal (© Geraldi Corsi/Getty Images)*
+|2024-03-10|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MontBlancGlacier_FR-FR3426443690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontBlancGlacier_FR-FR3426443690_UHD.jpg)|
+||*Copyright: La Mer de Glace, Chamonix, massif du Mont-Blanc, Haute-Savoie, France (© Hagenmuller Jean-François/Hemis.fr)*
 ||
 |||
-|2024-03-09|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BistiBlue_FR-FR0934555196_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_FR-FR0934555196_UHD.jpg)|
-||*Copyright: Région sauvage de Bisti/De-Na-Zin, Nouveau-Mexique, États-Unis (© Ian Shive/Tandem Stills + Motion)*
+|2024-03-10|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AstrologicalClock_DE-DE9747364573_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AstrologicalClock_DE-DE9747364573_UHD.jpg)|
+||*Copyright: Rathaus Ulm, Astronomische Uhr aus dem 16. Jahrhundert, Ulm, Baden-Württemberg (© Hemis/Alamy Stock Photo)*
 ||
 |||
-|2024-03-09|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BistiBlue_DE-DE4146045796_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_DE-DE4146045796_UHD.jpg)|
-||*Copyright: Bisti/De-Na-Zin unberührte Wildnis, New Mexico, USA (© Ian Shive/Tandem Stills + Motion)*
+|2024-03-11|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BeaumontClock_EN-CA5068787864_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaumontClock_EN-CA5068787864_UHD.jpg)|
+||*Copyright: San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)*
 ||
 |||
-|2024-03-10|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BistiBlue_EN-CA4421892310_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_EN-CA4421892310_UHD.jpg)|
-||*Copyright: Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)*
+|2024-03-11|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MotheringSundayMuteSwan_EN-GB7947590349_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MotheringSundayMuteSwan_EN-GB7947590349_UHD.jpg)|
+||*Copyright: Mute swan mother and cygnet, Stanpit Marsh, England (© LecartPhotos/Alamy Stock Photo)*
 ||
 |||
-|2024-03-10|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BistiBlue_EN-GB9222273593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_EN-GB9222273593_UHD.jpg)|
-||*Copyright: Bisti/De-Na-Zin Wilderness, New Mexico, USA (© Ian Shive/Tandem Stills + Motion)*
+|2024-03-10|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BeaumontClock_IT-IT6612904601_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaumontClock_IT-IT6612904601_UHD.jpg)|
+||*Copyright: Orologio meccanico di San Jacinto, Beaumont, Texas, Stati Uniti (© Richard T. Nowitz/Getty Images)*
 ||
 |||
-|2024-03-09|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BistiBlue_IT-IT0491354330_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_IT-IT0491354330_UHD.jpg)|
-||*Copyright: La natura selvaggia del Bisti/De-Na-Zin, Nuovo Messico, Stati Uniti (© Ian Shive/Tandem Stills + Motion)*
+|2024-03-10|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_ES-ES6621606251_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_ES-ES6621606251_UHD.jpg)|
+||*Copyright: Castillo de Bamburgh, Northumberland, Inglaterra (© Blackbeck/Getty Images)*
 ||
 |||
-|2024-03-09|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BistiBlue_ES-ES5203614111_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_ES-ES5203614111_UHD.jpg)|
-||*Copyright: Bisti/De-Na-Zin Wilderness, Nuevo México, EE.UU. (© Ian Shive/Tandem Stills + Motion)*
-||
-|||
-|2024-03-10|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BistiBlue_FR-CA0558895041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_FR-CA0558895041_UHD.jpg)|
-||*Copyright: Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)*
+|2024-03-11|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BeaumontClock_FR-CA7147166599_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaumontClock_FR-CA7147166599_UHD.jpg)|
+||*Copyright: Horloge de San Jacinto, Beaumont, Texas, États-Unis (© Richard T. Nowitz/Getty Images)*
 ||
 |||
 
