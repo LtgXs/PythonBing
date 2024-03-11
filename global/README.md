@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-03-11|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg)|
-||*Copyright: San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)*
+|2024-03-12|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg)|
+||*Copyright: A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)*
 ||
 |||
 |2024-03-11|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 追悼イベントの灯籠, 宮城県 名取市 (© Satoshi Takahashi/Getty Images)*
 ||
 |||
-|2024-03-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MorningElephants_EN-IN1473865657_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MorningElephants_EN-IN1473865657_UHD.jpg)|
-||*Copyright: Elephants crossing river in Jim Corbett National Park, India (© ABHILASH VISWA PICASSO/Shutterstock)*
+|2024-03-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SleepyKoala_EN-IN1567307093_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyKoala_EN-IN1567307093_UHD.jpg)|
+||*Copyright: A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)*
 ||
 |||
-|2024-03-11|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BistiBlue_PT-BR3525071051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BistiBlue_PT-BR3525071051_UHD.jpg)|
-||*Copyright: Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)*
+|2024-03-12|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SleepyKoala_PT-BR9818387982_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyKoala_PT-BR9818387982_UHD.jpg)|
+||*Copyright: Um coala dormindo em uma árvore de eucalipto, Austrália (© Anton Rogozin/Getty Images)*
 ||
 |||
-|2024-03-10|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MontBlancGlacier_FR-FR3426443690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontBlancGlacier_FR-FR3426443690_UHD.jpg)|
-||*Copyright: La Mer de Glace, Chamonix, massif du Mont-Blanc, Haute-Savoie, France (© Hagenmuller Jean-François/Hemis.fr)*
+|2024-03-11|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SleepyKoala_FR-FR0968348231_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyKoala_FR-FR0968348231_UHD.jpg)|
+||*Copyright: Un koala dormant sur un Eucalyptus, Australie (© Anton Rogozin/Getty Images)*
 ||
 |||
-|2024-03-10|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AstrologicalClock_DE-DE9747364573_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AstrologicalClock_DE-DE9747364573_UHD.jpg)|
-||*Copyright: Rathaus Ulm, Astronomische Uhr aus dem 16. Jahrhundert, Ulm, Baden-Württemberg (© Hemis/Alamy Stock Photo)*
+|2024-03-11|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SleepyKoala_DE-DE9658817284_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyKoala_DE-DE9658817284_UHD.jpg)|
+||*Copyright: Ein Koala schläft auf einem Eukalyptusbaum, Australien (© Anton Rogozin/Getty Images)*
 ||
 |||
-|2024-03-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BeaumontClock_EN-CA5068787864_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaumontClock_EN-CA5068787864_UHD.jpg)|
-||*Copyright: San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)*
+|2024-03-12|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SleepyKoala_EN-CA5375269205_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyKoala_EN-CA5375269205_UHD.jpg)|
+||*Copyright: A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)*
 ||
 |||
-|2024-03-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MotheringSundayMuteSwan_EN-GB7947590349_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MotheringSundayMuteSwan_EN-GB7947590349_UHD.jpg)|
-||*Copyright: Mute swan mother and cygnet, Stanpit Marsh, England (© LecartPhotos/Alamy Stock Photo)*
+|2024-03-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SleepyKoala_EN-GB8056580586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyKoala_EN-GB8056580586_UHD.jpg)|
+||*Copyright: A sleeping koala, Australia (© Anton Rogozin/Getty Images)*
 ||
 |||
-|2024-03-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BeaumontClock_IT-IT6612904601_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaumontClock_IT-IT6612904601_UHD.jpg)|
-||*Copyright: Orologio meccanico di San Jacinto, Beaumont, Texas, Stati Uniti (© Richard T. Nowitz/Getty Images)*
+|2024-03-11|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SleepyKoala_IT-IT1648374764_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyKoala_IT-IT1648374764_UHD.jpg)|
+||*Copyright: Un koala che sonnecchia su un albero di eucalipto, Australia (© Anton Rogozin/Getty Images)*
 ||
 |||
-|2024-03-10|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BamburghCastleUK_ES-ES6621606251_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BamburghCastleUK_ES-ES6621606251_UHD.jpg)|
-||*Copyright: Castillo de Bamburgh, Northumberland, Inglaterra (© Blackbeck/Getty Images)*
+|2024-03-11|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SleepyKoala_ES-ES6859106237_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyKoala_ES-ES6859106237_UHD.jpg)|
+||*Copyright: Un koala durmiendo en un eucalipto, Australia (© Anton Rogozin/Getty Images)*
 ||
 |||
-|2024-03-11|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BeaumontClock_FR-CA7147166599_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaumontClock_FR-CA7147166599_UHD.jpg)|
-||*Copyright: Horloge de San Jacinto, Beaumont, Texas, États-Unis (© Richard T. Nowitz/Getty Images)*
+|2024-03-12|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SleepyKoala_FR-CA7476339707_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepyKoala_FR-CA7476339707_UHD.jpg)|
+||*Copyright: Un koala dormant sur un Eucalyptus, Australie (© Anton Rogozin/Getty Images)*
 ||
 |||
 
