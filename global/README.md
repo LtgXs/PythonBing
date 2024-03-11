@@ -6,9 +6,9 @@
 ||*Copyright: A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)*
 ||
 |||
-|2024-03-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Earthquake2024_JA-JP2825640638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Earthquake2024_JA-JP2825640638_UHD.jpg)|
-||*Copyright: 追悼イベントの灯籠, 宮城県 名取市 (© Satoshi Takahashi/Getty Images)*
+|2024-03-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OmizutoriNew_JA-JP3433655435_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OmizutoriNew_JA-JP3433655435_UHD.jpg)|
+||*Copyright: 東大寺, 奈良県 奈良市 (© Buddhika Weerasinghe/Getty Images)*
 ||
 |||
 |2024-03-11|**Region: en-IN**||
