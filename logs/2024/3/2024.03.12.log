@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:26:16] Picture infomations saved to  global/fr-CA/README.md
 [09:26:16] Picture infomations saved to global/fr-CA/history/2024/03/13_fr-CA.md
 Program exit at 09:26:16
+
+Program started at 16:12:09
+Operating System Name: Linux
+Operating System Version: #15~22.04.1-Ubuntu SMP Tue Feb 13 01:15:12 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1149-156
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[16:12:09] Start geting CN Bing Wallpaper
+[16:12:09] Successful get url: https://www.bing.com/th?id=OHR.MagadiFlamingos_ZH-CN7888437841_UHD.jpg
+[16:12:09] Image saved to img/background.jpg
+[16:12:09] Info saved to README.md
+[16:12:09] Image saved to history/2024/03/13.md
+[16:12:09] Start geting global Bing Wallpaper, region=en-US, local time is 2024-03-12 12:12:09.571445-04:00
+[16:12:09] Successful get url: https://www.bing.com/th?id=OHR.BryceSnow_EN-US1471442313_UHD.jpg
+[16:12:09] Picture infomations saved to  global/en-US/README.md
+[16:12:09] Picture infomations saved to global/en-US/history/2024/03/13_en-US.md
+[16:12:09] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-03-13 01:12:09.743505+09:00
+[16:12:09] Successful get url: https://www.bing.com/th?id=OHR.MagadiFlamingos_JA-JP3870887285_UHD.jpg
+[16:12:09] Picture infomations saved to  global/ja-JP/README.md
+[16:12:09] Picture infomations saved to global/ja-JP/history/2024/03/13_ja-JP.md
+[16:12:09] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-03-12 21:42:09.967139+05:30
+[16:12:10] Successful get url: https://www.bing.com/th?id=OHR.BryceSnow_EN-IN1627515596_UHD.jpg
+[16:12:10] Picture infomations saved to  global/en-IN/README.md
+[16:12:10] Picture infomations saved to global/en-IN/history/2024/03/12_en-IN.md
+[16:12:10] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-03-12 13:12:10.214036-03:00
+[16:12:10] Successful get url: https://www.bing.com/th?id=OHR.BryceSnow_PT-BR0096570080_UHD.jpg
+[16:12:10] Picture infomations saved to  global/pt-BR/README.md
+[16:12:10] Picture infomations saved to global/pt-BR/history/2024/03/13_pt-BR.md
+[16:12:10] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-03-12 17:12:10.479892+01:00
+[16:12:10] Successful get url: https://www.bing.com/th?id=OHR.BryceSnow_FR-FR1248593635_UHD.jpg
+[16:12:10] Picture infomations saved to  global/fr-FR/README.md
+[16:12:10] Picture infomations saved to global/fr-FR/history/2024/03/12_fr-FR.md
+[16:12:10] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-03-12 17:12:10.656069+01:00
+[16:12:10] Successful get url: https://www.bing.com/th?id=OHR.BryceSnow_DE-DE0166968518_UHD.jpg
+[16:12:10] Picture infomations saved to  global/de-DE/README.md
+[16:12:10] Picture infomations saved to global/de-DE/history/2024/03/12_de-DE.md
+[16:12:10] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-03-12 12:12:10.937547-04:00
+[16:12:11] Successful get url: https://www.bing.com/th?id=OHR.BryceSnow_EN-CA5813093812_UHD.jpg
+[16:12:11] Picture infomations saved to  global/en-CA/README.md
+[16:12:11] Picture infomations saved to global/en-CA/history/2024/03/13_en-CA.md
+[16:12:11] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-03-12 16:12:11.123355+00:00
+[16:12:11] Successful get url: https://www.bing.com/th?id=OHR.BryceSnow_EN-GB7209658465_UHD.jpg
+[16:12:11] Picture infomations saved to  global/en-GB/README.md
+[16:12:11] Picture infomations saved to global/en-GB/history/2024/03/13_en-GB.md
+[16:12:11] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-03-12 17:12:11.282157+01:00
+[16:12:11] Successful get url: https://www.bing.com/th?id=OHR.BryceSnow_IT-IT2944842663_UHD.jpg
+[16:12:11] Picture infomations saved to  global/it-IT/README.md
+[16:12:11] Picture infomations saved to global/it-IT/history/2024/03/12_it-IT.md
+[16:12:11] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-03-12 17:12:11.507348+01:00
+[16:12:11] Successful get url: https://www.bing.com/th?id=OHR.BryceSnow_ES-ES6985034687_UHD.jpg
+[16:12:11] Picture infomations saved to  global/es-ES/README.md
+[16:12:11] Picture infomations saved to global/es-ES/history/2024/03/12_es-ES.md
+[16:12:11] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-03-12 12:12:11.737044-04:00
+[16:12:11] Successful get url: https://www.bing.com/th?id=OHR.BryceSnow_FR-CA7821881640_UHD.jpg
+[16:12:11] Picture infomations saved to  global/fr-CA/README.md
+[16:12:11] Picture infomations saved to global/fr-CA/history/2024/03/13_fr-CA.md
+Program exit at 16:12:11

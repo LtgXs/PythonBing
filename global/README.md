@@ -6,9 +6,9 @@
 ||*Copyright: Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OmizutoriNew_JA-JP3433655435_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OmizutoriNew_JA-JP3433655435_UHD.jpg)|
-||*Copyright: 東大寺, 奈良県 奈良市 (© Buddhika Weerasinghe/Getty Images)*
+|2024-03-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MagadiFlamingos_JA-JP3870887285_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MagadiFlamingos_JA-JP3870887285_UHD.jpg)|
+||*Copyright: マガディ湖, ケニア (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
 |2024-03-12|**Region: en-IN**||
