@@ -6,9 +6,9 @@
 ||*Copyright: Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
-|2024-03-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MagadiFlamingos_JA-JP3870887285_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MagadiFlamingos_JA-JP3870887285_UHD.jpg)|
-||*Copyright: マガディ湖, ケニア (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2024-03-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AyutthayaTree_JA-JP4047642741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AyutthayaTree_JA-JP4047642741_UHD.jpg)|
+||*Copyright: アユタヤ歴史公園にある菩提樹, タイ (© boonchai wedmakawand/Alamy)*
 ||
 |||
 |2024-03-13|**Region: en-IN**||
