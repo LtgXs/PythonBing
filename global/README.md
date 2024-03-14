@@ -6,9 +6,9 @@
 ||*Copyright: Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)*
 ||
 |||
-|2024-03-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AyutthayaTree_JA-JP4047642741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AyutthayaTree_JA-JP4047642741_UHD.jpg)|
-||*Copyright: アユタヤ歴史公園にある菩提樹, タイ (© boonchai wedmakawand/Alamy)*
+|2024-03-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_JA-JP4195875577_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_JA-JP4195875577_UHD.jpg)|
+||*Copyright: アンザ・ボレゴ砂漠州立公園, 米国 カリフォルニア州 (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
 |2024-03-14|**Region: en-IN**||
