@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-03-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_UHD.jpg)|
-||*Copyright: Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)*
+|2024-03-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg)|
+||*Copyright: Anza-Borrego Desert State Park, California (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
 |2024-03-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アンザ・ボレゴ砂漠州立公園, 米国 カリフォルニア州 (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AyutthayaTree_EN-IN1779605533_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AyutthayaTree_EN-IN1779605533_UHD.jpg)|
-||*Copyright: Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)*
+|2024-03-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_EN-IN2000050821_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_EN-IN2000050821_UHD.jpg)|
+||*Copyright: Anza-Borrego Desert State Park, California (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CancaoDoExilio_PT-BR1504985587_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CancaoDoExilio_PT-BR1504985587_UHD.jpg)|
-||*Copyright: Alameda de Palmeiras Imperiales in the Botanical Garden of Rio de Janeiro (© Marcia Silva de Mendonca/Getty Images)*
+|2024-03-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_PT-BR1895127264_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_PT-BR1895127264_UHD.jpg)|
+||*Copyright: Parque Estadual do Deserto de Anza-Borrego, Califórnia, EUA (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AyutthayaTree_FR-FR1986765308_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AyutthayaTree_FR-FR1986765308_UHD.jpg)|
-||*Copyright: Wat Phra Ngam, Parc d'Ayutthaya, Thaïlande (© boonchai wedmakawand/Alamy)*
+|2024-03-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_FR-FR2163074616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_FR-FR2163074616_UHD.jpg)|
+||*Copyright: Parc d'État du désert d'Anza-Borrego, Californie, États-Unis (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AyutthayaTree_DE-DE1912781060_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AyutthayaTree_DE-DE1912781060_UHD.jpg)|
-||*Copyright: Wat Phra Ngam, Geschichtspark Ayutthaya, Thailand (© boonchai wedmakawand/Alamy Stock Photo)*
+|2024-03-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AvenueLimeTrees_DE-DE2066853614_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvenueLimeTrees_DE-DE2066853614_UHD.jpg)|
+||*Copyright: Lindenallee, baumgesäumter Fußweg durch den Park im Frühling (© AVTG/Getty Images)*
 ||
 |||
-|2024-03-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AyutthayaTree_EN-CA7341157054_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AyutthayaTree_EN-CA7341157054_UHD.jpg)|
-||*Copyright: Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)*
+|2024-03-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TulipAbbotsford_EN-CA8463194179_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipAbbotsford_EN-CA8463194179_UHD.jpg)|
+||*Copyright: Colourful tulip fields in Fraser Valley, Abbotsford, BC, Canada (© LeonU/Getty Images)*
 ||
 |||
-|2024-03-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AyutthayaTree_EN-GB6491490381_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AyutthayaTree_EN-GB6491490381_UHD.jpg)|
-||*Copyright: Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy Stock Photo)*
+|2024-03-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_EN-GB6213504183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_EN-GB6213504183_UHD.jpg)|
+||*Copyright: Anza-Borrego Desert State Park, California, USA (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AyutthayaTree_IT-IT4581996265_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AyutthayaTree_IT-IT4581996265_UHD.jpg)|
-||*Copyright: Wat Phra Ngam, Parco storico di Ayutthaya, Thailandia (© boonchai wedmakawand/Alamy)*
+|2024-03-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_IT-IT1728403447_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_IT-IT1728403447_UHD.jpg)|
+||*Copyright: Parco Statale del Deserto di Anza-Borrego, California, Stati Uniti (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AyutthayaTree_ES-ES7297623437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AyutthayaTree_ES-ES7297623437_UHD.jpg)|
-||*Copyright: Wat Phra Ngam, Parque Histórico de Ayutthaya, Tailandia (© boonchai wedmakawand/Alamy)*
+|2024-03-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FallerasWomenValencia_ES-ES8776101382_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FallerasWomenValencia_ES-ES8776101382_UHD.jpg)|
+||*Copyright: Fiesta de las Fallas de Valencia, Comunidad Valenciana, España (© Gonzalo Azumendi/Getty images)*
 ||
 |||
-|2024-03-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AyutthayaTree_FR-CA8197796278_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AyutthayaTree_FR-CA8197796278_UHD.jpg)|
-||*Copyright: Wat Phra Ngam, Parc d'Ayutthaya, Thaïlande (© boonchai wedmakawand/Alamy)*
+|2024-03-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TulipAbbotsford_FR-CA8483080928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipAbbotsford_FR-CA8483080928_UHD.jpg)|
+||*Copyright: Champs de tulipes dans la vallée du Fraser, Abbotsford, Colombie-Britannique, Canada (© LeonU/Getty Images)*
 ||
 |||
 

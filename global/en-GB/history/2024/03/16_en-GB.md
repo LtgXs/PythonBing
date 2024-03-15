@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2024-03-16
+## History Bing Wallpaper
+Wallpaper date: 2024-03-16
 ![](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_EN-GB6213504183_UHD.jpg&w=1000)Download: [Anza-Borrego Desert State Park, California, USA (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_EN-GB6213504183_UHD.jpg)
 
 Auto get programm by LtgX
