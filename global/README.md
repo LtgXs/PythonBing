@@ -6,9 +6,9 @@
 ||*Copyright: Anza-Borrego Desert State Park, California (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_JA-JP4195875577_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_JA-JP4195875577_UHD.jpg)|
-||*Copyright: アンザ・ボレゴ砂漠州立公園, 米国 カリフォルニア州 (© Stephen Matera/Tandem Stills + Motion)*
+|2024-03-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BambooPanda_JA-JP4357227516_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BambooPanda_JA-JP4357227516_UHD.jpg)|
+||*Copyright: 竹を食べるジャイアントパンダ, 中国 成都市 (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
 |2024-03-15|**Region: en-IN**||
