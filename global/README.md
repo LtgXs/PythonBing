@@ -6,9 +6,9 @@
 ||*Copyright: Giant panda eating bamboo, Chengdu, China (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2024-03-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BambooPanda_JA-JP4357227516_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BambooPanda_JA-JP4357227516_UHD.jpg)|
-||*Copyright: 竹を食べるジャイアントパンダ, 中国 成都市 (© Suzi Eszterhas/Minden Pictures)*
+|2024-03-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.StFiniansBay_JA-JP4552826629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StFiniansBay_JA-JP4552826629_UHD.jpg)|
+||*Copyright: ケリー県, アイルランド (© Atlantide Phototravel/Getty Images)*
 ||
 |||
 |2024-03-16|**Region: en-IN**||
