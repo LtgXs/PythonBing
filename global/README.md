@@ -6,9 +6,9 @@
 ||*Copyright: St. Finian's Bay, County Kerry, Ireland (© Atlantide Phototravel/Getty Images)*
 ||
 |||
-|2024-03-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.StFiniansBay_JA-JP4552826629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StFiniansBay_JA-JP4552826629_UHD.jpg)|
-||*Copyright: ケリー県, アイルランド (© Atlantide Phototravel/Getty Images)*
+|2024-03-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ElephantRock_JA-JP4769472131_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantRock_JA-JP4769472131_UHD.jpg)|
+||*Copyright: アルウラにあるエレファントロック, サウジアラビア (© Lubo Ivanko/Shutterstock)*
 ||
 |||
 |2024-03-17|**Region: en-IN**||
