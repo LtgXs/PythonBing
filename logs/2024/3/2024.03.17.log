@@ -1,0 +1,60 @@
+
+Program started at 09:20:10
+Operating System Name: Linux
+Operating System Version: #16~22.04.1-Ubuntu SMP Fri Feb 16 15:42:02 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1110-868
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[09:20:10] Start geting CN Bing Wallpaper
+[09:20:11] Successful get url: https://www.bing.com/th?id=OHR.StFiniansBay_ZH-CN8655586052_UHD.jpg
+[09:20:11] Image saved to img/background.jpg
+[09:20:11] Info saved to README.md
+[09:20:11] Image saved to history/2024/03/17.md
+[09:20:11] Start geting global Bing Wallpaper, region=en-US, local time is 2024-03-17 05:20:11.095678-04:00
+[09:20:11] Successful get url: https://www.bing.com/th?id=OHR.StFiniansBay_EN-US2242323244_UHD.jpg
+[09:20:11] Picture infomations saved to  global/en-US/README.md
+[09:20:11] Picture infomations saved to global/en-US/history/2024/03/18_en-US.md
+[09:20:11] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-03-17 18:20:11.262836+09:00
+[09:20:11] Successful get url: https://www.bing.com/th?id=OHR.StFiniansBay_JA-JP4552826629_UHD.jpg
+[09:20:11] Picture infomations saved to  global/ja-JP/README.md
+[09:20:11] Picture infomations saved to global/ja-JP/history/2024/03/17_ja-JP.md
+[09:20:11] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-03-17 14:50:11.466244+05:30
+[09:20:11] Successful get url: https://www.bing.com/th?id=OHR.PambanBridge_EN-IN4607247244_UHD.jpg
+[09:20:11] Picture infomations saved to  global/en-IN/README.md
+[09:20:11] Picture infomations saved to global/en-IN/history/2024/03/17_en-IN.md
+[09:20:11] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-03-17 06:20:11.714972-03:00
+[09:20:11] Successful get url: https://www.bing.com/th?id=OHR.StFiniansBay_PT-BR2316790024_UHD.jpg
+[09:20:11] Picture infomations saved to  global/pt-BR/README.md
+[09:20:11] Picture infomations saved to global/pt-BR/history/2024/03/18_pt-BR.md
+[09:20:11] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-03-17 10:20:11.867308+01:00
+[09:20:11] Successful get url: https://www.bing.com/th?id=OHR.StFiniansBay_FR-FR2860371204_UHD.jpg
+[09:20:12] Picture infomations saved to  global/fr-FR/README.md
+[09:20:12] Picture infomations saved to global/fr-FR/history/2024/03/17_fr-FR.md
+[09:20:12] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-03-17 10:20:12.026607+01:00
+[09:20:12] Successful get url: https://www.bing.com/th?id=OHR.StFiniansBay_DE-DE5892582387_UHD.jpg
+[09:20:12] Picture infomations saved to  global/de-DE/README.md
+[09:20:12] Picture infomations saved to global/de-DE/history/2024/03/17_de-DE.md
+[09:20:12] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-03-17 05:20:12.181903-04:00
+[09:20:12] Successful get url: https://www.bing.com/th?id=OHR.StFiniansBay_EN-CA8128380530_UHD.jpg
+[09:20:12] Picture infomations saved to  global/en-CA/README.md
+[09:20:12] Picture infomations saved to global/en-CA/history/2024/03/18_en-CA.md
+[09:20:12] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-03-17 09:20:12.335543+00:00
+[09:20:12] Successful get url: https://www.bing.com/th?id=OHR.StFiniansBay_EN-GB0601904880_UHD.jpg
+[09:20:12] Picture infomations saved to  global/en-GB/README.md
+[09:20:12] Picture infomations saved to global/en-GB/history/2024/03/18_en-GB.md
+[09:20:12] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-03-17 10:20:12.528263+01:00
+[09:20:12] Successful get url: https://www.bing.com/th?id=OHR.AltaredellaPatria_IT-IT8301062240_UHD.jpg
+[09:20:12] Picture infomations saved to  global/it-IT/README.md
+[09:20:12] Picture infomations saved to global/it-IT/history/2024/03/17_it-IT.md
+[09:20:12] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-03-17 10:20:12.701177+01:00
+[09:20:12] Successful get url: https://www.bing.com/th?id=OHR.StFiniansBay_ES-ES8366850024_UHD.jpg
+[09:20:12] Picture infomations saved to  global/es-ES/README.md
+[09:20:12] Picture infomations saved to global/es-ES/history/2024/03/17_es-ES.md
+[09:20:12] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-03-17 05:20:12.864666-04:00
+[09:20:12] Successful get url: https://www.bing.com/th?id=OHR.StFiniansBay_FR-CA8830088693_UHD.jpg
+[09:20:13] Picture infomations saved to  global/fr-CA/README.md
+[09:20:13] Picture infomations saved to global/fr-CA/history/2024/03/18_fr-CA.md
+Program exit at 09:20:13
