@@ -6,9 +6,9 @@
 ||*Copyright: Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)*
 ||
 |||
-|2024-03-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ElephantRock_JA-JP4769472131_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantRock_JA-JP4769472131_UHD.jpg)|
-||*Copyright: アルウラにあるエレファントロック, サウジアラビア (© Lubo Ivanko/Shutterstock)*
+|2024-03-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BryceSnow_JA-JP4938121574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BryceSnow_JA-JP4938121574_UHD.jpg)|
+||*Copyright: ブライスキャニオン国立公園, 米国 ユタ州 (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
 |2024-03-18|**Region: en-IN**||
