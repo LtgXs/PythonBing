@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-03-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg)|
-||*Copyright: Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)*
+|2024-03-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg)|
+||*Copyright: Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)*
 ||
 |||
 |2024-03-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ブライスキャニオン国立公園, 米国 ユタ州 (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2024-03-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ElephantRock_EN-IN2152093542_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantRock_EN-IN2152093542_UHD.jpg)|
-||*Copyright: Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)*
+|2024-03-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SpringFrog_EN-IN2337818146_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringFrog_EN-IN2337818146_UHD.jpg)|
+||*Copyright: Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)*
 ||
 |||
-|2024-03-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ElephantRock_PT-BR3465039308_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantRock_PT-BR3465039308_UHD.jpg)|
-||*Copyright: Pedra do Elefante, Al-Ula, Arábia Saudita (© Lubo Ivanko/Shutterstock)*
+|2024-03-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SpringFrog_PT-BR2957338911_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringFrog_PT-BR2957338911_UHD.jpg)|
+||*Copyright: Cave Dale e Castelo de Peveril em Castleton, Parque Nacional de Peak District, Derbyshire, Inglaterra (© James Osmond/Alamy)*
 ||
 |||
-|2024-03-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ElephantRock_FR-FR3098144712_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantRock_FR-FR3098144712_UHD.jpg)|
-||*Copyright: Rocher de l'éléphant, Al-Ula, Arabie Saoudite (© Lubo Ivanko/Shutterstock)*
+|2024-03-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SpringFrog_FR-FR3345406891_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringFrog_FR-FR3345406891_UHD.jpg)|
+||*Copyright: Grenouille rainette sur une feuille (© Tetsuya Tanooka/DEEPOL by plainpicture)*
 ||
 |||
-|2024-03-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ElephantRock_DE-DE1966506205_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantRock_DE-DE1966506205_UHD.jpg)|
-||*Copyright: Elephant Rock, Al-ʿUla, Saudi-Arabien (© Lubo Ivanko/Shutterstock)*
+|2024-03-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SpringCaveDale_DE-DE4412731356_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringCaveDale_DE-DE4412731356_UHD.jpg)|
+||*Copyright: Cave Dale und Peveril Castle in Castleton, Peak-District-Nationalpark, Derbyshire, England (© James Osmond/Alamy)*
 ||
 |||
-|2024-03-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ElephantRock_EN-CA1969254350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantRock_EN-CA1969254350_UHD.jpg)|
-||*Copyright: Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)*
+|2024-03-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SpringFrog_EN-CA2338821027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringFrog_EN-CA2338821027_UHD.jpg)|
+||*Copyright: Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)*
 ||
 |||
-|2024-03-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ElephantRock_EN-GB2587880881_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantRock_EN-GB2587880881_UHD.jpg)|
-||*Copyright: Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)*
+|2024-03-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SpringCaveDale_EN-GB2092563802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringCaveDale_EN-GB2092563802_UHD.jpg)|
+||*Copyright: Cave Dale and Peveril Castle in Castleton, Peak District National Park, Derbyshire, England (© James Osmond/Alamy)*
 ||
 |||
-|2024-03-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ElephantRock_IT-IT7160275980_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantRock_IT-IT7160275980_UHD.jpg)|
-||*Copyright: Elephant Rock, Al-Ula, Arabia Saudita (© Lubo Ivanko/Shutterstock)*
+|2024-03-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.RedFox_IT-IT0563708572_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFox_IT-IT0563708572_UHD.jpg)|
+||*Copyright: Papà e piccolo di volpe rossa, Washington, Stati Uniti (© Chase Dekker/Minden Pictures)*
 ||
 |||
-|2024-03-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ElephantRock_ES-ES8654521374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantRock_ES-ES8654521374_UHD.jpg)|
-||*Copyright: Roca del Elefante, Al-Ula, Arabia Saudí (© Lubo Ivanko/Shutterstock)*
+|2024-03-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.RedFox_ES-ES2820174785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFox_ES-ES2820174785_UHD.jpg)|
+||*Copyright: Zorro rojo con su cachorro en Washington (© Chase Dekker/Minden Pictures)*
 ||
 |||
-|2024-03-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ElephantRock_FR-CA9111346663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantRock_FR-CA9111346663_UHD.jpg)|
-||*Copyright: Rocher de l'éléphant, Al-Ula, Arabie Saoudite (© Lubo Ivanko/Shutterstock)*
+|2024-03-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SpringFrog_FR-CA0188635283_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringFrog_FR-CA0188635283_UHD.jpg)|
+||*Copyright: Grenouille rainette sur une feuille (© Tetsuya Tanooka/DEEPOL by plainpicture)*
 ||
 |||
 
