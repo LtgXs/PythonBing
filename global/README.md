@@ -6,9 +6,9 @@
 ||*Copyright: Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)*
 ||
 |||
-|2024-03-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BryceSnow_JA-JP4938121574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BryceSnow_JA-JP4938121574_UHD.jpg)|
-||*Copyright: ブライスキャニオン国立公園, 米国 ユタ州 (© Jim Patterson/Tandem Stills + Motion)*
+|2024-03-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MtPrevostDuncan_JA-JP5482628998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtPrevostDuncan_JA-JP5482628998_UHD.jpg)|
+||*Copyright: カウチンバレー, カナダ ブリティッシュコロンビア州 (© Kevin Oke/Alamy)*
 ||
 |||
 |2024-03-19|**Region: en-IN**||
