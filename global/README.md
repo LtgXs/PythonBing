@@ -6,9 +6,9 @@
 ||*Copyright: The Jefferson Memorial during the Cherry Blossom Festival, Washington, DC (© f11photo/Shutterstock)*
 ||
 |||
-|2024-03-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MtPrevostDuncan_JA-JP5482628998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtPrevostDuncan_JA-JP5482628998_UHD.jpg)|
-||*Copyright: カウチンバレー, カナダ ブリティッシュコロンビア州 (© Kevin Oke/Alamy)*
+|2024-03-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BwindiNationalForest_JA-JP5771338834_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BwindiNationalForest_JA-JP5771338834_UHD.jpg)|
+||*Copyright: ブウィンディ原生国立公園, ウガンダ (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
 |2024-03-20|**Region: en-IN**||
