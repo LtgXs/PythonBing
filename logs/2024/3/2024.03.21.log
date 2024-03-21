@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:21:37] Picture infomations saved to  global/fr-CA/README.md
 [09:21:37] Picture infomations saved to global/fr-CA/history/2024/03/22_fr-CA.md
 Program exit at 09:21:37
+
+Program started at 16:13:12
+Operating System Name: Linux
+Operating System Version: #16~22.04.1-Ubuntu SMP Fri Feb 16 15:42:02 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az801-737
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[16:13:12] Start geting CN Bing Wallpaper
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.WaikatoWater_ZH-CN0417438809_UHD.jpg
+[16:13:13] Image saved to img/background.jpg
+[16:13:13] Info saved to README.md
+[16:13:13] Image saved to history/2024/03/22.md
+[16:13:13] Start geting global Bing Wallpaper, region=en-US, local time is 2024-03-21 12:13:13.420380-04:00
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg
+[16:13:13] Picture infomations saved to  global/en-US/README.md
+[16:13:13] Picture infomations saved to global/en-US/history/2024/03/22_en-US.md
+[16:13:13] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-03-22 01:13:13.938370+09:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.WaikatoWater_JA-JP3608135323_UHD.jpg
+[16:13:14] Picture infomations saved to  global/ja-JP/README.md
+[16:13:14] Picture infomations saved to global/ja-JP/history/2024/03/22_ja-JP.md
+[16:13:14] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-03-21 21:43:14.459995+05:30
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.BwindiNationalForest_EN-IN2480914473_UHD.jpg
+[16:13:14] Picture infomations saved to  global/en-IN/README.md
+[16:13:14] Picture infomations saved to global/en-IN/history/2024/03/21_en-IN.md
+[16:13:14] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-03-21 13:13:14.940871-03:00
+[16:13:15] Successful get url: https://www.bing.com/th?id=OHR.BwindiNationalForest_PT-BR3676820157_UHD.jpg
+[16:13:15] Picture infomations saved to  global/pt-BR/README.md
+[16:13:15] Picture infomations saved to global/pt-BR/history/2024/03/22_pt-BR.md
+[16:13:15] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-03-21 17:13:15.369265+01:00
+[16:13:15] Successful get url: https://www.bing.com/th?id=OHR.BwindiNationalForest_FR-FR4997320861_UHD.jpg
+[16:13:15] Picture infomations saved to  global/fr-FR/README.md
+[16:13:15] Picture infomations saved to global/fr-FR/history/2024/03/21_fr-FR.md
+[16:13:15] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-03-21 17:13:15.781998+01:00
+[16:13:15] Successful get url: https://www.bing.com/th?id=OHR.BwindiNationalForest_DE-DE2856746941_UHD.jpg
+[16:13:16] Picture infomations saved to  global/de-DE/README.md
+[16:13:16] Picture infomations saved to global/de-DE/history/2024/03/21_de-DE.md
+[16:13:16] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-03-21 12:13:16.386932-04:00
+[16:13:16] Successful get url: https://www.bing.com/th?id=OHR.BwindiNationalForest_EN-CA3766951907_UHD.jpg
+[16:13:16] Picture infomations saved to  global/en-CA/README.md
+[16:13:16] Picture infomations saved to global/en-CA/history/2024/03/22_en-CA.md
+[16:13:16] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-03-21 16:13:16.857474+00:00
+[16:13:16] Successful get url: https://www.bing.com/th?id=OHR.BwindiNationalForest_EN-GB8408921240_UHD.jpg
+[16:13:17] Picture infomations saved to  global/en-GB/README.md
+[16:13:17] Picture infomations saved to global/en-GB/history/2024/03/22_en-GB.md
+[16:13:17] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-03-21 17:13:17.348244+01:00
+[16:13:17] Successful get url: https://www.bing.com/th?id=OHR.BwindiNationalForest_IT-IT7927335166_UHD.jpg
+[16:13:17] Picture infomations saved to  global/it-IT/README.md
+[16:13:17] Picture infomations saved to global/it-IT/history/2024/03/21_it-IT.md
+[16:13:17] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-03-21 17:13:17.806209+01:00
+[16:13:17] Successful get url: https://www.bing.com/th?id=OHR.BwindiNationalForest_ES-ES9010079935_UHD.jpg
+[16:13:18] Picture infomations saved to  global/es-ES/README.md
+[16:13:18] Picture infomations saved to global/es-ES/history/2024/03/21_es-ES.md
+[16:13:18] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-03-21 12:13:18.224918-04:00
+[16:13:18] Successful get url: https://www.bing.com/th?id=OHR.BwindiNationalForest_FR-CA0322994274_UHD.jpg
+[16:13:18] Picture infomations saved to  global/fr-CA/README.md
+[16:13:18] Picture infomations saved to global/fr-CA/history/2024/03/22_fr-CA.md
+Program exit at 16:13:18

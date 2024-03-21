@@ -6,9 +6,9 @@
 ||*Copyright: Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-03-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BwindiNationalForest_JA-JP5771338834_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BwindiNationalForest_JA-JP5771338834_UHD.jpg)|
-||*Copyright: ブウィンディ原生国立公園, ウガンダ (© Art Wolfe/DanitaDelimont.com)*
+|2024-03-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WaikatoWater_JA-JP3608135323_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_JA-JP3608135323_UHD.jpg)|
+||*Copyright: テ・ワイホウ・ウォークウェイ, ニュージーランド  (© Ian Beattie/Alamy)*
 ||
 |||
 |2024-03-21|**Region: en-IN**||
