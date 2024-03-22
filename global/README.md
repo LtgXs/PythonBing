@@ -6,9 +6,9 @@
 ||*Copyright: Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)*
 ||
 |||
-|2024-03-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WaikatoWater_JA-JP3608135323_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_JA-JP3608135323_UHD.jpg)|
-||*Copyright: テ・ワイホウ・ウォークウェイ, ニュージーランド  (© Ian Beattie/Alamy)*
+|2024-03-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AmazonClouds_JA-JP3921092390_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_JA-JP3921092390_UHD.jpg)|
+||*Copyright: アマゾン上空の積乱雲, ブラジル (© NASA)*
 ||
 |||
 |2024-03-22|**Region: en-IN**||
@@ -17,7 +17,7 @@
 ||
 |||
 |2024-03-23|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.WaikatoWater_PT-BR6097354065_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_PT-BR6097354065_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.WaikatoWater_PT-BR9033741044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_PT-BR9033741044_UHD.jpg)|
 ||*Copyright: Rio Azul, Te Waihou Passagem,Nova Zelândia (© Ian Beattie/Alamy)*
 ||
 |||
