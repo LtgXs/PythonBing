@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-03-23|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg)|
-||*Copyright: Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)*
+|2024-03-24|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg)|
+||*Copyright: Large anvil clouds above the Amazon in Brazil (© NASA)*
 ||
 |||
 |2024-03-23|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アマゾン上空の積乱雲, ブラジル (© NASA)*
 ||
 |||
-|2024-03-22|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WaikatoWater_EN-IN0496434558_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_EN-IN0496434558_UHD.jpg)|
-||*Copyright: Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)*
+|2024-03-23|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AmazonClouds_EN-IN0715787319_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_EN-IN0715787319_UHD.jpg)|
+||*Copyright: Large anvil clouds above the Amazon in Brazil (© NASA)*
 ||
 |||
-|2024-03-23|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.WaikatoWater_PT-BR9033741044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_PT-BR9033741044_UHD.jpg)|
-||*Copyright: Rio Azul, Te Waihou Passagem,Nova Zelândia (© Ian Beattie/Alamy)*
+|2024-03-24|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ChapadaDiamantinaBahia_PT-BR8776626015_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChapadaDiamantinaBahia_PT-BR8776626015_UHD.jpg)|
+||*Copyright: Poço encantado em Chapada Diamantina, Bahia (© Cavan Images/Getty Images)*
 ||
 |||
-|2024-03-22|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WaikatoWater_FR-FR8437603608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_FR-FR8437603608_UHD.jpg)|
-||*Copyright: Blue Spring, sentier de Te Waihou, Nouvelle-Zélande (© Ian Beattie/Alamy)*
+|2024-03-23|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AmazonClouds_FR-FR8491787407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_FR-FR8491787407_UHD.jpg)|
+||*Copyright: Gros nuages en forme d'enclume au-dessus de l'Amazonie au Brésil (© NASA)*
 ||
 |||
-|2024-03-22|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WaikatoWater_DE-DE6943306276_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_DE-DE6943306276_UHD.jpg)|
-||*Copyright: Blue Spring, Te Waihou Walkway, Neuseeland (© Ian Beattie/Alamy Stock Photo)*
+|2024-03-23|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AmazonClouds_DE-DE3843150009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_DE-DE3843150009_UHD.jpg)|
+||*Copyright: Große Ambosswolken über dem Amazonas in Brasilien (© NASA)*
 ||
 |||
-|2024-03-23|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WaikatoWater_EN-CA3565028886_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_EN-CA3565028886_UHD.jpg)|
-||*Copyright: Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)*
+|2024-03-24|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AmazonClouds_EN-CA3850474208_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_EN-CA3850474208_UHD.jpg)|
+||*Copyright: Large anvil clouds above the Amazon in Brazil (© NASA)*
 ||
 |||
-|2024-03-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.WaikatoWater_EN-GB8519481849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_EN-GB8519481849_UHD.jpg)|
-||*Copyright: Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)*
+|2024-03-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AmazonClouds_EN-GB8705485014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_EN-GB8705485014_UHD.jpg)|
+||*Copyright: Large anvil clouds above the Amazon in Brazil (© NASA)*
 ||
 |||
-|2024-03-22|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WaikatoWater_IT-IT0972621598_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_IT-IT0972621598_UHD.jpg)|
-||*Copyright: Blue Spring, Te Waihou Walkway, Nuova Zelanda (© Ian Beattie/Alamy)*
+|2024-03-23|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AmazonClouds_IT-IT1860560546_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_IT-IT1860560546_UHD.jpg)|
+||*Copyright: Nuvole sulla foresta Amazzonica in Brasile (© NASA)*
 ||
 |||
-|2024-03-22|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FloweingBerrys_ES-ES1933465626_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FloweingBerrys_ES-ES1933465626_UHD.jpg)|
-||*Copyright: Cerezos en flor en el Valle del Jerte, Cáceres, España (© Mario Elias Munoz Valencia/iStock/Getty Images)*
+|2024-03-23|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ReconquistaVigo_ES-ES1686192678_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReconquistaVigo_ES-ES1686192678_UHD.jpg)|
+||*Copyright: Ria de Vigo, Vigo, España (© JulioConde/Getty Images)*
 ||
 |||
-|2024-03-23|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WaikatoWater_FR-CA6553276729_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaikatoWater_FR-CA6553276729_UHD.jpg)|
-||*Copyright: Blue Spring, sentier de Te Waihou, Nouvelle-Zélande (© Ian Beattie/Alamy)*
+|2024-03-24|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AmazonClouds_FR-CA6891060570_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_FR-CA6891060570_UHD.jpg)|
+||*Copyright: Gros nuages en forme d'enclume au-dessus de l'Amazonie au Brésil (© NASA)*
 ||
 |||
 
