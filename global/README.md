@@ -6,9 +6,9 @@
 ||*Copyright: Large anvil clouds above the Amazon in Brazil (© NASA)*
 ||
 |||
-|2024-03-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AmazonClouds_JA-JP3921092390_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_JA-JP3921092390_UHD.jpg)|
-||*Copyright: アマゾン上空の積乱雲, ブラジル (© NASA)*
+|2024-03-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AntelopeBotswana_JA-JP4419409957_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntelopeBotswana_JA-JP4419409957_UHD.jpg)|
+||*Copyright: オカバンゴ・デルタ, ボツワナ (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
 |2024-03-23|**Region: en-IN**||
