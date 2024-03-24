@@ -6,9 +6,9 @@
 ||*Copyright: Silvereyes with cherry blossoms, South Korea (© TigerSeo/Getty Images)*
 ||
 |||
-|2024-03-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AntelopeBotswana_JA-JP4419409957_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntelopeBotswana_JA-JP4419409957_UHD.jpg)|
-||*Copyright: オカバンゴ・デルタ, ボツワナ (© Ibrahim Suha Derbent/Getty Images)*
+|2024-03-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ColorfulHoli_JA-JP4638350581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulHoli_JA-JP4638350581_UHD.jpg)|
+||*Copyright: カラフルな色粉を投げ合う様子, インド (© Avishek Das/SOPA Images/LightRocket via Getty Images)*
 ||
 |||
 |2024-03-24|**Region: en-IN**||
