@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-03-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg)|
-||*Copyright: Large anvil clouds above the Amazon in Brazil (© NASA)*
+|2024-03-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg)|
+||*Copyright: Silvereyes with cherry blossoms, South Korea (© TigerSeo/Getty Images)*
 ||
 |||
 |2024-03-24|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: オカバンゴ・デルタ, ボツワナ (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
-|2024-03-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AmazonClouds_EN-IN0715787319_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_EN-IN0715787319_UHD.jpg)|
-||*Copyright: Large anvil clouds above the Amazon in Brazil (© NASA)*
+|2024-03-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.WhiteEyes_EN-IN1161324930_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteEyes_EN-IN1161324930_UHD.jpg)|
+||*Copyright: Silvereyes on a cherry blossom branch, South Korea (© TigerSeo/Getty Images)*
 ||
 |||
-|2024-03-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ChapadaDiamantinaBahia_PT-BR8776626015_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChapadaDiamantinaBahia_PT-BR8776626015_UHD.jpg)|
-||*Copyright: Poço encantado em Chapada Diamantina, Bahia (© Cavan Images/Getty Images)*
+|2024-03-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.WhiteEyes_PT-BR8910495803_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteEyes_PT-BR8910495803_UHD.jpg)|
+||*Copyright: Ave Silvereyes em um ramo de flor de cerejeira, Coreia do Sul (© TigerSeo/Getty Images)*
 ||
 |||
-|2024-03-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AmazonClouds_FR-FR8491787407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_FR-FR8491787407_UHD.jpg)|
-||*Copyright: Gros nuages en forme d'enclume au-dessus de l'Amazonie au Brésil (© NASA)*
+|2024-03-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.WhiteEyes_FR-FR8585803906_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteEyes_FR-FR8585803906_UHD.jpg)|
+||*Copyright: Zostérops du Japon sur une branche de cerisier en fleur, Corée du Sud (© TigerSeo/Getty Images)*
 ||
 |||
-|2024-03-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AmazonClouds_DE-DE3843150009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_DE-DE3843150009_UHD.jpg)|
-||*Copyright: Große Ambosswolken über dem Amazonas in Brasilien (© NASA)*
+|2024-03-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ViewFieldsBavaria_DE-DE3928372966_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ViewFieldsBavaria_DE-DE3928372966_UHD.jpg)|
+||*Copyright: Blick auf Felder, Luftaufnahme, Bayern (© Westend61 GmbH/Alamy)*
 ||
 |||
-|2024-03-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AmazonClouds_EN-CA3850474208_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_EN-CA3850474208_UHD.jpg)|
-||*Copyright: Large anvil clouds above the Amazon in Brazil (© NASA)*
+|2024-03-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.WhiteEyes_EN-CA4348567130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteEyes_EN-CA4348567130_UHD.jpg)|
+||*Copyright: Silvereyes on a cherry blossom branch, South Korea (© TigerSeo/Getty Images)*
 ||
 |||
-|2024-03-24|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AmazonClouds_EN-GB8705485014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_EN-GB8705485014_UHD.jpg)|
-||*Copyright: Large anvil clouds above the Amazon in Brazil (© NASA)*
+|2024-03-25|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.WhiteEyes_EN-GB5831374525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteEyes_EN-GB5831374525_UHD.jpg)|
+||*Copyright: Silvereyes on a cherry blossom branch, South Korea (© TigerSeo/Getty Images)*
 ||
 |||
-|2024-03-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AmazonClouds_IT-IT1860560546_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_IT-IT1860560546_UHD.jpg)|
-||*Copyright: Nuvole sulla foresta Amazzonica in Brasile (© NASA)*
+|2024-03-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.WhiteEyes_IT-IT2367465138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteEyes_IT-IT2367465138_UHD.jpg)|
+||*Copyright: Coppia di occhialino dorsogrigio su un ramo di ciliegio, Sud Corea (© TigerSeo/Getty Images)*
 ||
 |||
-|2024-03-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ReconquistaVigo_ES-ES1686192678_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReconquistaVigo_ES-ES1686192678_UHD.jpg)|
-||*Copyright: Ria de Vigo, Vigo, España (© JulioConde/Getty Images)*
+|2024-03-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.WhiteEyes_ES-ES7879462917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteEyes_ES-ES7879462917_UHD.jpg)|
+||*Copyright: Anteojitos dorsigrís en una rama de cerezo en flor, Corea del Sur (© TigerSeo/Getty Images)*
 ||
 |||
-|2024-03-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AmazonClouds_FR-CA6891060570_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonClouds_FR-CA6891060570_UHD.jpg)|
-||*Copyright: Gros nuages en forme d'enclume au-dessus de l'Amazonie au Brésil (© NASA)*
+|2024-03-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.WhiteEyes_FR-CA7033584242_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteEyes_FR-CA7033584242_UHD.jpg)|
+||*Copyright: Zostérops du Japon sur une branche de cerisier en fleur, Corée du Sud (© TigerSeo/Getty Images)*
 ||
 |||
 
