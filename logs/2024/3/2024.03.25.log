@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:21:41] Picture infomations saved to  global/fr-CA/README.md
 [09:21:41] Picture infomations saved to global/fr-CA/history/2024/03/26_fr-CA.md
 Program exit at 09:21:41
+
+Program started at 16:11:50
+Operating System Name: Linux
+Operating System Version: #16~22.04.1-Ubuntu SMP Fri Feb 16 15:42:02 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az881-570
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[16:11:50] Start geting CN Bing Wallpaper
+[16:11:50] Successful get url: https://www.bing.com/th?id=OHR.HangRaiVietnam_ZH-CN1601428109_UHD.jpg
+[16:11:50] Image saved to img/background.jpg
+[16:11:50] Info saved to README.md
+[16:11:50] Image saved to history/2024/03/26.md
+[16:11:50] Start geting global Bing Wallpaper, region=en-US, local time is 2024-03-25 12:11:50.561979-04:00
+[16:11:50] Successful get url: https://www.bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg
+[16:11:50] Picture infomations saved to  global/en-US/README.md
+[16:11:50] Picture infomations saved to global/en-US/history/2024/03/26_en-US.md
+[16:11:50] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-03-26 01:11:50.807474+09:00
+[16:11:50] Successful get url: https://www.bing.com/th?id=OHR.CherryBlossom2024_JA-JP4820412066_UHD.jpg
+[16:11:51] Picture infomations saved to  global/ja-JP/README.md
+[16:11:51] Picture infomations saved to global/ja-JP/history/2024/03/26_ja-JP.md
+[16:11:51] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-03-25 21:41:51.023076+05:30
+[16:11:51] Successful get url: https://www.bing.com/th?id=OHR.ColorfulHoli_EN-IN1408702608_UHD.jpg
+[16:11:51] Picture infomations saved to  global/en-IN/README.md
+[16:11:51] Picture infomations saved to global/en-IN/history/2024/03/25_en-IN.md
+[16:11:51] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-03-25 13:11:51.240468-03:00
+[16:11:51] Successful get url: https://www.bing.com/th?id=OHR.ColorfulHoli_PT-BR7363563541_UHD.jpg
+[16:11:51] Picture infomations saved to  global/pt-BR/README.md
+[16:11:51] Picture infomations saved to global/pt-BR/history/2024/03/26_pt-BR.md
+[16:11:51] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-03-25 17:11:51.440546+01:00
+[16:11:51] Successful get url: https://www.bing.com/th?id=OHR.ProcrastinationDay_FR-FR8703277811_UHD.jpg
+[16:11:51] Picture infomations saved to  global/fr-FR/README.md
+[16:11:51] Picture infomations saved to global/fr-FR/history/2024/03/25_fr-FR.md
+[16:11:51] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-03-25 17:11:51.757601+01:00
+[16:11:51] Successful get url: https://www.bing.com/th?id=OHR.ColorfulHoli_DE-DE3992457522_UHD.jpg
+[16:11:52] Picture infomations saved to  global/de-DE/README.md
+[16:11:52] Picture infomations saved to global/de-DE/history/2024/03/25_de-DE.md
+[16:11:52] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-03-25 12:11:52.003192-04:00
+[16:11:52] Successful get url: https://www.bing.com/th?id=OHR.ColorfulHoli_EN-CA4586969756_UHD.jpg
+[16:11:52] Picture infomations saved to  global/en-CA/README.md
+[16:11:52] Picture infomations saved to global/en-CA/history/2024/03/26_en-CA.md
+[16:11:52] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-03-25 16:11:52.187871+00:00
+[16:11:52] Successful get url: https://www.bing.com/th?id=OHR.ColorfulHoli_EN-GB2645468196_UHD.jpg
+[16:11:52] Picture infomations saved to  global/en-GB/README.md
+[16:11:52] Picture infomations saved to global/en-GB/history/2024/03/26_en-GB.md
+[16:11:52] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-03-25 17:11:52.453985+01:00
+[16:11:52] Successful get url: https://www.bing.com/th?id=OHR.ColorfulHoli_IT-IT7690011331_UHD.jpg
+[16:11:52] Picture infomations saved to  global/it-IT/README.md
+[16:11:52] Picture infomations saved to global/it-IT/history/2024/03/25_it-IT.md
+[16:11:52] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-03-25 17:11:52.646943+01:00
+[16:11:52] Successful get url: https://www.bing.com/th?id=OHR.ColorfulHoli_ES-ES7983447833_UHD.jpg
+[16:11:53] Picture infomations saved to  global/es-ES/README.md
+[16:11:53] Picture infomations saved to global/es-ES/history/2024/03/25_es-ES.md
+[16:11:53] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-03-25 12:11:53.053792-04:00
+[16:11:53] Successful get url: https://www.bing.com/th?id=OHR.ColorfulHoli_FR-CA7316925467_UHD.jpg
+[16:11:53] Picture infomations saved to  global/fr-CA/README.md
+[16:11:53] Picture infomations saved to global/fr-CA/history/2024/03/26_fr-CA.md
+Program exit at 16:11:53

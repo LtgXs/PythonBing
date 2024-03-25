@@ -6,9 +6,9 @@
 ||*Copyright: Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)*
 ||
 |||
-|2024-03-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ColorfulHoli_JA-JP4638350581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulHoli_JA-JP4638350581_UHD.jpg)|
-||*Copyright: カラフルな色粉を投げ合う様子, インド (© Avishek Das/SOPA Images/LightRocket via Getty Images)*
+|2024-03-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CherryBlossom2024_JA-JP4820412066_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CherryBlossom2024_JA-JP4820412066_UHD.jpg)|
+||*Copyright: 目黒川沿いの桜, 東京 (© twomeows/Getty Images)*
 ||
 |||
 |2024-03-25|**Region: en-IN**||
