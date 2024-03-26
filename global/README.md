@@ -6,9 +6,9 @@
 ||*Copyright: Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)*
 ||
 |||
-|2024-03-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CherryBlossom2024_JA-JP4820412066_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CherryBlossom2024_JA-JP4820412066_UHD.jpg)|
-||*Copyright: 目黒川沿いの桜, 東京 (© twomeows/Getty Images)*
+|2024-03-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TeatroColon_JA-JP5032198346_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeatroColon_JA-JP5032198346_UHD.jpg)|
+||*Copyright: テアトロ・コロン, アルゼンチン (© Wei Hao Ho/Alamy)*
 ||
 |||
 |2024-03-26|**Region: en-IN**||
