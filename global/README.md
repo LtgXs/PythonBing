@@ -6,9 +6,9 @@
 ||*Copyright: Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)*
 ||
 |||
-|2024-03-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TeatroColon_JA-JP5032198346_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeatroColon_JA-JP5032198346_UHD.jpg)|
-||*Copyright: テアトロ・コロン, アルゼンチン (© Wei Hao Ho/Alamy)*
+|2024-03-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HangRaiVietnam_JA-JP5262793326_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HangRaiVietnam_JA-JP5262793326_UHD.jpg)|
+||*Copyright: ハンライ, ベトナム (© Thang Tat Nguyen/Getty Images)*
 ||
 |||
 |2024-03-27|**Region: en-IN**||
