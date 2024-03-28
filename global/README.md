@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-03-28|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg)|
-||*Copyright: Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)*
+|2024-03-29|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg)|
+||*Copyright: Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)*
 ||
 |||
 |2024-03-28|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ハンライ, ベトナム (© Thang Tat Nguyen/Getty Images)*
 ||
 |||
-|2024-03-27|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AmerFortJaipur_EN-IN2082526909_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmerFortJaipur_EN-IN2082526909_UHD.jpg)|
-||*Copyright: An evening at the Amber Fort, near Jaipur, India (© Amith Nag Photography/Getty Images)*
+|2024-03-28|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-IN2648888544_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-IN2648888544_UHD.jpg)|
+||*Copyright: Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)*
 ||
 |||
-|2024-03-28|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TeatroColon_PT-BR9483499387_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeatroColon_PT-BR9483499387_UHD.jpg)|
-||*Copyright: Teatro Colón em Buenos Aires, Argentina (© Wei Hao Ho/Alamy)*
+|2024-03-29|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_PT-BR9791195331_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_PT-BR9791195331_UHD.jpg)|
+||*Copyright: Flores de cerejeira em Xangai, China (© Yaorusheng/Getty Images)*
 ||
 |||
-|2024-03-27|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TeatroColon_FR-FR8848862049_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeatroColon_FR-FR8848862049_UHD.jpg)|
-||*Copyright: Théâtre Colón à Buenos Aires, Argentine (© Wei Hao Ho/Alamy)*
+|2024-03-28|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_FR-FR9000032992_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_FR-FR9000032992_UHD.jpg)|
+||*Copyright: Cerisiers en fleurs à Shanghai, Chine (© Yaorusheng/Getty Images)*
 ||
 |||
-|2024-03-27|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TeatroColon_DE-DE4190221983_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeatroColon_DE-DE4190221983_UHD.jpg)|
-||*Copyright: Teatro Colón in Buenos Aires, Argentinien (© Wei Hao Ho/Alamy Stock Photo)*
+|2024-03-28|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_DE-DE4316919248_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_DE-DE4316919248_UHD.jpg)|
+||*Copyright: Kirschblüten in Shanghai, China (© Yaorusheng/Getty Images)*
 ||
 |||
-|2024-03-28|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TeatroColon_EN-CA3441577861_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeatroColon_EN-CA3441577861_UHD.jpg)|
-||*Copyright: Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)*
+|2024-03-29|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-CA6737374745_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-CA6737374745_UHD.jpg)|
+||*Copyright: Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)*
 ||
 |||
-|2024-03-28|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TeatroColon_EN-GB2271752304_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeatroColon_EN-GB2271752304_UHD.jpg)|
-||*Copyright: The Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy Stock Photo)*
+|2024-03-29|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-GB3832708958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-GB3832708958_UHD.jpg)|
+||*Copyright: Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)*
 ||
 |||
-|2024-03-27|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TeatroColon_IT-IT6266704589_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeatroColon_IT-IT6266704589_UHD.jpg)|
-||*Copyright: Teatro Colón di Buenos Aires, Argentina (© Wei Hao Ho/Alamy)*
+|2024-03-28|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_IT-IT7775972818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_IT-IT7775972818_UHD.jpg)|
+||*Copyright: Fiori di ciliegio a Shanghai, in Cina (© Yaorusheng/Getty Images)*
 ||
 |||
-|2024-03-27|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TeatroColon_ES-ES8480561009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeatroColon_ES-ES8480561009_UHD.jpg)|
-||*Copyright: Teatro Colón de Buenos Aires, Argentina (© Wei Hao Ho/Alamy)*
+|2024-03-28|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_ES-ES8634368979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_ES-ES8634368979_UHD.jpg)|
+||*Copyright: Cerezos en flor en Shanghai, China (© Yaorusheng/Getty Images)*
 ||
 |||
-|2024-03-28|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TeatroColon_FR-CA7881984396_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeatroColon_FR-CA7881984396_UHD.jpg)|
-||*Copyright: Théâtre Colón à Buenos Aires, Argentine (© Wei Hao Ho/Alamy)*
+|2024-03-29|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_FR-CA8071376466_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_FR-CA8071376466_UHD.jpg)|
+||*Copyright: Cerisiers en fleurs à Shanghai, Chine (© Yaorusheng/Getty Images)*
 ||
 |||
 
