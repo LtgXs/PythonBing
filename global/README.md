@@ -6,9 +6,9 @@
 ||*Copyright: South Stack Lighthouse at sunset, Holy Island, Wales (© mariotlr/Getty Images)*
 ||
 |||
-|2024-03-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SouthStackLight_JA-JP5461690758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SouthStackLight_JA-JP5461690758_UHD.jpg)|
-||*Copyright: サウススタック灯台, イギリス (© mariotlr/Getty Images)*
+|2024-03-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SleepySloth_JA-JP5634281010_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepySloth_JA-JP5634281010_UHD.jpg)|
+||*Copyright: セクロピアの木で眠るナマケモノ, コスタリカ (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
 |2024-03-29|**Region: en-IN**||
