@@ -6,9 +6,9 @@
 ||*Copyright: Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)*
 ||
 |||
-|2024-03-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HungarianEggs_JA-JP9558688915_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_JA-JP9558688915_UHD.jpg)|
-||*Copyright: カラフルにペイントされたイースターエッグ, ハンガリー (© ATTILA KISBENEDEK/AFP/Getty Images)*
+|2024-04-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PalazzoFarnese_JA-JP7372412499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalazzoFarnese_JA-JP7372412499_UHD.jpg)|
+||*Copyright: パラッツォ・ファルネーゼのだまし絵, イタリア (© Fabrizio Troiani/Alamy)*
 ||
 |||
 |2024-03-31|**Region: en-IN**||
