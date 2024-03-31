@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-03-31|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg)|
-||*Copyright: Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)*
+|2024-04-01|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg)|
+||*Copyright: Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)*
 ||
 |||
 |2024-03-31|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: カラフルにペイントされたイースターエッグ, ハンガリー (© ATTILA KISBENEDEK/AFP/Getty Images)*
 ||
 |||
-|2024-03-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SleepySloth_EN-IN4281443663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepySloth_EN-IN4281443663_UHD.jpg)|
-||*Copyright: Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)*
+|2024-03-31|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HungarianEggs_EN-IN6319733019_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_EN-IN6319733019_UHD.jpg)|
+||*Copyright: Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)*
 ||
 |||
-|2024-03-31|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SleepySloth_PT-BR0186395932_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepySloth_PT-BR0186395932_UHD.jpg)|
-||*Copyright: Bicho-preguiça dormindo em uma embaúba, Costa Rica (© Juan Carlos Vindas/Getty Images)*
+|2024-04-01|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HungarianEggs_PT-BR0431246025_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_PT-BR0431246025_UHD.jpg)|
+||*Copyright: Ovos de Páscoa de Tünde Csuhaj, Szekszárd, Hungria (© ATTILA KISBENEDEK/AFP/Getty Images)*
 ||
 |||
-|2024-03-30|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SleepySloth_FR-FR0657179763_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepySloth_FR-FR0657179763_UHD.jpg)|
-||*Copyright: Paresseux à gorge brune dormant dans un arbre cécropia, Costa Rica (© Juan Carlos Vindas/Getty Images)*
+|2024-03-31|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HungarianEggs_FR-FR9262429239_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_FR-FR9262429239_UHD.jpg)|
+||*Copyright: Œufs de Pâques réalisés par Tünde Csuhaj, Szekszárd, Hongrie (© ATTILA KISBENEDEK/AFP/Getty Images)*
 ||
 |||
-|2024-03-30|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PalazzoFarnese_DE-DE4941485496_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalazzoFarnese_DE-DE4941485496_UHD.jpg)|
-||*Copyright: „Vanishing Point“, des Straßenkünstlers JR bedeckt die Fassade des Palazzo Farnese, Rom, Italien (© Fabrizio Troiani/Alamy Stock Photo)*
+|2024-03-31|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HungarianEggs_DE-DE6470935823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_DE-DE6470935823_UHD.jpg)|
+||*Copyright: Ostereier von Tünde Csuhaj, Szekszárd, Ungarn (© ATTILA KISBENEDEK/AFP/Getty Images)*
 ||
 |||
-|2024-03-31|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SleepySloth_EN-CA8767906433_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepySloth_EN-CA8767906433_UHD.jpg)|
-||*Copyright: Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)*
+|2024-04-01|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HungarianEggs_EN-CA7704543588_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_EN-CA7704543588_UHD.jpg)|
+||*Copyright: Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)*
 ||
 |||
 |2024-03-31|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SleepySloth_EN-GB5265806402_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepySloth_EN-GB5265806402_UHD.jpg)|
-||*Copyright: Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)*
+||![](https://www.bing.com/th?id=OHR.HungarianEggs_EN-GB1813160198_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_EN-GB1813160198_UHD.jpg)|
+||*Copyright: Easter eggs by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)*
 ||
 |||
-|2024-03-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SleepySloth_IT-IT7892909153_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepySloth_IT-IT7892909153_UHD.jpg)|
-||*Copyright: Bradipo tridattilo dal collo marrone che dorme su un albero di cecropia, Costa Rica (© Juan Carlos Vindas/Getty Images)*
+|2024-03-31|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HungarianEggs_IT-IT8993577928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_IT-IT8993577928_UHD.jpg)|
+||*Copyright: Uova di Pasqua di Tünde Csuhaj, Szekszárd, Ungheria (© ATTILA KISBENEDEK/AFP/Getty Images)*
 ||
 |||
-|2024-03-30|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BeaumontClock_ES-ES6311174961_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaumontClock_ES-ES6311174961_UHD.jpg)|
-||*Copyright: Reloj mecánico del edificio San Jacinto, Beaumont, Texas, EE.UU. (© Richard T. Nowitz/Getty Images)*
+|2024-03-31|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HungarianEggs_ES-ES9484985742_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_ES-ES9484985742_UHD.jpg)|
+||*Copyright: Huevos de Pascua de Tünde Csuhaj, Szekszárd, Hungría (© ATTILA KISBENEDEK/AFP/Getty Images)*
 ||
 |||
-|2024-03-31|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SleepySloth_FR-CA3957487793_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SleepySloth_FR-CA3957487793_UHD.jpg)|
-||*Copyright: Paresseux à gorge brune dormant dans un arbre cécropia, Costa Rica (© Juan Carlos Vindas/Getty Images)*
+|2024-04-01|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HungarianEggs_FR-CA5727463691_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_FR-CA5727463691_UHD.jpg)|
+||*Copyright: Œufs de Pâques réalisés par Tünde Csuhaj, Szekszárd, Hongrie (© ATTILA KISBENEDEK/AFP/Getty Images)*
 ||
 |||
 

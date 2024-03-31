@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
 Update: 2024-03-31
-![](https://www.bing.com/th?id=OHR.SleepySloth_EN-GB5265806402_UHD.jpg&w=1000)Download: [Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)](https://www.bing.com/th?id=OHR.SleepySloth_EN-GB5265806402_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.HungarianEggs_EN-GB1813160198_UHD.jpg&w=1000)Download: [Easter eggs by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)](https://www.bing.com/th?id=OHR.HungarianEggs_EN-GB1813160198_UHD.jpg)
 
 Auto get programm by LtgX
