@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-04-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg)|
-||*Copyright: Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)*
+|2024-04-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg)|
+||*Copyright: 'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)*
 ||
 |||
 |2024-04-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: パラッツォ・ファルネーゼのだまし絵, イタリア (© Fabrizio Troiani/Alamy)*
 ||
 |||
-|2024-03-31|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.HungarianEggs_EN-IN6319733019_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_EN-IN6319733019_UHD.jpg)|
-||*Copyright: Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)*
+|2024-04-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-IN6555201202_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-IN6555201202_UHD.jpg)|
+||*Copyright: 'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)*
 ||
 |||
-|2024-04-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.HungarianEggs_PT-BR0431246025_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_PT-BR0431246025_UHD.jpg)|
-||*Copyright: Ovos de Páscoa de Tünde Csuhaj, Szekszárd, Hungria (© ATTILA KISBENEDEK/AFP/Getty Images)*
+|2024-04-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PalazzoFarnese_PT-BR0676715061_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalazzoFarnese_PT-BR0676715061_UHD.jpg)|
+||*Copyright: 'Vanishing Point', do artista de rua francês JR, cobre a fachada do Palazzo Farnese, Roma, Itália (© Fabrizio Troiani/Alamy)*
 ||
 |||
-|2024-03-31|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HungarianEggs_FR-FR9262429239_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_FR-FR9262429239_UHD.jpg)|
-||*Copyright: Œufs de Pâques réalisés par Tünde Csuhaj, Szekszárd, Hongrie (© ATTILA KISBENEDEK/AFP/Getty Images)*
+|2024-04-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PalazzoFarnese_FR-FR9572652511_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalazzoFarnese_FR-FR9572652511_UHD.jpg)|
+||*Copyright: L'œuvre « Vanishing Point » de l'artiste de rue français JR sur la façade du Palais Farnèse, Rome, Italie (© Fabrizio Troiani/Alamy)*
 ||
 |||
-|2024-03-31|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.HungarianEggs_DE-DE6470935823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_DE-DE6470935823_UHD.jpg)|
-||*Copyright: Ostereier von Tünde Csuhaj, Szekszárd, Ungarn (© ATTILA KISBENEDEK/AFP/Getty Images)*
+|2024-04-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.StGeorgiRide_DE-DE6646277481_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StGeorgiRide_DE-DE6646277481_UHD.jpg)|
+||*Copyright: Traunsteiner Pferde beim traditionellen St. Georgi-Ritt am Ostermontag in bayerischen Farben geschmückt, Deutschland (© Christof Stache/AFP via Getty Images)*
 ||
 |||
-|2024-04-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HungarianEggs_EN-CA7704543588_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_EN-CA7704543588_UHD.jpg)|
-||*Copyright: Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)*
+|2024-04-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-CA0548986466_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-CA0548986466_UHD.jpg)|
+||*Copyright: 'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)*
 ||
 |||
-|2024-03-31|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.HungarianEggs_EN-GB1813160198_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_EN-GB1813160198_UHD.jpg)|
-||*Copyright: Easter eggs by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)*
+|2024-04-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-GB1907923067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-GB1907923067_UHD.jpg)|
+||*Copyright: 'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)*
 ||
 |||
-|2024-03-31|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.HungarianEggs_IT-IT8993577928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_IT-IT8993577928_UHD.jpg)|
-||*Copyright: Uova di Pasqua di Tünde Csuhaj, Szekszárd, Ungheria (© ATTILA KISBENEDEK/AFP/Getty Images)*
+|2024-04-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PalazzoFarnese_IT-IT8737632028_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalazzoFarnese_IT-IT8737632028_UHD.jpg)|
+||*Copyright: "Vanishing Point" dell'artista francese JR copre la facciata del Palazzo Farnese, Roma, Italia (© Fabrizio Troiani/Alamy)*
 ||
 |||
-|2024-03-31|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.HungarianEggs_ES-ES9484985742_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_ES-ES9484985742_UHD.jpg)|
-||*Copyright: Huevos de Pascua de Tünde Csuhaj, Szekszárd, Hungría (© ATTILA KISBENEDEK/AFP/Getty Images)*
+|2024-04-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PalazzoFarnese_ES-ES9713992360_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalazzoFarnese_ES-ES9713992360_UHD.jpg)|
+||*Copyright: Obra del artista JR, "Vanishing Point", en la fachada del Palacio Farnesio de Roma, Italia (© Fabrizio Troiani/Alamy)*
 ||
 |||
-|2024-04-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HungarianEggs_FR-CA5727463691_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HungarianEggs_FR-CA5727463691_UHD.jpg)|
-||*Copyright: Œufs de Pâques réalisés par Tünde Csuhaj, Szekszárd, Hongrie (© ATTILA KISBENEDEK/AFP/Getty Images)*
+|2024-04-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PalazzoFarnese_FR-CA6022284524_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalazzoFarnese_FR-CA6022284524_UHD.jpg)|
+||*Copyright: L'œuvre « Vanishing Point » de l'artiste de rue français JR sur la façade du Palais Farnèse, Rome, Italie (© Fabrizio Troiani/Alamy)*
 ||
 |||
 
