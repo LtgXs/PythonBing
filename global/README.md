@@ -6,9 +6,9 @@
 ||*Copyright: 'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)*
 ||
 |||
-|2024-04-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PalazzoFarnese_JA-JP7372412499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalazzoFarnese_JA-JP7372412499_UHD.jpg)|
-||*Copyright: パラッツォ・ファルネーゼのだまし絵, イタリア (© Fabrizio Troiani/Alamy)*
+|2024-04-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.JutlandSpring_JA-JP6178777806_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JutlandSpring_JA-JP6178777806_UHD.jpg)|
+||*Copyright: ユトランド半島の風景, デンマーク (© Nick Brundle Photography/Getty Images)*
 ||
 |||
 |2024-04-01|**Region: en-IN**||
