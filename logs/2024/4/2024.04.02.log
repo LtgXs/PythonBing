@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:22:01] Picture infomations saved to  global/fr-CA/README.md
 [09:22:01] Picture infomations saved to global/fr-CA/history/2024/04/03_fr-CA.md
 Program exit at 09:22:01
+
+Program started at 16:12:34
+Operating System Name: Linux
+Operating System Version: #17~22.04.1-Ubuntu SMP Sat Mar  9 04:50:38 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az885-209
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[16:12:34] Start geting CN Bing Wallpaper
+[16:12:34] Successful get url: https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_ZH-CN8027219590_UHD.jpg
+[16:12:34] Image saved to img/background.jpg
+[16:12:34] Info saved to README.md
+[16:12:34] Image saved to history/2024/04/03.md
+[16:12:34] Start geting global Bing Wallpaper, region=en-US, local time is 2024-04-02 12:12:34.706059-04:00
+[16:12:34] Successful get url: https://www.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg
+[16:12:34] Picture infomations saved to  global/en-US/README.md
+[16:12:34] Picture infomations saved to global/en-US/history/2024/04/03_en-US.md
+[16:12:34] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-04-03 01:12:34.937176+09:00
+[16:12:35] Successful get url: https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_JA-JP6458656191_UHD.jpg
+[16:12:35] Picture infomations saved to  global/ja-JP/README.md
+[16:12:35] Picture infomations saved to global/ja-JP/history/2024/04/03_ja-JP.md
+[16:12:35] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-04-02 21:42:35.140162+05:30
+[16:12:35] Successful get url: https://www.bing.com/th?id=OHR.JutlandSpring_EN-IN7251097604_UHD.jpg
+[16:12:35] Picture infomations saved to  global/en-IN/README.md
+[16:12:35] Picture infomations saved to global/en-IN/history/2024/04/02_en-IN.md
+[16:12:35] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-04-02 13:12:35.388767-03:00
+[16:12:35] Successful get url: https://www.bing.com/th?id=OHR.SouthStackLight_PT-BR0876989984_UHD.jpg
+[16:12:35] Picture infomations saved to  global/pt-BR/README.md
+[16:12:35] Picture infomations saved to global/pt-BR/history/2024/04/03_pt-BR.md
+[16:12:35] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-04-02 18:12:35.599054+02:00
+[16:12:35] Successful get url: https://www.bing.com/th?id=OHR.JutlandSpring_FR-FR9511410007_UHD.jpg
+[16:12:35] Picture infomations saved to  global/fr-FR/README.md
+[16:12:35] Picture infomations saved to global/fr-FR/history/2024/04/02_fr-FR.md
+[16:12:35] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-04-02 18:12:35.817633+02:00
+[16:12:35] Successful get url: https://www.bing.com/th?id=OHR.JutlandSpring_DE-DE6705207300_UHD.jpg
+[16:12:35] Picture infomations saved to  global/de-DE/README.md
+[16:12:35] Picture infomations saved to global/de-DE/history/2024/04/02_de-DE.md
+[16:12:35] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-04-02 12:12:35.984802-04:00
+[16:12:36] Successful get url: https://www.bing.com/th?id=OHR.JutlandSpring_EN-CA0874464539_UHD.jpg
+[16:12:36] Picture infomations saved to  global/en-CA/README.md
+[16:12:36] Picture infomations saved to global/en-CA/history/2024/04/03_en-CA.md
+[16:12:36] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-04-02 17:12:36.170391+01:00
+[16:12:36] Successful get url: https://www.bing.com/th?id=OHR.JutlandSpring_EN-GB1991600575_UHD.jpg
+[16:12:36] Picture infomations saved to  global/en-GB/README.md
+[16:12:36] Picture infomations saved to global/en-GB/history/2024/04/02_en-GB.md
+[16:12:36] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-04-02 18:12:36.431975+02:00
+[16:12:36] Successful get url: https://www.bing.com/th?id=OHR.JutlandSpring_IT-IT3723976885_UHD.jpg
+[16:12:36] Picture infomations saved to  global/it-IT/README.md
+[16:12:36] Picture infomations saved to global/it-IT/history/2024/04/02_it-IT.md
+[16:12:36] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-04-02 18:12:36.647065+02:00
+[16:12:36] Successful get url: https://www.bing.com/th?id=OHR.JutlandSpring_ES-ES9886348843_UHD.jpg
+[16:12:36] Picture infomations saved to  global/es-ES/README.md
+[16:12:36] Picture infomations saved to global/es-ES/history/2024/04/02_es-ES.md
+[16:12:36] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-04-02 12:12:36.873928-04:00
+[16:12:36] Successful get url: https://www.bing.com/th?id=OHR.JutlandSpring_FR-CA6761132872_UHD.jpg
+[16:12:37] Picture infomations saved to  global/fr-CA/README.md
+[16:12:37] Picture infomations saved to global/fr-CA/history/2024/04/03_fr-CA.md
+Program exit at 16:12:37

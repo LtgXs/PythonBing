@@ -6,9 +6,9 @@
 ||*Copyright: Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2024-04-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.JutlandSpring_JA-JP6178777806_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JutlandSpring_JA-JP6178777806_UHD.jpg)|
-||*Copyright: ユトランド半島の風景, デンマーク (© Nick Brundle Photography/Getty Images)*
+|2024-04-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_JA-JP6458656191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_JA-JP6458656191_UHD.jpg)|
+||*Copyright: カクシャール・ツー山にかかる虹, キルギス (© Emad aljumah/Getty Images)*
 ||
 |||
 |2024-04-02|**Region: en-IN**||
