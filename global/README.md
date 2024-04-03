@@ -6,9 +6,9 @@
 ||*Copyright: A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan (© Emad aljumah/Getty Images)*
 ||
 |||
-|2024-04-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_JA-JP6458656191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_JA-JP6458656191_UHD.jpg)|
-||*Copyright: カクシャール・ツー山にかかる虹, キルギス (© Emad aljumah/Getty Images)*
+|2024-04-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YoshinoyamaSpring_JA-JP6657067611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoshinoyamaSpring_JA-JP6657067611_UHD.jpg)|
+||*Copyright: 吉野山の桜, 奈良県 吉野郡 (© Sean Pavone/iStock/Getty Images Plus)*
 ||
 |||
 |2024-04-03|**Region: en-IN**||
