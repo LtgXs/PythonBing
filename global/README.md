@@ -6,9 +6,9 @@
 ||*Copyright: The Bahamas photographed from the International Space Station (© NASA)*
 ||
 |||
-|2024-04-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BahamasSpace_JA-JP3451367539_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamasSpace_JA-JP3451367539_UHD.jpg)|
-||*Copyright: バハマ諸島, バハマ (© NASA)*
+|2024-04-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.JapanHimeji_JA-JP3641774172_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapanHimeji_JA-JP3641774172_UHD.jpg)|
+||*Copyright: 姫路城, 兵庫県 姫路市 (© Julian Elliott Photography/Getty Images)*
 ||
 |||
 |2024-04-05|**Region: en-IN**||
