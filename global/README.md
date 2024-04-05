@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-04-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg)|
-||*Copyright: Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)*
+|2024-04-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg)|
+||*Copyright: The Bahamas photographed from the International Space Station (© NASA)*
 ||
 |||
 |2024-04-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: バハマ諸島, バハマ (© NASA)*
 ||
 |||
-|2024-04-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AntelopeBotswana_EN-IN7984191548_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntelopeBotswana_EN-IN7984191548_UHD.jpg)|
-||*Copyright: Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)*
+|2024-04-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BahamasSpace_EN-IN3761019154_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamasSpace_EN-IN3761019154_UHD.jpg)|
+||*Copyright: The Bahamas photographed from the International Space Station (© NASA)*
 ||
 |||
-|2024-04-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AntelopeBotswana_PT-BR1126611308_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntelopeBotswana_PT-BR1126611308_UHD.jpg)|
-||*Copyright: Rebanho de cobo-de-leche vermelho cruzando a planície pantanosa do Delta do Okavango, Botsuana (© Ibrahim Suha Derbent/Getty Images)*
+|2024-04-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BahamasSpace_PT-BR0940093186_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamasSpace_PT-BR0940093186_UHD.jpg)|
+||*Copyright: As Bahamas fotografadas da Estação Espacial Internacional (© NASA)*
 ||
 |||
-|2024-04-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AntelopeBotswana_FR-FR1380338577_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntelopeBotswana_FR-FR1380338577_UHD.jpg)|
-||*Copyright: Troupeau de cobes de lechwe rouge traversant la plaine marécageuse du delta de l'Okavango, Botswana (© Ibrahim Suha Derbent/Getty Images)*
+|2024-04-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BahamasSpace_FR-FR2737935866_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamasSpace_FR-FR2737935866_UHD.jpg)|
+||*Copyright: Les Bahamas vues depuis la Station spatiale internationale (© NASA)*
 ||
 |||
-|2024-04-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AntelopeBotswana_DE-DE6866899384_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntelopeBotswana_DE-DE6866899384_UHD.jpg)|
-||*Copyright: Rote Letschwe-Herde beim Durchqueren der sumpfigen Ebene des Okavangodeltas, Botswana (© Ibrahim Suha Derbent/Getty Images)*
+|2024-04-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BahamasSpace_DE-DE5829125320_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamasSpace_DE-DE5829125320_UHD.jpg)|
+||*Copyright: Die Bahamas von der Internationalen Raumstation aus gesehen (© NASA)*
 ||
 |||
-|2024-04-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AntelopeBotswana_EN-CA1764175316_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntelopeBotswana_EN-CA1764175316_UHD.jpg)|
-||*Copyright: Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)*
+|2024-04-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BahamasSpace_EN-CA5271585501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamasSpace_EN-CA5271585501_UHD.jpg)|
+||*Copyright: The Bahamas photographed from the International Space Station (© NASA)*
 ||
 |||
-|2024-04-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AntelopeBotswana_EN-GB5529352670_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntelopeBotswana_EN-GB5529352670_UHD.jpg)|
-||*Copyright: Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)*
+|2024-04-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BahamasSpace_EN-GB7286483322_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamasSpace_EN-GB7286483322_UHD.jpg)|
+||*Copyright: The Bahamas pictured from the International Space Station (© NASA)*
 ||
 |||
-|2024-04-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DolomitesSeiserAlm_IT-IT7507692792_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSeiserAlm_IT-IT7507692792_UHD.jpg)|
-||*Copyright: Alpe di Siusi, Dolomiti, Italia (© Achim Thomae/Getty Images)*
+|2024-04-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BahamasSpace_IT-IT0834278033_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamasSpace_IT-IT0834278033_UHD.jpg)|
+||*Copyright: Le Isole Bahamas viste dalla Stazione spaziale internazionale (© NASA)*
 ||
 |||
-|2024-04-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AntelopeBotswana_ES-ES0796068308_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntelopeBotswana_ES-ES0796068308_UHD.jpg)|
-||*Copyright: Manada de antílopes Lechwe cruzando la llanura pantanosa del delta del Okavango, Botsuana (© Ibrahim Suha Derbent/Getty Images)*
+|2024-04-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BahamasSpace_ES-ES5387689014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamasSpace_ES-ES5387689014_UHD.jpg)|
+||*Copyright: Las Bahamas fotografiadas desde la Estación Espacial Internacional (© NASA)*
 ||
 |||
-|2024-04-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AntelopeBotswana_FR-CA7386810053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntelopeBotswana_FR-CA7386810053_UHD.jpg)|
-||*Copyright: Troupeau de cobes de lechwe rouge traversant la plaine marécageuse du delta de l'Okavango, Botswana (© Ibrahim Suha Derbent/Getty Images)*
+|2024-04-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BahamasSpace_FR-CA0789976801_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamasSpace_FR-CA0789976801_UHD.jpg)|
+||*Copyright: Les Bahamas vues depuis la Station spatiale internationale (© NASA)*
 ||
 |||
 
