@@ -6,9 +6,9 @@
 ||*Copyright: Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)*
 ||
 |||
-|2024-04-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.JapanHimeji_JA-JP3641774172_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapanHimeji_JA-JP3641774172_UHD.jpg)|
-||*Copyright: 姫路城, 兵庫県 姫路市 (© Julian Elliott Photography/Getty Images)*
+|2024-04-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BeaverDenali_JA-JP3797917391_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDenali_JA-JP3797917391_UHD.jpg)|
+||*Copyright: デナリ国立公園のアメリカビーバー, 米国 アラスカ州  (© Paul Souders/Getty Images)*
 ||
 |||
 |2024-04-06|**Region: en-IN**||
