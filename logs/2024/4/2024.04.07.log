@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:21:33] Picture infomations saved to  global/fr-CA/README.md
 [09:21:33] Picture infomations saved to global/fr-CA/history/2024/04/08_fr-CA.md
 Program exit at 09:21:33
+
+Program started at 16:10:08
+Operating System Name: Linux
+Operating System Version: #17~22.04.1-Ubuntu SMP Sat Mar  9 04:50:38 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1240-109
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[16:10:08] Start geting CN Bing Wallpaper
+[16:10:08] Successful get url: https://www.bing.com/th?id=OHR.HedgehogMeadow_ZH-CN8845586473_UHD.jpg
+[16:10:08] Image saved to img/background.jpg
+[16:10:08] Info saved to README.md
+[16:10:08] Image saved to history/2024/04/08.md
+[16:10:08] Start geting global Bing Wallpaper, region=en-US, local time is 2024-04-07 12:10:08.992773-04:00
+[16:10:09] Successful get url: https://www.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg
+[16:10:09] Picture infomations saved to  global/en-US/README.md
+[16:10:09] Picture infomations saved to global/en-US/history/2024/04/08_en-US.md
+[16:10:09] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-04-08 01:10:09.201146+09:00
+[16:10:09] Successful get url: https://www.bing.com/th?id=OHR.SpringApple_JA-JP3983835058_UHD.jpg
+[16:10:09] Picture infomations saved to  global/ja-JP/README.md
+[16:10:09] Picture infomations saved to global/ja-JP/history/2024/04/08_ja-JP.md
+[16:10:09] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-04-07 21:40:09.408747+05:30
+[16:10:09] Successful get url: https://www.bing.com/th?id=OHR.BeaverDenali_EN-IN4459281854_UHD.jpg
+[16:10:09] Picture infomations saved to  global/en-IN/README.md
+[16:10:09] Picture infomations saved to global/en-IN/history/2024/04/07_en-IN.md
+[16:10:09] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-04-07 13:10:09.615161-03:00
+[16:10:09] Successful get url: https://www.bing.com/th?id=OHR.BeaverDenali_PT-BR1390611449_UHD.jpg
+[16:10:09] Picture infomations saved to  global/pt-BR/README.md
+[16:10:09] Picture infomations saved to global/pt-BR/history/2024/04/08_pt-BR.md
+[16:10:09] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-04-07 18:10:09.828363+02:00
+[16:10:09] Successful get url: https://www.bing.com/th?id=OHR.BeaverDenali_FR-FR4899490419_UHD.jpg
+[16:10:10] Picture infomations saved to  global/fr-FR/README.md
+[16:10:10] Picture infomations saved to global/fr-FR/history/2024/04/07_fr-FR.md
+[16:10:10] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-04-07 18:10:10.023492+02:00
+[16:10:10] Successful get url: https://www.bing.com/th?id=OHR.BeaverDenali_DE-DE4088011437_UHD.jpg
+[16:10:10] Picture infomations saved to  global/de-DE/README.md
+[16:10:10] Picture infomations saved to global/de-DE/history/2024/04/07_de-DE.md
+[16:10:10] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-04-07 12:10:10.228705-04:00
+[16:10:10] Successful get url: https://www.bing.com/th?id=OHR.BeaverDenali_EN-CA6851108390_UHD.jpg
+[16:10:10] Picture infomations saved to  global/en-CA/README.md
+[16:10:10] Picture infomations saved to global/en-CA/history/2024/04/08_en-CA.md
+[16:10:10] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-04-07 17:10:10.447509+01:00
+[16:10:10] Successful get url: https://www.bing.com/th?id=OHR.BeaverDenali_EN-GB1771360512_UHD.jpg
+[16:10:10] Picture infomations saved to  global/en-GB/README.md
+[16:10:10] Picture infomations saved to global/en-GB/history/2024/04/07_en-GB.md
+[16:10:10] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-04-07 18:10:10.688751+02:00
+[16:10:10] Successful get url: https://www.bing.com/th?id=OHR.BeaverDenali_IT-IT3876501341_UHD.jpg
+[16:10:10] Picture infomations saved to  global/it-IT/README.md
+[16:10:10] Picture infomations saved to global/it-IT/history/2024/04/07_it-IT.md
+[16:10:10] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-04-07 18:10:10.935881+02:00
+[16:10:11] Successful get url: https://www.bing.com/th?id=OHR.BeaverDenali_ES-ES5993015272_UHD.jpg
+[16:10:11] Picture infomations saved to  global/es-ES/README.md
+[16:10:11] Picture infomations saved to global/es-ES/history/2024/04/07_es-ES.md
+[16:10:11] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-04-07 12:10:11.144164-04:00
+[16:10:11] Successful get url: https://www.bing.com/th?id=OHR.BeaverDenali_FR-CA1157056211_UHD.jpg
+[16:10:11] Picture infomations saved to  global/fr-CA/README.md
+[16:10:11] Picture infomations saved to global/fr-CA/history/2024/04/08_fr-CA.md
+Program exit at 16:10:11

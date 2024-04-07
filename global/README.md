@@ -6,9 +6,9 @@
 ||*Copyright: North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)*
 ||
 |||
-|2024-04-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BeaverDenali_JA-JP3797917391_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDenali_JA-JP3797917391_UHD.jpg)|
-||*Copyright: デナリ国立公園のアメリカビーバー, 米国 アラスカ州  (© Paul Souders/Getty Images)*
+|2024-04-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SpringApple_JA-JP3983835058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringApple_JA-JP3983835058_UHD.jpg)|
+||*Copyright: リンゴの果樹園, ドイツ (© Smileus/Getty Images)*
 ||
 |||
 |2024-04-07|**Region: en-IN**||
