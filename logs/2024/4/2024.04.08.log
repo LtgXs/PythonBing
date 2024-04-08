@@ -1,0 +1,60 @@
+
+Program started at 09:23:38
+Operating System Name: Linux
+Operating System Version: #17~22.04.1-Ubuntu SMP Sat Mar  9 04:50:38 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1144-117
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[09:23:38] Start geting CN Bing Wallpaper
+[09:23:38] Successful get url: https://www.bing.com/th?id=OHR.HedgehogMeadow_ZH-CN8845586473_UHD.jpg
+[09:23:38] Image saved to img/background.jpg
+[09:23:38] Info saved to README.md
+[09:23:38] Image saved to history/2024/04/08.md
+[09:23:38] Start geting global Bing Wallpaper, region=en-US, local time is 2024-04-08 05:23:38.676146-04:00
+[09:23:38] Successful get url: https://www.bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_UHD.jpg
+[09:23:38] Picture infomations saved to  global/en-US/README.md
+[09:23:38] Picture infomations saved to global/en-US/history/2024/04/09_en-US.md
+[09:23:38] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-04-08 18:23:38.860763+09:00
+[09:23:38] Successful get url: https://www.bing.com/th?id=OHR.SpringApple_JA-JP3983835058_UHD.jpg
+[09:23:39] Picture infomations saved to  global/ja-JP/README.md
+[09:23:39] Picture infomations saved to global/ja-JP/history/2024/04/08_ja-JP.md
+[09:23:39] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-04-08 14:53:39.102529+05:30
+[09:23:39] Successful get url: https://www.bing.com/th?id=OHR.OwlSiblings_EN-IN5156349531_UHD.jpg
+[09:23:39] Picture infomations saved to  global/en-IN/README.md
+[09:23:39] Picture infomations saved to global/en-IN/history/2024/04/08_en-IN.md
+[09:23:39] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-04-08 06:23:39.331994-03:00
+[09:23:39] Successful get url: https://www.bing.com/th?id=OHR.CuiabaAniversary_PT-BR5141528738_UHD.jpg
+[09:23:39] Picture infomations saved to  global/pt-BR/README.md
+[09:23:39] Picture infomations saved to global/pt-BR/history/2024/04/09_pt-BR.md
+[09:23:39] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-04-08 11:23:39.561890+02:00
+[09:23:39] Successful get url: https://www.bing.com/th?id=OHR.HedgehogMeadow_FR-FR5225927490_UHD.jpg
+[09:23:39] Picture infomations saved to  global/fr-FR/README.md
+[09:23:39] Picture infomations saved to global/fr-FR/history/2024/04/08_fr-FR.md
+[09:23:39] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-04-08 11:23:39.782386+02:00
+[09:23:39] Successful get url: https://www.bing.com/th?id=OHR.HedgehogMeadow_DE-DE4306396811_UHD.jpg
+[09:23:39] Picture infomations saved to  global/de-DE/README.md
+[09:23:39] Picture infomations saved to global/de-DE/history/2024/04/08_de-DE.md
+[09:23:39] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-04-08 05:23:39.947384-04:00
+[09:23:40] Successful get url: https://www.bing.com/th?id=OHR.SolarEclipseOregon_EN-CA9605067136_UHD.jpg
+[09:23:40] Picture infomations saved to  global/en-CA/README.md
+[09:23:40] Picture infomations saved to global/en-CA/history/2024/04/09_en-CA.md
+[09:23:40] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-04-08 10:23:40.134537+01:00
+[09:23:40] Successful get url: https://www.bing.com/th?id=OHR.LlansteffanCastleWales_EN-GB2601161101_UHD.jpg
+[09:23:40] Picture infomations saved to  global/en-GB/README.md
+[09:23:40] Picture infomations saved to global/en-GB/history/2024/04/08_en-GB.md
+[09:23:40] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-04-08 11:23:40.414556+02:00
+[09:23:40] Successful get url: https://www.bing.com/th?id=OHR.HedgehogMeadow_IT-IT3829622276_UHD.jpg
+[09:23:40] Picture infomations saved to  global/it-IT/README.md
+[09:23:40] Picture infomations saved to global/it-IT/history/2024/04/08_it-IT.md
+[09:23:40] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-04-08 11:23:40.640378+02:00
+[09:23:40] Successful get url: https://www.bing.com/th?id=OHR.HedgehogMeadow_ES-ES6542510858_UHD.jpg
+[09:23:40] Picture infomations saved to  global/es-ES/README.md
+[09:23:40] Picture infomations saved to global/es-ES/history/2024/04/08_es-ES.md
+[09:23:40] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-04-08 05:23:40.846457-04:00
+[09:23:40] Successful get url: https://www.bing.com/th?id=OHR.SolarEclipseOregon_FR-CA1333886943_UHD.jpg
+[09:23:41] Picture infomations saved to  global/fr-CA/README.md
+[09:23:41] Picture infomations saved to global/fr-CA/history/2024/04/09_fr-CA.md
+Program exit at 09:23:41

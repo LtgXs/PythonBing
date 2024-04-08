@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-04-08|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg)|
-||*Copyright: North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)*
+|2024-04-09|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_UHD.jpg)|
+||*Copyright: Total solar eclipse photographed from Madras, Oregon on August 21, 2017 (© NASA/Aubrey Gemignani)*
 ||
 |||
 |2024-04-08|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: リンゴの果樹園, ドイツ (© Smileus/Getty Images)*
 ||
 |||
-|2024-04-07|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BeaverDenali_EN-IN4459281854_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDenali_EN-IN4459281854_UHD.jpg)|
-||*Copyright: North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)*
+|2024-04-08|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.OwlSiblings_EN-IN5156349531_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OwlSiblings_EN-IN5156349531_UHD.jpg)|
+||*Copyright: Burrowing owl chicks near a burrow, Wyoming (© Danita Delimont/Getty Images)*
 ||
 |||
-|2024-04-08|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BeaverDenali_PT-BR1390611449_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDenali_PT-BR1390611449_UHD.jpg)|
-||*Copyright: Castor norte-americano em uma lagoa perto de Wonder Lake, Parque Nacional Denali, Alasca, EUA (© Paul Souders/Getty Images)*
+|2024-04-09|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CuiabaAniversary_PT-BR5141528738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuiabaAniversary_PT-BR5141528738_UHD.jpg)|
+||*Copyright: Vista aérea da cidade de Cuiabá e do rio Cuiabá, Mato Grosso (© Lucas Ninno/Getty Images)*
 ||
 |||
-|2024-04-07|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BeaverDenali_FR-FR4899490419_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDenali_FR-FR4899490419_UHD.jpg)|
-||*Copyright: Castor du Canada dans un étang près du lac Wonder, parc national de Denali, Alaska, États-Unis (© Paul Souders/Getty Images)*
+|2024-04-08|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HedgehogMeadow_FR-FR5225927490_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HedgehogMeadow_FR-FR5225927490_UHD.jpg)|
+||*Copyright: Hérisson dans un jardin de pissenlits, Bad Driburg, Allemagne (© Oksana Schmidt/Getty Images)*
 ||
 |||
-|2024-04-07|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BeaverDenali_DE-DE4088011437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDenali_DE-DE4088011437_UHD.jpg)|
-||*Copyright: Kanadischer Biber in einem Teich in der Nähe des Wonder Lake, Denali-Nationalpark, Alaska, USA (© Paul Souders/Getty Images)*
+|2024-04-08|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HedgehogMeadow_DE-DE4306396811_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HedgehogMeadow_DE-DE4306396811_UHD.jpg)|
+||*Copyright: Braunbrustigel in einem Garten mit Löwenzahn, Bad Driburg, Nordrhein-Westfalen (© Oksana Schmidt/Getty Images)*
 ||
 |||
-|2024-04-08|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BeaverDenali_EN-CA6851108390_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDenali_EN-CA6851108390_UHD.jpg)|
-||*Copyright: North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)*
+|2024-04-09|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SolarEclipseOregon_EN-CA9605067136_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SolarEclipseOregon_EN-CA9605067136_UHD.jpg)|
+||*Copyright: Total solar eclipse photographed from Madras, Oregon on August 21, 2017 (© NASA/Aubrey Gemignani)*
 ||
 |||
-|2024-04-07|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BeaverDenali_EN-GB1771360512_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDenali_EN-GB1771360512_UHD.jpg)|
-||*Copyright: North American beaver in a pond near Wonder Lake, Denali National Park, Alaska, USA (© Paul Souders/Getty Images)*
+|2024-04-08|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.LlansteffanCastleWales_EN-GB2601161101_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LlansteffanCastleWales_EN-GB2601161101_UHD.jpg)|
+||*Copyright: Llansteffan Castle, Carmarthenshire, Wales (© Roy Shakespeare/Loop Images Ltd/Alamy Stock Photo)*
 ||
 |||
-|2024-04-07|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BeaverDenali_IT-IT3876501341_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDenali_IT-IT3876501341_UHD.jpg)|
-||*Copyright: Castoro nordamericano in uno stagno vicino Wonder Lake, Parco Nazionale di Danali, Alaska, Stati Uniti (© Paul Souders/Getty Images)*
+|2024-04-08|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HedgehogMeadow_IT-IT3829622276_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HedgehogMeadow_IT-IT3829622276_UHD.jpg)|
+||*Copyright: Riccio europeo in un prato, Bad Driburg, Germania (© Oksana Schmidt/Getty Images)*
 ||
 |||
-|2024-04-07|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BeaverDenali_ES-ES5993015272_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDenali_ES-ES5993015272_UHD.jpg)|
-||*Copyright: Castor norteamericano en un estanque cerca del lago Wonder, Parque Nacional Denali, Alaska, EE.UU. (© Paul Souders/Getty Images)*
+|2024-04-08|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HedgehogMeadow_ES-ES6542510858_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HedgehogMeadow_ES-ES6542510858_UHD.jpg)|
+||*Copyright: Erizo de pecho marrón en un jardín con dientes de león, Bad Driburg, Renania del Norte-Westfalia, Alemania (© Oksana Schmidt/Getty Images)*
 ||
 |||
-|2024-04-08|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BeaverDenali_FR-CA1157056211_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDenali_FR-CA1157056211_UHD.jpg)|
-||*Copyright: Castor du Canada dans un étang près du lac Wonder, parc national de Denali, Alaska, États-Unis (© Paul Souders/Getty Images)*
+|2024-04-09|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SolarEclipseOregon_FR-CA1333886943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SolarEclipseOregon_FR-CA1333886943_UHD.jpg)|
+||*Copyright: Éclipse solaire totale photographiée depuis Madras, Oregon, États-Unis, le 21 août 2017 (© NASA/Aubrey Gemignani)*
 ||
 |||
 
