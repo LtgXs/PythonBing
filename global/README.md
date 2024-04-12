@@ -6,9 +6,9 @@
 ||*Copyright: Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock)*
 ||
 |||
-|2024-04-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SunsetArchesNP_JA-JP4875080007_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetArchesNP_JA-JP4875080007_UHD.jpg)|
-||*Copyright: アーチーズ国立公園, 米国 ユタ州 (© Anthony Heflin/Shutterstock)*
+|2024-04-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ShibaZakura2024_JA-JP5037441018_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShibaZakura2024_JA-JP5037441018_UHD.jpg)|
+||*Copyright: 富士本栖湖リゾート, 山梨県 (© Torsakarin/Getty Images)*
 ||
 |||
 |2024-04-12|**Region: en-IN**||
