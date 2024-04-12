@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-04-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg)|
-||*Copyright: Aerial view of Churún Merú waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)*
+|2024-04-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-US2974318595_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-US2974318595_UHD.jpg)|
+||*Copyright: Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock)*
 ||
 |||
 |2024-04-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アーチーズ国立公園, 米国 ユタ州 (© Anthony Heflin/Shutterstock)*
 ||
 |||
-|2024-04-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.EidPrayers_EN-IN0060751560_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EidPrayers_EN-IN0060751560_UHD.jpg)|
-||*Copyright: Muslims gather to offer prayers during Eid al-Fitr at Jama Masjid in New Delhi (© MONEY SHARMA/Getty Images)*
+|2024-04-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-IN6303798919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-IN6303798919_UHD.jpg)|
+||*Copyright: Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock)*
 ||
 |||
-|2024-04-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DragonWaterfall_PT-BR5875441012_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonWaterfall_PT-BR5875441012_UHD.jpg)|
-||*Copyright: Vista aérea da catarata Churun-Meru (Dragão), Venezuela (© AirPano LLC/Amazing Aerial Agency)*
+|2024-04-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Curitiba_PT-BR8811404397_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Curitiba_PT-BR8811404397_UHD.jpg)|
+||*Copyright: Jardim botânico de Curitiba, Paraná (© Marcelo Araujo/Getty Images)*
 ||
 |||
-|2024-04-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DragonWaterfall_FR-FR6498141179_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonWaterfall_FR-FR6498141179_UHD.jpg)|
-||*Copyright: Vue aérienne de la cascade de Churun-Meru, Venezuela (© AirPano LLC/Amazing Aerial Agency)*
+|2024-04-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SunsetArchesNP_FR-FR6671864096_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetArchesNP_FR-FR6671864096_UHD.jpg)|
+||*Copyright: Lumière du soir sur la North Window avec l'arche Turret en fond, Parc national des Arches, Utah, États-Unis (© Anthony Heflin/Shutterstock)*
 ||
 |||
-|2024-04-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.DragonWaterfall_DE-DE4647448695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonWaterfall_DE-DE4647448695_UHD.jpg)|
-||*Copyright: Luftaufnahme des Wasserfalls Churún-Merú, Venezuela (© AirPano LLC/Amazing Aerial Agency)*
+|2024-04-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SunsetArchesNP_DE-DE3760698211_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetArchesNP_DE-DE3760698211_UHD.jpg)|
+||*Copyright: Abendlicht über dem North Window, Arches-Nationalpark, Utah, USA (© Anthony Heflin/Shutterstock)*
 ||
 |||
-|2024-04-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DragonWaterfall_EN-CA2526860272_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonWaterfall_EN-CA2526860272_UHD.jpg)|
-||*Copyright: Aerial view of Churun-Meru (Dragon) waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)*
+|2024-04-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-CA3137398130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-CA3137398130_UHD.jpg)|
+||*Copyright: Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock)*
 ||
 |||
-|2024-04-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DragonWaterfall_EN-GB5111698733_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonWaterfall_EN-GB5111698733_UHD.jpg)|
-||*Copyright: Aerial view of the Churún Merú waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)*
+|2024-04-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-GB5962271625_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-GB5962271625_UHD.jpg)|
+||*Copyright: North Window with Turret Arch in the distance, Arches National Park, Utah, USA (© Anthony Heflin/Shutterstock)*
 ||
 |||
-|2024-04-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DragonWaterfall_IT-IT3577761002_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonWaterfall_IT-IT3577761002_UHD.jpg)|
-||*Copyright: Vista aerea della cascata Churun-Meru (Dragon), Venezuela (© AirPano LLC/Amazing Aerial Agency)*
+|2024-04-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SunsetArchesNP_IT-IT3537789525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetArchesNP_IT-IT3537789525_UHD.jpg)|
+||*Copyright: Luce serale sulla North Window con il Turret Arch in lontananza, Parco Nazionale di Arches, Utah, USA (© Anthony Heflin/Shutterstock)*
 ||
 |||
-|2024-04-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.DragonWaterfall_ES-ES7444409826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonWaterfall_ES-ES7444409826_UHD.jpg)|
-||*Copyright: Vista aérea del salto Churún-Merú (Salto Dragón), Venezuela (© AirPano LLC/Amazing Aerial Agency)*
+|2024-04-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SunsetArchesNP_ES-ES7566145703_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetArchesNP_ES-ES7566145703_UHD.jpg)|
+||*Copyright: Luz del atardecer en el Parque Nacional de Arches, Utah, EE.UU. (© Anthony Heflin/Shutterstock)*
 ||
 |||
-|2024-04-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DragonWaterfall_FR-CA2237979317_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonWaterfall_FR-CA2237979317_UHD.jpg)|
-||*Copyright: Vue aérienne de la cascade de Churun-Meru, Venezuela (© AirPano LLC/Amazing Aerial Agency)*
+|2024-04-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SunsetArchesNP_FR-CA2562295831_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetArchesNP_FR-CA2562295831_UHD.jpg)|
+||*Copyright: Lumière du soir sur la North Window avec l'arche Turret en fond, Parc national des Arches, Utah, États-Unis (© Anthony Heflin/Shutterstock)*
 ||
 |||
 
