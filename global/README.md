@@ -6,9 +6,9 @@
 ||*Copyright: Apple trees in spring, Germany (© Smileus/Getty Images)*
 ||
 |||
-|2024-04-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ShibaZakura2024_JA-JP5037441018_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShibaZakura2024_JA-JP5037441018_UHD.jpg)|
-||*Copyright: 富士本栖湖リゾート, 山梨県 (© Torsakarin/Getty Images)*
+|2024-04-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BowlingBallCali_JA-JP1174732417_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BowlingBallCali_JA-JP1174732417_UHD.jpg)|
+||*Copyright: ボーリングボール・ビーチ, 米国 カリフォルニア州 (© Melo Qiao/Getty Images)*
 ||
 |||
 |2024-04-13|**Region: en-IN**||
