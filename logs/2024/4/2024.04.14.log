@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [11:25:46] Picture infomations saved to  global/fr-CA/README.md
 [11:25:46] Picture infomations saved to global/fr-CA/history/2024/04/15_fr-CA.md
 Program exit at 11:25:46
+
+Program started at 22:27:19
+Operating System Name: Linux
+Operating System Version: #17~22.04.1-Ubuntu SMP Sat Mar  9 04:50:38 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az841-540
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[22:27:19] Start geting CN Bing Wallpaper
+[22:27:19] Successful get url: https://www.bing.com/th?id=OHR.ChambordCastle_ZH-CN0930093515_UHD.jpg
+[22:27:19] Image saved to img/background.jpg
+[22:27:19] Info saved to README.md
+[22:27:19] Image saved to history/2024/04/15.md
+[22:27:19] Start geting global Bing Wallpaper, region=en-US, local time is 2024-04-14 18:27:19.790429-04:00
+[22:27:19] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_UHD.jpg
+[22:27:19] Picture infomations saved to  global/en-US/README.md
+[22:27:19] Picture infomations saved to global/en-US/history/2024/04/15_en-US.md
+[22:27:19] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-04-15 07:27:19.956560+09:00
+[22:27:20] Successful get url: https://www.bing.com/th?id=OHR.RedBallBelgium_JA-JP5377417723_UHD.jpg
+[22:27:20] Picture infomations saved to  global/ja-JP/README.md
+[22:27:20] Picture infomations saved to global/ja-JP/history/2024/04/15_ja-JP.md
+[22:27:20] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-04-15 03:57:20.127348+05:30
+[22:27:20] Successful get url: https://www.bing.com/th?id=OHR.RedBallBelgium_EN-IN8566227276_UHD.jpg
+[22:27:20] Picture infomations saved to  global/en-IN/README.md
+[22:27:20] Picture infomations saved to global/en-IN/history/2024/04/15_en-IN.md
+[22:27:20] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-04-14 19:27:20.326417-03:00
+[22:27:20] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_PT-BR6942653750_UHD.jpg
+[22:27:20] Picture infomations saved to  global/pt-BR/README.md
+[22:27:20] Picture infomations saved to global/pt-BR/history/2024/04/15_pt-BR.md
+[22:27:20] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-04-15 00:27:20.509817+02:00
+[22:27:20] Successful get url: https://www.bing.com/th?id=OHR.RedBallBelgium_FR-FR7736092564_UHD.jpg
+[22:27:20] Picture infomations saved to  global/fr-FR/README.md
+[22:27:20] Picture infomations saved to global/fr-FR/history/2024/04/15_fr-FR.md
+[22:27:20] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-04-15 00:27:20.684531+02:00
+[22:27:20] Successful get url: https://www.bing.com/th?id=OHR.RedBallBelgium_DE-DE7374714252_UHD.jpg
+[22:27:20] Picture infomations saved to  global/de-DE/README.md
+[22:27:20] Picture infomations saved to global/de-DE/history/2024/04/15_de-DE.md
+[22:27:20] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-04-14 18:27:20.844069-04:00
+[22:27:20] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_EN-CA4907440607_UHD.jpg
+[22:27:21] Picture infomations saved to  global/en-CA/README.md
+[22:27:21] Picture infomations saved to global/en-CA/history/2024/04/15_en-CA.md
+[22:27:21] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-04-14 23:27:21.008104+01:00
+[22:27:21] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_EN-GB8164059079_UHD.jpg
+[22:27:21] Picture infomations saved to  global/en-GB/README.md
+[22:27:21] Picture infomations saved to global/en-GB/history/2024/04/14_en-GB.md
+[22:27:21] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-04-15 00:27:21.195924+02:00
+[22:27:21] Successful get url: https://www.bing.com/th?id=OHR.RedBallBelgium_IT-IT3409084305_UHD.jpg
+[22:27:21] Picture infomations saved to  global/it-IT/README.md
+[22:27:21] Picture infomations saved to global/it-IT/history/2024/04/15_it-IT.md
+[22:27:21] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-04-15 00:27:21.362758+02:00
+[22:27:21] Successful get url: https://www.bing.com/th?id=OHR.RedBallBelgium_ES-ES8883654006_UHD.jpg
+[22:27:21] Picture infomations saved to  global/es-ES/README.md
+[22:27:21] Picture infomations saved to global/es-ES/history/2024/04/15_es-ES.md
+[22:27:21] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-04-14 18:27:21.527534-04:00
+[22:27:21] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_FR-CA3180115250_UHD.jpg
+[22:27:21] Picture infomations saved to  global/fr-CA/README.md
+[22:27:21] Picture infomations saved to global/fr-CA/history/2024/04/15_fr-CA.md
+Program exit at 22:27:21
