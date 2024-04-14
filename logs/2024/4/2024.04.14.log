@@ -1,0 +1,60 @@
+
+Program started at 11:25:44
+Operating System Name: Linux
+Operating System Version: #17~22.04.1-Ubuntu SMP Sat Mar  9 04:50:38 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az979-54
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[11:25:44] Start geting CN Bing Wallpaper
+[11:25:45] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_ZH-CN0434558966_UHD.jpg
+[11:25:45] Image saved to img/background.jpg
+[11:25:45] Info saved to README.md
+[11:25:45] Image saved to history/2024/04/14.md
+[11:25:45] Start geting global Bing Wallpaper, region=en-US, local time is 2024-04-14 07:25:45.086905-04:00
+[11:25:45] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_UHD.jpg
+[11:25:45] Picture infomations saved to  global/en-US/README.md
+[11:25:45] Picture infomations saved to global/en-US/history/2024/04/15_en-US.md
+[11:25:45] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-04-14 20:25:45.243798+09:00
+[11:25:45] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_JA-JP1174732417_UHD.jpg
+[11:25:45] Picture infomations saved to  global/ja-JP/README.md
+[11:25:45] Picture infomations saved to global/ja-JP/history/2024/04/14_ja-JP.md
+[11:25:45] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-04-14 16:55:45.419525+05:30
+[11:25:45] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_EN-IN9555671935_UHD.jpg
+[11:25:45] Picture infomations saved to  global/en-IN/README.md
+[11:25:45] Picture infomations saved to global/en-IN/history/2024/04/14_en-IN.md
+[11:25:45] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-04-14 08:25:45.588798-03:00
+[11:25:45] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_PT-BR6942653750_UHD.jpg
+[11:25:45] Picture infomations saved to  global/pt-BR/README.md
+[11:25:45] Picture infomations saved to global/pt-BR/history/2024/04/15_pt-BR.md
+[11:25:45] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-04-14 13:25:45.752053+02:00
+[11:25:45] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_FR-FR7572590133_UHD.jpg
+[11:25:45] Picture infomations saved to  global/fr-FR/README.md
+[11:25:45] Picture infomations saved to global/fr-FR/history/2024/04/14_fr-FR.md
+[11:25:45] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-04-14 13:25:45.902098+02:00
+[11:25:45] Successful get url: https://www.bing.com/th?id=OHR.WeenerPrimroses_DE-DE5775502209_UHD.jpg
+[11:25:46] Picture infomations saved to  global/de-DE/README.md
+[11:25:46] Picture infomations saved to global/de-DE/history/2024/04/14_de-DE.md
+[11:25:46] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-04-14 07:25:46.061621-04:00
+[11:25:46] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_EN-CA4907440607_UHD.jpg
+[11:25:46] Picture infomations saved to  global/en-CA/README.md
+[11:25:46] Picture infomations saved to global/en-CA/history/2024/04/15_en-CA.md
+[11:25:46] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-04-14 12:25:46.232576+01:00
+[11:25:46] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_EN-GB8164059079_UHD.jpg
+[11:25:46] Picture infomations saved to  global/en-GB/README.md
+[11:25:46] Picture infomations saved to global/en-GB/history/2024/04/14_en-GB.md
+[11:25:46] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-04-14 13:25:46.387381+02:00
+[11:25:46] Successful get url: https://www.bing.com/th?id=OHR.AloneSole_IT-IT3498476071_UHD.jpg
+[11:25:46] Picture infomations saved to  global/it-IT/README.md
+[11:25:46] Picture infomations saved to global/it-IT/history/2024/04/14_it-IT.md
+[11:25:46] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-04-14 13:25:46.537615+02:00
+[11:25:46] Successful get url: https://www.bing.com/th?id=OHR.FeriaDeSevilla_ES-ES8766768902_UHD.jpg
+[11:25:46] Picture infomations saved to  global/es-ES/README.md
+[11:25:46] Picture infomations saved to global/es-ES/history/2024/04/14_es-ES.md
+[11:25:46] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-04-14 07:25:46.694980-04:00
+[11:25:46] Successful get url: https://www.bing.com/th?id=OHR.BowlingBallCali_FR-CA3180115250_UHD.jpg
+[11:25:46] Picture infomations saved to  global/fr-CA/README.md
+[11:25:46] Picture infomations saved to global/fr-CA/history/2024/04/15_fr-CA.md
+Program exit at 11:25:46
