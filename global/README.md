@@ -6,9 +6,9 @@
 ||*Copyright: The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)*
 ||
 |||
-|2024-04-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RedBallBelgium_JA-JP5377417723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedBallBelgium_JA-JP5377417723_UHD.jpg)|
-||*Copyright: アントワープ中央駅, ベルギー (© Brit Worgan/Getty Images)*
+|2024-04-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.UnionSquareNYC_JA-JP5528212006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UnionSquareNYC_JA-JP5528212006_UHD.jpg)|
+||*Copyright: ユニオンスクエア, 米国 ニューヨーク (© Sean Pavone/Getty Images)*
 ||
 |||
 |2024-04-15|**Region: en-IN**||
