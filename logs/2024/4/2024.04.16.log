@@ -1,0 +1,60 @@
+
+Program started at 09:21:38
+Operating System Name: Linux
+Operating System Version: #17~22.04.1-Ubuntu SMP Sat Mar  9 04:50:38 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az985-19
+Processor Type: x86_64
+Python Version: 3.12.2
+Python Interpreter Name: CPython
+[09:21:38] Start geting CN Bing Wallpaper
+[09:21:38] Successful get url: https://www.bing.com/th?id=OHR.UnionSquareNYC_ZH-CN1533018653_UHD.jpg
+[09:21:38] Image saved to img/background.jpg
+[09:21:38] Info saved to README.md
+[09:21:38] Image saved to history/2024/04/16.md
+[09:21:38] Start geting global Bing Wallpaper, region=en-US, local time is 2024-04-16 05:21:38.664198-04:00
+[09:21:38] Successful get url: https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg
+[09:21:38] Picture infomations saved to  global/en-US/README.md
+[09:21:38] Picture infomations saved to global/en-US/history/2024/04/17_en-US.md
+[09:21:38] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-04-16 18:21:38.889710+09:00
+[09:21:38] Successful get url: https://www.bing.com/th?id=OHR.UnionSquareNYC_JA-JP5528212006_UHD.jpg
+[09:21:39] Picture infomations saved to  global/ja-JP/README.md
+[09:21:39] Picture infomations saved to global/ja-JP/history/2024/04/16_ja-JP.md
+[09:21:39] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-04-16 14:51:39.123030+05:30
+[09:21:39] Successful get url: https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-IN8922742719_UHD.jpg
+[09:21:39] Picture infomations saved to  global/en-IN/README.md
+[09:21:39] Picture infomations saved to global/en-IN/history/2024/04/16_en-IN.md
+[09:21:39] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-04-16 06:21:39.318231-03:00
+[09:21:39] Successful get url: https://www.bing.com/th?id=OHR.UnionSquareNYC_PT-BR7552214578_UHD.jpg
+[09:21:39] Picture infomations saved to  global/pt-BR/README.md
+[09:21:39] Picture infomations saved to global/pt-BR/history/2024/04/17_pt-BR.md
+[09:21:39] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-04-16 11:21:39.534158+02:00
+[09:21:39] Successful get url: https://www.bing.com/th?id=OHR.UnionSquareNYC_FR-FR8135739524_UHD.jpg
+[09:21:39] Picture infomations saved to  global/fr-FR/README.md
+[09:21:39] Picture infomations saved to global/fr-FR/history/2024/04/16_fr-FR.md
+[09:21:39] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-04-16 11:21:39.728095+02:00
+[09:21:39] Successful get url: https://www.bing.com/th?id=OHR.UnionSquareNYC_DE-DE5106138170_UHD.jpg
+[09:21:39] Picture infomations saved to  global/de-DE/README.md
+[09:21:39] Picture infomations saved to global/de-DE/history/2024/04/16_de-DE.md
+[09:21:39] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-04-16 05:21:39.920705-04:00
+[09:21:39] Successful get url: https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-CA5985691917_UHD.jpg
+[09:21:40] Picture infomations saved to  global/en-CA/README.md
+[09:21:40] Picture infomations saved to global/en-CA/history/2024/04/17_en-CA.md
+[09:21:40] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-04-16 10:21:40.130955+01:00
+[09:21:40] Successful get url: https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-GB2643158378_UHD.jpg
+[09:21:40] Picture infomations saved to  global/en-GB/README.md
+[09:21:40] Picture infomations saved to global/en-GB/history/2024/04/16_en-GB.md
+[09:21:40] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-04-16 11:21:40.331816+02:00
+[09:21:40] Successful get url: https://www.bing.com/th?id=OHR.UnionSquareNYC_IT-IT3337017060_UHD.jpg
+[09:21:40] Picture infomations saved to  global/it-IT/README.md
+[09:21:40] Picture infomations saved to global/it-IT/history/2024/04/16_it-IT.md
+[09:21:40] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-04-16 11:21:40.528896+02:00
+[09:21:40] Successful get url: https://www.bing.com/th?id=OHR.UnionSquareNYC_ES-ES8980958593_UHD.jpg
+[09:21:40] Picture infomations saved to  global/es-ES/README.md
+[09:21:40] Picture infomations saved to global/es-ES/history/2024/04/16_es-ES.md
+[09:21:40] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-04-16 05:21:40.728476-04:00
+[09:21:40] Successful get url: https://www.bing.com/th?id=OHR.UnionSquareNYC_FR-CA3734243880_UHD.jpg
+[09:21:40] Picture infomations saved to  global/fr-CA/README.md
+[09:21:40] Picture infomations saved to global/fr-CA/history/2024/04/17_fr-CA.md
+Program exit at 09:21:40

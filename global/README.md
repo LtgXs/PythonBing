@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-04-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_UHD.jpg)|
-||*Copyright: The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)*
+|2024-04-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg)|
+||*Copyright: Union Square in lower Manhattan at twilight, New York (© Sean Pavone/Getty Images)*
 ||
 |||
 |2024-04-16|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ユニオンスクエア, 米国 ニューヨーク (© Sean Pavone/Getty Images)*
 ||
 |||
-|2024-04-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-IN8566227276_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-IN8566227276_UHD.jpg)|
-||*Copyright: The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)*
+|2024-04-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-IN8922742719_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-IN8922742719_UHD.jpg)|
+||*Copyright: Union Square in lower Manhattan at twilight, New York (© Sean Pavone/Getty Images)*
 ||
 |||
-|2024-04-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.RedBallBelgium_PT-BR7344009835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedBallBelgium_PT-BR7344009835_UHD.jpg)|
-||*Copyright: Instalação artística do 'RedBall Project', Estação Central, Antuérpia, Bélgica (© Brit Worgan/Getty Images)*
+|2024-04-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.UnionSquareNYC_PT-BR7552214578_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UnionSquareNYC_PT-BR7552214578_UHD.jpg)|
+||*Copyright: 'Union Square' em Manhattan no crepúsculo, Nova York, EUA (© Sean Pavone/Getty Images)*
 ||
 |||
-|2024-04-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.RedBallBelgium_FR-FR7736092564_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedBallBelgium_FR-FR7736092564_UHD.jpg)|
-||*Copyright: Le RedBall Project, œuvre d’art itinérante, Gare centrale, Anvers, Belgique (© Brit Worgan/Getty Images)*
+|2024-04-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.UnionSquareNYC_FR-FR8135739524_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UnionSquareNYC_FR-FR8135739524_UHD.jpg)|
+||*Copyright: Union Square dans le sud de Manhattan au crépuscule, New York, États-Unis (© Sean Pavone/Getty Images)*
 ||
 |||
-|2024-04-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.RedBallBelgium_DE-DE7374714252_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedBallBelgium_DE-DE7374714252_UHD.jpg)|
-||*Copyright: Die Kunstinstallation RedBall Project, Bahnhof Antwerpen-Centraal, Belgien (© Brit Worgan/Getty Images)*
+|2024-04-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.UnionSquareNYC_DE-DE5106138170_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UnionSquareNYC_DE-DE5106138170_UHD.jpg)|
+||*Copyright: Union Square in Lower Manhattan, New York City, USA (© Sean Pavone/Getty Images)*
 ||
 |||
-|2024-04-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-CA5507673869_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-CA5507673869_UHD.jpg)|
-||*Copyright: The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)*
+|2024-04-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-CA5985691917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-CA5985691917_UHD.jpg)|
+||*Copyright: Union Square in lower Manhattan at twilight, New York (© Sean Pavone/Getty Images)*
 ||
 |||
-|2024-04-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-GB2394850317_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-GB2394850317_UHD.jpg)|
-||*Copyright: The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)*
+|2024-04-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-GB2643158378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-GB2643158378_UHD.jpg)|
+||*Copyright: Union Square in Lower Manhattan, New York, USA (© Sean Pavone/Getty Images)*
 ||
 |||
-|2024-04-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.RedBallBelgium_IT-IT3409084305_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedBallBelgium_IT-IT3409084305_UHD.jpg)|
-||*Copyright: Installazione artistica del RedBall Project, Stazione Centrale di Anversa, Belgio (© Brit Worgan/Getty Images)*
+|2024-04-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.UnionSquareNYC_IT-IT3337017060_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UnionSquareNYC_IT-IT3337017060_UHD.jpg)|
+||*Copyright: Union Square a Lower Manhattan al crepuscolo, New York, USA (© Sean Pavone/Getty Images)*
 ||
 |||
-|2024-04-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.RedBallBelgium_ES-ES8883654006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedBallBelgium_ES-ES8883654006_UHD.jpg)|
-||*Copyright: Instalación artística Proyecto RedBall, Estación Central, Amberes, Bélgica (© Brit Worgan/Getty Images)*
+|2024-04-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.UnionSquareNYC_ES-ES8980958593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UnionSquareNYC_ES-ES8980958593_UHD.jpg)|
+||*Copyright: Union Square en el Bajo Manhattan al atardecer, Nueva York, EE.UU. (© Sean Pavone/Getty Images)*
 ||
 |||
-|2024-04-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.RedBallBelgium_FR-CA3335673645_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedBallBelgium_FR-CA3335673645_UHD.jpg)|
-||*Copyright: Le RedBall Project, œuvre d’art itinérante, Gare centrale, Anvers, Belgique (© Brit Worgan/Getty Images)*
+|2024-04-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.UnionSquareNYC_FR-CA3734243880_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UnionSquareNYC_FR-CA3734243880_UHD.jpg)|
+||*Copyright: Union Square dans le sud de Manhattan au crépuscule, New York, États-Unis (© Sean Pavone/Getty Images)*
 ||
 |||
 
