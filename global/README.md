@@ -6,9 +6,9 @@
 ||*Copyright: American black bear cub in spring, Shenandoah National Park, Virginia (© Scott Suriano/Getty Images)*
 ||
 |||
-|2024-04-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SpringCub_JA-JP5808009798_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringCub_JA-JP5808009798_UHD.jpg)|
-||*Copyright: シェナンドー国立公園, 米国 バージニア州 (© Scott Suriano/Getty Images)*
+|2024-04-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AvilaSpain_JA-JP6005661298_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvilaSpain_JA-JP6005661298_UHD.jpg)|
+||*Copyright: アビラの城壁, スペイン (© Alberto Loyo/Getty Images)*
 ||
 |||
 |2024-04-17|**Region: en-IN**||
