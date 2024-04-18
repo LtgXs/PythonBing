@@ -1,0 +1,60 @@
+
+Program started at 09:22:27
+Operating System Name: Linux
+Operating System Version: #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az566-74
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[09:22:27] Start geting CN Bing Wallpaper
+[09:22:27] Successful get url: https://www.bing.com/th?id=OHR.AvilaSpain_ZH-CN1792280503_UHD.jpg
+[09:22:27] Image saved to img/background.jpg
+[09:22:27] Info saved to README.md
+[09:22:27] Image saved to history/2024/04/18.md
+[09:22:27] Start geting global Bing Wallpaper, region=en-US, local time is 2024-04-18 05:22:27.870674-04:00
+[09:22:27] Successful get url: https://www.bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg
+[09:22:28] Picture infomations saved to  global/en-US/README.md
+[09:22:28] Picture infomations saved to global/en-US/history/2024/04/19_en-US.md
+[09:22:28] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-04-18 18:22:28.094848+09:00
+[09:22:28] Successful get url: https://www.bing.com/th?id=OHR.AvilaSpain_JA-JP6005661298_UHD.jpg
+[09:22:28] Picture infomations saved to  global/ja-JP/README.md
+[09:22:28] Picture infomations saved to global/ja-JP/history/2024/04/18_ja-JP.md
+[09:22:28] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-04-18 14:52:28.313622+05:30
+[09:22:28] Successful get url: https://www.bing.com/th?id=OHR.AvilaSpain_EN-IN0356835550_UHD.jpg
+[09:22:28] Picture infomations saved to  global/en-IN/README.md
+[09:22:28] Picture infomations saved to global/en-IN/history/2024/04/18_en-IN.md
+[09:22:28] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-04-18 06:22:28.520628-03:00
+[09:22:28] Successful get url: https://www.bing.com/th?id=OHR.AvilaSpain_PT-BR7974063608_UHD.jpg
+[09:22:28] Picture infomations saved to  global/pt-BR/README.md
+[09:22:28] Picture infomations saved to global/pt-BR/history/2024/04/19_pt-BR.md
+[09:22:28] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-04-18 11:22:28.742198+02:00
+[09:22:28] Successful get url: https://www.bing.com/th?id=OHR.MonumentsDay_FR-FR8787138664_UHD.jpg
+[09:22:28] Picture infomations saved to  global/fr-FR/README.md
+[09:22:28] Picture infomations saved to global/fr-FR/history/2024/04/18_fr-FR.md
+[09:22:28] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-04-18 11:22:28.986710+02:00
+[09:22:29] Successful get url: https://www.bing.com/th?id=OHR.AvilaSpain_DE-DE5639007447_UHD.jpg
+[09:22:29] Picture infomations saved to  global/de-DE/README.md
+[09:22:29] Picture infomations saved to global/de-DE/history/2024/04/18_de-DE.md
+[09:22:29] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-04-18 05:22:29.187543-04:00
+[09:22:29] Successful get url: https://www.bing.com/th?id=OHR.AvilaSpain_EN-CA7098844997_UHD.jpg
+[09:22:29] Picture infomations saved to  global/en-CA/README.md
+[09:22:29] Picture infomations saved to global/en-CA/history/2024/04/19_en-CA.md
+[09:22:29] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-04-18 10:22:29.403485+01:00
+[09:22:29] Successful get url: https://www.bing.com/th?id=OHR.AvilaSpain_EN-GB3098487745_UHD.jpg
+[09:22:29] Picture infomations saved to  global/en-GB/README.md
+[09:22:29] Picture infomations saved to global/en-GB/history/2024/04/18_en-GB.md
+[09:22:29] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-04-18 11:22:29.642803+02:00
+[09:22:29] Successful get url: https://www.bing.com/th?id=OHR.AvilaSpain_IT-IT3101409748_UHD.jpg
+[09:22:29] Picture infomations saved to  global/it-IT/README.md
+[09:22:29] Picture infomations saved to global/it-IT/history/2024/04/18_it-IT.md
+[09:22:29] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-04-18 11:22:29.842733+02:00
+[09:22:29] Successful get url: https://www.bing.com/th?id=OHR.AvilaSpain_ES-ES9451845380_UHD.jpg
+[09:22:30] Picture infomations saved to  global/es-ES/README.md
+[09:22:30] Picture infomations saved to global/es-ES/history/2024/04/18_es-ES.md
+[09:22:30] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-04-18 05:22:30.068481-04:00
+[09:22:30] Successful get url: https://www.bing.com/th?id=OHR.AvilaSpain_FR-CA4092310846_UHD.jpg
+[09:22:30] Picture infomations saved to  global/fr-CA/README.md
+[09:22:30] Picture infomations saved to global/fr-CA/history/2024/04/19_fr-CA.md
+Program exit at 09:22:30
