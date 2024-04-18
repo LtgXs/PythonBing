@@ -6,9 +6,9 @@
 ||*Copyright: Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)*
 ||
 |||
-|2024-04-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AvilaSpain_JA-JP6005661298_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvilaSpain_JA-JP6005661298_UHD.jpg)|
-||*Copyright: アビラの城壁, スペイン (© Alberto Loyo/Getty Images)*
+|2024-04-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OrkneyStones_JA-JP3906042620_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrkneyStones_JA-JP3906042620_UHD.jpg)|
+||*Copyright: リング・オブ・ブロッガー, スコットランド (© Paul Williams - FunkyStock/Getty Images)*
 ||
 |||
 |2024-04-18|**Region: en-IN**||
