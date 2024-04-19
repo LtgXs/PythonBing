@@ -6,9 +6,9 @@
 ||*Copyright: The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)*
 ||
 |||
-|2024-04-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OrkneyStones_JA-JP3906042620_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrkneyStones_JA-JP3906042620_UHD.jpg)|
-||*Copyright: リング・オブ・ブロッガー, スコットランド (© Paul Williams - FunkyStock/Getty Images)*
+|2024-04-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneGeyser_JA-JP4045047908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneGeyser_JA-JP4045047908_UHD.jpg)|
+||*Copyright: イエローストーン国立公園の熱水泉, 米国 ワイオミング州 (© XIN WANG/Getty Images)*
 ||
 |||
 |2024-04-19|**Region: en-IN**||
