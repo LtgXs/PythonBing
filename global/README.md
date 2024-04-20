@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-04-20|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg)|
-||*Copyright: The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)*
+|2024-04-21|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg)|
+||*Copyright: Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)*
 ||
 |||
 |2024-04-20|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: イエローストーン国立公園の熱水泉, 米国 ワイオミング州 (© XIN WANG/Getty Images)*
 ||
 |||
-|2024-04-19|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.OrkneyStones_EN-IN7374836671_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrkneyStones_EN-IN7374836671_UHD.jpg)|
-||*Copyright: The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)*
+|2024-04-20|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneGeyser_EN-IN7850427265_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneGeyser_EN-IN7850427265_UHD.jpg)|
+||*Copyright: Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)*
 ||
 |||
-|2024-04-20|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PovoIndigena_PT-BR1924645253_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PovoIndigena_PT-BR1924645253_UHD.jpg)|
-||*Copyright: Mural de Eduardo Kobra ‘Povos Nativos dos 5 continentes’ (© Donatas Dabravolskas/Alamy)*
+|2024-04-21|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneGeyser_PT-BR2303534903_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneGeyser_PT-BR2303534903_UHD.jpg)|
+||*Copyright: Grande Fonte Prismática ao amanhecer, Parque Nacional de Yellowstone, Wyoming (EUA) (© XIN WANG/Getty Images)*
 ||
 |||
-|2024-04-19|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.OrkneyStones_FR-FR1638921700_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrkneyStones_FR-FR1638921700_UHD.jpg)|
-||*Copyright: Le cercle de Brodgar, Orcades, Écosse (© Paul Williams - FunkyStock/Getty Images)*
+|2024-04-20|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneGeyser_FR-FR1968699876_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneGeyser_FR-FR1968699876_UHD.jpg)|
+||*Copyright: Le Grand Prismatic Spring au lever du soleil, parc national de Yellowstone, Wyoming, États-Unis (© XIN WANG/Getty Images)*
 ||
 |||
-|2024-04-19|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.OrkneyStones_DE-DE4276550885_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrkneyStones_DE-DE4276550885_UHD.jpg)|
-||*Copyright: Der Ring von Brodgar, Orkney, Schottland (© Paul Williams - FunkyStock/Getty Images)*
+|2024-04-20|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneGeyser_DE-DE4718129608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneGeyser_DE-DE4718129608_UHD.jpg)|
+||*Copyright: Grand Prismatic Spring bei Sonnenaufgang, Yellowstone-Nationalpark, Wyoming, USA (© XIN WANG/Getty Images)*
 ||
 |||
-|2024-04-20|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.OrkneyStones_EN-CA6136487173_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrkneyStones_EN-CA6136487173_UHD.jpg)|
-||*Copyright: The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)*
+|2024-04-21|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneGeyser_EN-CA9905041975_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneGeyser_EN-CA9905041975_UHD.jpg)|
+||*Copyright: Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)*
 ||
 |||
-|2024-04-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.OrkneyStones_EN-GB3162909571_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrkneyStones_EN-GB3162909571_UHD.jpg)|
-||*Copyright: The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)*
+|2024-04-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneGeyser_EN-GB3387198827_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneGeyser_EN-GB3387198827_UHD.jpg)|
+||*Copyright: Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming, USA (© XIN WANG/Getty Images)*
 ||
 |||
-|2024-04-19|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PerugiaPriori_IT-IT0077173597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerugiaPriori_IT-IT0077173597_UHD.jpg)|
-||*Copyright: Palazzo dei Priori, Perugia, Italia (© Photo Beto/Getty Images)*
+|2024-04-20|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneGeyser_IT-IT0943670017_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneGeyser_IT-IT0943670017_UHD.jpg)|
+||*Copyright: La Grande Sorgente Prismatica all’alba, Parco Nazionale di Yellowstone, Wyoming, Stati Uniti (© XIN WANG/Getty Images)*
 ||
 |||
-|2024-04-19|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.OrkneyStones_ES-ES1176985734_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrkneyStones_ES-ES1176985734_UHD.jpg)|
-||*Copyright: El Anillo de Brodgar, Orcadas, Escocia (© Paul Williams - FunkyStock/Getty Images)*
+|2024-04-20|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneGeyser_ES-ES1324165406_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneGeyser_ES-ES1324165406_UHD.jpg)|
+||*Copyright: Gran Fuente Prismática al amanecer, Parque Nacional de Yellowstone, Wyoming, EE.UU. (© XIN WANG/Getty Images)*
 ||
 |||
-|2024-04-20|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.OrkneyStones_FR-CA2648833702_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrkneyStones_FR-CA2648833702_UHD.jpg)|
-||*Copyright: Le cercle de Brodgar, Orcades, Écosse (© Paul Williams - FunkyStock/Getty Images)*
+|2024-04-21|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneGeyser_FR-CA2850692513_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneGeyser_FR-CA2850692513_UHD.jpg)|
+||*Copyright: Le Grand Prismatic Spring au lever du soleil, parc national de Yellowstone, Wyoming, États-Unis (© XIN WANG/Getty Images)*
 ||
 |||
 
