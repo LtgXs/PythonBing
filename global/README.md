@@ -6,9 +6,9 @@
 ||*Copyright: Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)*
 ||
 |||
-|2024-04-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CadesCove_JA-JP4163759564_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadesCove_JA-JP4163759564_UHD.jpg)|
-||*Copyright: グレート・スモーキー山脈国立公園, 米国 テネシー州 (© Richard Bernabe/Shutterstock)*
+|2024-04-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.EarthDayTurtle_JA-JP4280227627_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EarthDayTurtle_JA-JP4280227627_UHD.jpg)|
+||*Copyright: アオウミガメ, 米国 カリフォルニア州 サンディエゴ (© Ralph Pace/Minden Pictures)*
 ||
 |||
 |2024-04-21|**Region: en-IN**||
