@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-04-22|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg)|
-||*Copyright: Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)*
+|2024-04-23|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg)|
+||*Copyright: Green sea turtle, San Diego, California (© Ralph Pace/Minden Pictures)*
 ||
 |||
 |2024-04-22|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アオウミガメ, 米国 カリフォルニア州 サンディエゴ (© Ralph Pace/Minden Pictures)*
 ||
 |||
-|2024-04-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CadesCove_EN-IN8065236190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadesCove_EN-IN8065236190_UHD.jpg)|
-||*Copyright: Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)*
+|2024-04-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-IN8345337323_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-IN8345337323_UHD.jpg)|
+||*Copyright: Green sea turtle, San Diego, California (© Ralph Pace/Minden Pictures)*
 ||
 |||
-|2024-04-22|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CadesCove_PT-BR2584359483_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadesCove_PT-BR2584359483_UHD.jpg)|
-||*Copyright: Sparks Lane em Cades Cove, Parque Nacional das Grandes Montanhas Fumegantes, Tennessee, EUA (© Richard Bernabe/Shutterstock)*
+|2024-04-23|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.EarthDayTurtle_PT-BR2849722316_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EarthDayTurtle_PT-BR2849722316_UHD.jpg)|
+||*Copyright: Tartaruga-verde, San Diego, Califórnia, EUA (© Ralph Pace/Minden Pictures)*
 ||
 |||
-|2024-04-21|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ChauseyIslands_FR-FR2335923449_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChauseyIslands_FR-FR2335923449_UHD.jpg)|
-||*Copyright: Îles Chausey, Normandie, France (© Tuul & Bruno Morandi/Getty Images)*
+|2024-04-22|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.EarthDayTurtle_FR-FR6121121892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EarthDayTurtle_FR-FR6121121892_UHD.jpg)|
+||*Copyright: Tortue verte, San Diego, Californie, États-Unis (© Ralph Pace/Minden Pictures)*
 ||
 |||
-|2024-04-21|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CologneFlowerBed_DE-DE3966467653_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CologneFlowerBed_DE-DE3966467653_UHD.jpg)|
-||*Copyright: Blumenbeete mit Tulpen und anderen Frühlingsblumen im Rheinpark, Köln (© Elisabeth Schittenhelm/Getty Images)*
+|2024-04-22|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.EarthDayTurtle_DE-DE6584075378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EarthDayTurtle_DE-DE6584075378_UHD.jpg)|
+||*Copyright: Grüne Meeresschildkröte, San Diego, Kalifornien, USA (© Ralph Pace/Minden Pictures)*
 ||
 |||
-|2024-04-22|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CadesCove_EN-CA1410633031_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadesCove_EN-CA1410633031_UHD.jpg)|
-||*Copyright: Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)*
+|2024-04-23|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-CA2152023096_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-CA2152023096_UHD.jpg)|
+||*Copyright: Green sea turtle, San Diego, California (© Ralph Pace/Minden Pictures)*
 ||
 |||
-|2024-04-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LondonMarathon2017_EN-GB9757388511_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LondonMarathon2017_EN-GB9757388511_UHD.jpg)|
-||*Copyright: London Marathon in London on April 23, 2017 (© CHRIS J RATCLIFFE/Stringer/AFP/Getty Images)*
+|2024-04-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-GB3948660559_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-GB3948660559_UHD.jpg)|
+||*Copyright: Green sea turtle, San Diego, California, USA (© Ralph Pace/Minden Pictures)*
 ||
 |||
-|2024-04-21|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CadesCove_IT-IT3109778366_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadesCove_IT-IT3109778366_UHD.jpg)|
-||*Copyright: Vicolo delle scintille a Cades Cove, Parco Nazionale delle montagne Great Smoky,Tennessee, Stati Uniti (© Richard Bernabe/Shutterstock)*
+|2024-04-22|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.EarthDayTurtle_IT-IT4132854501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EarthDayTurtle_IT-IT4132854501_UHD.jpg)|
+||*Copyright: Un esemplare di tartaruga verde, San Diego, California, Stati Uniti (© Ralph Pace/Minden Pictures)*
 ||
 |||
-|2024-04-21|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CadesCove_ES-ES1523935320_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadesCove_ES-ES1523935320_UHD.jpg)|
-||*Copyright: Sparks Lane en Cades Cove, Parque Nacional de las Grandes Montañas Humeantes, Tennessee, EE.UU. (© Richard Bernabe/Shutterstock)*
+|2024-04-22|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.EarthDayTurtle_ES-ES1732756969_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EarthDayTurtle_ES-ES1732756969_UHD.jpg)|
+||*Copyright: Tortuga verde marina, San Diego, California, EE.UU. (© Ralph Pace/Minden Pictures)*
 ||
 |||
-|2024-04-22|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CadesCove_FR-CA3331686496_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadesCove_FR-CA3331686496_UHD.jpg)|
-||*Copyright: Sparks Lane à Cades Cove, Parc national des Great Smoky Mountains, Tennessee, États-Unis (© Richard Bernabe/Shutterstock)*
+|2024-04-23|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.EarthDayTurtle_FR-CA3475454635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EarthDayTurtle_FR-CA3475454635_UHD.jpg)|
+||*Copyright: Tortue verte, San Diego, Californie, États-Unis (© Ralph Pace/Minden Pictures)*
 ||
 |||
 
