@@ -6,9 +6,9 @@
 ||*Copyright: Green sea turtle, San Diego, California (© Ralph Pace/Minden Pictures)*
 ||
 |||
-|2024-04-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EarthDayTurtle_JA-JP4280227627_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EarthDayTurtle_JA-JP4280227627_UHD.jpg)|
-||*Copyright: アオウミガメ, 米国 カリフォルニア州 サンディエゴ (© Ralph Pace/Minden Pictures)*
+|2024-04-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TrinityDublin_JA-JP4414218998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrinityDublin_JA-JP4414218998_UHD.jpg)|
+||*Copyright: トリニティ・カレッジ図書館, アイルランド (© Lukas Bischoff/Getty Images)*
 ||
 |||
 |2024-04-22|**Region: en-IN**||
