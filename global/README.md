@@ -6,9 +6,9 @@
 ||*Copyright: Library of Trinity College Dublin, Ireland (© Lukas Bischoff/Getty Images)*
 ||
 |||
-|2024-04-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TrinityDublin_JA-JP4414218998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrinityDublin_JA-JP4414218998_UHD.jpg)|
-||*Copyright: トリニティ・カレッジ図書館, アイルランド (© Lukas Bischoff/Getty Images)*
+|2024-04-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TrilliumOntario_JA-JP4524267784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrilliumOntario_JA-JP4524267784_UHD.jpg)|
+||*Copyright: 北米のエンレイソウ, カナダ オンタリオ州 (© Jun Zhang/Getty Images)*
 ||
 |||
 |2024-04-23|**Region: en-IN**||
