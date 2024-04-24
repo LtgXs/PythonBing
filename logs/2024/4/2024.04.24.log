@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:22:31] Picture infomations saved to  global/fr-CA/README.md
 [09:22:31] Picture infomations saved to global/fr-CA/history/2024/04/25_fr-CA.md
 Program exit at 09:22:31
+
+Program started at 16:11:18
+Operating System Name: Linux
+Operating System Version: #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az802-767
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[16:11:18] Start geting CN Bing Wallpaper
+[16:11:18] Successful get url: https://www.bing.com/th?id=OHR.PenguinDirections_ZH-CN8498684753_UHD.jpg
+[16:11:18] Image saved to img/background.jpg
+[16:11:18] Info saved to README.md
+[16:11:18] Image saved to history/2024/04/25.md
+[16:11:18] Start geting global Bing Wallpaper, region=en-US, local time is 2024-04-24 12:11:18.677572-04:00
+[16:11:18] Successful get url: https://www.bing.com/th?id=OHR.TrilliumOntario_EN-US5180679465_UHD.jpg
+[16:11:18] Picture infomations saved to  global/en-US/README.md
+[16:11:18] Picture infomations saved to global/en-US/history/2024/04/25_en-US.md
+[16:11:18] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-04-25 01:11:18.925399+09:00
+[16:11:19] Successful get url: https://www.bing.com/th?id=OHR.PenguinDirections_JA-JP4629543570_UHD.jpg
+[16:11:19] Picture infomations saved to  global/ja-JP/README.md
+[16:11:19] Picture infomations saved to global/ja-JP/history/2024/04/25_ja-JP.md
+[16:11:19] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-04-24 21:41:19.292782+05:30
+[16:11:19] Successful get url: https://www.bing.com/th?id=OHR.TrilliumOntario_EN-IN9010046711_UHD.jpg
+[16:11:19] Picture infomations saved to  global/en-IN/README.md
+[16:11:19] Picture infomations saved to global/en-IN/history/2024/04/24_en-IN.md
+[16:11:19] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-04-24 13:11:19.505362-03:00
+[16:11:19] Successful get url: https://www.bing.com/th?id=OHR.TrilliumOntario_PT-BR3357394159_UHD.jpg
+[16:11:19] Picture infomations saved to  global/pt-BR/README.md
+[16:11:19] Picture infomations saved to global/pt-BR/history/2024/04/25_pt-BR.md
+[16:11:19] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-04-24 18:11:19.954549+02:00
+[16:11:20] Successful get url: https://www.bing.com/th?id=OHR.TrilliumOntario_FR-FR7322477820_UHD.jpg
+[16:11:20] Picture infomations saved to  global/fr-FR/README.md
+[16:11:20] Picture infomations saved to global/fr-FR/history/2024/04/24_fr-FR.md
+[16:11:20] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-04-24 18:11:20.316762+02:00
+[16:11:20] Successful get url: https://www.bing.com/th?id=OHR.TrilliumOntario_DE-DE6034423661_UHD.jpg
+[16:11:20] Picture infomations saved to  global/de-DE/README.md
+[16:11:20] Picture infomations saved to global/de-DE/history/2024/04/24_de-DE.md
+[16:11:20] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-04-24 12:11:20.511946-04:00
+[16:11:20] Successful get url: https://www.bing.com/th?id=OHR.TrilliumOntario_EN-CA6497010654_UHD.jpg
+[16:11:20] Picture infomations saved to  global/en-CA/README.md
+[16:11:20] Picture infomations saved to global/en-CA/history/2024/04/25_en-CA.md
+[16:11:20] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-04-24 17:11:20.723043+01:00
+[16:11:20] Successful get url: https://www.bing.com/th?id=OHR.TrilliumOntario_EN-GB4411437530_UHD.jpg
+[16:11:21] Picture infomations saved to  global/en-GB/README.md
+[16:11:21] Picture infomations saved to global/en-GB/history/2024/04/24_en-GB.md
+[16:11:21] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-04-24 18:11:21.083500+02:00
+[16:11:21] Successful get url: https://www.bing.com/th?id=OHR.TrilliumOntario_IT-IT6051725546_UHD.jpg
+[16:11:21] Picture infomations saved to  global/it-IT/README.md
+[16:11:21] Picture infomations saved to global/it-IT/history/2024/04/24_it-IT.md
+[16:11:21] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-04-24 18:11:21.525576+02:00
+[16:11:21] Successful get url: https://www.bing.com/th?id=OHR.TrilliumOntario_ES-ES4860531409_UHD.jpg
+[16:11:21] Picture infomations saved to  global/es-ES/README.md
+[16:11:21] Picture infomations saved to global/es-ES/history/2024/04/24_es-ES.md
+[16:11:21] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-04-24 12:11:21.766722-04:00
+[16:11:21] Successful get url: https://www.bing.com/th?id=OHR.TrilliumOntario_FR-CA4403342038_UHD.jpg
+[16:11:22] Picture infomations saved to  global/fr-CA/README.md
+[16:11:22] Picture infomations saved to global/fr-CA/history/2024/04/25_fr-CA.md
+Program exit at 16:11:22

@@ -6,9 +6,9 @@
 ||*Copyright: White trilliums blooming in Ontario, Canada (© Jun Zhang/Getty Images)*
 ||
 |||
-|2024-04-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TrilliumOntario_JA-JP4524267784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrilliumOntario_JA-JP4524267784_UHD.jpg)|
-||*Copyright: 北米のエンレイソウ, カナダ オンタリオ州 (© Jun Zhang/Getty Images)*
+|2024-04-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PenguinDirections_JA-JP4629543570_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinDirections_JA-JP4629543570_UHD.jpg)|
+||*Copyright: 氷山の上に立つアデリーペンギン, 南極大陸 (© Patrick J. Endres/Getty Images)*
 ||
 |||
 |2024-04-24|**Region: en-IN**||
