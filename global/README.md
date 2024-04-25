@@ -6,9 +6,9 @@
 ||*Copyright: Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)*
 ||
 |||
-|2024-04-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PenguinDirections_JA-JP4629543570_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinDirections_JA-JP4629543570_UHD.jpg)|
-||*Copyright: 氷山の上に立つアデリーペンギン, 南極大陸 (© Patrick J. Endres/Getty Images)*
+|2024-04-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KalalochTree_JA-JP4733041534_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KalalochTree_JA-JP4733041534_UHD.jpg)|
+||*Copyright: オリンピック国立公園にある不思議な木, 米国 ワシントン州 (© Abbie Warnock-Matthews/Shutterstock)*
 ||
 |||
 |2024-04-25|**Region: en-IN**||
