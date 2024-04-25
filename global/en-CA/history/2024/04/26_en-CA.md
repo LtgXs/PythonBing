@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2024-04-26
+## History Bing Wallpaper
+Wallpaper date: 2024-04-26
 ![](https://www.bing.com/th?id=OHR.PenguinDirections_EN-CA6223375339_UHD.jpg&w=1000)Download: [Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)](https://www.bing.com/th?id=OHR.PenguinDirections_EN-CA6223375339_UHD.jpg)
 
 Auto get programm by LtgX
