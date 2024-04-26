@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-04-26|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PenguinDirections_EN-US5469437415_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinDirections_EN-US5469437415_UHD.jpg)|
-||*Copyright: Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)*
+|2024-04-27|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.KalalochTree_EN-US5565386489_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KalalochTree_EN-US5565386489_UHD.jpg)|
+||*Copyright: Tree of Life, Kalaloch Beach, Olympic National Park, Washington (© Abbie Warnock-Matthews/Shutterstock)*
 ||
 |||
 |2024-04-26|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: オリンピック国立公園にある不思議な木, 米国 ワシントン州 (© Abbie Warnock-Matthews/Shutterstock)*
 ||
 |||
-|2024-04-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PenguinDirections_EN-IN9440987055_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinDirections_EN-IN9440987055_UHD.jpg)|
-||*Copyright: Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)*
+|2024-04-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MangroveIslands_EN-IN9832664879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveIslands_EN-IN9832664879_UHD.jpg)|
+||*Copyright: Aerial view of mangrove islands near Kundapura, Karnataka (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2024-04-26|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PenguinDirections_PT-BR3690073340_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinDirections_PT-BR3690073340_UHD.jpg)|
-||*Copyright: Pinguins-de-Adélia em um iceberg, Antártica (© Patrick J. Endres/Getty Images)*
+|2024-04-27|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.KalalochTree_PT-BR4023725758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KalalochTree_PT-BR4023725758_UHD.jpg)|
+||*Copyright: Árvore de Kalaloch, conhecida como a árvore da vida, Praia de Kalaloch, Parque Nacional Olímpico, Washington, EUA (© Abbie Warnock-Matthews/Shutterstock)*
 ||
 |||
-|2024-04-25|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PenguinDirections_FR-FR7724304898_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinDirections_FR-FR7724304898_UHD.jpg)|
-||*Copyright: Manchots Adélie sur un iceberg, Antarctique (© Patrick J. Endres/Getty Images)*
+|2024-04-26|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.KalalochTree_FR-FR8329014212_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KalalochTree_FR-FR8329014212_UHD.jpg)|
+||*Copyright: Arbre de Kalaloch, alias l'arbre de vie, plage de Kalaloch, parc national olympique, Washington, États-Unis (© Abbie Warnock-Matthews/Shutterstock)*
 ||
 |||
-|2024-04-25|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.KalalochTree_DE-DE1811180664_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KalalochTree_DE-DE1811180664_UHD.jpg)|
-||*Copyright: Kalaloch Tree, Kalaloch, Olympic-Nationalpark, Washington, USA (© Abbie Warnock-Matthews/Shutterstock)*
+|2024-04-26|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PenguinDirections_DE-DE2082660344_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinDirections_DE-DE2082660344_UHD.jpg)|
+||*Copyright: Adeliepinguine auf einem Eisberg, Antarktis (© Patrick J. Endres/Getty Images)*
 ||
 |||
-|2024-04-26|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PenguinDirections_EN-CA6223375339_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinDirections_EN-CA6223375339_UHD.jpg)|
-||*Copyright: Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)*
+|2024-04-27|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ValDiFunes_EN-CA4828083931_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValDiFunes_EN-CA4828083931_UHD.jpg)|
+||*Copyright: Villnöß with the Dolomites in the background, South Tyrol, Italy (© Achim Thomae/Getty Images)*
 ||
 |||
-|2024-04-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PenguinDirections_EN-GB4668084701_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinDirections_EN-GB4668084701_UHD.jpg)|
-||*Copyright: Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)*
+|2024-04-26|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.KalalochTree_EN-GB4909909836_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KalalochTree_EN-GB4909909836_UHD.jpg)|
+||*Copyright: Kalaloch Tree, aka the tree of life, Kalaloch Beach, Olympic National Park, Washington, USA (© Abbie Warnock-Matthews/Shutterstock)*
 ||
 |||
-|2024-04-25|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LiberationOfItaly_IT-IT5702803658_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LiberationOfItaly_IT-IT5702803658_UHD.jpg)|
-||*Copyright: Frecce Tricolori in volo, Giornata della Liberazione, Roma (© Marie-Laure Messana/Getty Images)*
+|2024-04-26|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.KalalochTree_IT-IT7011475645_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KalalochTree_IT-IT7011475645_UHD.jpg)|
+||*Copyright: Albero di Kalaloch, alias l'albero della vita, Kalaloch Beach, Parco Nazionale di Olympic, Washington, Stati Uniti (© Abbie Warnock-Matthews/Shutterstock)*
 ||
 |||
-|2024-04-25|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PenguinDirections_ES-ES2470115547_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinDirections_ES-ES2470115547_UHD.jpg)|
-||*Copyright: Pingüinos Adelia sobre un iceberg, Antártida (© Patrick J. Endres/Getty Images)*
+|2024-04-26|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.KalalochTree_ES-ES2188397235_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KalalochTree_ES-ES2188397235_UHD.jpg)|
+||*Copyright: Árbol de Kalaloch o árbol de la vida, Playa de Kalaloch, Parque Nacional Olímpico, Washington, EE.UU. (© Abbie Warnock-Matthews/Shutterstock)*
 ||
 |||
-|2024-04-26|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PenguinDirections_FR-CA4681563133_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinDirections_FR-CA4681563133_UHD.jpg)|
-||*Copyright: Manchots Adélie sur un iceberg, Antarctique (© Patrick J. Endres/Getty Images)*
+|2024-04-27|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_FR-CA9927295128_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_FR-CA9927295128_UHD.jpg)|
+||*Copyright: Misool, îles Raja Ampat, Indonésie (© Giordano Cipriani/Getty Images)*
 ||
 |||
 

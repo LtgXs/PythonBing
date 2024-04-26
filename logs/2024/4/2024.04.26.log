@@ -1,0 +1,60 @@
+
+Program started at 09:22:45
+Operating System Name: Linux
+Operating System Version: #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az881-781
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[09:22:45] Start geting CN Bing Wallpaper
+[09:22:45] Successful get url: https://www.bing.com/th?id=OHR.KalalochTree_ZH-CN9427839259_UHD.jpg
+[09:22:45] Image saved to img/background.jpg
+[09:22:45] Info saved to README.md
+[09:22:45] Image saved to history/2024/04/26.md
+[09:22:45] Start geting global Bing Wallpaper, region=en-US, local time is 2024-04-26 05:22:45.851860-04:00
+[09:22:45] Successful get url: https://www.bing.com/th?id=OHR.KalalochTree_EN-US5565386489_UHD.jpg
+[09:22:46] Picture infomations saved to  global/en-US/README.md
+[09:22:46] Picture infomations saved to global/en-US/history/2024/04/27_en-US.md
+[09:22:46] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-04-26 18:22:46.065584+09:00
+[09:22:46] Successful get url: https://www.bing.com/th?id=OHR.KalalochTree_JA-JP4733041534_UHD.jpg
+[09:22:46] Picture infomations saved to  global/ja-JP/README.md
+[09:22:46] Picture infomations saved to global/ja-JP/history/2024/04/26_ja-JP.md
+[09:22:46] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-04-26 14:52:46.294239+05:30
+[09:22:46] Successful get url: https://www.bing.com/th?id=OHR.MangroveIslands_EN-IN9832664879_UHD.jpg
+[09:22:46] Picture infomations saved to  global/en-IN/README.md
+[09:22:46] Picture infomations saved to global/en-IN/history/2024/04/26_en-IN.md
+[09:22:46] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-04-26 06:22:46.651981-03:00
+[09:22:46] Successful get url: https://www.bing.com/th?id=OHR.KalalochTree_PT-BR4023725758_UHD.jpg
+[09:22:46] Picture infomations saved to  global/pt-BR/README.md
+[09:22:46] Picture infomations saved to global/pt-BR/history/2024/04/27_pt-BR.md
+[09:22:46] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-04-26 11:22:46.839252+02:00
+[09:22:46] Successful get url: https://www.bing.com/th?id=OHR.KalalochTree_FR-FR8329014212_UHD.jpg
+[09:22:47] Picture infomations saved to  global/fr-FR/README.md
+[09:22:47] Picture infomations saved to global/fr-FR/history/2024/04/26_fr-FR.md
+[09:22:47] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-04-26 11:22:47.019996+02:00
+[09:22:47] Successful get url: https://www.bing.com/th?id=OHR.PenguinDirections_DE-DE2082660344_UHD.jpg
+[09:22:47] Picture infomations saved to  global/de-DE/README.md
+[09:22:47] Picture infomations saved to global/de-DE/history/2024/04/26_de-DE.md
+[09:22:47] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-04-26 05:22:47.228555-04:00
+[09:22:47] Successful get url: https://www.bing.com/th?id=OHR.ValDiFunes_EN-CA4828083931_UHD.jpg
+[09:22:47] Picture infomations saved to  global/en-CA/README.md
+[09:22:47] Picture infomations saved to global/en-CA/history/2024/04/27_en-CA.md
+[09:22:47] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-04-26 10:22:47.438020+01:00
+[09:22:47] Successful get url: https://www.bing.com/th?id=OHR.KalalochTree_EN-GB4909909836_UHD.jpg
+[09:22:47] Picture infomations saved to  global/en-GB/README.md
+[09:22:47] Picture infomations saved to global/en-GB/history/2024/04/26_en-GB.md
+[09:22:47] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-04-26 11:22:47.651143+02:00
+[09:22:47] Successful get url: https://www.bing.com/th?id=OHR.KalalochTree_IT-IT7011475645_UHD.jpg
+[09:22:47] Picture infomations saved to  global/it-IT/README.md
+[09:22:47] Picture infomations saved to global/it-IT/history/2024/04/26_it-IT.md
+[09:22:47] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-04-26 11:22:47.860867+02:00
+[09:22:47] Successful get url: https://www.bing.com/th?id=OHR.KalalochTree_ES-ES2188397235_UHD.jpg
+[09:22:48] Picture infomations saved to  global/es-ES/README.md
+[09:22:48] Picture infomations saved to global/es-ES/history/2024/04/26_es-ES.md
+[09:22:48] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-04-26 05:22:48.065510-04:00
+[09:22:48] Successful get url: https://www.bing.com/th?id=OHR.MisoolRajaAmpat_FR-CA9927295128_UHD.jpg
+[09:22:48] Picture infomations saved to  global/fr-CA/README.md
+[09:22:48] Picture infomations saved to global/fr-CA/history/2024/04/27_fr-CA.md
+Program exit at 09:22:48
