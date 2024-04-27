@@ -6,9 +6,9 @@
 ||*Copyright: Leucistic Anna's hummingbird in the Australian Garden, UC Santa Cruz Arboretum, California (© yhelfman/Getty Images)*
 ||
 |||
-|2024-04-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LeucisticHummingbird_JA-JP4843663786_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeucisticHummingbird_JA-JP4843663786_UHD.jpg)|
-||*Copyright: アンナハチドリの白変種, 米国 カリフォルニア州 (© yhelfman/Getty Images)*
+|2024-04-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GuadalupeTexas_JA-JP4951023881_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GuadalupeTexas_JA-JP4951023881_UHD.jpg)|
+||*Copyright: グアダルーペ山脈国立公園, 米国 テキサス州 (© Adam Mowery/Tandem Stills + Motion)*
 ||
 |||
 |2024-04-27|**Region: en-IN**||

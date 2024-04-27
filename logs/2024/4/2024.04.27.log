@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:20:50] Picture infomations saved to  global/fr-CA/README.md
 [09:20:50] Picture infomations saved to global/fr-CA/history/2024/04/28_fr-CA.md
 Program exit at 09:20:50
+
+Program started at 16:10:19
+Operating System Name: Linux
+Operating System Version: #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az837-440
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[16:10:19] Start geting CN Bing Wallpaper
+[16:10:19] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_ZH-CN3911419948_UHD.jpg
+[16:10:20] Image saved to img/background.jpg
+[16:10:20] Info saved to README.md
+[16:10:20] Image saved to history/2024/04/28.md
+[16:10:20] Start geting global Bing Wallpaper, region=en-US, local time is 2024-04-27 12:10:20.062475-04:00
+[16:10:20] Successful get url: https://www.bing.com/th?id=OHR.LeucisticHummingbird_EN-US5796079642_UHD.jpg
+[16:10:20] Picture infomations saved to  global/en-US/README.md
+[16:10:20] Picture infomations saved to global/en-US/history/2024/04/28_en-US.md
+[16:10:20] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-04-28 01:10:20.275117+09:00
+[16:10:20] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_JA-JP4951023881_UHD.jpg
+[16:10:20] Picture infomations saved to  global/ja-JP/README.md
+[16:10:20] Picture infomations saved to global/ja-JP/history/2024/04/28_ja-JP.md
+[16:10:20] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-04-27 21:40:20.510502+05:30
+[16:10:20] Successful get url: https://www.bing.com/th?id=OHR.LeucisticHummingbird_EN-IN0052515058_UHD.jpg
+[16:10:20] Picture infomations saved to  global/en-IN/README.md
+[16:10:20] Picture infomations saved to global/en-IN/history/2024/04/27_en-IN.md
+[16:10:20] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-04-27 13:10:20.725001-03:00
+[16:10:20] Successful get url: https://www.bing.com/th?id=OHR.LeucisticHummingbird_PT-BR4306978820_UHD.jpg
+[16:10:20] Picture infomations saved to  global/pt-BR/README.md
+[16:10:20] Picture infomations saved to global/pt-BR/history/2024/04/28_pt-BR.md
+[16:10:20] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-04-27 18:10:20.934755+02:00
+[16:10:21] Successful get url: https://www.bing.com/th?id=OHR.Canigou_FR-FR9013566099_UHD.jpg
+[16:10:21] Picture infomations saved to  global/fr-FR/README.md
+[16:10:21] Picture infomations saved to global/fr-FR/history/2024/04/27_fr-FR.md
+[16:10:21] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-04-27 18:10:21.149138+02:00
+[16:10:21] Successful get url: https://www.bing.com/th?id=OHR.LeucisticHummingbird_DE-DE2322778119_UHD.jpg
+[16:10:21] Picture infomations saved to  global/de-DE/README.md
+[16:10:21] Picture infomations saved to global/de-DE/history/2024/04/27_de-DE.md
+[16:10:21] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-04-27 12:10:21.357392-04:00
+[16:10:21] Successful get url: https://www.bing.com/th?id=OHR.LeucisticHummingbird_EN-CA9003598564_UHD.jpg
+[16:10:21] Picture infomations saved to  global/en-CA/README.md
+[16:10:21] Picture infomations saved to global/en-CA/history/2024/04/28_en-CA.md
+[16:10:21] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-04-27 17:10:21.535238+01:00
+[16:10:21] Successful get url: https://www.bing.com/th?id=OHR.LeucisticHummingbird_EN-GB5146934481_UHD.jpg
+[16:10:21] Picture infomations saved to  global/en-GB/README.md
+[16:10:21] Picture infomations saved to global/en-GB/history/2024/04/27_en-GB.md
+[16:10:21] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-04-27 18:10:21.766448+02:00
+[16:10:21] Successful get url: https://www.bing.com/th?id=OHR.LeucisticHummingbird_IT-IT7331627780_UHD.jpg
+[16:10:21] Picture infomations saved to  global/it-IT/README.md
+[16:10:21] Picture infomations saved to global/it-IT/history/2024/04/27_it-IT.md
+[16:10:21] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-04-27 18:10:21.966716+02:00
+[16:10:22] Successful get url: https://www.bing.com/th?id=OHR.LeucisticHummingbird_ES-ES2319692244_UHD.jpg
+[16:10:22] Picture infomations saved to  global/es-ES/README.md
+[16:10:22] Picture infomations saved to global/es-ES/history/2024/04/27_es-ES.md
+[16:10:22] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-04-27 12:10:22.178107-04:00
+[16:10:22] Successful get url: https://www.bing.com/th?id=OHR.LeucisticHummingbird_FR-CA6720640063_UHD.jpg
+[16:10:22] Picture infomations saved to  global/fr-CA/README.md
+[16:10:22] Picture infomations saved to global/fr-CA/history/2024/04/28_fr-CA.md
+Program exit at 16:10:22
