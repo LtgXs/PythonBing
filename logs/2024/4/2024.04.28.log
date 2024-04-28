@@ -1,0 +1,60 @@
+
+Program started at 09:20:51
+Operating System Name: Linux
+Operating System Version: #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az837-440
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[09:20:51] Start geting CN Bing Wallpaper
+[09:20:51] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_ZH-CN3911419948_UHD.jpg
+[09:20:51] Image saved to img/background.jpg
+[09:20:51] Info saved to README.md
+[09:20:51] Image saved to history/2024/04/28.md
+[09:20:51] Start geting global Bing Wallpaper, region=en-US, local time is 2024-04-28 05:20:51.200388-04:00
+[09:20:51] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_UHD.jpg
+[09:20:51] Picture infomations saved to  global/en-US/README.md
+[09:20:51] Picture infomations saved to global/en-US/history/2024/04/29_en-US.md
+[09:20:51] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-04-28 18:20:51.461541+09:00
+[09:20:51] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_JA-JP4951023881_UHD.jpg
+[09:20:51] Picture infomations saved to  global/ja-JP/README.md
+[09:20:51] Picture infomations saved to global/ja-JP/history/2024/04/28_ja-JP.md
+[09:20:51] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-04-28 14:50:51.650653+05:30
+[09:20:51] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_EN-IN9443629617_UHD.jpg
+[09:20:51] Picture infomations saved to  global/en-IN/README.md
+[09:20:51] Picture infomations saved to global/en-IN/history/2024/04/28_en-IN.md
+[09:20:51] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-04-28 06:20:51.860018-03:00
+[09:20:51] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_PT-BR4550245879_UHD.jpg
+[09:20:52] Picture infomations saved to  global/pt-BR/README.md
+[09:20:52] Picture infomations saved to global/pt-BR/history/2024/04/29_pt-BR.md
+[09:20:52] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-04-28 11:20:52.048041+02:00
+[09:20:52] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_FR-FR9507308056_UHD.jpg
+[09:20:52] Picture infomations saved to  global/fr-FR/README.md
+[09:20:52] Picture infomations saved to global/fr-FR/history/2024/04/28_fr-FR.md
+[09:20:52] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-04-28 11:20:52.217446+02:00
+[09:20:52] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_DE-DE2699373436_UHD.jpg
+[09:20:52] Picture infomations saved to  global/de-DE/README.md
+[09:20:52] Picture infomations saved to global/de-DE/history/2024/04/28_de-DE.md
+[09:20:52] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-04-28 05:20:52.405803-04:00
+[09:20:52] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_EN-CA8167364190_UHD.jpg
+[09:20:52] Picture infomations saved to  global/en-CA/README.md
+[09:20:52] Picture infomations saved to global/en-CA/history/2024/04/29_en-CA.md
+[09:20:52] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-04-28 10:20:52.584365+01:00
+[09:20:52] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_EN-GB5407194916_UHD.jpg
+[09:20:52] Picture infomations saved to  global/en-GB/README.md
+[09:20:52] Picture infomations saved to global/en-GB/history/2024/04/28_en-GB.md
+[09:20:52] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-04-28 11:20:52.793104+02:00
+[09:20:52] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_IT-IT7610169822_UHD.jpg
+[09:20:53] Picture infomations saved to  global/it-IT/README.md
+[09:20:53] Picture infomations saved to global/it-IT/history/2024/04/28_it-IT.md
+[09:20:53] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-04-28 11:20:53.007700+02:00
+[09:20:53] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_ES-ES2551228922_UHD.jpg
+[09:20:53] Picture infomations saved to  global/es-ES/README.md
+[09:20:53] Picture infomations saved to global/es-ES/history/2024/04/28_es-ES.md
+[09:20:53] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-04-28 05:20:53.215917-04:00
+[09:20:53] Successful get url: https://www.bing.com/th?id=OHR.GuadalupeTexas_FR-CA6892889668_UHD.jpg
+[09:20:53] Picture infomations saved to  global/fr-CA/README.md
+[09:20:53] Picture infomations saved to global/fr-CA/history/2024/04/29_fr-CA.md
+Program exit at 09:20:53
