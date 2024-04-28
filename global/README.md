@@ -6,9 +6,9 @@
 ||*Copyright: El Capitan at sunrise in Guadalupe Mountains National Park, Texas (© Adam Mowery/Tandem Stills + Motion)*
 ||
 |||
-|2024-04-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GuadalupeTexas_JA-JP4951023881_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GuadalupeTexas_JA-JP4951023881_UHD.jpg)|
-||*Copyright: グアダルーペ山脈国立公園, 米国 テキサス州 (© Adam Mowery/Tandem Stills + Motion)*
+|2024-04-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TulouFujian_JA-JP5056058159_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulouFujian_JA-JP5056058159_UHD.jpg)|
+||*Copyright: 福建土楼の鳥瞰図, 中国 福建省 (© Hongjie Han/Getty Images)*
 ||
 |||
 |2024-04-28|**Region: en-IN**||
