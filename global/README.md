@@ -6,9 +6,9 @@
 ||*Copyright: Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)*
 ||
 |||
-|2024-04-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TulouFujian_JA-JP5056058159_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulouFujian_JA-JP5056058159_UHD.jpg)|
-||*Copyright: 福建土楼の鳥瞰図, 中国 福建省 (© Hongjie Han/Getty Images)*
+|2024-04-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CheetahRain_JA-JP5165159755_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahRain_JA-JP5165159755_UHD.jpg)|
+||*Copyright: ンゴロンゴロ保全地域, タンザニア  (© Paul Souders/Getty Images)*
 ||
 |||
 |2024-04-29|**Region: en-IN**||
