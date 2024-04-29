@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2024-04-29
+## History Bing Wallpaper
+Wallpaper date: 2024-04-29
 ![](https://www.bing.com/th?id=OHR.TulouFujian_EN-GB5628876331_UHD.jpg&w=1000)Download: [Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)](https://www.bing.com/th?id=OHR.TulouFujian_EN-GB5628876331_UHD.jpg)
 
 Auto get programm by LtgX
