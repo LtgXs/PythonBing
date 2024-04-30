@@ -6,9 +6,9 @@
 ||*Copyright: Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)*
 ||
 |||
-|2024-04-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CheetahRain_JA-JP5165159755_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahRain_JA-JP5165159755_UHD.jpg)|
-||*Copyright: ンゴロンゴロ保全地域, タンザニア  (© Paul Souders/Getty Images)*
+|2024-05-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TeaGarden2024_JA-JP5324737275_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeaGarden2024_JA-JP5324737275_UHD.jpg)|
+||*Copyright: 和束町の茶畑, 京都府 (© Tuul & Bruno Morandi/Getty Images)*
 ||
 |||
 |2024-04-30|**Region: en-IN**||

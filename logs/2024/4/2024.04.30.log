@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:24:30] Picture infomations saved to  global/fr-CA/README.md
 [09:24:30] Picture infomations saved to global/fr-CA/history/2024/05/01_fr-CA.md
 Program exit at 09:24:30
+
+Program started at 16:12:37
+Operating System Name: Linux
+Operating System Version: #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1024-319
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[16:12:37] Start geting CN Bing Wallpaper
+[16:12:37] Successful get url: https://www.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg
+[16:12:37] Image saved to img/background.jpg
+[16:12:37] Info saved to README.md
+[16:12:37] Image saved to history/2024/05/01.md
+[16:12:37] Start geting global Bing Wallpaper, region=en-US, local time is 2024-04-30 12:12:37.334585-04:00
+[16:12:37] Successful get url: https://www.bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg
+[16:12:37] Picture infomations saved to  global/en-US/README.md
+[16:12:37] Picture infomations saved to global/en-US/history/2024/05/01_en-US.md
+[16:12:37] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-01 01:12:37.522065+09:00
+[16:12:37] Successful get url: https://www.bing.com/th?id=OHR.TeaGarden2024_JA-JP5324737275_UHD.jpg
+[16:12:37] Picture infomations saved to  global/ja-JP/README.md
+[16:12:37] Picture infomations saved to global/ja-JP/history/2024/05/01_ja-JP.md
+[16:12:37] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-04-30 21:42:37.753619+05:30
+[16:12:37] Successful get url: https://www.bing.com/th?id=OHR.CheetahRain_EN-IN0742393676_UHD.jpg
+[16:12:37] Picture infomations saved to  global/en-IN/README.md
+[16:12:37] Picture infomations saved to global/en-IN/history/2024/04/30_en-IN.md
+[16:12:37] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-04-30 13:12:37.992124-03:00
+[16:12:38] Successful get url: https://www.bing.com/th?id=OHR.CheetahRain_PT-BR5107827451_UHD.jpg
+[16:12:38] Picture infomations saved to  global/pt-BR/README.md
+[16:12:38] Picture infomations saved to global/pt-BR/history/2024/05/01_pt-BR.md
+[16:12:38] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-04-30 18:12:38.154069+02:00
+[16:12:38] Successful get url: https://www.bing.com/th?id=OHR.CheetahRain_FR-FR0543352581_UHD.jpg
+[16:12:38] Picture infomations saved to  global/fr-FR/README.md
+[16:12:38] Picture infomations saved to global/fr-FR/history/2024/04/30_fr-FR.md
+[16:12:38] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-04-30 18:12:38.323051+02:00
+[16:12:38] Successful get url: https://www.bing.com/th?id=OHR.CheetahRain_DE-DE3160302306_UHD.jpg
+[16:12:38] Picture infomations saved to  global/de-DE/README.md
+[16:12:38] Picture infomations saved to global/de-DE/history/2024/04/30_de-DE.md
+[16:12:38] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-04-30 12:12:38.499149-04:00
+[16:12:38] Successful get url: https://www.bing.com/th?id=OHR.CheetahRain_EN-CA1487637998_UHD.jpg
+[16:12:38] Picture infomations saved to  global/en-CA/README.md
+[16:12:38] Picture infomations saved to global/en-CA/history/2024/05/01_en-CA.md
+[16:12:38] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-04-30 17:12:38.651018+01:00
+[16:12:38] Successful get url: https://www.bing.com/th?id=OHR.CheetahRain_EN-GB5857912258_UHD.jpg
+[16:12:38] Picture infomations saved to  global/en-GB/README.md
+[16:12:38] Picture infomations saved to global/en-GB/history/2024/04/30_en-GB.md
+[16:12:38] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-04-30 18:12:38.805843+02:00
+[16:12:38] Successful get url: https://www.bing.com/th?id=OHR.CheetahRain_IT-IT8393286525_UHD.jpg
+[16:12:39] Picture infomations saved to  global/it-IT/README.md
+[16:12:39] Picture infomations saved to global/it-IT/history/2024/04/30_it-IT.md
+[16:12:39] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-04-30 18:12:39.036058+02:00
+[16:12:39] Successful get url: https://www.bing.com/th?id=OHR.CheetahRain_ES-ES2760167365_UHD.jpg
+[16:12:39] Picture infomations saved to  global/es-ES/README.md
+[16:12:39] Picture infomations saved to global/es-ES/history/2024/04/30_es-ES.md
+[16:12:39] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-04-30 12:12:39.254741-04:00
+[16:12:39] Successful get url: https://www.bing.com/th?id=OHR.CheetahRain_FR-CA7368056327_UHD.jpg
+[16:12:39] Picture infomations saved to  global/fr-CA/README.md
+[16:12:39] Picture infomations saved to global/fr-CA/history/2024/05/01_fr-CA.md
+Program exit at 16:12:39
