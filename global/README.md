@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-04-30|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg)|
-||*Copyright: Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)*
+|2024-05-01|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg)|
+||*Copyright: Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)*
 ||
 |||
 |2024-04-30|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ンゴロンゴロ保全地域, タンザニア  (© Paul Souders/Getty Images)*
 ||
 |||
-|2024-04-29|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TulouFujian_EN-IN0492710943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulouFujian_EN-IN0492710943_UHD.jpg)|
-||*Copyright: Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)*
+|2024-04-30|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CheetahRain_EN-IN0742393676_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahRain_EN-IN0742393676_UHD.jpg)|
+||*Copyright: Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)*
 ||
 |||
-|2024-04-30|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TulouFujian_PT-BR4910373349_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulouFujian_PT-BR4910373349_UHD.jpg)|
-||*Copyright: Tulou de Fuquiém, edifícios de patrimônio histórico e cultural na província de Fuquiém, China (© Hongjie Han/Getty Images)*
+|2024-05-01|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CheetahRain_PT-BR5107827451_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahRain_PT-BR5107827451_UHD.jpg)|
+||*Copyright: Guepardo na chuva da manhã, Planícies de Ndutu, Área de Conservação de Ngorongoro, Tanzânia (© Paul Souders/Getty Images)*
 ||
 |||
-|2024-04-29|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TulouFujian_FR-FR9745511197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulouFujian_FR-FR9745511197_UHD.jpg)|
-||*Copyright: Architectures traditionnelles Tulou de Fujian, province de Fujian, Chine (© Hongjie Han/Getty Images)*
+|2024-04-30|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CheetahRain_FR-FR0543352581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahRain_FR-FR0543352581_UHD.jpg)|
+||*Copyright: Guépard sous la pluie, plaines de Ndutu, zone de conservation du Ngorongoro, Tanzanie (© Paul Souders/Getty Images)*
 ||
 |||
-|2024-04-29|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TulouFujian_DE-DE2936952275_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulouFujian_DE-DE2936952275_UHD.jpg)|
-||*Copyright: Fujian Tulou, historische und kulturhistorische Gebäude in der Provinz Fujian, China (© Hongjie Han/Getty Images)*
+|2024-04-30|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CheetahRain_DE-DE3160302306_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahRain_DE-DE3160302306_UHD.jpg)|
+||*Copyright: Gepard im Morgenregen, Ndutu-Region, Ngorongoro, Tansania (© Paul Souders/Getty Images)*
 ||
 |||
-|2024-04-30|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TulouFujian_EN-CA1163338390_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulouFujian_EN-CA1163338390_UHD.jpg)|
-||*Copyright: Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)*
+|2024-05-01|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CheetahRain_EN-CA1487637998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahRain_EN-CA1487637998_UHD.jpg)|
+||*Copyright: Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)*
 ||
 |||
-|2024-04-29|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TulouFujian_EN-GB5628876331_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulouFujian_EN-GB5628876331_UHD.jpg)|
-||*Copyright: Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)*
+|2024-04-30|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CheetahRain_EN-GB5857912258_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahRain_EN-GB5857912258_UHD.jpg)|
+||*Copyright: Cheetah, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)*
 ||
 |||
-|2024-04-29|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TulouFujian_IT-IT7939512907_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulouFujian_IT-IT7939512907_UHD.jpg)|
-||*Copyright: Fujian Tulou, edifici del patrimonio storico e culturale della provincia del Fujian, Cina (© Hongjie Han/Getty Images)*
+|2024-04-30|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CheetahRain_IT-IT8393286525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahRain_IT-IT8393286525_UHD.jpg)|
+||*Copyright: Ghepardo sotto la pioggia del mattino, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)*
 ||
 |||
-|2024-04-29|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TulouFujian_ES-ES2621683417_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulouFujian_ES-ES2621683417_UHD.jpg)|
-||*Copyright: Tulou de Fujian, edificios del patrimonio histórico y cultural de la provincia de Fujian, China (© Hongjie Han/Getty Images)*
+|2024-04-30|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CheetahRain_ES-ES2760167365_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahRain_ES-ES2760167365_UHD.jpg)|
+||*Copyright: Guepardo bajo la lluvia matutina, Llanuras de Ndutu, Área de Conservación del Ngorongoro, Tanzania (© Paul Souders/Getty Images)*
 ||
 |||
-|2024-04-30|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TulouFujian_FR-CA7213796326_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulouFujian_FR-CA7213796326_UHD.jpg)|
-||*Copyright: Architectures traditionnelles Tulou de Fujian, province de Fujian, Chine (© Hongjie Han/Getty Images)*
+|2024-05-01|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CheetahRain_FR-CA7368056327_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahRain_FR-CA7368056327_UHD.jpg)|
+||*Copyright: Guépard sous la pluie, plaines de Ndutu, zone de conservation du Ngorongoro, Tanzanie (© Paul Souders/Getty Images)*
 ||
 |||
 
