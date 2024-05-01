@@ -1,0 +1,60 @@
+
+Program started at 09:24:02
+Operating System Name: Linux
+Operating System Version: #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1196-523
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[09:24:02] Start geting CN Bing Wallpaper
+[09:24:02] Successful get url: https://www.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg
+[09:24:02] Image saved to img/background.jpg
+[09:24:02] Info saved to README.md
+[09:24:02] Image saved to history/2024/05/01.md
+[09:24:02] Start geting global Bing Wallpaper, region=en-US, local time is 2024-05-01 05:24:02.519114-04:00
+[09:24:02] Successful get url: https://www.bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg
+[09:24:02] Picture infomations saved to  global/en-US/README.md
+[09:24:02] Picture infomations saved to global/en-US/history/2024/05/02_en-US.md
+[09:24:02] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-01 18:24:02.828368+09:00
+[09:24:02] Successful get url: https://www.bing.com/th?id=OHR.TeaGarden2024_JA-JP5324737275_UHD.jpg
+[09:24:03] Picture infomations saved to  global/ja-JP/README.md
+[09:24:03] Picture infomations saved to global/ja-JP/history/2024/05/01_ja-JP.md
+[09:24:03] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-05-01 14:54:03.143407+05:30
+[09:24:03] Successful get url: https://www.bing.com/th?id=OHR.MaharashtraDayIN_EN-IN1070524150_UHD.jpg
+[09:24:03] Picture infomations saved to  global/en-IN/README.md
+[09:24:03] Picture infomations saved to global/en-IN/history/2024/05/01_en-IN.md
+[09:24:03] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-05-01 06:24:03.427174-03:00
+[09:24:03] Successful get url: https://www.bing.com/th?id=OHR.DiadaLiteraturaBrasileira_PT-BR6259851380_UHD.jpg
+[09:24:03] Picture infomations saved to  global/pt-BR/README.md
+[09:24:03] Picture infomations saved to global/pt-BR/history/2024/05/02_pt-BR.md
+[09:24:03] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-05-01 11:24:03.719140+02:00
+[09:24:03] Successful get url: https://www.bing.com/th?id=OHR.HawaiianLei_FR-FR1676452706_UHD.jpg
+[09:24:03] Picture infomations saved to  global/fr-FR/README.md
+[09:24:03] Picture infomations saved to global/fr-FR/history/2024/05/01_fr-FR.md
+[09:24:03] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-05-01 11:24:03.963479+02:00
+[09:24:04] Successful get url: https://www.bing.com/th?id=OHR.NienhagenMecklenburg_DE-DE3604963569_UHD.jpg
+[09:24:04] Picture infomations saved to  global/de-DE/README.md
+[09:24:04] Picture infomations saved to global/de-DE/history/2024/05/01_de-DE.md
+[09:24:04] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-05-01 05:24:04.253643-04:00
+[09:24:04] Successful get url: https://www.bing.com/th?id=OHR.HawaiianLei_EN-CA1761631119_UHD.jpg
+[09:24:04] Picture infomations saved to  global/en-CA/README.md
+[09:24:04] Picture infomations saved to global/en-CA/history/2024/05/02_en-CA.md
+[09:24:04] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-05-01 10:24:04.576810+01:00
+[09:24:04] Successful get url: https://www.bing.com/th?id=OHR.HawaiianLei_EN-GB6017463804_UHD.jpg
+[09:24:04] Picture infomations saved to  global/en-GB/README.md
+[09:24:04] Picture infomations saved to global/en-GB/history/2024/05/01_en-GB.md
+[09:24:04] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-05-01 11:24:04.889067+02:00
+[09:24:05] Successful get url: https://www.bing.com/th?id=OHR.HawaiianLei_IT-IT8543155647_UHD.jpg
+[09:24:05] Picture infomations saved to  global/it-IT/README.md
+[09:24:05] Picture infomations saved to global/it-IT/history/2024/05/01_it-IT.md
+[09:24:05] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-05-01 11:24:05.189899+02:00
+[09:24:05] Successful get url: https://www.bing.com/th?id=OHR.HawaiianLei_ES-ES3282014146_UHD.jpg
+[09:24:05] Picture infomations saved to  global/es-ES/README.md
+[09:24:05] Picture infomations saved to global/es-ES/history/2024/05/01_es-ES.md
+[09:24:05] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-05-01 05:24:05.430861-04:00
+[09:24:05] Successful get url: https://www.bing.com/th?id=OHR.HawaiianLei_FR-CA7527008794_UHD.jpg
+[09:24:05] Picture infomations saved to  global/fr-CA/README.md
+[09:24:05] Picture infomations saved to global/fr-CA/history/2024/05/02_fr-CA.md
+Program exit at 09:24:05
