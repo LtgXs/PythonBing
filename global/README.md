@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-05-02|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg)|
-||*Copyright: Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)*
+|2024-05-03|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg)|
+||*Copyright: Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)*
 ||
 |||
 |2024-05-02|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 月のクレーター国立公園, 米国 アイダホ州 (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2024-05-01|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MaharashtraDayIN_EN-IN1070524150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaharashtraDayIN_EN-IN1070524150_UHD.jpg)|
-||*Copyright: Maharashtra, Mumbai, Victoria Terminus railway station (© Tuul & Bruno Morandi/Getty Images)*
+|2024-05-02|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-IN2412374583_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-IN2412374583_UHD.jpg)|
+||*Copyright: Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2024-05-02|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DiadaLiteraturaBrasileira_PT-BR6259851380_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiadaLiteraturaBrasileira_PT-BR6259851380_UHD.jpg)|
-||*Copyright: Real Gabinete Portugues de Leitura, Rio de Janeiro (© Wagner Meier/Getty Images)*
+|2024-05-03|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CratersOfTheMoon_PT-BR6520589652_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CratersOfTheMoon_PT-BR6520589652_UHD.jpg)|
+||*Copyright: Fluxo de lava Dragão Azul, Monumento e Reserva Nacional Crateras da Lua, Idaho, EUA (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2024-05-01|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HawaiianLei_FR-FR1676452706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HawaiianLei_FR-FR1676452706_UHD.jpg)|
-||*Copyright: Colliers de fleurs hawaïens (© Jotika Pun/Shutterstock)*
+|2024-05-02|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CratersOfTheMoon_FR-FR1896950585_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CratersOfTheMoon_FR-FR1896950585_UHD.jpg)|
+||*Copyright: Coulée de lave du Dragon Bleu, Monument national des Cratères de la Lune, Idaho, États-Unis (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2024-05-01|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.NienhagenMecklenburg_DE-DE3604963569_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NienhagenMecklenburg_DE-DE3604963569_UHD.jpg)|
-||*Copyright: Weg durch den Gespensterwald bei Sonnenaufgang, Nienhagen, Mecklenburg-Vorpommern (© Martin Ruegner/Getty Images)*
+|2024-05-02|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CratersOfTheMoon_DE-DE3535189706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CratersOfTheMoon_DE-DE3535189706_UHD.jpg)|
+||*Copyright: Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho, USA (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2024-05-02|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HawaiianLei_EN-CA1761631119_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HawaiianLei_EN-CA1761631119_UHD.jpg)|
-||*Copyright: Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)*
+|2024-05-03|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-CA2219988525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-CA2219988525_UHD.jpg)|
+||*Copyright: Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2024-05-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.HawaiianLei_EN-GB6017463804_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HawaiianLei_EN-GB6017463804_UHD.jpg)|
-||*Copyright: Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)*
+|2024-05-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-GB6307433192_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-GB6307433192_UHD.jpg)|
+||*Copyright: Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho, USA (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2024-05-01|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.HawaiianLei_IT-IT8543155647_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HawaiianLei_IT-IT8543155647_UHD.jpg)|
-||*Copyright: Ghirlande di fiori hawaiani, Hawaii, Stati Uniti (© Jotika Pun/Shutterstock)*
+|2024-05-02|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CratersOfTheMoon_IT-IT8708957821_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CratersOfTheMoon_IT-IT8708957821_UHD.jpg)|
+||*Copyright: Flusso di lava del Drago Blu, Monumento e riserva nazionale Craters of the Moon, Idaho, USA (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2024-05-01|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.HawaiianLei_ES-ES3282014146_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HawaiianLei_ES-ES3282014146_UHD.jpg)|
-||*Copyright: Guirnaldas de flores de lei hawaianas (© Jotika Pun/Shutterstock)*
+|2024-05-02|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MadridOpen_ES-ES2650206128_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadridOpen_ES-ES2650206128_UHD.jpg)|
+||*Copyright: Gran Vía y Edificio Metrópolis en Madrid, España (© RudyBalasko/Getty Images)*
 ||
 |||
-|2024-05-02|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HawaiianLei_FR-CA7527008794_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HawaiianLei_FR-CA7527008794_UHD.jpg)|
-||*Copyright: Colliers de fleurs hawaïens (© Jotika Pun/Shutterstock)*
+|2024-05-03|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CratersOfTheMoon_FR-CA7743730484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CratersOfTheMoon_FR-CA7743730484_UHD.jpg)|
+||*Copyright: Coulée de lave du Dragon Bleu, Monument national des Cratères de la Lune, Idaho, États-Unis (© Alan Majchrowicz/Getty Images)*
 ||
 |||
 
