@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:23:04] Picture infomations saved to  global/fr-CA/README.md
 [09:23:04] Picture infomations saved to global/fr-CA/history/2024/05/03_fr-CA.md
 Program exit at 09:23:04
+
+Program started at 16:11:30
+Operating System Name: Linux
+Operating System Version: #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az532-294
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[16:11:30] Start geting CN Bing Wallpaper
+[16:11:30] Successful get url: https://www.bing.com/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg
+[16:11:30] Image saved to img/background.jpg
+[16:11:30] Info saved to README.md
+[16:11:30] Image saved to history/2024/05/03.md
+[16:11:30] Start geting global Bing Wallpaper, region=en-US, local time is 2024-05-02 12:11:30.305415-04:00
+[16:11:30] Successful get url: https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg
+[16:11:30] Picture infomations saved to  global/en-US/README.md
+[16:11:30] Picture infomations saved to global/en-US/history/2024/05/03_en-US.md
+[16:11:30] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-03 01:11:30.582795+09:00
+[16:11:30] Successful get url: https://www.bing.com/th?id=OHR.SonoranSpring_JA-JP1708087750_UHD.jpg
+[16:11:30] Picture infomations saved to  global/ja-JP/README.md
+[16:11:30] Picture infomations saved to global/ja-JP/history/2024/05/03_ja-JP.md
+[16:11:30] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-05-02 21:41:30.864618+05:30
+[16:11:30] Successful get url: https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-IN2412374583_UHD.jpg
+[16:11:31] Picture infomations saved to  global/en-IN/README.md
+[16:11:31] Picture infomations saved to global/en-IN/history/2024/05/02_en-IN.md
+[16:11:31] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-05-02 13:11:31.163489-03:00
+[16:11:31] Successful get url: https://www.bing.com/th?id=OHR.CratersOfTheMoon_PT-BR6520589652_UHD.jpg
+[16:11:31] Picture infomations saved to  global/pt-BR/README.md
+[16:11:31] Picture infomations saved to global/pt-BR/history/2024/05/03_pt-BR.md
+[16:11:31] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-05-02 18:11:31.434191+02:00
+[16:11:31] Successful get url: https://www.bing.com/th?id=OHR.CratersOfTheMoon_FR-FR1896950585_UHD.jpg
+[16:11:31] Picture infomations saved to  global/fr-FR/README.md
+[16:11:31] Picture infomations saved to global/fr-FR/history/2024/05/02_fr-FR.md
+[16:11:31] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-05-02 18:11:31.671474+02:00
+[16:11:31] Successful get url: https://www.bing.com/th?id=OHR.CratersOfTheMoon_DE-DE3535189706_UHD.jpg
+[16:11:31] Picture infomations saved to  global/de-DE/README.md
+[16:11:31] Picture infomations saved to global/de-DE/history/2024/05/02_de-DE.md
+[16:11:31] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-05-02 12:11:31.946302-04:00
+[16:11:32] Successful get url: https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-CA2219988525_UHD.jpg
+[16:11:32] Picture infomations saved to  global/en-CA/README.md
+[16:11:32] Picture infomations saved to global/en-CA/history/2024/05/03_en-CA.md
+[16:11:32] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-05-02 17:11:32.177728+01:00
+[16:11:32] Successful get url: https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-GB6307433192_UHD.jpg
+[16:11:32] Picture infomations saved to  global/en-GB/README.md
+[16:11:32] Picture infomations saved to global/en-GB/history/2024/05/02_en-GB.md
+[16:11:32] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-05-02 18:11:32.735457+02:00
+[16:11:32] Successful get url: https://www.bing.com/th?id=OHR.CratersOfTheMoon_IT-IT8708957821_UHD.jpg
+[16:11:32] Picture infomations saved to  global/it-IT/README.md
+[16:11:32] Picture infomations saved to global/it-IT/history/2024/05/02_it-IT.md
+[16:11:32] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-05-02 18:11:32.986756+02:00
+[16:11:33] Successful get url: https://www.bing.com/th?id=OHR.MadridOpen_ES-ES2650206128_UHD.jpg
+[16:11:33] Picture infomations saved to  global/es-ES/README.md
+[16:11:33] Picture infomations saved to global/es-ES/history/2024/05/02_es-ES.md
+[16:11:33] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-05-02 12:11:33.244784-04:00
+[16:11:33] Successful get url: https://www.bing.com/th?id=OHR.CratersOfTheMoon_FR-CA7743730484_UHD.jpg
+[16:11:33] Picture infomations saved to  global/fr-CA/README.md
+[16:11:33] Picture infomations saved to global/fr-CA/history/2024/05/03_fr-CA.md
+Program exit at 16:11:33
