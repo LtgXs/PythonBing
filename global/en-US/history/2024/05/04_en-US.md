@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2024-05-04
+## History Bing Wallpaper
+Wallpaper date: 2024-05-04
 ![](https://www.bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg&w=1000)Download: [Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)](https://www.bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg)
 
 Auto get programm by LtgX
