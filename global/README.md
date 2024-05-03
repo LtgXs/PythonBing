@@ -6,9 +6,9 @@
 ||*Copyright: Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)*
 ||
 |||
-|2024-05-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SonoranSpring_JA-JP1708087750_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranSpring_JA-JP1708087750_UHD.jpg)|
-||*Copyright: ソノラ砂漠, 米国 アリゾナ州 (© Charles Harker/Getty Images)*
+|2024-05-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.JediMonastery_JA-JP7788266024_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_JA-JP7788266024_UHD.jpg)|
+||*Copyright: シュケリッグ・ヴィヒルの古代修道院跡 , アイルランド (© MNStudio/Getty Images)*
 ||
 |||
 |2024-05-03|**Region: en-IN**||

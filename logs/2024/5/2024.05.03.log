@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:23:16] Picture infomations saved to  global/fr-CA/README.md
 [09:23:16] Picture infomations saved to global/fr-CA/history/2024/05/04_fr-CA.md
 Program exit at 09:23:16
+
+Program started at 16:12:44
+Operating System Name: Linux
+Operating System Version: #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az849-55
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[16:12:44] Start geting CN Bing Wallpaper
+[16:12:45] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_ZH-CN0091557941_UHD.jpg
+[16:12:45] Image saved to img/background.jpg
+[16:12:45] Info saved to README.md
+[16:12:45] Image saved to history/2024/05/04.md
+[16:12:45] Start geting global Bing Wallpaper, region=en-US, local time is 2024-05-03 12:12:45.284589-04:00
+[16:12:45] Successful get url: https://www.bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg
+[16:12:45] Picture infomations saved to  global/en-US/README.md
+[16:12:45] Picture infomations saved to global/en-US/history/2024/05/04_en-US.md
+[16:12:45] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-04 01:12:45.565016+09:00
+[16:12:45] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_JA-JP7788266024_UHD.jpg
+[16:12:45] Picture infomations saved to  global/ja-JP/README.md
+[16:12:45] Picture infomations saved to global/ja-JP/history/2024/05/04_ja-JP.md
+[16:12:45] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-05-03 21:42:45.775204+05:30
+[16:12:45] Successful get url: https://www.bing.com/th?id=OHR.SonoranSpring_EN-IN9627232224_UHD.jpg
+[16:12:46] Picture infomations saved to  global/en-IN/README.md
+[16:12:46] Picture infomations saved to global/en-IN/history/2024/05/03_en-IN.md
+[16:12:46] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-05-03 13:12:46.083441-03:00
+[16:12:46] Successful get url: https://www.bing.com/th?id=OHR.DiadoSertanejo_PT-BR9682293877_UHD.jpg
+[16:12:46] Picture infomations saved to  global/pt-BR/README.md
+[16:12:46] Picture infomations saved to global/pt-BR/history/2024/05/04_pt-BR.md
+[16:12:46] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-05-03 18:12:46.326129+02:00
+[16:12:46] Successful get url: https://www.bing.com/th?id=OHR.SonoranSpring_FR-FR5225084633_UHD.jpg
+[16:12:46] Picture infomations saved to  global/fr-FR/README.md
+[16:12:46] Picture infomations saved to global/fr-FR/history/2024/05/03_fr-FR.md
+[16:12:46] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-05-03 18:12:46.528097+02:00
+[16:12:46] Successful get url: https://www.bing.com/th?id=OHR.SonoranSpring_DE-DE9357801866_UHD.jpg
+[16:12:46] Picture infomations saved to  global/de-DE/README.md
+[16:12:46] Picture infomations saved to global/de-DE/history/2024/05/03_de-DE.md
+[16:12:46] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-05-03 12:12:46.684492-04:00
+[16:12:46] Successful get url: https://www.bing.com/th?id=OHR.SonoranSpring_EN-CA6106582512_UHD.jpg
+[16:12:46] Picture infomations saved to  global/en-CA/README.md
+[16:12:46] Picture infomations saved to global/en-CA/history/2024/05/04_en-CA.md
+[16:12:46] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-05-03 17:12:46.929764+01:00
+[16:12:47] Successful get url: https://www.bing.com/th?id=OHR.SonoranSpring_EN-GB6882953741_UHD.jpg
+[16:12:47] Picture infomations saved to  global/en-GB/README.md
+[16:12:47] Picture infomations saved to global/en-GB/history/2024/05/03_en-GB.md
+[16:12:47] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-05-03 18:12:47.095655+02:00
+[16:12:47] Successful get url: https://www.bing.com/th?id=OHR.SonoranSpring_IT-IT9351993894_UHD.jpg
+[16:12:47] Picture infomations saved to  global/it-IT/README.md
+[16:12:47] Picture infomations saved to global/it-IT/history/2024/05/03_it-IT.md
+[16:12:47] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-05-03 18:12:47.255494+02:00
+[16:12:47] Successful get url: https://www.bing.com/th?id=OHR.SonoranSpring_ES-ES2911846610_UHD.jpg
+[16:12:47] Picture infomations saved to  global/es-ES/README.md
+[16:12:47] Picture infomations saved to global/es-ES/history/2024/05/03_es-ES.md
+[16:12:47] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-05-03 12:12:47.479932-04:00
+[16:12:47] Successful get url: https://www.bing.com/th?id=OHR.SonoranSpring_FR-CA8061697646_UHD.jpg
+[16:12:47] Picture infomations saved to  global/fr-CA/README.md
+[16:12:47] Picture infomations saved to global/fr-CA/history/2024/05/04_fr-CA.md
+Program exit at 16:12:47
