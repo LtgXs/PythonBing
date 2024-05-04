@@ -6,9 +6,9 @@
 ||*Copyright: Ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)*
 ||
 |||
-|2024-05-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.JediMonastery_JA-JP7788266024_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_JA-JP7788266024_UHD.jpg)|
-||*Copyright: シュケリッグ・ヴィヒルの古代修道院跡 , アイルランド (© MNStudio/Getty Images)*
+|2024-05-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ChildrenDay2024_JA-JP8175282270_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChildrenDay2024_JA-JP8175282270_UHD.jpg)|
+||*Copyright: 大歩危峡に泳ぐ鯉のぼり, 徳島県 (© fz750/Getty Images)*
 ||
 |||
 |2024-05-04|**Region: en-IN**||
