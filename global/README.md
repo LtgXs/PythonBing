@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-05-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg)|
-||*Copyright: Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)*
+|2024-05-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.JediMonastery_EN-US9398447907_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_EN-US9398447907_UHD.jpg)|
+||*Copyright: Ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)*
 ||
 |||
 |2024-05-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: シュケリッグ・ヴィヒルの古代修道院跡 , アイルランド (© MNStudio/Getty Images)*
 ||
 |||
-|2024-05-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SonoranSpring_EN-IN9627232224_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranSpring_EN-IN9627232224_UHD.jpg)|
-||*Copyright: Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)*
+|2024-05-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.JediMonastery_EN-IN0109731817_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_EN-IN0109731817_UHD.jpg)|
+||*Copyright: The ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)*
 ||
 |||
-|2024-05-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DiadoSertanejo_PT-BR9682293877_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiadoSertanejo_PT-BR9682293877_UHD.jpg)|
-||*Copyright: Colorido atardecer en Pantanal, Brasil (© filipefrazao/Getty Images)*
+|2024-05-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.JediMonastery_PT-BR8049739935_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_PT-BR8049739935_UHD.jpg)|
+||*Copyright: As ruínas de um antigo mosteiro na ilha de Skellig Michael, Irlanda (© MNStudio/Getty Images)*
 ||
 |||
-|2024-05-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SonoranSpring_FR-FR5225084633_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranSpring_FR-FR5225084633_UHD.jpg)|
-||*Copyright: Encelia farinose en fleur dans le désert de Sonora, Arizona, États-Unis (© Charles Harker/Getty Images)*
+|2024-05-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.JediMonastery_FR-FR5584493492_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_FR-FR5584493492_UHD.jpg)|
+||*Copyright: Ruines d'un ancien monastère sur l'île de Skellig Michael, Irlande (© MNStudio/Getty Images)*
 ||
 |||
-|2024-05-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SonoranSpring_DE-DE9357801866_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranSpring_DE-DE9357801866_UHD.jpg)|
-||*Copyright: Im Frühling blühende Sträucher, Sonora-Wüste, Arizona, USA (© Charles Harker/Getty Images)*
+|2024-05-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.JediMonastery_DE-DE1926121276_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_DE-DE1926121276_UHD.jpg)|
+||*Copyright: Die Ruinen eines alten Klosters auf der Insel Skellig Michael, Irland (© MNStudio/Getty Images)*
 ||
 |||
-|2024-05-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SonoranSpring_EN-CA6106582512_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranSpring_EN-CA6106582512_UHD.jpg)|
-||*Copyright: Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)*
+|2024-05-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.JediMonastery_EN-CA6236895858_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_EN-CA6236895858_UHD.jpg)|
+||*Copyright: The ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)*
 ||
 |||
-|2024-05-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SonoranSpring_EN-GB6882953741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranSpring_EN-GB6882953741_UHD.jpg)|
-||*Copyright: Brittlebushes blooming in springtime, Sonoran Desert, Arizona, USA (© Charles Harker/Getty Images)*
+|2024-05-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BrightonPierFestival_EN-GB6742125656_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrightonPierFestival_EN-GB6742125656_UHD.jpg)|
+||*Copyright: Brighton Palace Pier, Brighton, England (© Michael Jewes/iStock/Getty Images)*
 ||
 |||
-|2024-05-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SonoranSpring_IT-IT9351993894_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranSpring_IT-IT9351993894_UHD.jpg)|
-||*Copyright: Fioritura primaverile dei cespugli, deserto di Sonora, Arizona, Stati Uniti (© Charles Harker/Getty Images)*
+|2024-05-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GirodItalia2024_IT-IT9407204320_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GirodItalia2024_IT-IT9407204320_UHD.jpg)|
+||*Copyright: Giro d'Italia, Ciclisti sulle Dolomiti (© Tim de Waele/Staff/Getty Images)*
 ||
 |||
-|2024-05-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SonoranSpring_ES-ES2911846610_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranSpring_ES-ES2911846610_UHD.jpg)|
-||*Copyright: Arbustos quebradizos floreciendo en primavera, Desierto de Sonora, Arizona, EE.UU. (© Charles Harker/Getty Images)*
+|2024-05-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.JediMonastery_ES-ES3031274198_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_ES-ES3031274198_UHD.jpg)|
+||*Copyright: Las ruinas de un antiguo monasterio en la isla de Skellig Michael, Irlanda (© MNStudio/Getty Images)*
 ||
 |||
-|2024-05-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SonoranSpring_FR-CA8061697646_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranSpring_FR-CA8061697646_UHD.jpg)|
-||*Copyright: Encelia farinose en fleur dans le désert de Sonora, Arizona, États-Unis (© Charles Harker/Getty Images)*
+|2024-05-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.JediMonastery_FR-CA8250479860_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_FR-CA8250479860_UHD.jpg)|
+||*Copyright: Ruines d'un ancien monastère sur l'île de Skellig Michael, Irlande (© MNStudio/Getty Images)*
 ||
 |||
 

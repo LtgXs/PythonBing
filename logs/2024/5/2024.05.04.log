@@ -1,0 +1,60 @@
+
+Program started at 09:22:18
+Operating System Name: Linux
+Operating System Version: #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1149-882
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[09:22:18] Start geting CN Bing Wallpaper
+[09:22:18] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_ZH-CN0091557941_UHD.jpg
+[09:22:18] Image saved to img/background.jpg
+[09:22:18] Info saved to README.md
+[09:22:18] Image saved to history/2024/05/04.md
+[09:22:18] Start geting global Bing Wallpaper, region=en-US, local time is 2024-05-04 05:22:18.339736-04:00
+[09:22:18] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_EN-US9398447907_UHD.jpg
+[09:22:18] Picture infomations saved to  global/en-US/README.md
+[09:22:18] Picture infomations saved to global/en-US/history/2024/05/05_en-US.md
+[09:22:18] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-04 18:22:18.566932+09:00
+[09:22:18] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_JA-JP7788266024_UHD.jpg
+[09:22:18] Picture infomations saved to  global/ja-JP/README.md
+[09:22:18] Picture infomations saved to global/ja-JP/history/2024/05/04_ja-JP.md
+[09:22:18] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-05-04 14:52:18.795534+05:30
+[09:22:18] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_EN-IN0109731817_UHD.jpg
+[09:22:18] Picture infomations saved to  global/en-IN/README.md
+[09:22:18] Picture infomations saved to global/en-IN/history/2024/05/04_en-IN.md
+[09:22:18] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-05-04 06:22:18.974412-03:00
+[09:22:19] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_PT-BR8049739935_UHD.jpg
+[09:22:19] Picture infomations saved to  global/pt-BR/README.md
+[09:22:19] Picture infomations saved to global/pt-BR/history/2024/05/05_pt-BR.md
+[09:22:19] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-05-04 11:22:19.222866+02:00
+[09:22:19] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_FR-FR5584493492_UHD.jpg
+[09:22:19] Picture infomations saved to  global/fr-FR/README.md
+[09:22:19] Picture infomations saved to global/fr-FR/history/2024/05/04_fr-FR.md
+[09:22:19] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-05-04 11:22:19.450214+02:00
+[09:22:19] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_DE-DE1926121276_UHD.jpg
+[09:22:19] Picture infomations saved to  global/de-DE/README.md
+[09:22:19] Picture infomations saved to global/de-DE/history/2024/05/04_de-DE.md
+[09:22:19] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-05-04 05:22:19.631578-04:00
+[09:22:19] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_EN-CA6236895858_UHD.jpg
+[09:22:19] Picture infomations saved to  global/en-CA/README.md
+[09:22:19] Picture infomations saved to global/en-CA/history/2024/05/05_en-CA.md
+[09:22:19] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-05-04 10:22:19.874673+01:00
+[09:22:19] Successful get url: https://www.bing.com/th?id=OHR.BrightonPierFestival_EN-GB6742125656_UHD.jpg
+[09:22:20] Picture infomations saved to  global/en-GB/README.md
+[09:22:20] Picture infomations saved to global/en-GB/history/2024/05/04_en-GB.md
+[09:22:20] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-05-04 11:22:20.081082+02:00
+[09:22:20] Successful get url: https://www.bing.com/th?id=OHR.GirodItalia2024_IT-IT9407204320_UHD.jpg
+[09:22:20] Picture infomations saved to  global/it-IT/README.md
+[09:22:20] Picture infomations saved to global/it-IT/history/2024/05/04_it-IT.md
+[09:22:20] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-05-04 11:22:20.244180+02:00
+[09:22:20] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_ES-ES3031274198_UHD.jpg
+[09:22:20] Picture infomations saved to  global/es-ES/README.md
+[09:22:20] Picture infomations saved to global/es-ES/history/2024/05/04_es-ES.md
+[09:22:20] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-05-04 05:22:20.413255-04:00
+[09:22:20] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_FR-CA8250479860_UHD.jpg
+[09:22:20] Picture infomations saved to  global/fr-CA/README.md
+[09:22:20] Picture infomations saved to global/fr-CA/history/2024/05/05_fr-CA.md
+Program exit at 09:22:20
