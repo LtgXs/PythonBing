@@ -6,9 +6,9 @@
 ||*Copyright: Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)*
 ||
 |||
-|2024-05-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ChildrenDay2024_JA-JP8175282270_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChildrenDay2024_JA-JP8175282270_UHD.jpg)|
-||*Copyright: 大歩危峡に泳ぐ鯉のぼり, 徳島県 (© fz750/Getty Images)*
+|2024-05-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_JA-JP3004843172_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_JA-JP3004843172_UHD.jpg)|
+||*Copyright: ピークディストリクト国立公園, イギリス (© George W Johnson/Getty Images)*
 ||
 |||
 |2024-05-05|**Region: en-IN**||
