@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-05-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg)|
-||*Copyright: Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)*
+|2024-05-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg)|
+||*Copyright: The Roaches, Peak District, England (© George W Johnson/Getty Images)*
 ||
 |||
 |2024-05-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ピークディストリクト国立公園, イギリス (© George W Johnson/Getty Images)*
 ||
 |||
-|2024-05-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.KeralaRiver_EN-IN0661487977_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KeralaRiver_EN-IN0661487977_UHD.jpg)|
-||*Copyright: Beautiful aerial view of Kerala (© ebin francis/Shutterstock)*
+|2024-05-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-IN0923215557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-IN0923215557_UHD.jpg)|
+||*Copyright: The Roaches, Peak District, England (© George W Johnson/Getty Images)*
 ||
 |||
-|2024-05-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SanMiguelAllende_PT-BR8483156225_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanMiguelAllende_PT-BR8483156225_UHD.jpg)|
-||*Copyright: Colunata em San Miguel de Allende, Guanajuato, México (© Mint Images/Getty Images)*
+|2024-05-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_PT-BR6227220024_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_PT-BR6227220024_UHD.jpg)|
+||*Copyright: Heidelberg, no rio Neckar, em Baden-Württemberg, Alemanha (© Juergen Sack/Getty Images)*
 ||
 |||
-|2024-05-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SanMiguelAllende_FR-FR6896201862_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanMiguelAllende_FR-FR6896201862_UHD.jpg)|
-||*Copyright: Colonnade à San Miguel de Allende, Guanajuato, Mexique (© Mint Images/Getty Images)*
+|2024-05-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_FR-FR7206874137_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_FR-FR7206874137_UHD.jpg)|
+||*Copyright: Les Roaches, Peak District, Angleterre (© George W Johnson/Getty Images)*
 ||
 |||
-|2024-05-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SanMiguelAllende_DE-DE2308730889_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanMiguelAllende_DE-DE2308730889_UHD.jpg)|
-||*Copyright: Kolonnade in San Miguel de Allende, Guanajuato, Mexiko (© Mint Images/Getty Images)*
+|2024-05-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_DE-DE5320650823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_DE-DE5320650823_UHD.jpg)|
+||*Copyright: The Roaches, Peak District, Vereinigtes Königreich (© George W Johnson/Getty Images)*
 ||
 |||
-|2024-05-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.KalalochTree_EN-CA6384901158_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KalalochTree_EN-CA6384901158_UHD.jpg)|
-||*Copyright: Kalaloch Tree of Life, Kalaloch Beach, Olympic National Park, Washington (© Abbie Warnock-Matthews/Shutterstock)*
+|2024-05-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-CA6826651517_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-CA6826651517_UHD.jpg)|
+||*Copyright: The Roaches, Peak District, England (© George W Johnson/Getty Images)*
 ||
 |||
-|2024-05-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SanMiguelAllende_EN-GB7729877471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanMiguelAllende_EN-GB7729877471_UHD.jpg)|
-||*Copyright: Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)*
+|2024-05-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.JediMonastery_EN-GB8506812300_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_EN-GB8506812300_UHD.jpg)|
+||*Copyright: The ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)*
 ||
 |||
-|2024-05-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OrkneyStones_IT-IT2078101217_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrkneyStones_IT-IT2078101217_UHD.jpg)|
-||*Copyright: Il Cerchio di Brodgar, Orcadi, Scozia (© Paul Williams - FunkyStock/Getty Images)*
+|2024-05-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.JediMonastery_IT-IT4680145020_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_IT-IT4680145020_UHD.jpg)|
+||*Copyright: Le rovine di un antico monastero sull'isola di Skellig Michael, Irlanda (© MNStudio/Getty Images)*
 ||
 |||
-|2024-05-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GuanacoMother_ES-ES1631881267_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GuanacoMother_ES-ES1631881267_UHD.jpg)|
-||*Copyright: Hembra de guanaco y cría recién nacida en pastizal, provincia de La Pampa, Argentina (© Gabriel Rojo/Minden Pictures)*
+|2024-05-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_ES-ES3292625362_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_ES-ES3292625362_UHD.jpg)|
+||*Copyright: Heidelberg a orillas del río Neckar, en Baden-Wurtemberg, Alemania (© Juergen Sack/Getty Images)*
 ||
 |||
-|2024-05-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SanMiguelAllende_FR-CA8646700172_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanMiguelAllende_FR-CA8646700172_UHD.jpg)|
-||*Copyright: Colonnade à San Miguel de Allende, Guanajuato, Mexique (© Mint Images/Getty Images)*
+|2024-05-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_FR-CA1225264627_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_FR-CA1225264627_UHD.jpg)|
+||*Copyright: Les Roaches, Peak District, Angleterre (© George W Johnson/Getty Images)*
 ||
 |||
 

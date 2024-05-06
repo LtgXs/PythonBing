@@ -1,0 +1,60 @@
+
+Program started at 09:24:00
+Operating System Name: Linux
+Operating System Version: #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1490-895
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[09:24:00] Start geting CN Bing Wallpaper
+[09:24:00] Successful get url: https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_UHD.jpg
+[09:24:00] Image saved to img/background.jpg
+[09:24:00] Info saved to README.md
+[09:24:00] Image saved to history/2024/05/06.md
+[09:24:00] Start geting global Bing Wallpaper, region=en-US, local time is 2024-05-06 05:24:00.479581-04:00
+[09:24:00] Successful get url: https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg
+[09:24:00] Picture infomations saved to  global/en-US/README.md
+[09:24:00] Picture infomations saved to global/en-US/history/2024/05/07_en-US.md
+[09:24:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-06 18:24:00.770062+09:00
+[09:24:00] Successful get url: https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_JA-JP3004843172_UHD.jpg
+[09:24:00] Picture infomations saved to  global/ja-JP/README.md
+[09:24:00] Picture infomations saved to global/ja-JP/history/2024/05/06_ja-JP.md
+[09:24:00] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-05-06 14:54:01.011504+05:30
+[09:24:01] Successful get url: https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-IN0923215557_UHD.jpg
+[09:24:01] Picture infomations saved to  global/en-IN/README.md
+[09:24:01] Picture infomations saved to global/en-IN/history/2024/05/06_en-IN.md
+[09:24:01] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-05-06 06:24:01.236473-03:00
+[09:24:01] Successful get url: https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_PT-BR6227220024_UHD.jpg
+[09:24:01] Picture infomations saved to  global/pt-BR/README.md
+[09:24:01] Picture infomations saved to global/pt-BR/history/2024/05/07_pt-BR.md
+[09:24:01] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-05-06 11:24:01.445081+02:00
+[09:24:01] Successful get url: https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_FR-FR7206874137_UHD.jpg
+[09:24:01] Picture infomations saved to  global/fr-FR/README.md
+[09:24:01] Picture infomations saved to global/fr-FR/history/2024/05/06_fr-FR.md
+[09:24:01] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-05-06 11:24:01.654058+02:00
+[09:24:01] Successful get url: https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_DE-DE5320650823_UHD.jpg
+[09:24:01] Picture infomations saved to  global/de-DE/README.md
+[09:24:01] Picture infomations saved to global/de-DE/history/2024/05/06_de-DE.md
+[09:24:01] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-05-06 05:24:01.846891-04:00
+[09:24:01] Successful get url: https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-CA6826651517_UHD.jpg
+[09:24:02] Picture infomations saved to  global/en-CA/README.md
+[09:24:02] Picture infomations saved to global/en-CA/history/2024/05/07_en-CA.md
+[09:24:02] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-05-06 10:24:02.022024+01:00
+[09:24:02] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_EN-GB8506812300_UHD.jpg
+[09:24:02] Picture infomations saved to  global/en-GB/README.md
+[09:24:02] Picture infomations saved to global/en-GB/history/2024/05/06_en-GB.md
+[09:24:02] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-05-06 11:24:02.236732+02:00
+[09:24:02] Successful get url: https://www.bing.com/th?id=OHR.JediMonastery_IT-IT4680145020_UHD.jpg
+[09:24:02] Picture infomations saved to  global/it-IT/README.md
+[09:24:02] Picture infomations saved to global/it-IT/history/2024/05/06_it-IT.md
+[09:24:02] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-05-06 11:24:02.449742+02:00
+[09:24:02] Successful get url: https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_ES-ES3292625362_UHD.jpg
+[09:24:02] Picture infomations saved to  global/es-ES/README.md
+[09:24:02] Picture infomations saved to global/es-ES/history/2024/05/06_es-ES.md
+[09:24:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-05-06 05:24:02.687016-04:00
+[09:24:02] Successful get url: https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_FR-CA1225264627_UHD.jpg
+[09:24:02] Picture infomations saved to  global/fr-CA/README.md
+[09:24:02] Picture infomations saved to global/fr-CA/history/2024/05/07_fr-CA.md
+Program exit at 09:24:02
