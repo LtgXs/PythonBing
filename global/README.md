@@ -6,9 +6,9 @@
 ||*Copyright: A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)*
 ||
 |||
-|2024-05-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BlueCityIndia_JA-JP8642255541_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueCityIndia_JA-JP8642255541_UHD.jpg)|
-||*Copyright: ジョードプル, インド ラージャスターン州 (© cinoby/Getty Images)*
+|2024-05-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PortMarseille_JA-JP8874439197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortMarseille_JA-JP8874439197_UHD.jpg)|
+||*Copyright: マルセイユの街並みとシャトー・ディフ, フランス (© Sergii Figurnyi/Alamy)*
 ||
 |||
 |2024-05-07|**Region: en-IN**||
