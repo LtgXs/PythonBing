@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-05-07|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg)|
-||*Copyright: The Roaches, Peak District, England (© George W Johnson/Getty Images)*
+|2024-05-08|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg)|
+||*Copyright: A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)*
 ||
 |||
 |2024-05-07|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ジョードプル, インド ラージャスターン州 (© cinoby/Getty Images)*
 ||
 |||
-|2024-05-06|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-IN0923215557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-IN0923215557_UHD.jpg)|
-||*Copyright: The Roaches, Peak District, England (© George W Johnson/Getty Images)*
+|2024-05-07|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LittleDuckling_EN-IN1177865327_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleDuckling_EN-IN1177865327_UHD.jpg)|
+||*Copyright: A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)*
 ||
 |||
-|2024-05-07|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_PT-BR6227220024_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_PT-BR6227220024_UHD.jpg)|
-||*Copyright: Heidelberg, no rio Neckar, em Baden-Württemberg, Alemanha (© Juergen Sack/Getty Images)*
+|2024-05-08|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.LittleDuckling_PT-BR9050778673_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleDuckling_PT-BR9050778673_UHD.jpg)|
+||*Copyright: Um patinho nadando em um lago, Suffolk, Inglaterra (© Nick Hurst/Getty Images)*
 ||
 |||
-|2024-05-06|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_FR-FR7206874137_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_FR-FR7206874137_UHD.jpg)|
-||*Copyright: Les Roaches, Peak District, Angleterre (© George W Johnson/Getty Images)*
+|2024-05-07|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LittleDuckling_FR-FR7460969875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleDuckling_FR-FR7460969875_UHD.jpg)|
+||*Copyright: Un caneton nageant dans une prairie d'eau, Suffolk, Angleterre (© Nick Hurst/Getty Images)*
 ||
 |||
-|2024-05-06|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_DE-DE5320650823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_DE-DE5320650823_UHD.jpg)|
-||*Copyright: The Roaches, Peak District, Vereinigtes Königreich (© George W Johnson/Getty Images)*
+|2024-05-07|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SuspensionBridge_DE-DE5413963074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuspensionBridge_DE-DE5413963074_UHD.jpg)|
+||*Copyright: Titan RT - Fußgänger-Hängebrücke über Rappbodetalsperre und Rappbode im Nationalpark Harz, Sachsen-Anhalt (© Sander Meertins/Getty Images)*
 ||
 |||
-|2024-05-07|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-CA6826651517_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-CA6826651517_UHD.jpg)|
-||*Copyright: The Roaches, Peak District, England (© George W Johnson/Getty Images)*
+|2024-05-08|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LittleDuckling_EN-CA7068019573_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleDuckling_EN-CA7068019573_UHD.jpg)|
+||*Copyright: A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)*
 ||
 |||
-|2024-05-06|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.JediMonastery_EN-GB8506812300_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_EN-GB8506812300_UHD.jpg)|
-||*Copyright: The ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)*
+|2024-05-07|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.LittleDuckling_EN-GB2863897779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleDuckling_EN-GB2863897779_UHD.jpg)|
+||*Copyright: A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)*
 ||
 |||
-|2024-05-06|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.JediMonastery_IT-IT4680145020_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JediMonastery_IT-IT4680145020_UHD.jpg)|
-||*Copyright: Le rovine di un antico monastero sull'isola di Skellig Michael, Irlanda (© MNStudio/Getty Images)*
+|2024-05-07|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LaGeriaLanzarote_IT-IT5537790219_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaGeriaLanzarote_IT-IT5537790219_UHD.jpg)|
+||*Copyright: Vigneto vulcanico a Lanzarote, Isole Canarie (© Pol Albarrán/Getty Images)*
 ||
 |||
-|2024-05-06|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_ES-ES3292625362_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_ES-ES3292625362_UHD.jpg)|
-||*Copyright: Heidelberg a orillas del río Neckar, en Baden-Wurtemberg, Alemania (© Juergen Sack/Getty Images)*
+|2024-05-07|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LittleDuckling_ES-ES9482906211_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleDuckling_ES-ES9482906211_UHD.jpg)|
+||*Copyright: Un patito nadando en un estanque, Suffolk, Inglaterra (© Nick Hurst/Getty Images)*
 ||
 |||
-|2024-05-07|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_FR-CA1225264627_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_FR-CA1225264627_UHD.jpg)|
-||*Copyright: Les Roaches, Peak District, Angleterre (© George W Johnson/Getty Images)*
+|2024-05-08|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.LittleDuckling_FR-CA1449309231_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleDuckling_FR-CA1449309231_UHD.jpg)|
+||*Copyright: Un caneton nageant dans une prairie d'eau, Suffolk, Angleterre (© Nick Hurst/Getty Images)*
 ||
 |||
 
