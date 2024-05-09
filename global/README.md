@@ -6,9 +6,9 @@
 ||*Copyright: Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)*
 ||
 |||
-|2024-05-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EmirganPark_JA-JP9127414605_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EmirganPark_JA-JP9127414605_UHD.jpg)|
-||*Copyright: エミルギャン公園, トルコ (© Ozbalci/Getty Images)*
+|2024-05-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_JA-JP9378923555_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_JA-JP9378923555_UHD.jpg)|
+||*Copyright: ミソール島, インドネシア  (© Giordano Cipriani/Getty Images)*
 ||
 |||
 |2024-05-09|**Region: en-IN**||
