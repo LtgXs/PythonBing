@@ -6,9 +6,9 @@
 ||*Copyright: Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)*
 ||
 |||
-|2024-05-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_JA-JP9378923555_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_JA-JP9378923555_UHD.jpg)|
-||*Copyright: ミソール島, インドネシア  (© Giordano Cipriani/Getty Images)*
+|2024-05-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TexasIndigoBunting_JA-JP9651791616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TexasIndigoBunting_JA-JP9651791616_UHD.jpg)|
+||*Copyright: 枝にとまるルリノジコ, 米国 テキサス州 (© Jeff R Clow/Getty Images)*
 ||
 |||
 |2024-05-10|**Region: en-IN**||
