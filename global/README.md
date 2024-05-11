@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-05-11|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg)|
-||*Copyright: Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)*
+|2024-05-12|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg)|
+||*Copyright: An indigo bunting perched on a branch, Texas (© Jeff R Clow/Getty Images)*
 ||
 |||
 |2024-05-11|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 枝にとまるルリノジコ, 米国 テキサス州 (© Jeff R Clow/Getty Images)*
 ||
 |||
-|2024-05-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_EN-IN2026681829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_EN-IN2026681829_UHD.jpg)|
-||*Copyright: Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)*
+|2024-05-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TexasIndigoBunting_EN-IN8017166670_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TexasIndigoBunting_EN-IN8017166670_UHD.jpg)|
+||*Copyright: An indigo bunting perched on a branch, Texas (© Jeff R Clow/Getty Images)*
 ||
 |||
-|2024-05-11|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_PT-BR6517717174_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_PT-BR6517717174_UHD.jpg)|
-||*Copyright: Misool, Ilhas Raja Ampat, Indonésia (© Giordano Cipriani/Getty Images)*
+|2024-05-12|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TexasIndigoBunting_PT-BR6730881258_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TexasIndigoBunting_PT-BR6730881258_UHD.jpg)|
+||*Copyright: Um azulão empoleirado em um galho, Texas, Estados Unidos (© Jeff R Clow/Getty Images)*
 ||
 |||
-|2024-05-10|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_FR-FR9641192055_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_FR-FR9641192055_UHD.jpg)|
-||*Copyright: Misool, îles Raja Ampat, Indonésie (© Giordano Cipriani/Getty Images)*
+|2024-05-11|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TexasIndigoBunting_FR-FR9846433348_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TexasIndigoBunting_FR-FR9846433348_UHD.jpg)|
+||*Copyright: Passerin indigo, perché sur une branche, Texas, États-Unis (© Jeff R Clow/Getty Images)*
 ||
 |||
-|2024-05-10|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_DE-DE6830111784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_DE-DE6830111784_UHD.jpg)|
-||*Copyright: Misool, Raja Ampat, Archipel, Indonesien (© Giordano Cipriani/Getty Images)*
+|2024-05-11|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BlueCityIndia_DE-DE7777501336_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueCityIndia_DE-DE7777501336_UHD.jpg)|
+||*Copyright: Die „Blaue Stadt“ Jodhpur, Rajasthan, Indien (© cinoby/Getty Images)*
 ||
 |||
-|2024-05-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.OttawaTulipFest_EN-CA7422962019_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OttawaTulipFest_EN-CA7422962019_UHD.jpg)|
-||*Copyright: Tulips in front of the Parliament Buildings during the Tulip Festival in Ottawa (© Danielle Donders/Moment/Getty Images)*
+|2024-05-12|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TexasIndigoBunting_EN-CA7787624714_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TexasIndigoBunting_EN-CA7787624714_UHD.jpg)|
+||*Copyright: An indigo bunting perched on a branch, Texas (© Jeff R Clow/Getty Images)*
 ||
 |||
-|2024-05-10|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_EN-GB1531372722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_EN-GB1531372722_UHD.jpg)|
-||*Copyright: Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)*
+|2024-05-11|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TexasIndigoBunting_EN-GB6986084120_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TexasIndigoBunting_EN-GB6986084120_UHD.jpg)|
+||*Copyright: An indigo bunting perched on a branch, Texas, USA (© Jeff R Clow/Getty Images)*
 ||
 |||
-|2024-05-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_IT-IT8362086795_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_IT-IT8362086795_UHD.jpg)|
-||*Copyright: Misool, Isole Raja Ampat, Indonesia (© Giordano Cipriani/Getty Images)*
+|2024-05-11|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TexasIndigoBunting_IT-IT9364925475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TexasIndigoBunting_IT-IT9364925475_UHD.jpg)|
+||*Copyright: Uno zigolo indaco appollaiato su un ramo, Texas, USA (© Jeff R Clow/Getty Images)*
 ||
 |||
-|2024-05-10|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_ES-ES0084451413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_ES-ES0084451413_UHD.jpg)|
-||*Copyright: Misool, Islas Raja Ampat, Indonesia (© Giordano Cipriani/Getty Images)*
+|2024-05-11|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GironaForest_ES-ES1227964184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GironaForest_ES-ES1227964184_UHD.jpg)|
+||*Copyright: Tossa de Mar, Girona, Cataluña, España (© Artur Debat/Moment/Getty Images)*
 ||
 |||
-|2024-05-11|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.OttawaTulipFest_FR-CA3260706853_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OttawaTulipFest_FR-CA3260706853_UHD.jpg)|
-||*Copyright: Tulipes devant la Colline du Parlement pendant le festival des tulipes, Ottawa (© Danielle Donders/Moment/Getty Images)*
+|2024-05-12|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TexasIndigoBunting_FR-CA2244406449_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TexasIndigoBunting_FR-CA2244406449_UHD.jpg)|
+||*Copyright: Passerin indigo, perché sur une branche, Texas, États-Unis (© Jeff R Clow/Getty Images)*
 ||
 |||
 
