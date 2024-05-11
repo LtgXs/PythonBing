@@ -6,9 +6,9 @@
 ||*Copyright: An indigo bunting perched on a branch, Texas (© Jeff R Clow/Getty Images)*
 ||
 |||
-|2024-05-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TexasIndigoBunting_JA-JP9651791616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TexasIndigoBunting_JA-JP9651791616_UHD.jpg)|
-||*Copyright: 枝にとまるルリノジコ, 米国 テキサス州 (© Jeff R Clow/Getty Images)*
+|2024-05-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GuanacoMother_JA-JP0047652462_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GuanacoMother_JA-JP0047652462_UHD.jpg)|
+||*Copyright: グアナコの母子, アルゼンチン ラ・パンパ州 (© Gabriel Rojo/Minden Pictures)*
 ||
 |||
 |2024-05-11|**Region: en-IN**||
