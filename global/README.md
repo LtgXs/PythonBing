@@ -6,9 +6,9 @@
 ||*Copyright: Guanaco mother and newborn baby in grassland, La Pampa Province, Argentina (© Gabriel Rojo/Minden Pictures)*
 ||
 |||
-|2024-05-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GuanacoMother_JA-JP0047652462_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GuanacoMother_JA-JP0047652462_UHD.jpg)|
-||*Copyright: グアナコの母子, アルゼンチン ラ・パンパ州 (© Gabriel Rojo/Minden Pictures)*
+|2024-05-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NamibiaCanyon_JA-JP0410618255_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaCanyon_JA-JP0410618255_UHD.jpg)|
+||*Copyright: フィッシュリバー・キャニオン, ナミビア (© R. M. Nunes/Getty Images)*
 ||
 |||
 |2024-05-12|**Region: en-IN**||

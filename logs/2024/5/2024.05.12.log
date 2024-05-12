@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:21:46] Picture infomations saved to  global/fr-CA/README.md
 [09:21:46] Picture infomations saved to global/fr-CA/history/2024/05/13_fr-CA.md
 Program exit at 09:21:46
+
+Program started at 16:11:19
+Operating System Name: Linux
+Operating System Version: #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az2021-818
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[16:11:19] Start geting CN Bing Wallpaper
+[16:11:19] Successful get url: https://www.bing.com/th?id=OHR.NamibiaCanyon_ZH-CN3973338246_UHD.jpg
+[16:11:19] Image saved to img/background.jpg
+[16:11:19] Info saved to README.md
+[16:11:19] Image saved to history/2024/05/13.md
+[16:11:19] Start geting global Bing Wallpaper, region=en-US, local time is 2024-05-12 12:11:19.825130-04:00
+[16:11:19] Successful get url: https://www.bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_UHD.jpg
+[16:11:19] Picture infomations saved to  global/en-US/README.md
+[16:11:19] Picture infomations saved to global/en-US/history/2024/05/13_en-US.md
+[16:11:19] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-13 01:11:19.997721+09:00
+[16:11:20] Successful get url: https://www.bing.com/th?id=OHR.NamibiaCanyon_JA-JP0410618255_UHD.jpg
+[16:11:20] Picture infomations saved to  global/ja-JP/README.md
+[16:11:20] Picture infomations saved to global/ja-JP/history/2024/05/13_ja-JP.md
+[16:11:20] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-05-12 21:41:20.267825+05:30
+[16:11:20] Successful get url: https://www.bing.com/th?id=OHR.GuanacoMother_EN-IN2535708890_UHD.jpg
+[16:11:20] Picture infomations saved to  global/en-IN/README.md
+[16:11:20] Picture infomations saved to global/en-IN/history/2024/05/12_en-IN.md
+[16:11:20] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-05-12 13:11:20.498552-03:00
+[16:11:20] Successful get url: https://www.bing.com/th?id=OHR.GuanacoMother_PT-BR7069142219_UHD.jpg
+[16:11:20] Picture infomations saved to  global/pt-BR/README.md
+[16:11:20] Picture infomations saved to global/pt-BR/history/2024/05/13_pt-BR.md
+[16:11:20] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-05-12 18:11:20.841763+02:00
+[16:11:20] Successful get url: https://www.bing.com/th?id=OHR.CamargueFlamingos_FR-FR0995673980_UHD.jpg
+[16:11:21] Picture infomations saved to  global/fr-FR/README.md
+[16:11:21] Picture infomations saved to global/fr-FR/history/2024/05/12_fr-FR.md
+[16:11:21] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-05-12 18:11:21.013171+02:00
+[16:11:21] Successful get url: https://www.bing.com/th?id=OHR.GuanacoMother_DE-DE8465520187_UHD.jpg
+[16:11:21] Picture infomations saved to  global/de-DE/README.md
+[16:11:21] Picture infomations saved to global/de-DE/history/2024/05/12_de-DE.md
+[16:11:21] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-05-12 12:11:21.196508-04:00
+[16:11:21] Successful get url: https://www.bing.com/th?id=OHR.GuanacoMother_EN-CA8019143520_UHD.jpg
+[16:11:21] Picture infomations saved to  global/en-CA/README.md
+[16:11:21] Picture infomations saved to global/en-CA/history/2024/05/13_en-CA.md
+[16:11:21] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-05-12 17:11:21.347487+01:00
+[16:11:21] Successful get url: https://www.bing.com/th?id=OHR.SkiddawMassifUK_EN-GB5449719093_UHD.jpg
+[16:11:21] Picture infomations saved to  global/en-GB/README.md
+[16:11:21] Picture infomations saved to global/en-GB/history/2024/05/12_en-GB.md
+[16:11:21] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-05-12 18:11:21.710372+02:00
+[16:11:21] Successful get url: https://www.bing.com/th?id=OHR.BabyDolphinMom_IT-IT8782194786_UHD.jpg
+[16:11:21] Picture infomations saved to  global/it-IT/README.md
+[16:11:21] Picture infomations saved to global/it-IT/history/2024/05/12_it-IT.md
+[16:11:21] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-05-12 18:11:21.966957+02:00
+[16:11:22] Successful get url: https://www.bing.com/th?id=OHR.SanMiguelAllende_ES-ES3153624819_UHD.jpg
+[16:11:22] Picture infomations saved to  global/es-ES/README.md
+[16:11:22] Picture infomations saved to global/es-ES/history/2024/05/12_es-ES.md
+[16:11:22] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-05-12 12:11:22.146235-04:00
+[16:11:22] Successful get url: https://www.bing.com/th?id=OHR.GuanacoMother_FR-CA2387509434_UHD.jpg
+[16:11:22] Picture infomations saved to  global/fr-CA/README.md
+[16:11:22] Picture infomations saved to global/fr-CA/history/2024/05/13_fr-CA.md
+Program exit at 16:11:22
