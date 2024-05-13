@@ -6,9 +6,9 @@
 ||*Copyright: Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)*
 ||
 |||
-|2024-05-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NamibiaCanyon_JA-JP0410618255_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaCanyon_JA-JP0410618255_UHD.jpg)|
-||*Copyright: フィッシュリバー・キャニオン, ナミビア (© R. M. Nunes/Getty Images)*
+|2024-05-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CarlsbadNP_JA-JP0802484908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarlsbadNP_JA-JP0802484908_UHD.jpg)|
+||*Copyright: カールズバッド洞窟群国立公園, 米国 ニューメキシコ州 (© Doug Meek/Getty Images)*
 ||
 |||
 |2024-05-13|**Region: en-IN**||
