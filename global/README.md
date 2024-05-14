@@ -6,9 +6,9 @@
 ||*Copyright: Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Getty Images)*
 ||
 |||
-|2024-05-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CarlsbadNP_JA-JP0802484908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarlsbadNP_JA-JP0802484908_UHD.jpg)|
-||*Copyright: カールズバッド洞窟群国立公園, 米国 ニューメキシコ州 (© Doug Meek/Getty Images)*
+|2024-05-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AoiMatsuri2024_JA-JP1018506374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AoiMatsuri2024_JA-JP1018506374_UHD.jpg)|
+||*Copyright: 下鴨神社, 京都 (© beibaoke/Shutterstock)*
 ||
 |||
 |2024-05-14|**Region: en-IN**||
