@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-05-14|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg)|
-||*Copyright: Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)*
+|2024-05-15|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CarlsbadNP_EN-US2282243740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarlsbadNP_EN-US2282243740_UHD.jpg)|
+||*Copyright: Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Getty Images)*
 ||
 |||
 |2024-05-14|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: カールズバッド洞窟群国立公園, 米国 ニューメキシコ州 (© Doug Meek/Getty Images)*
 ||
 |||
-|2024-05-13|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.NamibiaCanyon_EN-IN2812270328_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaCanyon_EN-IN2812270328_UHD.jpg)|
-||*Copyright: Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)*
+|2024-05-14|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CarlsbadNP_EN-IN3004884534_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarlsbadNP_EN-IN3004884534_UHD.jpg)|
+||*Copyright: Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Getty Images)*
 ||
 |||
-|2024-05-14|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.NamibiaCanyon_PT-BR7314875835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaCanyon_PT-BR7314875835_UHD.jpg)|
-||*Copyright: Desfiladeiro do rio Fish, Namíbia (© R. M. Nunes/Getty Images)*
+|2024-05-15|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CarlsbadNP_PT-BR7544935694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarlsbadNP_PT-BR7544935694_UHD.jpg)|
+||*Copyright: Trilha que leva ao Big Room, Grutas de Carlsbad, Novo México (© Doug Meek/Getty Images)*
 ||
 |||
-|2024-05-13|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.NamibiaCanyon_FR-FR1473160217_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaCanyon_FR-FR1473160217_UHD.jpg)|
-||*Copyright: Canyon de la rivière Fish, Namibie (© R. M. Nunes/Getty Images)*
+|2024-05-14|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CarlsbadNP_FR-FR1644664306_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarlsbadNP_FR-FR1644664306_UHD.jpg)|
+||*Copyright: Parc national des grottes de Carlsbad, Nouveau-Mexique, États-Unis (© Doug Meek/Getty Images)*
 ||
 |||
-|2024-05-13|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.NamibiaCanyon_DE-DE8827731731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaCanyon_DE-DE8827731731_UHD.jpg)|
-||*Copyright: Fischfluss-Canyon, Namibia (© R. M. Nunes/Getty Images)*
+|2024-05-14|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CarlsbadNP_DE-DE9906842955_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarlsbadNP_DE-DE9906842955_UHD.jpg)|
+||*Copyright: Gang der in den Big Room führt, Carlsbad-Caverns-Nationalpark, New Mexico, USA (© Doug Meek/Getty Images)*
 ||
 |||
-|2024-05-14|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.NamibiaCanyon_EN-CA8189857469_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaCanyon_EN-CA8189857469_UHD.jpg)|
-||*Copyright: Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)*
+|2024-05-15|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CarlsbadNP_EN-CA8275462629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarlsbadNP_EN-CA8275462629_UHD.jpg)|
+||*Copyright: Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Getty Images)*
 ||
 |||
-|2024-05-13|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.NamibiaCanyon_EN-GB4973769370_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaCanyon_EN-GB4973769370_UHD.jpg)|
-||*Copyright: Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)*
+|2024-05-14|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CarlsbadNP_EN-GB5824134206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarlsbadNP_EN-GB5824134206_UHD.jpg)|
+||*Copyright: Walkway leading into the Big Room, Carlsbad Caverns, New Mexico, USA (© Doug Meek/Getty Images)*
 ||
 |||
-|2024-05-13|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.NamibiaCanyon_IT-IT9781699785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaCanyon_IT-IT9781699785_UHD.jpg)|
-||*Copyright: Canyon del fiume Fish, Namibia (© R. M. Nunes/Getty Images)*
+|2024-05-14|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CarlsbadNP_IT-IT7707347019_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarlsbadNP_IT-IT7707347019_UHD.jpg)|
+||*Copyright: Passerella che conduce alla Big Room, Carlsbad Caverns, Nuovo Messico, USA (© Doug Meek/Getty Images)*
 ||
 |||
-|2024-05-13|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.NamibiaCanyon_ES-ES0636008379_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaCanyon_ES-ES0636008379_UHD.jpg)|
-||*Copyright: Cañón del río Fish, Namibia (© R. M. Nunes/Getty Images)*
+|2024-05-14|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CarlsbadNP_ES-ES0756476646_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarlsbadNP_ES-ES0756476646_UHD.jpg)|
+||*Copyright: Pasarela de acceso a la Gran Sala, Cavernas de Carlsbad, Nuevo México, EE.UU. (© Doug Meek/Getty Images)*
 ||
 |||
-|2024-05-14|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.NamibiaCanyon_FR-CA2544302315_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaCanyon_FR-CA2544302315_UHD.jpg)|
-||*Copyright: Canyon de la rivière Fish, Namibie (© R. M. Nunes/Getty Images)*
+|2024-05-15|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CarlsbadNP_FR-CA2715604410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarlsbadNP_FR-CA2715604410_UHD.jpg)|
+||*Copyright: Parc national des grottes de Carlsbad, Nouveau-Mexique, États-Unis (© Doug Meek/Getty Images)*
 ||
 |||
 
