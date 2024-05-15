@@ -6,9 +6,9 @@
 ||*Copyright: The Blue City of Jodhpur, India (© cinoby/Getty Images)*
 ||
 |||
-|2024-05-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AoiMatsuri2024_JA-JP1018506374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AoiMatsuri2024_JA-JP1018506374_UHD.jpg)|
-||*Copyright: 下鴨神社, 京都 (© beibaoke/Shutterstock)*
+|2024-05-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DayOfLight_JA-JP1257596439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DayOfLight_JA-JP1257596439_UHD.jpg)|
+||*Copyright: ユーレンス現代美術センター, 中国 北京 (© Feng Li/Getty Images News)*
 ||
 |||
 |2024-05-15|**Region: en-IN**||
