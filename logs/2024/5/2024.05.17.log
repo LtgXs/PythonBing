@@ -1,0 +1,60 @@
+
+Program started at 09:24:50
+Operating System Name: Linux
+Operating System Version: #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1432-258
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[09:24:50] Start geting CN Bing Wallpaper
+[09:24:51] Successful get url: https://www.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_UHD.jpg
+[09:24:51] Image saved to img/background.jpg
+[09:24:51] Info saved to README.md
+[09:24:51] Image saved to history/2024/05/17.md
+[09:24:51] Start geting global Bing Wallpaper, region=en-US, local time is 2024-05-17 05:24:51.198794-04:00
+[09:24:51] Successful get url: https://www.bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg
+[09:24:51] Picture infomations saved to  global/en-US/README.md
+[09:24:51] Picture infomations saved to global/en-US/history/2024/05/18_en-US.md
+[09:24:51] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-17 18:24:51.409697+09:00
+[09:24:51] Successful get url: https://www.bing.com/th?id=OHR.TarangireElephants_JA-JP9488936307_UHD.jpg
+[09:24:51] Picture infomations saved to  global/ja-JP/README.md
+[09:24:51] Picture infomations saved to global/ja-JP/history/2024/05/17_ja-JP.md
+[09:24:51] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-05-17 14:54:51.629103+05:30
+[09:24:51] Successful get url: https://www.bing.com/th?id=OHR.TarangireElephants_EN-IN4532502651_UHD.jpg
+[09:24:51] Picture infomations saved to  global/en-IN/README.md
+[09:24:51] Picture infomations saved to global/en-IN/history/2024/05/17_en-IN.md
+[09:24:51] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-05-17 06:24:51.833724-03:00
+[09:24:51] Successful get url: https://www.bing.com/th?id=OHR.TarangireElephants_PT-BR9979896896_UHD.jpg
+[09:24:52] Picture infomations saved to  global/pt-BR/README.md
+[09:24:52] Picture infomations saved to global/pt-BR/history/2024/05/18_pt-BR.md
+[09:24:52] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-05-17 11:24:52.023225+02:00
+[09:24:52] Successful get url: https://www.bing.com/th?id=OHR.TarangireElephants_FR-FR7017565181_UHD.jpg
+[09:24:52] Picture infomations saved to  global/fr-FR/README.md
+[09:24:52] Picture infomations saved to global/fr-FR/history/2024/05/17_fr-FR.md
+[09:24:52] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-05-17 11:24:52.245667+02:00
+[09:24:52] Successful get url: https://www.bing.com/th?id=OHR.TarangireElephants_DE-DE6659781135_UHD.jpg
+[09:24:53] Picture infomations saved to  global/de-DE/README.md
+[09:24:53] Picture infomations saved to global/de-DE/history/2024/05/17_de-DE.md
+[09:24:53] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-05-17 05:24:53.032291-04:00
+[09:24:53] Successful get url: https://www.bing.com/th?id=OHR.TarangireElephants_EN-CA3710985340_UHD.jpg
+[09:24:53] Picture infomations saved to  global/en-CA/README.md
+[09:24:53] Picture infomations saved to global/en-CA/history/2024/05/18_en-CA.md
+[09:24:53] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-05-17 10:24:53.234270+01:00
+[09:24:53] Successful get url: https://www.bing.com/th?id=OHR.TarangireElephants_EN-GB3515198884_UHD.jpg
+[09:24:53] Picture infomations saved to  global/en-GB/README.md
+[09:24:53] Picture infomations saved to global/en-GB/history/2024/05/17_en-GB.md
+[09:24:53] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-05-17 11:24:53.430531+02:00
+[09:24:53] Successful get url: https://www.bing.com/th?id=OHR.BergamoAlta_IT-IT3472701981_UHD.jpg
+[09:24:53] Picture infomations saved to  global/it-IT/README.md
+[09:24:53] Picture infomations saved to global/it-IT/history/2024/05/17_it-IT.md
+[09:24:53] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-05-17 11:24:53.696695+02:00
+[09:24:53] Successful get url: https://www.bing.com/th?id=OHR.TarangireElephants_ES-ES3245528088_UHD.jpg
+[09:24:53] Picture infomations saved to  global/es-ES/README.md
+[09:24:53] Picture infomations saved to global/es-ES/history/2024/05/17_es-ES.md
+[09:24:53] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-05-17 05:24:53.924275-04:00
+[09:24:53] Successful get url: https://www.bing.com/th?id=OHR.TarangireElephants_FR-CA3165126231_UHD.jpg
+[09:24:54] Picture infomations saved to  global/fr-CA/README.md
+[09:24:54] Picture infomations saved to global/fr-CA/history/2024/05/18_fr-CA.md
+Program exit at 09:24:54
