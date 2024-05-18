@@ -6,9 +6,9 @@
 ||*Copyright: Blue whale skeleton in the Natural History Museum, London, England (© Bailey-Cooper Photography/Alamy)*
 ||
 |||
-|2024-05-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Museum2024_JA-JP9828975611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Museum2024_JA-JP9828975611_UHD.jpg)|
-||*Copyright: 日本科学未来館, 東京都 江東区 (© cowardlion/Shutterstock)*
+|2024-05-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.VernazzaItaly_JA-JP0110983802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VernazzaItaly_JA-JP0110983802_UHD.jpg)|
+||*Copyright: ヴェルナッツァ, イタリア リグーリア州 (© Roberto Moiola/Sysaworld/Getty Images)*
 ||
 |||
 |2024-05-18|**Region: en-IN**||
