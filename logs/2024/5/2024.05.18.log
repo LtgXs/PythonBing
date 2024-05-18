@@ -1,0 +1,60 @@
+
+Program started at 09:23:10
+Operating System Name: Linux
+Operating System Version: #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1106-239
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[09:23:10] Start geting CN Bing Wallpaper
+[09:23:10] Successful get url: https://www.bing.com/th?id=OHR.PacificRimNationalPark_ZH-CN5809123424_UHD.jpg
+[09:23:10] Image saved to img/background.jpg
+[09:23:10] Info saved to README.md
+[09:23:10] Image saved to history/2024/05/18.md
+[09:23:10] Start geting global Bing Wallpaper, region=en-US, local time is 2024-05-18 05:23:10.728605-04:00
+[09:23:10] Successful get url: https://www.bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg
+[09:23:10] Picture infomations saved to  global/en-US/README.md
+[09:23:10] Picture infomations saved to global/en-US/history/2024/05/19_en-US.md
+[09:23:10] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-18 18:23:10.958575+09:00
+[09:23:11] Successful get url: https://www.bing.com/th?id=OHR.Museum2024_JA-JP9828975611_UHD.jpg
+[09:23:11] Picture infomations saved to  global/ja-JP/README.md
+[09:23:11] Picture infomations saved to global/ja-JP/history/2024/05/18_ja-JP.md
+[09:23:11] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-05-18 14:53:11.157162+05:30
+[09:23:11] Successful get url: https://www.bing.com/th?id=OHR.MuseumWhale_EN-IN4765329631_UHD.jpg
+[09:23:11] Picture infomations saved to  global/en-IN/README.md
+[09:23:11] Picture infomations saved to global/en-IN/history/2024/05/18_en-IN.md
+[09:23:11] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-05-18 06:23:11.371981-03:00
+[09:23:11] Successful get url: https://www.bing.com/th?id=OHR.MuseumWhale_PT-BR0044062488_UHD.jpg
+[09:23:11] Picture infomations saved to  global/pt-BR/README.md
+[09:23:11] Picture infomations saved to global/pt-BR/history/2024/05/19_pt-BR.md
+[09:23:11] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-05-18 11:23:11.579707+02:00
+[09:23:11] Successful get url: https://www.bing.com/th?id=OHR.MuseumWhale_FR-FR7280247552_UHD.jpg
+[09:23:11] Picture infomations saved to  global/fr-FR/README.md
+[09:23:11] Picture infomations saved to global/fr-FR/history/2024/05/18_fr-FR.md
+[09:23:11] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-05-18 11:23:11.757541+02:00
+[09:23:11] Successful get url: https://www.bing.com/th?id=OHR.VernazzaItaly_DE-DE7128590737_UHD.jpg
+[09:23:11] Picture infomations saved to  global/de-DE/README.md
+[09:23:11] Picture infomations saved to global/de-DE/history/2024/05/18_de-DE.md
+[09:23:11] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-05-18 05:23:11.965189-04:00
+[09:23:12] Successful get url: https://www.bing.com/th?id=OHR.MuseumWhale_EN-CA4260843358_UHD.jpg
+[09:23:12] Picture infomations saved to  global/en-CA/README.md
+[09:23:12] Picture infomations saved to global/en-CA/history/2024/05/19_en-CA.md
+[09:23:12] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-05-18 10:23:12.167069+01:00
+[09:23:12] Successful get url: https://www.bing.com/th?id=OHR.MuseumWhale_EN-GB3804883018_UHD.jpg
+[09:23:12] Picture infomations saved to  global/en-GB/README.md
+[09:23:12] Picture infomations saved to global/en-GB/history/2024/05/18_en-GB.md
+[09:23:12] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-05-18 11:23:12.510783+02:00
+[09:23:12] Successful get url: https://www.bing.com/th?id=OHR.MuseumWhale_IT-IT4738172799_UHD.jpg
+[09:23:12] Picture infomations saved to  global/it-IT/README.md
+[09:23:12] Picture infomations saved to global/it-IT/history/2024/05/18_it-IT.md
+[09:23:12] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-05-18 11:23:12.757046+02:00
+[09:23:12] Successful get url: https://www.bing.com/th?id=OHR.IronmanLanzarote_ES-ES3524222384_UHD.jpg
+[09:23:12] Picture infomations saved to  global/es-ES/README.md
+[09:23:12] Picture infomations saved to global/es-ES/history/2024/05/18_es-ES.md
+[09:23:12] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-05-18 05:23:12.905443-04:00
+[09:23:12] Successful get url: https://www.bing.com/th?id=OHR.MuseumWhale_FR-CA3327752142_UHD.jpg
+[09:23:13] Picture infomations saved to  global/fr-CA/README.md
+[09:23:13] Picture infomations saved to global/fr-CA/history/2024/05/19_fr-CA.md
+Program exit at 09:23:13
