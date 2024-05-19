@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2024-05-19
+## History Bing Wallpaper
+Wallpaper date: 2024-05-19
 ![](https://www.bing.com/th?id=OHR.VernazzaItaly_EN-GB4204136839_UHD.jpg&w=1000)Download: [Village of Vernazza, Cinque Terre, Liguria, Italy (© Roberto Moiola/Sysaworld/Getty Images)](https://www.bing.com/th?id=OHR.VernazzaItaly_EN-GB4204136839_UHD.jpg)
 
 Auto get programm by LtgX
