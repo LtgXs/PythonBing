@@ -6,9 +6,9 @@
 ||*Copyright: Village of Vernazza, Cinque Terre, Liguria, Italy (© Roberto Moiola/Sysaworld/Getty Images)*
 ||
 |||
-|2024-05-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.VernazzaItaly_JA-JP0110983802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VernazzaItaly_JA-JP0110983802_UHD.jpg)|
-||*Copyright: ヴェルナッツァ, イタリア リグーリア州 (© Roberto Moiola/Sysaworld/Getty Images)*
+|2024-05-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HoneycombBee_JA-JP0520778035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneycombBee_JA-JP0520778035_UHD.jpg)|
+||*Copyright: 巣を作っているミツバチ (© Simun Ascic/Alamy)*
 ||
 |||
 |2024-05-19|**Region: en-IN**||
