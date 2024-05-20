@@ -6,9 +6,9 @@
 ||*Copyright: Bee tending a honeycomb (© Simun Ascic/Alamy)*
 ||
 |||
-|2024-05-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HoneycombBee_JA-JP0520778035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneycombBee_JA-JP0520778035_UHD.jpg)|
-||*Copyright: 巣を作っているミツバチ (© Simun Ascic/Alamy)*
+|2024-05-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MalaysiaTea_JA-JP0806186041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MalaysiaTea_JA-JP0806186041_UHD.jpg)|
+||*Copyright: キャメロンハイランドの茶畑, マレーシア (© alex cheong/Getty Images)*
 ||
 |||
 |2024-05-20|**Region: en-IN**||
