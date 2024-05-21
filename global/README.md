@@ -6,9 +6,9 @@
 ||*Copyright: Cameron Highlands tea plantation, Malaysia (© alex cheong/Getty Images)*
 ||
 |||
-|2024-05-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MalaysiaTea_JA-JP0806186041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MalaysiaTea_JA-JP0806186041_UHD.jpg)|
-||*Copyright: キャメロンハイランドの茶畑, マレーシア (© alex cheong/Getty Images)*
+|2024-05-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SkyTree2024_JA-JP0993799568_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkyTree2024_JA-JP0993799568_UHD.jpg)|
+||*Copyright: 夕暮れの東京スカイツリー,  東京 (© Saha Entertainment/Getty Images)*
 ||
 |||
 |2024-05-21|**Region: en-IN**||
