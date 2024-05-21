@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2024-05-22
+## History Bing Wallpaper
+Wallpaper date: 2024-05-22
 ![](https://www.bing.com/th?id=OHR.MalaysiaTea_EN-CA2918348578_UHD.jpg&w=1000)Download: [Cameron Highlands tea plantation, Malaysia (© alex cheong/Getty Images)](https://www.bing.com/th?id=OHR.MalaysiaTea_EN-CA2918348578_UHD.jpg)
 
 Auto get programm by LtgX
