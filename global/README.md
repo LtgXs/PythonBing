@@ -6,9 +6,9 @@
 ||*Copyright: Tasmanian snow gum trees, Mount Field National Park, Tasmania, Australia (© Ignacio Palacios/Getty Images)*
 ||
 |||
-|2024-05-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SkyTree2024_JA-JP0993799568_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkyTree2024_JA-JP0993799568_UHD.jpg)|
-||*Copyright: 夕暮れの東京スカイツリー,  東京 (© Saha Entertainment/Getty Images)*
+|2024-05-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IndianStarTortoise_JA-JP1239891119_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndianStarTortoise_JA-JP1239891119_UHD.jpg)|
+||*Copyright: インドホシガメ, スリランカ (© Robin Chittenden/Minden Pictures)*
 ||
 |||
 |2024-05-22|**Region: en-IN**||
