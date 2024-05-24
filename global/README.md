@@ -6,9 +6,9 @@
 ||*Copyright: Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock)*
 ||
 |||
-|2024-05-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OrdesaNationalPark_JA-JP1484731643_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrdesaNationalPark_JA-JP1484731643_UHD.jpg)|
-||*Copyright: オルデサ・イ・モンテ・ペルディード国立公園, スペイン (© Marisa Estivill/Shutterstock)*
+|2024-05-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_JA-JP1858999164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_JA-JP1858999164_UHD.jpg)|
+||*Copyright: アイット・ベン・ハドゥ, モロッコ (© Grant Faint/Getty Images)*
 ||
 |||
 |2024-05-24|**Region: en-IN**||
