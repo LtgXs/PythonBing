@@ -6,9 +6,9 @@
 ||*Copyright: Aït Benhaddou, Morocco (© Grant Faint/Getty Images)*
 ||
 |||
-|2024-05-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_JA-JP1858999164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_JA-JP1858999164_UHD.jpg)|
-||*Copyright: アイット・ベン・ハドゥ, モロッコ (© Grant Faint/Getty Images)*
+|2024-05-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MethowWildflowers_JA-JP2117575252_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethowWildflowers_JA-JP2117575252_UHD.jpg)|
+||*Copyright: メソウ・バレー, 米国 ワシントン州 (© Alan Majchrowicz/Getty Images)*
 ||
 |||
 |2024-05-25|**Region: en-IN**||

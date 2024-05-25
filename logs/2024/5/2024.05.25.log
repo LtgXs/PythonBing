@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:23:25] Picture infomations saved to  global/fr-CA/README.md
 [09:23:25] Picture infomations saved to global/fr-CA/history/2024/05/26_fr-CA.md
 Program exit at 09:23:25
+
+Program started at 16:11:06
+Operating System Name: Linux
+Operating System Version: #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1022-550
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[16:11:06] Start geting CN Bing Wallpaper
+[16:11:07] Successful get url: https://www.bing.com/th?id=OHR.MethowWildflowers_ZH-CN8926661958_UHD.jpg
+[16:11:07] Image saved to img/background.jpg
+[16:11:07] Info saved to README.md
+[16:11:07] Image saved to history/2024/05/26.md
+[16:11:07] Start geting global Bing Wallpaper, region=en-US, local time is 2024-05-25 12:11:07.107793-04:00
+[16:11:07] Successful get url: https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg
+[16:11:07] Picture infomations saved to  global/en-US/README.md
+[16:11:07] Picture infomations saved to global/en-US/history/2024/05/26_en-US.md
+[16:11:07] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-26 01:11:07.257980+09:00
+[16:11:07] Successful get url: https://www.bing.com/th?id=OHR.MethowWildflowers_JA-JP2117575252_UHD.jpg
+[16:11:07] Picture infomations saved to  global/ja-JP/README.md
+[16:11:07] Picture infomations saved to global/ja-JP/history/2024/05/26_ja-JP.md
+[16:11:07] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-05-25 21:41:07.367256+05:30
+[16:11:07] Successful get url: https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-IN4913242303_UHD.jpg
+[16:11:07] Picture infomations saved to  global/en-IN/README.md
+[16:11:07] Picture infomations saved to global/en-IN/history/2024/05/25_en-IN.md
+[16:11:07] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-05-25 13:11:07.525046-03:00
+[16:11:07] Successful get url: https://www.bing.com/th?id=OHR.MoroccoBenhaddou_PT-BR0472580311_UHD.jpg
+[16:11:07] Picture infomations saved to  global/pt-BR/README.md
+[16:11:07] Picture infomations saved to global/pt-BR/history/2024/05/26_pt-BR.md
+[16:11:07] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-05-25 18:11:07.683052+02:00
+[16:11:07] Successful get url: https://www.bing.com/th?id=OHR.MoroccoBenhaddou_FR-FR8548629295_UHD.jpg
+[16:11:07] Picture infomations saved to  global/fr-FR/README.md
+[16:11:07] Picture infomations saved to global/fr-FR/history/2024/05/25_fr-FR.md
+[16:11:07] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-05-25 18:11:07.832941+02:00
+[16:11:07] Successful get url: https://www.bing.com/th?id=OHR.MoroccoBenhaddou_DE-DE9640944189_UHD.jpg
+[16:11:07] Picture infomations saved to  global/de-DE/README.md
+[16:11:07] Picture infomations saved to global/de-DE/history/2024/05/25_de-DE.md
+[16:11:07] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-05-25 12:11:07.970074-04:00
+[16:11:08] Successful get url: https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-CA5085608684_UHD.jpg
+[16:11:08] Picture infomations saved to  global/en-CA/README.md
+[16:11:08] Picture infomations saved to global/en-CA/history/2024/05/26_en-CA.md
+[16:11:08] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-05-25 17:11:08.114656+01:00
+[16:11:08] Successful get url: https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-GB8113662497_UHD.jpg
+[16:11:08] Picture infomations saved to  global/en-GB/README.md
+[16:11:08] Picture infomations saved to global/en-GB/history/2024/05/25_en-GB.md
+[16:11:08] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-05-25 18:11:08.289488+02:00
+[16:11:08] Successful get url: https://www.bing.com/th?id=OHR.MoroccoBenhaddou_IT-IT7804111538_UHD.jpg
+[16:11:08] Picture infomations saved to  global/it-IT/README.md
+[16:11:08] Picture infomations saved to global/it-IT/history/2024/05/25_it-IT.md
+[16:11:08] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-05-25 18:11:08.497585+02:00
+[16:11:08] Successful get url: https://www.bing.com/th?id=OHR.CorpusChristiGranada_ES-ES5471686703_UHD.jpg
+[16:11:08] Picture infomations saved to  global/es-ES/README.md
+[16:11:08] Picture infomations saved to global/es-ES/history/2024/05/25_es-ES.md
+[16:11:08] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-05-25 12:11:08.653336-04:00
+[16:11:08] Successful get url: https://www.bing.com/th?id=OHR.MoroccoBenhaddou_FR-CA3142021399_UHD.jpg
+[16:11:08] Picture infomations saved to  global/fr-CA/README.md
+[16:11:08] Picture infomations saved to global/fr-CA/history/2024/05/26_fr-CA.md
+Program exit at 16:11:08
