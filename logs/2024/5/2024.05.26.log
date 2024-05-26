@@ -1,0 +1,60 @@
+
+Program started at 09:24:19
+Operating System Name: Linux
+Operating System Version: #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1393-310
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[09:24:19] Start geting CN Bing Wallpaper
+[09:24:19] Successful get url: https://www.bing.com/th?id=OHR.MethowWildflowers_ZH-CN8926661958_UHD.jpg
+[09:24:19] Image saved to img/background.jpg
+[09:24:19] Info saved to README.md
+[09:24:19] Image saved to history/2024/05/26.md
+[09:24:19] Start geting global Bing Wallpaper, region=en-US, local time is 2024-05-26 05:24:19.166937-04:00
+[09:24:19] Successful get url: https://www.bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg
+[09:24:19] Picture infomations saved to  global/en-US/README.md
+[09:24:19] Picture infomations saved to global/en-US/history/2024/05/27_en-US.md
+[09:24:19] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-26 18:24:19.294270+09:00
+[09:24:19] Successful get url: https://www.bing.com/th?id=OHR.MethowWildflowers_JA-JP2117575252_UHD.jpg
+[09:24:19] Picture infomations saved to  global/ja-JP/README.md
+[09:24:19] Picture infomations saved to global/ja-JP/history/2024/05/26_ja-JP.md
+[09:24:19] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-05-26 14:54:19.428423+05:30
+[09:24:19] Successful get url: https://www.bing.com/th?id=OHR.MethowWildflowers_EN-IN4970374222_UHD.jpg
+[09:24:19] Picture infomations saved to  global/en-IN/README.md
+[09:24:19] Picture infomations saved to global/en-IN/history/2024/05/26_en-IN.md
+[09:24:19] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-05-26 06:24:19.526526-03:00
+[09:24:19] Successful get url: https://www.bing.com/th?id=OHR.MethowWildflowers_PT-BR0540541576_UHD.jpg
+[09:24:19] Picture infomations saved to  global/pt-BR/README.md
+[09:24:19] Picture infomations saved to global/pt-BR/history/2024/05/27_pt-BR.md
+[09:24:19] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-05-26 11:24:19.651195+02:00
+[09:24:19] Successful get url: https://www.bing.com/th?id=OHR.MonacoGP_FR-FR9314919538_UHD.jpg
+[09:24:19] Picture infomations saved to  global/fr-FR/README.md
+[09:24:19] Picture infomations saved to global/fr-FR/history/2024/05/26_fr-FR.md
+[09:24:19] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-05-26 11:24:19.752792+02:00
+[09:24:19] Successful get url: https://www.bing.com/th?id=OHR.ElbeSandstone_DE-DE9941836770_UHD.jpg
+[09:24:19] Picture infomations saved to  global/de-DE/README.md
+[09:24:19] Picture infomations saved to global/de-DE/history/2024/05/26_de-DE.md
+[09:24:19] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-05-26 05:24:19.871981-04:00
+[09:24:19] Successful get url: https://www.bing.com/th?id=OHR.MethowWildflowers_EN-CA5562185332_UHD.jpg
+[09:24:19] Picture infomations saved to  global/en-CA/README.md
+[09:24:19] Picture infomations saved to global/en-CA/history/2024/05/27_en-CA.md
+[09:24:19] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-05-26 10:24:19.980825+01:00
+[09:24:20] Successful get url: https://www.bing.com/th?id=OHR.MethowWildflowers_EN-GB8398636525_UHD.jpg
+[09:24:20] Picture infomations saved to  global/en-GB/README.md
+[09:24:20] Picture infomations saved to global/en-GB/history/2024/05/26_en-GB.md
+[09:24:20] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-05-26 11:24:20.072561+02:00
+[09:24:20] Successful get url: https://www.bing.com/th?id=OHR.MethowWildflowers_IT-IT7261352417_UHD.jpg
+[09:24:20] Picture infomations saved to  global/it-IT/README.md
+[09:24:20] Picture infomations saved to global/it-IT/history/2024/05/26_it-IT.md
+[09:24:20] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-05-26 11:24:20.161621+02:00
+[09:24:20] Successful get url: https://www.bing.com/th?id=OHR.MethowWildflowers_ES-ES5583730186_UHD.jpg
+[09:24:20] Picture infomations saved to  global/es-ES/README.md
+[09:24:20] Picture infomations saved to global/es-ES/history/2024/05/26_es-ES.md
+[09:24:20] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-05-26 05:24:20.334859-04:00
+[09:24:20] Successful get url: https://www.bing.com/th?id=OHR.MethowWildflowers_FR-CA3284491612_UHD.jpg
+[09:24:20] Picture infomations saved to  global/fr-CA/README.md
+[09:24:20] Picture infomations saved to global/fr-CA/history/2024/05/27_fr-CA.md
+Program exit at 09:24:20
