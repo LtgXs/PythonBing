@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-05-27|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg)|
-||*Copyright: Balsamroot and lupines, Methow Valley, North Cascades, Washington (© Alan Majchrowicz/Getty Images)*
+|2024-05-28|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_UHD.jpg)|
+||*Copyright: Field of flags set up for Memorial Day (© Andrew Seegmiller/Getty Images)*
 ||
 |||
 |2024-05-27|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ナミハリネズミ, ドイツ ノルトライン＝ヴェストファーレン州 (© Oksana Schmidt/Getty Images)*
 ||
 |||
-|2024-05-26|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-IN4970374222_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-IN4970374222_UHD.jpg)|
-||*Copyright: Balsamroot and lupines, Methow Valley, North Cascades, Washington (© Alan Majchrowicz/Getty Images)*
+|2024-05-27|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ShivaDarasuram_EN-IN5077554474_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShivaDarasuram_EN-IN5077554474_UHD.jpg)|
+||*Copyright: Airavatesvara Temple at Darasuram, Tamil Nadu, built by Chola kings (© Narayan Kumar Photography/Shutterstock)*
 ||
 |||
-|2024-05-27|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MethowWildflowers_PT-BR0540541576_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethowWildflowers_PT-BR0540541576_UHD.jpg)|
-||*Copyright: Bálsamos e lupinos, Methow Valley, North Cascades, Washington, EUA (© Alan Majchrowicz/Getty Images)*
+|2024-05-28|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MataAtlantica_PT-BR0600772527_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MataAtlantica_PT-BR0600772527_UHD.jpg)|
+||*Copyright: Parque Nacional Serra dos Órgãos em Petrópolis, Río de Janeiro (© MesquitaFMS/Getty Images)*
 ||
 |||
-|2024-05-26|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MonacoGP_FR-FR9314919538_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonacoGP_FR-FR9314919538_UHD.jpg)|
-||*Copyright: Monte Carlo au crépuscule, Monaco (©  StockByM/Getty Images)*
+|2024-05-27|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Guiana_FR-FR0757423981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Guiana_FR-FR0757423981_UHD.jpg)|
+||*Copyright: Bébé tortue olivâtre quittant le nid pour rejoindre l'océan, plage de Remire-Montjoly, Cayenne, Guyanne (© Brusini Aurélien/hemis.fr)*
 ||
 |||
-|2024-05-26|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ElbeSandstone_DE-DE9941836770_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbeSandstone_DE-DE9941836770_UHD.jpg)|
-||*Copyright: Elbsandsteingebirge und Basteibrücke im Nationalpark Sächsische Schweiz, Sachsen (© Harald Nachtmann/Getty Images)*
+|2024-05-27|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SestriLevante_DE-DE0573141632_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SestriLevante_DE-DE0573141632_UHD.jpg)|
+||*Copyright: Baia del Silenzio in Sestri Levante, Ligurien, Italien (© StevanZZ/Getty Images)*
 ||
 |||
-|2024-05-27|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-CA5562185332_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-CA5562185332_UHD.jpg)|
-||*Copyright: Balsamroot and lupines, Methow Valley, North Cascades, Washington (© Alan Majchrowicz/Getty Images)*
+|2024-05-28|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MinganArchipelago_EN-CA5872186861_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinganArchipelago_EN-CA5872186861_UHD.jpg)|
+||*Copyright: Mingan Archipelago National Park Reserve, Quebec, Canada (© Instants/E+/Getty Images)*
 ||
 |||
-|2024-05-26|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-GB8398636525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-GB8398636525_UHD.jpg)|
-||*Copyright: Balsamroot and lupines, Methow Valley, North Cascades, Washington, USA (© Alan Majchrowicz/Getty Images)*
+|2024-05-27|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HayFestival2024_EN-GB9332975021_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HayFestival2024_EN-GB9332975021_UHD.jpg)|
+||*Copyright: Second-hand books at the Hay Festival, Hay-on-Wye, Wales (© Christopher Furlong/Staff/Getty Images News)*
 ||
 |||
-|2024-05-26|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MethowWildflowers_IT-IT7261352417_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethowWildflowers_IT-IT7261352417_UHD.jpg)|
-||*Copyright: Balsamorhiza sagittata e lupini, Methow Valley, North Cascades, Washington, USA (© Alan Majchrowicz/Getty Images)*
+|2024-05-27|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SestriLevante_IT-IT7994211355_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SestriLevante_IT-IT7994211355_UHD.jpg)|
+||*Copyright: Baia del Silenzio in Sestri Levante, Liguria, Italia (© StevanZZ/Getty Images)*
 ||
 |||
-|2024-05-26|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MethowWildflowers_ES-ES5583730186_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethowWildflowers_ES-ES5583730186_UHD.jpg)|
-||*Copyright: Balsamorhiza y lupinos, Valle de Methow, Cascadas del Norte, Washington, EE.UU. (© Alan Majchrowicz/Getty Images)*
+|2024-05-27|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SestriLevante_ES-ES5697216326_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SestriLevante_ES-ES5697216326_UHD.jpg)|
+||*Copyright: Baia del Silenzio en Sestri Levante, Liguria, Italia (© StevanZZ/Getty Images)*
 ||
 |||
-|2024-05-27|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MethowWildflowers_FR-CA3284491612_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethowWildflowers_FR-CA3284491612_UHD.jpg)|
-||*Copyright: Balsamorhize à feuilles sagittées et lupins, Methow Valley, North Cascades, Washington, États-Unis (© Alan Majchrowicz/Getty Images)*
+|2024-05-28|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MinganArchipelago_FR-CA4238646022_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinganArchipelago_FR-CA4238646022_UHD.jpg)|
+||*Copyright: Réserve du parc national de l'Archipel-de-Mingan, Québec, Canada (© Instants/E+/Getty Images)*
 ||
 |||
 
