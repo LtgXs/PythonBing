@@ -6,9 +6,9 @@
 ||*Copyright: Field of flags set up for Memorial Day (© Andrew Seegmiller/Getty Images)*
 ||
 |||
-|2024-05-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HedgehogMeadow_JA-JP0023153078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HedgehogMeadow_JA-JP0023153078_UHD.jpg)|
-||*Copyright: ナミハリネズミ, ドイツ ノルトライン＝ヴェストファーレン州 (© Oksana Schmidt/Getty Images)*
+|2024-05-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MeteoraMonastery_JA-JP2717990749_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MeteoraMonastery_JA-JP2717990749_UHD.jpg)|
+||*Copyright: ルサヌ修道院, ギリシャ (© Marius Roman/Getty Images)*
 ||
 |||
 |2024-05-27|**Region: en-IN**||
