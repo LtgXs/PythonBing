@@ -6,9 +6,9 @@
 ||*Copyright: Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)*
 ||
 |||
-|2024-05-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MeteoraMonastery_JA-JP2717990749_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MeteoraMonastery_JA-JP2717990749_UHD.jpg)|
-||*Copyright: ルサヌ修道院, ギリシャ (© Marius Roman/Getty Images)*
+|2024-05-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MullOtter_JA-JP2913567009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MullOtter_JA-JP2913567009_UHD.jpg)|
+||*Copyright: ユーラシアカワウソ, スコットランド (© Neil Henderson/Alamy)*
 ||
 |||
 |2024-05-28|**Region: en-IN**||
