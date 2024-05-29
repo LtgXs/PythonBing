@@ -6,9 +6,9 @@
 ||*Copyright: Eurasian otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)*
 ||
 |||
-|2024-05-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MullOtter_JA-JP2913567009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MullOtter_JA-JP2913567009_UHD.jpg)|
-||*Copyright: ユーラシアカワウソ, スコットランド (© Neil Henderson/Alamy)*
+|2024-05-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Everglades90th_JA-JP3090725626_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Everglades90th_JA-JP3090725626_UHD.jpg)|
+||*Copyright: エバーグレーズ国立公園, 米国 フロリダ州 (© Jonathan Gewirtz/Tandem Stills + Motion)*
 ||
 |||
 |2024-05-29|**Region: en-IN**||
