@@ -1,0 +1,60 @@
+
+Program started at 09:26:38
+Operating System Name: Linux
+Operating System Version: #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1215-713
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[09:26:38] Start geting CN Bing Wallpaper
+[09:26:38] Successful get url: https://www.bing.com/th?id=OHR.MullOtter_ZH-CN9691813587_UHD.jpg
+[09:26:38] Image saved to img/background.jpg
+[09:26:38] Info saved to README.md
+[09:26:38] Image saved to history/2024/05/29.md
+[09:26:38] Start geting global Bing Wallpaper, region=en-US, local time is 2024-05-29 05:26:38.639449-04:00
+[09:26:38] Successful get url: https://www.bing.com/th?id=OHR.MullOtter_EN-US5451978021_UHD.jpg
+[09:26:38] Picture infomations saved to  global/en-US/README.md
+[09:26:38] Picture infomations saved to global/en-US/history/2024/05/30_en-US.md
+[09:26:38] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-29 18:26:38.950320+09:00
+[09:26:38] Successful get url: https://www.bing.com/th?id=OHR.MullOtter_JA-JP2913567009_UHD.jpg
+[09:26:39] Picture infomations saved to  global/ja-JP/README.md
+[09:26:39] Picture infomations saved to global/ja-JP/history/2024/05/29_ja-JP.md
+[09:26:39] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-05-29 14:56:39.048213+05:30
+[09:26:39] Successful get url: https://www.bing.com/th?id=OHR.MullOtter_EN-IN5193619685_UHD.jpg
+[09:26:39] Picture infomations saved to  global/en-IN/README.md
+[09:26:39] Picture infomations saved to global/en-IN/history/2024/05/29_en-IN.md
+[09:26:39] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-05-29 06:26:39.148732-03:00
+[09:26:39] Successful get url: https://www.bing.com/th?id=OHR.MullOtter_PT-BR0721243704_UHD.jpg
+[09:26:39] Picture infomations saved to  global/pt-BR/README.md
+[09:26:39] Picture infomations saved to global/pt-BR/history/2024/05/30_pt-BR.md
+[09:26:39] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-05-29 11:26:39.319988+02:00
+[09:26:39] Successful get url: https://www.bing.com/th?id=OHR.MullOtter_FR-FR1221177605_UHD.jpg
+[09:26:39] Picture infomations saved to  global/fr-FR/README.md
+[09:26:39] Picture infomations saved to global/fr-FR/history/2024/05/29_fr-FR.md
+[09:26:39] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-05-29 11:26:39.456979+02:00
+[09:26:39] Successful get url: https://www.bing.com/th?id=OHR.MullOtter_DE-DE1417523024_UHD.jpg
+[09:26:39] Picture infomations saved to  global/de-DE/README.md
+[09:26:39] Picture infomations saved to global/de-DE/history/2024/05/29_de-DE.md
+[09:26:39] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-05-29 05:26:39.637716-04:00
+[09:26:39] Successful get url: https://www.bing.com/th?id=OHR.MullOtter_EN-CA6618769900_UHD.jpg
+[09:26:39] Picture infomations saved to  global/en-CA/README.md
+[09:26:39] Picture infomations saved to global/en-CA/history/2024/05/30_en-CA.md
+[09:26:39] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-05-29 10:26:39.794728+01:00
+[09:26:39] Successful get url: https://www.bing.com/th?id=OHR.MullOtter_EN-GB2549170693_UHD.jpg
+[09:26:39] Picture infomations saved to  global/en-GB/README.md
+[09:26:39] Picture infomations saved to global/en-GB/history/2024/05/29_en-GB.md
+[09:26:39] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-05-29 11:26:39.907904+02:00
+[09:26:39] Successful get url: https://www.bing.com/th?id=OHR.MullOtter_IT-IT5835725538_UHD.jpg
+[09:26:40] Picture infomations saved to  global/it-IT/README.md
+[09:26:40] Picture infomations saved to global/it-IT/history/2024/05/29_it-IT.md
+[09:26:40] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-05-29 11:26:40.008679+02:00
+[09:26:40] Successful get url: https://www.bing.com/th?id=OHR.MullOtter_ES-ES5925633999_UHD.jpg
+[09:26:40] Picture infomations saved to  global/es-ES/README.md
+[09:26:40] Picture infomations saved to global/es-ES/history/2024/05/29_es-ES.md
+[09:26:40] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-05-29 05:26:40.103831-04:00
+[09:26:40] Successful get url: https://www.bing.com/th?id=OHR.MullOtter_FR-CA3702502425_UHD.jpg
+[09:26:40] Picture infomations saved to  global/fr-CA/README.md
+[09:26:40] Picture infomations saved to global/fr-CA/history/2024/05/30_fr-CA.md
+Program exit at 09:26:40
