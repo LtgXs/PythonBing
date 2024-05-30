@@ -1,0 +1,60 @@
+
+Program started at 16:12:22
+Operating System Name: Linux
+Operating System Version: #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1984-224
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[16:12:22] Start geting CN Bing Wallpaper
+[16:12:22] Successful get url: https://www.bing.com/th?id=OHR.YorkshireDalesNP_ZH-CN0775378262_UHD.jpg
+[16:12:22] Image saved to img/background.jpg
+[16:12:22] Info saved to README.md
+[16:12:22] Image saved to history/2024/05/31.md
+[16:12:22] Start geting global Bing Wallpaper, region=en-US, local time is 2024-05-30 12:12:22.815105-04:00
+[16:12:22] Successful get url: https://www.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg
+[16:12:22] Picture infomations saved to  global/en-US/README.md
+[16:12:22] Picture infomations saved to global/en-US/history/2024/05/31_en-US.md
+[16:12:22] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-05-31 01:12:22.967198+09:00
+[16:12:23] Successful get url: https://www.bing.com/th?id=OHR.YorkshireDalesNP_JA-JP2753526222_UHD.jpg
+[16:12:23] Picture infomations saved to  global/ja-JP/README.md
+[16:12:23] Picture infomations saved to global/ja-JP/history/2024/05/31_ja-JP.md
+[16:12:23] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-05-30 21:42:23.182388+05:30
+[16:12:23] Successful get url: https://www.bing.com/th?id=OHR.Everglades90th_EN-IN5308863447_UHD.jpg
+[16:12:23] Picture infomations saved to  global/en-IN/README.md
+[16:12:23] Picture infomations saved to global/en-IN/history/2024/05/30_en-IN.md
+[16:12:23] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-05-30 13:12:23.392830-03:00
+[16:12:23] Successful get url: https://www.bing.com/th?id=OHR.Everglades90th_PT-BR0782569600_UHD.jpg
+[16:12:23] Picture infomations saved to  global/pt-BR/README.md
+[16:12:23] Picture infomations saved to global/pt-BR/history/2024/05/31_pt-BR.md
+[16:12:23] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-05-30 18:12:23.762806+02:00
+[16:12:23] Successful get url: https://www.bing.com/th?id=OHR.Everglades90th_FR-FR1353947188_UHD.jpg
+[16:12:23] Picture infomations saved to  global/fr-FR/README.md
+[16:12:23] Picture infomations saved to global/fr-FR/history/2024/05/30_fr-FR.md
+[16:12:23] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-05-30 18:12:23.961951+02:00
+[16:12:24] Successful get url: https://www.bing.com/th?id=OHR.Everglades90th_DE-DE6253688442_UHD.jpg
+[16:12:24] Picture infomations saved to  global/de-DE/README.md
+[16:12:24] Picture infomations saved to global/de-DE/history/2024/05/30_de-DE.md
+[16:12:24] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-05-30 12:12:24.192253-04:00
+[16:12:24] Successful get url: https://www.bing.com/th?id=OHR.Everglades90th_EN-CA7240904105_UHD.jpg
+[16:12:24] Picture infomations saved to  global/en-CA/README.md
+[16:12:24] Picture infomations saved to global/en-CA/history/2024/05/31_en-CA.md
+[16:12:24] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-05-30 17:12:24.410105+01:00
+[16:12:24] Successful get url: https://www.bing.com/th?id=OHR.Everglades90th_EN-GB0429923413_UHD.jpg
+[16:12:24] Picture infomations saved to  global/en-GB/README.md
+[16:12:24] Picture infomations saved to global/en-GB/history/2024/05/30_en-GB.md
+[16:12:24] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-05-30 18:12:24.621751+02:00
+[16:12:24] Successful get url: https://www.bing.com/th?id=OHR.Everglades90th_IT-IT9833292741_UHD.jpg
+[16:12:24] Picture infomations saved to  global/it-IT/README.md
+[16:12:24] Picture infomations saved to global/it-IT/history/2024/05/30_it-IT.md
+[16:12:24] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-05-30 18:12:24.827737+02:00
+[16:12:24] Successful get url: https://www.bing.com/th?id=OHR.Everglades90th_ES-ES6056767360_UHD.jpg
+[16:12:25] Picture infomations saved to  global/es-ES/README.md
+[16:12:25] Picture infomations saved to global/es-ES/history/2024/05/30_es-ES.md
+[16:12:25] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-05-30 12:12:25.076818-04:00
+[16:12:25] Successful get url: https://www.bing.com/th?id=OHR.Everglades90th_FR-CA4007437491_UHD.jpg
+[16:12:25] Picture infomations saved to  global/fr-CA/README.md
+[16:12:25] Picture infomations saved to global/fr-CA/history/2024/05/31_fr-CA.md
+Program exit at 16:12:25
