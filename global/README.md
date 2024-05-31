@@ -6,13 +6,13 @@
 ||*Copyright: Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy)*
 ||
 |||
-|2024-05-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_JA-JP2753526222_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YorkshireDalesNP_JA-JP2753526222_UHD.jpg)|
-||*Copyright: ヨークシャー・デイルズ国立公園, イングランド (© Derek Croucher/Alamy)*
+|2024-06-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PrideMonthSF_JA-JP2832342132_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrideMonthSF_JA-JP2832342132_UHD.jpg)|
+||*Copyright: 虹色に輝くサンフランシスコ市庁舎, 米国 カリフォルニア州 (© Josh Edelson/AFP via Getty Images)*
 ||
 |||
 |2024-05-31|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-IN4566883981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-IN4566883981_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-IN7382796721_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-IN7382796721_UHD.jpg)|
 ||*Copyright: Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy)*
 ||
 |||
@@ -32,13 +32,13 @@
 ||
 |||
 |2024-06-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-CA8134519875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-CA8134519875_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-CA7651791197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-CA7651791197_UHD.jpg)|
 ||*Copyright: Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy)*
 ||
 |||
 |2024-05-31|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-GB1861917445_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-GB1861917445_UHD.jpg)|
-||*Copyright: Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy Stock Photo)*
+||![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-GB7625460348_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-GB7625460348_UHD.jpg)|
+||*Copyright: Gunnerside village, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy Stock Photo)*
 ||
 |||
 |2024-05-31|**Region: it-IT**||
