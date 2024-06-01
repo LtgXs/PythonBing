@@ -6,9 +6,9 @@
 ||*Copyright: San Francisco City Hall lit up in rainbow lights for Pride, California (© Josh Edelson/AFP via Getty Images)*
 ||
 |||
-|2024-06-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PrideMonthSF_JA-JP2832342132_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrideMonthSF_JA-JP2832342132_UHD.jpg)|
-||*Copyright: 虹色に輝くサンフランシスコ市庁舎, 米国 カリフォルニア州 (© Josh Edelson/AFP via Getty Images)*
+|2024-06-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YokohamaPort2024_JA-JP2888889928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YokohamaPort2024_JA-JP2888889928_UHD.jpg)|
+||*Copyright: みなとみらい 21 地区, 神奈川県 横浜市 (© SeanPavonePhoto/Getty Images)*
 ||
 |||
 |2024-06-01|**Region: en-IN**||
