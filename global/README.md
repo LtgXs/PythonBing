@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-06-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg)|
-||*Copyright: Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)*
+|2024-06-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg)|
+||*Copyright: Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)*
 ||
 |||
 |2024-06-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: バルディア国立公園, ネパール (© PACO COMO/Shutterstock)*
 ||
 |||
-|2024-06-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.JaswantThadaIN_EN-IN5851391718_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JaswantThadaIN_EN-IN5851391718_UHD.jpg)|
-||*Copyright: Jaswant Thada and Mehrangarh Fort in Jodhpur city in Rajasthan, India (© Jackyenjoyphotography/Getty Images)*
+|2024-06-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ChestnutBeeEater_EN-IN6283551210_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChestnutBeeEater_EN-IN6283551210_UHD.jpg)|
+||*Copyright: Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)*
 ||
 |||
-|2024-06-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CapybaraEducation_PT-BR9998060500_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapybaraEducation_PT-BR9998060500_UHD.jpg)|
-||*Copyright: Capivara, o maior roedor do mundo, na margem de um rio no Pantanal (© Joe McDonald/Getty Images)*
+|2024-06-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ChestnutBeeEater_PT-BR6524596779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChestnutBeeEater_PT-BR6524596779_UHD.jpg)|
+||*Copyright: Abelharuco-de-cabeça-castanha, Parque Nacional de Bardia, Nepal (© PACO COMO/Shutterstock)*
 ||
 |||
-|2024-06-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CopenhagenBicycles_FR-FR1244854988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopenhagenBicycles_FR-FR1244854988_UHD.jpg)|
-||*Copyright: Vélos à Copenhague, Danemark (© Alphotographic/Getty Images)*
+|2024-06-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ChestnutBeeEater_FR-FR2288715924_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChestnutBeeEater_FR-FR2288715924_UHD.jpg)|
+||*Copyright: Guêpiers de Leschenault, Parc National de Bardia, Népal (© PACO COMO/Shutterstock)*
 ||
 |||
-|2024-06-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CopenhagenBicycles_DE-DE6785283446_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopenhagenBicycles_DE-DE6785283446_UHD.jpg)|
-||*Copyright: Fahrräder in Kopenhagen, Dänemark (© Alphotographic/Getty Images)*
+|2024-06-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ChestnutBeeEater_DE-DE7400779777_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChestnutBeeEater_DE-DE7400779777_UHD.jpg)|
+||*Copyright: Bienenfresser, Bardia-Nationalpark, Nepal (© PACO COMO/Shutterstock)*
 ||
 |||
-|2024-06-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CopenhagenBicycles_EN-CA1742529177_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopenhagenBicycles_EN-CA1742529177_UHD.jpg)|
-||*Copyright: Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)*
+|2024-06-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ChestnutBeeEater_EN-CA4730115773_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChestnutBeeEater_EN-CA4730115773_UHD.jpg)|
+||*Copyright: Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)*
 ||
 |||
-|2024-06-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CopenhagenBicycles_EN-GB4395240180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopenhagenBicycles_EN-GB4395240180_UHD.jpg)|
-||*Copyright: Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)*
+|2024-06-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ChestnutBeeEater_EN-GB4849522533_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChestnutBeeEater_EN-GB4849522533_UHD.jpg)|
+||*Copyright: Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)*
 ||
 |||
-|2024-06-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CopenhagenBicycles_IT-IT2125819648_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopenhagenBicycles_IT-IT2125819648_UHD.jpg)|
-||*Copyright: Biciclette a Copenaghen, Danimarca (© Alphotographic/Getty Images)*
+|2024-06-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ChestnutBeeEater_IT-IT3152555866_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChestnutBeeEater_IT-IT3152555866_UHD.jpg)|
+||*Copyright: Gruccione testacastana, Parco Nazionale Reale di Bardia, Nepal (© PACO COMO/Shutterstock)*
 ||
 |||
-|2024-06-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CopenhagenBicycles_ES-ES4229368591_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopenhagenBicycles_ES-ES4229368591_UHD.jpg)|
-||*Copyright: Bicicletas en Copenhague, Dinamarca (© Alphotographic/Getty Images)*
+|2024-06-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ChestnutBeeEater_ES-ES4472834413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChestnutBeeEater_ES-ES4472834413_UHD.jpg)|
+||*Copyright: Abejaruco Cabecirrufo, Parque Nacional de Bardiya, Nepal (© PACO COMO/Shutterstock)*
 ||
 |||
-|2024-06-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CopenhagenBicycles_FR-CA1813399714_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopenhagenBicycles_FR-CA1813399714_UHD.jpg)|
-||*Copyright: Vélos à Copenhague, Danemark (© Alphotographic/Getty Images)*
+|2024-06-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ChestnutBeeEater_FR-CA1993337218_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChestnutBeeEater_FR-CA1993337218_UHD.jpg)|
+||*Copyright: Guêpiers de Leschenault, Parc National de Bardia, Népal (© PACO COMO/Shutterstock)*
 ||
 |||
 
