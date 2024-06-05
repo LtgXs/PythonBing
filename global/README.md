@@ -6,9 +6,9 @@
 ||*Copyright: Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)*
 ||
 |||
-|2024-06-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MadagascarRiver_JA-JP3088024510_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadagascarRiver_JA-JP3088024510_UHD.jpg)|
-||*Copyright: マソアラ国立公園, マダガスカル (© Dennis van de Water/Shutterstock)*
+|2024-06-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GemsbokBotswana_JA-JP2673483195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GemsbokBotswana_JA-JP2673483195_UHD.jpg)|
+||*Copyright: オリックスの群れ, ボツワナ (© Karine Aigner/Tandem Stills + Motion)*
 ||
 |||
 |2024-06-05|**Region: en-IN**||
