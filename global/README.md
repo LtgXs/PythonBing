@@ -6,9 +6,9 @@
 ||*Copyright: Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)*
 ||
 |||
-|2024-06-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GemsbokBotswana_JA-JP2673483195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GemsbokBotswana_JA-JP2673483195_UHD.jpg)|
-||*Copyright: オリックスの群れ, ボツワナ (© Karine Aigner/Tandem Stills + Motion)*
+|2024-06-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HumpbackFamily_JA-JP3134637599_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackFamily_JA-JP3134637599_UHD.jpg)|
+||*Copyright: 港湾地区ダッチハーバーのザトウクジラ, 米国 アラスカ州 (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
 |2024-06-06|**Region: en-IN**||
