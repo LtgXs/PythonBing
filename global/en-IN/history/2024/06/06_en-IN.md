@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2024-06-06
+## History Bing Wallpaper
+Wallpaper date: 2024-06-06
 ![](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-IN6765304384_UHD.jpg&w=1000)Download: [Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-IN6765304384_UHD.jpg)
 
 Auto get programm by LtgX
