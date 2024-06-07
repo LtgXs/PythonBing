@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-06-07|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg)|
-||*Copyright: Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)*
+|2024-06-08|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg)|
+||*Copyright: Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
 |2024-06-07|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 港湾地区ダッチハーバーのザトウクジラ, 米国 アラスカ州 (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
-|2024-06-06|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-IN6765304384_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-IN6765304384_UHD.jpg)|
-||*Copyright: Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)*
+|2024-06-07|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HumpbackFamily_EN-IN7046950046_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackFamily_EN-IN7046950046_UHD.jpg)|
+||*Copyright: Family of humpback whales, Dutch Harbour, Alaska (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
-|2024-06-07|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LesBravesNormandy_PT-BR7484983029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LesBravesNormandy_PT-BR7484983029_UHD.jpg)|
-||*Copyright: Monumento Les Braves na praia de Omaha, Normandia, França (© Christopher Furlong/Getty Images)*
+|2024-06-08|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HumpbackFamily_PT-BR7707157719_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackFamily_PT-BR7707157719_UHD.jpg)|
+||*Copyright: Família de baleias jubarte, Dutch Harbor, Alasca, EUA (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
-|2024-06-06|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LesBravesNormandy_FR-FR2799777837_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LesBravesNormandy_FR-FR2799777837_UHD.jpg)|
-||*Copyright: Monument Les Braves à Omaha Beach, Saint-Laurent-sur-Mer, Normandie (© Christopher Furlong/Getty Images)*
+|2024-06-07|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HumpbackFamily_FR-FR3059562315_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackFamily_FR-FR3059562315_UHD.jpg)|
+||*Copyright: Famille de baleines à bosse, Dutch Harbor, Alaska, États-Unis (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
-|2024-06-06|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.RossfeldRoad_DE-DE6613150514_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RossfeldRoad_DE-DE6613150514_UHD.jpg)|
-||*Copyright: Luftaufnahme der Rossfeld-Panoramastraße, Berchtesgaden, Deutschland (© DieterMeyrl/Getty Images)*
+|2024-06-07|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HumpbackFamily_DE-DE8013802672_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackFamily_DE-DE8013802672_UHD.jpg)|
+||*Copyright: Buckelwalfamilie, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
-|2024-06-07|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-CA6288296004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-CA6288296004_UHD.jpg)|
-||*Copyright: Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)*
+|2024-06-08|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HumpbackFamily_EN-CA7093213035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackFamily_EN-CA7093213035_UHD.jpg)|
+||*Copyright: Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
-|2024-06-06|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-GB6170955707_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-GB6170955707_UHD.jpg)|
-||*Copyright: Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)*
+|2024-06-07|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HumpbackFamily_EN-GB1225853084_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackFamily_EN-GB1225853084_UHD.jpg)|
+||*Copyright: Family of humpback whales, Dutch Harbour, Alaska, USA (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
-|2024-06-06|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LesBravesNormandy_IT-IT3884856406_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LesBravesNormandy_IT-IT3884856406_UHD.jpg)|
-||*Copyright: Monumento Les Braves sulla spiaggia di Omaha, Normandia, Francia (© Christopher Furlong/Getty Images)*
+|2024-06-07|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HumpbackFamily_IT-IT4429880425_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackFamily_IT-IT4429880425_UHD.jpg)|
+||*Copyright: Famiglia di megattere, Dutch Harbor, Alaska, USA (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
-|2024-06-06|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TenerifeBluetrail_ES-ES5009256833_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TenerifeBluetrail_ES-ES5009256833_UHD.jpg)|
-||*Copyright: Parque Nacional del Teide, Tenerife, España (© Santiago Urquijo/Moment/Getty Images)*
+|2024-06-07|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HumpbackFamily_ES-ES5806856103_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackFamily_ES-ES5806856103_UHD.jpg)|
+||*Copyright: Familia de ballenas jorobadas, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
-|2024-06-07|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LesBravesNormandy_FR-CA2574694176_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LesBravesNormandy_FR-CA2574694176_UHD.jpg)|
-||*Copyright: Monument Les Braves à Omaha Beach, Saint-Laurent-sur-Mer, Normandie (© Christopher Furlong/Getty Images)*
+|2024-06-08|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HumpbackFamily_FR-CA2761557723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackFamily_FR-CA2761557723_UHD.jpg)|
+||*Copyright: Famille de baleines à bosse, Dutch Harbor, Alaska, États-Unis (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
 
