@@ -6,9 +6,9 @@
 ||*Copyright: Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)*
 ||
 |||
-|2024-06-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HumpbackFamily_JA-JP3134637599_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackFamily_JA-JP3134637599_UHD.jpg)|
-||*Copyright: 港湾地区ダッチハーバーのザトウクジラ, 米国 アラスカ州 (© Jude Newkirk/Amazing Aerial Agency)*
+|2024-06-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KillikRiverAlaska_JA-JP3191986449_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KillikRiverAlaska_JA-JP3191986449_UHD.jpg)|
+||*Copyright: 北極圏の扉国立公園, 米国 アラスカ州 (© Patrick J. Endres/Getty Images)*
 ||
 |||
 |2024-06-07|**Region: en-IN**||
