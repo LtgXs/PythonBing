@@ -6,9 +6,9 @@
 ||*Copyright: Osaka at night, Japan (© wichianduangsri/Getty Images)*
 ||
 |||
-|2024-06-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OsakaNight_JA-JP3335717675_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OsakaNight_JA-JP3335717675_UHD.jpg)|
-||*Copyright: 大阪湾方面から見た大阪湾岸, 大阪府 大阪市 (© wichianduangsri/Getty Images)*
+|2024-06-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Ajisai2024_JA-JP3414608133_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Ajisai2024_JA-JP3414608133_UHD.jpg)|
+||*Copyright: アジサイ, 神奈川県 鎌倉市 (© baphotte/Getty Images)*
 ||
 |||
 |2024-06-10|**Region: en-IN**||
