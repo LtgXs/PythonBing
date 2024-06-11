@@ -6,9 +6,9 @@
 ||*Copyright: Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)*
 ||
 |||
-|2024-06-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Ajisai2024_JA-JP3414608133_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Ajisai2024_JA-JP3414608133_UHD.jpg)|
-||*Copyright: アジサイ, 神奈川県 鎌倉市 (© baphotte/Getty Images)*
+|2024-06-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_JA-JP3523395036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_JA-JP3523395036_UHD.jpg)|
+||*Copyright: ビッグ・ベンド国立公園, 米国 テキサス州 (© wisanuboonrawd/Adobe Stock)*
 ||
 |||
 |2024-06-11|**Region: en-IN**||
