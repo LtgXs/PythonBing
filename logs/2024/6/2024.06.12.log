@@ -1,0 +1,60 @@
+
+Program started at 09:25:08
+Operating System Name: Linux
+Operating System Version: #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1426-673
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[09:25:08] Start geting CN Bing Wallpaper
+[09:25:08] Successful get url: https://www.bing.com/th?id=OHR.BigBendMilkyWay_ZH-CN7709015605_UHD.jpg
+[09:25:08] Image saved to img/background.jpg
+[09:25:08] Info saved to README.md
+[09:25:08] Image saved to history/2024/06/12.md
+[09:25:08] Start geting global Bing Wallpaper, region=en-US, local time is 2024-06-12 05:25:08.552410-04:00
+[09:25:08] Successful get url: https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg
+[09:25:08] Picture infomations saved to  global/en-US/README.md
+[09:25:08] Picture infomations saved to global/en-US/history/2024/06/13_en-US.md
+[09:25:08] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-06-12 18:25:08.677135+09:00
+[09:25:08] Successful get url: https://www.bing.com/th?id=OHR.BigBendMilkyWay_JA-JP3523395036_UHD.jpg
+[09:25:08] Picture infomations saved to  global/ja-JP/README.md
+[09:25:08] Picture infomations saved to global/ja-JP/history/2024/06/12_ja-JP.md
+[09:25:08] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-06-12 14:55:08.784045+05:30
+[09:25:08] Successful get url: https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-IN9317716190_UHD.jpg
+[09:25:08] Picture infomations saved to  global/en-IN/README.md
+[09:25:08] Picture infomations saved to global/en-IN/history/2024/06/12_en-IN.md
+[09:25:08] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-06-12 06:25:08.895230-03:00
+[09:25:08] Successful get url: https://www.bing.com/th?id=OHR.DiadosNamorado_PT-BR1152869085_UHD.jpg
+[09:25:08] Picture infomations saved to  global/pt-BR/README.md
+[09:25:08] Picture infomations saved to global/pt-BR/history/2024/06/13_pt-BR.md
+[09:25:08] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-06-12 11:25:09.000674+02:00
+[09:25:09] Successful get url: https://www.bing.com/th?id=OHR.BigBendMilkyWay_FR-FR4230024049_UHD.jpg
+[09:25:09] Picture infomations saved to  global/fr-FR/README.md
+[09:25:09] Picture infomations saved to global/fr-FR/history/2024/06/12_fr-FR.md
+[09:25:09] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-06-12 11:25:09.109748+02:00
+[09:25:09] Successful get url: https://www.bing.com/th?id=OHR.BigBendMilkyWay_DE-DE9932033977_UHD.jpg
+[09:25:09] Picture infomations saved to  global/de-DE/README.md
+[09:25:09] Picture infomations saved to global/de-DE/history/2024/06/12_de-DE.md
+[09:25:09] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-06-12 05:25:09.211671-04:00
+[09:25:09] Successful get url: https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-CA2391615132_UHD.jpg
+[09:25:09] Picture infomations saved to  global/en-CA/README.md
+[09:25:09] Picture infomations saved to global/en-CA/history/2024/06/13_en-CA.md
+[09:25:09] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-06-12 10:25:09.317367+01:00
+[09:25:09] Successful get url: https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-GB2396509445_UHD.jpg
+[09:25:09] Picture infomations saved to  global/en-GB/README.md
+[09:25:09] Picture infomations saved to global/en-GB/history/2024/06/12_en-GB.md
+[09:25:09] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-06-12 11:25:09.417142+02:00
+[09:25:09] Successful get url: https://www.bing.com/th?id=OHR.BigBendMilkyWay_IT-IT7811408807_UHD.jpg
+[09:25:09] Picture infomations saved to  global/it-IT/README.md
+[09:25:09] Picture infomations saved to global/it-IT/history/2024/06/12_it-IT.md
+[09:25:09] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-06-12 11:25:09.513900+02:00
+[09:25:09] Successful get url: https://www.bing.com/th?id=OHR.BigBendMilkyWay_ES-ES2997966986_UHD.jpg
+[09:25:09] Picture infomations saved to  global/es-ES/README.md
+[09:25:09] Picture infomations saved to global/es-ES/history/2024/06/12_es-ES.md
+[09:25:09] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-06-12 05:25:09.616924-04:00
+[09:25:09] Successful get url: https://www.bing.com/th?id=OHR.BigBendMilkyWay_FR-CA4260073911_UHD.jpg
+[09:25:09] Picture infomations saved to  global/fr-CA/README.md
+[09:25:09] Picture infomations saved to global/fr-CA/history/2024/06/13_fr-CA.md
+Program exit at 09:25:09

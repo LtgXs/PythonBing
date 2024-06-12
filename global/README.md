@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-06-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg)|
-||*Copyright: Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)*
+|2024-06-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg)|
+||*Copyright: Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)*
 ||
 |||
 |2024-06-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ビッグ・ベンド国立公園, 米国 テキサス州 (© wisanuboonrawd/Adobe Stock)*
 ||
 |||
-|2024-06-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GemsbokBotswana_EN-IN8918609883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GemsbokBotswana_EN-IN8918609883_UHD.jpg)|
-||*Copyright: Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)*
+|2024-06-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-IN9317716190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-IN9317716190_UHD.jpg)|
+||*Copyright: Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)*
 ||
 |||
-|2024-06-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GemsbokBotswana_PT-BR8699513531_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GemsbokBotswana_PT-BR8699513531_UHD.jpg)|
-||*Copyright: Órix-do-cabo na savana, Botsuana (© Karine Aigner/Tandem Stills + Motion)*
+|2024-06-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DiadosNamorado_PT-BR1152869085_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiadosNamorado_PT-BR1152869085_UHD.jpg)|
+||*Copyright: Periquito-monge e do periquito-da-planície cuidando um do outro (© diegograndi/Getty Images)*
 ||
 |||
-|2024-06-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GemsbokBotswana_FR-FR4043133584_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GemsbokBotswana_FR-FR4043133584_UHD.jpg)|
-||*Copyright: L'oryx gazelle dans la savane, Botswana (© Karine Aigner/Tandem Stills + Motion)*
+|2024-06-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_FR-FR4230024049_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_FR-FR4230024049_UHD.jpg)|
+||*Copyright: Voie lactée au-dessus du parc national de Big Bend, Texas, États-Unis (© wisanuboonrawd/Adobe Stock)*
 ||
 |||
-|2024-06-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GemsbokBotswana_DE-DE9586161509_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GemsbokBotswana_DE-DE9586161509_UHD.jpg)|
-||*Copyright: Spießbock in der Savanne, Botswana (© Karine Aigner/Tandem Stills + Motion)*
+|2024-06-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_DE-DE9932033977_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_DE-DE9932033977_UHD.jpg)|
+||*Copyright: Milchstraße über dem Big-Bend-Nationalpark, Texas, USA (© wisanuboonrawd/Adobe Stock)*
 ||
 |||
-|2024-06-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GemsbokBotswana_EN-CA0854561262_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GemsbokBotswana_EN-CA0854561262_UHD.jpg)|
-||*Copyright: Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)*
+|2024-06-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-CA2391615132_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-CA2391615132_UHD.jpg)|
+||*Copyright: Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)*
 ||
 |||
-|2024-06-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.GemsbokBotswana_EN-GB4060073723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GemsbokBotswana_EN-GB4060073723_UHD.jpg)|
-||*Copyright: Gemsboks in the savannah, Botswana (© Karine Aigner/Tandem Stills + Motion)*
+|2024-06-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-GB2396509445_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-GB2396509445_UHD.jpg)|
+||*Copyright: Milky Way over Big Bend National Park, Texas, USA (© wisanuboonrawd/Adobe Stock)*
 ||
 |||
-|2024-06-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ViesteItaly_IT-IT7489172458_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ViesteItaly_IT-IT7489172458_UHD.jpg)|
-||*Copyright: Vieste sulla penisola del Gargano, Puglia, Italia (© Pilat666/Getty Images)*
+|2024-06-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_IT-IT7811408807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_IT-IT7811408807_UHD.jpg)|
+||*Copyright: Via Lattea, Parco Nazionale di Big Bend, Texas, USA (© wisanuboonrawd/Adobe Stock)*
 ||
 |||
-|2024-06-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GemsbokBotswana_ES-ES2633873347_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GemsbokBotswana_ES-ES2633873347_UHD.jpg)|
-||*Copyright: Órice del cabo (Gemsbok) en la sabana, Botsuana (© Karine Aigner/Tandem Stills + Motion)*
+|2024-06-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_ES-ES2997966986_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_ES-ES2997966986_UHD.jpg)|
+||*Copyright: Vía Láctea sobre el Parque Nacional Big Bend, Texas, EE.UU. (© wisanuboonrawd/Adobe Stock)*
 ||
 |||
-|2024-06-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.GemsbokBotswana_FR-CA3625713177_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GemsbokBotswana_FR-CA3625713177_UHD.jpg)|
-||*Copyright: L'oryx gazelle dans la savane, Botswana (© Karine Aigner/Tandem Stills + Motion)*
+|2024-06-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_FR-CA4260073911_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_FR-CA4260073911_UHD.jpg)|
+||*Copyright: Voie lactée au-dessus du parc national de Big Bend, Texas, États-Unis (© wisanuboonrawd/Adobe Stock)*
 ||
 |||
 
