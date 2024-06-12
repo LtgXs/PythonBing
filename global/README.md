@@ -6,9 +6,9 @@
 ||*Copyright: Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)*
 ||
 |||
-|2024-06-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_JA-JP3523395036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_JA-JP3523395036_UHD.jpg)|
-||*Copyright: ビッグ・ベンド国立公園, 米国 テキサス州 (© wisanuboonrawd/Adobe Stock)*
+|2024-06-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_JA-JP4174949023_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_JA-JP4174949023_UHD.jpg)|
+||*Copyright: レギスタン広場, ウズベキスタン (© da-kuk/Getty Images)*
 ||
 |||
 |2024-06-12|**Region: en-IN**||
