@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-06-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg)|
-||*Copyright: Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)*
+|2024-06-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg)|
+||*Copyright: Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)*
 ||
 |||
 |2024-06-13|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: レギスタン広場, ウズベキスタン (© da-kuk/Getty Images)*
 ||
 |||
-|2024-06-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-IN9317716190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-IN9317716190_UHD.jpg)|
-||*Copyright: Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)*
+|2024-06-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-IN9701496758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-IN9701496758_UHD.jpg)|
+||*Copyright: Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)*
 ||
 |||
-|2024-06-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DiadosNamorado_PT-BR1152869085_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiadosNamorado_PT-BR1152869085_UHD.jpg)|
-||*Copyright: Periquito-monge e do periquito-da-planície cuidando um do outro (© diegograndi/Getty Images)*
+|2024-06-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_PT-BR8909125250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_PT-BR8909125250_UHD.jpg)|
+||*Copyright: Fachada de mosaico na Praça Registan, Samarcanda, Uzbequistão (© da-kuk/Getty Images)*
 ||
 |||
-|2024-06-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_FR-FR4230024049_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_FR-FR4230024049_UHD.jpg)|
-||*Copyright: Voie lactée au-dessus du parc national de Big Bend, Texas, États-Unis (© wisanuboonrawd/Adobe Stock)*
+|2024-06-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_FR-FR4384753959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_FR-FR4384753959_UHD.jpg)|
+||*Copyright: Façade en mosaïque sur la place Registan, Samarkand, Ouzbékistan (© da-kuk/Getty Images)*
 ||
 |||
-|2024-06-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_DE-DE9932033977_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_DE-DE9932033977_UHD.jpg)|
-||*Copyright: Milchstraße über dem Big-Bend-Nationalpark, Texas, USA (© wisanuboonrawd/Adobe Stock)*
+|2024-06-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_DE-DE0297910623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_DE-DE0297910623_UHD.jpg)|
+||*Copyright: Mosaik-Fassade auf dem Registan-Platz, Samarkand, Usbekistan (© da-kuk/Getty Images)*
 ||
 |||
-|2024-06-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-CA2391615132_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-CA2391615132_UHD.jpg)|
-||*Copyright: Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)*
+|2024-06-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-CA2957046494_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-CA2957046494_UHD.jpg)|
+||*Copyright: Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)*
 ||
 |||
-|2024-06-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-GB2396509445_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-GB2396509445_UHD.jpg)|
-||*Copyright: Milky Way over Big Bend National Park, Texas, USA (© wisanuboonrawd/Adobe Stock)*
+|2024-06-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-GB2667913913_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-GB2667913913_UHD.jpg)|
+||*Copyright: Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)*
 ||
 |||
-|2024-06-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_IT-IT7811408807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_IT-IT7811408807_UHD.jpg)|
-||*Copyright: Via Lattea, Parco Nazionale di Big Bend, Texas, USA (© wisanuboonrawd/Adobe Stock)*
+|2024-06-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_IT-IT8716524920_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_IT-IT8716524920_UHD.jpg)|
+||*Copyright: Facciata a mosaico in piazza Registan, Samarcanda, Uzbekistan (© da-kuk/Getty Images)*
 ||
 |||
-|2024-06-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_ES-ES2997966986_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_ES-ES2997966986_UHD.jpg)|
-||*Copyright: Vía Láctea sobre el Parque Nacional Big Bend, Texas, EE.UU. (© wisanuboonrawd/Adobe Stock)*
+|2024-06-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_ES-ES3215569621_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_ES-ES3215569621_UHD.jpg)|
+||*Copyright: Fachada de mosaicos en la Plaza Registán, Samarcanda, Uzbekistán (© da-kuk/Getty Images)*
 ||
 |||
-|2024-06-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BigBendMilkyWay_FR-CA4260073911_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendMilkyWay_FR-CA4260073911_UHD.jpg)|
-||*Copyright: Voie lactée au-dessus du parc national de Big Bend, Texas, États-Unis (© wisanuboonrawd/Adobe Stock)*
+|2024-06-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_FR-CA6306584690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_FR-CA6306584690_UHD.jpg)|
+||*Copyright: Façade en mosaïque sur la place Registan, Samarkand, Ouzbékistan (© da-kuk/Getty Images)*
 ||
 |||
 
