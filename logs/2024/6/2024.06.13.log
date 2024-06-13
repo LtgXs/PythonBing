@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:25:28] Picture infomations saved to  global/fr-CA/README.md
 [09:25:28] Picture infomations saved to global/fr-CA/history/2024/06/14_fr-CA.md
 Program exit at 09:25:28
+
+Program started at 16:14:00
+Operating System Name: Linux
+Operating System Version: #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1208-933
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[16:14:00] Start geting CN Bing Wallpaper
+[16:14:00] Successful get url: https://www.bing.com/th?id=OHR.PeggysCove_ZH-CN4221190894_UHD.jpg
+[16:14:00] Image saved to img/background.jpg
+[16:14:00] Info saved to README.md
+[16:14:00] Image saved to history/2024/06/14.md
+[16:14:00] Start geting global Bing Wallpaper, region=en-US, local time is 2024-06-13 12:14:00.585648-04:00
+[16:14:00] Successful get url: https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg
+[16:14:00] Picture infomations saved to  global/en-US/README.md
+[16:14:00] Picture infomations saved to global/en-US/history/2024/06/14_en-US.md
+[16:14:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-06-14 01:14:00.712127+09:00
+[16:14:00] Successful get url: https://www.bing.com/th?id=OHR.DhakaBangladesh_JA-JP0528290685_UHD.jpg
+[16:14:00] Picture infomations saved to  global/ja-JP/README.md
+[16:14:00] Picture infomations saved to global/ja-JP/history/2024/06/14_ja-JP.md
+[16:14:00] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-06-13 21:44:00.879481+05:30
+[16:14:00] Successful get url: https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-IN9701496758_UHD.jpg
+[16:14:01] Picture infomations saved to  global/en-IN/README.md
+[16:14:01] Picture infomations saved to global/en-IN/history/2024/06/13_en-IN.md
+[16:14:01] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-06-13 13:14:01.049214-03:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.RegistanUzbekistan_PT-BR8909125250_UHD.jpg
+[16:14:01] Picture infomations saved to  global/pt-BR/README.md
+[16:14:01] Picture infomations saved to global/pt-BR/history/2024/06/14_pt-BR.md
+[16:14:01] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-06-13 18:14:01.263493+02:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.RegistanUzbekistan_FR-FR4384753959_UHD.jpg
+[16:14:01] Picture infomations saved to  global/fr-FR/README.md
+[16:14:01] Picture infomations saved to global/fr-FR/history/2024/06/13_fr-FR.md
+[16:14:01] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-06-13 18:14:01.432219+02:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.RegistanUzbekistan_DE-DE0297910623_UHD.jpg
+[16:14:01] Picture infomations saved to  global/de-DE/README.md
+[16:14:01] Picture infomations saved to global/de-DE/history/2024/06/13_de-DE.md
+[16:14:01] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-06-13 12:14:01.594312-04:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-CA2957046494_UHD.jpg
+[16:14:01] Picture infomations saved to  global/en-CA/README.md
+[16:14:01] Picture infomations saved to global/en-CA/history/2024/06/14_en-CA.md
+[16:14:01] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-06-13 17:14:01.730038+01:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-GB2667913913_UHD.jpg
+[16:14:01] Picture infomations saved to  global/en-GB/README.md
+[16:14:01] Picture infomations saved to global/en-GB/history/2024/06/13_en-GB.md
+[16:14:01] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-06-13 18:14:01.858523+02:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.RegistanUzbekistan_IT-IT8716524920_UHD.jpg
+[16:14:02] Picture infomations saved to  global/it-IT/README.md
+[16:14:02] Picture infomations saved to global/it-IT/history/2024/06/13_it-IT.md
+[16:14:02] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-06-13 18:14:02.022395+02:00
+[16:14:02] Successful get url: https://www.bing.com/th?id=OHR.RegistanUzbekistan_ES-ES3215569621_UHD.jpg
+[16:14:02] Picture infomations saved to  global/es-ES/README.md
+[16:14:02] Picture infomations saved to global/es-ES/history/2024/06/13_es-ES.md
+[16:14:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-06-13 12:14:02.662673-04:00
+[16:14:02] Successful get url: https://www.bing.com/th?id=OHR.RegistanUzbekistan_FR-CA6306584690_UHD.jpg
+[16:14:02] Picture infomations saved to  global/fr-CA/README.md
+[16:14:02] Picture infomations saved to global/fr-CA/history/2024/06/14_fr-CA.md
+Program exit at 16:14:02
