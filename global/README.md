@@ -6,9 +6,9 @@
 ||*Copyright: Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)*
 ||
 |||
-|2024-06-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DhakaBangladesh_JA-JP0528290685_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DhakaBangladesh_JA-JP0528290685_UHD.jpg)|
-||*Copyright: 首都ダッカの鳥瞰図, バングラデシュ (© Azim Khan Ronnie/Amazing Aerial Agency)*
+|2024-06-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NazareWave_JA-JP0665828544_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazareWave_JA-JP0665828544_UHD.jpg)|
+||*Copyright: ナザレのビッグウェーブ, ポルトガル (© Rui Caria/Getty Images)*
 ||
 |||
 |2024-06-14|**Region: en-IN**||
