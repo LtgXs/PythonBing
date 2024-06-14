@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-06-14|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg)|
-||*Copyright: Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)*
+|2024-06-15|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg)|
+||*Copyright: Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)*
 ||
 |||
 |2024-06-14|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 首都ダッカの鳥瞰図, バングラデシュ (© Azim Khan Ronnie/Amazing Aerial Agency)*
 ||
 |||
-|2024-06-13|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-IN9701496758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-IN9701496758_UHD.jpg)|
-||*Copyright: Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)*
+|2024-06-14|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PeggysCove_EN-IN3870968283_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysCove_EN-IN3870968283_UHD.jpg)|
+||*Copyright: Peggy's Cove Lighthouse, Nova Scotia, Canada (© Pugalenthi/Getty Images)*
 ||
 |||
-|2024-06-14|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_PT-BR8909125250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_PT-BR8909125250_UHD.jpg)|
-||*Copyright: Fachada de mosaico na Praça Registan, Samarcanda, Uzbequistão (© da-kuk/Getty Images)*
+|2024-06-15|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PeggysCove_PT-BR1473312250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysCove_PT-BR1473312250_UHD.jpg)|
+||*Copyright: Farol de Peggys Cove, Nova Escócia, Canadá (© Pugalenthi/Getty Images)*
 ||
 |||
-|2024-06-13|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_FR-FR4384753959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_FR-FR4384753959_UHD.jpg)|
-||*Copyright: Façade en mosaïque sur la place Registan, Samarkand, Ouzbékistan (© da-kuk/Getty Images)*
+|2024-06-14|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PeggysCove_FR-FR2777171937_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysCove_FR-FR2777171937_UHD.jpg)|
+||*Copyright: Phare de Peggy's Cove, Nouvelle-Écosse, Canada (© Pugalenthi/Getty Images)*
 ||
 |||
-|2024-06-13|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_DE-DE0297910623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_DE-DE0297910623_UHD.jpg)|
-||*Copyright: Mosaik-Fassade auf dem Registan-Platz, Samarkand, Usbekistan (© da-kuk/Getty Images)*
+|2024-06-14|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PeggysCove_DE-DE6175899520_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysCove_DE-DE6175899520_UHD.jpg)|
+||*Copyright: Leuchtturm Peggy’s Point, Nova Scotia, Kanada (© Pugalenthi/Getty Images)*
 ||
 |||
-|2024-06-14|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-CA2957046494_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-CA2957046494_UHD.jpg)|
-||*Copyright: Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)*
+|2024-06-15|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PeggysCove_EN-CA5369786988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysCove_EN-CA5369786988_UHD.jpg)|
+||*Copyright: Peggy's Cove Lighthouse, Nova Scotia, Canada (© Pugalenthi/Getty Images)*
 ||
 |||
-|2024-06-13|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-GB2667913913_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-GB2667913913_UHD.jpg)|
-||*Copyright: Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)*
+|2024-06-14|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PeggysCove_EN-GB2774875684_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysCove_EN-GB2774875684_UHD.jpg)|
+||*Copyright: Peggy's Cove Lighthouse, Nova Scotia, Canada (© Pugalenthi/Getty Images)*
 ||
 |||
-|2024-06-13|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_IT-IT8716524920_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_IT-IT8716524920_UHD.jpg)|
-||*Copyright: Facciata a mosaico in piazza Registan, Samarcanda, Uzbekistan (© da-kuk/Getty Images)*
+|2024-06-14|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.KokinoMacedonia_IT-IT5698531580_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KokinoMacedonia_IT-IT5698531580_UHD.jpg)|
+||*Copyright: Kokino, antico osservatorio megalitico, Macedonia del Nord (© stoimilov/Shutterstock)*
 ||
 |||
-|2024-06-13|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_ES-ES3215569621_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_ES-ES3215569621_UHD.jpg)|
-||*Copyright: Fachada de mosaicos en la Plaza Registán, Samarcanda, Uzbekistán (© da-kuk/Getty Images)*
+|2024-06-14|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PeggysCove_ES-ES2898736491_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysCove_ES-ES2898736491_UHD.jpg)|
+||*Copyright: Faro de Peggys Cove, Nueva Escocia, Canadá (© Pugalenthi/Getty Images)*
 ||
 |||
-|2024-06-14|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.RegistanUzbekistan_FR-CA6306584690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegistanUzbekistan_FR-CA6306584690_UHD.jpg)|
-||*Copyright: Façade en mosaïque sur la place Registan, Samarkand, Ouzbékistan (© da-kuk/Getty Images)*
+|2024-06-15|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PeggysCove_FR-CA8227992158_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysCove_FR-CA8227992158_UHD.jpg)|
+||*Copyright: Phare de Peggy's Cove, Nouvelle-Écosse (© Pugalenthi/Getty Images)*
 ||
 |||
 
