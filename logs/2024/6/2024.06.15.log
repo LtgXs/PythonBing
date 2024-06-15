@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:23:03] Picture infomations saved to  global/fr-CA/README.md
 [09:23:03] Picture infomations saved to global/fr-CA/history/2024/06/16_fr-CA.md
 Program exit at 09:23:03
+
+Program started at 16:13:15
+Operating System Name: Linux
+Operating System Version: #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1210-979
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[16:13:15] Start geting CN Bing Wallpaper
+[16:13:15] Successful get url: https://www.bing.com/th?id=OHR.RedFoxDad_ZH-CN4894022141_UHD.jpg
+[16:13:15] Image saved to img/background.jpg
+[16:13:15] Info saved to README.md
+[16:13:15] Image saved to history/2024/06/16.md
+[16:13:15] Start geting global Bing Wallpaper, region=en-US, local time is 2024-06-15 12:13:15.327872-04:00
+[16:13:15] Successful get url: https://www.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg
+[16:13:15] Picture infomations saved to  global/en-US/README.md
+[16:13:15] Picture infomations saved to global/en-US/history/2024/06/16_en-US.md
+[16:13:15] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-06-16 01:13:15.516304+09:00
+[16:13:15] Successful get url: https://www.bing.com/th?id=OHR.RedFoxDad_JA-JP0937901099_UHD.jpg
+[16:13:15] Picture infomations saved to  global/ja-JP/README.md
+[16:13:15] Picture infomations saved to global/ja-JP/history/2024/06/16_ja-JP.md
+[16:13:15] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-06-15 21:43:15.730453+05:30
+[16:13:15] Successful get url: https://www.bing.com/th?id=OHR.NazareWave_EN-IN4905008694_UHD.jpg
+[16:13:15] Picture infomations saved to  global/en-IN/README.md
+[16:13:15] Picture infomations saved to global/en-IN/history/2024/06/15_en-IN.md
+[16:13:15] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-06-15 13:13:15.880977-03:00
+[16:13:15] Successful get url: https://www.bing.com/th?id=OHR.NazareWave_PT-BR1726789452_UHD.jpg
+[16:13:16] Picture infomations saved to  global/pt-BR/README.md
+[16:13:16] Picture infomations saved to global/pt-BR/history/2024/06/16_pt-BR.md
+[16:13:16] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-06-15 18:13:16.025655+02:00
+[16:13:16] Successful get url: https://www.bing.com/th?id=OHR.NazareWave_FR-FR3133568548_UHD.jpg
+[16:13:16] Picture infomations saved to  global/fr-FR/README.md
+[16:13:16] Picture infomations saved to global/fr-FR/history/2024/06/15_fr-FR.md
+[16:13:16] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-06-15 18:13:16.167055+02:00
+[16:13:16] Successful get url: https://www.bing.com/th?id=OHR.NazareWave_DE-DE6510576584_UHD.jpg
+[16:13:16] Picture infomations saved to  global/de-DE/README.md
+[16:13:16] Picture infomations saved to global/de-DE/history/2024/06/15_de-DE.md
+[16:13:16] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-06-15 12:13:16.317076-04:00
+[16:13:16] Successful get url: https://www.bing.com/th?id=OHR.NazareWave_EN-CA5439968025_UHD.jpg
+[16:13:16] Picture infomations saved to  global/en-CA/README.md
+[16:13:16] Picture infomations saved to global/en-CA/history/2024/06/16_en-CA.md
+[16:13:16] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-06-15 17:13:16.463634+01:00
+[16:13:16] Successful get url: https://www.bing.com/th?id=OHR.TroopingTheColourParade_EN-GB1777396736_UHD.jpg
+[16:13:16] Picture infomations saved to  global/en-GB/README.md
+[16:13:16] Picture infomations saved to global/en-GB/history/2024/06/15_en-GB.md
+[16:13:16] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-06-15 18:13:16.614844+02:00
+[16:13:16] Successful get url: https://www.bing.com/th?id=OHR.NazareWave_IT-IT1958162870_UHD.jpg
+[16:13:16] Picture infomations saved to  global/it-IT/README.md
+[16:13:16] Picture infomations saved to global/it-IT/history/2024/06/15_it-IT.md
+[16:13:16] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-06-15 18:13:16.754059+02:00
+[16:13:16] Successful get url: https://www.bing.com/th?id=OHR.NazareWave_ES-ES3451063756_UHD.jpg
+[16:13:16] Picture infomations saved to  global/es-ES/README.md
+[16:13:16] Picture infomations saved to global/es-ES/history/2024/06/15_es-ES.md
+[16:13:16] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-06-15 12:13:16.900225-04:00
+[16:13:16] Successful get url: https://www.bing.com/th?id=OHR.NazareWave_FR-CA8385614407_UHD.jpg
+[16:13:17] Picture infomations saved to  global/fr-CA/README.md
+[16:13:17] Picture infomations saved to global/fr-CA/history/2024/06/16_fr-CA.md
+Program exit at 16:13:17

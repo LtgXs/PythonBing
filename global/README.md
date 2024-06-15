@@ -6,9 +6,9 @@
 ||*Copyright: Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)*
 ||
 |||
-|2024-06-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NazareWave_JA-JP0665828544_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazareWave_JA-JP0665828544_UHD.jpg)|
-||*Copyright: ナザレのビッグウェーブ, ポルトガル (© Rui Caria/Getty Images)*
+|2024-06-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RedFoxDad_JA-JP0937901099_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFoxDad_JA-JP0937901099_UHD.jpg)|
+||*Copyright: ギンギツネの親子, 米国 ワシントン州 (© Chase Dekker/Minden Pictures)*
 ||
 |||
 |2024-06-15|**Region: en-IN**||
