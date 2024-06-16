@@ -6,9 +6,9 @@
 ||*Copyright: Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)*
 ||
 |||
-|2024-06-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RedFoxDad_JA-JP0937901099_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFoxDad_JA-JP0937901099_UHD.jpg)|
-||*Copyright: ギンギツネの親子, 米国 ワシントン州 (© Chase Dekker/Minden Pictures)*
+|2024-06-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HummingThistle_JA-JP1170638705_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HummingThistle_JA-JP1170638705_UHD.jpg)|
+||*Copyright: ムエルテ山に暮らすハチドリ, コスタリカ (© adrian hepworth/Alamy)*
 ||
 |||
 |2024-06-16|**Region: en-IN**||
