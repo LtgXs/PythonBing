@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-06-17|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg)|
-||*Copyright: Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)*
+|2024-06-18|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg)|
+||*Copyright: Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)*
 ||
 |||
 |2024-06-17|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ムエルテ山に暮らすハチドリ, コスタリカ (© adrian hepworth/Alamy)*
 ||
 |||
-|2024-06-16|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RedFoxDad_EN-IN5300607847_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFoxDad_EN-IN5300607847_UHD.jpg)|
-||*Copyright: Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)*
+|2024-06-17|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HummingThistle_EN-IN5574978979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HummingThistle_EN-IN5574978979_UHD.jpg)|
+||*Copyright: Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)*
 ||
 |||
-|2024-06-17|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FloresIsland_PT-BR1096612620_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FloresIsland_PT-BR1096612620_UHD.jpg)|
-||*Copyright: Lagos de crateras vulcânicas em Kelimutu, Flores, Indonésia (© Shane P. White/Minden Pictures)*
+|2024-06-18|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HummingThistle_PT-BR2010044953_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HummingThistle_PT-BR2010044953_UHD.jpg)|
+||*Copyright: Beija-flor brilhante de coroa verde com cardo gigante, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy Stock Photo)*
 ||
 |||
-|2024-06-16|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.RedFoxDad_FR-FR3371995571_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFoxDad_FR-FR3371995571_UHD.jpg)|
-||*Copyright: Renard roux mâle et son renardeau, Washington, États-Unis (© Chase Dekker/Minden Pictures)*
+|2024-06-17|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.FortCigogne_FR-FR4151283347_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FortCigogne_FR-FR4151283347_UHD.jpg)|
+||*Copyright: Fort Cigogne, archipel des Glénans, Bretagne (© Gerard SIOEN/Getty Images)*
 ||
 |||
-|2024-06-16|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.Ruinenberg_DE-DE5900996291_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Ruinenberg_DE-DE5900996291_UHD.jpg)|
-||*Copyright: Ruinenberg, ein Hügel im Potsdamer Stadtteil Bornstedt (© Sabina Berezina/Getty Images)*
+|2024-06-17|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HummingThistle_DE-DE7552143842_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HummingThistle_DE-DE7552143842_UHD.jpg)|
+||*Copyright: Grünstirn-Brillantkolibri mit Riesendistel, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy Stock Photo)*
 ||
 |||
-|2024-06-17|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.RedFoxDad_EN-CA5585165755_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFoxDad_EN-CA5585165755_UHD.jpg)|
-||*Copyright: Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)*
+|2024-06-18|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HummingThistle_EN-CA5661404552_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HummingThistle_EN-CA5661404552_UHD.jpg)|
+||*Copyright: Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)*
 ||
 |||
-|2024-06-16|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.RedFoxDad_EN-GB2072246945_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFoxDad_EN-GB2072246945_UHD.jpg)|
-||*Copyright: Red fox father and kit, Washington, USA (© Chase Dekker/Minden Pictures)*
+|2024-06-17|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HummingThistle_EN-GB9410129648_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HummingThistle_EN-GB9410129648_UHD.jpg)|
+||*Copyright: Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)*
 ||
 |||
-|2024-06-16|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TodiView_IT-IT4184020567_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TodiView_IT-IT4184020567_UHD.jpg)|
-||*Copyright: Todi, Umbria, Italia (© Fani Kurti/Getty Images)*
+|2024-06-17|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HummingThistle_IT-IT2672242113_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HummingThistle_IT-IT2672242113_UHD.jpg)|
+||*Copyright: Colibrì, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy Stock Photo)*
 ||
 |||
-|2024-06-16|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.KillikRiverAlaska_ES-ES6266165210_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KillikRiverAlaska_ES-ES6266165210_UHD.jpg)|
-||*Copyright: Confluencia de Easter Creek y el río Killik, Parque Nacional de las Puertas del Ártico, Alaska, EE.UU. (© Patrick J. Endres/Getty Images)*
+|2024-06-17|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HummingThistle_ES-ES3882279359_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HummingThistle_ES-ES3882279359_UHD.jpg)|
+||*Copyright: Colibrí brillante coroniverde con cardo gigante, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)*
 ||
 |||
-|2024-06-17|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.RedFoxDad_FR-CA8573396547_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFoxDad_FR-CA8573396547_UHD.jpg)|
-||*Copyright: Renard roux mâle et son renardeau, Washington, États-Unis (© Chase Dekker/Minden Pictures)*
+|2024-06-18|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HummingThistle_FR-CA8782540465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HummingThistle_FR-CA8782540465_UHD.jpg)|
+||*Copyright: Colibri Brillant fer-de-lance près d’un chardon aux ânes, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)*
 ||
 |||
 
