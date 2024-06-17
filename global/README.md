@@ -6,9 +6,9 @@
 ||*Copyright: Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)*
 ||
 |||
-|2024-06-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HummingThistle_JA-JP1170638705_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HummingThistle_JA-JP1170638705_UHD.jpg)|
-||*Copyright: ムエルテ山に暮らすハチドリ, コスタリカ (© adrian hepworth/Alamy)*
+|2024-06-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LupinIceland_JA-JP1350338976_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupinIceland_JA-JP1350338976_UHD.jpg)|
+||*Copyright: スナイフェルス半島, アイスランド (© Matteo Colombo/Getty Images)*
 ||
 |||
 |2024-06-17|**Region: en-IN**||
