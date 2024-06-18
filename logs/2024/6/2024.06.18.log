@@ -1,0 +1,60 @@
+
+Program started at 09:25:19
+Operating System Name: Linux
+Operating System Version: #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az777-581
+Processor Type: x86_64
+Python Version: 3.12.3
+Python Interpreter Name: CPython
+[09:25:19] Start geting CN Bing Wallpaper
+[09:25:19] Successful get url: https://www.bing.com/th?id=OHR.LupinIceland_ZH-CN5329147708_UHD.jpg
+[09:25:19] Image saved to img/background.jpg
+[09:25:19] Info saved to README.md
+[09:25:19] Image saved to history/2024/06/18.md
+[09:25:19] Start geting global Bing Wallpaper, region=en-US, local time is 2024-06-18 05:25:19.522071-04:00
+[09:25:19] Successful get url: https://www.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg
+[09:25:19] Picture infomations saved to  global/en-US/README.md
+[09:25:19] Picture infomations saved to global/en-US/history/2024/06/19_en-US.md
+[09:25:19] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-06-18 18:25:19.615447+09:00
+[09:25:19] Successful get url: https://www.bing.com/th?id=OHR.LupinIceland_JA-JP1350338976_UHD.jpg
+[09:25:19] Picture infomations saved to  global/ja-JP/README.md
+[09:25:19] Picture infomations saved to global/ja-JP/history/2024/06/18_ja-JP.md
+[09:25:19] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-06-18 14:55:19.724913+05:30
+[09:25:19] Successful get url: https://www.bing.com/th?id=OHR.LupinIceland_EN-IN5917999831_UHD.jpg
+[09:25:19] Picture infomations saved to  global/en-IN/README.md
+[09:25:19] Picture infomations saved to global/en-IN/history/2024/06/18_en-IN.md
+[09:25:19] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-06-18 06:25:19.841335-03:00
+[09:25:19] Successful get url: https://www.bing.com/th?id=OHR.LupinIceland_PT-BR2281677682_UHD.jpg
+[09:25:19] Picture infomations saved to  global/pt-BR/README.md
+[09:25:19] Picture infomations saved to global/pt-BR/history/2024/06/19_pt-BR.md
+[09:25:19] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-06-18 11:25:19.952341+02:00
+[09:25:19] Successful get url: https://www.bing.com/th?id=OHR.LupinIceland_FR-FR4349851245_UHD.jpg
+[09:25:20] Picture infomations saved to  global/fr-FR/README.md
+[09:25:20] Picture infomations saved to global/fr-FR/history/2024/06/18_fr-FR.md
+[09:25:20] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-06-18 11:25:20.065010+02:00
+[09:25:20] Successful get url: https://www.bing.com/th?id=OHR.LupinIceland_DE-DE8795741566_UHD.jpg
+[09:25:20] Picture infomations saved to  global/de-DE/README.md
+[09:25:20] Picture infomations saved to global/de-DE/history/2024/06/18_de-DE.md
+[09:25:20] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-06-18 05:25:20.204388-04:00
+[09:25:20] Successful get url: https://www.bing.com/th?id=OHR.LupinIceland_EN-CA8487496970_UHD.jpg
+[09:25:20] Picture infomations saved to  global/en-CA/README.md
+[09:25:20] Picture infomations saved to global/en-CA/history/2024/06/19_en-CA.md
+[09:25:20] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-06-18 10:25:20.296280+01:00
+[09:25:20] Successful get url: https://www.bing.com/th?id=OHR.LupinIceland_EN-GB3513329815_UHD.jpg
+[09:25:20] Picture infomations saved to  global/en-GB/README.md
+[09:25:20] Picture infomations saved to global/en-GB/history/2024/06/18_en-GB.md
+[09:25:20] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-06-18 11:25:20.409848+02:00
+[09:25:20] Successful get url: https://www.bing.com/th?id=OHR.LupinIceland_IT-IT2902162777_UHD.jpg
+[09:25:20] Picture infomations saved to  global/it-IT/README.md
+[09:25:20] Picture infomations saved to global/it-IT/history/2024/06/18_it-IT.md
+[09:25:20] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-06-18 11:25:20.567265+02:00
+[09:25:20] Successful get url: https://www.bing.com/th?id=OHR.LupinIceland_ES-ES4150475711_UHD.jpg
+[09:25:20] Picture infomations saved to  global/es-ES/README.md
+[09:25:20] Picture infomations saved to global/es-ES/history/2024/06/18_es-ES.md
+[09:25:20] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-06-18 05:25:20.671657-04:00
+[09:25:20] Successful get url: https://www.bing.com/th?id=OHR.LupinIceland_FR-CA9374842030_UHD.jpg
+[09:25:20] Picture infomations saved to  global/fr-CA/README.md
+[09:25:20] Picture infomations saved to global/fr-CA/history/2024/06/19_fr-CA.md
+Program exit at 09:25:20
