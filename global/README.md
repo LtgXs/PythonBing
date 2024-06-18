@@ -6,9 +6,9 @@
 ||*Copyright: Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)*
 ||
 |||
-|2024-06-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LupinIceland_JA-JP1350338976_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupinIceland_JA-JP1350338976_UHD.jpg)|
-||*Copyright: スナイフェルス半島, アイスランド (© Matteo Colombo/Getty Images)*
+|2024-06-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FlorenceDuomo_JA-JP1549442901_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlorenceDuomo_JA-JP1549442901_UHD.jpg)|
+||*Copyright: サンタ・マリア・デル・フィオーレ大聖堂, イタリア (© Elena Pueyo/Getty Images)*
 ||
 |||
 |2024-06-18|**Region: en-IN**||
