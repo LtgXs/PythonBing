@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-06-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg)|
-||*Copyright: Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)*
+|2024-06-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg)|
+||*Copyright: Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)*
 ||
 |||
 |2024-06-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: サンタ・マリア・デル・フィオーレ大聖堂, イタリア (© Elena Pueyo/Getty Images)*
 ||
 |||
-|2024-06-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LupinIceland_EN-IN5917999831_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupinIceland_EN-IN5917999831_UHD.jpg)|
-||*Copyright: Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)*
+|2024-06-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-IN6464213350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-IN6464213350_UHD.jpg)|
+||*Copyright: Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)*
 ||
 |||
-|2024-06-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LupinIceland_PT-BR2281677682_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupinIceland_PT-BR2281677682_UHD.jpg)|
-||*Copyright: Campos de tremoços e igreja ao nascer do sol, Península de Snæfellsnes, Islândia (© Matteo Colombo/Getty Images)*
+|2024-06-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CuxhavenTower_PT-BR2536351203_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuxhavenTower_PT-BR2536351203_UHD.jpg)|
+||*Copyright: Torre de água em Cuxhaven, Alemanha (© Andreas Vogel/Alamy)*
 ||
 |||
-|2024-06-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LupinIceland_FR-FR4349851245_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupinIceland_FR-FR4349851245_UHD.jpg)|
-||*Copyright: Champs de lupins et église au lever du soleil, péninsule de Snæfellsnes, Islande (© Matteo Colombo/Getty Images)*
+|2024-06-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CuxhavenTower_FR-FR4564976759_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuxhavenTower_FR-FR4564976759_UHD.jpg)|
+||*Copyright: Château d'eau à Cuxhaven, Allemagne (© Andreas Vogel/Alamy)*
 ||
 |||
-|2024-06-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LupinIceland_DE-DE8795741566_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupinIceland_DE-DE8795741566_UHD.jpg)|
-||*Copyright: Lupinenfelder und Kirche bei Sonnenaufgang, Snæfellsnes-Halbinsel, Island (© Matteo Colombo/Getty Images)*
+|2024-06-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CuxhavenTower_DE-DE4991048453_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuxhavenTower_DE-DE4991048453_UHD.jpg)|
+||*Copyright: Wasserturm in Cuxhaven, Deutschland (© Andreas Vogel/Alamy)*
 ||
 |||
-|2024-06-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LupinIceland_EN-CA8487496970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupinIceland_EN-CA8487496970_UHD.jpg)|
-||*Copyright: Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)*
+|2024-06-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-CA8570636554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-CA8570636554_UHD.jpg)|
+||*Copyright: Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)*
 ||
 |||
-|2024-06-18|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LupinIceland_EN-GB3513329815_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupinIceland_EN-GB3513329815_UHD.jpg)|
-||*Copyright: Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)*
+|2024-06-19|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CadesCove_EN-GB3888481980_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadesCove_EN-GB3888481980_UHD.jpg)|
+||*Copyright: Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee, USA (© Richard Bernabe/Shutterstock)*
 ||
 |||
-|2024-06-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LupinIceland_IT-IT2902162777_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupinIceland_IT-IT2902162777_UHD.jpg)|
-||*Copyright: Campi di lupini e una chiesa all'alba, penisola di Snæfellsnes, Islanda (© Matteo Colombo/Getty Images)*
+|2024-06-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CuxhavenTower_IT-IT3147341965_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuxhavenTower_IT-IT3147341965_UHD.jpg)|
+||*Copyright: Torre dell'acqua, Cuxhaven, Bassa Sassonia, Germania (© Andreas Vogel/Alamy)*
 ||
 |||
-|2024-06-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LupinIceland_ES-ES4150475711_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupinIceland_ES-ES4150475711_UHD.jpg)|
-||*Copyright: Campos de altramuces e iglesia al amanecer, Península de Snæfellsnes, Islandia (© Matteo Colombo/Getty Images)*
+|2024-06-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SuperyachtCupPalma_ES-ES7519747010_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuperyachtCupPalma_ES-ES7519747010_UHD.jpg)|
+||*Copyright: Vista aérea del puerto deportivo de lujo, Puerto Portals, Portals Nous, Mallorca, Islas Baleares, España (© Westend61/Getty Images)*
 ||
 |||
-|2024-06-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LupinIceland_FR-CA9374842030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupinIceland_FR-CA9374842030_UHD.jpg)|
-||*Copyright: Champs de lupins et église au lever du soleil, péninsule de Snæfellsnes, Islande (© Matteo Colombo/Getty Images)*
+|2024-06-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CuxhavenTower_FR-CA9531347179_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuxhavenTower_FR-CA9531347179_UHD.jpg)|
+||*Copyright: Château d'eau à Cuxhaven, Allemagne (© Andreas Vogel/Alamy)*
 ||
 |||
 
