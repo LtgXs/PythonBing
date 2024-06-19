@@ -6,9 +6,9 @@
 ||*Copyright: Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)*
 ||
 |||
-|2024-06-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FlorenceDuomo_JA-JP1549442901_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlorenceDuomo_JA-JP1549442901_UHD.jpg)|
-||*Copyright: サンタ・マリア・デル・フィオーレ大聖堂, イタリア (© Elena Pueyo/Getty Images)*
+|2024-06-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KokinoMacedonia_JA-JP1713805484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KokinoMacedonia_JA-JP1713805484_UHD.jpg)|
+||*Copyright: コキノ古代天文台, 北マケドニア (© stoimilov/Shutterstock)*
 ||
 |||
 |2024-06-19|**Region: en-IN**||
