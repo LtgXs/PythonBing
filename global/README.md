@@ -6,9 +6,9 @@
 ||*Copyright: Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)*
 ||
 |||
-|2024-06-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KokinoMacedonia_JA-JP1713805484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KokinoMacedonia_JA-JP1713805484_UHD.jpg)|
-||*Copyright: コキノ古代天文台, 北マケドニア (© stoimilov/Shutterstock)*
+|2024-06-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LewaGiraffe_JA-JP1858057864_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LewaGiraffe_JA-JP1858057864_UHD.jpg)|
+||*Copyright: レワ野生生物保護区, ケニア (© Sean Crane/Minden Pictures)*
 ||
 |||
 |2024-06-20|**Region: en-IN**||
