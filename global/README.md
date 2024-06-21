@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-06-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg)|
-||*Copyright: Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)*
+|2024-06-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_UHD.jpg)|
+||*Copyright: Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)*
 ||
 |||
 |2024-06-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: レワ野生生物保護区, ケニア (© Sean Crane/Minden Pictures)*
 ||
 |||
-|2024-06-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.KokinoMacedonia_EN-IN6950788998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KokinoMacedonia_EN-IN6950788998_UHD.jpg)|
-||*Copyright: Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)*
+|2024-06-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.RishikeshYoga_EN-IN7223104789_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RishikeshYoga_EN-IN7223104789_UHD.jpg)|
+||*Copyright: Rishikesh at night (© Andrey Khrobostov/Alamy Stock Photo)*
 ||
 |||
-|2024-06-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.KokinoMacedonia_PT-BR2816851215_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KokinoMacedonia_PT-BR2816851215_UHD.jpg)|
-||*Copyright: Kokino, um antigo observatório megalítico, Macedônia do Norte (© stoimilov/Shutterstock)*
+|2024-06-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.IniciodoInverno_PT-BR1929239619_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IniciodoInverno_PT-BR1929239619_UHD.jpg)|
+||*Copyright: Pôr do sol na praia de Ipanema, Rio de Janeiro, Brasil. Vista para as praias de Ipanema e Leblon, Morro Dois Irmãos e Pedra da Gávea (© Anton Petrus/Getty Images)*
 ||
 |||
-|2024-06-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.KokinoMacedonia_FR-FR5105619878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KokinoMacedonia_FR-FR5105619878_UHD.jpg)|
-||*Copyright: Kokino, ancien observatoire mégalithique, Macédoine du Nord (© stoimilov/Shutterstock)*
+|2024-06-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MusicDayToulouse_FR-FR5434347440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MusicDayToulouse_FR-FR5434347440_UHD.jpg)|
+||*Copyright: Pont-Neuf à Toulouse (© benkrut/Getty Images)*
 ||
 |||
-|2024-06-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.KokinoMacedonia_DE-DE0078075426_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KokinoMacedonia_DE-DE0078075426_UHD.jpg)|
-||*Copyright: Kokino, ein antikes megalithisches Observatorium, Nordmazedonien (© stoimilov/Shutterstock)*
+|2024-06-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LewaGiraffe_DE-DE0857828620_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LewaGiraffe_DE-DE0857828620_UHD.jpg)|
+||*Copyright: Netzgiraffenmutter begrüßt ihr Kalb, Lewa Wildlife Conservancy, Kenia (© Sean Crane/Minden Pictures)*
 ||
 |||
-|2024-06-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.KokinoMacedonia_EN-CA8649662259_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KokinoMacedonia_EN-CA8649662259_UHD.jpg)|
-||*Copyright: Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)*
+|2024-06-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.IndPeopleDay_EN-CA8734922275_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndPeopleDay_EN-CA8734922275_UHD.jpg)|
+||*Copyright: Interior exhibits of the Canadian Museum of History (© Inspired By Maps/Shutterstock)*
 ||
 |||
-|2024-06-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.KokinoMacedonia_EN-GB4480367698_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KokinoMacedonia_EN-GB4480367698_UHD.jpg)|
-||*Copyright: Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)*
+|2024-06-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-GB5426424156_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-GB5426424156_UHD.jpg)|
+||*Copyright: Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)*
 ||
 |||
-|2024-06-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SummerTree_IT-IT6031529080_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SummerTree_IT-IT6031529080_UHD.jpg)|
-||*Copyright: Vista di alberi nel bosco Reggio Calabria, Italia (© Roberto Martini/Getty Images)*
+|2024-06-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LewaGiraffe_IT-IT6350350663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LewaGiraffe_IT-IT6350350663_UHD.jpg)|
+||*Copyright: Madre giraffa reticolata con prole, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)*
 ||
 |||
-|2024-06-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.KokinoMacedonia_ES-ES7264523423_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KokinoMacedonia_ES-ES7264523423_UHD.jpg)|
-||*Copyright: Kokino, antiguo observatorio megalítico, Macedonia del Norte (© stoimilov/Shutterstock)*
+|2024-06-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LewaGiraffe_ES-ES7726305144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LewaGiraffe_ES-ES7726305144_UHD.jpg)|
+||*Copyright: Jirafa madre reticulada saludando a su cría, Lewa Wildlife Conservancy, Kenia (© Sean Crane/Minden Pictures)*
 ||
 |||
-|2024-06-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.KokinoMacedonia_FR-CA9739761147_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KokinoMacedonia_FR-CA9739761147_UHD.jpg)|
-||*Copyright: Kokino, ancien observatoire mégalithique, Macédoine du Nord (© stoimilov/Shutterstock)*
+|2024-06-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.IndPeopleDay_FR-CA3161711334_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndPeopleDay_FR-CA3161711334_UHD.jpg)|
+||*Copyright: Musée canadien de l’histoire (© Inspired By Maps/Shutterstock)*
 ||
 |||
 
