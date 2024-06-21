@@ -6,9 +6,9 @@
 ||*Copyright: Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)*
 ||
 |||
-|2024-06-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LewaGiraffe_JA-JP1858057864_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LewaGiraffe_JA-JP1858057864_UHD.jpg)|
-||*Copyright: レワ野生生物保護区, ケニア (© Sean Crane/Minden Pictures)*
+|2024-06-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BrazilRainforest_JA-JP2489498028_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilRainforest_JA-JP2489498028_UHD.jpg)|
+||*Copyright: アマゾン熱帯雨林, ブラジル (© Claus Meyer/plainpicture)*
 ||
 |||
 |2024-06-21|**Region: en-IN**||
