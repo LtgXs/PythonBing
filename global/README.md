@@ -6,9 +6,9 @@
 ||*Copyright: Amazon rainforest, Brazil (© Claus Meyer/plainpicture)*
 ||
 |||
-|2024-06-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BrazilRainforest_JA-JP2489498028_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilRainforest_JA-JP2489498028_UHD.jpg)|
-||*Copyright: アマゾン熱帯雨林, ブラジル (© Claus Meyer/plainpicture)*
+|2024-06-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Lavender2024_JA-JP2620797533_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Lavender2024_JA-JP2620797533_UHD.jpg)|
+||*Copyright: 湖畔に咲き誇るラベンダーと富士山, 河口湖 (© DoctorEgg/Getty Images)*
 ||
 |||
 |2024-06-22|**Region: en-IN**||
