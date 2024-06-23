@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of an intersection in Dhaka, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)*
 ||
 |||
-|2024-06-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Lavender2024_JA-JP2620797533_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Lavender2024_JA-JP2620797533_UHD.jpg)|
-||*Copyright: 湖畔に咲き誇るラベンダーと富士山, 河口湖 (© DoctorEgg/Getty Images)*
+|2024-06-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FloresIsland_JA-JP2788584919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FloresIsland_JA-JP2788584919_UHD.jpg)|
+||*Copyright: クリムトゥ山, インドネシア (© Shane P. White/Minden Pictures)*
 ||
 |||
 |2024-06-23|**Region: en-IN**||
