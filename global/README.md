@@ -6,9 +6,9 @@
 ||*Copyright: Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)*
 ||
 |||
-|2024-06-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FloresIsland_JA-JP2788584919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FloresIsland_JA-JP2788584919_UHD.jpg)|
-||*Copyright: クリムトゥ山, インドネシア (© Shane P. White/Minden Pictures)*
+|2024-06-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FireWave_JA-JP3002445647_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireWave_JA-JP3002445647_UHD.jpg)|
+||*Copyright: バレー・オブ・ファイアー州立公園, 米国 ネバダ州 (© Clint Losee/Tandem Stills + Motion)*
 ||
 |||
 |2024-06-24|**Region: en-IN**||
