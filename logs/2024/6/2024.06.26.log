@@ -1,0 +1,60 @@
+
+Program started at 09:26:42
+Operating System Name: Linux
+Operating System Version: #23~22.04.1-Ubuntu SMP Thu May  9 17:59:24 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az915-673
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[09:26:42] Start geting CN Bing Wallpaper
+[09:26:42] Successful get url: https://www.bing.com/th?id=OHR.CardinalfishAnemone_ZH-CN7249037417_UHD.jpg
+[09:26:42] Image saved to img/background.jpg
+[09:26:42] Info saved to README.md
+[09:26:42] Image saved to history/2024/06/26.md
+[09:26:42] Start geting global Bing Wallpaper, region=en-US, local time is 2024-06-26 05:26:42.919072-04:00
+[09:26:43] Successful get url: https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg
+[09:26:43] Picture infomations saved to  global/en-US/README.md
+[09:26:43] Picture infomations saved to global/en-US/history/2024/06/27_en-US.md
+[09:26:43] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-06-26 18:26:43.314930+09:00
+[09:26:43] Successful get url: https://www.bing.com/th?id=OHR.SpringCaveDale_JA-JP3237523322_UHD.jpg
+[09:26:44] Picture infomations saved to  global/ja-JP/README.md
+[09:26:44] Picture infomations saved to global/ja-JP/history/2024/06/26_ja-JP.md
+[09:26:44] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-06-26 14:56:44.145011+05:30
+[09:26:44] Successful get url: https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-IN9820574473_UHD.jpg
+[09:26:44] Picture infomations saved to  global/en-IN/README.md
+[09:26:44] Picture infomations saved to global/en-IN/history/2024/06/26_en-IN.md
+[09:26:44] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-06-26 06:26:44.728739-03:00
+[09:26:44] Successful get url: https://www.bing.com/th?id=OHR.CardinalfishAnemone_PT-BR4236573966_UHD.jpg
+[09:26:45] Picture infomations saved to  global/pt-BR/README.md
+[09:26:45] Picture infomations saved to global/pt-BR/history/2024/06/27_pt-BR.md
+[09:26:45] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-06-26 11:26:45.150570+02:00
+[09:26:45] Successful get url: https://www.bing.com/th?id=OHR.CardinalfishAnemone_FR-FR6379434981_UHD.jpg
+[09:26:45] Picture infomations saved to  global/fr-FR/README.md
+[09:26:45] Picture infomations saved to global/fr-FR/history/2024/06/26_fr-FR.md
+[09:26:45] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-06-26 11:26:45.503155+02:00
+[09:26:45] Successful get url: https://www.bing.com/th?id=OHR.CardinalfishAnemone_DE-DE5420606353_UHD.jpg
+[09:26:45] Picture infomations saved to  global/de-DE/README.md
+[09:26:45] Picture infomations saved to global/de-DE/history/2024/06/26_de-DE.md
+[09:26:45] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-06-26 05:26:45.872382-04:00
+[09:26:45] Successful get url: https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-CA9725559395_UHD.jpg
+[09:26:46] Picture infomations saved to  global/en-CA/README.md
+[09:26:46] Picture infomations saved to global/en-CA/history/2024/06/27_en-CA.md
+[09:26:46] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-06-26 10:26:46.256425+01:00
+[09:26:46] Successful get url: https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-GB9934314587_UHD.jpg
+[09:26:46] Picture infomations saved to  global/en-GB/README.md
+[09:26:46] Picture infomations saved to global/en-GB/history/2024/06/26_en-GB.md
+[09:26:46] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-06-26 11:26:46.626997+02:00
+[09:26:46] Successful get url: https://www.bing.com/th?id=OHR.CardinalfishAnemone_IT-IT5257002350_UHD.jpg
+[09:26:47] Picture infomations saved to  global/it-IT/README.md
+[09:26:47] Picture infomations saved to global/it-IT/history/2024/06/26_it-IT.md
+[09:26:47] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-06-26 11:26:47.080478+02:00
+[09:26:47] Successful get url: https://www.bing.com/th?id=OHR.CardinalfishAnemone_ES-ES9348160649_UHD.jpg
+[09:26:47] Picture infomations saved to  global/es-ES/README.md
+[09:26:47] Picture infomations saved to global/es-ES/history/2024/06/26_es-ES.md
+[09:26:47] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-06-26 05:26:47.541503-04:00
+[09:26:47] Successful get url: https://www.bing.com/th?id=OHR.CardinalfishAnemone_FR-CA4303007654_UHD.jpg
+[09:26:48] Picture infomations saved to  global/fr-CA/README.md
+[09:26:48] Picture infomations saved to global/fr-CA/history/2024/06/27_fr-CA.md
+Program exit at 09:26:48

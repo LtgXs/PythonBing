@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-06-26|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg)|
-||*Copyright: Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)*
+|2024-06-27|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg)|
+||*Copyright: Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)*
 ||
 |||
 |2024-06-26|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ペヴリル城, イングランド (© James Osmond/Alamy)*
 ||
 |||
-|2024-06-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FireWave_EN-IN8852870354_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireWave_EN-IN8852870354_UHD.jpg)|
-||*Copyright: The Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)*
+|2024-06-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-IN9820574473_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-IN9820574473_UHD.jpg)|
+||*Copyright: Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)*
 ||
 |||
-|2024-06-26|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FireWave_PT-BR3949258525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireWave_PT-BR3949258525_UHD.jpg)|
-||*Copyright: Formação rochosa Onda do Fogo, Parque Estadual Vale do Fogo, Nevada, EUA (© Clint Losee/Tandem Stills + Motion)*
+|2024-06-27|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CardinalfishAnemone_PT-BR4236573966_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CardinalfishAnemone_PT-BR4236573966_UHD.jpg)|
+||*Copyright: Peixe Cardinal Bangai juvenil com anêmona do mar, Estreito de Lembeh, Sulawesi do Norte, Indonésia (© Constantinos Petrinos/NPL/Minden Pictures)*
 ||
 |||
-|2024-06-25|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FireWave_FR-FR6210914317_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireWave_FR-FR6210914317_UHD.jpg)|
-||*Copyright: Formation rocheuse Fire Wave, parc d'État de Valley of Fire, Nevada, États-Unis (© Clint Losee/Tandem Stills + Motion)*
+|2024-06-26|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CardinalfishAnemone_FR-FR6379434981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CardinalfishAnemone_FR-FR6379434981_UHD.jpg)|
+||*Copyright: Poisson cardinal de Banggai et anémone de mer, détroit de Lembeh, Sulawesi du Nord, Indonésie (© Constantinos Petrinos/NPL/Minden Pictures)*
 ||
 |||
-|2024-06-25|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FireWave_DE-DE5152137899_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireWave_DE-DE5152137899_UHD.jpg)|
-||*Copyright: Die Felsformation Fire Wave, Valley of Fire State Park, Nevada, USA (© Clint Losee/Tandem Stills + Motion)*
+|2024-06-26|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CardinalfishAnemone_DE-DE5420606353_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CardinalfishAnemone_DE-DE5420606353_UHD.jpg)|
+||*Copyright: Junger Banggai Kardinalbarsch mit Seeanemone, Lembeh Strait, Nordsulawesi, Indonesien (© Constantinos Petrinos/NPL/Minden Pictures)*
 ||
 |||
-|2024-06-26|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FireWave_EN-CA9559982578_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireWave_EN-CA9559982578_UHD.jpg)|
-||*Copyright: The Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)*
+|2024-06-27|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-CA9725559395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-CA9725559395_UHD.jpg)|
+||*Copyright: Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)*
 ||
 |||
-|2024-06-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FireWave_EN-GB9662129375_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireWave_EN-GB9662129375_UHD.jpg)|
-||*Copyright: The Fire Wave rock formation, Valley of Fire State Park, Nevada, USA (© Clint Losee/Tandem Stills + Motion)*
+|2024-06-26|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-GB9934314587_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-GB9934314587_UHD.jpg)|
+||*Copyright: Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)*
 ||
 |||
-|2024-06-25|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FireWave_IT-IT4832147004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireWave_IT-IT4832147004_UHD.jpg)|
-||*Copyright: La formazione rocciosa dell'Onda di Fuoco, Valley of Fire State Park, Nevada, USA (© Clint Losee/Tandem Stills + Motion)*
+|2024-06-26|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CardinalfishAnemone_IT-IT5257002350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CardinalfishAnemone_IT-IT5257002350_UHD.jpg)|
+||*Copyright: Pesce cardinale Banggai con anemone di mare, Stretto di Lembeh, Sulawesi settentrionale, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)*
 ||
 |||
-|2024-06-25|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FireWave_ES-ES9125556493_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireWave_ES-ES9125556493_UHD.jpg)|
-||*Copyright: Parque Estatal del Valle del Fuego, Nevada, EE.UU. (© Clint Losee/Tandem Stills + Motion)*
+|2024-06-26|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CardinalfishAnemone_ES-ES9348160649_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CardinalfishAnemone_ES-ES9348160649_UHD.jpg)|
+||*Copyright: Pez cardenal Banggai joven con anémona de mar, Estrecho de Lembeh, Sulawesi Septentrional, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)*
 ||
 |||
-|2024-06-26|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FireWave_FR-CA4107597897_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireWave_FR-CA4107597897_UHD.jpg)|
-||*Copyright: Formation rocheuse Fire Wave, parc d'État de Valley of Fire, Nevada, États-Unis (© Clint Losee/Tandem Stills + Motion)*
+|2024-06-27|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CardinalfishAnemone_FR-CA4303007654_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CardinalfishAnemone_FR-CA4303007654_UHD.jpg)|
+||*Copyright: Poisson cardinal de Banggai et anémone de mer, détroit de Lembeh, Sulawesi du Nord, Indonésie (© Constantinos Petrinos/NPL/Minden Pictures)*
 ||
 |||
 
