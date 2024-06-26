@@ -6,9 +6,9 @@
 ||*Copyright: Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)*
 ||
 |||
-|2024-06-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SpringCaveDale_JA-JP3237523322_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringCaveDale_JA-JP3237523322_UHD.jpg)|
-||*Copyright: ペヴリル城, イングランド (© James Osmond/Alamy)*
+|2024-06-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Ayame2024_JA-JP3356201078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Ayame2024_JA-JP3356201078_UHD.jpg)|
+||*Copyright: 菖蒲, 山形県 長井市 (© gyro/Getty Images)*
 ||
 |||
 |2024-06-26|**Region: en-IN**||
