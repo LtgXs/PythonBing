@@ -6,9 +6,9 @@
 ||*Copyright: Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Images)*
 ||
 |||
-|2024-06-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Ayame2024_JA-JP3356201078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Ayame2024_JA-JP3356201078_UHD.jpg)|
-||*Copyright: 菖蒲, 山形県 長井市 (© gyro/Getty Images)*
+|2024-06-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ChristopherPark_JA-JP6692662521_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristopherPark_JA-JP6692662521_UHD.jpg)|
+||*Copyright: クリストファー・パークに掲げられたプライドフラッグ, 米国 ニューヨーク州 (© Noam Galai/Getty Images)*
 ||
 |||
 |2024-06-27|**Region: en-IN**||

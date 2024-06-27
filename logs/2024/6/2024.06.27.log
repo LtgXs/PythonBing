@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:25:12] Picture infomations saved to  global/fr-CA/README.md
 [09:25:12] Picture infomations saved to global/fr-CA/history/2024/06/28_fr-CA.md
 Program exit at 09:25:12
+
+Program started at 16:12:51
+Operating System Name: Linux
+Operating System Version: #23~22.04.1-Ubuntu SMP Thu May  9 17:59:24 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1196-224
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[16:12:52] Start geting CN Bing Wallpaper
+[16:12:52] Successful get url: https://www.bing.com/th?id=OHR.ChauseyIslands_ZH-CN4241103934_UHD.jpg
+[16:12:52] Image saved to img/background.jpg
+[16:12:52] Info saved to README.md
+[16:12:52] Image saved to history/2024/06/28.md
+[16:12:52] Start geting global Bing Wallpaper, region=en-US, local time is 2024-06-27 12:12:52.294665-04:00
+[16:12:52] Successful get url: https://www.bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg
+[16:12:52] Picture infomations saved to  global/en-US/README.md
+[16:12:52] Picture infomations saved to global/en-US/history/2024/06/28_en-US.md
+[16:12:52] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-06-28 01:12:52.583551+09:00
+[16:12:52] Successful get url: https://www.bing.com/th?id=OHR.ChristopherPark_JA-JP6692662521_UHD.jpg
+[16:12:52] Picture infomations saved to  global/ja-JP/README.md
+[16:12:52] Picture infomations saved to global/ja-JP/history/2024/06/28_ja-JP.md
+[16:12:52] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-06-27 21:42:52.866687+05:30
+[16:12:52] Successful get url: https://www.bing.com/th?id=OHR.FlorenceDuomo_EN-IN0160356722_UHD.jpg
+[16:12:53] Picture infomations saved to  global/en-IN/README.md
+[16:12:53] Picture infomations saved to global/en-IN/history/2024/06/27_en-IN.md
+[16:12:53] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-06-27 13:12:53.150340-03:00
+[16:12:53] Successful get url: https://www.bing.com/th?id=OHR.FlorenceDuomo_PT-BR4528036954_UHD.jpg
+[16:12:53] Picture infomations saved to  global/pt-BR/README.md
+[16:12:53] Picture infomations saved to global/pt-BR/history/2024/06/28_pt-BR.md
+[16:12:53] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-06-27 18:12:53.419589+02:00
+[16:12:53] Successful get url: https://www.bing.com/th?id=OHR.FlorenceDuomo_FR-FR6562213181_UHD.jpg
+[16:12:53] Picture infomations saved to  global/fr-FR/README.md
+[16:12:53] Picture infomations saved to global/fr-FR/history/2024/06/27_fr-FR.md
+[16:12:53] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-06-27 18:12:53.681445+02:00
+[16:12:53] Successful get url: https://www.bing.com/th?id=OHR.FlorenceDuomo_DE-DE5707653753_UHD.jpg
+[16:12:53] Picture infomations saved to  global/de-DE/README.md
+[16:12:53] Picture infomations saved to global/de-DE/history/2024/06/27_de-DE.md
+[16:12:53] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-06-27 12:12:53.948407-04:00
+[16:12:54] Successful get url: https://www.bing.com/th?id=OHR.FlorenceDuomo_EN-CA9972074175_UHD.jpg
+[16:12:54] Picture infomations saved to  global/en-CA/README.md
+[16:12:54] Picture infomations saved to global/en-CA/history/2024/06/28_en-CA.md
+[16:12:54] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-06-27 17:12:54.312975+01:00
+[16:12:54] Successful get url: https://www.bing.com/th?id=OHR.FlorenceDuomo_EN-GB0264090217_UHD.jpg
+[16:12:54] Picture infomations saved to  global/en-GB/README.md
+[16:12:54] Picture infomations saved to global/en-GB/history/2024/06/27_en-GB.md
+[16:12:54] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-06-27 18:12:54.589346+02:00
+[16:12:54] Successful get url: https://www.bing.com/th?id=OHR.FlorenceDuomo_IT-IT5589174181_UHD.jpg
+[16:12:54] Picture infomations saved to  global/it-IT/README.md
+[16:12:54] Picture infomations saved to global/it-IT/history/2024/06/27_it-IT.md
+[16:12:54] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-06-27 18:12:54.847155+02:00
+[16:12:54] Successful get url: https://www.bing.com/th?id=OHR.FlorenceDuomo_ES-ES9598633460_UHD.jpg
+[16:12:55] Picture infomations saved to  global/es-ES/README.md
+[16:12:55] Picture infomations saved to global/es-ES/history/2024/06/27_es-ES.md
+[16:12:55] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-06-27 12:12:55.124135-04:00
+[16:12:55] Successful get url: https://www.bing.com/th?id=OHR.FlorenceDuomo_FR-CA4457797022_UHD.jpg
+[16:12:55] Picture infomations saved to  global/fr-CA/README.md
+[16:12:55] Picture infomations saved to global/fr-CA/history/2024/06/28_fr-CA.md
+Program exit at 16:12:55
