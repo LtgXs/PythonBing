@@ -6,9 +6,9 @@
 ||*Copyright: Pride flags at Christopher Park, Stonewall National Monument, New York City (© Noam Galai/Getty Images)*
 ||
 |||
-|2024-06-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ChristopherPark_JA-JP8669771947_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristopherPark_JA-JP8669771947_UHD.jpg)|
-||*Copyright: クリストファー・パークに掲げられたプライドフラッグ, 米国 ニューヨーク州 (© Noam Galai/Getty Images)*
+|2024-06-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TourCorsica_JA-JP9224507458_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCorsica_JA-JP9224507458_UHD.jpg)|
+||*Copyright: コルシカ島のサイクリストたち, フランス (© Pascal Pochard-Casabianca/AFP via Getty Images)*
 ||
 |||
 |2024-06-28|**Region: en-IN**||
