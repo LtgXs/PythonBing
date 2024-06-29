@@ -6,9 +6,9 @@
 ||*Copyright: Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabianca/AFP via Getty Images)*
 ||
 |||
-|2024-06-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TourCorsica_JA-JP9224507458_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCorsica_JA-JP9224507458_UHD.jpg)|
-||*Copyright: コルシカ島のサイクリストたち, フランス (© Pascal Pochard-Casabianca/AFP via Getty Images)*
+|2024-06-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.UbudBali_JA-JP9425870638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UbudBali_JA-JP9425870638_UHD.jpg)|
+||*Copyright: バリ島のウブド村, インドネシア (© R. Schönebaum/plainpicture)*
 ||
 |||
 |2024-06-29|**Region: en-IN**||
