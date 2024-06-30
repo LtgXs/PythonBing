@@ -6,9 +6,9 @@
 ||*Copyright: Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)*
 ||
 |||
-|2024-06-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.UbudBali_JA-JP9425870638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UbudBali_JA-JP9425870638_UHD.jpg)|
-||*Copyright: バリ島のウブド村, インドネシア (© R. Schönebaum/plainpicture)*
+|2024-07-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FisgardLighthouse_JA-JP9618708130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FisgardLighthouse_JA-JP9618708130_UHD.jpg)|
+||*Copyright: フィスガード灯台, カナダ ブリティッシュコロンビア州 (© davemantel/Getty Images)*
 ||
 |||
 |2024-06-30|**Region: en-IN**||

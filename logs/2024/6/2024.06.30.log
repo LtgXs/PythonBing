@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:24] Picture infomations saved to  global/fr-CA/README.md
 [09:27:24] Picture infomations saved to global/fr-CA/history/2024/07/01_fr-CA.md
 Program exit at 09:27:24
+
+Program started at 16:12:41
+Operating System Name: Linux
+Operating System Version: #23~22.04.1-Ubuntu SMP Thu May  9 17:59:24 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1383-978
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[16:12:41] Start geting CN Bing Wallpaper
+[16:12:41] Successful get url: https://www.bing.com/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg
+[16:12:41] Image saved to img/background.jpg
+[16:12:41] Info saved to README.md
+[16:12:41] Image saved to history/2024/07/01.md
+[16:12:41] Start geting global Bing Wallpaper, region=en-US, local time is 2024-06-30 12:12:41.871685-04:00
+[16:12:41] Successful get url: https://www.bing.com/th?id=OHR.UbudBali_EN-US3541248173_UHD.jpg
+[16:12:41] Picture infomations saved to  global/en-US/README.md
+[16:12:41] Picture infomations saved to global/en-US/history/2024/07/01_en-US.md
+[16:12:41] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-01 01:12:42.008579+09:00
+[16:12:42] Successful get url: https://www.bing.com/th?id=OHR.FisgardLighthouse_JA-JP9618708130_UHD.jpg
+[16:12:42] Picture infomations saved to  global/ja-JP/README.md
+[16:12:42] Picture infomations saved to global/ja-JP/history/2024/07/01_ja-JP.md
+[16:12:42] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-06-30 21:42:42.175196+05:30
+[16:12:42] Successful get url: https://www.bing.com/th?id=OHR.UbudBali_EN-IN5820803064_UHD.jpg
+[16:12:42] Picture infomations saved to  global/en-IN/README.md
+[16:12:42] Picture infomations saved to global/en-IN/history/2024/06/30_en-IN.md
+[16:12:42] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-06-30 13:12:42.261851-03:00
+[16:12:42] Successful get url: https://www.bing.com/th?id=OHR.UbudBali_PT-BR6634868084_UHD.jpg
+[16:12:42] Picture infomations saved to  global/pt-BR/README.md
+[16:12:42] Picture infomations saved to global/pt-BR/history/2024/07/01_pt-BR.md
+[16:12:42] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-06-30 18:12:42.357529+02:00
+[16:12:42] Successful get url: https://www.bing.com/th?id=OHR.UbudBali_FR-FR6392717738_UHD.jpg
+[16:12:42] Picture infomations saved to  global/fr-FR/README.md
+[16:12:42] Picture infomations saved to global/fr-FR/history/2024/06/30_fr-FR.md
+[16:12:42] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-06-30 18:12:42.479203+02:00
+[16:12:42] Successful get url: https://www.bing.com/th?id=OHR.UbudBali_DE-DE9291119795_UHD.jpg
+[16:12:42] Picture infomations saved to  global/de-DE/README.md
+[16:12:42] Picture infomations saved to global/de-DE/history/2024/06/30_de-DE.md
+[16:12:42] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-06-30 12:12:42.612221-04:00
+[16:12:42] Successful get url: https://www.bing.com/th?id=OHR.UbudBali_EN-CA8434577809_UHD.jpg
+[16:12:42] Picture infomations saved to  global/en-CA/README.md
+[16:12:42] Picture infomations saved to global/en-CA/history/2024/07/01_en-CA.md
+[16:12:42] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-06-30 17:12:42.727343+01:00
+[16:12:42] Successful get url: https://www.bing.com/th?id=OHR.UbudBali_EN-GB2185347114_UHD.jpg
+[16:12:42] Picture infomations saved to  global/en-GB/README.md
+[16:12:42] Picture infomations saved to global/en-GB/history/2024/06/30_en-GB.md
+[16:12:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-06-30 18:12:42.813900+02:00
+[16:12:42] Successful get url: https://www.bing.com/th?id=OHR.PrideItalia_IT-IT3295714060_UHD.jpg
+[16:12:42] Picture infomations saved to  global/it-IT/README.md
+[16:12:42] Picture infomations saved to global/it-IT/history/2024/06/30_it-IT.md
+[16:12:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-06-30 18:12:42.912891+02:00
+[16:12:42] Successful get url: https://www.bing.com/th?id=OHR.UbudBali_ES-ES5927593831_UHD.jpg
+[16:12:43] Picture infomations saved to  global/es-ES/README.md
+[16:12:43] Picture infomations saved to global/es-ES/history/2024/06/30_es-ES.md
+[16:12:43] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-06-30 12:12:43.007884-04:00
+[16:12:43] Successful get url: https://www.bing.com/th?id=OHR.UbudBali_FR-CA5056160520_UHD.jpg
+[16:12:43] Picture infomations saved to  global/fr-CA/README.md
+[16:12:43] Picture infomations saved to global/fr-CA/history/2024/07/01_fr-CA.md
+Program exit at 16:12:43
