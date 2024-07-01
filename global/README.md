@@ -6,9 +6,9 @@
 ||*Copyright: Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images)*
 ||
 |||
-|2024-07-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FisgardLighthouse_JA-JP9618708130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FisgardLighthouse_JA-JP9618708130_UHD.jpg)|
-||*Copyright: フィスガード灯台, カナダ ブリティッシュコロンビア州 (© davemantel/Getty Images)*
+|2024-07-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ItalicaRuins_JA-JP9815947599_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalicaRuins_JA-JP9815947599_UHD.jpg)|
+||*Copyright: 古代ローマの都市イタリカ, スペイン (© Moses Palermo/Amazing Aerial Agency)*
 ||
 |||
 |2024-07-01|**Region: en-IN**||
