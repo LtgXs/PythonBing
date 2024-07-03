@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:25:10] Picture infomations saved to  global/fr-CA/README.md
 [09:25:10] Picture infomations saved to global/fr-CA/history/2024/07/04_fr-CA.md
 Program exit at 09:25:10
+
+Program started at 16:13:28
+Operating System Name: Linux
+Operating System Version: #23~22.04.1-Ubuntu SMP Thu May  9 17:59:24 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1456-536
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[16:13:28] Start geting CN Bing Wallpaper
+[16:13:28] Successful get url: https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_UHD.jpg
+[16:13:29] Image saved to img/background.jpg
+[16:13:29] Info saved to README.md
+[16:13:29] Image saved to history/2024/07/04.md
+[16:13:29] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-03 12:13:29.170694-04:00
+[16:13:29] Successful get url: https://www.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg
+[16:13:29] Picture infomations saved to  global/en-US/README.md
+[16:13:29] Picture infomations saved to global/en-US/history/2024/07/04_en-US.md
+[16:13:29] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-04 01:13:29.467768+09:00
+[16:13:29] Successful get url: https://www.bing.com/th?id=OHR.YenBaiTerraces_JA-JP0209668675_UHD.jpg
+[16:13:29] Picture infomations saved to  global/ja-JP/README.md
+[16:13:29] Picture infomations saved to global/ja-JP/history/2024/07/04_ja-JP.md
+[16:13:29] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-03 21:43:29.801818+05:30
+[16:13:29] Successful get url: https://www.bing.com/th?id=OHR.MeerkatManor_EN-IN8030536163_UHD.jpg
+[16:13:30] Picture infomations saved to  global/en-IN/README.md
+[16:13:30] Picture infomations saved to global/en-IN/history/2024/07/03_en-IN.md
+[16:13:30] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-03 13:13:30.130721-03:00
+[16:13:30] Successful get url: https://www.bing.com/th?id=OHR.MeerkatManor_PT-BR7654628186_UHD.jpg
+[16:13:30] Picture infomations saved to  global/pt-BR/README.md
+[16:13:30] Picture infomations saved to global/pt-BR/history/2024/07/04_pt-BR.md
+[16:13:30] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-03 18:13:30.397474+02:00
+[16:13:30] Successful get url: https://www.bing.com/th?id=OHR.MeerkatManor_FR-FR8114816201_UHD.jpg
+[16:13:30] Picture infomations saved to  global/fr-FR/README.md
+[16:13:30] Picture infomations saved to global/fr-FR/history/2024/07/03_fr-FR.md
+[16:13:30] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-03 18:13:30.723660+02:00
+[16:13:30] Successful get url: https://www.bing.com/th?id=OHR.MeerkatManor_DE-DE0148394224_UHD.jpg
+[16:13:31] Picture infomations saved to  global/de-DE/README.md
+[16:13:31] Picture infomations saved to global/de-DE/history/2024/07/03_de-DE.md
+[16:13:31] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-03 12:13:31.012905-04:00
+[16:13:31] Successful get url: https://www.bing.com/th?id=OHR.MeerkatManor_EN-CA9684864184_UHD.jpg
+[16:13:31] Picture infomations saved to  global/en-CA/README.md
+[16:13:31] Picture infomations saved to global/en-CA/history/2024/07/04_en-CA.md
+[16:13:31] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-03 17:13:31.290730+01:00
+[16:13:31] Successful get url: https://www.bing.com/th?id=OHR.MeerkatManor_EN-GB5476220606_UHD.jpg
+[16:13:31] Picture infomations saved to  global/en-GB/README.md
+[16:13:31] Picture infomations saved to global/en-GB/history/2024/07/03_en-GB.md
+[16:13:31] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-03 18:13:31.606123+02:00
+[16:13:31] Successful get url: https://www.bing.com/th?id=OHR.MeerkatManor_IT-IT4262281606_UHD.jpg
+[16:13:31] Picture infomations saved to  global/it-IT/README.md
+[16:13:31] Picture infomations saved to global/it-IT/history/2024/07/03_it-IT.md
+[16:13:31] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-03 18:13:31.875693+02:00
+[16:13:31] Successful get url: https://www.bing.com/th?id=OHR.MeerkatManor_ES-ES8008983955_UHD.jpg
+[16:13:32] Picture infomations saved to  global/es-ES/README.md
+[16:13:32] Picture infomations saved to global/es-ES/history/2024/07/03_es-ES.md
+[16:13:32] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-03 12:13:32.193888-04:00
+[16:13:32] Successful get url: https://www.bing.com/th?id=OHR.MeerkatManor_FR-CA5868654494_UHD.jpg
+[16:13:32] Picture infomations saved to  global/fr-CA/README.md
+[16:13:32] Picture infomations saved to global/fr-CA/history/2024/07/04_fr-CA.md
+Program exit at 16:13:32

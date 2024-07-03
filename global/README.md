@@ -6,9 +6,9 @@
 ||*Copyright: Meerkat family (© anetapics/Shutterstock)*
 ||
 |||
-|2024-07-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MeerkatManor_JA-JP0029401551_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MeerkatManor_JA-JP0029401551_UHD.jpg)|
-||*Copyright: 群れで起立するミーアキャット (© anetapics/Shutterstock)*
+|2024-07-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YenBaiTerraces_JA-JP0209668675_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YenBaiTerraces_JA-JP0209668675_UHD.jpg)|
+||*Copyright: ムーカンチャイ県, ベトナム (© Kiatanan Sugsompian/Getty Images)*
 ||
 |||
 |2024-07-03|**Region: en-IN**||
