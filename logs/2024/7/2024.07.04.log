@@ -1,0 +1,60 @@
+
+Program started at 09:27:32
+Operating System Name: Linux
+Operating System Version: #23~22.04.1-Ubuntu SMP Thu May  9 17:59:24 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1980-869
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[09:27:32] Start geting CN Bing Wallpaper
+[09:27:32] Successful get url: https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_UHD.jpg
+[09:27:32] Image saved to img/background.jpg
+[09:27:32] Info saved to README.md
+[09:27:32] Image saved to history/2024/07/04.md
+[09:27:32] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-04 05:27:32.624396-04:00
+[09:27:32] Successful get url: https://www.bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg
+[09:27:32] Picture infomations saved to  global/en-US/README.md
+[09:27:32] Picture infomations saved to global/en-US/history/2024/07/05_en-US.md
+[09:27:32] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-04 18:27:32.791039+09:00
+[09:27:32] Successful get url: https://www.bing.com/th?id=OHR.YenBaiTerraces_JA-JP0209668675_UHD.jpg
+[09:27:32] Picture infomations saved to  global/ja-JP/README.md
+[09:27:32] Picture infomations saved to global/ja-JP/history/2024/07/04_ja-JP.md
+[09:27:32] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-04 14:57:32.933728+05:30
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.KeralaSummer_EN-IN8339171901_UHD.jpg
+[09:27:33] Picture infomations saved to  global/en-IN/README.md
+[09:27:33] Picture infomations saved to global/en-IN/history/2024/07/04_en-IN.md
+[09:27:33] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-04 06:27:33.051574-03:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_PT-BR7910795678_UHD.jpg
+[09:27:33] Picture infomations saved to  global/pt-BR/README.md
+[09:27:33] Picture infomations saved to global/pt-BR/history/2024/07/05_pt-BR.md
+[09:27:33] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-04 11:27:33.170170+02:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.SenanqueAbbey_FR-FR3993123153_UHD.jpg
+[09:27:33] Picture infomations saved to  global/fr-FR/README.md
+[09:27:33] Picture infomations saved to global/fr-FR/history/2024/07/04_fr-FR.md
+[09:27:33] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-04 11:27:33.299419+02:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_DE-DE0508508511_UHD.jpg
+[09:27:33] Picture infomations saved to  global/de-DE/README.md
+[09:27:33] Picture infomations saved to global/de-DE/history/2024/07/04_de-DE.md
+[09:27:33] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-04 05:27:33.413411-04:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.FisgardLighthouse_EN-CA1018639901_UHD.jpg
+[09:27:33] Picture infomations saved to  global/en-CA/README.md
+[09:27:33] Picture infomations saved to global/en-CA/history/2024/07/05_en-CA.md
+[09:27:33] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-04 10:27:33.527715+01:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.ItalicaRuins_EN-GB5712011823_UHD.jpg
+[09:27:33] Picture infomations saved to  global/en-GB/README.md
+[09:27:33] Picture infomations saved to global/en-GB/history/2024/07/04_en-GB.md
+[09:27:33] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-04 11:27:33.633718+02:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_IT-IT4545122871_UHD.jpg
+[09:27:33] Picture infomations saved to  global/it-IT/README.md
+[09:27:33] Picture infomations saved to global/it-IT/history/2024/07/04_it-IT.md
+[09:27:33] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-04 11:27:33.769985+02:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_ES-ES8451895973_UHD.jpg
+[09:27:33] Picture infomations saved to  global/es-ES/README.md
+[09:27:33] Picture infomations saved to global/es-ES/history/2024/07/04_es-ES.md
+[09:27:33] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-04 05:27:33.877725-04:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_FR-CA6230509029_UHD.jpg
+[09:27:33] Picture infomations saved to  global/fr-CA/README.md
+[09:27:33] Picture infomations saved to global/fr-CA/history/2024/07/05_fr-CA.md
+Program exit at 09:27:33
