@@ -6,9 +6,9 @@
 ||*Copyright: Fireworks over the Hudson River on the Fourth of July, New York (© New York on Air/Shutterstock)*
 ||
 |||
-|2024-07-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YenBaiTerraces_JA-JP0209668675_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YenBaiTerraces_JA-JP0209668675_UHD.jpg)|
-||*Copyright: ムーカンチャイ県, ベトナム (© Kiatanan Sugsompian/Getty Images)*
+|2024-07-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NoahBeach_JA-JP0901623378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoahBeach_JA-JP0901623378_UHD.jpg)|
+||*Copyright: ノア・ビーチ, オーストラリア クイーンズランド州 (© bjeayes/Getty Images)*
 ||
 |||
 |2024-07-04|**Region: en-IN**||
