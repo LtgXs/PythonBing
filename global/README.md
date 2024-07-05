@@ -6,9 +6,9 @@
 ||*Copyright: Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)*
 ||
 |||
-|2024-07-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NoahBeach_JA-JP0901623378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoahBeach_JA-JP0901623378_UHD.jpg)|
-||*Copyright: ノア・ビーチ, オーストラリア クイーンズランド州 (© bjeayes/Getty Images)*
+|2024-07-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ConwyRiver_JA-JP1379612776_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConwyRiver_JA-JP1379612776_UHD.jpg)|
+||*Copyright: コンウィ城, イギリス (© David Chapman/Alamy)*
 ||
 |||
 |2024-07-05|**Region: en-IN**||
