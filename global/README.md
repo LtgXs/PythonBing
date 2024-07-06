@@ -6,9 +6,9 @@
 ||*Copyright: Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)*
 ||
 |||
-|2024-07-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ConwyRiver_JA-JP1379612776_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConwyRiver_JA-JP1379612776_UHD.jpg)|
-||*Copyright: コンウィ城, イギリス (© David Chapman/Alamy)*
+|2024-07-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Tanabata2024_JA-JP1586960009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Tanabata2024_JA-JP1586960009_UHD.jpg)|
+||*Copyright: 越中おわら節の踊り, 東京 (© Keith Tsuji/特派員/Getty Images)*
 ||
 |||
 |2024-07-06|**Region: en-IN**||

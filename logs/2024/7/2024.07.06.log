@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:25:49] Picture infomations saved to  global/fr-CA/README.md
 [09:25:49] Picture infomations saved to global/fr-CA/history/2024/07/07_fr-CA.md
 Program exit at 09:25:49
+
+Program started at 16:11:13
+Operating System Name: Linux
+Operating System Version: #23~22.04.1-Ubuntu SMP Thu May  9 17:59:24 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1108-758
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[16:11:13] Start geting CN Bing Wallpaper
+[16:11:13] Successful get url: https://www.bing.com/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_UHD.jpg
+[16:11:13] Image saved to img/background.jpg
+[16:11:13] Info saved to README.md
+[16:11:13] Image saved to history/2024/07/07.md
+[16:11:13] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-06 12:11:13.752619-04:00
+[16:11:13] Successful get url: https://www.bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg
+[16:11:13] Picture infomations saved to  global/en-US/README.md
+[16:11:13] Picture infomations saved to global/en-US/history/2024/07/07_en-US.md
+[16:11:13] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-07 01:11:13.933887+09:00
+[16:11:13] Successful get url: https://www.bing.com/th?id=OHR.Tanabata2024_JA-JP1586960009_UHD.jpg
+[16:11:14] Picture infomations saved to  global/ja-JP/README.md
+[16:11:14] Picture infomations saved to global/ja-JP/history/2024/07/07_ja-JP.md
+[16:11:14] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-06 21:41:14.105395+05:30
+[16:11:14] Successful get url: https://www.bing.com/th?id=OHR.ConwyRiver_EN-IN8974486695_UHD.jpg
+[16:11:14] Picture infomations saved to  global/en-IN/README.md
+[16:11:14] Picture infomations saved to global/en-IN/history/2024/07/06_en-IN.md
+[16:11:14] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-06 13:11:14.254285-03:00
+[16:11:14] Successful get url: https://www.bing.com/th?id=OHR.ConwyRiver_PT-BR8493712176_UHD.jpg
+[16:11:14] Picture infomations saved to  global/pt-BR/README.md
+[16:11:14] Picture infomations saved to global/pt-BR/history/2024/07/07_pt-BR.md
+[16:11:14] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-06 18:11:14.420485+02:00
+[16:11:14] Successful get url: https://www.bing.com/th?id=OHR.ConwyRiver_FR-FR8883858197_UHD.jpg
+[16:11:14] Picture infomations saved to  global/fr-FR/README.md
+[16:11:14] Picture infomations saved to global/fr-FR/history/2024/07/06_fr-FR.md
+[16:11:14] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-06 18:11:14.529263+02:00
+[16:11:14] Successful get url: https://www.bing.com/th?id=OHR.ConwyRiver_DE-DE2411903151_UHD.jpg
+[16:11:14] Picture infomations saved to  global/de-DE/README.md
+[16:11:14] Picture infomations saved to global/de-DE/history/2024/07/06_de-DE.md
+[16:11:14] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-06 12:11:14.686914-04:00
+[16:11:14] Successful get url: https://www.bing.com/th?id=OHR.ConwyRiver_EN-CA1909669827_UHD.jpg
+[16:11:14] Picture infomations saved to  global/en-CA/README.md
+[16:11:14] Picture infomations saved to global/en-CA/history/2024/07/07_en-CA.md
+[16:11:14] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-06 17:11:14.789479+01:00
+[16:11:14] Successful get url: https://www.bing.com/th?id=OHR.ConwyRiver_EN-GB6240387587_UHD.jpg
+[16:11:14] Picture infomations saved to  global/en-GB/README.md
+[16:11:14] Picture infomations saved to global/en-GB/history/2024/07/06_en-GB.md
+[16:11:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-06 18:11:14.900705+02:00
+[16:11:14] Successful get url: https://www.bing.com/th?id=OHR.ConwyRiver_IT-IT5239937929_UHD.jpg
+[16:11:14] Picture infomations saved to  global/it-IT/README.md
+[16:11:14] Picture infomations saved to global/it-IT/history/2024/07/06_it-IT.md
+[16:11:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-06 18:11:14.996637+02:00
+[16:11:15] Successful get url: https://www.bing.com/th?id=OHR.ConwyRiver_ES-ES1249409412_UHD.jpg
+[16:11:15] Picture infomations saved to  global/es-ES/README.md
+[16:11:15] Picture infomations saved to global/es-ES/history/2024/07/06_es-ES.md
+[16:11:15] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-06 12:11:15.155976-04:00
+[16:11:15] Successful get url: https://www.bing.com/th?id=OHR.ConwyRiver_FR-CA6980269240_UHD.jpg
+[16:11:15] Picture infomations saved to  global/fr-CA/README.md
+[16:11:15] Picture infomations saved to global/fr-CA/history/2024/07/07_fr-CA.md
+Program exit at 16:11:15
