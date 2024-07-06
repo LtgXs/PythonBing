@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-07-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg)|
-||*Copyright: Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)*
+|2024-07-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg)|
+||*Copyright: Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)*
 ||
 |||
 |2024-07-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: コンウィ城, イギリス (© David Chapman/Alamy)*
 ||
 |||
-|2024-07-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.NoahBeach_EN-IN8682200105_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoahBeach_EN-IN8682200105_UHD.jpg)|
-||*Copyright: Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)*
+|2024-07-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ConwyRiver_EN-IN8974486695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConwyRiver_EN-IN8974486695_UHD.jpg)|
+||*Copyright: Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)*
 ||
 |||
-|2024-07-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.NoahBeach_PT-BR8215908491_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoahBeach_PT-BR8215908491_UHD.jpg)|
-||*Copyright: Praia de Noah na floresta tropical de Daintree, Queensland, Austrália (© bjeayes/Getty Images)*
+|2024-07-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ConwyRiver_PT-BR8493712176_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConwyRiver_PT-BR8493712176_UHD.jpg)|
+||*Copyright: Castelo de Conwy com vista para o rio Conwy, País de Gales (© David Chapman/Alamy Stock Photo)*
 ||
 |||
-|2024-07-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.NoahBeach_FR-FR8649402194_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoahBeach_FR-FR8649402194_UHD.jpg)|
-||*Copyright: Plage de Noah, forêt tropicale de Daintree, Queensland, Australie (© bjeayes/Getty Images)*
+|2024-07-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ConwyRiver_FR-FR8883858197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConwyRiver_FR-FR8883858197_UHD.jpg)|
+||*Copyright: Château de Conwy surplombant la rivière Conwy, Pays de Galles, Royaume-Uni (© David Chapman/Alamy)*
 ||
 |||
-|2024-07-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.NoahBeach_DE-DE1036952164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoahBeach_DE-DE1036952164_UHD.jpg)|
-||*Copyright: Noah Beach im Daintree Rainforest, Queensland, Australien (© bjeayes/Getty Images)*
+|2024-07-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ConwyRiver_DE-DE2411903151_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConwyRiver_DE-DE2411903151_UHD.jpg)|
+||*Copyright: Conwy Castle mit Blick über den Fluss Conwy, Wales (© David Chapman/Alamy Stock Photo)*
 ||
 |||
-|2024-07-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.NoahBeach_EN-CA1574566780_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoahBeach_EN-CA1574566780_UHD.jpg)|
-||*Copyright: Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)*
+|2024-07-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ConwyRiver_EN-CA1909669827_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConwyRiver_EN-CA1909669827_UHD.jpg)|
+||*Copyright: Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)*
 ||
 |||
-|2024-07-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.NoahBeach_EN-GB6003580040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoahBeach_EN-GB6003580040_UHD.jpg)|
-||*Copyright: Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)*
+|2024-07-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ConwyRiver_EN-GB6240387587_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConwyRiver_EN-GB6240387587_UHD.jpg)|
+||*Copyright: Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy Stock Photo)*
 ||
 |||
-|2024-07-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.NoahBeach_IT-IT4884170767_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoahBeach_IT-IT4884170767_UHD.jpg)|
-||*Copyright: Noah Beach nella foresta pluviale di Daintree, Queensland, Australia (© bjeayes/Getty Images)*
+|2024-07-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ConwyRiver_IT-IT5239937929_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConwyRiver_IT-IT5239937929_UHD.jpg)|
+||*Copyright: Il castello di Conwy con vista sul fiume Conwy, Galles, Regno Unito (© David Chapman/Alamy Stock Photo)*
 ||
 |||
-|2024-07-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.NoahBeach_ES-ES8857323555_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoahBeach_ES-ES8857323555_UHD.jpg)|
-||*Copyright: Playa de Noah, Selva tropical de Daintree, Queensland, Australia (© bjeayes/Getty Images)*
+|2024-07-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ConwyRiver_ES-ES1249409412_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConwyRiver_ES-ES1249409412_UHD.jpg)|
+||*Copyright: Castillo de Conwy, Gales (© David Chapman/Alamy)*
 ||
 |||
-|2024-07-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.NoahBeach_FR-CA6678694943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoahBeach_FR-CA6678694943_UHD.jpg)|
-||*Copyright: Plage de Noah, forêt tropicale de Daintree, Queensland, Australie (© bjeayes/Getty Images)*
+|2024-07-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ConwyRiver_FR-CA6980269240_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConwyRiver_FR-CA6980269240_UHD.jpg)|
+||*Copyright: Château de Conwy surplombant la rivière Conwy, Pays de Galles, Royaume-Uni (© David Chapman/Alamy)*
 ||
 |||
 
