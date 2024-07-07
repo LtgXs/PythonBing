@@ -6,9 +6,9 @@
 ||*Copyright: Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)*
 ||
 |||
-|2024-07-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Tanabata2024_JA-JP1586960009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Tanabata2024_JA-JP1586960009_UHD.jpg)|
-||*Copyright: 越中おわら節の踊り, 東京 (© Keith Tsuji/特派員/Getty Images)*
+|2024-07-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NorwayBlueberries_JA-JP1900215964_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorwayBlueberries_JA-JP1900215964_UHD.jpg)|
+||*Copyright: 野生のブルーベリー (© Baac3nes/Getty Images)*
 ||
 |||
 |2024-07-07|**Region: en-IN**||
