@@ -6,9 +6,9 @@
 ||*Copyright: Blueberries growing in the wild (© Baac3nes/Getty Images)*
 ||
 |||
-|2024-07-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NorwayBlueberries_JA-JP1900215964_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorwayBlueberries_JA-JP1900215964_UHD.jpg)|
-||*Copyright: 野生のブルーベリー (© Baac3nes/Getty Images)*
+|2024-07-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TalampayaNP_JA-JP2093558410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TalampayaNP_JA-JP2093558410_UHD.jpg)|
+||*Copyright: タランパヤ国立公園, アルゼンチン (© Gonzalo Azumendi/Getty Images)*
 ||
 |||
 |2024-07-08|**Region: en-IN**||
