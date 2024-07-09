@@ -6,9 +6,9 @@
 ||*Copyright: Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)*
 ||
 |||
-|2024-07-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TalampayaNP_JA-JP2093558410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TalampayaNP_JA-JP2093558410_UHD.jpg)|
-||*Copyright: タランパヤ国立公園, アルゼンチン (© Gonzalo Azumendi/Getty Images)*
+|2024-07-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Lanternplant2024_JA-JP2260534010_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Lanternplant2024_JA-JP2260534010_UHD.jpg)|
+||*Copyright: 浅草寺のほおずき市, 東京 (© c11yg/Getty Images)*
 ||
 |||
 |2024-07-09|**Region: en-IN**||
