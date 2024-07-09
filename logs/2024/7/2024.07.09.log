@@ -1,0 +1,60 @@
+
+Program started at 09:24:03
+Operating System Name: Linux
+Operating System Version: #23~22.04.1-Ubuntu SMP Thu May  9 17:59:24 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1789-343
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[09:24:03] Start geting CN Bing Wallpaper
+[09:24:03] Successful get url: https://www.bing.com/th?id=OHR.TalampayaNP_ZH-CN7905859626_UHD.jpg
+[09:24:04] Image saved to img/background.jpg
+[09:24:04] Info saved to README.md
+[09:24:04] Image saved to history/2024/07/09.md
+[09:24:04] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-09 05:24:04.152434-04:00
+[09:24:04] Successful get url: https://www.bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg
+[09:24:04] Picture infomations saved to  global/en-US/README.md
+[09:24:04] Picture infomations saved to global/en-US/history/2024/07/10_en-US.md
+[09:24:04] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-09 18:24:04.308098+09:00
+[09:24:04] Successful get url: https://www.bing.com/th?id=OHR.TalampayaNP_JA-JP2093558410_UHD.jpg
+[09:24:04] Picture infomations saved to  global/ja-JP/README.md
+[09:24:04] Picture infomations saved to global/ja-JP/history/2024/07/09_ja-JP.md
+[09:24:04] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-09 14:54:04.498837+05:30
+[09:24:04] Successful get url: https://www.bing.com/th?id=OHR.TalampayaNP_EN-IN9969060729_UHD.jpg
+[09:24:04] Picture infomations saved to  global/en-IN/README.md
+[09:24:04] Picture infomations saved to global/en-IN/history/2024/07/09_en-IN.md
+[09:24:04] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-09 06:24:04.660974-03:00
+[09:24:04] Successful get url: https://www.bing.com/th?id=OHR.TalampayaNP_PT-BR9006778184_UHD.jpg
+[09:24:04] Picture infomations saved to  global/pt-BR/README.md
+[09:24:04] Picture infomations saved to global/pt-BR/history/2024/07/10_pt-BR.md
+[09:24:04] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-09 11:24:04.816389+02:00
+[09:24:04] Successful get url: https://www.bing.com/th?id=OHR.TalampayaNP_FR-FR0885621562_UHD.jpg
+[09:24:04] Picture infomations saved to  global/fr-FR/README.md
+[09:24:04] Picture infomations saved to global/fr-FR/history/2024/07/09_fr-FR.md
+[09:24:04] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-09 11:24:04.960490+02:00
+[09:24:05] Successful get url: https://www.bing.com/th?id=OHR.TalampayaNP_DE-DE3711851813_UHD.jpg
+[09:24:05] Picture infomations saved to  global/de-DE/README.md
+[09:24:05] Picture infomations saved to global/de-DE/history/2024/07/09_de-DE.md
+[09:24:05] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-09 05:24:05.139459-04:00
+[09:24:05] Successful get url: https://www.bing.com/th?id=OHR.TalampayaNP_EN-CA3117263692_UHD.jpg
+[09:24:05] Picture infomations saved to  global/en-CA/README.md
+[09:24:05] Picture infomations saved to global/en-CA/history/2024/07/10_en-CA.md
+[09:24:05] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-09 10:24:05.285782+01:00
+[09:24:05] Successful get url: https://www.bing.com/th?id=OHR.TalampayaNP_EN-GB7448714861_UHD.jpg
+[09:24:05] Picture infomations saved to  global/en-GB/README.md
+[09:24:05] Picture infomations saved to global/en-GB/history/2024/07/09_en-GB.md
+[09:24:05] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-09 11:24:05.436863+02:00
+[09:24:05] Successful get url: https://www.bing.com/th?id=OHR.TalampayaNP_IT-IT6470526392_UHD.jpg
+[09:24:05] Picture infomations saved to  global/it-IT/README.md
+[09:24:05] Picture infomations saved to global/it-IT/history/2024/07/09_it-IT.md
+[09:24:05] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-09 11:24:05.605191+02:00
+[09:24:05] Successful get url: https://www.bing.com/th?id=OHR.TalampayaNP_ES-ES2038373529_UHD.jpg
+[09:24:05] Picture infomations saved to  global/es-ES/README.md
+[09:24:05] Picture infomations saved to global/es-ES/history/2024/07/09_es-ES.md
+[09:24:05] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-09 05:24:05.753064-04:00
+[09:24:05] Successful get url: https://www.bing.com/th?id=OHR.TalampayaNP_FR-CA7552491200_UHD.jpg
+[09:24:05] Picture infomations saved to  global/fr-CA/README.md
+[09:24:05] Picture infomations saved to global/fr-CA/history/2024/07/10_fr-CA.md
+Program exit at 09:24:05
