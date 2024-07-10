@@ -6,9 +6,9 @@
 ||*Copyright: Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
-|2024-07-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Lanternplant2024_JA-JP2260534010_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Lanternplant2024_JA-JP2260534010_UHD.jpg)|
-||*Copyright: 浅草寺のほおずき市, 東京 (© c11yg/Getty Images)*
+|2024-07-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GangiSicily_JA-JP2426936283_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GangiSicily_JA-JP2426936283_UHD.jpg)|
+||*Copyright: シチリア島のガンジー, イタリア (© Andrea Caruso/Amazing Aerial Agency)*
 ||
 |||
 |2024-07-10|**Region: en-IN**||
@@ -32,7 +32,7 @@
 ||
 |||
 |2024-07-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CollaredAracari_EN-CA3486856563_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CollaredAracari_EN-CA3486856563_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.CollaredAracari_EN-CA2465482704_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CollaredAracari_EN-CA2465482704_UHD.jpg)|
 ||*Copyright: Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)*
 ||
 |||

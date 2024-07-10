@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:25:02] Picture infomations saved to  global/fr-CA/README.md
 [09:25:02] Picture infomations saved to global/fr-CA/history/2024/07/11_fr-CA.md
 Program exit at 09:25:02
+
+Program started at 16:12:27
+Operating System Name: Linux
+Operating System Version: #24~22.04.1-Ubuntu SMP Wed Jun 12 19:55:26 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az564-11
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[16:12:27] Start geting CN Bing Wallpaper
+[16:12:27] Successful get url: https://www.bing.com/th?id=OHR.GangiSicily_ZH-CN9086944081_UHD.jpg
+[16:12:27] Image saved to img/background.jpg
+[16:12:27] Info saved to README.md
+[16:12:27] Image saved to history/2024/07/11.md
+[16:12:27] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-10 12:12:27.700631-04:00
+[16:12:27] Successful get url: https://www.bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg
+[16:12:27] Picture infomations saved to  global/en-US/README.md
+[16:12:27] Picture infomations saved to global/en-US/history/2024/07/11_en-US.md
+[16:12:27] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-11 01:12:27.870858+09:00
+[16:12:27] Successful get url: https://www.bing.com/th?id=OHR.GangiSicily_JA-JP2426936283_UHD.jpg
+[16:12:28] Picture infomations saved to  global/ja-JP/README.md
+[16:12:28] Picture infomations saved to global/ja-JP/history/2024/07/11_ja-JP.md
+[16:12:28] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-10 21:42:28.022972+05:30
+[16:12:28] Successful get url: https://www.bing.com/th?id=OHR.CollaredAracari_EN-IN5723111528_UHD.jpg
+[16:12:28] Picture infomations saved to  global/en-IN/README.md
+[16:12:28] Picture infomations saved to global/en-IN/history/2024/07/10_en-IN.md
+[16:12:28] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-10 13:12:28.168877-03:00
+[16:12:28] Successful get url: https://www.bing.com/th?id=OHR.CollaredAracari_PT-BR9257323315_UHD.jpg
+[16:12:28] Picture infomations saved to  global/pt-BR/README.md
+[16:12:28] Picture infomations saved to global/pt-BR/history/2024/07/11_pt-BR.md
+[16:12:28] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-10 18:12:28.356393+02:00
+[16:12:28] Successful get url: https://www.bing.com/th?id=OHR.CollaredAracari_FR-FR3432712660_UHD.jpg
+[16:12:28] Picture infomations saved to  global/fr-FR/README.md
+[16:12:28] Picture infomations saved to global/fr-FR/history/2024/07/10_fr-FR.md
+[16:12:28] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-10 18:12:28.446056+02:00
+[16:12:28] Successful get url: https://www.bing.com/th?id=OHR.CollaredAracari_DE-DE4220062788_UHD.jpg
+[16:12:28] Picture infomations saved to  global/de-DE/README.md
+[16:12:28] Picture infomations saved to global/de-DE/history/2024/07/10_de-DE.md
+[16:12:28] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-10 12:12:28.678530-04:00
+[16:12:28] Successful get url: https://www.bing.com/th?id=OHR.CollaredAracari_EN-CA2465482704_UHD.jpg
+[16:12:28] Picture infomations saved to  global/en-CA/README.md
+[16:12:28] Picture infomations saved to global/en-CA/history/2024/07/11_en-CA.md
+[16:12:28] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-10 17:12:28.822049+01:00
+[16:12:28] Successful get url: https://www.bing.com/th?id=OHR.CollaredAracari_EN-GB7730593943_UHD.jpg
+[16:12:28] Picture infomations saved to  global/en-GB/README.md
+[16:12:28] Picture infomations saved to global/en-GB/history/2024/07/10_en-GB.md
+[16:12:28] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-10 18:12:28.966418+02:00
+[16:12:29] Successful get url: https://www.bing.com/th?id=OHR.UbudBali_IT-IT6720560821_UHD.jpg
+[16:12:29] Picture infomations saved to  global/it-IT/README.md
+[16:12:29] Picture infomations saved to global/it-IT/history/2024/07/10_it-IT.md
+[16:12:29] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-10 18:12:29.081813+02:00
+[16:12:29] Successful get url: https://www.bing.com/th?id=OHR.CollaredAracari_ES-ES2235219577_UHD.jpg
+[16:12:29] Picture infomations saved to  global/es-ES/README.md
+[16:12:29] Picture infomations saved to global/es-ES/history/2024/07/10_es-ES.md
+[16:12:29] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-10 12:12:29.331357-04:00
+[16:12:29] Successful get url: https://www.bing.com/th?id=OHR.CollaredAracari_FR-CA7760432627_UHD.jpg
+[16:12:29] Picture infomations saved to  global/fr-CA/README.md
+[16:12:29] Picture infomations saved to global/fr-CA/history/2024/07/11_fr-CA.md
+Program exit at 16:12:29
