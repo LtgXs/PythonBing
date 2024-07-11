@@ -6,9 +6,9 @@
 ||*Copyright: Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency)*
 ||
 |||
-|2024-07-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GangiSicily_JA-JP2426936283_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GangiSicily_JA-JP2426936283_UHD.jpg)|
-||*Copyright: シチリア島のガンジー, イタリア (© Andrea Caruso/Amazing Aerial Agency)*
+|2024-07-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RainierWildflowers_JA-JP5257571908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainierWildflowers_JA-JP5257571908_UHD.jpg)|
+||*Copyright: マウントレーニア国立公園, 米国 ワシントン州 (© RomanKhomlyak/Getty Images)*
 ||
 |||
 |2024-07-11|**Region: en-IN**||
