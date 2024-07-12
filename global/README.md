@@ -6,9 +6,9 @@
 ||*Copyright: Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)*
 ||
 |||
-|2024-07-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RainierWildflowers_JA-JP5257571908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainierWildflowers_JA-JP5257571908_UHD.jpg)|
-||*Copyright: マウントレーニア国立公園, 米国 ワシントン州 (© RomanKhomlyak/Getty Images)*
+|2024-07-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CappadociaRocks_JA-JP5563518724_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CappadociaRocks_JA-JP5563518724_UHD.jpg)|
+||*Copyright: カッパドキア, トルコ (© Storm Is Me/Shutterstock)*
 ||
 |||
 |2024-07-12|**Region: en-IN**||
@@ -43,7 +43,7 @@
 |||
 |2024-07-12|**Region: it-IT**||
 ||![](https://www.bing.com/th?id=OHR.UmbriaInternationalJazz_IT-IT2914317092_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UmbriaInternationalJazz_IT-IT2914317092_UHD.jpg)|
-||*Copyright: Umbria International Jazz Festival, Perugia, Umbria, Italia (© ermess/Getty Images)*
+||*Copyright: Umbria International Jazz Festival, Umbria, Italia (© ermess/Getty Images)*
 ||
 |||
 |2024-07-12|**Region: es-ES**||
