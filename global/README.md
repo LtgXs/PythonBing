@@ -6,9 +6,9 @@
 ||*Copyright: Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)*
 ||
 |||
-|2024-07-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CappadociaRocks_JA-JP5563518724_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CappadociaRocks_JA-JP5563518724_UHD.jpg)|
-||*Copyright: カッパドキア, トルコ (© Storm Is Me/Shutterstock)*
+|2024-07-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MuseumIsland_JA-JP9009131694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumIsland_JA-JP9009131694_UHD.jpg)|
+||*Copyright: ベルリンの「博物館島」, ドイツ (© Rudy Balasko/Shutterstock)*
 ||
 |||
 |2024-07-13|**Region: en-IN**||
