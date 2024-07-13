@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-07-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_UHD.jpg)|
-||*Copyright: Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)*
+|2024-07-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg)|
+||*Copyright: Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)*
 ||
 |||
 |2024-07-13|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: カッパドキア, トルコ (© Storm Is Me/Shutterstock)*
 ||
 |||
-|2024-07-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-IN6153414101_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-IN6153414101_UHD.jpg)|
-||*Copyright: Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)*
+|2024-07-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CappadociaRocks_EN-IN8308543174_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CappadociaRocks_EN-IN8308543174_UHD.jpg)|
+||*Copyright: Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)*
 ||
 |||
-|2024-07-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.RainierWildflowers_PT-BR9770254578_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainierWildflowers_PT-BR9770254578_UHD.jpg)|
-||*Copyright: Flores silvestres no Parque Nacional do Monte Rainier, Washington, EUA (© RomanKhomlyak/Getty Images)*
+|2024-07-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CappadociaRocks_PT-BR0064255602_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CappadociaRocks_PT-BR0064255602_UHD.jpg)|
+||*Copyright: Chaminés de fadas e grutas na Capadócia, Turquia (© Storm Is Me/Shutterstock)*
 ||
 |||
-|2024-07-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.RainierWildflowers_FR-FR1422439917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainierWildflowers_FR-FR1422439917_UHD.jpg)|
-||*Copyright: Fleurs sauvages dans le parc national du Mont Rainier, Washington, États-Unis (© RomanKhomlyak/Getty Images)*
+|2024-07-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CappadociaRocks_FR-FR1620184980_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CappadociaRocks_FR-FR1620184980_UHD.jpg)|
+||*Copyright: Cheminées de fées et habitations troglodytes en Cappadoce, Turquie (© Storm Is Me/Shutterstock)*
 ||
 |||
-|2024-07-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.RainierWildflowers_DE-DE3042432788_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainierWildflowers_DE-DE3042432788_UHD.jpg)|
-||*Copyright: Wildblumen im Mount Rainier-Nationalpark, Washington, USA (© RomanKhomlyak/Getty Images)*
+|2024-07-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CappadociaRocks_DE-DE6351998618_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CappadociaRocks_DE-DE6351998618_UHD.jpg)|
+||*Copyright: Feenkamine und Höhlenwohnungen in Kappadokien, Türkei (© Storm Is Me/Shutterstock)*
 ||
 |||
-|2024-07-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-CA0241221642_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-CA0241221642_UHD.jpg)|
-||*Copyright: Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)*
+|2024-07-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CappadociaRocks_EN-CA1807054291_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CappadociaRocks_EN-CA1807054291_UHD.jpg)|
+||*Copyright: Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)*
 ||
 |||
-|2024-07-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-GB3567513605_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-GB3567513605_UHD.jpg)|
-||*Copyright: Wildflowers in Mount Rainier National Park, Washington, USA (© RomanKhomlyak/Getty Images)*
+|2024-07-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CappadociaRocks_EN-GB3775326662_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CappadociaRocks_EN-GB3775326662_UHD.jpg)|
+||*Copyright: Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)*
 ||
 |||
-|2024-07-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.UmbriaInternationalJazz_IT-IT2914317092_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UmbriaInternationalJazz_IT-IT2914317092_UHD.jpg)|
-||*Copyright: Umbria International Jazz Festival, Umbria, Italia (© ermess/Getty Images)*
+|2024-07-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CappadociaRocks_IT-IT4089475911_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CappadociaRocks_IT-IT4089475911_UHD.jpg)|
+||*Copyright: Camini delle fate e abitazioni in grotta in Cappadocia, Turchia (© Storm Is Me/Shutterstock)*
 ||
 |||
-|2024-07-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.RainierWildflowers_ES-ES3642335933_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainierWildflowers_ES-ES3642335933_UHD.jpg)|
-||*Copyright: Flores silvestres en el Parque Nacional del Monte Rainier, Washington, EE.UU. (© RomanKhomlyak/Getty Images)*
+|2024-07-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CappadociaRocks_ES-ES4124443837_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CappadociaRocks_ES-ES4124443837_UHD.jpg)|
+||*Copyright: Chimeneas de hadas y casas-cueva en Capadocia, Turquía (© Storm Is Me/Shutterstock)*
 ||
 |||
-|2024-07-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.RainierWildflowers_FR-CA8731017819_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainierWildflowers_FR-CA8731017819_UHD.jpg)|
-||*Copyright: Fleurs sauvages dans le parc national du Mont Rainier, Washington, États-Unis (© RomanKhomlyak/Getty Images)*
+|2024-07-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CappadociaRocks_FR-CA8969564790_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CappadociaRocks_FR-CA8969564790_UHD.jpg)|
+||*Copyright: Cheminées de fées et habitations troglodytes en Cappadoce, Turquie (© Storm Is Me/Shutterstock)*
 ||
 |||
 
