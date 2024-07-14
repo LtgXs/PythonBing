@@ -6,9 +6,9 @@
 ||*Copyright: Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)*
 ||
 |||
-|2024-07-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MuseumIsland_JA-JP9009131694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumIsland_JA-JP9009131694_UHD.jpg)|
-||*Copyright: ベルリンの「博物館島」, ドイツ (© Rudy Balasko/Shutterstock)*
+|2024-07-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TateishiPark_JA-JP2045138918_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateishiPark_JA-JP2045138918_UHD.jpg)|
+||*Copyright: 立石公園, 神奈川県 (© blew_s/Shutterstock)*
 ||
 |||
 |2024-07-14|**Region: en-IN**||
