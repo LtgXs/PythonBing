@@ -1,0 +1,60 @@
+
+Program started at 09:26:12
+Operating System Name: Linux
+Operating System Version: #24~22.04.1-Ubuntu SMP Wed Jun 12 19:55:26 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1542-939
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[09:26:12] Start geting CN Bing Wallpaper
+[09:26:12] Successful get url: https://www.bing.com/th?id=OHR.TateishiPark_ZH-CN9903501398_UHD.jpg
+[09:26:12] Image saved to img/background.jpg
+[09:26:12] Info saved to README.md
+[09:26:12] Image saved to history/2024/07/15.md
+[09:26:12] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-15 05:26:13.037588-04:00
+[09:26:13] Successful get url: https://www.bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg
+[09:26:13] Picture infomations saved to  global/en-US/README.md
+[09:26:13] Picture infomations saved to global/en-US/history/2024/07/16_en-US.md
+[09:26:13] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-15 18:26:13.211577+09:00
+[09:26:13] Successful get url: https://www.bing.com/th?id=OHR.TateishiPark_JA-JP2045138918_UHD.jpg
+[09:26:13] Picture infomations saved to  global/ja-JP/README.md
+[09:26:13] Picture infomations saved to global/ja-JP/history/2024/07/15_ja-JP.md
+[09:26:13] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-15 14:56:13.358436+05:30
+[09:26:13] Successful get url: https://www.bing.com/th?id=OHR.TateishiPark_EN-IN9733056165_UHD.jpg
+[09:26:13] Picture infomations saved to  global/en-IN/README.md
+[09:26:13] Picture infomations saved to global/en-IN/history/2024/07/15_en-IN.md
+[09:26:13] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-15 06:26:13.483468-03:00
+[09:26:13] Successful get url: https://www.bing.com/th?id=OHR.TateishiPark_PT-BR0601453659_UHD.jpg
+[09:26:13] Picture infomations saved to  global/pt-BR/README.md
+[09:26:13] Picture infomations saved to global/pt-BR/history/2024/07/16_pt-BR.md
+[09:26:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-15 11:26:13.598430+02:00
+[09:26:13] Successful get url: https://www.bing.com/th?id=OHR.TateishiPark_FR-FR2256380829_UHD.jpg
+[09:26:13] Picture infomations saved to  global/fr-FR/README.md
+[09:26:13] Picture infomations saved to global/fr-FR/history/2024/07/15_fr-FR.md
+[09:26:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-15 11:26:13.697439+02:00
+[09:26:13] Successful get url: https://www.bing.com/th?id=OHR.TateishiPark_DE-DE4909574611_UHD.jpg
+[09:26:13] Picture infomations saved to  global/de-DE/README.md
+[09:26:13] Picture infomations saved to global/de-DE/history/2024/07/15_de-DE.md
+[09:26:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-15 05:26:13.798254-04:00
+[09:26:13] Successful get url: https://www.bing.com/th?id=OHR.TateishiPark_EN-CA6542034123_UHD.jpg
+[09:26:13] Picture infomations saved to  global/en-CA/README.md
+[09:26:13] Picture infomations saved to global/en-CA/history/2024/07/16_en-CA.md
+[09:26:13] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-15 10:26:13.912427+01:00
+[09:26:13] Successful get url: https://www.bing.com/th?id=OHR.TateishiPark_EN-GB5935394849_UHD.jpg
+[09:26:14] Picture infomations saved to  global/en-GB/README.md
+[09:26:14] Picture infomations saved to global/en-GB/history/2024/07/15_en-GB.md
+[09:26:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-15 11:26:14.023892+02:00
+[09:26:14] Successful get url: https://www.bing.com/th?id=OHR.TateishiPark_IT-IT9039159342_UHD.jpg
+[09:26:14] Picture infomations saved to  global/it-IT/README.md
+[09:26:14] Picture infomations saved to global/it-IT/history/2024/07/15_it-IT.md
+[09:26:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-15 11:26:14.120270+02:00
+[09:26:14] Successful get url: https://www.bing.com/th?id=OHR.TateishiPark_ES-ES5379923028_UHD.jpg
+[09:26:14] Picture infomations saved to  global/es-ES/README.md
+[09:26:14] Picture infomations saved to global/es-ES/history/2024/07/15_es-ES.md
+[09:26:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-15 05:26:14.275989-04:00
+[09:26:14] Successful get url: https://www.bing.com/th?id=OHR.TateishiPark_FR-CA9395273190_UHD.jpg
+[09:26:14] Picture infomations saved to  global/fr-CA/README.md
+[09:26:14] Picture infomations saved to global/fr-CA/history/2024/07/16_fr-CA.md
+Program exit at 09:26:14
