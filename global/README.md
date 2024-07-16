@@ -1,59 +1,59 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-07-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg)|
-||*Copyright: Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)*
+|2024-07-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg)|
+||*Copyright: The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)*
 ||
 |||
-|2024-07-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TateishiPark_JA-JP2045138918_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateishiPark_JA-JP2045138918_UHD.jpg)|
-||*Copyright: 立石公園, 神奈川県 (© blew_s/Shutterstock)*
+|2024-07-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AncientOrkney_JA-JP2155595314_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_JA-JP2155595314_UHD.jpg)|
+||*Copyright: スカラ・ブレイ, スコットランド (© Paul Williams - FunkyStock/Getty Images)*
 ||
 |||
-|2024-07-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TateishiPark_EN-IN9733056165_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateishiPark_EN-IN9733056165_UHD.jpg)|
-||*Copyright: Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)*
+|2024-07-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HammockCamping_EN-IN2367011958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HammockCamping_EN-IN2367011958_UHD.jpg)|
+||*Copyright: Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)*
 ||
 |||
-|2024-07-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TateishiPark_PT-BR0601453659_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateishiPark_PT-BR0601453659_UHD.jpg)|
-||*Copyright: Parque Tateishi, Prefeitura de Kanagawa, Japão (© blew_s/Shutterstock)*
+|2024-07-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AncientOrkney_PT-BR0835986378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_PT-BR0835986378_UHD.jpg)|
+||*Copyright: O assentamento neolítico de Skara Brae, Orkney, Escócia (© Paul Williams - FunkyStock/Getty Images)*
 ||
 |||
-|2024-07-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TateishiPark_FR-FR2256380829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateishiPark_FR-FR2256380829_UHD.jpg)|
-||*Copyright: Parc de Tateishi, préfecture de Kanagawa, Japon (© blew_s/Shutterstock)*
+|2024-07-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AncientOrkney_FR-FR2608784328_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_FR-FR2608784328_UHD.jpg)|
+||*Copyright: Site néolithique de Skara Brae, Orcades, Écosse (© Paul Williams - FunkyStock/Getty Images)*
 ||
 |||
-|2024-07-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TateishiPark_DE-DE4909574611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateishiPark_DE-DE4909574611_UHD.jpg)|
-||*Copyright: Tateishi Park, Präfektur Kanagawa, Japan (© blew_s/Shutterstock)*
+|2024-07-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AncientOrkney_DE-DE5345026370_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_DE-DE5345026370_UHD.jpg)|
+||*Copyright: Die jungsteinzeitliche Siedlung von Skara Brae, Orkney, Schottland (© Paul Williams - FunkyStock/Getty Images)*
 ||
 |||
-|2024-07-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TateishiPark_EN-CA6542034123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateishiPark_EN-CA6542034123_UHD.jpg)|
-||*Copyright: Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)*
+|2024-07-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.DinosaurProvPark_EN-CA7737524155_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DinosaurProvPark_EN-CA7737524155_UHD.jpg)|
+||*Copyright: Summer Milky Way over the badlands formations at Dinosaur Provincial Park, Alberta, Canada (© Alan Dyer/Stocktrek Images/Getty Images)*
 ||
 |||
-|2024-07-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TateishiPark_EN-GB5935394849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateishiPark_EN-GB5935394849_UHD.jpg)|
-||*Copyright: Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)*
+|2024-07-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AncientOrkney_EN-GB6273973665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_EN-GB6273973665_UHD.jpg)|
+||*Copyright: The neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)*
 ||
 |||
-|2024-07-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TateishiPark_IT-IT9039159342_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateishiPark_IT-IT9039159342_UHD.jpg)|
-||*Copyright: Parco Tateishi, Prefettura di Kanagawa, Giappone (© blew_s/Shutterstock)*
+|2024-07-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AncientOrkney_IT-IT9302214437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_IT-IT9302214437_UHD.jpg)|
+||*Copyright: L'insediamento neolitico di Skara Brae, Isole delle Orcadi, Scozia (© Paul Williams - FunkyStock/Getty Images)*
 ||
 |||
-|2024-07-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TateishiPark_ES-ES5379923028_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateishiPark_ES-ES5379923028_UHD.jpg)|
-||*Copyright: Parque Tateishi, prefectura de Kanagawa, Japón (© blew_s/Shutterstock)*
+|2024-07-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AncientOrkney_ES-ES6955943044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_ES-ES6955943044_UHD.jpg)|
+||*Copyright: El asentamiento neolítico de Skara Brae, Orcadas, Escocia (© Paul Williams - FunkyStock/Getty Images)*
 ||
 |||
-|2024-07-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TateishiPark_FR-CA9395273190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TateishiPark_FR-CA9395273190_UHD.jpg)|
-||*Copyright: Parc de Tateishi, préfecture de Kanagawa, Japon (© blew_s/Shutterstock)*
+|2024-07-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.DinosaurProvPark_FR-CA9600205303_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DinosaurProvPark_FR-CA9600205303_UHD.jpg)|
+||*Copyright: Voie lactée au-dessus des badlands, Parc provincial Dinosaur, Alberta (© Alan Dyer/Stocktrek Images/Getty Images)rk, Albert*
 ||
 |||
 
