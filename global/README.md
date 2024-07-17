@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-07-17|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg)|
-||*Copyright: The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)*
+|2024-07-18|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg)|
+||*Copyright: Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)*
 ||
 |||
 |2024-07-17|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 提灯で飾られた山鉾, 京都府 京都市 (© Cameron Hilker/Alamy Stock Photo)*
 ||
 |||
-|2024-07-16|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.HammockCamping_EN-IN2367011958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HammockCamping_EN-IN2367011958_UHD.jpg)|
-||*Copyright: Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)*
+|2024-07-17|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-IN3166503485_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-IN3166503485_UHD.jpg)|
+||*Copyright: Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)*
 ||
 |||
-|2024-07-17|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AncientOrkney_PT-BR0835986378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_PT-BR0835986378_UHD.jpg)|
-||*Copyright: O assentamento neolítico de Skara Brae, Orkney, Escócia (© Paul Williams - FunkyStock/Getty Images)*
+|2024-07-18|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DiadoCurupira_PT-BR5262042998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiadoCurupira_PT-BR5262042998_UHD.jpg)|
+||*Copyright: Vista de um barco na Amazônia (© StreetFlash/Getty Images)*
 ||
 |||
-|2024-07-16|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AncientOrkney_FR-FR2608784328_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_FR-FR2608784328_UHD.jpg)|
-||*Copyright: Site néolithique de Skara Brae, Orcades, Écosse (© Paul Williams - FunkyStock/Getty Images)*
+|2024-07-17|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MedievalRothenburg_FR-FR2962331926_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MedievalRothenburg_FR-FR2962331926_UHD.jpg)|
+||*Copyright: Ville médiévale de Rothenburg ob der Tauber, Allemagne (© kanuman/Getty Images)*
 ||
 |||
-|2024-07-16|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AncientOrkney_DE-DE5345026370_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_DE-DE5345026370_UHD.jpg)|
-||*Copyright: Die jungsteinzeitliche Siedlung von Skara Brae, Orkney, Schottland (© Paul Williams - FunkyStock/Getty Images)*
+|2024-07-17|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MedievalRothenburg_DE-DE5939430104_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MedievalRothenburg_DE-DE5939430104_UHD.jpg)|
+||*Copyright: Mittelalterliche Stadt Rothenburg ob der Tauber, Deutschland (© kanuman/Getty Images)*
 ||
 |||
-|2024-07-17|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DinosaurProvPark_EN-CA7737524155_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DinosaurProvPark_EN-CA7737524155_UHD.jpg)|
-||*Copyright: Summer Milky Way over the badlands formations at Dinosaur Provincial Park, Alberta, Canada (© Alan Dyer/Stocktrek Images/Getty Images)*
+|2024-07-18|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-CA4728212344_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-CA4728212344_UHD.jpg)|
+||*Copyright: Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)*
 ||
 |||
-|2024-07-16|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AncientOrkney_EN-GB6273973665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_EN-GB6273973665_UHD.jpg)|
-||*Copyright: The neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)*
+|2024-07-17|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-GB0016545589_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-GB0016545589_UHD.jpg)|
+||*Copyright: Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)*
 ||
 |||
-|2024-07-16|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AncientOrkney_IT-IT9302214437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_IT-IT9302214437_UHD.jpg)|
-||*Copyright: L'insediamento neolitico di Skara Brae, Isole delle Orcadi, Scozia (© Paul Williams - FunkyStock/Getty Images)*
+|2024-07-17|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MedievalRothenburg_IT-IT9631066540_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MedievalRothenburg_IT-IT9631066540_UHD.jpg)|
+||*Copyright: Città medievale di Rothenburg ob der Tauber, Baviera, Germania (© kanuman/Getty Images)*
 ||
 |||
-|2024-07-16|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AncientOrkney_ES-ES6955943044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AncientOrkney_ES-ES6955943044_UHD.jpg)|
-||*Copyright: El asentamiento neolítico de Skara Brae, Orcadas, Escocia (© Paul Williams - FunkyStock/Getty Images)*
+|2024-07-17|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MedievalRothenburg_ES-ES7422033090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MedievalRothenburg_ES-ES7422033090_UHD.jpg)|
+||*Copyright: Ciudad medieval de Rothenburg ob der Tauber, Alemania (© kanuman/Getty Images)*
 ||
 |||
-|2024-07-17|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DinosaurProvPark_FR-CA9600205303_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DinosaurProvPark_FR-CA9600205303_UHD.jpg)|
-||*Copyright: Voie lactée au-dessus des badlands, Parc provincial Dinosaur, Alberta (© Alan Dyer/Stocktrek Images/Getty Images)rk, Albert*
+|2024-07-18|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MedievalRothenburg_FR-CA9754425092_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MedievalRothenburg_FR-CA9754425092_UHD.jpg)|
+||*Copyright: Ville médiévale de Rothenburg ob der Tauber, Allemagne (© kanuman/Getty Images)*
 ||
 |||
 
