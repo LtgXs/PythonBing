@@ -6,9 +6,9 @@
 ||*Copyright: Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)*
 ||
 |||
-|2024-07-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GionFestival2024_JA-JP2391295161_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GionFestival2024_JA-JP2391295161_UHD.jpg)|
-||*Copyright: 提灯で飾られた山鉾, 京都府 京都市 (© Cameron Hilker/Alamy Stock Photo)*
+|2024-07-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MayotteCoral_JA-JP2527980968_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MayotteCoral_JA-JP2527980968_UHD.jpg)|
+||*Copyright: インド洋のサンゴ礁, フランス  (© Gabriel Barathieu/Minden Pictures)*
 ||
 |||
 |2024-07-17|**Region: en-IN**||

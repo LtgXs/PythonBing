@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:33] Picture infomations saved to  global/fr-CA/README.md
 [09:27:33] Picture infomations saved to global/fr-CA/history/2024/07/18_fr-CA.md
 Program exit at 09:27:33
+
+Program started at 16:12:52
+Operating System Name: Linux
+Operating System Version: #24~22.04.1-Ubuntu SMP Wed Jun 12 19:55:26 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az711-557
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[16:12:52] Start geting CN Bing Wallpaper
+[16:12:52] Successful get url: https://www.bing.com/th?id=OHR.MayotteCoral_ZH-CN8106288026_UHD.jpg
+[16:12:53] Image saved to img/background.jpg
+[16:12:53] Info saved to README.md
+[16:12:53] Image saved to history/2024/07/18.md
+[16:12:53] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-17 12:12:53.080919-04:00
+[16:12:53] Successful get url: https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg
+[16:12:53] Picture infomations saved to  global/en-US/README.md
+[16:12:53] Picture infomations saved to global/en-US/history/2024/07/18_en-US.md
+[16:12:53] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-18 01:12:53.559327+09:00
+[16:12:53] Successful get url: https://www.bing.com/th?id=OHR.MayotteCoral_JA-JP2527980968_UHD.jpg
+[16:12:53] Picture infomations saved to  global/ja-JP/README.md
+[16:12:53] Picture infomations saved to global/ja-JP/history/2024/07/18_ja-JP.md
+[16:12:53] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-17 21:42:53.967625+05:30
+[16:12:54] Successful get url: https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-IN3166503485_UHD.jpg
+[16:12:54] Picture infomations saved to  global/en-IN/README.md
+[16:12:54] Picture infomations saved to global/en-IN/history/2024/07/17_en-IN.md
+[16:12:54] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-17 13:12:54.383923-03:00
+[16:12:54] Successful get url: https://www.bing.com/th?id=OHR.DiadoCurupira_PT-BR5262042998_UHD.jpg
+[16:12:54] Picture infomations saved to  global/pt-BR/README.md
+[16:12:54] Picture infomations saved to global/pt-BR/history/2024/07/18_pt-BR.md
+[16:12:54] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-17 18:12:54.767655+02:00
+[16:12:54] Successful get url: https://www.bing.com/th?id=OHR.MedievalRothenburg_FR-FR2962331926_UHD.jpg
+[16:12:55] Picture infomations saved to  global/fr-FR/README.md
+[16:12:55] Picture infomations saved to global/fr-FR/history/2024/07/17_fr-FR.md
+[16:12:55] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-17 18:12:55.233781+02:00
+[16:12:55] Successful get url: https://www.bing.com/th?id=OHR.MedievalRothenburg_DE-DE5939430104_UHD.jpg
+[16:12:56] Picture infomations saved to  global/de-DE/README.md
+[16:12:56] Picture infomations saved to global/de-DE/history/2024/07/17_de-DE.md
+[16:12:56] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-17 12:12:56.290064-04:00
+[16:12:56] Successful get url: https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-CA4728212344_UHD.jpg
+[16:12:56] Picture infomations saved to  global/en-CA/README.md
+[16:12:56] Picture infomations saved to global/en-CA/history/2024/07/18_en-CA.md
+[16:12:56] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-17 17:12:56.668104+01:00
+[16:12:56] Successful get url: https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-GB0016545589_UHD.jpg
+[16:12:57] Picture infomations saved to  global/en-GB/README.md
+[16:12:57] Picture infomations saved to global/en-GB/history/2024/07/17_en-GB.md
+[16:12:57] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-17 18:12:57.375010+02:00
+[16:12:57] Successful get url: https://www.bing.com/th?id=OHR.MedievalRothenburg_IT-IT9631066540_UHD.jpg
+[16:12:57] Picture infomations saved to  global/it-IT/README.md
+[16:12:57] Picture infomations saved to global/it-IT/history/2024/07/17_it-IT.md
+[16:12:57] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-17 18:12:57.757346+02:00
+[16:12:57] Successful get url: https://www.bing.com/th?id=OHR.MedievalRothenburg_ES-ES7422033090_UHD.jpg
+[16:12:58] Picture infomations saved to  global/es-ES/README.md
+[16:12:58] Picture infomations saved to global/es-ES/history/2024/07/17_es-ES.md
+[16:12:58] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-17 12:12:58.112842-04:00
+[16:12:58] Successful get url: https://www.bing.com/th?id=OHR.MedievalRothenburg_FR-CA9754425092_UHD.jpg
+[16:12:58] Picture infomations saved to  global/fr-CA/README.md
+[16:12:58] Picture infomations saved to global/fr-CA/history/2024/07/18_fr-CA.md
+Program exit at 16:12:58
