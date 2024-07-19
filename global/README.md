@@ -6,9 +6,9 @@
 ||*Copyright: A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)*
 ||
 |||
-|2024-07-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YoungJaguar_JA-JP3725468269_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungJaguar_JA-JP3725468269_UHD.jpg)|
-||*Copyright: 大湿原パンタナル, ブラジル (© Tambako the Jaguar/Getty Images)*
+|2024-07-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MineralMoon_JA-JP2878137098_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MineralMoon_JA-JP2878137098_UHD.jpg)|
+||*Copyright: 観測機器で撮影された月 (© Victor Blum/Getty Images)*
 ||
 |||
 |2024-07-19|**Region: en-IN**||
