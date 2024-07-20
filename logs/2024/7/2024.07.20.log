@@ -1,0 +1,60 @@
+
+Program started at 09:23:49
+Operating System Name: Linux
+Operating System Version: #24~22.04.1-Ubuntu SMP Wed Jun 12 19:55:26 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az914-452
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[09:23:49] Start geting CN Bing Wallpaper
+[09:23:49] Successful get url: https://www.bing.com/th?id=OHR.MineralMoon_ZH-CN2555749456_UHD.jpg
+[09:23:50] Image saved to img/background.jpg
+[09:23:50] Info saved to README.md
+[09:23:50] Image saved to history/2024/07/20.md
+[09:23:50] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-20 05:23:50.059920-04:00
+[09:23:50] Successful get url: https://www.bing.com/th?id=OHR.MineralMoon_EN-US8936600169_UHD.jpg
+[09:23:50] Picture infomations saved to  global/en-US/README.md
+[09:23:50] Picture infomations saved to global/en-US/history/2024/07/21_en-US.md
+[09:23:50] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-20 18:23:50.432614+09:00
+[09:23:50] Successful get url: https://www.bing.com/th?id=OHR.MineralMoon_JA-JP2878137098_UHD.jpg
+[09:23:50] Picture infomations saved to  global/ja-JP/README.md
+[09:23:50] Picture infomations saved to global/ja-JP/history/2024/07/20_ja-JP.md
+[09:23:50] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-20 14:53:50.775915+05:30
+[09:23:50] Successful get url: https://www.bing.com/th?id=OHR.MineralMoon_EN-IN9361063674_UHD.jpg
+[09:23:51] Picture infomations saved to  global/en-IN/README.md
+[09:23:51] Picture infomations saved to global/en-IN/history/2024/07/20_en-IN.md
+[09:23:51] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-20 06:23:51.171108-03:00
+[09:23:51] Successful get url: https://www.bing.com/th?id=OHR.MineralMoon_PT-BR1317802439_UHD.jpg
+[09:23:51] Picture infomations saved to  global/pt-BR/README.md
+[09:23:51] Picture infomations saved to global/pt-BR/history/2024/07/21_pt-BR.md
+[09:23:51] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-20 11:23:51.505491+02:00
+[09:23:51] Successful get url: https://www.bing.com/th?id=OHR.MineralMoon_FR-FR0840269185_UHD.jpg
+[09:23:51] Picture infomations saved to  global/fr-FR/README.md
+[09:23:51] Picture infomations saved to global/fr-FR/history/2024/07/20_fr-FR.md
+[09:23:51] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-20 11:23:51.877441+02:00
+[09:23:51] Successful get url: https://www.bing.com/th?id=OHR.MineralMoon_DE-DE4896248941_UHD.jpg
+[09:23:52] Picture infomations saved to  global/de-DE/README.md
+[09:23:52] Picture infomations saved to global/de-DE/history/2024/07/20_de-DE.md
+[09:23:52] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-20 05:23:52.202316-04:00
+[09:23:52] Successful get url: https://www.bing.com/th?id=OHR.MineralMoon_EN-CA8937891241_UHD.jpg
+[09:23:52] Picture infomations saved to  global/en-CA/README.md
+[09:23:52] Picture infomations saved to global/en-CA/history/2024/07/21_en-CA.md
+[09:23:52] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-20 10:23:52.567922+01:00
+[09:23:52] Successful get url: https://www.bing.com/th?id=OHR.MineralMoon_EN-GB7656393830_UHD.jpg
+[09:23:52] Picture infomations saved to  global/en-GB/README.md
+[09:23:52] Picture infomations saved to global/en-GB/history/2024/07/20_en-GB.md
+[09:23:52] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-20 11:23:52.934514+02:00
+[09:23:53] Successful get url: https://www.bing.com/th?id=OHR.MineralMoon_IT-IT2334790788_UHD.jpg
+[09:23:53] Picture infomations saved to  global/it-IT/README.md
+[09:23:53] Picture infomations saved to global/it-IT/history/2024/07/20_it-IT.md
+[09:23:53] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-20 11:23:53.279223+02:00
+[09:23:53] Successful get url: https://www.bing.com/th?id=OHR.MineralMoon_ES-ES8732088445_UHD.jpg
+[09:23:53] Picture infomations saved to  global/es-ES/README.md
+[09:23:53] Picture infomations saved to global/es-ES/history/2024/07/20_es-ES.md
+[09:23:53] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-20 05:23:53.671812-04:00
+[09:23:53] Successful get url: https://www.bing.com/th?id=OHR.MineralMoon_FR-CA0338721201_UHD.jpg
+[09:23:54] Picture infomations saved to  global/fr-CA/README.md
+[09:23:54] Picture infomations saved to global/fr-CA/history/2024/07/21_fr-CA.md
+Program exit at 09:23:54
