@@ -6,9 +6,9 @@
 ||*Copyright: Wooden fishing boats at Kendwa, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)*
 ||
 |||
-|2024-07-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ZanzibarBoats_JA-JP2984048559_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZanzibarBoats_JA-JP2984048559_UHD.jpg)|
-||*Copyright: ザンジバル諸島のケンドワ村, タンザニア (© Lubos Paukeje/Alamy)*
+|2024-07-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MedievalRothenburg_JA-JP3111613598_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MedievalRothenburg_JA-JP3111613598_UHD.jpg)|
+||*Copyright: ローテンブルク・オプ・デア・タウバー, ドイツ (© kanuman/Getty Images)*
 ||
 |||
 |2024-07-21|**Region: en-IN**||
