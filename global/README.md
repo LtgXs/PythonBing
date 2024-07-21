@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-07-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MineralMoon_EN-US8936600169_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MineralMoon_EN-US8936600169_UHD.jpg)|
-||*Copyright: The moon (© Victor Blum/Getty Images)*
+|2024-07-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg)|
+||*Copyright: Wooden fishing boats at Kendwa, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)*
 ||
 |||
 |2024-07-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ザンジバル諸島のケンドワ村, タンザニア (© Lubos Paukeje/Alamy)*
 ||
 |||
-|2024-07-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MineralMoon_EN-IN9361063674_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MineralMoon_EN-IN9361063674_UHD.jpg)|
-||*Copyright: The moon (© Victor Blum/Getty Images)*
+|2024-07-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ZanzibarBoats_EN-IN4365742596_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZanzibarBoats_EN-IN4365742596_UHD.jpg)|
+||*Copyright: Wooden fishing boats at Kendwa village, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)*
 ||
 |||
-|2024-07-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MineralMoon_PT-BR1317802439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MineralMoon_PT-BR1317802439_UHD.jpg)|
-||*Copyright: A lua (© Victor Blum/Getty Images)*
+|2024-07-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ZanzibarBoats_PT-BR1541762225_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZanzibarBoats_PT-BR1541762225_UHD.jpg)|
+||*Copyright: Barcos de pesca de madeira na vila de Kendwa, Zanzibar, Tanzânia (© Lubos Paukeje/Alamy Stock Photo)*
 ||
 |||
-|2024-07-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MineralMoon_FR-FR0840269185_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MineralMoon_FR-FR0840269185_UHD.jpg)|
-||*Copyright: La Lune  (© Victor Blum/Getty Images)*
+|2024-07-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ZanzibarBoats_FR-FR1025363657_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZanzibarBoats_FR-FR1025363657_UHD.jpg)|
+||*Copyright: Bateaux de pêche en bois, village de Kendwa, Zanzibar, Tanzanie (© Lubos Paukeje/Alamy)*
 ||
 |||
-|2024-07-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MineralMoon_DE-DE4896248941_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MineralMoon_DE-DE4896248941_UHD.jpg)|
-||*Copyright: Der Mond (© Victor Blum/Getty Images)*
+|2024-07-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ZanzibarBoats_DE-DE5749143467_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZanzibarBoats_DE-DE5749143467_UHD.jpg)|
+||*Copyright: Hölzerne Fischerboote im Dorf Kendwa, Sansibar, Tansania (© Lubos Paukeje/Alamy)*
 ||
 |||
-|2024-07-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MineralMoon_EN-CA8937891241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MineralMoon_EN-CA8937891241_UHD.jpg)|
-||*Copyright: The moon (© Victor Blum/Getty Images)*
+|2024-07-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ZanzibarBoats_EN-CA8357127050_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZanzibarBoats_EN-CA8357127050_UHD.jpg)|
+||*Copyright: Wooden fishing boats at Kendwa village, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)*
 ||
 |||
-|2024-07-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MineralMoon_EN-GB7656393830_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MineralMoon_EN-GB7656393830_UHD.jpg)|
-||*Copyright: The moon (© Victor Blum/Getty Images)*
+|2024-07-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ZanzibarBoats_EN-GB8434940826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZanzibarBoats_EN-GB8434940826_UHD.jpg)|
+||*Copyright: Wooden fishing boats at Kendwa village, Zanzibar, Tanzania (© Lubos Paukeje/Alamy Stock Photo)*
 ||
 |||
-|2024-07-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MineralMoon_IT-IT2334790788_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MineralMoon_IT-IT2334790788_UHD.jpg)|
-||*Copyright: La Luna (© Victor Blum/Getty Images)*
+|2024-07-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.RedentorVenezia_IT-IT2428174506_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedentorVenezia_IT-IT2428174506_UHD.jpg)|
+||*Copyright: Festa del Redentore, Isola di San Giorgio, Venezia, Veneto, Italia (© Buena Vista Images/Getty Images)*
 ||
 |||
-|2024-07-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MineralMoon_ES-ES8732088445_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MineralMoon_ES-ES8732088445_UHD.jpg)|
-||*Copyright: La Luna (© Victor Blum/Getty Images)*
+|2024-07-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ZanzibarBoats_ES-ES9050362882_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZanzibarBoats_ES-ES9050362882_UHD.jpg)|
+||*Copyright: Barcos de pesca de madera en el pueblo de Kendwa, Zanzíbar, Tanzania (© Lubos Paukeje/Alamy)*
 ||
 |||
-|2024-07-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MineralMoon_FR-CA0338721201_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MineralMoon_FR-CA0338721201_UHD.jpg)|
-||*Copyright: La Lune (© Victor Blum/Getty Images)*
+|2024-07-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ZanzibarBoats_FR-CA0477237134_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZanzibarBoats_FR-CA0477237134_UHD.jpg)|
+||*Copyright: Bateaux de pêche en bois, village de Kendwa, Zanzibar, Tanzanie (© Lubos Paukeje/Alamy)*
 ||
 |||
 
