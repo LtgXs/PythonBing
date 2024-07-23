@@ -6,9 +6,9 @@
 ||*Copyright: Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)*
 ||
 |||
-|2024-07-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MethoniCastle_JA-JP3234736349_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethoniCastle_JA-JP3234736349_UHD.jpg)|
-||*Copyright: メトーニ城, ギリシャ (© Andrew Mayovskyy/Shutterstock)*
+|2024-07-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WindBell2024_JA-JP3427351394_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WindBell2024_JA-JP3427351394_UHD.jpg)|
+||*Copyright: 川越氷川神社, 埼玉県 川越市 (© Joshua Hawley/Shutterstock)*
 ||
 |||
 |2024-07-23|**Region: en-IN**||
