@@ -6,9 +6,9 @@
 ||*Copyright: Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)*
 ||
 |||
-|2024-07-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WindBell2024_JA-JP3427351394_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WindBell2024_JA-JP3427351394_UHD.jpg)|
-||*Copyright: 川越氷川神社, 埼玉県 川越市 (© Joshua Hawley/Shutterstock)*
+|2024-07-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SmokyMountainTrail_JA-JP3526148027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmokyMountainTrail_JA-JP3526148027_UHD.jpg)|
+||*Copyright: グレート・スモーキー山脈国立公園, 米国 (© putmanphoto/Getty Images)*
 ||
 |||
 |2024-07-24|**Region: en-IN**||
