@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-07-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg)|
-||*Copyright: Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)*
+|2024-07-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg)|
+||*Copyright: Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)*
 ||
 |||
 |2024-07-24|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 川越氷川神社, 埼玉県 川越市 (© Joshua Hawley/Shutterstock)*
 ||
 |||
-|2024-07-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MethoniCastle_EN-IN6995431738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethoniCastle_EN-IN6995431738_UHD.jpg)|
-||*Copyright: Methoni Castle, Messinia, Greece (© Andrew Mayovskyy/Shutterstock)*
+|2024-07-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SheepCousins_EN-IN5841559829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SheepCousins_EN-IN5841559829_UHD.jpg)|
+||*Copyright: Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)*
 ||
 |||
-|2024-07-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MethoniCastle_PT-BR2033564506_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethoniCastle_PT-BR2033564506_UHD.jpg)|
-||*Copyright: Castelo de Methoni, Messina, Grécia (© Andrew Mayovskyy/Shutterstock)*
+|2024-07-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.YoungJaguar_PT-BR2280455172_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungJaguar_PT-BR2280455172_UHD.jpg)|
+||*Copyright: Uma jovem onça-pintada em uma margem de rio, Pantanal, Brasil (© Tambako the Jaguar/Getty Images)*
 ||
 |||
-|2024-07-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MethoniCastle_FR-FR1765128924_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethoniCastle_FR-FR1765128924_UHD.jpg)|
-||*Copyright: Château de Méthoni, Messénie, Grèce (© Andrew Mayovskyy/Shutterstock)*
+|2024-07-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SheepCousins_FR-FR2246016593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SheepCousins_FR-FR2246016593_UHD.jpg)|
+||*Copyright: Troupeau de moutons de Swaledale dans le Yorkshire du Nord, Angleterre (© R A Kearton/Getty Images)*
 ||
 |||
-|2024-07-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MethoniCastle_DE-DE8197335840_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethoniCastle_DE-DE8197335840_UHD.jpg)|
-||*Copyright: Burg von Methoni, Messenien, Griechenland (© Andrew Mayovskyy/Shutterstock)*
+|2024-07-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SheepCousins_DE-DE1595160882_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SheepCousins_DE-DE1595160882_UHD.jpg)|
+||*Copyright: Herde von Swaledale-Schafen in North Yorkshire, England (© R A Kearton/Getty Images)*
 ||
 |||
-|2024-07-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MethoniCastle_EN-CA0696523421_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethoniCastle_EN-CA0696523421_UHD.jpg)|
-||*Copyright: Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)*
+|2024-07-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SheepCousins_EN-CA1277302803_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SheepCousins_EN-CA1277302803_UHD.jpg)|
+||*Copyright: Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)*
 ||
 |||
-|2024-07-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MethoniCastle_EN-GB9389537440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethoniCastle_EN-GB9389537440_UHD.jpg)|
-||*Copyright: Methoni Castle, Messinia, Greece (© Andrew Mayovskyy/Shutterstock)*
+|2024-07-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SheepCousins_EN-GB9631410299_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SheepCousins_EN-GB9631410299_UHD.jpg)|
+||*Copyright: Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)*
 ||
 |||
-|2024-07-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MethoniCastle_IT-IT2567271010_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethoniCastle_IT-IT2567271010_UHD.jpg)|
-||*Copyright: Castello Methoni, Messenia, Grecia (© Andrew Mayovskyy/Shutterstock)*
+|2024-07-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SheepCousins_IT-IT2624157981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SheepCousins_IT-IT2624157981_UHD.jpg)|
+||*Copyright: Gregge di pecore di Swaledale nel North Yorkshire, Inghilterra (© R A Kearton/Getty Images)*
 ||
 |||
-|2024-07-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MethoniCastle_ES-ES0213833516_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethoniCastle_ES-ES0213833516_UHD.jpg)|
-||*Copyright: Castillo de Methoni, Mesenia, Grecia (© Andrew Mayovskyy/Shutterstock)*
+|2024-07-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SaintJamesGalicia_ES-ES2247735379_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintJamesGalicia_ES-ES2247735379_UHD.jpg)|
+||*Copyright: Fiesta de Santiago Apóstol en Galicia, España (© Mlenny/iStock/Getty Images Plus)*
 ||
 |||
-|2024-07-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MethoniCastle_FR-CA0782109984_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MethoniCastle_FR-CA0782109984_UHD.jpg)|
-||*Copyright: Château de Méthoni, Messénie, Grèce (© Andrew Mayovskyy/Shutterstock)*
+|2024-07-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SheepCousins_FR-CA0942728657_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SheepCousins_FR-CA0942728657_UHD.jpg)|
+||*Copyright: Troupeau de moutons de Swaledale dans le Yorkshire du Nord, Angleterre (© R A Kearton/Getty Images)*
 ||
 |||
 
