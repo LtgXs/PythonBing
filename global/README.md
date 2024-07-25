@@ -6,9 +6,9 @@
 ||*Copyright: Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)*
 ||
 |||
-|2024-07-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SmokyMountainTrail_JA-JP3526148027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmokyMountainTrail_JA-JP3526148027_UHD.jpg)|
-||*Copyright: グレート・スモーキー山脈国立公園, 米国 (© putmanphoto/Getty Images)*
+|2024-07-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PontNeuf_JA-JP6539297380_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PontNeuf_JA-JP6539297380_UHD.jpg)|
+||*Copyright: セーヌ川に架かるポンヌフ橋, フランス パリ市 (© f11photo/Getty Images)*
 ||
 |||
 |2024-07-25|**Region: en-IN**||
