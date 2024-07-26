@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:25:00] Picture infomations saved to  global/fr-CA/README.md
 [09:25:00] Picture infomations saved to global/fr-CA/history/2024/07/27_fr-CA.md
 Program exit at 09:25:00
+
+Program started at 16:13:39
+Operating System Name: Linux
+Operating System Version: #25~22.04.1-Ubuntu SMP Mon Jun 17 18:38:57 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1986-796
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[16:13:39] Start geting CN Bing Wallpaper
+[16:13:39] Successful get url: https://www.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg
+[16:13:39] Image saved to img/background.jpg
+[16:13:39] Info saved to README.md
+[16:13:39] Image saved to history/2024/07/27.md
+[16:13:39] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-26 12:13:39.715506-04:00
+[16:13:39] Successful get url: https://www.bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg
+[16:13:39] Picture infomations saved to  global/en-US/README.md
+[16:13:39] Picture infomations saved to global/en-US/history/2024/07/27_en-US.md
+[16:13:39] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-27 01:13:39.838898+09:00
+[16:13:39] Successful get url: https://www.bing.com/th?id=OHR.RhinelandVineyards_JA-JP6772337865_UHD.jpg
+[16:13:39] Picture infomations saved to  global/ja-JP/README.md
+[16:13:39] Picture infomations saved to global/ja-JP/history/2024/07/27_ja-JP.md
+[16:13:39] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-26 21:43:39.976885+05:30
+[16:13:40] Successful get url: https://www.bing.com/th?id=OHR.KargilMemorial_EN-IN8142573327_UHD.jpg
+[16:13:40] Picture infomations saved to  global/en-IN/README.md
+[16:13:40] Picture infomations saved to global/en-IN/history/2024/07/26_en-IN.md
+[16:13:40] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-26 13:13:40.145298-03:00
+[16:13:40] Successful get url: https://www.bing.com/th?id=OHR.PontNeuf_PT-BR6985503586_UHD.jpg
+[16:13:40] Picture infomations saved to  global/pt-BR/README.md
+[16:13:40] Picture infomations saved to global/pt-BR/history/2024/07/27_pt-BR.md
+[16:13:40] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-26 18:13:40.296781+02:00
+[16:13:40] Successful get url: https://www.bing.com/th?id=OHR.ParisOlympicGames_FR-FR9795678627_UHD.jpg
+[16:13:40] Picture infomations saved to  global/fr-FR/README.md
+[16:13:40] Picture infomations saved to global/fr-FR/history/2024/07/26_fr-FR.md
+[16:13:40] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-26 18:13:40.463737+02:00
+[16:13:40] Successful get url: https://www.bing.com/th?id=OHR.PontNeuf_DE-DE3491182844_UHD.jpg
+[16:13:40] Picture infomations saved to  global/de-DE/README.md
+[16:13:40] Picture infomations saved to global/de-DE/history/2024/07/26_de-DE.md
+[16:13:40] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-26 12:13:40.632783-04:00
+[16:13:40] Successful get url: https://www.bing.com/th?id=OHR.PontNeuf_EN-CA9337401252_UHD.jpg
+[16:13:40] Picture infomations saved to  global/en-CA/README.md
+[16:13:40] Picture infomations saved to global/en-CA/history/2024/07/27_en-CA.md
+[16:13:40] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-26 17:13:40.758270+01:00
+[16:13:40] Successful get url: https://www.bing.com/th?id=OHR.PontNeuf_EN-GB0058066250_UHD.jpg
+[16:13:40] Picture infomations saved to  global/en-GB/README.md
+[16:13:40] Picture infomations saved to global/en-GB/history/2024/07/26_en-GB.md
+[16:13:40] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-26 18:13:40.940095+02:00
+[16:13:40] Successful get url: https://www.bing.com/th?id=OHR.PontNeuf_IT-IT7027678488_UHD.jpg
+[16:13:41] Picture infomations saved to  global/it-IT/README.md
+[16:13:41] Picture infomations saved to global/it-IT/history/2024/07/26_it-IT.md
+[16:13:41] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-26 18:13:41.134072+02:00
+[16:13:41] Successful get url: https://www.bing.com/th?id=OHR.PontNeuf_ES-ES2550658471_UHD.jpg
+[16:13:41] Picture infomations saved to  global/es-ES/README.md
+[16:13:41] Picture infomations saved to global/es-ES/history/2024/07/26_es-ES.md
+[16:13:41] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-26 12:13:41.249934-04:00
+[16:13:41] Successful get url: https://www.bing.com/th?id=OHR.PontNeuf_FR-CA3057910454_UHD.jpg
+[16:13:41] Picture infomations saved to  global/fr-CA/README.md
+[16:13:41] Picture infomations saved to global/fr-CA/history/2024/07/27_fr-CA.md
+Program exit at 16:13:41

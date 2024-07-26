@@ -6,9 +6,9 @@
 ||*Copyright: Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)*
 ||
 |||
-|2024-07-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PontNeuf_JA-JP6539297380_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PontNeuf_JA-JP6539297380_UHD.jpg)|
-||*Copyright: セーヌ川に架かるポンヌフ橋, フランス パリ市 (© f11photo/Getty Images)*
+|2024-07-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RhinelandVineyards_JA-JP6772337865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinelandVineyards_JA-JP6772337865_UHD.jpg)|
+||*Copyright: プファルツ地方, ドイツ ラインラント＝プファルツ州 (© Jorg Greuel/Getty Images)*
 ||
 |||
 |2024-07-26|**Region: en-IN**||
