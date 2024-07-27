@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:23:29] Picture infomations saved to  global/fr-CA/README.md
 [09:23:29] Picture infomations saved to global/fr-CA/history/2024/07/28_fr-CA.md
 Program exit at 09:23:29
+
+Program started at 16:12:44
+Operating System Name: Linux
+Operating System Version: #25~22.04.1-Ubuntu SMP Mon Jun 17 18:38:57 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1456-632
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[16:12:44] Start geting CN Bing Wallpaper
+[16:12:44] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_UHD.jpg
+[16:12:44] Image saved to img/background.jpg
+[16:12:44] Info saved to README.md
+[16:12:44] Image saved to history/2024/07/28.md
+[16:12:44] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-27 12:12:44.954610-04:00
+[16:12:45] Successful get url: https://www.bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg
+[16:12:45] Picture infomations saved to  global/en-US/README.md
+[16:12:45] Picture infomations saved to global/en-US/history/2024/07/28_en-US.md
+[16:12:45] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-28 01:12:45.378838+09:00
+[16:12:45] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_JA-JP6949327574_UHD.jpg
+[16:12:45] Picture infomations saved to  global/ja-JP/README.md
+[16:12:45] Picture infomations saved to global/ja-JP/history/2024/07/28_ja-JP.md
+[16:12:45] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-27 21:42:45.775925+05:30
+[16:12:46] Successful get url: https://www.bing.com/th?id=OHR.RhinelandVineyards_EN-IN4193963890_UHD.jpg
+[16:12:46] Picture infomations saved to  global/en-IN/README.md
+[16:12:46] Picture infomations saved to global/en-IN/history/2024/07/27_en-IN.md
+[16:12:46] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-27 13:12:46.402687-03:00
+[16:12:46] Successful get url: https://www.bing.com/th?id=OHR.RhinelandVineyards_PT-BR7268269161_UHD.jpg
+[16:12:46] Picture infomations saved to  global/pt-BR/README.md
+[16:12:46] Picture infomations saved to global/pt-BR/history/2024/07/28_pt-BR.md
+[16:12:46] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-27 18:12:46.902059+02:00
+[16:12:46] Successful get url: https://www.bing.com/th?id=OHR.RhinelandVineyards_FR-FR9994594641_UHD.jpg
+[16:12:47] Picture infomations saved to  global/fr-FR/README.md
+[16:12:47] Picture infomations saved to global/fr-FR/history/2024/07/27_fr-FR.md
+[16:12:47] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-27 18:12:47.283782+02:00
+[16:12:47] Successful get url: https://www.bing.com/th?id=OHR.RhinelandVineyards_DE-DE4066969313_UHD.jpg
+[16:12:47] Picture infomations saved to  global/de-DE/README.md
+[16:12:47] Picture infomations saved to global/de-DE/history/2024/07/27_de-DE.md
+[16:12:47] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-27 12:12:47.708706-04:00
+[16:12:47] Successful get url: https://www.bing.com/th?id=OHR.RhinelandVineyards_EN-CA9625336200_UHD.jpg
+[16:12:48] Picture infomations saved to  global/en-CA/README.md
+[16:12:48] Picture infomations saved to global/en-CA/history/2024/07/28_en-CA.md
+[16:12:48] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-27 17:12:48.096470+01:00
+[16:12:48] Successful get url: https://www.bing.com/th?id=OHR.CowesWeek2024_EN-GB1203003767_UHD.jpg
+[16:12:48] Picture infomations saved to  global/en-GB/README.md
+[16:12:48] Picture infomations saved to global/en-GB/history/2024/07/27_en-GB.md
+[16:12:48] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-27 18:12:48.496605+02:00
+[16:12:48] Successful get url: https://www.bing.com/th?id=OHR.EstateRomana_IT-IT9963812100_UHD.jpg
+[16:12:48] Picture infomations saved to  global/it-IT/README.md
+[16:12:48] Picture infomations saved to global/it-IT/history/2024/07/27_it-IT.md
+[16:12:48] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-27 18:12:48.933258+02:00
+[16:12:49] Successful get url: https://www.bing.com/th?id=OHR.RhinelandVineyards_ES-ES2388609359_UHD.jpg
+[16:12:49] Picture infomations saved to  global/es-ES/README.md
+[16:12:49] Picture infomations saved to global/es-ES/history/2024/07/27_es-ES.md
+[16:12:49] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-27 12:12:49.541224-04:00
+[16:12:49] Successful get url: https://www.bing.com/th?id=OHR.RhinelandVineyards_FR-CA3427435860_UHD.jpg
+[16:12:50] Picture infomations saved to  global/fr-CA/README.md
+[16:12:50] Picture infomations saved to global/fr-CA/history/2024/07/28_fr-CA.md
+Program exit at 16:12:50

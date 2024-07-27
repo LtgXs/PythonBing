@@ -6,9 +6,9 @@
 ||*Copyright: Vineyards in the Mosel Valley, Rhineland-Palatinate, Germany (© Jorg Greuel/Getty Images)*
 ||
 |||
-|2024-07-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RhinelandVineyards_JA-JP6772337865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinelandVineyards_JA-JP6772337865_UHD.jpg)|
-||*Copyright: プファルツ地方, ドイツ ラインラント＝プファルツ州 (© Jorg Greuel/Getty Images)*
+|2024-07-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BeachHutsSweden_JA-JP6949327574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachHutsSweden_JA-JP6949327574_UHD.jpg)|
+||*Copyright: カノールス・ハヴスバッド, スウェーデン スコーネ県 (© Martin Wahlborg/Getty Images)*
 ||
 |||
 |2024-07-27|**Region: en-IN**||
