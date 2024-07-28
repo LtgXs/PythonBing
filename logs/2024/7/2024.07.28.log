@@ -1,0 +1,60 @@
+
+Program started at 09:25:06
+Operating System Name: Linux
+Operating System Version: #25~22.04.1-Ubuntu SMP Mon Jun 17 18:38:57 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az2021-367
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[09:25:06] Start geting CN Bing Wallpaper
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_UHD.jpg
+[09:25:06] Image saved to img/background.jpg
+[09:25:06] Info saved to README.md
+[09:25:06] Image saved to history/2024/07/28.md
+[09:25:06] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-28 05:25:06.744140-04:00
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg
+[09:25:06] Picture infomations saved to  global/en-US/README.md
+[09:25:06] Picture infomations saved to global/en-US/history/2024/07/29_en-US.md
+[09:25:06] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-28 18:25:06.877546+09:00
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_JA-JP6949327574_UHD.jpg
+[09:25:07] Picture infomations saved to  global/ja-JP/README.md
+[09:25:07] Picture infomations saved to global/ja-JP/history/2024/07/28_ja-JP.md
+[09:25:07] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-28 14:55:07.211259+05:30
+[09:25:07] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-IN3846650845_UHD.jpg
+[09:25:07] Picture infomations saved to  global/en-IN/README.md
+[09:25:07] Picture infomations saved to global/en-IN/history/2024/07/28_en-IN.md
+[09:25:07] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-28 06:25:07.558257-03:00
+[09:25:07] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_PT-BR7531114296_UHD.jpg
+[09:25:07] Picture infomations saved to  global/pt-BR/README.md
+[09:25:07] Picture infomations saved to global/pt-BR/history/2024/07/29_pt-BR.md
+[09:25:07] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-28 11:25:07.891799+02:00
+[09:25:07] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_FR-FR0229761588_UHD.jpg
+[09:25:08] Picture infomations saved to  global/fr-FR/README.md
+[09:25:08] Picture infomations saved to global/fr-FR/history/2024/07/28_fr-FR.md
+[09:25:08] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-28 11:25:08.247084+02:00
+[09:25:08] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_DE-DE4614841617_UHD.jpg
+[09:25:08] Picture infomations saved to  global/de-DE/README.md
+[09:25:08] Picture infomations saved to global/de-DE/history/2024/07/28_de-DE.md
+[09:25:08] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-28 05:25:08.622689-04:00
+[09:25:08] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-CA0435377423_UHD.jpg
+[09:25:09] Picture infomations saved to  global/en-CA/README.md
+[09:25:09] Picture infomations saved to global/en-CA/history/2024/07/29_en-CA.md
+[09:25:09] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-28 10:25:09.023183+01:00
+[09:25:09] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-GB2231886770_UHD.jpg
+[09:25:09] Picture infomations saved to  global/en-GB/README.md
+[09:25:09] Picture infomations saved to global/en-GB/history/2024/07/28_en-GB.md
+[09:25:09] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-28 11:25:09.149121+02:00
+[09:25:09] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_IT-IT4512974268_UHD.jpg
+[09:25:09] Picture infomations saved to  global/it-IT/README.md
+[09:25:09] Picture infomations saved to global/it-IT/history/2024/07/28_it-IT.md
+[09:25:09] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-28 11:25:09.557652+02:00
+[09:25:09] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_ES-ES3277485240_UHD.jpg
+[09:25:09] Picture infomations saved to  global/es-ES/README.md
+[09:25:09] Picture infomations saved to global/es-ES/history/2024/07/28_es-ES.md
+[09:25:09] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-28 05:25:09.992458-04:00
+[09:25:10] Successful get url: https://www.bing.com/th?id=OHR.BeachHutsSweden_FR-CA5258282678_UHD.jpg
+[09:25:10] Picture infomations saved to  global/fr-CA/README.md
+[09:25:10] Picture infomations saved to global/fr-CA/history/2024/07/29_fr-CA.md
+Program exit at 09:25:10
