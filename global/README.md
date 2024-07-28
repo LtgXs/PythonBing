@@ -6,9 +6,9 @@
 ||*Copyright: Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)*
 ||
 |||
-|2024-07-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BeachHutsSweden_JA-JP6949327574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachHutsSweden_JA-JP6949327574_UHD.jpg)|
-||*Copyright: カノールス・ハヴスバッド, スウェーデン スコーネ県 (© Martin Wahlborg/Getty Images)*
+|2024-07-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CorbettTigers_JA-JP7161301838_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorbettTigers_JA-JP7161301838_UHD.jpg)|
+||*Copyright: ジム・コーベット国立公園, インド ウッタラーカンド州 (© Sourabh Bharti/Getty Images)*
 ||
 |||
 |2024-07-28|**Region: en-IN**||
