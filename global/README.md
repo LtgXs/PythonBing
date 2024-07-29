@@ -6,9 +6,9 @@
 ||*Copyright: Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bharti/Getty Images)*
 ||
 |||
-|2024-07-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CorbettTigers_JA-JP7161301838_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorbettTigers_JA-JP7161301838_UHD.jpg)|
-||*Copyright: ジム・コーベット国立公園, インド ウッタラーカンド州 (© Sourabh Bharti/Getty Images)*
+|2024-07-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GimignanoTuscany_JA-JP7399834117_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GimignanoTuscany_JA-JP7399834117_UHD.jpg)|
+||*Copyright: サン・ジミニャーノ, イタリア トスカーナ州 (© MNStudio/Shutterstock)*
 ||
 |||
 |2024-07-29|**Region: en-IN**||

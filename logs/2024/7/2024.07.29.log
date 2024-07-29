@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:26:31] Picture infomations saved to  global/fr-CA/README.md
 [09:26:31] Picture infomations saved to global/fr-CA/history/2024/07/30_fr-CA.md
 Program exit at 09:26:31
+
+Program started at 16:13:51
+Operating System Name: Linux
+Operating System Version: #25~22.04.1-Ubuntu SMP Mon Jun 17 18:38:57 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1196-601
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[16:13:51] Start geting CN Bing Wallpaper
+[16:13:52] Successful get url: https://www.bing.com/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_UHD.jpg
+[16:13:52] Image saved to img/background.jpg
+[16:13:52] Info saved to README.md
+[16:13:52] Image saved to history/2024/07/30.md
+[16:13:52] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-29 12:13:52.254066-04:00
+[16:13:52] Successful get url: https://www.bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg
+[16:13:52] Picture infomations saved to  global/en-US/README.md
+[16:13:52] Picture infomations saved to global/en-US/history/2024/07/30_en-US.md
+[16:13:52] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-30 01:13:52.546541+09:00
+[16:13:52] Successful get url: https://www.bing.com/th?id=OHR.GimignanoTuscany_JA-JP7399834117_UHD.jpg
+[16:13:53] Picture infomations saved to  global/ja-JP/README.md
+[16:13:53] Picture infomations saved to global/ja-JP/history/2024/07/30_ja-JP.md
+[16:13:53] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-29 21:43:53.092869+05:30
+[16:13:53] Successful get url: https://www.bing.com/th?id=OHR.CorbettTigers_EN-IN5057550276_UHD.jpg
+[16:13:53] Picture infomations saved to  global/en-IN/README.md
+[16:13:53] Picture infomations saved to global/en-IN/history/2024/07/29_en-IN.md
+[16:13:53] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-29 13:13:53.441786-03:00
+[16:13:53] Successful get url: https://www.bing.com/th?id=OHR.DiadoAgricultor_PT-BR1621260840_UHD.jpg
+[16:13:53] Picture infomations saved to  global/pt-BR/README.md
+[16:13:53] Picture infomations saved to global/pt-BR/history/2024/07/30_pt-BR.md
+[16:13:53] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-29 18:13:53.718973+02:00
+[16:13:53] Successful get url: https://www.bing.com/th?id=OHR.CorbettTigers_FR-FR0494384633_UHD.jpg
+[16:13:54] Picture infomations saved to  global/fr-FR/README.md
+[16:13:54] Picture infomations saved to global/fr-FR/history/2024/07/29_fr-FR.md
+[16:13:54] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-29 18:13:54.030681+02:00
+[16:13:54] Successful get url: https://www.bing.com/th?id=OHR.CorbettTigers_DE-DE5462654549_UHD.jpg
+[16:13:54] Picture infomations saved to  global/de-DE/README.md
+[16:13:54] Picture infomations saved to global/de-DE/history/2024/07/29_de-DE.md
+[16:13:54] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-29 12:13:54.312003-04:00
+[16:13:54] Successful get url: https://www.bing.com/th?id=OHR.CorbettTigers_EN-CA4355248170_UHD.jpg
+[16:13:54] Picture infomations saved to  global/en-CA/README.md
+[16:13:54] Picture infomations saved to global/en-CA/history/2024/07/30_en-CA.md
+[16:13:54] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-29 17:13:54.607165+01:00
+[16:13:54] Successful get url: https://www.bing.com/th?id=OHR.CorbettTigers_EN-GB2931140045_UHD.jpg
+[16:13:54] Picture infomations saved to  global/en-GB/README.md
+[16:13:54] Picture infomations saved to global/en-GB/history/2024/07/29_en-GB.md
+[16:13:54] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-29 18:13:54.903727+02:00
+[16:13:54] Successful get url: https://www.bing.com/th?id=OHR.CorbettTigers_IT-IT0229464219_UHD.jpg
+[16:13:55] Picture infomations saved to  global/it-IT/README.md
+[16:13:55] Picture infomations saved to global/it-IT/history/2024/07/29_it-IT.md
+[16:13:55] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-29 18:13:55.184077+02:00
+[16:13:55] Successful get url: https://www.bing.com/th?id=OHR.CorbettTigers_ES-ES3406762791_UHD.jpg
+[16:13:55] Picture infomations saved to  global/es-ES/README.md
+[16:13:55] Picture infomations saved to global/es-ES/history/2024/07/29_es-ES.md
+[16:13:55] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-29 12:13:55.510780-04:00
+[16:13:55] Successful get url: https://www.bing.com/th?id=OHR.CorbettTigers_FR-CA5951173663_UHD.jpg
+[16:13:55] Picture infomations saved to  global/fr-CA/README.md
+[16:13:55] Picture infomations saved to global/fr-CA/history/2024/07/30_fr-CA.md
+Program exit at 16:13:55
