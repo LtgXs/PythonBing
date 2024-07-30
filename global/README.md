@@ -6,9 +6,9 @@
 ||*Copyright: San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)*
 ||
 |||
-|2024-07-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GimignanoTuscany_JA-JP7399834117_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GimignanoTuscany_JA-JP7399834117_UHD.jpg)|
-||*Copyright: サン・ジミニャーノ, イタリア トスカーナ州 (© MNStudio/Shutterstock)*
+|2024-07-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HoodoosBryce_JA-JP7560776836_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_JA-JP7560776836_UHD.jpg)|
+||*Copyright: ブライスキャニオン国立公園, 米国 ユタ州 (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
 |2024-07-30|**Region: en-IN**||
