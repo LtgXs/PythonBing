@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-07-31|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_UHD.jpg)|
-||*Copyright: San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)*
+|2024-08-01|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg)|
+||*Copyright: Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
 |2024-07-31|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ブライスキャニオン国立公園, 米国 ユタ州 (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-07-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-IN4247147407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-IN4247147407_UHD.jpg)|
-||*Copyright: San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)*
+|2024-07-31|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-IN0026851942_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-IN0026851942_UHD.jpg)|
+||*Copyright: Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-07-31|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GimignanoTuscany_PT-BR7820946889_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GimignanoTuscany_PT-BR7820946889_UHD.jpg)|
-||*Copyright: San Gimignano, Siena, Toscana, Itália (© MNStudio/Shutterstock)*
+|2024-08-01|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HoodoosBryce_PT-BR8116004606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_PT-BR8116004606_UHD.jpg)|
+||*Copyright: Hoodoos, Sunset Point, Parque Nacional de Bryce Canyon, Utah, EUA (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-07-30|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ImpalaOxpecker_FR-FR0733173703_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ImpalaOxpecker_FR-FR0733173703_UHD.jpg)|
-||*Copyright: Impala et pic-bœuf à bec rouge, Afrique du Sud (© Matrishva Vyas/Getty Images)*
+|2024-07-31|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HoodoosBryce_FR-FR1068853543_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_FR-FR1068853543_UHD.jpg)|
+||*Copyright: Cheminées de fée, Sunset Point, Parc national de Bryce Canyon, Utah, États-Unis (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-07-30|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GrayWolfPups_DE-DE4132223507_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrayWolfPups_DE-DE4132223507_UHD.jpg)|
-||*Copyright: Spielende Wolfswelpen in Deutschland (© Westend61/Getty Images)*
+|2024-07-31|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HoodoosBryce_DE-DE5899937374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_DE-DE5899937374_UHD.jpg)|
+||*Copyright: Hoodoos, Sunset Point, Bryce Canyon Nationalpark, Utah, USA (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-07-31|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-CA4771125077_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-CA4771125077_UHD.jpg)|
-||*Copyright: San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)*
+|2024-08-01|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-CA5127000421_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-CA5127000421_UHD.jpg)|
+||*Copyright: Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-07-30|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-GB9009594859_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-GB9009594859_UHD.jpg)|
-||*Copyright: Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)*
+|2024-07-31|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-GB8943105802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-GB8943105802_UHD.jpg)|
+||*Copyright: Hoodoos, Sunset Point, Bryce Canyon National Park, Utah, USA (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-07-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GimignanoTuscany_IT-IT2653150377_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GimignanoTuscany_IT-IT2653150377_UHD.jpg)|
-||*Copyright: San Gimignano, Siena, Toscana, Italia (© MNStudio/Shutterstock)*
+|2024-07-31|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.RhinelandVineyards_IT-IT2787669199_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinelandVineyards_IT-IT2787669199_UHD.jpg)|
+||*Copyright: Vigneti nella Valle della Mosella, Renania-Palatinato, Germania (© Jorg Greuel/Getty Images)*
 ||
 |||
-|2024-07-30|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GimignanoTuscany_ES-ES3492198518_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GimignanoTuscany_ES-ES3492198518_UHD.jpg)|
-||*Copyright: San Gimignano, Siena, Toscana, Italia (© MNStudio/Shutterstock)*
+|2024-07-31|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HoodoosBryce_ES-ES3645985618_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_ES-ES3645985618_UHD.jpg)|
+||*Copyright: Hoodoos Sunset Point, Parque Nacional del Cañón Bryce, Utah, EE.UU. (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-07-31|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ImpalaOxpecker_FR-CA6322540400_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ImpalaOxpecker_FR-CA6322540400_UHD.jpg)|
-||*Copyright: Impala et pic-bœuf à bec rouge, Afrique du Sud (© Matrishva Vyas/Getty Images)*
+|2024-08-01|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HoodoosBryce_FR-CA6799802149_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_FR-CA6799802149_UHD.jpg)|
+||*Copyright: Cheminées de fée, Sunset Point, Parc national de Bryce Canyon, Utah, États-Unis  (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
 

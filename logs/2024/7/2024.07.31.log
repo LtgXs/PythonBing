@@ -1,0 +1,60 @@
+
+Program started at 09:26:40
+Operating System Name: Linux
+Operating System Version: #25~22.04.1-Ubuntu SMP Mon Jun 17 18:38:57 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1116-644
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[09:26:40] Start geting CN Bing Wallpaper
+[09:26:40] Successful get url: https://www.bing.com/th?id=OHR.HoodoosBryce_ZH-CN8398575172_UHD.jpg
+[09:26:40] Image saved to img/background.jpg
+[09:26:40] Info saved to README.md
+[09:26:40] Image saved to history/2024/07/31.md
+[09:26:40] Start geting global Bing Wallpaper, region=en-US, local time is 2024-07-31 05:26:40.856974-04:00
+[09:26:40] Successful get url: https://www.bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg
+[09:26:40] Picture infomations saved to  global/en-US/README.md
+[09:26:40] Picture infomations saved to global/en-US/history/2024/08/01_en-US.md
+[09:26:40] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-07-31 18:26:41.086310+09:00
+[09:26:41] Successful get url: https://www.bing.com/th?id=OHR.HoodoosBryce_JA-JP7560776836_UHD.jpg
+[09:26:41] Picture infomations saved to  global/ja-JP/README.md
+[09:26:41] Picture infomations saved to global/ja-JP/history/2024/07/31_ja-JP.md
+[09:26:41] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-07-31 14:56:41.348702+05:30
+[09:26:41] Successful get url: https://www.bing.com/th?id=OHR.HoodoosBryce_EN-IN0026851942_UHD.jpg
+[09:26:41] Picture infomations saved to  global/en-IN/README.md
+[09:26:41] Picture infomations saved to global/en-IN/history/2024/07/31_en-IN.md
+[09:26:41] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-07-31 06:26:41.528095-03:00
+[09:26:41] Successful get url: https://www.bing.com/th?id=OHR.HoodoosBryce_PT-BR8116004606_UHD.jpg
+[09:26:41] Picture infomations saved to  global/pt-BR/README.md
+[09:26:41] Picture infomations saved to global/pt-BR/history/2024/08/01_pt-BR.md
+[09:26:41] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-07-31 11:26:41.749475+02:00
+[09:26:41] Successful get url: https://www.bing.com/th?id=OHR.HoodoosBryce_FR-FR1068853543_UHD.jpg
+[09:26:41] Picture infomations saved to  global/fr-FR/README.md
+[09:26:41] Picture infomations saved to global/fr-FR/history/2024/07/31_fr-FR.md
+[09:26:41] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-07-31 11:26:41.862395+02:00
+[09:26:41] Successful get url: https://www.bing.com/th?id=OHR.HoodoosBryce_DE-DE5899937374_UHD.jpg
+[09:26:41] Picture infomations saved to  global/de-DE/README.md
+[09:26:41] Picture infomations saved to global/de-DE/history/2024/07/31_de-DE.md
+[09:26:41] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-07-31 05:26:42.028505-04:00
+[09:26:42] Successful get url: https://www.bing.com/th?id=OHR.HoodoosBryce_EN-CA5127000421_UHD.jpg
+[09:26:42] Picture infomations saved to  global/en-CA/README.md
+[09:26:42] Picture infomations saved to global/en-CA/history/2024/08/01_en-CA.md
+[09:26:42] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-07-31 10:26:42.125494+01:00
+[09:26:42] Successful get url: https://www.bing.com/th?id=OHR.HoodoosBryce_EN-GB8943105802_UHD.jpg
+[09:26:42] Picture infomations saved to  global/en-GB/README.md
+[09:26:42] Picture infomations saved to global/en-GB/history/2024/07/31_en-GB.md
+[09:26:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-07-31 11:26:42.279478+02:00
+[09:26:42] Successful get url: https://www.bing.com/th?id=OHR.RhinelandVineyards_IT-IT2787669199_UHD.jpg
+[09:26:42] Picture infomations saved to  global/it-IT/README.md
+[09:26:42] Picture infomations saved to global/it-IT/history/2024/07/31_it-IT.md
+[09:26:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-07-31 11:26:42.377407+02:00
+[09:26:42] Successful get url: https://www.bing.com/th?id=OHR.HoodoosBryce_ES-ES3645985618_UHD.jpg
+[09:26:42] Picture infomations saved to  global/es-ES/README.md
+[09:26:42] Picture infomations saved to global/es-ES/history/2024/07/31_es-ES.md
+[09:26:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-07-31 05:26:42.491079-04:00
+[09:26:42] Successful get url: https://www.bing.com/th?id=OHR.HoodoosBryce_FR-CA6799802149_UHD.jpg
+[09:26:42] Picture infomations saved to  global/fr-CA/README.md
+[09:26:42] Picture infomations saved to global/fr-CA/history/2024/08/01_fr-CA.md
+Program exit at 09:26:42
