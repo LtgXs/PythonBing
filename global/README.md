@@ -6,9 +6,9 @@
 ||*Copyright: Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-07-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HoodoosBryce_JA-JP7560776836_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_JA-JP7560776836_UHD.jpg)|
-||*Copyright: ブライスキャニオン国立公園, 米国 ユタ州 (© Tim Fitzharris/Minden Pictures)*
+|2024-08-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Nebuta2024_JA-JP7778073736_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Nebuta2024_JA-JP7778073736_UHD.jpg)|
+||*Copyright: 豪華絢爛なねぷた, 青森県 弘前市 (© David Parker/Alamy)*
 ||
 |||
 |2024-07-31|**Region: en-IN**||
