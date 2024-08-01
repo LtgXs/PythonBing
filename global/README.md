@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-08-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg)|
-||*Copyright: Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)*
+|2024-08-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg)|
+||*Copyright: Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)*
 ||
 |||
 |2024-08-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 豪華絢爛なねぷた, 青森県 弘前市 (© David Parker/Alamy)*
 ||
 |||
-|2024-07-31|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-IN0026851942_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-IN0026851942_UHD.jpg)|
-||*Copyright: Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)*
+|2024-08-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KaptaiLake_EN-IN2191483743_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaptaiLake_EN-IN2191483743_UHD.jpg)|
+||*Copyright: Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)*
 ||
 |||
-|2024-08-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.HoodoosBryce_PT-BR8116004606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_PT-BR8116004606_UHD.jpg)|
-||*Copyright: Hoodoos, Sunset Point, Parque Nacional de Bryce Canyon, Utah, EUA (© Tim Fitzharris/Minden Pictures)*
+|2024-08-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.KaptaiLake_PT-BR8351405372_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaptaiLake_PT-BR8351405372_UHD.jpg)|
+||*Copyright: Mercado flutuante, Lago Kaptai, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)*
 ||
 |||
-|2024-07-31|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HoodoosBryce_FR-FR1068853543_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_FR-FR1068853543_UHD.jpg)|
-||*Copyright: Cheminées de fée, Sunset Point, Parc national de Bryce Canyon, Utah, États-Unis (© Tim Fitzharris/Minden Pictures)*
+|2024-08-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.KaptaiLake_FR-FR1329932845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaptaiLake_FR-FR1329932845_UHD.jpg)|
+||*Copyright: Marché flottant, lac Kaptai, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)*
 ||
 |||
-|2024-07-31|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.HoodoosBryce_DE-DE5899937374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_DE-DE5899937374_UHD.jpg)|
-||*Copyright: Hoodoos, Sunset Point, Bryce Canyon Nationalpark, Utah, USA (© Tim Fitzharris/Minden Pictures)*
+|2024-08-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.KaptaiLake_DE-DE6482554434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaptaiLake_DE-DE6482554434_UHD.jpg)|
+||*Copyright: Schwimmender Markt, Karnaphuli-Stausee, Rangamati, Bangladesch (© Azim Khan Ronnie/Amazing Aerial Agency)*
 ||
 |||
-|2024-08-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-CA5127000421_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-CA5127000421_UHD.jpg)|
-||*Copyright: Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)*
+|2024-08-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.KaptaiLake_EN-CA6019136030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaptaiLake_EN-CA6019136030_UHD.jpg)|
+||*Copyright: Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)*
 ||
 |||
-|2024-07-31|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-GB8943105802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-GB8943105802_UHD.jpg)|
-||*Copyright: Hoodoos, Sunset Point, Bryce Canyon National Park, Utah, USA (© Tim Fitzharris/Minden Pictures)*
+|2024-08-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.KaptaiLake_EN-GB8876933727_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaptaiLake_EN-GB8876933727_UHD.jpg)|
+||*Copyright: Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)*
 ||
 |||
-|2024-07-31|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.RhinelandVineyards_IT-IT2787669199_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinelandVineyards_IT-IT2787669199_UHD.jpg)|
-||*Copyright: Vigneti nella Valle della Mosella, Renania-Palatinato, Germania (© Jorg Greuel/Getty Images)*
+|2024-08-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.KaptaiLake_IT-IT3135317683_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaptaiLake_IT-IT3135317683_UHD.jpg)|
+||*Copyright: Mercato galleggiante, lago Kaptai, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)*
 ||
 |||
-|2024-07-31|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.HoodoosBryce_ES-ES3645985618_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_ES-ES3645985618_UHD.jpg)|
-||*Copyright: Hoodoos Sunset Point, Parque Nacional del Cañón Bryce, Utah, EE.UU. (© Tim Fitzharris/Minden Pictures)*
+|2024-08-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.KaptaiLake_ES-ES3810492985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaptaiLake_ES-ES3810492985_UHD.jpg)|
+||*Copyright: Mercado flotante, Lago Kaptai, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)*
 ||
 |||
-|2024-08-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HoodoosBryce_FR-CA6799802149_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoodoosBryce_FR-CA6799802149_UHD.jpg)|
-||*Copyright: Cheminées de fée, Sunset Point, Parc national de Bryce Canyon, Utah, États-Unis  (© Tim Fitzharris/Minden Pictures)*
+|2024-08-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.KaptaiLake_FR-CA6950833575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaptaiLake_FR-CA6950833575_UHD.jpg)|
+||*Copyright: Marché flottant, lac Kaptai, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)*
 ||
 |||
 
