@@ -6,9 +6,9 @@
 ||*Copyright: Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)*
 ||
 |||
-|2024-08-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KaptaiLake_JA-JP8287101456_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaptaiLake_JA-JP8287101456_UHD.jpg)|
-||*Copyright: カプタイ湖, バングラデシュ (© Azim Khan Ronnie/Amazing Aerial Agency)*
+|2024-08-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WulongKarst_JA-JP8479493036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WulongKarst_JA-JP8479493036_UHD.jpg)|
+||*Copyright: 武隆カルスト国立地質公園, 中国 重慶市 (© Pav-Pro Photography Ltd/Shutterstock)*
 ||
 |||
 |2024-08-03|**Region: en-IN**||
