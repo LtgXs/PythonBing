@@ -6,9 +6,9 @@
 ||*Copyright: Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)*
 ||
 |||
-|2024-08-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WulongKarst_JA-JP8479493036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WulongKarst_JA-JP8479493036_UHD.jpg)|
-||*Copyright: 武隆カルスト国立地質公園, 中国 重慶市 (© Pav-Pro Photography Ltd/Shutterstock)*
+|2024-08-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HertfordshireLavender_JA-JP8708116437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HertfordshireLavender_JA-JP8708116437_UHD.jpg)|
+||*Copyright: ハートフォードシャーのラベンダー畑, イギリス (© George W Johnson/Getty Images)*
 ||
 |||
 |2024-08-04|**Region: en-IN**||
