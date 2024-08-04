@@ -1,0 +1,60 @@
+
+Program started at 09:25:37
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az881-738
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[09:25:37] Start geting CN Bing Wallpaper
+[09:25:37] Successful get url: https://www.bing.com/th?id=OHR.ImpalaOxpecker_ZH-CN9652434873_UHD.jpg
+[09:25:37] Image saved to img/background.jpg
+[09:25:37] Info saved to README.md
+[09:25:37] Image saved to history/2024/08/04.md
+[09:25:37] Start geting global Bing Wallpaper, region=en-US, local time is 2024-08-04 05:25:37.682154-04:00
+[09:25:37] Successful get url: https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg
+[09:25:37] Picture infomations saved to  global/en-US/README.md
+[09:25:37] Picture infomations saved to global/en-US/history/2024/08/05_en-US.md
+[09:25:37] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-08-04 18:25:37.778684+09:00
+[09:25:37] Successful get url: https://www.bing.com/th?id=OHR.WulongKarst_JA-JP8479493036_UHD.jpg
+[09:25:37] Picture infomations saved to  global/ja-JP/README.md
+[09:25:37] Picture infomations saved to global/ja-JP/history/2024/08/04_ja-JP.md
+[09:25:37] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-08-04 14:55:37.904551+05:30
+[09:25:37] Successful get url: https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-IN3497314730_UHD.jpg
+[09:25:37] Picture infomations saved to  global/en-IN/README.md
+[09:25:37] Picture infomations saved to global/en-IN/history/2024/08/04_en-IN.md
+[09:25:37] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-08-04 06:25:37.992040-03:00
+[09:25:38] Successful get url: https://www.bing.com/th?id=OHR.DiaInternacionaldosAvos_PT-BR2289016069_UHD.jpg
+[09:25:38] Picture infomations saved to  global/pt-BR/README.md
+[09:25:38] Picture infomations saved to global/pt-BR/history/2024/08/05_pt-BR.md
+[09:25:38] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-08-04 11:25:38.133324+02:00
+[09:25:38] Successful get url: https://www.bing.com/th?id=OHR.GimignanoTuscany_FR-FR0891435828_UHD.jpg
+[09:25:38] Picture infomations saved to  global/fr-FR/README.md
+[09:25:38] Picture infomations saved to global/fr-FR/history/2024/08/04_fr-FR.md
+[09:25:38] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-08-04 11:25:38.273693+02:00
+[09:25:38] Successful get url: https://www.bing.com/th?id=OHR.SellinSeebruecke_DE-DE4280331105_UHD.jpg
+[09:25:38] Picture infomations saved to  global/de-DE/README.md
+[09:25:38] Picture infomations saved to global/de-DE/history/2024/08/04_de-DE.md
+[09:25:38] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-08-04 05:25:38.375071-04:00
+[09:25:38] Successful get url: https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-CA7040522932_UHD.jpg
+[09:25:38] Picture infomations saved to  global/en-CA/README.md
+[09:25:38] Picture infomations saved to global/en-CA/history/2024/08/05_en-CA.md
+[09:25:38] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-08-04 10:25:38.463145+01:00
+[09:25:38] Successful get url: https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-GB0016765846_UHD.jpg
+[09:25:38] Picture infomations saved to  global/en-GB/README.md
+[09:25:38] Picture infomations saved to global/en-GB/history/2024/08/04_en-GB.md
+[09:25:38] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-08-04 11:25:38.594167+02:00
+[09:25:38] Successful get url: https://www.bing.com/th?id=OHR.ImpalaOxpecker_IT-IT7910851982_UHD.jpg
+[09:25:38] Picture infomations saved to  global/it-IT/README.md
+[09:25:38] Picture infomations saved to global/it-IT/history/2024/08/04_it-IT.md
+[09:25:38] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-08-04 11:25:38.692551+02:00
+[09:25:38] Successful get url: https://www.bing.com/th?id=OHR.RomeriaVikinga_ES-ES4247544127_UHD.jpg
+[09:25:38] Picture infomations saved to  global/es-ES/README.md
+[09:25:38] Picture infomations saved to global/es-ES/history/2024/08/04_es-ES.md
+[09:25:38] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-08-04 05:25:38.816264-04:00
+[09:25:38] Successful get url: https://www.bing.com/th?id=OHR.GimignanoTuscany_FR-CA7468650523_UHD.jpg
+[09:25:38] Picture infomations saved to  global/fr-CA/README.md
+[09:25:38] Picture infomations saved to global/fr-CA/history/2024/08/05_fr-CA.md
+Program exit at 09:25:38
