@@ -6,9 +6,9 @@
 ||*Copyright: Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)*
 ||
 |||
-|2024-08-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HertfordshireLavender_JA-JP8708116437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HertfordshireLavender_JA-JP8708116437_UHD.jpg)|
-||*Copyright: ハートフォードシャーのラベンダー畑, イギリス (© George W Johnson/Getty Images)*
+|2024-08-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SendaiTanabata2024_JA-JP8906260169_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SendaiTanabata2024_JA-JP8906260169_UHD.jpg)|
+||*Copyright: 巨大な吹き流し, 宮城県 仙台市 (© rujin/Shutterstock)*
 ||
 |||
 |2024-08-05|**Region: en-IN**||
