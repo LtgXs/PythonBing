@@ -1,0 +1,60 @@
+
+Program started at 09:25:52
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1493-71
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[09:25:52] Start geting CN Bing Wallpaper
+[09:25:52] Successful get url: https://www.bing.com/th?id=OHR.MolokiniHawaii_ZH-CN0375050872_UHD.jpg
+[09:25:52] Image saved to img/background.jpg
+[09:25:52] Info saved to README.md
+[09:25:52] Image saved to history/2024/08/06.md
+[09:25:52] Start geting global Bing Wallpaper, region=en-US, local time is 2024-08-06 05:25:52.832498-04:00
+[09:25:52] Successful get url: https://www.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg
+[09:25:56] Picture infomations saved to  global/en-US/README.md
+[09:25:56] Picture infomations saved to global/en-US/history/2024/08/07_en-US.md
+[09:25:56] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-08-06 18:25:56.958226+09:00
+[09:25:57] Successful get url: https://www.bing.com/th?id=OHR.SendaiTanabata2024_JA-JP8906260169_UHD.jpg
+[09:25:57] Picture infomations saved to  global/ja-JP/README.md
+[09:25:57] Picture infomations saved to global/ja-JP/history/2024/08/06_ja-JP.md
+[09:25:57] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-08-06 14:55:57.164356+05:30
+[09:25:57] Successful get url: https://www.bing.com/th?id=OHR.MolokiniHawaii_EN-IN4587072198_UHD.jpg
+[09:25:57] Picture infomations saved to  global/en-IN/README.md
+[09:25:57] Picture infomations saved to global/en-IN/history/2024/08/06_en-IN.md
+[09:25:57] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-08-06 06:25:57.490054-03:00
+[09:25:57] Successful get url: https://www.bing.com/th?id=OHR.MolokiniHawaii_PT-BR9827408111_UHD.jpg
+[09:25:57] Picture infomations saved to  global/pt-BR/README.md
+[09:25:57] Picture infomations saved to global/pt-BR/history/2024/08/07_pt-BR.md
+[09:25:57] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-08-06 11:25:57.632119+02:00
+[09:25:57] Successful get url: https://www.bing.com/th?id=OHR.MolokiniHawaii_FR-FR4322144539_UHD.jpg
+[09:25:58] Picture infomations saved to  global/fr-FR/README.md
+[09:25:58] Picture infomations saved to global/fr-FR/history/2024/08/06_fr-FR.md
+[09:25:58] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-08-06 11:25:58.140461+02:00
+[09:25:58] Successful get url: https://www.bing.com/th?id=OHR.MolokiniHawaii_DE-DE0192501099_UHD.jpg
+[09:25:58] Picture infomations saved to  global/de-DE/README.md
+[09:25:58] Picture infomations saved to global/de-DE/history/2024/08/06_de-DE.md
+[09:25:58] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-08-06 05:25:58.482024-04:00
+[09:25:58] Successful get url: https://www.bing.com/th?id=OHR.MolokiniHawaii_EN-CA7505567262_UHD.jpg
+[09:26:02] Picture infomations saved to  global/en-CA/README.md
+[09:26:02] Picture infomations saved to global/en-CA/history/2024/08/07_en-CA.md
+[09:26:02] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-08-06 10:26:02.941247+01:00
+[09:26:03] Successful get url: https://www.bing.com/th?id=OHR.MolokiniHawaii_EN-GB7304592210_UHD.jpg
+[09:26:03] Picture infomations saved to  global/en-GB/README.md
+[09:26:03] Picture infomations saved to global/en-GB/history/2024/08/06_en-GB.md
+[09:26:03] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-08-06 11:26:03.312951+02:00
+[09:26:03] Successful get url: https://www.bing.com/th?id=OHR.MolokiniHawaii_IT-IT9190436704_UHD.jpg
+[09:26:03] Picture infomations saved to  global/it-IT/README.md
+[09:26:03] Picture infomations saved to global/it-IT/history/2024/08/06_it-IT.md
+[09:26:03] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-08-06 11:26:03.635051+02:00
+[09:26:03] Successful get url: https://www.bing.com/th?id=OHR.MolokiniHawaii_ES-ES4650038553_UHD.jpg
+[09:26:07] Picture infomations saved to  global/es-ES/README.md
+[09:26:07] Picture infomations saved to global/es-ES/history/2024/08/06_es-ES.md
+[09:26:07] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-08-06 05:26:07.300949-04:00
+[09:26:07] Successful get url: https://www.bing.com/th?id=OHR.MolokiniHawaii_FR-CA8069183271_UHD.jpg
+[09:26:07] Picture infomations saved to  global/fr-CA/README.md
+[09:26:07] Picture infomations saved to global/fr-CA/history/2024/08/07_fr-CA.md
+Program exit at 09:26:07
