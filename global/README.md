@@ -6,9 +6,9 @@
 ||*Copyright: Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)*
 ||
 |||
-|2024-08-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SendaiTanabata2024_JA-JP8906260169_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SendaiTanabata2024_JA-JP8906260169_UHD.jpg)|
-||*Copyright: 巨大な吹き流し, 宮城県 仙台市 (© rujin/Shutterstock)*
+|2024-08-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MichiganLighthouse_JA-JP9089561371_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MichiganLighthouse_JA-JP9089561371_UHD.jpg)|
+||*Copyright: ミシガン湖とセントジョセフ灯台, 米国 ミシガン州 (© Kenneth Keifer/Getty Images)*
 ||
 |||
 |2024-08-06|**Region: en-IN**||
