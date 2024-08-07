@@ -1,0 +1,60 @@
+
+Program started at 09:26:22
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1110-357
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[09:26:22] Start geting CN Bing Wallpaper
+[09:26:22] Successful get url: https://www.bing.com/th?id=OHR.MichiganLighthouse_ZH-CN0581377136_UHD.jpg
+[09:26:22] Image saved to img/background.jpg
+[09:26:22] Info saved to README.md
+[09:26:22] Image saved to history/2024/08/07.md
+[09:26:22] Start geting global Bing Wallpaper, region=en-US, local time is 2024-08-07 05:26:22.655091-04:00
+[09:26:22] Successful get url: https://www.bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg
+[09:26:22] Picture infomations saved to  global/en-US/README.md
+[09:26:22] Picture infomations saved to global/en-US/history/2024/08/08_en-US.md
+[09:26:22] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-08-07 18:26:22.754553+09:00
+[09:26:22] Successful get url: https://www.bing.com/th?id=OHR.MichiganLighthouse_JA-JP9089561371_UHD.jpg
+[09:26:22] Picture infomations saved to  global/ja-JP/README.md
+[09:26:22] Picture infomations saved to global/ja-JP/history/2024/08/07_ja-JP.md
+[09:26:22] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-08-07 14:56:22.853552+05:30
+[09:26:22] Successful get url: https://www.bing.com/th?id=OHR.MichiganLighthouse_EN-IN5667907086_UHD.jpg
+[09:26:22] Picture infomations saved to  global/en-IN/README.md
+[09:26:22] Picture infomations saved to global/en-IN/history/2024/08/07_en-IN.md
+[09:26:22] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-08-07 06:26:22.971390-03:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.MichiganLighthouse_PT-BR0055198491_UHD.jpg
+[09:26:23] Picture infomations saved to  global/pt-BR/README.md
+[09:26:23] Picture infomations saved to global/pt-BR/history/2024/08/08_pt-BR.md
+[09:26:23] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-08-07 11:26:23.065519+02:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.MichiganLighthouse_FR-FR4479492551_UHD.jpg
+[09:26:23] Picture infomations saved to  global/fr-FR/README.md
+[09:26:23] Picture infomations saved to global/fr-FR/history/2024/08/07_fr-FR.md
+[09:26:23] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-08-07 11:26:23.186434+02:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.MichiganLighthouse_DE-DE1121606429_UHD.jpg
+[09:26:23] Picture infomations saved to  global/de-DE/README.md
+[09:26:23] Picture infomations saved to global/de-DE/history/2024/08/07_de-DE.md
+[09:26:23] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-08-07 05:26:23.293112-04:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.MichiganLighthouse_EN-CA1739744082_UHD.jpg
+[09:26:23] Picture infomations saved to  global/en-CA/README.md
+[09:26:23] Picture infomations saved to global/en-CA/history/2024/08/08_en-CA.md
+[09:26:23] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-08-07 10:26:23.427392+01:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.RhinelandVineyards_EN-GB0382871701_UHD.jpg
+[09:26:23] Picture infomations saved to  global/en-GB/README.md
+[09:26:23] Picture infomations saved to global/en-GB/history/2024/08/07_en-GB.md
+[09:26:23] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-08-07 11:26:23.518327+02:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.MichiganLighthouse_IT-IT9647286903_UHD.jpg
+[09:26:23] Picture infomations saved to  global/it-IT/README.md
+[09:26:23] Picture infomations saved to global/it-IT/history/2024/08/07_it-IT.md
+[09:26:23] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-08-07 11:26:23.617440+02:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.MichiganLighthouse_ES-ES4793488515_UHD.jpg
+[09:26:23] Picture infomations saved to  global/es-ES/README.md
+[09:26:23] Picture infomations saved to global/es-ES/history/2024/08/07_es-ES.md
+[09:26:23] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-08-07 05:26:23.720316-04:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.MichiganLighthouse_FR-CA8319684656_UHD.jpg
+[09:26:23] Picture infomations saved to  global/fr-CA/README.md
+[09:26:23] Picture infomations saved to global/fr-CA/history/2024/08/08_fr-CA.md
+Program exit at 09:26:23
