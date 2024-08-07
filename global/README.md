@@ -6,9 +6,9 @@
 ||*Copyright: St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)*
 ||
 |||
-|2024-08-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MichiganLighthouse_JA-JP9089561371_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MichiganLighthouse_JA-JP9089561371_UHD.jpg)|
-||*Copyright: ミシガン湖とセントジョセフ灯台, 米国 ミシガン州 (© Kenneth Keifer/Getty Images)*
+|2024-08-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SpottedOwlet_JA-JP9234740493_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedOwlet_JA-JP9234740493_UHD.jpg)|
+||*Copyright: インドコキンメフクロウ, タイ バンコク (© Tfilm/Getty Images)*
 ||
 |||
 |2024-08-07|**Region: en-IN**||
