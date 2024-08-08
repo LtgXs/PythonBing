@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:25:49] Picture infomations saved to  global/fr-CA/README.md
 [09:25:49] Picture infomations saved to global/fr-CA/history/2024/08/09_fr-CA.md
 Program exit at 09:25:49
+
+Program started at 16:13:05
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1121-580
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[16:13:05] Start geting CN Bing Wallpaper
+[16:13:05] Successful get url: https://www.bing.com/th?id=OHR.IncaRuinPeru_ZH-CN5068602301_UHD.jpg
+[16:13:05] Image saved to img/background.jpg
+[16:13:05] Info saved to README.md
+[16:13:05] Image saved to history/2024/08/09.md
+[16:13:05] Start geting global Bing Wallpaper, region=en-US, local time is 2024-08-08 12:13:05.215639-04:00
+[16:13:05] Successful get url: https://www.bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg
+[16:13:05] Picture infomations saved to  global/en-US/README.md
+[16:13:05] Picture infomations saved to global/en-US/history/2024/08/09_en-US.md
+[16:13:05] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-08-09 01:13:05.390776+09:00
+[16:13:05] Successful get url: https://www.bing.com/th?id=OHR.IncaRuinPeru_JA-JP8602736251_UHD.jpg
+[16:13:05] Picture infomations saved to  global/ja-JP/README.md
+[16:13:05] Picture infomations saved to global/ja-JP/history/2024/08/09_ja-JP.md
+[16:13:05] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-08-08 21:43:05.593460+05:30
+[16:13:05] Successful get url: https://www.bing.com/th?id=OHR.SpottedOwlet_EN-IN6300276493_UHD.jpg
+[16:13:05] Picture infomations saved to  global/en-IN/README.md
+[16:13:05] Picture infomations saved to global/en-IN/history/2024/08/08_en-IN.md
+[16:13:05] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-08-08 13:13:05.728575-03:00
+[16:13:05] Successful get url: https://www.bing.com/th?id=OHR.SpottedOwlet_PT-BR0320206589_UHD.jpg
+[16:13:05] Picture infomations saved to  global/pt-BR/README.md
+[16:13:05] Picture infomations saved to global/pt-BR/history/2024/08/09_pt-BR.md
+[16:13:05] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-08-08 18:13:05.906228+02:00
+[16:13:05] Successful get url: https://www.bing.com/th?id=OHR.SpottedOwlet_FR-FR4852852540_UHD.jpg
+[16:13:06] Picture infomations saved to  global/fr-FR/README.md
+[16:13:06] Picture infomations saved to global/fr-FR/history/2024/08/08_fr-FR.md
+[16:13:06] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-08-08 18:13:06.049796+02:00
+[16:13:06] Successful get url: https://www.bing.com/th?id=OHR.SpottedOwlet_DE-DE2767331141_UHD.jpg
+[16:13:06] Picture infomations saved to  global/de-DE/README.md
+[16:13:06] Picture infomations saved to global/de-DE/history/2024/08/08_de-DE.md
+[16:13:06] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-08-08 12:13:06.178176-04:00
+[16:13:06] Successful get url: https://www.bing.com/th?id=OHR.SpottedOwlet_EN-CA8167068450_UHD.jpg
+[16:13:06] Picture infomations saved to  global/en-CA/README.md
+[16:13:06] Picture infomations saved to global/en-CA/history/2024/08/09_en-CA.md
+[16:13:06] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-08-08 17:13:06.324430+01:00
+[16:13:06] Successful get url: https://www.bing.com/th?id=OHR.SpottedOwlet_EN-GB7230363465_UHD.jpg
+[16:13:06] Picture infomations saved to  global/en-GB/README.md
+[16:13:06] Picture infomations saved to global/en-GB/history/2024/08/08_en-GB.md
+[16:13:06] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-08-08 18:13:06.491993+02:00
+[16:13:06] Successful get url: https://www.bing.com/th?id=OHR.LagoComoItaly_IT-IT3865741032_UHD.jpg
+[16:13:06] Picture infomations saved to  global/it-IT/README.md
+[16:13:06] Picture infomations saved to global/it-IT/history/2024/08/08_it-IT.md
+[16:13:06] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-08-08 18:13:06.619750+02:00
+[16:13:06] Successful get url: https://www.bing.com/th?id=OHR.SpottedOwlet_ES-ES9381508477_UHD.jpg
+[16:13:06] Picture infomations saved to  global/es-ES/README.md
+[16:13:06] Picture infomations saved to global/es-ES/history/2024/08/08_es-ES.md
+[16:13:06] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-08-08 12:13:06.749189-04:00
+[16:13:06] Successful get url: https://www.bing.com/th?id=OHR.SpottedOwlet_FR-CA8471413078_UHD.jpg
+[16:13:06] Picture infomations saved to  global/fr-CA/README.md
+[16:13:06] Picture infomations saved to global/fr-CA/history/2024/08/09_fr-CA.md
+Program exit at 16:13:06
