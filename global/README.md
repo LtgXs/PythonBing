@@ -6,9 +6,9 @@
 ||*Copyright: Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)*
 ||
 |||
-|2024-08-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IncaRuinPeru_JA-JP8602736251_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IncaRuinPeru_JA-JP8602736251_UHD.jpg)|
-||*Copyright: サクサイワマン, ペルー (© SL_Photography/Getty Images)*
+|2024-08-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TofinoVancouver_JA-JP8938759537_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TofinoVancouver_JA-JP8938759537_UHD.jpg)|
+||*Copyright: ケネディ湖州立公園, カナダ ブリティッシュコロンビア州 (© EB Adventure Photography/Shutterstock)*
 ||
 |||
 |2024-08-09|**Region: en-IN**||
