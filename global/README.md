@@ -6,9 +6,9 @@
 ||*Copyright: Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TofinoVancouver_JA-JP8938759537_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TofinoVancouver_JA-JP8938759537_UHD.jpg)|
-||*Copyright: ケネディ湖州立公園, カナダ ブリティッシュコロンビア州 (© EB Adventure Photography/Shutterstock)*
+|2024-08-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MountainDay2024_JA-JP9130465329_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainDay2024_JA-JP9130465329_UHD.jpg)|
+||*Copyright: 草津白根山, 群馬県 吾妻郡 (© Twenty47studio/Getty Images)*
 ||
 |||
 |2024-08-10|**Region: en-IN**||
