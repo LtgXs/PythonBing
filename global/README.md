@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-08-10|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg)|
-||*Copyright: Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)*
+|2024-08-11|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg)|
+||*Copyright: Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)*
 ||
 |||
 |2024-08-10|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ケネディ湖州立公園, カナダ ブリティッシュコロンビア州 (© EB Adventure Photography/Shutterstock)*
 ||
 |||
-|2024-08-09|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.HangCave_EN-IN5640527051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HangCave_EN-IN5640527051_UHD.jpg)|
-||*Copyright: Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)*
+|2024-08-10|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-IN4447271729_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-IN4447271729_UHD.jpg)|
+||*Copyright: Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-10|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.IncaRuinPeru_PT-BR4364071618_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IncaRuinPeru_PT-BR4364071618_UHD.jpg)|
-||*Copyright: Ruína inca de Sacsayhuamán, perto de Cusco, Peru (© SL_Photography/Getty Images)*
+|2024-08-11|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.JoshuaTreeNP_PT-BR8498081592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaTreeNP_PT-BR8498081592_UHD.jpg)|
+||*Copyright: Parque Nacional de Joshua Tree, Califórnia, EUA (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-09|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.IncaRuinPeru_FR-FR7059028916_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IncaRuinPeru_FR-FR7059028916_UHD.jpg)|
-||*Copyright: Ruine inca de Sacsayhuamán près de Cusco, Pérou (© SL_Photography/Getty Images)*
+|2024-08-10|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.JoshuaTreeNP_FR-FR7411748387_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaTreeNP_FR-FR7411748387_UHD.jpg)|
+||*Copyright: Parc national de Joshua Tree, Californie, États-Unis (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-09|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.IncaRuinPeru_DE-DE5129172652_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IncaRuinPeru_DE-DE5129172652_UHD.jpg)|
-||*Copyright: Inka-Ruine Sacsayhuamán bei Cusco, Peru (© SL_Photography/Getty Images)*
+|2024-08-10|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.Elbphilharmonie_DE-DE2773966721_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Elbphilharmonie_DE-DE2773966721_UHD.jpg)|
+||*Copyright: Luftaufnahme der Elbphilharmonie in Hamburg (© Michael Abid/Alamy)*
 ||
 |||
-|2024-08-10|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.IncaRuinPeru_EN-CA5058760637_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IncaRuinPeru_EN-CA5058760637_UHD.jpg)|
-||*Copyright: Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)*
+|2024-08-11|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-CA1889567387_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-CA1889567387_UHD.jpg)|
+||*Copyright: Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BristolBalloonFiesta2024_EN-GB5744730173_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BristolBalloonFiesta2024_EN-GB5744730173_UHD.jpg)|
-||*Copyright: Clifton Suspension Bridge during the Bristol Balloon Fiesta, Bristol (© robertharding/Adobe Stock)*
+|2024-08-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-GB1169305265_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-GB1169305265_UHD.jpg)|
+||*Copyright: Joshua Tree National Park, California, USA (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
-|2024-08-09|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.IncaRuinPeru_IT-IT3781329004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IncaRuinPeru_IT-IT3781329004_UHD.jpg)|
-||*Copyright: Rovina Inca di Sacsayhuamán, Regione di Cusco, Perù (© SL_Photography/Getty Images)*
+|2024-08-10|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SanLorenzoNight_IT-IT4055519723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanLorenzoNight_IT-IT4055519723_UHD.jpg)|
+||*Copyright: Monte Argentario, Toscana, Italia (© Giulio Ercolani/Alamy Stock Photo)*
 ||
 |||
-|2024-08-09|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.IncaRuinPeru_ES-ES0427536842_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IncaRuinPeru_ES-ES0427536842_UHD.jpg)|
-||*Copyright: Ruinas incas de Sacsayhuamán cerca de Cusco, Perú (© SL_Photography/Getty Images)*
+|2024-08-10|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.JoshuaTreeNP_ES-ES0806309217_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaTreeNP_ES-ES0806309217_UHD.jpg)|
+||*Copyright: Parque Nacional Árboles de Josué, California, EE. UU. (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-10|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.IncaRuinPeru_FR-CA4062483772_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IncaRuinPeru_FR-CA4062483772_UHD.jpg)|
-||*Copyright: Ruine inca de Sacsayhuamán près de Cusco, Pérou (© SL_Photography/Getty Images)*
+|2024-08-11|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.JoshuaTreeNP_FR-CA4221882984_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaTreeNP_FR-CA4221882984_UHD.jpg)|
+||*Copyright: Parc national de Joshua Tree, Californie, États-Unis (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)*
 ||
 |||
 
