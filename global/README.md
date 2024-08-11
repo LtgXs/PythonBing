@@ -6,9 +6,9 @@
 ||*Copyright: Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)*
 ||
 |||
-|2024-08-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MountainDay2024_JA-JP9130465329_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainDay2024_JA-JP9130465329_UHD.jpg)|
-||*Copyright: 草津白根山, 群馬県 吾妻郡 (© Twenty47studio/Getty Images)*
+|2024-08-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ElephantsAmboseli_JA-JP9387144040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantsAmboseli_JA-JP9387144040_UHD.jpg)|
+||*Copyright: アンボセリ国立公園, ケニア (© Ruzdi Ekenheim/Getty Images)*
 ||
 |||
 |2024-08-11|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2024-08-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TofinoVancouver_IT-IT4209274959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TofinoVancouver_IT-IT4209274959_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.TofinoVancouver_IT-IT8944442230_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TofinoVancouver_IT-IT8944442230_UHD.jpg)|
 ||*Copyright: Sentiero di legno per il lago Kennedy, isola di Vancouver, British Columbia, Canada (© EB Adventure Photography/Shutterstock)*
 ||
 |||
