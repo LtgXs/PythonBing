@@ -1,0 +1,60 @@
+
+Program started at 16:13:19
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1269-668
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[16:13:19] Start geting CN Bing Wallpaper
+[16:13:19] Successful get url: https://www.bing.com/th?id=OHR.DugiOtokCroatia_ZH-CN7791404392_UHD.jpg
+[16:13:20] Image saved to img/background.jpg
+[16:13:20] Info saved to README.md
+[16:13:20] Image saved to history/2024/08/13.md
+[16:13:20] Start geting global Bing Wallpaper, region=en-US, local time is 2024-08-12 12:13:20.203246-04:00
+[16:13:20] Successful get url: https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_UHD.jpg
+[16:13:20] Picture infomations saved to  global/en-US/README.md
+[16:13:20] Picture infomations saved to global/en-US/history/2024/08/13_en-US.md
+[16:13:20] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-08-13 01:13:20.613668+09:00
+[16:13:20] Successful get url: https://www.bing.com/th?id=OHR.DugiOtokCroatia_JA-JP9531782423_UHD.jpg
+[16:13:21] Picture infomations saved to  global/ja-JP/README.md
+[16:13:21] Picture infomations saved to global/ja-JP/history/2024/08/13_ja-JP.md
+[16:13:21] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-08-12 21:43:21.059812+05:30
+[16:13:21] Successful get url: https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-IN6966931510_UHD.jpg
+[16:13:21] Picture infomations saved to  global/en-IN/README.md
+[16:13:21] Picture infomations saved to global/en-IN/history/2024/08/12_en-IN.md
+[16:13:21] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-08-12 13:13:21.695624-03:00
+[16:13:22] Successful get url: https://www.bing.com/th?id=OHR.ElephantsAmboseli_PT-BR3607711073_UHD.jpg
+[16:13:22] Picture infomations saved to  global/pt-BR/README.md
+[16:13:22] Picture infomations saved to global/pt-BR/history/2024/08/13_pt-BR.md
+[16:13:22] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-08-12 18:13:22.524949+02:00
+[16:13:22] Successful get url: https://www.bing.com/th?id=OHR.ElephantsAmboseli_FR-FR7826915061_UHD.jpg
+[16:13:22] Picture infomations saved to  global/fr-FR/README.md
+[16:13:22] Picture infomations saved to global/fr-FR/history/2024/08/12_fr-FR.md
+[16:13:22] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-08-12 18:13:22.953546+02:00
+[16:13:23] Successful get url: https://www.bing.com/th?id=OHR.ElephantsAmboseli_DE-DE5375674249_UHD.jpg
+[16:13:23] Picture infomations saved to  global/de-DE/README.md
+[16:13:23] Picture infomations saved to global/de-DE/history/2024/08/12_de-DE.md
+[16:13:23] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-08-12 12:13:23.416369-04:00
+[16:13:23] Successful get url: https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-CA6017662869_UHD.jpg
+[16:13:23] Picture infomations saved to  global/en-CA/README.md
+[16:13:23] Picture infomations saved to global/en-CA/history/2024/08/13_en-CA.md
+[16:13:23] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-08-12 17:13:23.847801+01:00
+[16:13:23] Successful get url: https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-GB4173490150_UHD.jpg
+[16:13:24] Picture infomations saved to  global/en-GB/README.md
+[16:13:24] Picture infomations saved to global/en-GB/history/2024/08/12_en-GB.md
+[16:13:24] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-08-12 18:13:24.260848+02:00
+[16:13:24] Successful get url: https://www.bing.com/th?id=OHR.ElephantsAmboseli_IT-IT6102111870_UHD.jpg
+[16:13:24] Picture infomations saved to  global/it-IT/README.md
+[16:13:24] Picture infomations saved to global/it-IT/history/2024/08/12_it-IT.md
+[16:13:24] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-08-12 18:13:24.819347+02:00
+[16:13:25] Successful get url: https://www.bing.com/th?id=OHR.ElephantsAmboseli_ES-ES1712423219_UHD.jpg
+[16:13:25] Picture infomations saved to  global/es-ES/README.md
+[16:13:25] Picture infomations saved to global/es-ES/history/2024/08/12_es-ES.md
+[16:13:25] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-08-12 12:13:25.265162-04:00
+[16:13:25] Successful get url: https://www.bing.com/th?id=OHR.ElephantsAmboseli_FR-CA6073879669_UHD.jpg
+[16:13:25] Picture infomations saved to  global/fr-CA/README.md
+[16:13:25] Picture infomations saved to global/fr-CA/history/2024/08/13_fr-CA.md
+Program exit at 16:13:25
