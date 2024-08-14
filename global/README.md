@@ -6,9 +6,9 @@
 ||*Copyright: Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
-|2024-08-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.JoshuaTreeNP_JA-JP9735541892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaTreeNP_JA-JP9735541892_UHD.jpg)|
-||*Copyright: ジョシュア・ツリー国立公園, 米国 カリフォルニア州 (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)*
+|2024-08-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HangCave_JA-JP0202736881_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HangCave_JA-JP0202736881_UHD.jpg)|
+||*Copyright: ソンドン洞, ベトナム (© Geng Xu/Getty Images)*
 ||
 |||
 |2024-08-14|**Region: en-IN**||
