@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-08-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg)|
-||*Copyright: Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-08-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg)|
+||*Copyright: Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)*
 ||
 |||
 |2024-08-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ソンドン洞, ベトナム (© Geng Xu/Getty Images)*
 ||
 |||
-|2024-08-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-IN4528148622_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-IN4528148622_UHD.jpg)|
-||*Copyright: Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-08-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.RedFortID_EN-IN8417084718_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFortID_EN-IN8417084718_UHD.jpg)|
+||*Copyright: Red Fort Delhi front view with Indian National Flag (© Roop Dey/Alamy Stock Photo)*
 ||
 |||
-|2024-08-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.WatarrkaLizard_PT-BR4397893741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WatarrkaLizard_PT-BR4397893741_UHD.jpg)|
-||*Copyright: Diabo-espinhoso, Parque Nacional de Watarrka, Austrália (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-08-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HangCave_PT-BR4594901649_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HangCave_PT-BR4594901649_UHD.jpg)|
+||*Copyright: Caverna Hang Sơn Đoòng, Parque Nacional Phong Nha-Kẻ Bàng, Vietnã (© Geng Xu/Getty Images)*
 ||
 |||
-|2024-08-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WatarrkaLizard_FR-FR2192982199_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WatarrkaLizard_FR-FR2192982199_UHD.jpg)|
-||*Copyright: Diable épineux, parc national de Watarrka, Australie (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-08-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HangCave_FR-FR1926415619_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HangCave_FR-FR1926415619_UHD.jpg)|
+||*Copyright: Grotte de Hang Son Doong, Parc national de Phong Nha-Ke Bang, Vietnam (© Geng Xu/Getty Images)*
 ||
 |||
-|2024-08-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WatarrkaLizard_DE-DE9933808585_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WatarrkaLizard_DE-DE9933808585_UHD.jpg)|
-||*Copyright: Dornteufel, Watarrka-Nationalpark, Australien (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-08-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HangCave_DE-DE9528025476_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HangCave_DE-DE9528025476_UHD.jpg)|
+||*Copyright: Hang Sơn Đoòng-Höhle, Nationalpark Phong Nha-Kẻ Bàng, Vietnam (© Geng Xu/Getty Images)*
 ||
 |||
-|2024-08-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-CA4804344545_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-CA4804344545_UHD.jpg)|
-||*Copyright: Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-08-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HangCave_EN-CA7947699816_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HangCave_EN-CA7947699816_UHD.jpg)|
+||*Copyright: Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)*
 ||
 |||
-|2024-08-14|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-GB7369918232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-GB7369918232_UHD.jpg)|
-||*Copyright: Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-08-15|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HangCave_EN-GB5986425507_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HangCave_EN-GB5986425507_UHD.jpg)|
+||*Copyright: Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)*
 ||
 |||
-|2024-08-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WatarrkaLizard_IT-IT4767936784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WatarrkaLizard_IT-IT4767936784_UHD.jpg)|
-||*Copyright: Diavolo spinoso, Parco Nazionale di Watarrka, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-08-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.Ferragosto_IT-IT4867237057_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Ferragosto_IT-IT4867237057_UHD.jpg)|
+||*Copyright: Capo Vaticano, Calabria, Italia (© Nikita Birzhakov/iStock/Getty Images Plus)*
 ||
 |||
-|2024-08-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.WatarrkaLizard_ES-ES4079653001_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WatarrkaLizard_ES-ES4079653001_UHD.jpg)|
-||*Copyright: Diablo espinoso, Parque Nacional Watarrka, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-08-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HangCave_ES-ES4781129979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HangCave_ES-ES4781129979_UHD.jpg)|
+||*Copyright: Gruta de Sơn Đoòng, Parque Nacional Phong Nha-Kẻ Bàng, Vietnam (© Geng Xu/Getty Images)*
 ||
 |||
-|2024-08-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WatarrkaLizard_FR-CA6361686885_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WatarrkaLizard_FR-CA6361686885_UHD.jpg)|
-||*Copyright: Diable épineux, parc national de Watarrka, Australie (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-08-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HangCave_FR-CA6512887337_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HangCave_FR-CA6512887337_UHD.jpg)|
+||*Copyright: Grotte de Hang Son Doong, Parc national de Phong Nha-Ke Bang, Vietnam (© Geng Xu/Getty Images)*
 ||
 |||
 
