@@ -6,9 +6,9 @@
 ||*Copyright: Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)*
 ||
 |||
-|2024-08-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Gozan2024_JA-JP4841375373_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Gozan2024_JA-JP4841375373_UHD.jpg)|
-||*Copyright: 大文字山の大文字, 京都 (© Masako Ishida/Getty Images)*
+|2024-08-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_JA-JP5005128092_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_JA-JP5005128092_UHD.jpg)|
+||*Copyright: アルファンジーナ灯台, ポルトガル (© Andreas Kunz/Getty Images)*
 ||
 |||
 |2024-08-16|**Region: en-IN**||
