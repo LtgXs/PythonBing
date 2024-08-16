@@ -1,0 +1,60 @@
+
+Program started at 09:27:22
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az658-314
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[09:27:22] Start geting CN Bing Wallpaper
+[09:27:22] Successful get url: https://www.bing.com/th?id=OHR.JapanRollerCoaster_ZH-CN7954058301_UHD.jpg
+[09:27:22] Image saved to img/background.jpg
+[09:27:22] Info saved to README.md
+[09:27:22] Image saved to history/2024/08/16.md
+[09:27:22] Start geting global Bing Wallpaper, region=en-US, local time is 2024-08-16 05:27:22.747830-04:00
+[09:27:22] Successful get url: https://www.bing.com/th?id=OHR.JapanRollerCoaster_EN-US9463845683_UHD.jpg
+[09:27:22] Picture infomations saved to  global/en-US/README.md
+[09:27:22] Picture infomations saved to global/en-US/history/2024/08/17_en-US.md
+[09:27:22] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-08-16 18:27:22.857499+09:00
+[09:27:22] Successful get url: https://www.bing.com/th?id=OHR.Gozan2024_JA-JP4841375373_UHD.jpg
+[09:27:22] Picture infomations saved to  global/ja-JP/README.md
+[09:27:22] Picture infomations saved to global/ja-JP/history/2024/08/16_ja-JP.md
+[09:27:22] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-08-16 14:57:22.964555+05:30
+[09:27:23] Successful get url: https://www.bing.com/th?id=OHR.JapanRollerCoaster_EN-IN8774755618_UHD.jpg
+[09:27:23] Picture infomations saved to  global/en-IN/README.md
+[09:27:23] Picture infomations saved to global/en-IN/history/2024/08/16_en-IN.md
+[09:27:23] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-08-16 06:27:23.089650-03:00
+[09:27:23] Successful get url: https://www.bing.com/th?id=OHR.JapanRollerCoaster_PT-BR6472241100_UHD.jpg
+[09:27:23] Picture infomations saved to  global/pt-BR/README.md
+[09:27:23] Picture infomations saved to global/pt-BR/history/2024/08/17_pt-BR.md
+[09:27:23] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-08-16 11:27:23.200115+02:00
+[09:27:23] Successful get url: https://www.bing.com/th?id=OHR.ButterflyFlower_FR-FR4834672236_UHD.jpg
+[09:27:23] Picture infomations saved to  global/fr-FR/README.md
+[09:27:23] Picture infomations saved to global/fr-FR/history/2024/08/16_fr-FR.md
+[09:27:23] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-08-16 11:27:23.307425+02:00
+[09:27:23] Successful get url: https://www.bing.com/th?id=OHR.JapanRollerCoaster_DE-DE2240435851_UHD.jpg
+[09:27:23] Picture infomations saved to  global/de-DE/README.md
+[09:27:23] Picture infomations saved to global/de-DE/history/2024/08/16_de-DE.md
+[09:27:23] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-08-16 05:27:23.410892-04:00
+[09:27:23] Successful get url: https://www.bing.com/th?id=OHR.CNE2024_EN-CA8242328301_UHD.jpg
+[09:27:23] Picture infomations saved to  global/en-CA/README.md
+[09:27:23] Picture infomations saved to global/en-CA/history/2024/08/17_en-CA.md
+[09:27:23] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-08-16 10:27:23.563770+01:00
+[09:27:23] Successful get url: https://www.bing.com/th?id=OHR.JapanRollerCoaster_EN-GB6456877241_UHD.jpg
+[09:27:23] Picture infomations saved to  global/en-GB/README.md
+[09:27:23] Picture infomations saved to global/en-GB/history/2024/08/16_en-GB.md
+[09:27:23] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-08-16 11:27:23.672581+02:00
+[09:27:23] Successful get url: https://www.bing.com/th?id=OHR.HangCave_IT-IT4945788331_UHD.jpg
+[09:27:23] Picture infomations saved to  global/it-IT/README.md
+[09:27:23] Picture infomations saved to global/it-IT/history/2024/08/16_it-IT.md
+[09:27:23] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-08-16 11:27:23.807389+02:00
+[09:27:23] Successful get url: https://www.bing.com/th?id=OHR.JapanRollerCoaster_ES-ES7314617149_UHD.jpg
+[09:27:23] Picture infomations saved to  global/es-ES/README.md
+[09:27:23] Picture infomations saved to global/es-ES/history/2024/08/16_es-ES.md
+[09:27:23] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-08-16 05:27:23.918013-04:00
+[09:27:23] Successful get url: https://www.bing.com/th?id=OHR.CNE2024_FR-CA3077002584_UHD.jpg
+[09:27:24] Picture infomations saved to  global/fr-CA/README.md
+[09:27:24] Picture infomations saved to global/fr-CA/history/2024/08/17_fr-CA.md
+Program exit at 09:27:24
