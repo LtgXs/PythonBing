@@ -6,9 +6,9 @@
 ||*Copyright: Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HuntingtonBeach_JA-JP5169837017_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HuntingtonBeach_JA-JP5169837017_UHD.jpg)|
-||*Copyright: ハンティントンビーチピア, 米国 カリフォルニア州 (© Stan Moniz Photography/Tandem Stills + Motion)*
+|2024-08-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.JapanRollerCoaster_JA-JP5324856123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapanRollerCoaster_JA-JP5324856123_UHD.jpg)|
+||*Copyright: ナガシマスパーランド, 三重県 桑名市 (© Japanese amateur photographer/Getty Images)*
 ||
 |||
 |2024-08-18|**Region: en-IN**||
