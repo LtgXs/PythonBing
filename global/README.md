@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-08-18|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg)|
-||*Copyright: Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)*
+|2024-08-19|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg)|
+||*Copyright: Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)*
 ||
 |||
 |2024-08-18|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ハンティントンビーチピア, 米国 カリフォルニア州 (© Stan Moniz Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-17|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-IN9099733197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-IN9099733197_UHD.jpg)|
-||*Copyright: Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)*
+|2024-08-18|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-IN9332234048_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-IN9332234048_UHD.jpg)|
+||*Copyright: Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-18|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_PT-BR6712020565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_PT-BR6712020565_UHD.jpg)|
-||*Copyright: Farol de Alfanzina, Algarve, Portugal (© Andreas Kunz/Getty Images)*
+|2024-08-19|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HuntingtonBeach_PT-BR8909327744_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HuntingtonBeach_PT-BR8909327744_UHD.jpg)|
+||*Copyright: Píer de Huntington Beach ao pôr do sol, Califórnia, EUA (© Stan Moniz Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-17|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_FR-FR9974749595_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_FR-FR9974749595_UHD.jpg)|
-||*Copyright: Phare d'Alfanzina, Algarve, Portugal (© Andreas Kunz/Getty Images)*
+|2024-08-18|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HuntingtonBeach_FR-FR9728078384_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HuntingtonBeach_FR-FR9728078384_UHD.jpg)|
+||*Copyright: Quai de Huntington Beach, Californie, États-Unis (© Stan Moniz Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-17|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_DE-DE1525391215_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_DE-DE1525391215_UHD.jpg)|
-||*Copyright: Leuchtturm Alfanzina, Algarve, Portugal (© Andreas Kunz/Getty Images)*
+|2024-08-18|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ExternsteineTeutoburg_DE-DE6454962619_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineTeutoburg_DE-DE6454962619_UHD.jpg)|
+||*Copyright: Externsteine im Teutoburger Wald, Nordrhein-Westfalen (© MoJoLo/Panther Media GmbH/Alamy Stock Photo)*
 ||
 |||
-|2024-08-18|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-CA6912914796_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-CA6912914796_UHD.jpg)|
-||*Copyright: Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)*
+|2024-08-19|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-CA6417912965_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-CA6417912965_UHD.jpg)|
+||*Copyright: Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-17|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-GB7045122942_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-GB7045122942_UHD.jpg)|
-||*Copyright: Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)*
+|2024-08-18|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GarlicFestival2024_EN-GB7313189944_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GarlicFestival2024_EN-GB7313189944_UHD.jpg)|
+||*Copyright: Fresh garlic bulbs for sale at the garlic farm on the Isle of Wight, England (© Steve Hawkins Photography/Alamy Stock Photo)*
 ||
 |||
-|2024-08-17|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_IT-IT5068594687_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_IT-IT5068594687_UHD.jpg)|
-||*Copyright: Faro di Alfanzina, Algarve, Portogallo (© Andreas Kunz/Getty Images)*
+|2024-08-18|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HuntingtonBeach_IT-IT5196436677_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HuntingtonBeach_IT-IT5196436677_UHD.jpg)|
+||*Copyright: Molo di Huntington Beach al tramonto, California, USA (© Stan Moniz Photography/TANDEM Stills + Motion)*
 ||
 |||
-|2024-08-17|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SemanaGrandeBilbao_ES-ES1226526692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SemanaGrandeBilbao_ES-ES1226526692_UHD.jpg)|
-||*Copyright: Anochecer en el Museo Guggenheim, Bilbao, País Vasco (© Dleiva/Alamy Stock Foto)*
+|2024-08-18|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HuntingtonBeach_ES-ES7631067128_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HuntingtonBeach_ES-ES7631067128_UHD.jpg)|
+||*Copyright: Atardecer desde el Muelle de Huntington Beach, California, EE. UU. (© Stan Moniz Photography/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-18|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_FR-CA6758531395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_FR-CA6758531395_UHD.jpg)|
-||*Copyright: Phare d'Alfanzina, Algarve, Portugal (© Andreas Kunz/Getty Images)*
+|2024-08-19|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HuntingtonBeach_FR-CA9451571426_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HuntingtonBeach_FR-CA9451571426_UHD.jpg)|
+||*Copyright: Quai de Huntington Beach, Californie, États-Unis (© Stan Moniz Photography/Tandem Stills + Motion)*
 ||
 |||
 
