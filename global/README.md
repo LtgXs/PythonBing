@@ -6,9 +6,9 @@
 ||*Copyright: Museum of Flight, Seattle, Washington (© George Rose/Getty Images)*
 ||
 |||
-|2024-08-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.JapanRollerCoaster_JA-JP5324856123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapanRollerCoaster_JA-JP5324856123_UHD.jpg)|
-||*Copyright: ナガシマスパーランド, 三重県 桑名市 (© Japanese amateur photographer/Getty Images)*
+|2024-08-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TetonSunrise_JA-JP5515131695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_JA-JP5515131695_UHD.jpg)|
+||*Copyright: グランドティトン国立公園, 米国 ワイオミング州 (© Kurt Budliger/Tandem Stills + Motion)*
 ||
 |||
 |2024-08-19|**Region: en-IN**||
