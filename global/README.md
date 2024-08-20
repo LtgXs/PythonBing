@@ -6,9 +6,9 @@
 ||*Copyright: Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TetonSunrise_JA-JP5515131695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_JA-JP5515131695_UHD.jpg)|
-||*Copyright: グランドティトン国立公園, 米国 ワイオミング州 (© Kurt Budliger/Tandem Stills + Motion)*
+|2024-08-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NazcaBooby_JA-JP5706861733_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazcaBooby_JA-JP5706861733_UHD.jpg)|
+||*Copyright: ガラパゴス諸島のウォルフ島, エクアドル (© Tui De Roy/Minden Pictures)*
 ||
 |||
 |2024-08-20|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2024-08-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TetonSunrise_IT-IT5409583917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_IT-IT5409583917_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.TetonSunrise_IT-IT6014287082_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_IT-IT6014287082_UHD.jpg)|
 ||*Copyright: Parco Nazionale del Grand Teton, Wyoming, USA (© Kurt Budliger/TANDEM Stills + Motion)*
 ||
 |||
