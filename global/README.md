@@ -6,9 +6,9 @@
 ||*Copyright: Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-08-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NazcaBooby_JA-JP5706861733_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazcaBooby_JA-JP5706861733_UHD.jpg)|
-||*Copyright: ガラパゴス諸島のウォルフ島, エクアドル (© Tui De Roy/Minden Pictures)*
+|2024-08-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OceanCityMD_JA-JP5837703169_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OceanCityMD_JA-JP5837703169_UHD.jpg)|
+||*Copyright: オーシャンシティ, 米国 メリーランド州 (© Kevin Olson/Amazing Aerial Agency)*
 ||
 |||
 |2024-08-21|**Region: en-IN**||
