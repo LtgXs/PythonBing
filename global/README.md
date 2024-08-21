@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-08-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg)|
-||*Copyright: Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)*
+|2024-08-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg)|
+||*Copyright: Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
 |2024-08-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ガラパゴス諸島のウォルフ島, エクアドル (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-08-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TetonSunrise_EN-IN0048035143_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_EN-IN0048035143_UHD.jpg)|
-||*Copyright: Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)*
+|2024-08-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.NazcaBooby_EN-IN0321873603_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazcaBooby_EN-IN0321873603_UHD.jpg)|
+||*Copyright: Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-08-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TetonSunrise_PT-BR5413477464_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_PT-BR5413477464_UHD.jpg)|
-||*Copyright: Nascer do sol no Parque Nacional de Grand Teton, Wyoming, EUA (© Kurt Budliger/Tandem Stills + Motion)*
+|2024-08-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.NazcaBooby_PT-BR5782154593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazcaBooby_PT-BR5782154593_UHD.jpg)|
+||*Copyright: Atobá-de-pé-vermelho, Ilha Wolf, Ilhas Galápagos, Equador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-08-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TetonSunrise_FR-FR5273170982_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_FR-FR5273170982_UHD.jpg)|
-||*Copyright: Lever de soleil dans le parc national de Grand Teton, Wyoming, États-Unis (© Kurt Budliger/Tandem Stills + Motion)*
+|2024-08-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.NazcaBooby_FR-FR8760221120_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazcaBooby_FR-FR8760221120_UHD.jpg)|
+||*Copyright: Fou de Grant, île Wolf, îles Galápagos, Équateur (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-08-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TetonSunrise_DE-DE4508190035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_DE-DE4508190035_UHD.jpg)|
-||*Copyright: Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)*
+|2024-08-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.NazcaBooby_DE-DE4166960600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazcaBooby_DE-DE4166960600_UHD.jpg)|
+||*Copyright: Nazcatölpel, Wolfsinsel, Galápagos-Inseln, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-08-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TetonSunrise_EN-CA1567312627_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_EN-CA1567312627_UHD.jpg)|
-||*Copyright: Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)*
+|2024-08-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.NazcaBooby_EN-CA2702315938_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazcaBooby_EN-CA2702315938_UHD.jpg)|
+||*Copyright: Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-08-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TetonSunrise_EN-GB8561222784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_EN-GB8561222784_UHD.jpg)|
-||*Copyright: Grand Teton National Park, Wyoming, USA (© Kurt Budliger/TANDEM Stills + Motion)*
+|2024-08-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.NazcaBooby_EN-GB8876355438_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazcaBooby_EN-GB8876355438_UHD.jpg)|
+||*Copyright: Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-08-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TetonSunrise_IT-IT6014287082_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_IT-IT6014287082_UHD.jpg)|
-||*Copyright: Parco Nazionale del Grand Teton, Wyoming, USA (© Kurt Budliger/TANDEM Stills + Motion)*
+|2024-08-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.NazcaBooby_IT-IT8043395751_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazcaBooby_IT-IT8043395751_UHD.jpg)|
+||*Copyright: Sula di Nazca, Isole di Wolf, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-08-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TetonSunrise_ES-ES8184610803_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_ES-ES8184610803_UHD.jpg)|
-||*Copyright: Amanecer en el Parque Nacional de Grand Teton, Wyoming, EE. UU. (© Kurt Budliger/Tandem Stills + Motion)*
+|2024-08-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.NazcaBooby_ES-ES8963082511_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazcaBooby_ES-ES8963082511_UHD.jpg)|
+||*Copyright: El piquero de Nazca, Isla Wolf, Islas Galápagos, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2024-08-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TetonSunrise_FR-CA9634398524_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonSunrise_FR-CA9634398524_UHD.jpg)|
-||*Copyright: Lever de soleil dans le parc national de Grand Teton, Wyoming, États-Unis (© Kurt Budliger/Tandem Stills + Motion)*
+|2024-08-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.NazcaBooby_FR-CA9861813590_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NazcaBooby_FR-CA9861813590_UHD.jpg)|
+||*Copyright: Fou de Grant, île Wolf, îles Galápagos, Équateur (© Tui De Roy/Minden Pictures)*
 ||
 |||
 

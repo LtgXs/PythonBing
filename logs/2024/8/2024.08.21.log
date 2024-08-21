@@ -1,0 +1,60 @@
+
+Program started at 09:26:15
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az695-215
+Processor Type: x86_64
+Python Version: 3.12.4
+Python Interpreter Name: CPython
+[09:26:15] Start geting CN Bing Wallpaper
+[09:26:15] Successful get url: https://www.bing.com/th?id=OHR.NazcaBooby_ZH-CN1534931799_UHD.jpg
+[09:26:15] Image saved to img/background.jpg
+[09:26:15] Info saved to README.md
+[09:26:15] Image saved to history/2024/08/21.md
+[09:26:15] Start geting global Bing Wallpaper, region=en-US, local time is 2024-08-21 05:26:15.796618-04:00
+[09:26:15] Successful get url: https://www.bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg
+[09:26:15] Picture infomations saved to  global/en-US/README.md
+[09:26:15] Picture infomations saved to global/en-US/history/2024/08/22_en-US.md
+[09:26:15] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-08-21 18:26:15.900117+09:00
+[09:26:15] Successful get url: https://www.bing.com/th?id=OHR.NazcaBooby_JA-JP5706861733_UHD.jpg
+[09:26:16] Picture infomations saved to  global/ja-JP/README.md
+[09:26:16] Picture infomations saved to global/ja-JP/history/2024/08/21_ja-JP.md
+[09:26:16] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-08-21 14:56:16.031147+05:30
+[09:26:16] Successful get url: https://www.bing.com/th?id=OHR.NazcaBooby_EN-IN0321873603_UHD.jpg
+[09:26:16] Picture infomations saved to  global/en-IN/README.md
+[09:26:16] Picture infomations saved to global/en-IN/history/2024/08/21_en-IN.md
+[09:26:16] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-08-21 06:26:16.132655-03:00
+[09:26:16] Successful get url: https://www.bing.com/th?id=OHR.NazcaBooby_PT-BR5782154593_UHD.jpg
+[09:26:16] Picture infomations saved to  global/pt-BR/README.md
+[09:26:16] Picture infomations saved to global/pt-BR/history/2024/08/22_pt-BR.md
+[09:26:16] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-08-21 11:26:16.243618+02:00
+[09:26:16] Successful get url: https://www.bing.com/th?id=OHR.NazcaBooby_FR-FR8760221120_UHD.jpg
+[09:26:16] Picture infomations saved to  global/fr-FR/README.md
+[09:26:16] Picture infomations saved to global/fr-FR/history/2024/08/21_fr-FR.md
+[09:26:16] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-08-21 11:26:16.354057+02:00
+[09:26:16] Successful get url: https://www.bing.com/th?id=OHR.NazcaBooby_DE-DE4166960600_UHD.jpg
+[09:26:16] Picture infomations saved to  global/de-DE/README.md
+[09:26:16] Picture infomations saved to global/de-DE/history/2024/08/21_de-DE.md
+[09:26:16] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-08-21 05:26:16.453584-04:00
+[09:26:16] Successful get url: https://www.bing.com/th?id=OHR.NazcaBooby_EN-CA2702315938_UHD.jpg
+[09:26:16] Picture infomations saved to  global/en-CA/README.md
+[09:26:16] Picture infomations saved to global/en-CA/history/2024/08/22_en-CA.md
+[09:26:16] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-08-21 10:26:16.661473+01:00
+[09:26:16] Successful get url: https://www.bing.com/th?id=OHR.NazcaBooby_EN-GB8876355438_UHD.jpg
+[09:26:16] Picture infomations saved to  global/en-GB/README.md
+[09:26:16] Picture infomations saved to global/en-GB/history/2024/08/21_en-GB.md
+[09:26:16] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-08-21 11:26:16.766210+02:00
+[09:26:16] Successful get url: https://www.bing.com/th?id=OHR.NazcaBooby_IT-IT8043395751_UHD.jpg
+[09:26:16] Picture infomations saved to  global/it-IT/README.md
+[09:26:16] Picture infomations saved to global/it-IT/history/2024/08/21_it-IT.md
+[09:26:16] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-08-21 11:26:16.857893+02:00
+[09:26:16] Successful get url: https://www.bing.com/th?id=OHR.NazcaBooby_ES-ES8963082511_UHD.jpg
+[09:26:16] Picture infomations saved to  global/es-ES/README.md
+[09:26:16] Picture infomations saved to global/es-ES/history/2024/08/21_es-ES.md
+[09:26:16] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-08-21 05:26:16.983242-04:00
+[09:26:17] Successful get url: https://www.bing.com/th?id=OHR.NazcaBooby_FR-CA9861813590_UHD.jpg
+[09:26:17] Picture infomations saved to  global/fr-CA/README.md
+[09:26:17] Picture infomations saved to global/fr-CA/history/2024/08/22_fr-CA.md
+Program exit at 09:26:17
