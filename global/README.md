@@ -6,9 +6,9 @@
 ||*Copyright: Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)*
 ||
 |||
-|2024-08-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OceanCityMD_JA-JP5837703169_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OceanCityMD_JA-JP5837703169_UHD.jpg)|
-||*Copyright: オーシャンシティ, 米国 メリーランド州 (© Kevin Olson/Amazing Aerial Agency)*
+|2024-08-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Fireworks2024_JA-JP2308803408_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fireworks2024_JA-JP2308803408_UHD.jpg)|
+||*Copyright: 厳島神社, 広島県 廿日市市 (© Matsuo Sato/Shutterstock)*
 ||
 |||
 |2024-08-22|**Region: en-IN**||
