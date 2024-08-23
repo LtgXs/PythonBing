@@ -6,9 +6,9 @@
 ||*Copyright: Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)*
 ||
 |||
-|2024-08-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Fireworks2024_JA-JP2308803408_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fireworks2024_JA-JP2308803408_UHD.jpg)|
-||*Copyright: 厳島神社, 広島県 廿日市市 (© Matsuo Sato/Shutterstock)*
+|2024-08-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.JizoFestival2024_JA-JP8040094666_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JizoFestival2024_JA-JP8040094666_UHD.jpg)|
+||*Copyright: 三千院のわらべ地蔵, 京都 (© Klaus-Werner Friedrich/Alamy)*
 ||
 |||
 |2024-08-23|**Region: en-IN**||
