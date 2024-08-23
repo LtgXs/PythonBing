@@ -1,0 +1,60 @@
+
+Program started at 09:25:29
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az569-534
+Processor Type: x86_64
+Python Version: 3.12.5
+Python Interpreter Name: CPython
+[09:25:29] Start geting CN Bing Wallpaper
+[09:25:29] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_ZH-CN0445884858_UHD.jpg
+[09:25:29] Image saved to img/background.jpg
+[09:25:29] Info saved to README.md
+[09:25:29] Image saved to history/2024/08/23.md
+[09:25:29] Start geting global Bing Wallpaper, region=en-US, local time is 2024-08-23 05:25:29.480904-04:00
+[09:25:29] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg
+[09:25:29] Picture infomations saved to  global/en-US/README.md
+[09:25:29] Picture infomations saved to global/en-US/history/2024/08/24_en-US.md
+[09:25:29] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-08-23 18:25:29.597277+09:00
+[09:25:29] Successful get url: https://www.bing.com/th?id=OHR.Fireworks2024_JA-JP2308803408_UHD.jpg
+[09:25:29] Picture infomations saved to  global/ja-JP/README.md
+[09:25:29] Picture infomations saved to global/ja-JP/history/2024/08/23_ja-JP.md
+[09:25:29] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-08-23 14:55:29.690609+05:30
+[09:25:29] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_EN-IN2102190312_UHD.jpg
+[09:25:29] Picture infomations saved to  global/en-IN/README.md
+[09:25:29] Picture infomations saved to global/en-IN/history/2024/08/23_en-IN.md
+[09:25:29] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-08-23 06:25:29.854206-03:00
+[09:25:29] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_PT-BR0925050083_UHD.jpg
+[09:25:29] Picture infomations saved to  global/pt-BR/README.md
+[09:25:29] Picture infomations saved to global/pt-BR/history/2024/08/24_pt-BR.md
+[09:25:29] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-08-23 11:25:29.952515+02:00
+[09:25:29] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_FR-FR7783025478_UHD.jpg
+[09:25:30] Picture infomations saved to  global/fr-FR/README.md
+[09:25:30] Picture infomations saved to global/fr-FR/history/2024/08/23_fr-FR.md
+[09:25:30] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-08-23 11:25:30.091283+02:00
+[09:25:30] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_DE-DE7459210012_UHD.jpg
+[09:25:30] Picture infomations saved to  global/de-DE/README.md
+[09:25:30] Picture infomations saved to global/de-DE/history/2024/08/23_de-DE.md
+[09:25:30] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-08-23 05:25:30.188387-04:00
+[09:25:30] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_EN-CA2112837442_UHD.jpg
+[09:25:30] Picture infomations saved to  global/en-CA/README.md
+[09:25:30] Picture infomations saved to global/en-CA/history/2024/08/24_en-CA.md
+[09:25:30] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-08-23 10:25:30.283608+01:00
+[09:25:30] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_EN-GB8973986476_UHD.jpg
+[09:25:30] Picture infomations saved to  global/en-GB/README.md
+[09:25:30] Picture infomations saved to global/en-GB/history/2024/08/23_en-GB.md
+[09:25:30] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-08-23 11:25:30.379730+02:00
+[09:25:30] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_IT-IT5114884058_UHD.jpg
+[09:25:30] Picture infomations saved to  global/it-IT/README.md
+[09:25:30] Picture infomations saved to global/it-IT/history/2024/08/23_it-IT.md
+[09:25:30] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-08-23 11:25:30.495028+02:00
+[09:25:30] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_ES-ES2130106694_UHD.jpg
+[09:25:30] Picture infomations saved to  global/es-ES/README.md
+[09:25:30] Picture infomations saved to global/es-ES/history/2024/08/23_es-ES.md
+[09:25:30] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-08-23 05:25:30.589690-04:00
+[09:25:30] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_FR-CA7175682898_UHD.jpg
+[09:25:30] Picture infomations saved to  global/fr-CA/README.md
+[09:25:30] Picture infomations saved to global/fr-CA/history/2024/08/24_fr-CA.md
+Program exit at 09:25:30

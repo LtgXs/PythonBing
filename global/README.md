@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-08-23|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg)|
-||*Copyright: Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)*
+|2024-08-24|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg)|
+||*Copyright: Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)*
 ||
 |||
 |2024-08-23|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 厳島神社, 広島県 廿日市市 (© Matsuo Sato/Shutterstock)*
 ||
 |||
-|2024-08-22|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.OceanCityMD_EN-IN0871145545_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OceanCityMD_EN-IN0871145545_UHD.jpg)|
-||*Copyright: Aerial view of Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)*
+|2024-08-23|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-IN2102190312_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-IN2102190312_UHD.jpg)|
+||*Copyright: Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)*
 ||
 |||
-|2024-08-23|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DiadoFolclore_PT-BR9451693617_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiadoFolclore_PT-BR9451693617_UHD.jpg)|
-||*Copyright: Artesanato indígena brasileiro exposto para venda em feira ao ar livre (© Ricardo Lima/Getty Images)*
+|2024-08-24|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PrasatPhanom_PT-BR0925050083_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_PT-BR0925050083_UHD.jpg)|
+||*Copyright: Ruínas do templo de Prasat Phanom Rung, província de Buriram, Tailândia (© Banjongseal324/Getty Images)*
 ||
 |||
-|2024-08-22|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.OceanCityMD_FR-FR8531122070_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OceanCityMD_FR-FR8531122070_UHD.jpg)|
-||*Copyright: Vue aérienne d’Ocean City au lever du soleil, Maryland, États-Unis (© Kevin Olson/Amazing Aerial Agency)*
+|2024-08-23|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PrasatPhanom_FR-FR7783025478_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_FR-FR7783025478_UHD.jpg)|
+||*Copyright: Ruines du temple de Prasat Phanom Rung, province de Buriram, Thaïlande (© Banjongseal324/Getty Images)*
 ||
 |||
-|2024-08-22|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.OceanCityMD_DE-DE3767484074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OceanCityMD_DE-DE3767484074_UHD.jpg)|
-||*Copyright: Luftaufnahme von Ocean City bei Sonnenaufgang, Maryland, USA (© Kevin Olson/Amazing Aerial Agency)*
+|2024-08-23|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PrasatPhanom_DE-DE7459210012_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_DE-DE7459210012_UHD.jpg)|
+||*Copyright: Tempelruinen von Phanom Rung, Provinz Buriram, Thailand (© Banjongseal324/Getty Images)*
 ||
 |||
-|2024-08-23|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.OceanCityMD_EN-CA2591363593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OceanCityMD_EN-CA2591363593_UHD.jpg)|
-||*Copyright: Aerial view of Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)*
+|2024-08-24|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-CA2112837442_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-CA2112837442_UHD.jpg)|
+||*Copyright: Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)*
 ||
 |||
-|2024-08-22|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.OceanCityMD_EN-GB9234380892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OceanCityMD_EN-GB9234380892_UHD.jpg)|
-||*Copyright: Aerial view of Ocean City, Maryland, USA (© Kevin Olson/Amazing Aerial Agency)*
+|2024-08-23|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-GB8973986476_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-GB8973986476_UHD.jpg)|
+||*Copyright: Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)*
 ||
 |||
-|2024-08-22|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OceanCityMD_IT-IT8362993245_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OceanCityMD_IT-IT8362993245_UHD.jpg)|
-||*Copyright: Vista aerea di Ocean City all'alba, Maryland, USA (© Kevin Olson/Amazing Aerial Agency)*
+|2024-08-23|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PrasatPhanom_IT-IT5114884058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_IT-IT5114884058_UHD.jpg)|
+||*Copyright: Rovine del tempio di Prasat Phanom Rung, provincia di Buriram, Thailandia (© Banjongseal324/Getty Images)*
 ||
 |||
-|2024-08-22|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.OceanCityMD_ES-ES9167700401_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OceanCityMD_ES-ES9167700401_UHD.jpg)|
-||*Copyright: Vista aérea de Ocean City al amanecer, Maryland, EE. UU. (© Kevin Olson/Amazing Aerial Agency)*
+|2024-08-23|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PrasatPhanom_ES-ES2130106694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_ES-ES2130106694_UHD.jpg)|
+||*Copyright: Ruinas del templo de Prasat Phanom Rung, provincia de Buri Ram, Tailandia (© Banjongseal324/Getty Images)*
 ||
 |||
-|2024-08-23|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.OceanCityMD_FR-CA0021472787_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OceanCityMD_FR-CA0021472787_UHD.jpg)|
-||*Copyright: Vue aérienne d’Ocean City au lever du soleil, Maryland, États-Unis (© Kevin Olson/Amazing Aerial Agency)*
+|2024-08-24|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PrasatPhanom_FR-CA7175682898_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_FR-CA7175682898_UHD.jpg)|
+||*Copyright: Ruines du temple de Prasat Phanom Rung, province de Buriram, Thaïlande (© Banjongseal324/Getty Images)*
 ||
 |||
 
