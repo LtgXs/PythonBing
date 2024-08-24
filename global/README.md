@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-08-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg)|
-||*Copyright: Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)*
+|2024-08-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg)|
+||*Copyright: Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)*
 ||
 |||
 |2024-08-24|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 三千院のわらべ地蔵, 京都 (© Klaus-Werner Friedrich/Alamy)*
 ||
 |||
-|2024-08-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-IN2102190312_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-IN2102190312_UHD.jpg)|
-||*Copyright: Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)*
+|2024-08-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-IN9245397268_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-IN9245397268_UHD.jpg)|
+||*Copyright: Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)*
 ||
 |||
-|2024-08-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PrasatPhanom_PT-BR0925050083_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_PT-BR0925050083_UHD.jpg)|
-||*Copyright: Ruínas do templo de Prasat Phanom Rung, província de Buriram, Tailândia (© Banjongseal324/Getty Images)*
+|2024-08-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWoods_PT-BR1618400732_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_PT-BR1618400732_UHD.jpg)|
+||*Copyright: Monumento Nacional Katahdin Woods and Waters, Condado de Penobscot, Maine, EUA (© Cavan Images/Alamy)*
 ||
 |||
-|2024-08-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PrasatPhanom_FR-FR7783025478_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_FR-FR7783025478_UHD.jpg)|
-||*Copyright: Ruines du temple de Prasat Phanom Rung, province de Buriram, Thaïlande (© Banjongseal324/Getty Images)*
+|2024-08-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWoods_FR-FR8416030061_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_FR-FR8416030061_UHD.jpg)|
+||*Copyright: Katahdin Woods and Waters National Monument, comté de Penobscot, Maine, États-Unis (© Cavan Images/Alamy)*
 ||
 |||
-|2024-08-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PrasatPhanom_DE-DE7459210012_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_DE-DE7459210012_UHD.jpg)|
-||*Copyright: Tempelruinen von Phanom Rung, Provinz Buriram, Thailand (© Banjongseal324/Getty Images)*
+|2024-08-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MuseumsinselSpree_DE-DE8201453372_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumsinselSpree_DE-DE8201453372_UHD.jpg)|
+||*Copyright: Museumsinsel auf der Spree und Fernsehturm, Berlin (© TomasSereda/Getty Images)*
 ||
 |||
-|2024-08-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-CA2112837442_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-CA2112837442_UHD.jpg)|
-||*Copyright: Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)*
+|2024-08-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-CA4283542343_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-CA4283542343_UHD.jpg)|
+||*Copyright: Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)*
 ||
 |||
-|2024-08-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-GB8973986476_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-GB8973986476_UHD.jpg)|
-||*Copyright: Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)*
+|2024-08-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.NottingHillCarnival2024_EN-GB9324576606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NottingHillCarnival2024_EN-GB9324576606_UHD.jpg)|
+||*Copyright: Notting Hill Carnival on August 15, 2009, in London, England (© Dan Kitwood/Getty Images)*
 ||
 |||
-|2024-08-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PrasatPhanom_IT-IT5114884058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_IT-IT5114884058_UHD.jpg)|
-||*Copyright: Rovine del tempio di Prasat Phanom Rung, provincia di Buriram, Thailandia (© Banjongseal324/Getty Images)*
+|2024-08-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWoods_IT-IT5335389072_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_IT-IT5335389072_UHD.jpg)|
+||*Copyright: Monumento Nazionale Katahdin Woods and Waters, Contea di Penobscot, Maine, USA (© Cavan Images/Alamy Stock Photo)*
 ||
 |||
-|2024-08-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PrasatPhanom_ES-ES2130106694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_ES-ES2130106694_UHD.jpg)|
-||*Copyright: Ruinas del templo de Prasat Phanom Rung, provincia de Buri Ram, Tailandia (© Banjongseal324/Getty Images)*
+|2024-08-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWoods_ES-ES2494481024_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_ES-ES2494481024_UHD.jpg)|
+||*Copyright: Monumento Nacional de los Bosques y Aguas de Katahdin, Condado de Penobscot, Maine, EE. UU. (© Cavan Images/Alamy)*
 ||
 |||
-|2024-08-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PrasatPhanom_FR-CA7175682898_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_FR-CA7175682898_UHD.jpg)|
-||*Copyright: Ruines du temple de Prasat Phanom Rung, province de Buriram, Thaïlande (© Banjongseal324/Getty Images)*
+|2024-08-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWoods_FR-CA5672777513_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_FR-CA5672777513_UHD.jpg)|
+||*Copyright: Katahdin Woods and Waters National Monument, comté de Penobscot, Maine, États-Unis (© Cavan Images/Alamy)*
 ||
 |||
 
