@@ -6,9 +6,9 @@
 ||*Copyright: Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)*
 ||
 |||
-|2024-08-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.JizoFestival2024_JA-JP8040094666_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JizoFestival2024_JA-JP8040094666_UHD.jpg)|
-||*Copyright: 三千院のわらべ地蔵, 京都 (© Klaus-Werner Friedrich/Alamy)*
+|2024-08-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SwiftcurrentLake_JA-JP7854639610_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwiftcurrentLake_JA-JP7854639610_UHD.jpg)|
+||*Copyright: グレーシャー国立公園, 米国 モンタナ州 (© Jason Savage/Tandem Stills + Motion)*
 ||
 |||
 |2024-08-24|**Region: en-IN**||
