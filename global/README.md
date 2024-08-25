@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-08-25|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg)|
-||*Copyright: Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)*
+|2024-08-26|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_UHD.jpg)|
+||*Copyright: Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)*
 ||
 |||
 |2024-08-25|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: グレーシャー国立公園, 米国 モンタナ州 (© Jason Savage/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-24|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-IN9245397268_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-IN9245397268_UHD.jpg)|
-||*Copyright: Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)*
+|2024-08-25|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GolcondaFort_EN-IN3908727493_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GolcondaFort_EN-IN3908727493_UHD.jpg)|
+||*Copyright: Arched parapets of the Golconda Fort in Hyderabad, Telangana (© Manab Sen/Alamy Stock Photo)*
 ||
 |||
-|2024-08-25|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.KatahdinWoods_PT-BR1618400732_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_PT-BR1618400732_UHD.jpg)|
-||*Copyright: Monumento Nacional Katahdin Woods and Waters, Condado de Penobscot, Maine, EUA (© Cavan Images/Alamy)*
+|2024-08-26|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SwiftcurrentLake_PT-BR2467952516_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwiftcurrentLake_PT-BR2467952516_UHD.jpg)|
+||*Copyright: Amanhecer sobre o Lago Swiftcurrent, Parque Nacional Glacier, Montana, EUA (© Jason Savage/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-24|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.KatahdinWoods_FR-FR8416030061_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_FR-FR8416030061_UHD.jpg)|
-||*Copyright: Katahdin Woods and Waters National Monument, comté de Penobscot, Maine, États-Unis (© Cavan Images/Alamy)*
+|2024-08-25|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TrailMontBlanc_FR-FR5602937641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailMontBlanc_FR-FR5602937641_UHD.jpg)|
+||*Copyright: Reflet du ciel sur le lac Blanc, Alpes françaises, Monte Bianco en arrière-plan, Chamonix (© Smitt/Getty Image)*
 ||
 |||
-|2024-08-24|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MuseumsinselSpree_DE-DE8201453372_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumsinselSpree_DE-DE8201453372_UHD.jpg)|
-||*Copyright: Museumsinsel auf der Spree und Fernsehturm, Berlin (© TomasSereda/Getty Images)*
+|2024-08-25|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.VineyardsinRemstalvalley_DE-DE8704317940_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VineyardsinRemstalvalley_DE-DE8704317940_UHD.jpg)|
+||*Copyright: Drohnenansicht der Weinberge im Remstal, Baden-Württemberg (© Westend61/Getty Images)*
 ||
 |||
-|2024-08-25|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-CA4283542343_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-CA4283542343_UHD.jpg)|
-||*Copyright: Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)*
+|2024-08-26|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-CA7830300836_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-CA7830300836_UHD.jpg)|
+||*Copyright: Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-24|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.NottingHillCarnival2024_EN-GB9324576606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NottingHillCarnival2024_EN-GB9324576606_UHD.jpg)|
-||*Copyright: Notting Hill Carnival on August 15, 2009, in London, England (© Dan Kitwood/Getty Images)*
+|2024-08-25|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-GB9627605146_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-GB9627605146_UHD.jpg)|
+||*Copyright: Swiftcurrent Lake, Glacier National Park, Montana, USA (© Jason Savage/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-24|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.KatahdinWoods_IT-IT5335389072_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_IT-IT5335389072_UHD.jpg)|
-||*Copyright: Monumento Nazionale Katahdin Woods and Waters, Contea di Penobscot, Maine, USA (© Cavan Images/Alamy Stock Photo)*
+|2024-08-25|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SwiftcurrentLake_IT-IT5489995070_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwiftcurrentLake_IT-IT5489995070_UHD.jpg)|
+||*Copyright: Alba sul lago Swiftcurrent, Parco Nazionale dei Ghiacciai, Montana, USA (© Jason Savage/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-24|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.KatahdinWoods_ES-ES2494481024_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_ES-ES2494481024_UHD.jpg)|
-||*Copyright: Monumento Nacional de los Bosques y Aguas de Katahdin, Condado de Penobscot, Maine, EE. UU. (© Cavan Images/Alamy)*
+|2024-08-25|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.VelaAmericaCupBarcelona_ES-ES7829816830_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VelaAmericaCupBarcelona_ES-ES7829816830_UHD.jpg)|
+||*Copyright: Sitges, Barcelona, Cataluña, España (© Pol Albarrán/Moment/GettyImages)*
 ||
 |||
-|2024-08-25|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.KatahdinWoods_FR-CA5672777513_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWoods_FR-CA5672777513_UHD.jpg)|
-||*Copyright: Katahdin Woods and Waters National Monument, comté de Penobscot, Maine, États-Unis (© Cavan Images/Alamy)*
+|2024-08-26|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SwiftcurrentLake_FR-CA5079501446_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwiftcurrentLake_FR-CA5079501446_UHD.jpg)|
+||*Copyright: Lever de soleil sur le lac Swiftcurrent, parc national des Glaciers, Montana, États-Unis  (© Jason Savage/Tandem Stills + Motion)*
 ||
 |||
 
