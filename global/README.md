@@ -6,9 +6,9 @@
 ||*Copyright: Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SwiftcurrentLake_JA-JP7854639610_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwiftcurrentLake_JA-JP7854639610_UHD.jpg)|
-||*Copyright: グレーシャー国立公園, 米国 モンタナ州 (© Jason Savage/Tandem Stills + Motion)*
+|2024-08-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PalmyraAtoll_JA-JP7657576901_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalmyraAtoll_JA-JP7657576901_UHD.jpg)|
+||*Copyright: パルミラ環礁, 米国 (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
 |2024-08-25|**Region: en-IN**||
