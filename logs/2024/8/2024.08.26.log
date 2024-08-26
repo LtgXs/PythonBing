@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:26:03] Picture infomations saved to  global/fr-CA/README.md
 [09:26:03] Picture infomations saved to global/fr-CA/history/2024/08/27_fr-CA.md
 Program exit at 09:26:03
+
+Program started at 16:14:57
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1429-332
+Processor Type: x86_64
+Python Version: 3.12.5
+Python Interpreter Name: CPython
+[16:14:57] Start geting CN Bing Wallpaper
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.YoungCaiman_ZH-CN1995433788_UHD.jpg
+[16:14:57] Image saved to img/background.jpg
+[16:14:57] Info saved to README.md
+[16:14:57] Image saved to history/2024/08/27.md
+[16:14:57] Start geting global Bing Wallpaper, region=en-US, local time is 2024-08-26 12:14:57.327279-04:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979_UHD.jpg
+[16:14:57] Picture infomations saved to  global/en-US/README.md
+[16:14:57] Picture infomations saved to global/en-US/history/2024/08/27_en-US.md
+[16:14:57] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-08-27 01:14:57.432224+09:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_JA-JP7500129821_UHD.jpg
+[16:14:57] Picture infomations saved to  global/ja-JP/README.md
+[16:14:57] Picture infomations saved to global/ja-JP/history/2024/08/27_ja-JP.md
+[16:14:57] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-08-26 21:44:57.534395+05:30
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-IN9487861231_UHD.jpg
+[16:14:57] Picture infomations saved to  global/en-IN/README.md
+[16:14:57] Picture infomations saved to global/en-IN/history/2024/08/26_en-IN.md
+[16:14:57] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-08-26 13:14:57.638385-03:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.PalmyraAtoll_PT-BR3061095594_UHD.jpg
+[16:14:57] Picture infomations saved to  global/pt-BR/README.md
+[16:14:57] Picture infomations saved to global/pt-BR/history/2024/08/27_pt-BR.md
+[16:14:57] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-08-26 18:14:57.819472+02:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.PalmyraAtoll_FR-FR9486167153_UHD.jpg
+[16:14:57] Picture infomations saved to  global/fr-FR/README.md
+[16:14:57] Picture infomations saved to global/fr-FR/history/2024/08/26_fr-FR.md
+[16:14:57] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-08-26 18:14:57.911553+02:00
+[16:14:58] Successful get url: https://www.bing.com/th?id=OHR.PalmyraAtoll_DE-DE5676612889_UHD.jpg
+[16:14:58] Picture infomations saved to  global/de-DE/README.md
+[16:14:58] Picture infomations saved to global/de-DE/history/2024/08/26_de-DE.md
+[16:14:58] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-08-26 12:14:58.074515-04:00
+[16:14:58] Successful get url: https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-CA8180034537_UHD.jpg
+[16:14:58] Picture infomations saved to  global/en-CA/README.md
+[16:14:58] Picture infomations saved to global/en-CA/history/2024/08/27_en-CA.md
+[16:14:58] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-08-26 17:14:58.493752+01:00
+[16:14:58] Successful get url: https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-GB5731259364_UHD.jpg
+[16:14:58] Picture infomations saved to  global/en-GB/README.md
+[16:14:58] Picture infomations saved to global/en-GB/history/2024/08/26_en-GB.md
+[16:14:58] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-08-26 18:14:58.591075+02:00
+[16:14:58] Successful get url: https://www.bing.com/th?id=OHR.PalmyraAtoll_IT-IT5623392573_UHD.jpg
+[16:14:58] Picture infomations saved to  global/it-IT/README.md
+[16:14:58] Picture infomations saved to global/it-IT/history/2024/08/26_it-IT.md
+[16:14:58] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-08-26 18:14:58.690089+02:00
+[16:14:58] Successful get url: https://www.bing.com/th?id=OHR.PalmyraAtoll_ES-ES2724340692_UHD.jpg
+[16:14:58] Picture infomations saved to  global/es-ES/README.md
+[16:14:58] Picture infomations saved to global/es-ES/history/2024/08/26_es-ES.md
+[16:14:58] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-08-26 12:14:58.788818-04:00
+[16:14:58] Successful get url: https://www.bing.com/th?id=OHR.PalmyraAtoll_FR-CA6386990840_UHD.jpg
+[16:14:58] Picture infomations saved to  global/fr-CA/README.md
+[16:14:58] Picture infomations saved to global/fr-CA/history/2024/08/27_fr-CA.md
+Program exit at 16:14:58

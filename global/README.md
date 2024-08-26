@@ -6,9 +6,9 @@
 ||*Copyright: Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PalmyraAtoll_JA-JP7657576901_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalmyraAtoll_JA-JP7657576901_UHD.jpg)|
-||*Copyright: パルミラ環礁, 米国 (© Ian Shive/Tandem Stills + Motion)*
+|2024-08-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PrasatPhanom_JA-JP7500129821_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_JA-JP7500129821_UHD.jpg)|
+||*Copyright: パノムルン遺跡, タイ (© Banjongseal324/Getty Images)*
 ||
 |||
 |2024-08-26|**Region: en-IN**||
