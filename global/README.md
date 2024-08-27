@@ -6,9 +6,9 @@
 ||*Copyright: Young black caiman, Tambopata National Reserve, Peru (© Maxime Aliaga/Minden Pictures)*
 ||
 |||
-|2024-08-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PrasatPhanom_JA-JP7500129821_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrasatPhanom_JA-JP7500129821_UHD.jpg)|
-||*Copyright: パノムルン遺跡, タイ (© Banjongseal324/Getty Images)*
+|2024-08-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ParalympicsParis_JA-JP5348404269_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParalympicsParis_JA-JP5348404269_UHD.jpg)|
+||*Copyright: サクレ・クール寺院, フランス パリ (© Tuul & Bruno Morandi/Getty Images)*
 ||
 |||
 |2024-08-27|**Region: en-IN**||
