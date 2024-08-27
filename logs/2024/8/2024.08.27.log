@@ -1,0 +1,60 @@
+
+Program started at 09:26:06
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1437-308
+Processor Type: x86_64
+Python Version: 3.12.5
+Python Interpreter Name: CPython
+[09:26:06] Start geting CN Bing Wallpaper
+[09:26:06] Successful get url: https://www.bing.com/th?id=OHR.YoungCaiman_ZH-CN1995433788_UHD.jpg
+[09:26:06] Image saved to img/background.jpg
+[09:26:06] Info saved to README.md
+[09:26:06] Image saved to history/2024/08/27.md
+[09:26:06] Start geting global Bing Wallpaper, region=en-US, local time is 2024-08-27 05:26:06.617743-04:00
+[09:26:06] Successful get url: https://www.bing.com/th?id=OHR.YoungCaiman_EN-US8572688559_UHD.jpg
+[09:26:06] Picture infomations saved to  global/en-US/README.md
+[09:26:06] Picture infomations saved to global/en-US/history/2024/08/28_en-US.md
+[09:26:06] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-08-27 18:26:06.732105+09:00
+[09:26:06] Successful get url: https://www.bing.com/th?id=OHR.PrasatPhanom_JA-JP7500129821_UHD.jpg
+[09:26:06] Picture infomations saved to  global/ja-JP/README.md
+[09:26:06] Picture infomations saved to global/ja-JP/history/2024/08/27_ja-JP.md
+[09:26:06] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-08-27 14:56:06.872981+05:30
+[09:26:06] Successful get url: https://www.bing.com/th?id=OHR.YoungCaiman_EN-IN9705347910_UHD.jpg
+[09:26:06] Picture infomations saved to  global/en-IN/README.md
+[09:26:06] Picture infomations saved to global/en-IN/history/2024/08/27_en-IN.md
+[09:26:06] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-08-27 06:26:06.966559-03:00
+[09:26:07] Successful get url: https://www.bing.com/th?id=OHR.YoungCaiman_PT-BR3430658396_UHD.jpg
+[09:26:07] Picture infomations saved to  global/pt-BR/README.md
+[09:26:07] Picture infomations saved to global/pt-BR/history/2024/08/28_pt-BR.md
+[09:26:07] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-08-27 11:26:07.065907+02:00
+[09:26:07] Successful get url: https://www.bing.com/th?id=OHR.YoungCaiman_FR-FR4221031673_UHD.jpg
+[09:26:07] Picture infomations saved to  global/fr-FR/README.md
+[09:26:07] Picture infomations saved to global/fr-FR/history/2024/08/27_fr-FR.md
+[09:26:07] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-08-27 11:26:07.165466+02:00
+[09:26:07] Successful get url: https://www.bing.com/th?id=OHR.YoungCaiman_DE-DE7313829626_UHD.jpg
+[09:26:07] Picture infomations saved to  global/de-DE/README.md
+[09:26:07] Picture infomations saved to global/de-DE/history/2024/08/27_de-DE.md
+[09:26:07] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-08-27 05:26:07.256130-04:00
+[09:26:07] Successful get url: https://www.bing.com/th?id=OHR.YoungCaiman_EN-CA7952630381_UHD.jpg
+[09:26:07] Picture infomations saved to  global/en-CA/README.md
+[09:26:07] Picture infomations saved to global/en-CA/history/2024/08/28_en-CA.md
+[09:26:07] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-08-27 10:26:07.358102+01:00
+[09:26:07] Successful get url: https://www.bing.com/th?id=OHR.YoungCaiman_EN-GB2726345456_UHD.jpg
+[09:26:07] Picture infomations saved to  global/en-GB/README.md
+[09:26:07] Picture infomations saved to global/en-GB/history/2024/08/27_en-GB.md
+[09:26:07] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-08-27 11:26:07.486828+02:00
+[09:26:07] Successful get url: https://www.bing.com/th?id=OHR.LagoMisurina_IT-IT4702658331_UHD.jpg
+[09:26:07] Picture infomations saved to  global/it-IT/README.md
+[09:26:07] Picture infomations saved to global/it-IT/history/2024/08/27_it-IT.md
+[09:26:07] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-08-27 11:26:07.596733+02:00
+[09:26:07] Successful get url: https://www.bing.com/th?id=OHR.YoungCaiman_ES-ES2920526153_UHD.jpg
+[09:26:07] Picture infomations saved to  global/es-ES/README.md
+[09:26:07] Picture infomations saved to global/es-ES/history/2024/08/27_es-ES.md
+[09:26:07] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-08-27 05:26:07.699736-04:00
+[09:26:07] Successful get url: https://www.bing.com/th?id=OHR.YoungCaiman_FR-CA6707841847_UHD.jpg
+[09:26:07] Picture infomations saved to  global/fr-CA/README.md
+[09:26:07] Picture infomations saved to global/fr-CA/history/2024/08/28_fr-CA.md
+Program exit at 09:26:07
