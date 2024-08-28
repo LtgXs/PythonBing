@@ -6,9 +6,9 @@
 ||*Copyright: Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)*
 ||
 |||
-|2024-08-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ParalympicsParis_JA-JP5348404269_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParalympicsParis_JA-JP5348404269_UHD.jpg)|
-||*Copyright: サクレ・クール寺院, フランス パリ (© Tuul & Bruno Morandi/Getty Images)*
+|2024-08-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CastellfollitSpain_JA-JP7179605635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastellfollitSpain_JA-JP7179605635_UHD.jpg)|
+||*Copyright: カステルフォリット・デ・ラ・ロカ, スペイン カタルーニャ州 (© Eloi_Omella/Getty Images)*
 ||
 |||
 |2024-08-28|**Region: en-IN**||
