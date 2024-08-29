@@ -6,9 +6,9 @@
 ||*Copyright: Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2024-08-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CastellfollitSpain_JA-JP7179605635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastellfollitSpain_JA-JP7179605635_UHD.jpg)|
-||*Copyright: カステルフォリット・デ・ラ・ロカ, スペイン カタルーニャ州 (© Eloi_Omella/Getty Images)*
+|2024-08-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WhaleSharkDay_JA-JP6933929150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhaleSharkDay_JA-JP6933929150_UHD.jpg)|
+||*Copyright: チェンデラワシ湾のジンベエザメ, インドネシア (© Andy Lerner/Tandem Stills + Motion)*
 ||
 |||
 |2024-08-29|**Region: en-IN**||
