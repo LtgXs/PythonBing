@@ -1,0 +1,60 @@
+
+Program started at 09:27:18
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az570-490
+Processor Type: x86_64
+Python Version: 3.12.5
+Python Interpreter Name: CPython
+[09:27:18] Start geting CN Bing Wallpaper
+[09:27:18] Successful get url: https://www.bing.com/th?id=OHR.CastellfollitSpain_ZH-CN2990517626_UHD.jpg
+[09:27:18] Image saved to img/background.jpg
+[09:27:18] Info saved to README.md
+[09:27:18] Image saved to history/2024/08/29.md
+[09:27:18] Start geting global Bing Wallpaper, region=en-US, local time is 2024-08-29 05:27:18.688620-04:00
+[09:27:18] Successful get url: https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg
+[09:27:18] Picture infomations saved to  global/en-US/README.md
+[09:27:18] Picture infomations saved to global/en-US/history/2024/08/30_en-US.md
+[09:27:18] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-08-29 18:27:18.857460+09:00
+[09:27:18] Successful get url: https://www.bing.com/th?id=OHR.CastellfollitSpain_JA-JP7179605635_UHD.jpg
+[09:27:19] Picture infomations saved to  global/ja-JP/README.md
+[09:27:19] Picture infomations saved to global/ja-JP/history/2024/08/29_ja-JP.md
+[09:27:19] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-08-29 14:57:19.029291+05:30
+[09:27:19] Successful get url: https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-IN0193235815_UHD.jpg
+[09:27:19] Picture infomations saved to  global/en-IN/README.md
+[09:27:19] Picture infomations saved to global/en-IN/history/2024/08/29_en-IN.md
+[09:27:19] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-08-29 06:27:19.208300-03:00
+[09:27:19] Successful get url: https://www.bing.com/th?id=OHR.CastellfollitSpain_PT-BR4036017391_UHD.jpg
+[09:27:19] Picture infomations saved to  global/pt-BR/README.md
+[09:27:19] Picture infomations saved to global/pt-BR/history/2024/08/30_pt-BR.md
+[09:27:19] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-08-29 11:27:19.372188+02:00
+[09:27:19] Successful get url: https://www.bing.com/th?id=OHR.CastellfollitSpain_FR-FR5347167823_UHD.jpg
+[09:27:19] Picture infomations saved to  global/fr-FR/README.md
+[09:27:19] Picture infomations saved to global/fr-FR/history/2024/08/29_fr-FR.md
+[09:27:19] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-08-29 11:27:19.526317+02:00
+[09:27:19] Successful get url: https://www.bing.com/th?id=OHR.CastellfollitSpain_DE-DE7979269591_UHD.jpg
+[09:27:19] Picture infomations saved to  global/de-DE/README.md
+[09:27:19] Picture infomations saved to global/de-DE/history/2024/08/29_de-DE.md
+[09:27:19] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-08-29 05:27:19.687609-04:00
+[09:27:19] Successful get url: https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-CA7493953677_UHD.jpg
+[09:27:19] Picture infomations saved to  global/en-CA/README.md
+[09:27:19] Picture infomations saved to global/en-CA/history/2024/08/30_en-CA.md
+[09:27:19] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-08-29 10:27:19.839818+01:00
+[09:27:19] Successful get url: https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-GB3934726824_UHD.jpg
+[09:27:19] Picture infomations saved to  global/en-GB/README.md
+[09:27:19] Picture infomations saved to global/en-GB/history/2024/08/29_en-GB.md
+[09:27:19] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-08-29 11:27:19.986530+02:00
+[09:27:20] Successful get url: https://www.bing.com/th?id=OHR.CastellfollitSpain_IT-IT5915189187_UHD.jpg
+[09:27:20] Picture infomations saved to  global/it-IT/README.md
+[09:27:20] Picture infomations saved to global/it-IT/history/2024/08/29_it-IT.md
+[09:27:20] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-08-29 11:27:20.143050+02:00
+[09:27:20] Successful get url: https://www.bing.com/th?id=OHR.CastellfollitSpain_ES-ES3608395320_UHD.jpg
+[09:27:20] Picture infomations saved to  global/es-ES/README.md
+[09:27:20] Picture infomations saved to global/es-ES/history/2024/08/29_es-ES.md
+[09:27:20] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-08-29 05:27:20.291071-04:00
+[09:27:20] Successful get url: https://www.bing.com/th?id=OHR.CastellfollitSpain_FR-CA4493934035_UHD.jpg
+[09:27:20] Picture infomations saved to  global/fr-CA/README.md
+[09:27:20] Picture infomations saved to global/fr-CA/history/2024/08/30_fr-CA.md
+Program exit at 09:27:20

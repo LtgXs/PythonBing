@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-08-29|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg)|
-||*Copyright: Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)*
+|2024-08-30|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg)|
+||*Copyright: Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)*
 ||
 |||
 |2024-08-29|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: カステルフォリット・デ・ラ・ロカ, スペイン カタルーニャ州 (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2024-08-28|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ParalympicsParis_EN-IN0481603176_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParalympicsParis_EN-IN0481603176_UHD.jpg)|
-||*Copyright: Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)*
+|2024-08-29|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-IN0193235815_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-IN0193235815_UHD.jpg)|
+||*Copyright: Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2024-08-29|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ParalympicsParis_PT-BR3706012931_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParalympicsParis_PT-BR3706012931_UHD.jpg)|
-||*Copyright: Montmartre e a Basílica de Sacré-Cœur, Paris, França (© Tuul & Bruno Morandi/Getty Images)*
+|2024-08-30|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CastellfollitSpain_PT-BR4036017391_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastellfollitSpain_PT-BR4036017391_UHD.jpg)|
+||*Copyright: Castellfollit de la Roca, Catalunha, Espanha (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2024-08-28|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PontNeuf_FR-FR7590326569_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PontNeuf_FR-FR7590326569_UHD.jpg)|
-||*Copyright: Pont Neuf sur la Seine, Paris, France (© f11photo/Getty Images)*
+|2024-08-29|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CastellfollitSpain_FR-FR5347167823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastellfollitSpain_FR-FR5347167823_UHD.jpg)|
+||*Copyright: Castellfollit de la Roca, Catalogne, Espagne (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2024-08-28|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ParalympicsParis_DE-DE3278467124_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParalympicsParis_DE-DE3278467124_UHD.jpg)|
-||*Copyright: Montmartre und Sacre Cœur, Paris, Frankreich (© Tuul & Bruno Morandi/Getty Images)*
+|2024-08-29|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CastellfollitSpain_DE-DE7979269591_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastellfollitSpain_DE-DE7979269591_UHD.jpg)|
+||*Copyright: Castellfollit de la Roca, Katalonien, Spanien (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2024-08-29|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ParalympicsParis_EN-CA3661228731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParalympicsParis_EN-CA3661228731_UHD.jpg)|
-||*Copyright: Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)*
+|2024-08-30|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-CA7493953677_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-CA7493953677_UHD.jpg)|
+||*Copyright: Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2024-08-28|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ParalympicsParis_EN-GB7216458209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParalympicsParis_EN-GB7216458209_UHD.jpg)|
-||*Copyright: Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)*
+|2024-08-29|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-GB3934726824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-GB3934726824_UHD.jpg)|
+||*Copyright: Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2024-08-28|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ParalympicsParis_IT-IT4851305254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParalympicsParis_IT-IT4851305254_UHD.jpg)|
-||*Copyright: Montmartre e Sacro Cuore, Parigi, Francia (© Tuul & Bruno Morandi/Getty Images)*
+|2024-08-29|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CastellfollitSpain_IT-IT5915189187_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastellfollitSpain_IT-IT5915189187_UHD.jpg)|
+||*Copyright: Castellfollit de la Roca, Catalogna, Spagna (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2024-08-28|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ParalympicsParis_ES-ES7310525546_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParalympicsParis_ES-ES7310525546_UHD.jpg)|
-||*Copyright: Montmartre y Basílica del Sagrado Corazón, París, Francia (© Tuul & Bruno Morandi/Getty Images)*
+|2024-08-29|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CastellfollitSpain_ES-ES3608395320_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastellfollitSpain_ES-ES3608395320_UHD.jpg)|
+||*Copyright: Castellfollit de la Roca, Cataluña (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2024-08-29|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ParalympicsParis_FR-CA9935510604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParalympicsParis_FR-CA9935510604_UHD.jpg)|
-||*Copyright: Basilique du Sacré-Cœur de Montmartre, Paris, France (© Tuul & Bruno Morandi/Getty Images)*
+|2024-08-30|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CastellfollitSpain_FR-CA4493934035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastellfollitSpain_FR-CA4493934035_UHD.jpg)|
+||*Copyright: Castellfollit de la Roca, Catalogne, Espagne (© Eloi_Omella/Getty Images)*
 ||
 |||
 
