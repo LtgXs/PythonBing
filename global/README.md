@@ -6,9 +6,9 @@
 ||*Copyright: A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)*
 ||
 |||
-|2024-08-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WhaleSharkDay_JA-JP6933929150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhaleSharkDay_JA-JP6933929150_UHD.jpg)|
-||*Copyright: チェンデラワシ湾のジンベエザメ, インドネシア (© Andy Lerner/Tandem Stills + Motion)*
+|2024-08-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DjanetAlgeria_JA-JP6784692273_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DjanetAlgeria_JA-JP6784692273_UHD.jpg)|
+||*Copyright: タッシリ・ナジェール, アルジェリア (© Airpano/Amazing Aerial Agency)*
 ||
 |||
 |2024-08-30|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2024-08-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WhaleSharkDay_IT-IT0919967624_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhaleSharkDay_IT-IT0919967624_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.WhaleSharkDay_IT-IT1918299181_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhaleSharkDay_IT-IT1918299181_UHD.jpg)|
 ||*Copyright: Uno squalo balena nella baia di Cenderawasih, Papua occidentale, Indonesia (© Andy Lerner/Tandem Stills + Motion)*
 ||
 |||

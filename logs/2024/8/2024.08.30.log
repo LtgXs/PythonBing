@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:09] Picture infomations saved to  global/fr-CA/README.md
 [09:27:09] Picture infomations saved to global/fr-CA/history/2024/08/31_fr-CA.md
 Program exit at 09:27:09
+
+Program started at 16:13:12
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1249-433
+Processor Type: x86_64
+Python Version: 3.12.5
+Python Interpreter Name: CPython
+[16:13:12] Start geting CN Bing Wallpaper
+[16:13:12] Successful get url: https://www.bing.com/th?id=OHR.DjanetAlgeria_ZH-CN3458706695_UHD.jpg
+[16:13:12] Image saved to img/background.jpg
+[16:13:12] Info saved to README.md
+[16:13:12] Image saved to history/2024/08/31.md
+[16:13:12] Start geting global Bing Wallpaper, region=en-US, local time is 2024-08-30 12:13:12.996141-04:00
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg
+[16:13:13] Picture infomations saved to  global/en-US/README.md
+[16:13:13] Picture infomations saved to global/en-US/history/2024/08/31_en-US.md
+[16:13:13] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-08-31 01:13:13.154273+09:00
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.DjanetAlgeria_JA-JP6784692273_UHD.jpg
+[16:13:13] Picture infomations saved to  global/ja-JP/README.md
+[16:13:13] Picture infomations saved to global/ja-JP/history/2024/08/31_ja-JP.md
+[16:13:13] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-08-30 21:43:13.309026+05:30
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.WhaleSharkDay_EN-IN1617510782_UHD.jpg
+[16:13:13] Picture infomations saved to  global/en-IN/README.md
+[16:13:13] Picture infomations saved to global/en-IN/history/2024/08/30_en-IN.md
+[16:13:13] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-08-30 13:13:13.469752-03:00
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.WhaleSharkDay_PT-BR4441364252_UHD.jpg
+[16:13:13] Picture infomations saved to  global/pt-BR/README.md
+[16:13:13] Picture infomations saved to global/pt-BR/history/2024/08/31_pt-BR.md
+[16:13:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-08-30 18:13:13.659670+02:00
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.WhaleSharkDay_FR-FR7922497271_UHD.jpg
+[16:13:13] Picture infomations saved to  global/fr-FR/README.md
+[16:13:13] Picture infomations saved to global/fr-FR/history/2024/08/30_fr-FR.md
+[16:13:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-08-30 18:13:13.810711+02:00
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.WhaleSharkDay_DE-DE9045925984_UHD.jpg
+[16:13:13] Picture infomations saved to  global/de-DE/README.md
+[16:13:13] Picture infomations saved to global/de-DE/history/2024/08/30_de-DE.md
+[16:13:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-08-30 12:13:13.968813-04:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.WhaleSharkDay_EN-CA7348725715_UHD.jpg
+[16:13:14] Picture infomations saved to  global/en-CA/README.md
+[16:13:14] Picture infomations saved to global/en-CA/history/2024/08/31_en-CA.md
+[16:13:14] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-08-30 17:13:14.128821+01:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.WhaleSharkDay_EN-GB4536568745_UHD.jpg
+[16:13:14] Picture infomations saved to  global/en-GB/README.md
+[16:13:14] Picture infomations saved to global/en-GB/history/2024/08/30_en-GB.md
+[16:13:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-08-30 18:13:14.311953+02:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.WhaleSharkDay_IT-IT1918299181_UHD.jpg
+[16:13:14] Picture infomations saved to  global/it-IT/README.md
+[16:13:14] Picture infomations saved to global/it-IT/history/2024/08/30_it-IT.md
+[16:13:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-08-30 18:13:14.461245+02:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.WhaleSharkDay_ES-ES3843560533_UHD.jpg
+[16:13:14] Picture infomations saved to  global/es-ES/README.md
+[16:13:14] Picture infomations saved to global/es-ES/history/2024/08/30_es-ES.md
+[16:13:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-08-30 12:13:14.607743-04:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.WhaleSharkDay_FR-CA4814145075_UHD.jpg
+[16:13:14] Picture infomations saved to  global/fr-CA/README.md
+[16:13:14] Picture infomations saved to global/fr-CA/history/2024/08/31_fr-CA.md
+Program exit at 16:13:14
