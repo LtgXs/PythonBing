@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:25:20] Picture infomations saved to  global/fr-CA/README.md
 [09:25:20] Picture infomations saved to global/fr-CA/history/2024/09/02_fr-CA.md
 Program exit at 09:25:20
+
+Program started at 16:13:12
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az566-770
+Processor Type: x86_64
+Python Version: 3.12.5
+Python Interpreter Name: CPython
+[16:13:12] Start geting CN Bing Wallpaper
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg
+[16:13:13] Image saved to img/background.jpg
+[16:13:13] Info saved to README.md
+[16:13:13] Image saved to history/2024/09/02.md
+[16:13:13] Start geting global Bing Wallpaper, region=en-US, local time is 2024-09-01 12:13:13.157160-04:00
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg
+[16:13:13] Picture infomations saved to  global/en-US/README.md
+[16:13:13] Picture infomations saved to global/en-US/history/2024/09/02_en-US.md
+[16:13:13] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-09-02 01:13:13.341269+09:00
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.BuracodasAraras_JA-JP6532536495_UHD.jpg
+[16:13:13] Picture infomations saved to  global/ja-JP/README.md
+[16:13:13] Picture infomations saved to global/ja-JP/history/2024/09/02_ja-JP.md
+[16:13:13] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-09-01 21:43:13.478313+05:30
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.ThamesLondon_EN-IN2201451554_UHD.jpg
+[16:13:13] Picture infomations saved to  global/en-IN/README.md
+[16:13:13] Picture infomations saved to global/en-IN/history/2024/09/01_en-IN.md
+[16:13:13] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-09-01 13:13:13.630716-03:00
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.ThamesLondon_PT-BR5304149458_UHD.jpg
+[16:13:13] Picture infomations saved to  global/pt-BR/README.md
+[16:13:13] Picture infomations saved to global/pt-BR/history/2024/09/02_pt-BR.md
+[16:13:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-09-01 18:13:13.776436+02:00
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.ThamesLondon_FR-FR8520495131_UHD.jpg
+[16:13:13] Picture infomations saved to  global/fr-FR/README.md
+[16:13:13] Picture infomations saved to global/fr-FR/history/2024/09/01_fr-FR.md
+[16:13:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-09-01 18:13:13.909696+02:00
+[16:13:13] Successful get url: https://www.bing.com/th?id=OHR.ThamesLondon_DE-DE0223400196_UHD.jpg
+[16:13:14] Picture infomations saved to  global/de-DE/README.md
+[16:13:14] Picture infomations saved to global/de-DE/history/2024/09/01_de-DE.md
+[16:13:14] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-09-01 12:13:14.072540-04:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.ThamesLondon_EN-CA7037142112_UHD.jpg
+[16:13:14] Picture infomations saved to  global/en-CA/README.md
+[16:13:14] Picture infomations saved to global/en-CA/history/2024/09/02_en-CA.md
+[16:13:14] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-09-01 17:13:14.222423+01:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.ThamesLondon_EN-GB5554427883_UHD.jpg
+[16:13:14] Picture infomations saved to  global/en-GB/README.md
+[16:13:14] Picture infomations saved to global/en-GB/history/2024/09/01_en-GB.md
+[16:13:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-09-01 18:13:14.357845+02:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_UHD.jpg
+[16:13:14] Picture infomations saved to  global/it-IT/README.md
+[16:13:14] Picture infomations saved to global/it-IT/history/2024/09/01_it-IT.md
+[16:13:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-09-01 18:13:14.529171+02:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.ThamesLondon_ES-ES4307363719_UHD.jpg
+[16:13:14] Picture infomations saved to  global/es-ES/README.md
+[16:13:14] Picture infomations saved to global/es-ES/history/2024/09/01_es-ES.md
+[16:13:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-09-01 12:13:14.669360-04:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.ThamesLondon_FR-CA6880655442_UHD.jpg
+[16:13:14] Picture infomations saved to  global/fr-CA/README.md
+[16:13:14] Picture infomations saved to global/fr-CA/history/2024/09/02_fr-CA.md
+Program exit at 16:13:14
