@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-09-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg)|
-||*Copyright: Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)*
+|2024-09-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg)|
+||*Copyright: River Thames, London, England (© Puthipong Worasaran/Getty Images)*
 ||
 |||
 |2024-09-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: テムズ川 , イギリス ロンドン (© Puthipong Worasaran/Getty Images)*
 ||
 |||
-|2024-08-31|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-IN1880956214_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-IN1880956214_UHD.jpg)|
-||*Copyright: Rock formations and sand dunes in the Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)*
+|2024-09-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ThamesLondon_EN-IN2201451554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThamesLondon_EN-IN2201451554_UHD.jpg)|
+||*Copyright: River Thames, London, England (© Puthipong Worasaran/Getty Images)*
 ||
 |||
-|2024-09-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DjanetAlgeria_PT-BR4680900903_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DjanetAlgeria_PT-BR4680900903_UHD.jpg)|
-||*Copyright: Formações rochosas e dunas de areia no Saara, Djanet, Argélia (© Airpano/Amazing Aerial Agency)*
+|2024-09-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ThamesLondon_PT-BR5304149458_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThamesLondon_PT-BR5304149458_UHD.jpg)|
+||*Copyright: Rio Tâmisa, Londres, Inglaterra (© Puthipong Worasaran/Getty Images)*
 ||
 |||
-|2024-08-31|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DjanetAlgeria_FR-FR8225562823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DjanetAlgeria_FR-FR8225562823_UHD.jpg)|
-||*Copyright: Formations rocheuses et dunes de sable dans le Sahara, Djanet, Algérie (© Airpano/Amazing Aerial Agency)*
+|2024-09-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ThamesLondon_FR-FR8520495131_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThamesLondon_FR-FR8520495131_UHD.jpg)|
+||*Copyright: Tamise, Londres, Angleterre (© Puthipong Worasaran/Getty Images)*
 ||
 |||
-|2024-08-31|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.DjanetAlgeria_DE-DE9446379437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DjanetAlgeria_DE-DE9446379437_UHD.jpg)|
-||*Copyright: Felsformationen in der Sahara, Djanet, Algerien (© Airpano/Amazing Aerial Agency)*
+|2024-09-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ThamesLondon_DE-DE0223400196_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThamesLondon_DE-DE0223400196_UHD.jpg)|
+||*Copyright: Themse, London, England (© Puthipong Worasaran/Getty Images)*
 ||
 |||
-|2024-09-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-CA7183702479_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-CA7183702479_UHD.jpg)|
-||*Copyright: Rock formations and sand dunes in the Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)*
+|2024-09-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ThamesLondon_EN-CA7037142112_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThamesLondon_EN-CA7037142112_UHD.jpg)|
+||*Copyright: River Thames, London, England (© Puthipong Worasaran/Getty Images)*
 ||
 |||
-|2024-08-31|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-GB4963001163_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-GB4963001163_UHD.jpg)|
-||*Copyright: Rock formations and sand dunes in the Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)*
+|2024-09-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ThamesLondon_EN-GB5554427883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThamesLondon_EN-GB5554427883_UHD.jpg)|
+||*Copyright: River Thames, London, England (© Puthipong Worasaran/Getty Images)*
 ||
 |||
-|2024-08-31|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DjanetAlgeria_IT-IT6738833644_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DjanetAlgeria_IT-IT6738833644_UHD.jpg)|
-||*Copyright: Formazioni rocciose e dune di sabbia nel Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)*
+|2024-09-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_UHD.jpg)|
+||*Copyright: Regata Storica, Venezia, Veneto, Italia (© Peter Zelei Images/Moment/Getty Images)*
 ||
 |||
-|2024-08-31|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.DjanetAlgeria_ES-ES4121297619_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DjanetAlgeria_ES-ES4121297619_UHD.jpg)|
-||*Copyright: Formaciones rocosas y dunas en el Sáhara, Djanet, Argelia (© Airpano/Amazing Aerial Agency)*
+|2024-09-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ThamesLondon_ES-ES4307363719_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThamesLondon_ES-ES4307363719_UHD.jpg)|
+||*Copyright: Río Támesis, Londres, Inglaterra (© Puthipong Worasaran/Getty Images)*
 ||
 |||
-|2024-09-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DjanetAlgeria_FR-CA6148111657_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DjanetAlgeria_FR-CA6148111657_UHD.jpg)|
-||*Copyright: Formations rocheuses et dunes de sable dans le Sahara, Djanet, Algérie (© Airpano/Amazing Aerial Agency)*
+|2024-09-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ThamesLondon_FR-CA6880655442_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThamesLondon_FR-CA6880655442_UHD.jpg)|
+||*Copyright: Tamise, Londres, Angleterre (© Puthipong Worasaran/Getty Images)*
 ||
 |||
 
