@@ -6,9 +6,9 @@
 ||*Copyright: 'Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy)*
 ||
 |||
-|2024-09-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BuracodasAraras_JA-JP6532536495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BuracodasAraras_JA-JP6532536495_UHD.jpg)|
-||*Copyright: ベニコンゴウインコ, ブラジル マットグロッソ・ド・スル州 (© Ellen Goff/Danita Delimont)*
+|2024-09-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AlpineLakes_JA-JP6421290140_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineLakes_JA-JP6421290140_UHD.jpg)|
+||*Copyright: エンチャントメンツ地域にある高山湖,米国 ワシントン州 (© Mitch Pittman/Tandem Stills + Motion)*
 ||
 |||
 |2024-09-02|**Region: en-IN**||
