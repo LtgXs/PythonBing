@@ -6,9 +6,9 @@
 ||*Copyright: Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)*
 ||
 |||
-|2024-09-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AlpineLakes_JA-JP6421290140_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineLakes_JA-JP6421290140_UHD.jpg)|
-||*Copyright: エンチャントメンツ地域にある高山湖,米国 ワシントン州 (© Mitch Pittman/Tandem Stills + Motion)*
+|2024-09-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DuskyOwls_JA-JP6308123307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DuskyOwls_JA-JP6308123307_UHD.jpg)|
+||*Copyright: ウスグロワシミミズク, パキスタン (© zahoor salmi/Getty Images)*
 ||
 |||
 |2024-09-03|**Region: en-IN**||
