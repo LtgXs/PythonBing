@@ -6,9 +6,9 @@
 ||*Copyright: Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)*
 ||
 |||
-|2024-09-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DuskyOwls_JA-JP6308123307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DuskyOwls_JA-JP6308123307_UHD.jpg)|
-||*Copyright: ウスグロワシミミズク, パキスタン (© zahoor salmi/Getty Images)*
+|2024-09-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TIFF2024_JA-JP6140620870_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TIFF2024_JA-JP6140620870_UHD.jpg)|
+||*Copyright: 湖越しに見えるトロントの高層ビル, カナダ オンタリオ州 (© Roberto Machado Noa/Getty Images)*
 ||
 |||
 |2024-09-04|**Region: en-IN**||
