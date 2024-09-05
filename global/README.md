@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-09-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg)|
-||*Copyright: Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)*
+|2024-09-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg)|
+||*Copyright: Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)*
 ||
 |||
 |2024-09-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 湖越しに見えるトロントの高層ビル, カナダ オンタリオ州 (© Roberto Machado Noa/Getty Images)*
 ||
 |||
-|2024-09-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.DuskyOwls_EN-IN2854960722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DuskyOwls_EN-IN2854960722_UHD.jpg)|
-||*Copyright: Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)*
+|2024-09-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TIFF2024_EN-IN3142242773_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TIFF2024_EN-IN3142242773_UHD.jpg)|
+||*Copyright: Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)*
 ||
 |||
-|2024-09-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DuskyOwls_PT-BR7151379971_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DuskyOwls_PT-BR7151379971_UHD.jpg)|
-||*Copyright: Bufos-sombrios, Paquistão (© zahoor salmi/Getty Images)*
+|2024-09-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.RioNegroSolimoes_PT-BR3787535047_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RioNegroSolimoes_PT-BR3787535047_UHD.jpg)|
+||*Copyright: Confluência do Rio Negro e do Amazonas, Manaus, estado do Amazonas (© robertharding/Shutterstock)*
 ||
 |||
-|2024-09-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DuskyOwls_FR-FR0673543438_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DuskyOwls_FR-FR0673543438_UHD.jpg)|
-||*Copyright: Grand-duc de Coromandel, Pakistan (© zahoor salmi/Getty Images)*
+|2024-09-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TIFF2024_FR-FR7898842904_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TIFF2024_FR-FR7898842904_UHD.jpg)|
+||*Copyright: Vue de la ville de Toronto depuis le lac Ontario, Canada (© Roberto Machado Noa/Getty Images)*
 ||
 |||
-|2024-09-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.DuskyOwls_DE-DE1251666767_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DuskyOwls_DE-DE1251666767_UHD.jpg)|
-||*Copyright: Koromandeluhus, Pakistan (© zahoor salmi/Getty Images)*
+|2024-09-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TIFF2024_DE-DE1559469948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TIFF2024_DE-DE1559469948_UHD.jpg)|
+||*Copyright: Skyline der Stadt Toronto am Ontariosee, Kanada (© Roberto Machado Noa/Getty Images)*
 ||
 |||
-|2024-09-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DuskyOwls_EN-CA5479353295_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DuskyOwls_EN-CA5479353295_UHD.jpg)|
-||*Copyright: Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)*
+|2024-09-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TIFF2024_EN-CA6309124110_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TIFF2024_EN-CA6309124110_UHD.jpg)|
+||*Copyright: Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)*
 ||
 |||
-|2024-09-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DuskyOwls_EN-GB7904137343_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DuskyOwls_EN-GB7904137343_UHD.jpg)|
-||*Copyright: Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)*
+|2024-09-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TIFF2024_EN-GB9508001268_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TIFF2024_EN-GB9508001268_UHD.jpg)|
+||*Copyright: Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)*
 ||
 |||
-|2024-09-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DuskyOwls_IT-IT6847895557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DuskyOwls_IT-IT6847895557_UHD.jpg)|
-||*Copyright: Gufo reale bruno, Pakistan (© zahoor salmi/Getty Images)*
+|2024-09-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TIFF2024_IT-IT6965030073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TIFF2024_IT-IT6965030073_UHD.jpg)|
+||*Copyright: Lo skyline di Toronto visto dal lago Ontario, Canada (© Roberto Machado Noa/Getty Images)*
 ||
 |||
-|2024-09-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LaVueltaJerez_ES-ES7910099478_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaVueltaJerez_ES-ES7910099478_UHD.jpg)|
-||*Copyright: La Vuelta en Peñas Blancas, Estepona, Málaga (© Tim de Waele/Staff/Getty Images)*
+|2024-09-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.DuskyOwls_ES-ES4835891419_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DuskyOwls_ES-ES4835891419_UHD.jpg)|
+||*Copyright: Búho de Coromandel, Pakistán (© zahoor salmi/Getty Images)*
 ||
 |||
-|2024-09-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DuskyOwls_FR-CA2960210318_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DuskyOwls_FR-CA2960210318_UHD.jpg)|
-||*Copyright: Grand-duc de Coromandel, Pakistan (© zahoor salmi/Getty Images)*
+|2024-09-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TIFF2024_FR-CA3341034241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TIFF2024_FR-CA3341034241_UHD.jpg)|
+||*Copyright: Vue de la ville de Toronto depuis le lac Ontario, Canada (© Roberto Machado Noa/Getty Images)*
 ||
 |||
 
