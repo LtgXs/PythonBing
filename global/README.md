@@ -6,9 +6,9 @@
 ||*Copyright: Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)*
 ||
 |||
-|2024-09-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GujoHachiman_JA-JP9477689405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GujoHachiman_JA-JP9477689405_UHD.jpg)|
-||*Copyright: 郡上八幡城, 岐阜県 郡上市 (© ta2funk ito/500px/Getty Images)*
+|2024-09-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SantaCruzHummer_JA-JP9857439185_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCruzHummer_JA-JP9857439185_UHD.jpg)|
+||*Copyright: アンナハチドリ, 米国 カリフォルニア州 (© yhelfman/Getty Images)*
 ||
 |||
 |2024-09-06|**Region: en-IN**||
