@@ -1,0 +1,60 @@
+
+Program started at 09:28:11
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1446-539
+Processor Type: x86_64
+Python Version: 3.12.5
+Python Interpreter Name: CPython
+[09:28:11] Start geting CN Bing Wallpaper
+[09:28:11] Successful get url: https://www.bing.com/th?id=OHR.GlenariffPark_ZH-CN4667558707_UHD.jpg
+[09:28:11] Image saved to img/background.jpg
+[09:28:11] Info saved to README.md
+[09:28:11] Image saved to history/2024/09/06.md
+[09:28:11] Start geting global Bing Wallpaper, region=en-US, local time is 2024-09-06 05:28:11.645183-04:00
+[09:28:11] Successful get url: https://www.bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg
+[09:28:11] Picture infomations saved to  global/en-US/README.md
+[09:28:11] Picture infomations saved to global/en-US/history/2024/09/07_en-US.md
+[09:28:11] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-09-06 18:28:11.872351+09:00
+[09:28:11] Successful get url: https://www.bing.com/th?id=OHR.GujoHachiman_JA-JP9477689405_UHD.jpg
+[09:28:12] Picture infomations saved to  global/ja-JP/README.md
+[09:28:12] Picture infomations saved to global/ja-JP/history/2024/09/06_ja-JP.md
+[09:28:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-09-06 14:58:12.055460+05:30
+[09:28:12] Successful get url: https://www.bing.com/th?id=OHR.GlenariffPark_EN-IN6316433789_UHD.jpg
+[09:28:12] Picture infomations saved to  global/en-IN/README.md
+[09:28:12] Picture infomations saved to global/en-IN/history/2024/09/06_en-IN.md
+[09:28:12] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-09-06 06:28:12.170524-03:00
+[09:28:12] Successful get url: https://www.bing.com/th?id=OHR.GlenariffPark_PT-BR3219733810_UHD.jpg
+[09:28:12] Picture infomations saved to  global/pt-BR/README.md
+[09:28:12] Picture infomations saved to global/pt-BR/history/2024/09/07_pt-BR.md
+[09:28:12] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-09-06 11:28:12.299773+02:00
+[09:28:12] Successful get url: https://www.bing.com/th?id=OHR.AmericanDeauvilleFestival_FR-FR8608848742_UHD.jpg
+[09:28:12] Picture infomations saved to  global/fr-FR/README.md
+[09:28:12] Picture infomations saved to global/fr-FR/history/2024/09/06_fr-FR.md
+[09:28:12] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-09-06 11:28:12.467127+02:00
+[09:28:12] Successful get url: https://www.bing.com/th?id=OHR.GlenariffPark_DE-DE2551024301_UHD.jpg
+[09:28:12] Picture infomations saved to  global/de-DE/README.md
+[09:28:12] Picture infomations saved to global/de-DE/history/2024/09/06_de-DE.md
+[09:28:12] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-09-06 05:28:12.673208-04:00
+[09:28:12] Successful get url: https://www.bing.com/th?id=OHR.GlenariffPark_EN-CA9582120244_UHD.jpg
+[09:28:12] Picture infomations saved to  global/en-CA/README.md
+[09:28:12] Picture infomations saved to global/en-CA/history/2024/09/07_en-CA.md
+[09:28:12] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-09-06 10:28:12.881454+01:00
+[09:28:12] Successful get url: https://www.bing.com/th?id=OHR.GlenariffPark_EN-GB6116680821_UHD.jpg
+[09:28:12] Picture infomations saved to  global/en-GB/README.md
+[09:28:12] Picture infomations saved to global/en-GB/history/2024/09/06_en-GB.md
+[09:28:12] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-09-06 11:28:12.986299+02:00
+[09:28:13] Successful get url: https://www.bing.com/th?id=OHR.GlenariffPark_IT-IT4424875545_UHD.jpg
+[09:28:13] Picture infomations saved to  global/it-IT/README.md
+[09:28:13] Picture infomations saved to global/it-IT/history/2024/09/06_it-IT.md
+[09:28:13] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-09-06 11:28:13.207464+02:00
+[09:28:13] Successful get url: https://www.bing.com/th?id=OHR.GlenariffPark_ES-ES4997383293_UHD.jpg
+[09:28:13] Picture infomations saved to  global/es-ES/README.md
+[09:28:13] Picture infomations saved to global/es-ES/history/2024/09/06_es-ES.md
+[09:28:13] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-09-06 05:28:13.318537-04:00
+[09:28:13] Successful get url: https://www.bing.com/th?id=OHR.GlenariffPark_FR-CA4962368501_UHD.jpg
+[09:28:13] Picture infomations saved to  global/fr-CA/README.md
+[09:28:13] Picture infomations saved to global/fr-CA/history/2024/09/07_fr-CA.md
+Program exit at 09:28:13
