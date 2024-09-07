@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:25:32] Picture infomations saved to  global/fr-CA/README.md
 [09:25:32] Picture infomations saved to global/fr-CA/history/2024/09/08_fr-CA.md
 Program exit at 09:25:32
+
+Program started at 16:12:12
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az891-642
+Processor Type: x86_64
+Python Version: 3.12.5
+Python Interpreter Name: CPython
+[16:12:12] Start geting CN Bing Wallpaper
+[16:12:12] Successful get url: https://www.bing.com/th?id=OHR.Canigou_ZH-CN6145410455_UHD.jpg
+[16:12:12] Image saved to img/background.jpg
+[16:12:12] Info saved to README.md
+[16:12:12] Image saved to history/2024/09/08.md
+[16:12:12] Start geting global Bing Wallpaper, region=en-US, local time is 2024-09-07 12:12:12.239010-04:00
+[16:12:12] Successful get url: https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg
+[16:12:12] Picture infomations saved to  global/en-US/README.md
+[16:12:12] Picture infomations saved to global/en-US/history/2024/09/08_en-US.md
+[16:12:12] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-09-08 01:12:12.542325+09:00
+[16:12:12] Successful get url: https://www.bing.com/th?id=OHR.StockholmLibrary_JA-JP1538658617_UHD.jpg
+[16:12:12] Picture infomations saved to  global/ja-JP/README.md
+[16:12:12] Picture infomations saved to global/ja-JP/history/2024/09/08_ja-JP.md
+[16:12:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-09-07 21:42:12.717294+05:30
+[16:12:12] Successful get url: https://www.bing.com/th?id=OHR.GaneshaIdol_EN-IN0545844303_UHD.jpg
+[16:12:12] Picture infomations saved to  global/en-IN/README.md
+[16:12:12] Picture infomations saved to global/en-IN/history/2024/09/07_en-IN.md
+[16:12:12] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-09-07 13:12:12.890909-03:00
+[16:12:12] Successful get url: https://www.bing.com/th?id=OHR.IndependenciaBrasil_PT-BR0488632296_UHD.jpg
+[16:12:13] Picture infomations saved to  global/pt-BR/README.md
+[16:12:13] Picture infomations saved to global/pt-BR/history/2024/09/08_pt-BR.md
+[16:12:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-09-07 18:12:13.077509+02:00
+[16:12:13] Successful get url: https://www.bing.com/th?id=OHR.SantaCruzHummer_FR-FR8767186794_UHD.jpg
+[16:12:13] Picture infomations saved to  global/fr-FR/README.md
+[16:12:13] Picture infomations saved to global/fr-FR/history/2024/09/07_fr-FR.md
+[16:12:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-09-07 18:12:13.178353+02:00
+[16:12:13] Successful get url: https://www.bing.com/th?id=OHR.SantaCruzHummer_DE-DE2867503109_UHD.jpg
+[16:12:13] Picture infomations saved to  global/de-DE/README.md
+[16:12:13] Picture infomations saved to global/de-DE/history/2024/09/07_de-DE.md
+[16:12:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-09-07 12:12:13.390448-04:00
+[16:12:13] Successful get url: https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-CA9641643755_UHD.jpg
+[16:12:13] Picture infomations saved to  global/en-CA/README.md
+[16:12:13] Picture infomations saved to global/en-CA/history/2024/09/08_en-CA.md
+[16:12:13] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-09-07 17:12:13.539939+01:00
+[16:12:13] Successful get url: https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-GB3567004947_UHD.jpg
+[16:12:13] Picture infomations saved to  global/en-GB/README.md
+[16:12:13] Picture infomations saved to global/en-GB/history/2024/09/07_en-GB.md
+[16:12:13] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-09-07 18:12:13.729018+02:00
+[16:12:13] Successful get url: https://www.bing.com/th?id=OHR.FestaRificolona_IT-IT8489654769_UHD.jpg
+[16:12:13] Picture infomations saved to  global/it-IT/README.md
+[16:12:13] Picture infomations saved to global/it-IT/history/2024/09/07_it-IT.md
+[16:12:13] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-09-07 18:12:13.954581+02:00
+[16:12:14] Successful get url: https://www.bing.com/th?id=OHR.SantaCruzHummer_ES-ES5411382953_UHD.jpg
+[16:12:14] Picture infomations saved to  global/es-ES/README.md
+[16:12:14] Picture infomations saved to global/es-ES/history/2024/09/07_es-ES.md
+[16:12:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-09-07 12:12:14.160090-04:00
+[16:12:14] Successful get url: https://www.bing.com/th?id=OHR.SantaCruzHummer_FR-CA6245951052_UHD.jpg
+[16:12:14] Picture infomations saved to  global/fr-CA/README.md
+[16:12:14] Picture infomations saved to global/fr-CA/history/2024/09/08_fr-CA.md
+Program exit at 16:12:14
