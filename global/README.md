@@ -6,9 +6,9 @@
 ||*Copyright: Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)*
 ||
 |||
-|2024-09-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IguazuRainbow_JA-JP1767821337_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IguazuRainbow_JA-JP1767821337_UHD.jpg)|
-||*Copyright: イグアスの滝, ブラジルとアルゼンチン (© AirPano LLC/Amazing Aerial Agency)*
+|2024-09-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RapaNuiSunrise_JA-JP2119516419_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RapaNuiSunrise_JA-JP2119516419_UHD.jpg)|
+||*Copyright: ラパ・ヌイ国立公園, チリ (© Piriya Photography/Getty Images)*
 ||
 |||
 |2024-09-09|**Region: en-IN**||
