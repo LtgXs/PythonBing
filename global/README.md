@@ -6,9 +6,9 @@
 ||*Copyright: Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)*
 ||
 |||
-|2024-09-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RapaNuiSunrise_JA-JP2119516419_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RapaNuiSunrise_JA-JP2119516419_UHD.jpg)|
-||*Copyright: ラパ・ヌイ国立公園, チリ (© Piriya Photography/Getty Images)*
+|2024-09-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BridgeLisbon_JA-JP2510109081_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BridgeLisbon_JA-JP2510109081_UHD.jpg)|
+||*Copyright: ヴァスコ・ダ・ガマ橋, ポルトガル (© Achim Thomae/Getty Images)*
 ||
 |||
 |2024-09-10|**Region: en-IN**||
