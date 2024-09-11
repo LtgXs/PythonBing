@@ -6,9 +6,9 @@
 ||*Copyright: National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Sime/eStock Photo)*
 ||
 |||
-|2024-09-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BridgeLisbon_JA-JP2510109081_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BridgeLisbon_JA-JP2510109081_UHD.jpg)|
-||*Copyright: ヴァスコ・ダ・ガマ橋, ポルトガル (© Achim Thomae/Getty Images)*
+|2024-09-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DolphinReunion_JA-JP2887031776_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolphinReunion_JA-JP2887031776_UHD.jpg)|
+||*Copyright: レユニオン島付近のイルカの群れ, フランス (© Joost van Uffelen/Shutterstock)*
 ||
 |||
 |2024-09-11|**Region: en-IN**||
