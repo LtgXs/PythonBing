@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-09-11|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg)|
-||*Copyright: Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)*
+|2024-09-12|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg)|
+||*Copyright: National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Sime/eStock Photo)*
 ||
 |||
 |2024-09-11|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ヴァスコ・ダ・ガマ橋, ポルトガル (© Achim Thomae/Getty Images)*
 ||
 |||
-|2024-09-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-IN7053832547_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-IN7053832547_UHD.jpg)|
-||*Copyright: Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)*
+|2024-09-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AkshardhamDL_EN-IN1118148366_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AkshardhamDL_EN-IN1118148366_UHD.jpg)|
+||*Copyright: Akshardham Temple at night (© Sean3810/iStock/Getty Images Plus/Getty Images)*
 ||
 |||
-|2024-09-11|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BridgeLisbon_PT-BR7212632262_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BridgeLisbon_PT-BR7212632262_UHD.jpg)|
-||*Copyright: Ponte Vasco da Gama, Lisboa, Portugal (© Achim Thomae/Getty Images)*
+|2024-09-12|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.EltzCastle_PT-BR6770414719_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EltzCastle_PT-BR6770414719_UHD.jpg)|
+||*Copyright: Castelo de Eltz, Alemanha (© Allard Schager/Alamy)*
 ||
 |||
-|2024-09-10|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BridgeLisbon_FR-FR9704936027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BridgeLisbon_FR-FR9704936027_UHD.jpg)|
-||*Copyright: Pont Vasco de Gama, Lisbonne, Portugal (© Achim Thomae/Getty Images)*
+|2024-09-11|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.EltzCastle_FR-FR9929668826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EltzCastle_FR-FR9929668826_UHD.jpg)|
+||*Copyright: Château d'Eltz, Allemagne (© Allard Schager/Alamy)*
 ||
 |||
-|2024-09-10|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BridgeLisbon_DE-DE9301189449_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BridgeLisbon_DE-DE9301189449_UHD.jpg)|
-||*Copyright: Ponte Vasco da Gama, Lissabon, Portugal (© Achim Thomae/Getty Images)*
+|2024-09-11|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.EltzCastle_DE-DE9717708394_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EltzCastle_DE-DE9717708394_UHD.jpg)|
+||*Copyright: Burg Eltz, Wierschem, Rheinland-Pfalz (© Allard Schager/Alamy)*
 ||
 |||
-|2024-09-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-CA9816290154_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-CA9816290154_UHD.jpg)|
-||*Copyright: Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)*
+|2024-09-12|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.RedFoxMother_EN-CA4368684954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFoxMother_EN-CA4368684954_UHD.jpg)|
+||*Copyright: Red fox mother kissing her baby in Canada (© pchoui/Getty Images)*
 ||
 |||
-|2024-09-10|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-GB4169546026_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-GB4169546026_UHD.jpg)|
-||*Copyright: Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)*
+|2024-09-11|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-GB5251109643_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-GB5251109643_UHD.jpg)|
+||*Copyright: Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)*
 ||
 |||
-|2024-09-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BridgeLisbon_IT-IT5048654702_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BridgeLisbon_IT-IT5048654702_UHD.jpg)|
-||*Copyright: Ponte Vasco da Gama, Lisbona, Portogallo (© Achim Thomae/Getty Images)*
+|2024-09-11|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_IT-IT5208415155_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_IT-IT5208415155_UHD.jpg)|
+||*Copyright: Arco Magno, San Nicola Arcella, Calabria, Italia (© Alessio de Cicco/Moment/Getty Images)*
 ||
 |||
-|2024-09-10|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BridgeLisbon_ES-ES6670987033_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BridgeLisbon_ES-ES6670987033_UHD.jpg)|
-||*Copyright: Puente Vasco da Gama, Lisboa, Portugal (© Achim Thomae/Getty Images)*
+|2024-09-11|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BarcelonaCataloniaDay_ES-ES6860997474_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarcelonaCataloniaDay_ES-ES6860997474_UHD.jpg)|
+||*Copyright: Balcón del Palau de la Música, Barcelona, Cataluña (© Jacek Sopotnicki/Alamy Stock Photo)*
 ||
 |||
-|2024-09-11|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BridgeLisbon_FR-CA6897114231_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BridgeLisbon_FR-CA6897114231_UHD.jpg)|
-||*Copyright: Pont Vasco de Gama, Lisbonne, Portugal (© Achim Thomae/Getty Images)*
+|2024-09-12|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.RedFoxMother_FR-CA7012903357_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFoxMother_FR-CA7012903357_UHD.jpg)|
+||*Copyright: Mère renard roux câlinant son renardeau, Canada (© pchoui/Getty Images)*
 ||
 |||
 
