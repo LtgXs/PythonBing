@@ -1,0 +1,60 @@
+
+Program started at 09:26:46
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1153-522
+Processor Type: x86_64
+Python Version: 3.12.5
+Python Interpreter Name: CPython
+[09:26:46] Start geting CN Bing Wallpaper
+[09:26:46] Successful get url: https://www.bing.com/th?id=OHR.DolphinReunion_ZH-CN7681290861_UHD.jpg
+[09:26:46] Image saved to img/background.jpg
+[09:26:46] Info saved to README.md
+[09:26:46] Image saved to history/2024/09/12.md
+[09:26:46] Start geting global Bing Wallpaper, region=en-US, local time is 2024-09-12 05:26:46.841172-04:00
+[09:26:46] Successful get url: https://www.bing.com/th?id=OHR.DolphinReunion_EN-US4598756391_UHD.jpg
+[09:26:47] Picture infomations saved to  global/en-US/README.md
+[09:26:47] Picture infomations saved to global/en-US/history/2024/09/13_en-US.md
+[09:26:47] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-09-12 18:26:47.017324+09:00
+[09:26:47] Successful get url: https://www.bing.com/th?id=OHR.DolphinReunion_JA-JP2887031776_UHD.jpg
+[09:26:47] Picture infomations saved to  global/ja-JP/README.md
+[09:26:47] Picture infomations saved to global/ja-JP/history/2024/09/12_ja-JP.md
+[09:26:47] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-09-12 14:56:47.175549+05:30
+[09:26:47] Successful get url: https://www.bing.com/th?id=OHR.DolphinReunion_EN-IN7368159128_UHD.jpg
+[09:26:47] Picture infomations saved to  global/en-IN/README.md
+[09:26:47] Picture infomations saved to global/en-IN/history/2024/09/12_en-IN.md
+[09:26:47] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-09-12 06:26:47.409288-03:00
+[09:26:47] Successful get url: https://www.bing.com/th?id=OHR.DolphinReunion_PT-BR8025622682_UHD.jpg
+[09:26:47] Picture infomations saved to  global/pt-BR/README.md
+[09:26:47] Picture infomations saved to global/pt-BR/history/2024/09/13_pt-BR.md
+[09:26:47] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-09-12 11:26:47.634270+02:00
+[09:26:47] Successful get url: https://www.bing.com/th?id=OHR.DolphinReunion_FR-FR0184396607_UHD.jpg
+[09:26:47] Picture infomations saved to  global/fr-FR/README.md
+[09:26:47] Picture infomations saved to global/fr-FR/history/2024/09/12_fr-FR.md
+[09:26:47] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-09-12 11:26:47.797502+02:00
+[09:26:47] Successful get url: https://www.bing.com/th?id=OHR.DolphinReunion_DE-DE0331198216_UHD.jpg
+[09:26:48] Picture infomations saved to  global/de-DE/README.md
+[09:26:48] Picture infomations saved to global/de-DE/history/2024/09/12_de-DE.md
+[09:26:48] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-09-12 05:26:48.027462-04:00
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.DolphinReunion_EN-CA0142031840_UHD.jpg
+[09:26:48] Picture infomations saved to  global/en-CA/README.md
+[09:26:48] Picture infomations saved to global/en-CA/history/2024/09/13_en-CA.md
+[09:26:48] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-09-12 10:26:48.145835+01:00
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.DolphinReunion_EN-GB4332225660_UHD.jpg
+[09:26:48] Picture infomations saved to  global/en-GB/README.md
+[09:26:48] Picture infomations saved to global/en-GB/history/2024/09/12_en-GB.md
+[09:26:48] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-09-12 11:26:48.283255+02:00
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.DolphinReunion_IT-IT1645140668_UHD.jpg
+[09:26:48] Picture infomations saved to  global/it-IT/README.md
+[09:26:48] Picture infomations saved to global/it-IT/history/2024/09/12_it-IT.md
+[09:26:48] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-09-12 11:26:48.447229+02:00
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.DolphinReunion_ES-ES7087981116_UHD.jpg
+[09:26:48] Picture infomations saved to  global/es-ES/README.md
+[09:26:48] Picture infomations saved to global/es-ES/history/2024/09/12_es-ES.md
+[09:26:48] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-09-12 05:26:48.959907-04:00
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.DolphinReunion_FR-CA7174667169_UHD.jpg
+[09:26:49] Picture infomations saved to  global/fr-CA/README.md
+[09:26:49] Picture infomations saved to global/fr-CA/history/2024/09/13_fr-CA.md
+Program exit at 09:26:49
