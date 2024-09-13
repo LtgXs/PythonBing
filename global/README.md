@@ -6,9 +6,9 @@
 ||*Copyright: Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images)*
 ||
 |||
-|2024-09-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PointReyes_JA-JP3284759959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyes_JA-JP3284759959_UHD.jpg)|
-||*Copyright: ポイント・レイズ国定公園, 米国 カリフォルニア州 (© RMB Images/Photography by Robert Bowman/Getty Images)*
+|2024-09-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CosmosDay2024_JA-JP3703662081_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CosmosDay2024_JA-JP3703662081_UHD.jpg)|
+||*Copyright: 国営ひたち海浜公園, 茨城県 ひたちなか市 (© ThePonAek/Shutterstock)*
 ||
 |||
 |2024-09-13|**Region: en-IN**||
