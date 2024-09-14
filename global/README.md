@@ -6,9 +6,9 @@
 ||*Copyright: Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)*
 ||
 |||
-|2024-09-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CosmosDay2024_JA-JP3703662081_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CosmosDay2024_JA-JP3703662081_UHD.jpg)|
-||*Copyright: 国営ひたち海浜公園, 茨城県 ひたちなか市 (© ThePonAek/Shutterstock)*
+|2024-09-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SunriseWallabies_JA-JP3900865129_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunriseWallabies_JA-JP3900865129_UHD.jpg)|
+||*Copyright: ワラビー, オーストラリア ノーザンテリトリー (© Jeremy Woodhouse/Getty Images)*
 ||
 |||
 |2024-09-14|**Region: en-IN**||
