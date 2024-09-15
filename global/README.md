@@ -6,9 +6,9 @@
 ||*Copyright: Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)*
 ||
 |||
-|2024-09-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SunriseWallabies_JA-JP3900865129_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunriseWallabies_JA-JP3900865129_UHD.jpg)|
-||*Copyright: ワラビー, オーストラリア ノーザンテリトリー (© Jeremy Woodhouse/Getty Images)*
+|2024-09-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OwlNew2024_JA-JP4084004440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OwlNew2024_JA-JP4084004440_UHD.jpg)|
+||*Copyright: 枝の先に止まっているフクロウ (© rockptarmigan/Getty Images)*
 ||
 |||
 |2024-09-15|**Region: en-IN**||
