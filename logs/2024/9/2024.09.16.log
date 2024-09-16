@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:31:27] Picture infomations saved to  global/fr-CA/README.md
 [09:31:27] Picture infomations saved to global/fr-CA/history/2024/09/17_fr-CA.md
 Program exit at 09:31:27
+
+Program started at 16:13:46
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1269-121
+Processor Type: x86_64
+Python Version: 3.12.5
+Python Interpreter Name: CPython
+[16:13:46] Start geting CN Bing Wallpaper
+[16:13:46] Successful get url: https://www.bing.com/th?id=OHR.MidAutumnFestival2024_ZH-CN9096556094_UHD.jpg
+[16:13:46] Image saved to img/background.jpg
+[16:13:46] Info saved to README.md
+[16:13:46] Image saved to history/2024/09/17.md
+[16:13:46] Start geting global Bing Wallpaper, region=en-US, local time is 2024-09-16 12:13:46.654793-04:00
+[16:13:46] Successful get url: https://www.bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_UHD.jpg
+[16:13:47] Picture infomations saved to  global/en-US/README.md
+[16:13:47] Picture infomations saved to global/en-US/history/2024/09/17_en-US.md
+[16:13:47] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-09-17 01:13:47.102837+09:00
+[16:13:47] Successful get url: https://www.bing.com/th?id=OHR.MidAutumnSingapore_JA-JP4830170317_UHD.jpg
+[16:13:47] Picture infomations saved to  global/ja-JP/README.md
+[16:13:47] Picture infomations saved to global/ja-JP/history/2024/09/17_ja-JP.md
+[16:13:47] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-09-16 21:43:47.516691+05:30
+[16:13:47] Successful get url: https://www.bing.com/th?id=OHR.SunriseWallabies_EN-IN8975505298_UHD.jpg
+[16:13:47] Picture infomations saved to  global/en-IN/README.md
+[16:13:47] Picture infomations saved to global/en-IN/history/2024/09/16_en-IN.md
+[16:13:47] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-09-16 13:13:47.939672-03:00
+[16:13:48] Successful get url: https://www.bing.com/th?id=OHR.SunriseWallabies_PT-BR5783760197_UHD.jpg
+[16:13:48] Picture infomations saved to  global/pt-BR/README.md
+[16:13:48] Picture infomations saved to global/pt-BR/history/2024/09/17_pt-BR.md
+[16:13:48] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-09-16 18:13:48.674870+02:00
+[16:13:48] Successful get url: https://www.bing.com/th?id=OHR.SunriseWallabies_FR-FR1107245942_UHD.jpg
+[16:13:49] Picture infomations saved to  global/fr-FR/README.md
+[16:13:49] Picture infomations saved to global/fr-FR/history/2024/09/16_fr-FR.md
+[16:13:49] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-09-16 18:13:49.041319+02:00
+[16:13:49] Successful get url: https://www.bing.com/th?id=OHR.SunriseWallabies_DE-DE3495794966_UHD.jpg
+[16:13:49] Picture infomations saved to  global/de-DE/README.md
+[16:13:49] Picture infomations saved to global/de-DE/history/2024/09/16_de-DE.md
+[16:13:49] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-09-16 12:13:49.640820-04:00
+[16:13:49] Successful get url: https://www.bing.com/th?id=OHR.SunriseWallabies_EN-CA0408938056_UHD.jpg
+[16:13:50] Picture infomations saved to  global/en-CA/README.md
+[16:13:50] Picture infomations saved to global/en-CA/history/2024/09/17_en-CA.md
+[16:13:50] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-09-16 17:13:50.055834+01:00
+[16:13:50] Successful get url: https://www.bing.com/th?id=OHR.SunriseWallabies_EN-GB4531988184_UHD.jpg
+[16:13:50] Picture infomations saved to  global/en-GB/README.md
+[16:13:50] Picture infomations saved to global/en-GB/history/2024/09/16_en-GB.md
+[16:13:50] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-09-16 18:13:50.433194+02:00
+[16:13:50] Successful get url: https://www.bing.com/th?id=OHR.SunriseWallabies_IT-IT9509274340_UHD.jpg
+[16:13:51] Picture infomations saved to  global/it-IT/README.md
+[16:13:51] Picture infomations saved to global/it-IT/history/2024/09/16_it-IT.md
+[16:13:51] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-09-16 18:13:51.066184+02:00
+[16:13:51] Successful get url: https://www.bing.com/th?id=OHR.WindsurferWorldChampionships_ES-ES7763895554_UHD.jpg
+[16:13:51] Picture infomations saved to  global/es-ES/README.md
+[16:13:51] Picture infomations saved to global/es-ES/history/2024/09/16_es-ES.md
+[16:13:51] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-09-16 12:13:51.499482-04:00
+[16:13:51] Successful get url: https://www.bing.com/th?id=OHR.SunriseWallabies_FR-CA9047656013_UHD.jpg
+[16:13:51] Picture infomations saved to  global/fr-CA/README.md
+[16:13:51] Picture infomations saved to global/fr-CA/history/2024/09/17_fr-CA.md
+Program exit at 16:13:51

@@ -6,9 +6,9 @@
 ||*Copyright: Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)*
 ||
 |||
-|2024-09-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OwlNew2024_JA-JP4084004440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OwlNew2024_JA-JP4084004440_UHD.jpg)|
-||*Copyright: 枝の先に止まっているフクロウ (© rockptarmigan/Getty Images)*
+|2024-09-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MidAutumnSingapore_JA-JP4830170317_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumnSingapore_JA-JP4830170317_UHD.jpg)|
+||*Copyright: ガーデンズ・バイ・ザ・ベイ, シンガポール (© Victor Y. Zhuo/Alamy)*
 ||
 |||
 |2024-09-16|**Region: en-IN**||
