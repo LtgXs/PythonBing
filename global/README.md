@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-09-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BalboaPark_EN-US5050015037_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalboaPark_EN-US5050015037_UHD.jpg)|
-||*Copyright: Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)*
+|2024-09-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_UHD.jpg)|
+||*Copyright: Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)*
 ||
 |||
 |2024-09-16|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 枝の先に止まっているフクロウ (© rockptarmigan/Getty Images)*
 ||
 |||
-|2024-09-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-IN8727128444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-IN8727128444_UHD.jpg)|
-||*Copyright: Anna's hummingbird, Santa Cruz, California, USA (© yhelfman/Getty Images)*
+|2024-09-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SunriseWallabies_EN-IN8975505298_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunriseWallabies_EN-IN8975505298_UHD.jpg)|
+||*Copyright: Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)*
 ||
 |||
-|2024-09-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_PT-BR8530214805_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_PT-BR8530214805_UHD.jpg)|
-||*Copyright: Praia de Arco Magno, Calábria, Itália (© Alessio de Cicco/Getty Images)*
+|2024-09-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SunriseWallabies_PT-BR5783760197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunriseWallabies_PT-BR5783760197_UHD.jpg)|
+||*Copyright: Wallabies ao nascer do sol, Adelaide River, Território do Norte, Austrália (© Jeremy Woodhouse/Getty Images)*
 ||
 |||
-|2024-09-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_FR-FR0822253215_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_FR-FR0822253215_UHD.jpg)|
-||*Copyright: Plage d'Arco Magno, Calabre, Italie (© Alessio de Cicco/Getty Images)*
+|2024-09-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SunriseWallabies_FR-FR1107245942_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunriseWallabies_FR-FR1107245942_UHD.jpg)|
+||*Copyright: Wallabies au lever du soleil, rivière Adelaïde, Territoire du Nord, Australie (© Jeremy Woodhouse/Getty Images)*
 ||
 |||
-|2024-09-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_DE-DE2438358101_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_DE-DE2438358101_UHD.jpg)|
-||*Copyright: Strand von Arco Magno, Kalabrien, Italien (© Alessio de Cicco/Getty Images)*
+|2024-09-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SunriseWallabies_DE-DE3495794966_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunriseWallabies_DE-DE3495794966_UHD.jpg)|
+||*Copyright: Wallabys bei Sonnenaufgang, Adelaide River, Nordterritorium, Australien (© Jeremy Woodhouse/Getty Images)*
 ||
 |||
-|2024-09-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.OuimetCanyon_EN-CA0342113199_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OuimetCanyon_EN-CA0342113199_UHD.jpg)|
-||*Copyright: Ouimet Canyon near Thunder Bay (© plainpicture/Design Pics/Susan Dykstra)*
+|2024-09-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SunriseWallabies_EN-CA0408938056_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunriseWallabies_EN-CA0408938056_UHD.jpg)|
+||*Copyright: Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)*
 ||
 |||
-|2024-09-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.StockholmLibrary_EN-GB4478334058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StockholmLibrary_EN-GB4478334058_UHD.jpg)|
-||*Copyright: Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy Stock Photo)*
+|2024-09-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SunriseWallabies_EN-GB4531988184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunriseWallabies_EN-GB4531988184_UHD.jpg)|
+||*Copyright: Wallabies, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)*
 ||
 |||
-|2024-09-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.EltzCastle_IT-IT5701748731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EltzCastle_IT-IT5701748731_UHD.jpg)|
-||*Copyright: Castello di Eltz, Renania-Palatinato, Germania (© Allard Schager/Alamy)*
+|2024-09-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SunriseWallabies_IT-IT9509274340_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunriseWallabies_IT-IT9509274340_UHD.jpg)|
+||*Copyright: Wallaby all'alba, fiume Adelaide, Territorio del Nord, Australia (© Jeremy Woodhouse/Getty Images)*
 ||
 |||
-|2024-09-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_ES-ES7527352353_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_ES-ES7527352353_UHD.jpg)|
-||*Copyright: Playa de Arcomagno, Calabria, Italia (© Alessio de Cicco/Getty Images)*
+|2024-09-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.WindsurferWorldChampionships_ES-ES7763895554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WindsurferWorldChampionships_ES-ES7763895554_UHD.jpg)|
+||*Copyright: Atardecer en la Costa de la Muerte, Galicia (© Brian Maudsley/Alamy Stock Photo)*
 ||
 |||
-|2024-09-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.OuimetCanyon_FR-CA8880869125_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OuimetCanyon_FR-CA8880869125_UHD.jpg)|
-||*Copyright: Canyon Ouimet près de Thunder Bay, Ontario (© plainpicture/Design Pics/Susan Dykstra)*
+|2024-09-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SunriseWallabies_FR-CA9047656013_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunriseWallabies_FR-CA9047656013_UHD.jpg)|
+||*Copyright: Wallabies au lever du soleil, rivière Adelaïde, Territoire du Nord, Australie (© Jeremy Woodhouse/Getty Images)*
 ||
 |||
 
