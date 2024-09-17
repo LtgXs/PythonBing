@@ -6,9 +6,9 @@
 ||*Copyright: Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy)*
 ||
 |||
-|2024-09-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MidAutumnSingapore_JA-JP4830170317_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumnSingapore_JA-JP4830170317_UHD.jpg)|
-||*Copyright: ガーデンズ・バイ・ザ・ベイ, シンガポール (© Victor Y. Zhuo/Alamy)*
+|2024-09-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GlenariffPark_JA-JP5014364740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlenariffPark_JA-JP5014364740_UHD.jpg)|
+||*Copyright: グレナリフ森林公園, 北アイルランド アントリム県 (© Dawid K Photography/Shutterstock)*
 ||
 |||
 |2024-09-17|**Region: en-IN**||
