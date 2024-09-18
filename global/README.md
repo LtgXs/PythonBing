@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-09-18|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg)|
-||*Copyright: Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy)*
+|2024-09-19|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg)|
+||*Copyright: Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)*
 ||
 |||
 |2024-09-18|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: グレナリフ森林公園, 北アイルランド アントリム県 (© Dawid K Photography/Shutterstock)*
 ||
 |||
-|2024-09-17|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-IN2546411546_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-IN2546411546_UHD.jpg)|
-||*Copyright: Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy Stock Photo)*
+|2024-09-18|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GujoHachiman_EN-IN9529217040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GujoHachiman_EN-IN9529217040_UHD.jpg)|
+||*Copyright: Gujō Hachiman Castle, Gifu Prefecture, Japan (© ta2funk ito/500px/Getty Images)*
 ||
 |||
-|2024-09-18|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MidAutumnSingapore_PT-BR5635809883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumnSingapore_PT-BR5635809883_UHD.jpg)|
-||*Copyright: Festival de Meio do Outono em Jardins da Baía, Singapura (© Victor Y. Zhuo/Alamy)*
+|2024-09-19|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GujoHachiman_PT-BR3323033809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GujoHachiman_PT-BR3323033809_UHD.jpg)|
+||*Copyright: Castelo Gujō Hachiman, Prefeitura de Gifu, Japão (© ta2funk ito/500px/Getty Images)*
 ||
 |||
-|2024-09-17|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.NordicWalkingDay_FR-FR1412128674_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NordicWalkingDay_FR-FR1412128674_UHD.jpg)|
-||*Copyright: Vue aérienne de champs géométriques de raisin, vignoble en Alsace (© Alexander Sorokopud/Alamy Stock Photo)*
+|2024-09-18|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GujoHachiman_FR-FR1605630102_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GujoHachiman_FR-FR1605630102_UHD.jpg)|
+||*Copyright: Château de Gujō Hachiman, préfecture de Gifu, Japon (© ta2funk ito/500px/Getty Images)*
 ||
 |||
-|2024-09-17|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MidAutumnSingapore_DE-DE3783759874_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumnSingapore_DE-DE3783759874_UHD.jpg)|
-||*Copyright: Mondfest in den Gardens by the Bay, Singapur (© Victor Y. Zhuo/Alamy Stock Photo)*
+|2024-09-18|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GujoHachiman_DE-DE4199645559_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GujoHachiman_DE-DE4199645559_UHD.jpg)|
+||*Copyright: Burg Gujō Hachiman, Präfektur Gifu, Japan (© ta2funk ito/500px/Getty Images)*
 ||
 |||
-|2024-09-18|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-CA0460554285_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-CA0460554285_UHD.jpg)|
-||*Copyright: Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy Stock Photo)*
+|2024-09-19|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GujoHachiman_EN-CA0510851106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GujoHachiman_EN-CA0510851106_UHD.jpg)|
+||*Copyright: Gujō Hachiman Castle, Gifu Prefecture, Japan (© ta2funk ito/500px/Getty Images)*
 ||
 |||
-|2024-09-17|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-GB4580876082_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-GB4580876082_UHD.jpg)|
-||*Copyright: Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy Stock Photo)*
+|2024-09-18|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GujoHachiman_EN-GB4635188314_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GujoHachiman_EN-GB4635188314_UHD.jpg)|
+||*Copyright: Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)*
 ||
 |||
-|2024-09-17|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MidAutumnSingapore_IT-IT4809811002_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumnSingapore_IT-IT4809811002_UHD.jpg)|
-||*Copyright: Festa di metà autunno a Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy Stock Photo)*
+|2024-09-18|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GujoHachiman_IT-IT6052956461_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GujoHachiman_IT-IT6052956461_UHD.jpg)|
+||*Copyright: Castello di Gujō Hachiman, Prefettura di Gifu, Giappone (© ta2funk ito/500px/Getty Images)*
 ||
 |||
-|2024-09-17|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MidAutumnSingapore_ES-ES8766898553_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumnSingapore_ES-ES8766898553_UHD.jpg)|
-||*Copyright: Festival del Medio Otoño en los Jardines de la Bahía, Singapur (© Victor Y. Zhuo/Alamy)*
+|2024-09-18|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GujoHachiman_ES-ES8969263083_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GujoHachiman_ES-ES8969263083_UHD.jpg)|
+||*Copyright: Castillo de Gujō Hachiman, prefectura de Gifu, Japón (© ta2funk ito/500px/Getty Images)*
 ||
 |||
-|2024-09-18|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MidAutumnSingapore_FR-CA9250185650_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumnSingapore_FR-CA9250185650_UHD.jpg)|
-||*Copyright: Fête de la mi-automne aux Jardins de la baie, Singapour (© Victor Y. Zhuo/Alamy)*
+|2024-09-19|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GujoHachiman_FR-CA9471618597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GujoHachiman_FR-CA9471618597_UHD.jpg)|
+||*Copyright: Château de Gujō Hachiman, préfecture de Gifu, Japon (© ta2funk ito/500px/Getty Images)*
 ||
 |||
 

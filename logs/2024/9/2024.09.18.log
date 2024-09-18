@@ -1,0 +1,60 @@
+
+Program started at 09:28:33
+Operating System Name: Linux
+Operating System Version: #16~22.04.1-Ubuntu SMP Thu Aug 15 21:31:41 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1442-174
+Processor Type: x86_64
+Python Version: 3.12.6
+Python Interpreter Name: CPython
+[09:28:33] Start geting CN Bing Wallpaper
+[09:28:33] Successful get url: https://www.bing.com/th?id=OHR.GujoHachiman_ZH-CN9192289658_UHD.jpg
+[09:28:34] Image saved to img/background.jpg
+[09:28:34] Info saved to README.md
+[09:28:34] Image saved to history/2024/09/18.md
+[09:28:34] Start geting global Bing Wallpaper, region=en-US, local time is 2024-09-18 05:28:34.007261-04:00
+[09:28:34] Successful get url: https://www.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg
+[09:28:34] Picture infomations saved to  global/en-US/README.md
+[09:28:34] Picture infomations saved to global/en-US/history/2024/09/19_en-US.md
+[09:28:34] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-09-18 18:28:34.160009+09:00
+[09:28:34] Successful get url: https://www.bing.com/th?id=OHR.GlenariffPark_JA-JP5014364740_UHD.jpg
+[09:28:34] Picture infomations saved to  global/ja-JP/README.md
+[09:28:34] Picture infomations saved to global/ja-JP/history/2024/09/18_ja-JP.md
+[09:28:34] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-09-18 14:58:34.324494+05:30
+[09:28:34] Successful get url: https://www.bing.com/th?id=OHR.GujoHachiman_EN-IN9529217040_UHD.jpg
+[09:28:34] Picture infomations saved to  global/en-IN/README.md
+[09:28:34] Picture infomations saved to global/en-IN/history/2024/09/18_en-IN.md
+[09:28:34] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-09-18 06:28:34.497020-03:00
+[09:28:34] Successful get url: https://www.bing.com/th?id=OHR.GujoHachiman_PT-BR3323033809_UHD.jpg
+[09:28:34] Picture infomations saved to  global/pt-BR/README.md
+[09:28:34] Picture infomations saved to global/pt-BR/history/2024/09/19_pt-BR.md
+[09:28:34] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-09-18 11:28:34.654197+02:00
+[09:28:34] Successful get url: https://www.bing.com/th?id=OHR.GujoHachiman_FR-FR1605630102_UHD.jpg
+[09:28:34] Picture infomations saved to  global/fr-FR/README.md
+[09:28:34] Picture infomations saved to global/fr-FR/history/2024/09/18_fr-FR.md
+[09:28:34] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-09-18 11:28:34.794925+02:00
+[09:28:34] Successful get url: https://www.bing.com/th?id=OHR.GujoHachiman_DE-DE4199645559_UHD.jpg
+[09:28:34] Picture infomations saved to  global/de-DE/README.md
+[09:28:34] Picture infomations saved to global/de-DE/history/2024/09/18_de-DE.md
+[09:28:34] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-09-18 05:28:34.944328-04:00
+[09:28:34] Successful get url: https://www.bing.com/th?id=OHR.GujoHachiman_EN-CA0510851106_UHD.jpg
+[09:28:35] Picture infomations saved to  global/en-CA/README.md
+[09:28:35] Picture infomations saved to global/en-CA/history/2024/09/19_en-CA.md
+[09:28:35] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-09-18 10:28:35.099595+01:00
+[09:28:35] Successful get url: https://www.bing.com/th?id=OHR.GujoHachiman_EN-GB4635188314_UHD.jpg
+[09:28:35] Picture infomations saved to  global/en-GB/README.md
+[09:28:35] Picture infomations saved to global/en-GB/history/2024/09/18_en-GB.md
+[09:28:35] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-09-18 11:28:35.234123+02:00
+[09:28:35] Successful get url: https://www.bing.com/th?id=OHR.GujoHachiman_IT-IT6052956461_UHD.jpg
+[09:28:35] Picture infomations saved to  global/it-IT/README.md
+[09:28:35] Picture infomations saved to global/it-IT/history/2024/09/18_it-IT.md
+[09:28:35] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-09-18 11:28:35.376075+02:00
+[09:28:35] Successful get url: https://www.bing.com/th?id=OHR.GujoHachiman_ES-ES8969263083_UHD.jpg
+[09:28:35] Picture infomations saved to  global/es-ES/README.md
+[09:28:35] Picture infomations saved to global/es-ES/history/2024/09/18_es-ES.md
+[09:28:35] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-09-18 05:28:35.511057-04:00
+[09:28:35] Successful get url: https://www.bing.com/th?id=OHR.GujoHachiman_FR-CA9471618597_UHD.jpg
+[09:28:35] Picture infomations saved to  global/fr-CA/README.md
+[09:28:35] Picture infomations saved to global/fr-CA/history/2024/09/19_fr-CA.md
+Program exit at 09:28:35
