@@ -6,9 +6,9 @@
 ||*Copyright: Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Images)*
 ||
 |||
-|2024-09-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OcracokeLight_JA-JP0600038027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OcracokeLight_JA-JP0600038027_UHD.jpg)|
-||*Copyright: オクラコーク島,  米国 ノースカロライナ州 (© Chansak Joe/Getty Images)*
+|2024-09-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MunichBeerfest_JA-JP0799044795_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MunichBeerfest_JA-JP0799044795_UHD.jpg)|
+||*Copyright: 夕暮れのテレージエンヴィーゼ, ドイツ バイエルン州 (© AllesSuper21/iStock/Getty Images)*
 ||
 |||
 |2024-09-20|**Region: en-IN**||
