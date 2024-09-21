@@ -1,0 +1,60 @@
+
+Program started at 09:25:05
+Operating System Name: Linux
+Operating System Version: #16~22.04.1-Ubuntu SMP Thu Aug 15 21:31:41 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az564-441
+Processor Type: x86_64
+Python Version: 3.12.6
+Python Interpreter Name: CPython
+[09:25:05] Start geting CN Bing Wallpaper
+[09:25:05] Successful get url: https://www.bing.com/th?id=OHR.MunichBeerfest_ZH-CN0304560562_UHD.jpg
+[09:25:05] Image saved to img/background.jpg
+[09:25:05] Info saved to README.md
+[09:25:05] Image saved to history/2024/09/21.md
+[09:25:05] Start geting global Bing Wallpaper, region=en-US, local time is 2024-09-21 05:25:05.621231-04:00
+[09:25:05] Successful get url: https://www.bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg
+[09:25:05] Picture infomations saved to  global/en-US/README.md
+[09:25:05] Picture infomations saved to global/en-US/history/2024/09/22_en-US.md
+[09:25:05] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-09-21 18:25:05.764702+09:00
+[09:25:05] Successful get url: https://www.bing.com/th?id=OHR.MunichBeerfest_JA-JP0799044795_UHD.jpg
+[09:25:05] Picture infomations saved to  global/ja-JP/README.md
+[09:25:05] Picture infomations saved to global/ja-JP/history/2024/09/21_ja-JP.md
+[09:25:05] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-09-21 14:55:05.936390+05:30
+[09:25:05] Successful get url: https://www.bing.com/th?id=OHR.MunichBeerfest_EN-IN6726777088_UHD.jpg
+[09:25:06] Picture infomations saved to  global/en-IN/README.md
+[09:25:06] Picture infomations saved to global/en-IN/history/2024/09/21_en-IN.md
+[09:25:06] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-09-21 06:25:06.075346-03:00
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.DiadaArvore_PT-BR9942268995_UHD.jpg
+[09:25:06] Picture infomations saved to  global/pt-BR/README.md
+[09:25:06] Picture infomations saved to global/pt-BR/history/2024/09/22_pt-BR.md
+[09:25:06] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-09-21 11:25:06.168286+02:00
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.MunichBeerfest_FR-FR4864726596_UHD.jpg
+[09:25:06] Picture infomations saved to  global/fr-FR/README.md
+[09:25:06] Picture infomations saved to global/fr-FR/history/2024/09/21_fr-FR.md
+[09:25:06] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-09-21 11:25:06.305970+02:00
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.SpatenBeerTent_DE-DE4425745255_UHD.jpg
+[09:25:06] Picture infomations saved to  global/de-DE/README.md
+[09:25:06] Picture infomations saved to global/de-DE/history/2024/09/21_de-DE.md
+[09:25:06] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-09-21 05:25:06.400418-04:00
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.MunichBeerfest_EN-CA0865675708_UHD.jpg
+[09:25:06] Picture infomations saved to  global/en-CA/README.md
+[09:25:06] Picture infomations saved to global/en-CA/history/2024/09/22_en-CA.md
+[09:25:06] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-09-21 10:25:06.505479+01:00
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.MunichBeerfest_EN-GB0671591824_UHD.jpg
+[09:25:06] Picture infomations saved to  global/en-GB/README.md
+[09:25:06] Picture infomations saved to global/en-GB/history/2024/09/21_en-GB.md
+[09:25:06] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-09-21 11:25:06.599774+02:00
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.MunichBeerfest_IT-IT3943225360_UHD.jpg
+[09:25:06] Picture infomations saved to  global/it-IT/README.md
+[09:25:06] Picture infomations saved to global/it-IT/history/2024/09/21_it-IT.md
+[09:25:06] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-09-21 11:25:06.748538+02:00
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.MunichBeerfest_ES-ES5226807539_UHD.jpg
+[09:25:06] Picture infomations saved to  global/es-ES/README.md
+[09:25:06] Picture infomations saved to global/es-ES/history/2024/09/21_es-ES.md
+[09:25:06] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-09-21 05:25:06.840903-04:00
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.MunichBeerfest_FR-CA5538075531_UHD.jpg
+[09:25:06] Picture infomations saved to  global/fr-CA/README.md
+[09:25:06] Picture infomations saved to global/fr-CA/history/2024/09/22_fr-CA.md
+Program exit at 09:25:06
