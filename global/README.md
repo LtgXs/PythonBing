@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-09-22|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg)|
-||*Copyright: Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)*
+|2024-09-23|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_UHD.jpg)|
+||*Copyright: Buttermere, Lake District National Park, England (© Alan Novelli/Alamy)*
 ||
 |||
 |2024-09-22|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 巾着田の彼岸花, 埼玉県 日高市 (© Scirocco340/Shutterstock)*
 ||
 |||
-|2024-09-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MunichBeerfest_EN-IN6726777088_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MunichBeerfest_EN-IN6726777088_UHD.jpg)|
-||*Copyright: Oktoberfest in Munich from a high view at sunset (© AllesSuper21/iStock/Getty Images)*
+|2024-09-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BadaBagh_EN-IN0375946006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BadaBagh_EN-IN0375946006_UHD.jpg)|
+||*Copyright: Bada Bagh complex in Jaisalmer, Rajasthan (© Meinzahn/Getty Images)*
 ||
 |||
-|2024-09-22|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DiadaArvore_PT-BR9942268995_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiadaArvore_PT-BR9942268995_UHD.jpg)|
-||*Copyright: Vista de baixo ângulo de uma árvore com flores cor-de-rosa contra o céu, Distrito Federal (© Bruno Couto via 500px/GettyImages)*
+|2024-09-23|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Primavera_PT-BR5788355112_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Primavera_PT-BR5788355112_UHD.jpg)|
+||*Copyright: Arara-azul em um ipê-rosa durante a estação de floração, Pantanal, Mato Grosso (© Luiz Claudio Marigo/Minden PIctures)*
 ||
 |||
-|2024-09-21|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MunichBeerfest_FR-FR4864726596_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MunichBeerfest_FR-FR4864726596_UHD.jpg)|
-||*Copyright: Panorama sur l’Oktoberfest au coucher du soleil, Munich, Allemagne (© AllesSuper21/iStock/Getty Images)*
+|2024-09-22|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AutumnCumbria_FR-FR5040860299_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnCumbria_FR-FR5040860299_UHD.jpg)|
+||*Copyright: Buttermere, Parc national du Lake District, Angleterre, Royaume-Uni (© Alan Novelli/Alamy)*
 ||
 |||
-|2024-09-21|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SpatenBeerTent_DE-DE4425745255_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpatenBeerTent_DE-DE4425745255_UHD.jpg)|
-||*Copyright: Menschen im „Spaten“-Bierzelt auf dem größten Volksfest der Welt, Oktoberfest 2017, München, Bayern (© FooTToo/Getty Images)*
+|2024-09-22|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AutumnCumbria_DE-DE9036257746_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnCumbria_DE-DE9036257746_UHD.jpg)|
+||*Copyright: Buttermere, Lake District National Park, England, Vereinigtes Königreich (© Alan Novelli/Alamy Stock Photo)*
 ||
 |||
-|2024-09-22|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MunichBeerfest_EN-CA0865675708_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MunichBeerfest_EN-CA0865675708_UHD.jpg)|
-||*Copyright: Oktoberfest in Munich from a high view at sunset (© AllesSuper21/iStock/Getty Images)*
+|2024-09-23|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AutumnCumbria_EN-CA9786205803_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnCumbria_EN-CA9786205803_UHD.jpg)|
+||*Copyright: Buttermere, Lake District National Park, England, United Kingdom (© Alan Novelli/Alamy Stock Photo)*
 ||
 |||
-|2024-09-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MunichBeerfest_EN-GB0671591824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MunichBeerfest_EN-GB0671591824_UHD.jpg)|
-||*Copyright: Oktoberfest in Munich from a high view at sunset (© AllesSuper21/iStock/Getty Images)*
+|2024-09-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AutumnCumbria_EN-GB0937833138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnCumbria_EN-GB0937833138_UHD.jpg)|
+||*Copyright: Buttermere, Lake District National Park, England (© Alan Novelli/Alamy Stock Photo)*
 ||
 |||
-|2024-09-21|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MunichBeerfest_IT-IT3943225360_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MunichBeerfest_IT-IT3943225360_UHD.jpg)|
-||*Copyright: Oktoberfest a Monaco di Baviera, Germania (© AllesSuper21/iStock/Getty Images)*
+|2024-09-22|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AutumnCumbria_IT-IT4193827391_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnCumbria_IT-IT4193827391_UHD.jpg)|
+||*Copyright: Buttermere, Parco Nazionale del Lake District, Inghilterra, Regno Unito (© Alan Novelli/Alamy Stock Photo)*
 ||
 |||
-|2024-09-21|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MunichBeerfest_ES-ES5226807539_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MunichBeerfest_ES-ES5226807539_UHD.jpg)|
-||*Copyright: Oktoberfest en Múnich desde lo alto al atardecer (© AllesSuper21/iStock/Getty Images)*
+|2024-09-22|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AragonAutumnLandscape_ES-ES5440172345_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AragonAutumnLandscape_ES-ES5440172345_UHD.jpg)|
+||*Copyright: Equinoccio de otoño en la Pradera de Ordesa, Huesca (© Susana Guzman/Alamy Stock Photo)*
 ||
 |||
-|2024-09-22|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MunichBeerfest_FR-CA5538075531_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MunichBeerfest_FR-CA5538075531_UHD.jpg)|
-||*Copyright: Panorama sur l’Oktoberfest au coucher du soleil, Munich, Allemagne (© AllesSuper21/iStock/Getty Images)*
+|2024-09-23|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AutumnCumbria_FR-CA8192995525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnCumbria_FR-CA8192995525_UHD.jpg)|
+||*Copyright: Buttermere, Parc national du Lake District, Angleterre, Royaume-Uni (© Alan Novelli/Alamy)*
 ||
 |||
 
