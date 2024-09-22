@@ -6,9 +6,9 @@
 ||*Copyright: Buttermere, Lake District National Park, England (© Alan Novelli/Alamy)*
 ||
 |||
-|2024-09-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RedSpiderlily2024_JA-JP1171609872_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedSpiderlily2024_JA-JP1171609872_UHD.jpg)|
-||*Copyright: 巾着田の彼岸花, 埼玉県 日高市 (© Scirocco340/Shutterstock)*
+|2024-09-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IcebergOtter_JA-JP1353399604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergOtter_JA-JP1353399604_UHD.jpg)|
+||*Copyright: プリンス・ウィリアム湾のラッコ,  米国 アラスカ州 (© Gerald Corsi/Getty Images)*
 ||
 |||
 |2024-09-22|**Region: en-IN**||
