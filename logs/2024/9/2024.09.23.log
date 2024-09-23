@@ -1,0 +1,60 @@
+
+Program started at 09:30:35
+Operating System Name: Linux
+Operating System Version: #16~22.04.1-Ubuntu SMP Thu Aug 15 21:31:41 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1020-822
+Processor Type: x86_64
+Python Version: 3.12.6
+Python Interpreter Name: CPython
+[09:30:35] Start geting CN Bing Wallpaper
+[09:30:35] Successful get url: https://www.bing.com/th?id=OHR.IcebergOtter_ZH-CN0972467238_UHD.jpg
+[09:30:35] Image saved to img/background.jpg
+[09:30:35] Info saved to README.md
+[09:30:35] Image saved to history/2024/09/23.md
+[09:30:35] Start geting global Bing Wallpaper, region=en-US, local time is 2024-09-23 05:30:35.252698-04:00
+[09:30:35] Successful get url: https://www.bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg
+[09:30:35] Picture infomations saved to  global/en-US/README.md
+[09:30:35] Picture infomations saved to global/en-US/history/2024/09/24_en-US.md
+[09:30:35] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-09-23 18:30:35.365795+09:00
+[09:30:35] Successful get url: https://www.bing.com/th?id=OHR.IcebergOtter_JA-JP1353399604_UHD.jpg
+[09:30:35] Picture infomations saved to  global/ja-JP/README.md
+[09:30:35] Picture infomations saved to global/ja-JP/history/2024/09/23_ja-JP.md
+[09:30:35] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-09-23 15:00:35.464965+05:30
+[09:30:35] Successful get url: https://www.bing.com/th?id=OHR.IcebergOtter_EN-IN0982120054_UHD.jpg
+[09:30:35] Picture infomations saved to  global/en-IN/README.md
+[09:30:35] Picture infomations saved to global/en-IN/history/2024/09/23_en-IN.md
+[09:30:35] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-09-23 06:30:35.566584-03:00
+[09:30:35] Successful get url: https://www.bing.com/th?id=OHR.IcebergOtter_PT-BR0553443956_UHD.jpg
+[09:30:35] Picture infomations saved to  global/pt-BR/README.md
+[09:30:35] Picture infomations saved to global/pt-BR/history/2024/09/24_pt-BR.md
+[09:30:35] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-09-23 11:30:35.678312+02:00
+[09:30:35] Successful get url: https://www.bing.com/th?id=OHR.IcebergOtter_FR-FR6372895513_UHD.jpg
+[09:30:35] Picture infomations saved to  global/fr-FR/README.md
+[09:30:35] Picture infomations saved to global/fr-FR/history/2024/09/23_fr-FR.md
+[09:30:35] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-09-23 11:30:35.780461+02:00
+[09:30:35] Successful get url: https://www.bing.com/th?id=OHR.IcebergOtter_DE-DE4856944180_UHD.jpg
+[09:30:35] Picture infomations saved to  global/de-DE/README.md
+[09:30:35] Picture infomations saved to global/de-DE/history/2024/09/23_de-DE.md
+[09:30:35] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-09-23 05:30:35.876223-04:00
+[09:30:35] Successful get url: https://www.bing.com/th?id=OHR.IcebergOtter_EN-CA0060532970_UHD.jpg
+[09:30:35] Picture infomations saved to  global/en-CA/README.md
+[09:30:35] Picture infomations saved to global/en-CA/history/2024/09/24_en-CA.md
+[09:30:35] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-09-23 10:30:35.976269+01:00
+[09:30:36] Successful get url: https://www.bing.com/th?id=OHR.IcebergOtter_EN-GB1302406748_UHD.jpg
+[09:30:36] Picture infomations saved to  global/en-GB/README.md
+[09:30:36] Picture infomations saved to global/en-GB/history/2024/09/23_en-GB.md
+[09:30:36] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-09-23 11:30:36.065576+02:00
+[09:30:36] Successful get url: https://www.bing.com/th?id=OHR.IcebergOtter_IT-IT1022264475_UHD.jpg
+[09:30:36] Picture infomations saved to  global/it-IT/README.md
+[09:30:36] Picture infomations saved to global/it-IT/history/2024/09/23_it-IT.md
+[09:30:36] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-09-23 11:30:36.186059+02:00
+[09:30:36] Successful get url: https://www.bing.com/th?id=OHR.IcebergOtter_ES-ES5963215233_UHD.jpg
+[09:30:36] Picture infomations saved to  global/es-ES/README.md
+[09:30:36] Picture infomations saved to global/es-ES/history/2024/09/23_es-ES.md
+[09:30:36] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-09-23 05:30:36.277344-04:00
+[09:30:36] Successful get url: https://www.bing.com/th?id=OHR.IcebergOtter_FR-CA8578551199_UHD.jpg
+[09:30:36] Picture infomations saved to  global/fr-CA/README.md
+[09:30:36] Picture infomations saved to global/fr-CA/history/2024/09/24_fr-CA.md
+Program exit at 09:30:36
