@@ -1,59 +1,59 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-09-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg)|
-||*Copyright: Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)*
+|2024-09-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg)|
+||*Copyright: Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)*
 ||
 |||
-|2024-09-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IcebergOtter_JA-JP1353399604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergOtter_JA-JP1353399604_UHD.jpg)|
-||*Copyright: プリンス・ウィリアム湾のラッコ,  米国 アラスカ州 (© Gerald Corsi/Getty Images)*
+|2024-09-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_JA-JP1502759780_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_JA-JP1502759780_UHD.jpg)|
+||*Copyright: ヴァトナヨークトル国立公園, アイスランド (© Nopasorn Kowathanakul/Getty Images)*
 ||
 |||
-|2024-09-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.IcebergOtter_EN-IN0982120054_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergOtter_EN-IN0982120054_UHD.jpg)|
-||*Copyright: Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)*
+|2024-09-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-IN1234167290_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-IN1234167290_UHD.jpg)|
+||*Copyright: Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)*
 ||
 |||
-|2024-09-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.IcebergOtter_PT-BR0553443956_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergOtter_PT-BR0553443956_UHD.jpg)|
-||*Copyright: Lontra marinha, Prince William Sound, Alasca, EUA (© Gerald Corsi/Getty Images)*
+|2024-09-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_PT-BR0775400551_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_PT-BR0775400551_UHD.jpg)|
+||*Copyright: Cachoeira em Skaftafell, Parque Nacional Vatnajökull, Islândia (© Nopasorn Kowathanakul/Getty Images)*
 ||
 |||
-|2024-09-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.IcebergOtter_FR-FR6372895513_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergOtter_FR-FR6372895513_UHD.jpg)|
-||*Copyright: Loutre de mer, baie de Prince William Sound, Alaska, États-Unis (© Gerald Corsi/Getty Images)*
+|2024-09-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_FR-FR6109608745_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_FR-FR6109608745_UHD.jpg)|
+||*Copyright: Cascade de Skaftafell, Parc national du Vatnajökull, Islande  (© Nopasorn Kowathanakul/Getty Images)*
 ||
 |||
-|2024-09-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.IcebergOtter_DE-DE4856944180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergOtter_DE-DE4856944180_UHD.jpg)|
-||*Copyright: Seeotter, Prince-William-Sund, Alaska, USA (© Gerald Corsi/Getty Images)*
+|2024-09-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523_UHD.jpg)|
+||*Copyright: Wasserfall in Skaftafell, Vatnajökull-Nationalpark, Island (© Nopasorn Kowathanakul/Getty Images)*
 ||
 |||
-|2024-09-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.IcebergOtter_EN-CA0060532970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergOtter_EN-CA0060532970_UHD.jpg)|
-||*Copyright: Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)*
+|2024-09-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-CA0508271608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-CA0508271608_UHD.jpg)|
+||*Copyright: Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)*
 ||
 |||
-|2024-09-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.IcebergOtter_EN-GB1302406748_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergOtter_EN-GB1302406748_UHD.jpg)|
-||*Copyright: Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)*
+|2024-09-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-GB1674771386_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-GB1674771386_UHD.jpg)|
+||*Copyright: Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)*
 ||
 |||
-|2024-09-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.IcebergOtter_IT-IT1022264475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergOtter_IT-IT1022264475_UHD.jpg)|
-||*Copyright: Lontra marina, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)*
+|2024-09-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_IT-IT8228006063_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_IT-IT8228006063_UHD.jpg)|
+||*Copyright: Cascata a Skaftafell, Parco Nazionale del Vatnajökull, Islanda (© Nopasorn Kowathanakul/Getty Images)*
 ||
 |||
-|2024-09-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.IcebergOtter_ES-ES5963215233_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergOtter_ES-ES5963215233_UHD.jpg)|
-||*Copyright: Nutria marina, Prince William Sound, Alaska, EE.UU. (© Gerald Corsi/Getty Images)*
+|2024-09-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_ES-ES6245666975_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_ES-ES6245666975_UHD.jpg)|
+||*Copyright: Cascada de Skaftafell, Parque Nacional de Vatnajökull, Islandia (© Nopasorn Kowathanakul/Getty Images)*
 ||
 |||
-|2024-09-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.IcebergOtter_FR-CA8578551199_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergOtter_FR-CA8578551199_UHD.jpg)|
-||*Copyright: Loutre de mer, baie de Prince William Sound, Alaska, États-Unis (© Gerald Corsi/Getty Images)*
+|2024-09-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_FR-CA8805376620_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_FR-CA8805376620_UHD.jpg)|
+||*Copyright: Cascade de Skaftafell, Parc national du Vatnajökull, Islande (© Nopasorn Kowathanakul/Getty Images)*
 ||
 |||
 
