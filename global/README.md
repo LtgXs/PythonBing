@@ -6,9 +6,9 @@
 ||*Copyright: Giant sequoias, Sequoia National Park, California (© Galyna Andrushko/Shutterstock)*
 ||
 |||
-|2024-09-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GiantSequoias_JA-JP1712203970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiantSequoias_JA-JP1712203970_UHD.jpg)|
-||*Copyright: セコイア国立公園, 米国 カリフォルニア州 (© Galyna Andrushko/Shutterstock)*
+|2024-09-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LittleToucanet_JA-JP2193126707_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleToucanet_JA-JP2193126707_UHD.jpg)|
+||*Copyright: ロス・ケツァーレス国立公園, コスタリカ (© Oscar Dominguez/Tandem Stills + Motion)*
 ||
 |||
 |2024-09-25|**Region: en-IN**||
