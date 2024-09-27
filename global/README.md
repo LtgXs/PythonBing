@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
-|2024-09-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YokohamaBridge2024_JA-JP2381649830_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YokohamaBridge2024_JA-JP2381649830_UHD.jpg)|
-||*Copyright: 夕暮れに染まる橋, 神奈川県 横浜市 (© Prisma by Dukas Presseagentur GmbH/Alamy Stock Photo)*
+|2024-09-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.VeniceAerial_JA-JP2627608079_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_JA-JP2627608079_UHD.jpg)|
+||*Copyright: サンタ・マリア・デッラ・サルーテ聖堂, イタリア ヴェネツィア (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
 |2024-09-27|**Region: en-IN**||
