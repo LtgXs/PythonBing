@@ -1,59 +1,59 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-09-27|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg)|
-||*Copyright: Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)*
+|2024-09-28|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg)|
+||*Copyright: Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
-|2024-09-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LittleToucanet_JA-JP2193126707_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleToucanet_JA-JP2193126707_UHD.jpg)|
-||*Copyright: ロス・ケツァーレス国立公園, コスタリカ (© Oscar Dominguez/Tandem Stills + Motion)*
+|2024-09-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YokohamaBridge2024_JA-JP2381649830_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YokohamaBridge2024_JA-JP2381649830_UHD.jpg)|
+||*Copyright: 夕暮れに染まる橋, 神奈川県 横浜市 (© Prisma by Dukas Presseagentur GmbH/Alamy Stock Photo)*
 ||
 |||
-|2024-09-26|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LittleToucanet_EN-IN1849827364_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleToucanet_EN-IN1849827364_UHD.jpg)|
-||*Copyright: Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)*
+|2024-09-27|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.VeniceAerial_EN-IN2638261499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_EN-IN2638261499_UHD.jpg)|
+||*Copyright: Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
-|2024-09-27|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LittleToucanet_PT-BR1307591671_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleToucanet_PT-BR1307591671_UHD.jpg)|
-||*Copyright: Tucano de garganta azul, Parque Nacional Los Quetzales, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)*
+|2024-09-28|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.VeniceAerial_PT-BR3049943279_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_PT-BR3049943279_UHD.jpg)|
+||*Copyright: Vista aérea do Grande Canal e da Basílica de Santa Maria della Salute, Veneza, Itália (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
-|2024-09-26|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LittleToucanet_FR-FR6494819106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleToucanet_FR-FR6494819106_UHD.jpg)|
-||*Copyright: Toucanet à gorge bleue, parc national de Los Quetzales, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)*
+|2024-09-27|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.VeniceAerial_FR-FR6953765883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_FR-FR6953765883_UHD.jpg)|
+||*Copyright: Vue aérienne du Grand Canal et de la Basilique de Santa Maria della Salute, Venise, Italie (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
-|2024-09-26|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TajMahalReflection_DE-DE5120779662_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TajMahalReflection_DE-DE5120779662_UHD.jpg)|
-||*Copyright: Taj Mahal in Agra, Uttar Pradesh, Indien (© Tanarch/Getty Images)*
+|2024-09-27|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063_UHD.jpg)|
+||*Copyright: Luftaufnahme des Canale Grande und der Basilica di Santa Maria della Salute, Venedig, Italien (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
-|2024-09-27|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LittleToucanet_EN-CA1208126136_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleToucanet_EN-CA1208126136_UHD.jpg)|
-||*Copyright: Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)*
+|2024-09-28|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.VeniceAerial_EN-CA1714828799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_EN-CA1714828799_UHD.jpg)|
+||*Copyright: Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
-|2024-09-26|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LittleToucanet_EN-GB5921731705_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleToucanet_EN-GB5921731705_UHD.jpg)|
-||*Copyright: Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)*
+|2024-09-27|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.VeniceAerial_EN-GB6264202474_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_EN-GB6264202474_UHD.jpg)|
+||*Copyright: Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
-|2024-09-26|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WindRiverAlaska_IT-IT8914553087_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WindRiverAlaska_IT-IT8914553087_UHD.jpg)|
-||*Copyright: Fiume Wind, Brooks Range, Arctic National Wildlife Refuge, Alaska, USA (© Design Pics/DanitaDelimont)*
+|2024-09-27|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.VeniceAerial_IT-IT9053737522_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_IT-IT9053737522_UHD.jpg)|
+||*Copyright: Canal Grande e della Basilica di Santa Maria della Salute, Venezia (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
-|2024-09-26|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LittleToucanet_ES-ES6890080970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleToucanet_ES-ES6890080970_UHD.jpg)|
-||*Copyright: Tucanete gorjiazul, Parque Nacional Los Quetzales, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)*
+|2024-09-27|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.VeniceAerial_ES-ES7915043762_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_ES-ES7915043762_UHD.jpg)|
+||*Copyright: Vista aérea del Gran Canal y la Basílica de Santa Maria della Salute, Venecia, Italia (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
-|2024-09-27|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LittleToucanet_FR-CA9100526562_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleToucanet_FR-CA9100526562_UHD.jpg)|
-||*Copyright: Toucanet à gorge bleue, parc national de Los Quetzales, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)*
+|2024-09-28|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.VeniceAerial_FR-CA9399407048_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_FR-CA9399407048_UHD.jpg)|
+||*Copyright: Vue aérienne du Grand Canal et de la Basilique de Santa Maria della Salute, Venise, Italie (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
 
