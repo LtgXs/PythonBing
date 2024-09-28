@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-09-28|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg)|
-||*Copyright: Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)*
+|2024-09-29|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg)|
+||*Copyright: Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
 |2024-09-28|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: サンタ・マリア・デッラ・サルーテ聖堂, イタリア ヴェネツィア (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
-|2024-09-27|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.VeniceAerial_EN-IN2638261499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_EN-IN2638261499_UHD.jpg)|
-||*Copyright: Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)*
+|2024-09-28|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.FloridaSeashore_EN-IN2946245730_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FloridaSeashore_EN-IN2946245730_UHD.jpg)|
+||*Copyright: Beach at sunrise, Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-09-28|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.VeniceAerial_PT-BR3049943279_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_PT-BR3049943279_UHD.jpg)|
-||*Copyright: Vista aérea do Grande Canal e da Basílica de Santa Maria della Salute, Veneza, Itália (© Bachir Moukarzel/Amazing Aerial Agency)*
+|2024-09-29|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.FloridaSeashore_PT-BR4145108998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FloridaSeashore_PT-BR4145108998_UHD.jpg)|
+||*Copyright: Praia ao nascer do sol, Costa Nacional das Ilhas do Golfo, Flórida, EUA (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-09-27|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.VeniceAerial_FR-FR6953765883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_FR-FR6953765883_UHD.jpg)|
-||*Copyright: Vue aérienne du Grand Canal et de la Basilique de Santa Maria della Salute, Venise, Italie (© Bachir Moukarzel/Amazing Aerial Agency)*
+|2024-09-28|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Calanques_FR-FR0746554630_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Calanques_FR-FR0746554630_UHD.jpg)|
+||*Copyright: Calanque d'En-Vau, parc national des Calanques, Côte d’Azur (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2024-09-27|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063_UHD.jpg)|
-||*Copyright: Luftaufnahme des Canale Grande und der Basilica di Santa Maria della Salute, Venedig, Italien (© Bachir Moukarzel/Amazing Aerial Agency)*
+|2024-09-28|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.FloridaSeashore_DE-DE5371597914_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FloridaSeashore_DE-DE5371597914_UHD.jpg)|
+||*Copyright: Strand bei Sonnenaufgang, Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-09-28|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.VeniceAerial_EN-CA1714828799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_EN-CA1714828799_UHD.jpg)|
-||*Copyright: Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)*
+|2024-09-29|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.FloridaSeashore_EN-CA2359430134_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FloridaSeashore_EN-CA2359430134_UHD.jpg)|
+||*Copyright: Beach at sunrise, Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-09-27|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.VeniceAerial_EN-GB6264202474_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_EN-GB6264202474_UHD.jpg)|
-||*Copyright: Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)*
+|2024-09-28|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TajMahalReflection_EN-GB6507271647_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TajMahalReflection_EN-GB6507271647_UHD.jpg)|
+||*Copyright: Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)*
 ||
 |||
-|2024-09-27|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.VeniceAerial_IT-IT9053737522_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_IT-IT9053737522_UHD.jpg)|
-||*Copyright: Canal Grande e della Basilica di Santa Maria della Salute, Venezia (© Bachir Moukarzel/Amazing Aerial Agency)*
+|2024-09-28|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.FloridaSeashore_IT-IT3615650453_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FloridaSeashore_IT-IT3615650453_UHD.jpg)|
+||*Copyright: Spiaggia di Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2024-09-27|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.VeniceAerial_ES-ES7915043762_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_ES-ES7915043762_UHD.jpg)|
-||*Copyright: Vista aérea del Gran Canal y la Basílica de Santa Maria della Salute, Venecia, Italia (© Bachir Moukarzel/Amazing Aerial Agency)*
+|2024-09-28|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SanSebastianFilmFestivalkicksoff_ES-ES7999513077_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanSebastianFilmFestivalkicksoff_ES-ES7999513077_UHD.jpg)|
+||*Copyright: Atardecer en la Playa de Zurriola, San Sebastián, País Vasco (© Poliki/iStock/Gettyimages)*
 ||
 |||
-|2024-09-28|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.VeniceAerial_FR-CA9399407048_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_FR-CA9399407048_UHD.jpg)|
-||*Copyright: Vue aérienne du Grand Canal et de la Basilique de Santa Maria della Salute, Venise, Italie (© Bachir Moukarzel/Amazing Aerial Agency)*
+|2024-09-29|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.FloridaSeashore_FR-CA6560650769_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FloridaSeashore_FR-CA6560650769_UHD.jpg)|
+||*Copyright: Plage au lever du soleil, Gulf Islands National Seashore, Floride, États-Unis (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
 

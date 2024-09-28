@@ -1,0 +1,60 @@
+
+Program started at 09:25:44
+Operating System Name: Linux
+Operating System Version: #16~22.04.1-Ubuntu SMP Thu Aug 15 21:31:41 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1433-133
+Processor Type: x86_64
+Python Version: 3.12.6
+Python Interpreter Name: CPython
+[09:25:44] Start geting CN Bing Wallpaper
+[09:25:44] Successful get url: https://www.bing.com/th?id=OHR.FloridaSeashore_ZH-CN4671838639_UHD.jpg
+[09:25:44] Image saved to img/background.jpg
+[09:25:44] Info saved to README.md
+[09:25:44] Image saved to history/2024/09/28.md
+[09:25:44] Start geting global Bing Wallpaper, region=en-US, local time is 2024-09-28 05:25:44.478060-04:00
+[09:25:44] Successful get url: https://www.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg
+[09:25:44] Picture infomations saved to  global/en-US/README.md
+[09:25:44] Picture infomations saved to global/en-US/history/2024/09/29_en-US.md
+[09:25:44] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-09-28 18:25:44.647333+09:00
+[09:25:44] Successful get url: https://www.bing.com/th?id=OHR.VeniceAerial_JA-JP2627608079_UHD.jpg
+[09:25:44] Picture infomations saved to  global/ja-JP/README.md
+[09:25:44] Picture infomations saved to global/ja-JP/history/2024/09/28_ja-JP.md
+[09:25:44] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-09-28 14:55:44.753596+05:30
+[09:25:44] Successful get url: https://www.bing.com/th?id=OHR.FloridaSeashore_EN-IN2946245730_UHD.jpg
+[09:25:44] Picture infomations saved to  global/en-IN/README.md
+[09:25:44] Picture infomations saved to global/en-IN/history/2024/09/28_en-IN.md
+[09:25:44] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-09-28 06:25:44.973581-03:00
+[09:25:45] Successful get url: https://www.bing.com/th?id=OHR.FloridaSeashore_PT-BR4145108998_UHD.jpg
+[09:25:45] Picture infomations saved to  global/pt-BR/README.md
+[09:25:45] Picture infomations saved to global/pt-BR/history/2024/09/29_pt-BR.md
+[09:25:45] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-09-28 11:25:45.171990+02:00
+[09:25:45] Successful get url: https://www.bing.com/th?id=OHR.Calanques_FR-FR0746554630_UHD.jpg
+[09:25:45] Picture infomations saved to  global/fr-FR/README.md
+[09:25:45] Picture infomations saved to global/fr-FR/history/2024/09/28_fr-FR.md
+[09:25:45] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-09-28 11:25:45.387162+02:00
+[09:25:45] Successful get url: https://www.bing.com/th?id=OHR.FloridaSeashore_DE-DE5371597914_UHD.jpg
+[09:25:45] Picture infomations saved to  global/de-DE/README.md
+[09:25:45] Picture infomations saved to global/de-DE/history/2024/09/28_de-DE.md
+[09:25:45] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-09-28 05:25:45.596782-04:00
+[09:25:45] Successful get url: https://www.bing.com/th?id=OHR.FloridaSeashore_EN-CA2359430134_UHD.jpg
+[09:25:45] Picture infomations saved to  global/en-CA/README.md
+[09:25:45] Picture infomations saved to global/en-CA/history/2024/09/29_en-CA.md
+[09:25:45] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-09-28 10:25:45.813818+01:00
+[09:25:45] Successful get url: https://www.bing.com/th?id=OHR.TajMahalReflection_EN-GB6507271647_UHD.jpg
+[09:25:45] Picture infomations saved to  global/en-GB/README.md
+[09:25:45] Picture infomations saved to global/en-GB/history/2024/09/28_en-GB.md
+[09:25:45] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-09-28 11:25:45.914174+02:00
+[09:25:45] Successful get url: https://www.bing.com/th?id=OHR.FloridaSeashore_IT-IT3615650453_UHD.jpg
+[09:25:46] Picture infomations saved to  global/it-IT/README.md
+[09:25:46] Picture infomations saved to global/it-IT/history/2024/09/28_it-IT.md
+[09:25:46] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-09-28 11:25:46.135431+02:00
+[09:25:46] Successful get url: https://www.bing.com/th?id=OHR.SanSebastianFilmFestivalkicksoff_ES-ES7999513077_UHD.jpg
+[09:25:46] Picture infomations saved to  global/es-ES/README.md
+[09:25:46] Picture infomations saved to global/es-ES/history/2024/09/28_es-ES.md
+[09:25:46] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-09-28 05:25:46.334604-04:00
+[09:25:46] Successful get url: https://www.bing.com/th?id=OHR.FloridaSeashore_FR-CA6560650769_UHD.jpg
+[09:25:46] Picture infomations saved to  global/fr-CA/README.md
+[09:25:46] Picture infomations saved to global/fr-CA/history/2024/09/29_fr-CA.md
+Program exit at 09:25:46
