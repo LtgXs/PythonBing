@@ -6,9 +6,9 @@
 ||*Copyright: Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
-|2024-09-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.VeniceAerial_JA-JP2627608079_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceAerial_JA-JP2627608079_UHD.jpg)|
-||*Copyright: サンタ・マリア・デッラ・サルーテ聖堂, イタリア ヴェネツィア (© Bachir Moukarzel/Amazing Aerial Agency)*
+|2024-09-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ConnecticutBridge_JA-JP2803321025_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConnecticutBridge_JA-JP2803321025_UHD.jpg)|
+||*Copyright: コーンウォール, 米国 コネチカット州 (© pabradyphoto/Getty Images)*
 ||
 |||
 |2024-09-28|**Region: en-IN**||
