@@ -6,9 +6,9 @@
 ||*Copyright: West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)*
 ||
 |||
-|2024-09-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ConnecticutBridge_JA-JP2803321025_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConnecticutBridge_JA-JP2803321025_UHD.jpg)|
-||*Copyright: コーンウォール, 米国 コネチカット州 (© pabradyphoto/Getty Images)*
+|2024-09-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WalrusNorway_JA-JP3040663299_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_JA-JP3040663299_UHD.jpg)|
+||*Copyright: スヴァールバル諸島, ノルウェー (© AWL Images/Danita Delimont)*
 ||
 |||
 |2024-09-29|**Region: en-IN**||
