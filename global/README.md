@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-09-30|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg)|
-||*Copyright: West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)*
+|2024-10-01|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg)|
+||*Copyright: Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)*
 ||
 |||
 |2024-09-30|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: スヴァールバル諸島, ノルウェー (© AWL Images/Danita Delimont)*
 ||
 |||
-|2024-09-29|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-IN3322601847_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-IN3322601847_UHD.jpg)|
-||*Copyright: West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)*
+|2024-09-30|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.WalrusNorway_EN-IN4352146367_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_EN-IN4352146367_UHD.jpg)|
+||*Copyright: Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)*
 ||
 |||
-|2024-09-30|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ConnecticutBridge_PT-BR4352188943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConnecticutBridge_PT-BR4352188943_UHD.jpg)|
-||*Copyright: Ponte Coberta de West Cornwall sobre o rio Housatonic, Connecticut, EUA (© pabradyphoto/Getty Images)*
+|2024-10-01|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.WalrusNorway_PT-BR4604487839_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_PT-BR4604487839_UHD.jpg)|
+||*Copyright: Colônia de morsas no norte de Spitsbergen, arquipélago de Svalbard, Noruega (© AWL Images/Danita Delimont)*
 ||
 |||
-|2024-09-29|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ConnecticutBridge_FR-FR7429205429_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConnecticutBridge_FR-FR7429205429_UHD.jpg)|
-||*Copyright: Pont couvert de West Cornwall, Connecticut, États-Unis (© pabradyphoto/Getty Images)*
+|2024-09-30|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.WalrusNorway_FR-FR7720633586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_FR-FR7720633586_UHD.jpg)|
+||*Copyright: Troupeau de morses dans le nord du Spitzberg, archipel du Svalbard, Norvège (© AWL Images/Danita Delimont)*
 ||
 |||
-|2024-09-29|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ConnecticutBridge_DE-DE5467033007_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConnecticutBridge_DE-DE5467033007_UHD.jpg)|
-||*Copyright: West Cornwall Covered Bridge über den Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)*
+|2024-09-30|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072_UHD.jpg)|
+||*Copyright: Walrossherde im nördlichen Spitzbergen, Svalbard-Archipel, Norwegen (© AWL Images/DanitaDelimont)*
 ||
 |||
-|2024-09-30|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-CA8942855073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-CA8942855073_UHD.jpg)|
-||*Copyright: West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)*
+|2024-10-01|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.WalrusNorway_EN-CA4061858184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_EN-CA4061858184_UHD.jpg)|
+||*Copyright: Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)*
 ||
 |||
-|2024-09-29|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-GB6974263231_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-GB6974263231_UHD.jpg)|
-||*Copyright: West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)*
+|2024-09-30|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.WalrusNorway_EN-GB0459877191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_EN-GB0459877191_UHD.jpg)|
+||*Copyright: Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)*
 ||
 |||
-|2024-09-29|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ConnecticutBridge_IT-IT2485348656_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConnecticutBridge_IT-IT2485348656_UHD.jpg)|
-||*Copyright: Ponte coperto di West Cornwall sul fiume Housatonic, Connecticut, USA (© pabradyphoto/Getty Images)*
+|2024-09-30|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.WalrusNorway_IT-IT2593695501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_IT-IT2593695501_UHD.jpg)|
+||*Copyright: Trichechi nel nord di Spitsbergen, arcipelago delle Svalbard, Norvegia (© AWL Images/DanitaDelimont)*
 ||
 |||
-|2024-09-29|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ConnecticutBridge_ES-ES8203018344_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConnecticutBridge_ES-ES8203018344_UHD.jpg)|
-||*Copyright: El Puente Cubierto de West Cornwall sobre el río Housatonic, Connecticut, EE.UU. (© pabradyphoto/Getty Images)*
+|2024-09-30|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.WalrusNorway_ES-ES8405668641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_ES-ES8405668641_UHD.jpg)|
+||*Copyright: Manada de morsas en el norte de Spitsbergen, archipiélago de Svalbard, Noruega (© AWL Images/Danita Delimont)*
 ||
 |||
-|2024-09-30|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ConnecticutBridge_FR-CA4375434996_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConnecticutBridge_FR-CA4375434996_UHD.jpg)|
-||*Copyright: Pont couvert de West Cornwall, Connecticut, États-Unis (© pabradyphoto/Getty Images)*
+|2024-10-01|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.WalrusNorway_FR-CA4532815287_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_FR-CA4532815287_UHD.jpg)|
+||*Copyright: Troupeau de morses dans le nord du Spitzberg, archipel du Svalbard, Norvège (© AWL Images/Danita Delimont)*
 ||
 |||
 
