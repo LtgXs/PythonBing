@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:10] Picture infomations saved to  global/fr-CA/README.md
 [09:30:10] Picture infomations saved to global/fr-CA/history/2024/10/01_fr-CA.md
 Program exit at 09:30:10
+
+Program started at 16:14:55
+Operating System Name: Linux
+Operating System Version: #16~22.04.1-Ubuntu SMP Thu Aug 15 21:31:41 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az730-432
+Processor Type: x86_64
+Python Version: 3.12.6
+Python Interpreter Name: CPython
+[16:14:55] Start geting CN Bing Wallpaper
+[16:14:55] Successful get url: https://www.bing.com/th?id=OHR.NationalDay2024_ZH-CN7026189162_UHD.jpg
+[16:14:55] Image saved to img/background.jpg
+[16:14:55] Info saved to README.md
+[16:14:55] Image saved to history/2024/10/01.md
+[16:14:55] Start geting global Bing Wallpaper, region=en-US, local time is 2024-09-30 12:14:55.897480-04:00
+[16:14:55] Successful get url: https://www.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg
+[16:14:56] Picture infomations saved to  global/en-US/README.md
+[16:14:56] Picture infomations saved to global/en-US/history/2024/10/01_en-US.md
+[16:14:56] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-10-01 01:14:56.064809+09:00
+[16:14:56] Successful get url: https://www.bing.com/th?id=OHR.HalfDomeYosemite_JA-JP3299475040_UHD.jpg
+[16:14:56] Picture infomations saved to  global/ja-JP/README.md
+[16:14:56] Picture infomations saved to global/ja-JP/history/2024/10/01_ja-JP.md
+[16:14:56] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-09-30 21:44:56.222571+05:30
+[16:14:56] Successful get url: https://www.bing.com/th?id=OHR.WalrusNorway_EN-IN4352146367_UHD.jpg
+[16:14:56] Picture infomations saved to  global/en-IN/README.md
+[16:14:56] Picture infomations saved to global/en-IN/history/2024/09/30_en-IN.md
+[16:14:56] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-09-30 13:14:56.379640-03:00
+[16:14:56] Successful get url: https://www.bing.com/th?id=OHR.WalrusNorway_PT-BR4604487839_UHD.jpg
+[16:14:56] Picture infomations saved to  global/pt-BR/README.md
+[16:14:56] Picture infomations saved to global/pt-BR/history/2024/10/01_pt-BR.md
+[16:14:56] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-09-30 18:14:56.560388+02:00
+[16:14:56] Successful get url: https://www.bing.com/th?id=OHR.WalrusNorway_FR-FR7720633586_UHD.jpg
+[16:14:56] Picture infomations saved to  global/fr-FR/README.md
+[16:14:56] Picture infomations saved to global/fr-FR/history/2024/09/30_fr-FR.md
+[16:14:56] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-09-30 18:14:56.751882+02:00
+[16:14:56] Successful get url: https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072_UHD.jpg
+[16:14:56] Picture infomations saved to  global/de-DE/README.md
+[16:14:56] Picture infomations saved to global/de-DE/history/2024/09/30_de-DE.md
+[16:14:56] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-09-30 12:14:56.906355-04:00
+[16:14:56] Successful get url: https://www.bing.com/th?id=OHR.WalrusNorway_EN-CA4061858184_UHD.jpg
+[16:14:57] Picture infomations saved to  global/en-CA/README.md
+[16:14:57] Picture infomations saved to global/en-CA/history/2024/10/01_en-CA.md
+[16:14:57] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-09-30 17:14:57.096886+01:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.WalrusNorway_EN-GB0459877191_UHD.jpg
+[16:14:57] Picture infomations saved to  global/en-GB/README.md
+[16:14:57] Picture infomations saved to global/en-GB/history/2024/09/30_en-GB.md
+[16:14:57] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-09-30 18:14:57.284751+02:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.WalrusNorway_IT-IT2593695501_UHD.jpg
+[16:14:57] Picture infomations saved to  global/it-IT/README.md
+[16:14:57] Picture infomations saved to global/it-IT/history/2024/09/30_it-IT.md
+[16:14:57] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-09-30 18:14:57.433955+02:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.WalrusNorway_ES-ES8405668641_UHD.jpg
+[16:14:57] Picture infomations saved to  global/es-ES/README.md
+[16:14:57] Picture infomations saved to global/es-ES/history/2024/09/30_es-ES.md
+[16:14:57] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-09-30 12:14:57.594528-04:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.WalrusNorway_FR-CA4532815287_UHD.jpg
+[16:14:57] Picture infomations saved to  global/fr-CA/README.md
+[16:14:57] Picture infomations saved to global/fr-CA/history/2024/10/01_fr-CA.md
+Program exit at 16:14:57
