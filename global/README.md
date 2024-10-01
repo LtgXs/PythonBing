@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-10-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg)|
-||*Copyright: Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)*
+|2024-10-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg)|
+||*Copyright: Last light on Half Dome, Yosemite National Park, California (© Adam Burton/Alamy)*
 ||
 |||
 |2024-10-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ヨセミテ国立公園, 米国 カリフォルニア州 (© Adam Burton/Alamy)*
 ||
 |||
-|2024-09-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WalrusNorway_EN-IN4352146367_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_EN-IN4352146367_UHD.jpg)|
-||*Copyright: Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)*
+|2024-10-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_EN-IN3902421361_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalfDomeYosemite_EN-IN3902421361_UHD.jpg)|
+||*Copyright: Last light on Half Dome, Yosemite National Park, California, USA (© Adam Burton/Alamy Stock Photo)*
 ||
 |||
-|2024-10-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.WalrusNorway_PT-BR4604487839_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_PT-BR4604487839_UHD.jpg)|
-||*Copyright: Colônia de morsas no norte de Spitsbergen, arquipélago de Svalbard, Noruega (© AWL Images/Danita Delimont)*
+|2024-10-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_PT-BR4764561878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalfDomeYosemite_PT-BR4764561878_UHD.jpg)|
+||*Copyright: Half Dome, Parque Nacional de Yosemite, Califórnia, EUA (© Adam Burton/Alamy)*
 ||
 |||
-|2024-09-30|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WalrusNorway_FR-FR7720633586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_FR-FR7720633586_UHD.jpg)|
-||*Copyright: Troupeau de morses dans le nord du Spitzberg, archipel du Svalbard, Norvège (© AWL Images/Danita Delimont)*
+|2024-10-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BoraPapeete_FR-FR3866752919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoraPapeete_FR-FR3866752919_UHD.jpg)|
+||*Copyright: Vue aérienne de Bora-Bora, Polynésie française (© GLF Media/Shutterstock)*
 ||
 |||
-|2024-09-30|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072_UHD.jpg)|
-||*Copyright: Walrossherde im nördlichen Spitzbergen, Svalbard-Archipel, Norwegen (© AWL Images/DanitaDelimont)*
+|2024-10-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355_UHD.jpg)|
+||*Copyright: Half Dome, Yosemite-Nationalpark, Kalifornien, USA (© Adam Burton/Alamy Stock Photo)*
 ||
 |||
-|2024-10-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WalrusNorway_EN-CA4061858184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_EN-CA4061858184_UHD.jpg)|
-||*Copyright: Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)*
+|2024-10-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_EN-CA4543823129_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalfDomeYosemite_EN-CA4543823129_UHD.jpg)|
+||*Copyright: Last light on Half Dome, Yosemite National Park, California, USA (© Adam Burton/Alamy Stock Photo)*
 ||
 |||
-|2024-09-30|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.WalrusNorway_EN-GB0459877191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_EN-GB0459877191_UHD.jpg)|
-||*Copyright: Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)*
+|2024-10-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BlackHistoryMonth2024_EN-GB1865178312_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackHistoryMonth2024_EN-GB1865178312_UHD.jpg)|
+||*Copyright: Statue of Mary Seacole, London, England (© Charles Bowman/Alamy Stock Photo)*
 ||
 |||
-|2024-09-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WalrusNorway_IT-IT2593695501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_IT-IT2593695501_UHD.jpg)|
-||*Copyright: Trichechi nel nord di Spitsbergen, arcipelago delle Svalbard, Norvegia (© AWL Images/DanitaDelimont)*
+|2024-10-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_IT-IT2723116418_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalfDomeYosemite_IT-IT2723116418_UHD.jpg)|
+||*Copyright: Half Dome, Parco Nazionale di Yosemite, California, USA (© Adam Burton/Alamy Stock Photo)*
 ||
 |||
-|2024-09-30|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.WalrusNorway_ES-ES8405668641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_ES-ES8405668641_UHD.jpg)|
-||*Copyright: Manada de morsas en el norte de Spitsbergen, archipiélago de Svalbard, Noruega (© AWL Images/Danita Delimont)*
+|2024-10-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_ES-ES8574128580_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HalfDomeYosemite_ES-ES8574128580_UHD.jpg)|
+||*Copyright: Half Dome, Parque Nacional de Yosemite, California, EE. UU. (© Adam Burton/Alamy)*
 ||
 |||
-|2024-10-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WalrusNorway_FR-CA4532815287_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalrusNorway_FR-CA4532815287_UHD.jpg)|
-||*Copyright: Troupeau de morses dans le nord du Spitzberg, archipel du Svalbard, Norvège (© AWL Images/Danita Delimont)*
+|2024-10-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.YukonAutumn_FR-CA6405737720_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YukonAutumn_FR-CA6405737720_UHD.jpg)|
+||*Copyright: L’automne dans les monts Ogilvie, Yukon (© Theo Allofs/Minden Pictures)*
 ||
 |||
 
