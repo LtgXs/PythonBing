@@ -1,0 +1,60 @@
+
+Program started at 09:28:10
+Operating System Name: Linux
+Operating System Version: #16~22.04.1-Ubuntu SMP Thu Aug 15 21:31:41 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1433-432
+Processor Type: x86_64
+Python Version: 3.12.6
+Python Interpreter Name: CPython
+[09:28:10] Start geting CN Bing Wallpaper
+[09:28:10] Successful get url: https://www.bing.com/th?id=OHR.WindRiverAlaska_ZH-CN7317039321_UHD.jpg
+[09:28:10] Image saved to img/background.jpg
+[09:28:10] Info saved to README.md
+[09:28:10] Image saved to history/2024/10/02.md
+[09:28:10] Start geting global Bing Wallpaper, region=en-US, local time is 2024-10-02 05:28:10.932369-04:00
+[09:28:11] Successful get url: https://www.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg
+[09:28:11] Picture infomations saved to  global/en-US/README.md
+[09:28:11] Picture infomations saved to global/en-US/history/2024/10/03_en-US.md
+[09:28:11] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-10-02 18:28:11.215154+09:00
+[09:28:11] Successful get url: https://www.bing.com/th?id=OHR.WindRiverAlaska_JA-JP3464622657_UHD.jpg
+[09:28:11] Picture infomations saved to  global/ja-JP/README.md
+[09:28:11] Picture infomations saved to global/ja-JP/history/2024/10/02_ja-JP.md
+[09:28:11] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-10-02 14:58:11.350552+05:30
+[09:28:11] Successful get url: https://www.bing.com/th?id=OHR.FatherGandhi_EN-IN5411891616_UHD.jpg
+[09:28:11] Picture infomations saved to  global/en-IN/README.md
+[09:28:11] Picture infomations saved to global/en-IN/history/2024/10/02_en-IN.md
+[09:28:11] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-10-02 06:28:11.574540-03:00
+[09:28:11] Successful get url: https://www.bing.com/th?id=OHR.WindRiverAlaska_PT-BR4944339151_UHD.jpg
+[09:28:11] Picture infomations saved to  global/pt-BR/README.md
+[09:28:11] Picture infomations saved to global/pt-BR/history/2024/10/03_pt-BR.md
+[09:28:11] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-10-02 11:28:11.781453+02:00
+[09:28:11] Successful get url: https://www.bing.com/th?id=OHR.WindRiverAlaska_FR-FR4031245371_UHD.jpg
+[09:28:11] Picture infomations saved to  global/fr-FR/README.md
+[09:28:11] Picture infomations saved to global/fr-FR/history/2024/10/02_fr-FR.md
+[09:28:11] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-10-02 11:28:11.993729+02:00
+[09:28:12] Successful get url: https://www.bing.com/th?id=OHR.WindRiverAlaska_DE-DE4243955227_UHD.jpg
+[09:28:12] Picture infomations saved to  global/de-DE/README.md
+[09:28:12] Picture infomations saved to global/de-DE/history/2024/10/02_de-DE.md
+[09:28:12] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-10-02 05:28:12.300584-04:00
+[09:28:12] Successful get url: https://www.bing.com/th?id=OHR.YukonAutumn_EN-CA4777665764_UHD.jpg
+[09:28:12] Picture infomations saved to  global/en-CA/README.md
+[09:28:12] Picture infomations saved to global/en-CA/history/2024/10/03_en-CA.md
+[09:28:12] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-10-02 10:28:12.540258+01:00
+[09:28:12] Successful get url: https://www.bing.com/th?id=OHR.WindRiverAlaska_EN-GB7636614285_UHD.jpg
+[09:28:12] Picture infomations saved to  global/en-GB/README.md
+[09:28:12] Picture infomations saved to global/en-GB/history/2024/10/02_en-GB.md
+[09:28:12] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-10-02 11:28:12.835361+02:00
+[09:28:12] Successful get url: https://www.bing.com/th?id=OHR.LakeInItalianNonni_IT-IT2833873964_UHD.jpg
+[09:28:12] Picture infomations saved to  global/it-IT/README.md
+[09:28:12] Picture infomations saved to global/it-IT/history/2024/10/02_it-IT.md
+[09:28:12] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-10-02 11:28:12.952025+02:00
+[09:28:13] Successful get url: https://www.bing.com/th?id=OHR.WindRiverAlaska_ES-ES8759556156_UHD.jpg
+[09:28:13] Picture infomations saved to  global/es-ES/README.md
+[09:28:13] Picture infomations saved to global/es-ES/history/2024/10/02_es-ES.md
+[09:28:13] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-10-02 05:28:13.092094-04:00
+[09:28:13] Successful get url: https://www.bing.com/th?id=OHR.WindRiverAlaska_FR-CA4709458249_UHD.jpg
+[09:28:13] Picture infomations saved to  global/fr-CA/README.md
+[09:28:13] Picture infomations saved to global/fr-CA/history/2024/10/03_fr-CA.md
+Program exit at 09:28:13
