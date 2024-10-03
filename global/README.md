@@ -6,9 +6,9 @@
 ||*Copyright: Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)*
 ||
 |||
-|2024-10-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TajMahalReflection_JA-JP3640388334_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TajMahalReflection_JA-JP3640388334_UHD.jpg)|
-||*Copyright: タージ・マハル, インド (© Tanarch/Getty Images)*
+|2024-10-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.EuropaMoon_JA-JP4639297209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_JA-JP4639297209_UHD.jpg)|
+||*Copyright: 木星の衛星エウロパ (© NASA/JPL-Caltech/SETI Institute)*
 ||
 |||
 |2024-10-03|**Region: en-IN**||
