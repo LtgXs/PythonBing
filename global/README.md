@@ -6,9 +6,9 @@
 ||*Copyright: Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)*
 ||
 |||
-|2024-10-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EuropaMoon_JA-JP4639297209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_JA-JP4639297209_UHD.jpg)|
-||*Copyright: 木星の衛星エウロパ (© NASA/JPL-Caltech/SETI Institute)*
+|2024-10-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ElephantTeacher_JA-JP4940024317_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantTeacher_JA-JP4940024317_UHD.jpg)|
+||*Copyright: ツァボイースト国立公園のアフリカゾウ, ケニア (© Neil Bowman/Minden Pictures)*
 ||
 |||
 |2024-10-04|**Region: en-IN**||
