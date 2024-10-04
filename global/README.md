@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-10-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg)|
-||*Copyright: Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)*
+|2024-10-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg)|
+||*Copyright: Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)*
 ||
 |||
 |2024-10-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 木星の衛星エウロパ (© NASA/JPL-Caltech/SETI Institute)*
 ||
 |||
-|2024-10-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TajMahalReflection_EN-IN4245237170_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TajMahalReflection_EN-IN4245237170_UHD.jpg)|
-||*Copyright: Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)*
+|2024-10-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.EuropaMoon_EN-IN7952428847_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_EN-IN7952428847_UHD.jpg)|
+||*Copyright: Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)*
 ||
 |||
-|2024-10-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TajMahalReflection_PT-BR5120942939_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TajMahalReflection_PT-BR5120942939_UHD.jpg)|
-||*Copyright: Taj Mahal em Agra, Uttar Pradesh, Índia (© Tanarch/Getty Images)*
+|2024-10-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.EuropaMoon_PT-BR6260569357_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_PT-BR6260569357_UHD.jpg)|
+||*Copyright: Europa, a lua gelada de Júpiter (© NASA/JPL-Caltech/SETI Institute)*
 ||
 |||
-|2024-10-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TajMahalReflection_FR-FR4211320657_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TajMahalReflection_FR-FR4211320657_UHD.jpg)|
-||*Copyright: Taj Mahal à Agra, Uttar Pradesh, Inde (© Tanarch/Getty Images)*
+|2024-10-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.EuropaMoon_FR-FR8860978550_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_FR-FR8860978550_UHD.jpg)|
+||*Copyright: Europe, la lune glacée de Jupiter (© NASA/JPL-Caltech/SETI Institute)*
 ||
 |||
-|2024-10-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BerlinWallBlueHands_DE-DE6022715375_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerlinWallBlueHands_DE-DE6022715375_UHD.jpg)|
-||*Copyright: Tag der Deutschen Einheit, Berlin (© pensatyva/Getty Images)*
+|2024-10-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.EuropaMoon_DE-DE7966877532_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_DE-DE7966877532_UHD.jpg)|
+||*Copyright: Jupiters Eismond Europa (© NASA/JPL-Caltech/SETI Institute)*
 ||
 |||
-|2024-10-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TajMahalReflection_EN-CA5616417702_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TajMahalReflection_EN-CA5616417702_UHD.jpg)|
-||*Copyright: Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)*
+|2024-10-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.NuitBlanche24_EN-CA8251507494_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuitBlanche24_EN-CA8251507494_UHD.jpg)|
+||*Copyright: Toronto Sign, Nathan Phillips Square, Canada (© Bruce Christie/Moment/Getty Images)*
 ||
 |||
-|2024-10-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.NationalPoetryDay2024_EN-GB3553292629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NationalPoetryDay2024_EN-GB3553292629_UHD.jpg)|
-||*Copyright: Loch Morlich, Cairngorms National Park, Scotland (© Arterra/Universal Images Group/Getty Images)*
+|2024-10-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.EuropaMoon_EN-GB4032019865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_EN-GB4032019865_UHD.jpg)|
+||*Copyright: Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)*
 ||
 |||
-|2024-10-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TajMahalReflection_IT-IT1242921978_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TajMahalReflection_IT-IT1242921978_UHD.jpg)|
-||*Copyright: Taj Mahal ad Agra, Uttar Pradesh, India (© Tanarch/Getty Images)*
+|2024-10-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.EuropaMoon_IT-IT5266996752_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_IT-IT5266996752_UHD.jpg)|
+||*Copyright: Europa, la Luna ghiacciata di Giove (© NASA/JPL-Caltech/SETI Institute)*
 ||
 |||
-|2024-10-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TajMahalReflection_ES-ES8913986837_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TajMahalReflection_ES-ES8913986837_UHD.jpg)|
-||*Copyright: Taj Mahal, Agra, Uttar Pradesh, India (© Tanarch/Getty Images)*
+|2024-10-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.EuropaMoon_ES-ES3412713189_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_ES-ES3412713189_UHD.jpg)|
+||*Copyright: Europa, la luna helada de Júpiter (© NASA/JPL-Caltech/SETI Institute)*
 ||
 |||
-|2024-10-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TajMahalReflection_FR-CA4845950919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TajMahalReflection_FR-CA4845950919_UHD.jpg)|
-||*Copyright: Taj Mahal à Agra, Uttar Pradesh, Inde (© Tanarch/Getty Images)*
+|2024-10-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.NuitBlanche24_FR-CA0087595387_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuitBlanche24_FR-CA0087595387_UHD.jpg)|
+||*Copyright: Toronto, Nathan Phillips Square, Canada (© Bruce Christie/Moment/Getty Images)*
 ||
 |||
 
