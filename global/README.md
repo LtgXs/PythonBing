@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-10-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg)|
-||*Copyright: Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)*
+|2024-10-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg)|
+||*Copyright: African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)*
 ||
 |||
 |2024-10-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ツァボイースト国立公園のアフリカゾウ, ケニア (© Neil Bowman/Minden Pictures)*
 ||
 |||
-|2024-10-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.EuropaMoon_EN-IN7952428847_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_EN-IN7952428847_UHD.jpg)|
-||*Copyright: Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)*
+|2024-10-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-IN6887174228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-IN6887174228_UHD.jpg)|
+||*Copyright: African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)*
 ||
 |||
-|2024-10-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.EuropaMoon_PT-BR6260569357_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_PT-BR6260569357_UHD.jpg)|
-||*Copyright: Europa, a lua gelada de Júpiter (© NASA/JPL-Caltech/SETI Institute)*
+|2024-10-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MaraMigration_PT-BR7440860691_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaraMigration_PT-BR7440860691_UHD.jpg)|
+||*Copyright: Grande migração de gnus no rio Mara, Quênia (© Ayzenstayn/Getty Images)*
 ||
 |||
-|2024-10-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.EuropaMoon_FR-FR8860978550_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_FR-FR8860978550_UHD.jpg)|
-||*Copyright: Europe, la lune glacée de Jupiter (© NASA/JPL-Caltech/SETI Institute)*
+|2024-10-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ElephantTeacher_FR-FR9412681522_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantTeacher_FR-FR9412681522_UHD.jpg)|
+||*Copyright: Éléphants d'Afrique dans le parc national de Tsavo East, Kenya (© Neil Bowman/Minden Pictures)*
 ||
 |||
-|2024-10-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.EuropaMoon_DE-DE7966877532_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_DE-DE7966877532_UHD.jpg)|
-||*Copyright: Jupiters Eismond Europa (© NASA/JPL-Caltech/SETI Institute)*
+|2024-10-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ElephantTeacher_DE-DE8807070034_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantTeacher_DE-DE8807070034_UHD.jpg)|
+||*Copyright: Afrikanische Elefanten im Tsavo-East-Nationalpark, Kenia (© Neil Bowman/Minden Pictures)*
 ||
 |||
-|2024-10-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.NuitBlanche24_EN-CA8251507494_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuitBlanche24_EN-CA8251507494_UHD.jpg)|
-||*Copyright: Toronto Sign, Nathan Phillips Square, Canada (© Bruce Christie/Moment/Getty Images)*
+|2024-10-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-CA7050305105_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-CA7050305105_UHD.jpg)|
+||*Copyright: African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)*
 ||
 |||
-|2024-10-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.EuropaMoon_EN-GB4032019865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_EN-GB4032019865_UHD.jpg)|
-||*Copyright: Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)*
+|2024-10-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-GB5187585413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-GB5187585413_UHD.jpg)|
+||*Copyright: African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)*
 ||
 |||
-|2024-10-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.EuropaMoon_IT-IT5266996752_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_IT-IT5266996752_UHD.jpg)|
-||*Copyright: Europa, la Luna ghiacciata di Giove (© NASA/JPL-Caltech/SETI Institute)*
+|2024-10-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ElephantTeacher_IT-IT9988351261_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantTeacher_IT-IT9988351261_UHD.jpg)|
+||*Copyright: Elefanti africani nel Parco Nazionale dello Tsavo Est, Kenya (© Neil Bowman/Minden Pictures)*
 ||
 |||
-|2024-10-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.EuropaMoon_ES-ES3412713189_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EuropaMoon_ES-ES3412713189_UHD.jpg)|
-||*Copyright: Europa, la luna helada de Júpiter (© NASA/JPL-Caltech/SETI Institute)*
+|2024-10-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ElephantTeacher_ES-ES3979458374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantTeacher_ES-ES3979458374_UHD.jpg)|
+||*Copyright: Elefantes africanos en el Parque Nacional de Tsavo East, Kenia (© Neil Bowman/Minden Pictures)*
 ||
 |||
-|2024-10-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.NuitBlanche24_FR-CA0087595387_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuitBlanche24_FR-CA0087595387_UHD.jpg)|
-||*Copyright: Toronto, Nathan Phillips Square, Canada (© Bruce Christie/Moment/Getty Images)*
+|2024-10-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ElephantTeacher_FR-CA0466901926_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantTeacher_FR-CA0466901926_UHD.jpg)|
+||*Copyright: Éléphants d'Afrique dans le parc national de Tsavo East, Kenya (© Neil Bowman/Minden Pictures)*
 ||
 |||
 
