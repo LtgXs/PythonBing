@@ -6,9 +6,9 @@
 ||*Copyright: African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)*
 ||
 |||
-|2024-10-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ElephantTeacher_JA-JP4940024317_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantTeacher_JA-JP4940024317_UHD.jpg)|
-||*Copyright: ツァボイースト国立公園のアフリカゾウ, ケニア (© Neil Bowman/Minden Pictures)*
+|2024-10-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KochiaJapan_JA-JP5196113182_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KochiaJapan_JA-JP5196113182_UHD.jpg)|
+||*Copyright: 国営ひたち海浜公園, 茨城県 ひたちなか市 (© DigiPub/Getty Images)*
 ||
 |||
 |2024-10-05|**Region: en-IN**||
