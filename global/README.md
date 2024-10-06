@@ -6,9 +6,9 @@
 ||*Copyright: Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)*
 ||
 |||
-|2024-10-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KochiaJapan_JA-JP5196113182_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KochiaJapan_JA-JP5196113182_UHD.jpg)|
-||*Copyright: 国営ひたち海浜公園, 茨城県 ひたちなか市 (© DigiPub/Getty Images)*
+|2024-10-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ElbePhilharmonic_JA-JP5541486306_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbePhilharmonic_JA-JP5541486306_UHD.jpg)|
+||*Copyright: エルプフィルハーモニー・ハンブルク, ドイツ (© Canetti/Shutterstock)*
 ||
 |||
 |2024-10-06|**Region: en-IN**||
