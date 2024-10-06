@@ -1,0 +1,60 @@
+
+Program started at 09:26:27
+Operating System Name: Linux
+Operating System Version: #16~22.04.1-Ubuntu SMP Thu Aug 15 21:31:41 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1424-717
+Processor Type: x86_64
+Python Version: 3.12.6
+Python Interpreter Name: CPython
+[09:26:27] Start geting CN Bing Wallpaper
+[09:26:27] Successful get url: https://www.bing.com/th?id=OHR.CoyoteGulch_ZH-CN2869463336_UHD.jpg
+[09:26:27] Image saved to img/background.jpg
+[09:26:27] Info saved to README.md
+[09:26:27] Image saved to history/2024/10/06.md
+[09:26:27] Start geting global Bing Wallpaper, region=en-US, local time is 2024-10-06 05:26:27.808256-04:00
+[09:26:27] Successful get url: https://www.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg
+[09:26:27] Picture infomations saved to  global/en-US/README.md
+[09:26:27] Picture infomations saved to global/en-US/history/2024/10/07_en-US.md
+[09:26:27] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-10-06 18:26:27.922596+09:00
+[09:26:27] Successful get url: https://www.bing.com/th?id=OHR.KochiaJapan_JA-JP5196113182_UHD.jpg
+[09:26:28] Picture infomations saved to  global/ja-JP/README.md
+[09:26:28] Picture infomations saved to global/ja-JP/history/2024/10/06_ja-JP.md
+[09:26:28] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-10-06 14:56:28.067141+05:30
+[09:26:28] Successful get url: https://www.bing.com/th?id=OHR.CoyoteGulch_EN-IN7315826699_UHD.jpg
+[09:26:28] Picture infomations saved to  global/en-IN/README.md
+[09:26:28] Picture infomations saved to global/en-IN/history/2024/10/06_en-IN.md
+[09:26:28] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-10-06 06:26:28.151563-03:00
+[09:26:28] Successful get url: https://www.bing.com/th?id=OHR.CoyoteGulch_PT-BR8564618055_UHD.jpg
+[09:26:28] Picture infomations saved to  global/pt-BR/README.md
+[09:26:28] Picture infomations saved to global/pt-BR/history/2024/10/07_pt-BR.md
+[09:26:28] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-10-06 11:26:28.285713+02:00
+[09:26:28] Successful get url: https://www.bing.com/th?id=OHR.CoyoteGulch_FR-FR9860829479_UHD.jpg
+[09:26:28] Picture infomations saved to  global/fr-FR/README.md
+[09:26:28] Picture infomations saved to global/fr-FR/history/2024/10/06_fr-FR.md
+[09:26:28] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-10-06 11:26:28.357936+02:00
+[09:26:28] Successful get url: https://www.bing.com/th?id=OHR.BerlinConcertHallFestivalofLights_DE-DE1090691492_UHD.jpg
+[09:26:28] Picture infomations saved to  global/de-DE/README.md
+[09:26:28] Picture infomations saved to global/de-DE/history/2024/10/06_de-DE.md
+[09:26:28] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-10-06 05:26:28.500258-04:00
+[09:26:28] Successful get url: https://www.bing.com/th?id=OHR.CoyoteGulch_EN-CA9362587881_UHD.jpg
+[09:26:28] Picture infomations saved to  global/en-CA/README.md
+[09:26:28] Picture infomations saved to global/en-CA/history/2024/10/07_en-CA.md
+[09:26:28] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-10-06 10:26:28.591116+01:00
+[09:26:28] Successful get url: https://www.bing.com/th?id=OHR.CoyoteGulch_EN-GB6471507229_UHD.jpg
+[09:26:28] Picture infomations saved to  global/en-GB/README.md
+[09:26:28] Picture infomations saved to global/en-GB/history/2024/10/06_en-GB.md
+[09:26:28] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-10-06 11:26:28.684959+02:00
+[09:26:28] Successful get url: https://www.bing.com/th?id=OHR.ValleAostaGranParadiso_IT-IT5881740566_UHD.jpg
+[09:26:28] Picture infomations saved to  global/it-IT/README.md
+[09:26:28] Picture infomations saved to global/it-IT/history/2024/10/06_it-IT.md
+[09:26:28] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-10-06 11:26:28.841963+02:00
+[09:26:28] Successful get url: https://www.bing.com/th?id=OHR.CoyoteGulch_ES-ES4387990059_UHD.jpg
+[09:26:28] Picture infomations saved to  global/es-ES/README.md
+[09:26:28] Picture infomations saved to global/es-ES/history/2024/10/06_es-ES.md
+[09:26:28] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-10-06 05:26:28.949422-04:00
+[09:26:28] Successful get url: https://www.bing.com/th?id=OHR.CoyoteGulch_FR-CA0897205789_UHD.jpg
+[09:26:29] Picture infomations saved to  global/fr-CA/README.md
+[09:26:29] Picture infomations saved to global/fr-CA/history/2024/10/07_fr-CA.md
+Program exit at 09:26:29
