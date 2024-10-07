@@ -6,9 +6,9 @@
 ||*Copyright: The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)*
 ||
 |||
-|2024-10-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ElbePhilharmonic_JA-JP5541486306_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbePhilharmonic_JA-JP5541486306_UHD.jpg)|
-||*Copyright: エルプフィルハーモニー・ハンブルク, ドイツ (© Canetti/Shutterstock)*
+|2024-10-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Kanro2024_JA-JP5787966494_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kanro2024_JA-JP5787966494_UHD.jpg)|
+||*Copyright: 秋の八甲田ロープウェイ,  青森県 青森市 (© Torsakarin/Getty Images)*
 ||
 |||
 |2024-10-07|**Region: en-IN**||
