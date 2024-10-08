@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-10-08|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg)|
-||*Copyright: The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)*
+|2024-10-09|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg)|
+||*Copyright: Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)*
 ||
 |||
 |2024-10-08|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 秋の八甲田ロープウェイ,  青森県 青森市 (© Torsakarin/Getty Images)*
 ||
 |||
-|2024-10-07|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-IN7738424525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-IN7738424525_UHD.jpg)|
-||*Copyright: The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)*
+|2024-10-08|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MototiOctopus_EN-IN8264456645_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MototiOctopus_EN-IN8264456645_UHD.jpg)|
+||*Copyright: Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy Stock Photo)*
 ||
 |||
-|2024-10-08|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ElbePhilharmonic_PT-BR9107755270_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbePhilharmonic_PT-BR9107755270_UHD.jpg)|
-||*Copyright: Sala de concertos Elbphilharmonie em Hamburgo, Alemanha (© Canetti/Shutterstock)*
+|2024-10-09|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MototiOctopus_PT-BR0386452744_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MototiOctopus_PT-BR0386452744_UHD.jpg)|
+||*Copyright: Polvo Mototi, Estreito de Lembeh, Indonésia (© Howard Chew/Alamy)*
 ||
 |||
-|2024-10-07|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ElbePhilharmonic_FR-FR0231525332_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbePhilharmonic_FR-FR0231525332_UHD.jpg)|
-||*Copyright: Philharmonie de l'Elbe, Hambourg, Allemagne (© Canetti/Shutterstock)*
+|2024-10-08|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MototiOctopus_FR-FR0598222042_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MototiOctopus_FR-FR0598222042_UHD.jpg)|
+||*Copyright: Amphioctopus, Lembeh Strait, Indonésie (© Howard Chew/Alamy)*
 ||
 |||
-|2024-10-07|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ElbePhilharmonic_DE-DE0654455444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbePhilharmonic_DE-DE0654455444_UHD.jpg)|
-||*Copyright: Die Elbphilharmonie in Hamburg (© Canetti/Shutterstock)*
+|2024-10-08|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MototiOctopus_DE-DE2317582998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MototiOctopus_DE-DE2317582998_UHD.jpg)|
+||*Copyright: Mototi-Oktopus, Lembeh Strait, Indonesien (© Howard Chew/Alamy)*
 ||
 |||
-|2024-10-08|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-CA1458789835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-CA1458789835_UHD.jpg)|
-||*Copyright: The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)*
+|2024-10-09|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MototiOctopus_EN-CA0168451476_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MototiOctopus_EN-CA0168451476_UHD.jpg)|
+||*Copyright: Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy Stock Photo)*
 ||
 |||
-|2024-10-07|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-GB8668543385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-GB8668543385_UHD.jpg)|
-||*Copyright: The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)*
+|2024-10-08|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MototiOctopus_EN-GB7709724340_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MototiOctopus_EN-GB7709724340_UHD.jpg)|
+||*Copyright: Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy Stock Photo)*
 ||
 |||
-|2024-10-07|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ElbePhilharmonic_IT-IT4294250253_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbePhilharmonic_IT-IT4294250253_UHD.jpg)|
-||*Copyright: La sala concerti Elbphilharmonie di Amburgo, Germania (© Canetti/Shutterstock)*
+|2024-10-08|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MototiOctopus_IT-IT6416760928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MototiOctopus_IT-IT6416760928_UHD.jpg)|
+||*Copyright: Polpo ocellato, Stretto di Lembeh, Indonesia (© Howard Chew/Alamy Stock Photo)*
 ||
 |||
-|2024-10-07|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ElbePhilharmonic_ES-ES5119623297_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbePhilharmonic_ES-ES5119623297_UHD.jpg)|
-||*Copyright: Sala de conciertos Filarmónica del Elba, Hamburgo, Alemania (© Canetti/Shutterstock)*
+|2024-10-08|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MototiOctopus_ES-ES5895237621_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MototiOctopus_ES-ES5895237621_UHD.jpg)|
+||*Copyright: Pulpo Mototi, Estrecho de Lembeh, Indonesia (© Howard Chew/Alamy)*
 ||
 |||
-|2024-10-08|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ElbePhilharmonic_FR-CA1576968664_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElbePhilharmonic_FR-CA1576968664_UHD.jpg)|
-||*Copyright: Philharmonie de l'Elbe, Hambourg, Allemagne (© Canetti/Shutterstock)*
+|2024-10-09|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MototiOctopus_FR-CA2506642758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MototiOctopus_FR-CA2506642758_UHD.jpg)|
+||*Copyright: Amphioctopus, Lembeh Strait, Indonésie (© Howard Chew/Alamy)*
 ||
 |||
 
