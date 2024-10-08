@@ -6,9 +6,9 @@
 ||*Copyright: Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)*
 ||
 |||
-|2024-10-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Kanro2024_JA-JP5787966494_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kanro2024_JA-JP5787966494_UHD.jpg)|
-||*Copyright: 秋の八甲田ロープウェイ,  青森県 青森市 (© Torsakarin/Getty Images)*
+|2024-10-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AspensColorado_JA-JP6244858068_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspensColorado_JA-JP6244858068_UHD.jpg)|
+||*Copyright: マーブル近郊に自生するアスペン, 米国 コロラド州 (© Jason Hatfield/Tandem Stills + Motion)*
 ||
 |||
 |2024-10-08|**Region: en-IN**||

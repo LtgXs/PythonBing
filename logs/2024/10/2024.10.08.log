@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:28:16] Picture infomations saved to  global/fr-CA/README.md
 [09:28:16] Picture infomations saved to global/fr-CA/history/2024/10/09_fr-CA.md
 Program exit at 09:28:16
+
+Program started at 16:14:51
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1019-265
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[16:14:51] Start geting CN Bing Wallpaper
+[16:14:52] Successful get url: https://www.bing.com/th?id=OHR.AspensColorado_ZH-CN0132780533_UHD.jpg
+[16:14:52] Image saved to img/background.jpg
+[16:14:52] Info saved to README.md
+[16:14:52] Image saved to history/2024/10/09.md
+[16:14:52] Start geting global Bing Wallpaper, region=en-US, local time is 2024-10-08 12:14:52.138335-04:00
+[16:14:52] Successful get url: https://www.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg
+[16:14:52] Picture infomations saved to  global/en-US/README.md
+[16:14:52] Picture infomations saved to global/en-US/history/2024/10/09_en-US.md
+[16:14:52] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-10-09 01:14:52.282087+09:00
+[16:14:52] Successful get url: https://www.bing.com/th?id=OHR.AspensColorado_JA-JP6244858068_UHD.jpg
+[16:14:52] Picture infomations saved to  global/ja-JP/README.md
+[16:14:52] Picture infomations saved to global/ja-JP/history/2024/10/09_ja-JP.md
+[16:14:52] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-10-08 21:44:52.399591+05:30
+[16:14:52] Successful get url: https://www.bing.com/th?id=OHR.MototiOctopus_EN-IN8264456645_UHD.jpg
+[16:14:52] Picture infomations saved to  global/en-IN/README.md
+[16:14:52] Picture infomations saved to global/en-IN/history/2024/10/08_en-IN.md
+[16:14:52] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-10-08 13:14:52.530068-03:00
+[16:14:52] Successful get url: https://www.bing.com/th?id=OHR.MototiOctopus_PT-BR0386452744_UHD.jpg
+[16:14:52] Picture infomations saved to  global/pt-BR/README.md
+[16:14:52] Picture infomations saved to global/pt-BR/history/2024/10/09_pt-BR.md
+[16:14:52] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-10-08 18:14:52.662295+02:00
+[16:14:52] Successful get url: https://www.bing.com/th?id=OHR.MototiOctopus_FR-FR0598222042_UHD.jpg
+[16:14:52] Picture infomations saved to  global/fr-FR/README.md
+[16:14:52] Picture infomations saved to global/fr-FR/history/2024/10/08_fr-FR.md
+[16:14:52] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-10-08 18:14:52.784661+02:00
+[16:14:52] Successful get url: https://www.bing.com/th?id=OHR.MototiOctopus_DE-DE2317582998_UHD.jpg
+[16:14:52] Picture infomations saved to  global/de-DE/README.md
+[16:14:52] Picture infomations saved to global/de-DE/history/2024/10/08_de-DE.md
+[16:14:52] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-10-08 12:14:52.898583-04:00
+[16:14:52] Successful get url: https://www.bing.com/th?id=OHR.MototiOctopus_EN-CA0168451476_UHD.jpg
+[16:14:53] Picture infomations saved to  global/en-CA/README.md
+[16:14:53] Picture infomations saved to global/en-CA/history/2024/10/09_en-CA.md
+[16:14:53] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-10-08 17:14:53.021007+01:00
+[16:14:53] Successful get url: https://www.bing.com/th?id=OHR.MototiOctopus_EN-GB7709724340_UHD.jpg
+[16:14:53] Picture infomations saved to  global/en-GB/README.md
+[16:14:53] Picture infomations saved to global/en-GB/history/2024/10/08_en-GB.md
+[16:14:53] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-10-08 18:14:53.124898+02:00
+[16:14:53] Successful get url: https://www.bing.com/th?id=OHR.MototiOctopus_IT-IT6416760928_UHD.jpg
+[16:14:53] Picture infomations saved to  global/it-IT/README.md
+[16:14:53] Picture infomations saved to global/it-IT/history/2024/10/08_it-IT.md
+[16:14:53] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-10-08 18:14:53.235553+02:00
+[16:14:53] Successful get url: https://www.bing.com/th?id=OHR.MototiOctopus_ES-ES5895237621_UHD.jpg
+[16:14:53] Picture infomations saved to  global/es-ES/README.md
+[16:14:53] Picture infomations saved to global/es-ES/history/2024/10/08_es-ES.md
+[16:14:53] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-10-08 12:14:53.398207-04:00
+[16:14:53] Successful get url: https://www.bing.com/th?id=OHR.MototiOctopus_FR-CA2506642758_UHD.jpg
+[16:14:53] Picture infomations saved to  global/fr-CA/README.md
+[16:14:53] Picture infomations saved to global/fr-CA/history/2024/10/09_fr-CA.md
+Program exit at 16:14:53
