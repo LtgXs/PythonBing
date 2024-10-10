@@ -6,9 +6,9 @@
 ||*Copyright: Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)*
 ||
 |||
-|2024-10-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SoranoItaly_JA-JP6459075522_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SoranoItaly_JA-JP6459075522_UHD.jpg)|
-||*Copyright: ソラーノ, イタリア トスカーナ州 (© Luigi Vaccarella/eStock Photo)*
+|2024-10-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CelticColours_JA-JP6953032126_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_JA-JP6953032126_UHD.jpg)|
+||*Copyright: ケープ・ブレトン島, カナダ ノバスコシア州 (© Cavan Images/Alamy)*
 ||
 |||
 |2024-10-10|**Region: en-IN**||
