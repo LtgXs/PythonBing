@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-10-11|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg)|
-||*Copyright: Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)*
+|2024-10-12|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg)|
+||*Copyright: Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)*
 ||
 |||
 |2024-10-11|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ケープ・ブレトン島, カナダ ノバスコシア州 (© Cavan Images/Alamy)*
 ||
 |||
-|2024-10-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SoranoItaly_EN-IN0546705889_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SoranoItaly_EN-IN0546705889_UHD.jpg)|
-||*Copyright: Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)*
+|2024-10-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.QuebecDuck_EN-IN6498950304_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuebecDuck_EN-IN6498950304_UHD.jpg)|
+||*Copyright: Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)*
 ||
 |||
-|2024-10-11|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SoranoItaly_PT-BR8638738713_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SoranoItaly_PT-BR8638738713_UHD.jpg)|
-||*Copyright: Sorano, Toscana, Itália (© Luigi Vaccarella/eStock Photo)*
+|2024-10-12|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CelticColours_PT-BR9042410710_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_PT-BR9042410710_UHD.jpg)|
+||*Copyright: Cape Breton Highlands, Nova Escócia, Canadá (© Cavan Images/Alamy)*
 ||
 |||
-|2024-10-10|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SoranoItaly_FR-FR2493523171_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SoranoItaly_FR-FR2493523171_UHD.jpg)|
-||*Copyright: Sorano, Toscane, Italie (© Luigi Vaccarella/eStock Photo)*
+|2024-10-11|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CelticColours_FR-FR3939645346_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_FR-FR3939645346_UHD.jpg)|
+||*Copyright: Hautes-Terres-du-Cap-Breton, Nouvelle-Écosse, Canada (© Cavan Images/Alamy)*
 ||
 |||
-|2024-10-10|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SoranoItaly_DE-DE6035116338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SoranoItaly_DE-DE6035116338_UHD.jpg)|
-||*Copyright: Sorano, Toskana, Italien (© Luigi Vaccarella/eStock Photo)*
+|2024-10-11|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CelticColours_DE-DE5682241306_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_DE-DE5682241306_UHD.jpg)|
+||*Copyright: Cape Breton Highlands, Nova Scotia, Kanada (© Cavan Images/Alamy)*
 ||
 |||
-|2024-10-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SoranoItaly_EN-CA4829518601_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SoranoItaly_EN-CA4829518601_UHD.jpg)|
-||*Copyright: Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)*
+|2024-10-12|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CelticColours_EN-CA7718811490_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_EN-CA7718811490_UHD.jpg)|
+||*Copyright: Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy Stock Photo)*
 ||
 |||
-|2024-10-10|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SoranoItaly_EN-GB9382216757_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SoranoItaly_EN-GB9382216757_UHD.jpg)|
-||*Copyright: Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)*
+|2024-10-11|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GrasmereAutumn2024_EN-GB0406171005_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrasmereAutumn2024_EN-GB0406171005_UHD.jpg)|
+||*Copyright: Grasmere, Lake District, Cumbria, England (© joe daniel price/Moment/Getty Images)*
 ||
 |||
-|2024-10-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SoranoItaly_IT-IT6958617726_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SoranoItaly_IT-IT6958617726_UHD.jpg)|
-||*Copyright: Sorano, Toscana, Italia (© Luigi Vaccarella/eStock Photo)*
+|2024-10-11|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CelticColours_IT-IT4571823616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_IT-IT4571823616_UHD.jpg)|
+||*Copyright: Highlands di Cape Breton, Nuova Scozia, Canada (© Cavan Images/Alamy Stock Photo)*
 ||
 |||
-|2024-10-10|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SoranoItaly_ES-ES4580008999_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SoranoItaly_ES-ES4580008999_UHD.jpg)|
-||*Copyright: Sorano, Toscana, Italia (© Luigi Vaccarella/eStock Photo)*
+|2024-10-11|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CelticColours_ES-ES5079462677_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_ES-ES5079462677_UHD.jpg)|
+||*Copyright: Tierras Altas de la Isla del Cabo Bretón, Nueva Escocia, Canadá (© Cavan Images/Alamy)*
 ||
 |||
-|2024-10-11|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SoranoItaly_FR-CA3347453712_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SoranoItaly_FR-CA3347453712_UHD.jpg)|
-||*Copyright: Sorano, Toscane, Italie (© Luigi Vaccarella/eStock Photo)*
+|2024-10-12|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CelticColours_FR-CA3805586495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_FR-CA3805586495_UHD.jpg)|
+||*Copyright: Hautes-Terres-du-Cap-Breton, Nouvelle-Écosse, Canada (© Cavan Images/Alamy)*
 ||
 |||
 
