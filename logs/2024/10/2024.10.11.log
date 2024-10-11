@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:28:18] Picture infomations saved to  global/fr-CA/README.md
 [09:28:18] Picture infomations saved to global/fr-CA/history/2024/10/12_fr-CA.md
 Program exit at 09:28:18
+
+Program started at 16:14:04
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1442-461
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[16:14:04] Start geting CN Bing Wallpaper
+[16:14:04] Successful get url: https://www.bing.com/th?id=OHR.QuebecDuck_ZH-CN0588954873_UHD.jpg
+[16:14:04] Image saved to img/background.jpg
+[16:14:04] Info saved to README.md
+[16:14:04] Image saved to history/2024/10/12.md
+[16:14:04] Start geting global Bing Wallpaper, region=en-US, local time is 2024-10-11 12:14:04.598594-04:00
+[16:14:04] Successful get url: https://www.bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg
+[16:14:04] Picture infomations saved to  global/en-US/README.md
+[16:14:04] Picture infomations saved to global/en-US/history/2024/10/12_en-US.md
+[16:14:04] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-10-12 01:14:04.704370+09:00
+[16:14:04] Successful get url: https://www.bing.com/th?id=OHR.QuebecDuck_JA-JP7270367085_UHD.jpg
+[16:14:04] Picture infomations saved to  global/ja-JP/README.md
+[16:14:04] Picture infomations saved to global/ja-JP/history/2024/10/12_ja-JP.md
+[16:14:04] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-10-11 21:44:04.871884+05:30
+[16:14:04] Successful get url: https://www.bing.com/th?id=OHR.QuebecDuck_EN-IN6498950304_UHD.jpg
+[16:14:05] Picture infomations saved to  global/en-IN/README.md
+[16:14:05] Picture infomations saved to global/en-IN/history/2024/10/11_en-IN.md
+[16:14:05] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-10-11 13:14:05.030104-03:00
+[16:14:05] Successful get url: https://www.bing.com/th?id=OHR.CelticColours_PT-BR9042410710_UHD.jpg
+[16:14:05] Picture infomations saved to  global/pt-BR/README.md
+[16:14:05] Picture infomations saved to global/pt-BR/history/2024/10/12_pt-BR.md
+[16:14:05] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-10-11 18:14:05.249139+02:00
+[16:14:05] Successful get url: https://www.bing.com/th?id=OHR.CelticColours_FR-FR3939645346_UHD.jpg
+[16:14:05] Picture infomations saved to  global/fr-FR/README.md
+[16:14:05] Picture infomations saved to global/fr-FR/history/2024/10/11_fr-FR.md
+[16:14:05] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-10-11 18:14:05.403576+02:00
+[16:14:05] Successful get url: https://www.bing.com/th?id=OHR.CelticColours_DE-DE5682241306_UHD.jpg
+[16:14:05] Picture infomations saved to  global/de-DE/README.md
+[16:14:05] Picture infomations saved to global/de-DE/history/2024/10/11_de-DE.md
+[16:14:05] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-10-11 12:14:05.553214-04:00
+[16:14:05] Successful get url: https://www.bing.com/th?id=OHR.CelticColours_EN-CA7718811490_UHD.jpg
+[16:14:05] Picture infomations saved to  global/en-CA/README.md
+[16:14:05] Picture infomations saved to global/en-CA/history/2024/10/12_en-CA.md
+[16:14:05] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-10-11 17:14:05.711011+01:00
+[16:14:05] Successful get url: https://www.bing.com/th?id=OHR.GrasmereAutumn2024_EN-GB0406171005_UHD.jpg
+[16:14:05] Picture infomations saved to  global/en-GB/README.md
+[16:14:05] Picture infomations saved to global/en-GB/history/2024/10/11_en-GB.md
+[16:14:05] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-10-11 18:14:05.871573+02:00
+[16:14:05] Successful get url: https://www.bing.com/th?id=OHR.CelticColours_IT-IT4571823616_UHD.jpg
+[16:14:06] Picture infomations saved to  global/it-IT/README.md
+[16:14:06] Picture infomations saved to global/it-IT/history/2024/10/11_it-IT.md
+[16:14:06] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-10-11 18:14:06.008621+02:00
+[16:14:06] Successful get url: https://www.bing.com/th?id=OHR.CelticColours_ES-ES5079462677_UHD.jpg
+[16:14:06] Picture infomations saved to  global/es-ES/README.md
+[16:14:06] Picture infomations saved to global/es-ES/history/2024/10/11_es-ES.md
+[16:14:06] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-10-11 12:14:06.151188-04:00
+[16:14:06] Successful get url: https://www.bing.com/th?id=OHR.CelticColours_FR-CA3805586495_UHD.jpg
+[16:14:06] Picture infomations saved to  global/fr-CA/README.md
+[16:14:06] Picture infomations saved to global/fr-CA/history/2024/10/12_fr-CA.md
+Program exit at 16:14:06
