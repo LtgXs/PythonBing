@@ -6,9 +6,9 @@
 ||*Copyright: Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)*
 ||
 |||
-|2024-10-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.QuebecDuck_JA-JP7270367085_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuebecDuck_JA-JP7270367085_UHD.jpg)|
-||*Copyright: アメリカオシ, カナダ ケベック州 (© Maxime Riendeau/Getty Images)*
+|2024-10-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AlcazarSeville_JA-JP7812179664_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlcazarSeville_JA-JP7812179664_UHD.jpg)|
+||*Copyright: アルカサル, スペイン アンダルシア州 (© Danny Lehman/Getty Images)*
 ||
 |||
 |2024-10-12|**Region: en-IN**||
