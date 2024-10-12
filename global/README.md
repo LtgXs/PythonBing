@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-10-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg)|
-||*Copyright: Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)*
+|2024-10-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg)|
+||*Copyright: Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)*
 ||
 |||
 |2024-10-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アメリカオシ, カナダ ケベック州 (© Maxime Riendeau/Getty Images)*
 ||
 |||
-|2024-10-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.QuebecDuck_EN-IN6498950304_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuebecDuck_EN-IN6498950304_UHD.jpg)|
+|2024-10-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.DussehraMysore_EN-IN0426603332_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DussehraMysore_EN-IN0426603332_UHD.jpg)|
+||*Copyright: Mysuru Palace during Dasara, Karnataka (© Fameleaf Photos/Getty Images)*
+||
+|||
+|2024-10-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.FelizDiadasCriancas_PT-BR6983342881_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FelizDiadasCriancas_PT-BR6983342881_UHD.jpg)|
+||*Copyright: Brinquedos tradicionais feitos com a fibra da palmeira Miriti, Belém (© Ricardo Lima/Getty Images)*
+||
+|||
+|2024-10-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.QuebecDuck_FR-FR4323551846_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuebecDuck_FR-FR4323551846_UHD.jpg)|
+||*Copyright: Canard branchu, Québec, Canada (© Maxime Riendeau/Getty Images)*
+||
+|||
+|2024-10-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.QuebecDuck_DE-DE2140613391_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuebecDuck_DE-DE2140613391_UHD.jpg)|
+||*Copyright: Brautente, Quebec, Kanada (© Maxime Riendeau/Getty Images)*
+||
+|||
+|2024-10-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.QuebecDuck_EN-CA0208524250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuebecDuck_EN-CA0208524250_UHD.jpg)|
 ||*Copyright: Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)*
 ||
 |||
-|2024-10-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CelticColours_PT-BR9042410710_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_PT-BR9042410710_UHD.jpg)|
-||*Copyright: Cape Breton Highlands, Nova Escócia, Canadá (© Cavan Images/Alamy)*
+|2024-10-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.QuebecDuck_EN-GB1003424458_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuebecDuck_EN-GB1003424458_UHD.jpg)|
+||*Copyright: Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)*
 ||
 |||
-|2024-10-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CelticColours_FR-FR3939645346_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_FR-FR3939645346_UHD.jpg)|
-||*Copyright: Hautes-Terres-du-Cap-Breton, Nouvelle-Écosse, Canada (© Cavan Images/Alamy)*
+|2024-10-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.QuebecDuck_IT-IT4692189372_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuebecDuck_IT-IT4692189372_UHD.jpg)|
+||*Copyright: Anatra sposa, Québec, Canada (© Maxime Riendeau/Getty Images)*
 ||
 |||
-|2024-10-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CelticColours_DE-DE5682241306_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_DE-DE5682241306_UHD.jpg)|
-||*Copyright: Cape Breton Highlands, Nova Scotia, Kanada (© Cavan Images/Alamy)*
+|2024-10-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.NationalDaySpain_ES-ES5367780660_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NationalDaySpain_ES-ES5367780660_UHD.jpg)|
+||*Copyright: El Equipo Nacional de Vuelo Acrobático, Madrid, España (© Carlos Alvarez/Fotógrafo autónomo/Getty Images Entertainment/Getty Images)*
 ||
 |||
-|2024-10-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CelticColours_EN-CA7718811490_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_EN-CA7718811490_UHD.jpg)|
-||*Copyright: Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy Stock Photo)*
-||
-|||
-|2024-10-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.GrasmereAutumn2024_EN-GB0406171005_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrasmereAutumn2024_EN-GB0406171005_UHD.jpg)|
-||*Copyright: Grasmere, Lake District, Cumbria, England (© joe daniel price/Moment/Getty Images)*
-||
-|||
-|2024-10-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CelticColours_IT-IT4571823616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_IT-IT4571823616_UHD.jpg)|
-||*Copyright: Highlands di Cape Breton, Nuova Scozia, Canada (© Cavan Images/Alamy Stock Photo)*
-||
-|||
-|2024-10-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CelticColours_ES-ES5079462677_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_ES-ES5079462677_UHD.jpg)|
-||*Copyright: Tierras Altas de la Isla del Cabo Bretón, Nueva Escocia, Canadá (© Cavan Images/Alamy)*
-||
-|||
-|2024-10-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CelticColours_FR-CA3805586495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CelticColours_FR-CA3805586495_UHD.jpg)|
-||*Copyright: Hautes-Terres-du-Cap-Breton, Nouvelle-Écosse, Canada (© Cavan Images/Alamy)*
+|2024-10-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.QuebecDuck_FR-CA4180697497_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuebecDuck_FR-CA4180697497_UHD.jpg)|
+||*Copyright: Canard branchu, Québec, Canada (© Maxime Riendeau/Getty Images)*
 ||
 |||
 
