@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:26:13] Picture infomations saved to  global/fr-CA/README.md
 [09:26:13] Picture infomations saved to global/fr-CA/history/2024/10/14_fr-CA.md
 Program exit at 09:26:13
+
+Program started at 16:13:14
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1788-929
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[16:13:14] Start geting CN Bing Wallpaper
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.CocoBeach_ZH-CN7503553722_UHD.jpg
+[16:13:14] Image saved to img/background.jpg
+[16:13:14] Info saved to README.md
+[16:13:14] Image saved to history/2024/10/14.md
+[16:13:14] Start geting global Bing Wallpaper, region=en-US, local time is 2024-10-13 12:13:14.322276-04:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg
+[16:13:14] Picture infomations saved to  global/en-US/README.md
+[16:13:14] Picture infomations saved to global/en-US/history/2024/10/14_en-US.md
+[16:13:14] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-10-14 01:13:14.425651+09:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.RailwaysDayNew_JA-JP8050699925_UHD.jpg
+[16:13:14] Picture infomations saved to  global/ja-JP/README.md
+[16:13:14] Picture infomations saved to global/ja-JP/history/2024/10/14_ja-JP.md
+[16:13:14] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-10-13 21:43:14.534614+05:30
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.AlcazarSeville_EN-IN3915163511_UHD.jpg
+[16:13:14] Picture infomations saved to  global/en-IN/README.md
+[16:13:14] Picture infomations saved to global/en-IN/history/2024/10/13_en-IN.md
+[16:13:14] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-10-13 13:13:14.628040-03:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.AlcazarSeville_PT-BR9775263782_UHD.jpg
+[16:13:14] Picture infomations saved to  global/pt-BR/README.md
+[16:13:14] Picture infomations saved to global/pt-BR/history/2024/10/14_pt-BR.md
+[16:13:14] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-10-13 18:13:14.718079+02:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.AlcazarSeville_FR-FR4993322229_UHD.jpg
+[16:13:14] Picture infomations saved to  global/fr-FR/README.md
+[16:13:14] Picture infomations saved to global/fr-FR/history/2024/10/13_fr-FR.md
+[16:13:14] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-10-13 18:13:14.816613+02:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.AlcazarSeville_DE-DE3041524458_UHD.jpg
+[16:13:14] Picture infomations saved to  global/de-DE/README.md
+[16:13:14] Picture infomations saved to global/de-DE/history/2024/10/13_de-DE.md
+[16:13:14] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-10-13 12:13:14.905096-04:00
+[16:13:14] Successful get url: https://www.bing.com/th?id=OHR.AlcazarSeville_EN-CA0555315003_UHD.jpg
+[16:13:15] Picture infomations saved to  global/en-CA/README.md
+[16:13:15] Picture infomations saved to global/en-CA/history/2024/10/14_en-CA.md
+[16:13:15] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-10-13 17:13:15.005477+01:00
+[16:13:15] Successful get url: https://www.bing.com/th?id=OHR.AlcazarSeville_EN-GB0411908636_UHD.jpg
+[16:13:15] Picture infomations saved to  global/en-GB/README.md
+[16:13:15] Picture infomations saved to global/en-GB/history/2024/10/13_en-GB.md
+[16:13:15] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-10-13 18:13:15.337937+02:00
+[16:13:15] Successful get url: https://www.bing.com/th?id=OHR.AlcazarSeville_IT-IT0712843452_UHD.jpg
+[16:13:15] Picture infomations saved to  global/it-IT/README.md
+[16:13:15] Picture infomations saved to global/it-IT/history/2024/10/13_it-IT.md
+[16:13:15] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-10-13 18:13:15.438437+02:00
+[16:13:15] Successful get url: https://www.bing.com/th?id=OHR.AlcazarSeville_ES-ES5812845635_UHD.jpg
+[16:13:15] Picture infomations saved to  global/es-ES/README.md
+[16:13:15] Picture infomations saved to global/es-ES/history/2024/10/13_es-ES.md
+[16:13:15] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-10-13 12:13:15.543706-04:00
+[16:13:15] Successful get url: https://www.bing.com/th?id=OHR.AlcazarSeville_FR-CA4511304588_UHD.jpg
+[16:13:15] Picture infomations saved to  global/fr-CA/README.md
+[16:13:15] Picture infomations saved to global/fr-CA/history/2024/10/14_fr-CA.md
+Program exit at 16:13:15
