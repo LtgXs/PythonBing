@@ -6,9 +6,9 @@
 ||*Copyright: Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona (© Andrew Peacock/Tandem Stills + Motion)*
 ||
 |||
-|2024-10-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RailwaysDayNew_JA-JP8050699925_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RailwaysDayNew_JA-JP8050699925_UHD.jpg)|
-||*Copyright: 東京駅, 東京都 (© phutthiseth thongtae/Getty Images)*
+|2024-10-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FossilsDorset_JA-JP8513856980_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FossilsDorset_JA-JP8513856980_UHD.jpg)|
+||*Copyright: ジュラシック・コーストの化石, イギリス ドーセット州 (© Nature Picture Library/Alamy)*
 ||
 |||
 |2024-10-14|**Region: en-IN**||
