@@ -6,9 +6,9 @@
 ||*Copyright: Great wildebeest migration at Mara River, Kenya (© Ayzenstayn/Getty Images)*
 ||
 |||
-|2024-10-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FossilsDorset_JA-JP8513856980_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FossilsDorset_JA-JP8513856980_UHD.jpg)|
-||*Copyright: ジュラシック・コーストの化石, イギリス ドーセット州 (© Nature Picture Library/Alamy)*
+|2024-10-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MaraMigration_JA-JP8727709922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaraMigration_JA-JP8727709922_UHD.jpg)|
+||*Copyright: マラ川を渡るヌーの群れ, ケニア (© Ayzenstayn/Getty Images)*
 ||
 |||
 |2024-10-15|**Region: en-IN**||
