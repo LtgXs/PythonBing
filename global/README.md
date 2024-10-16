@@ -6,9 +6,9 @@
 ||*Copyright: Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy)*
 ||
 |||
-|2024-10-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MaraMigration_JA-JP8727709922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaraMigration_JA-JP8727709922_UHD.jpg)|
-||*Copyright: マラ川を渡るヌーの群れ, ケニア (© Ayzenstayn/Getty Images)*
+|2024-10-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CoyoteGulch_JA-JP8998470067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoyoteGulch_JA-JP8998470067_UHD.jpg)|
+||*Copyright: グレンキャニオン国立保養地, 米国 ユタ州 (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
 |2024-10-16|**Region: en-IN**||
