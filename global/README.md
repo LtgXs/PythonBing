@@ -6,9 +6,9 @@
 ||*Copyright: Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)*
 ||
 |||
-|2024-10-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CentralParkAutumn_JA-JP4069662350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CentralParkAutumn_JA-JP4069662350_UHD.jpg)|
-||*Copyright: セントラルパーク, 米国 ニューヨーク州 (© mapman/Shutterstock)*
+|2024-10-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DenderaTemple_JA-JP4353072440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DenderaTemple_JA-JP4353072440_UHD.jpg)|
+||*Copyright: ハトホル神殿, エジプト ケナ県 (© Nick Brundle Photography/Getty Images)*
 ||
 |||
 |2024-10-18|**Region: en-IN**||
