@@ -6,9 +6,9 @@
 ||*Copyright: Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2024-10-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DenderaTemple_JA-JP4353072440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DenderaTemple_JA-JP4353072440_UHD.jpg)|
-||*Copyright: ハトホル神殿, エジプト ケナ県 (© Nick Brundle Photography/Getty Images)*
+|2024-10-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SmilingSloth_JA-JP4479144213_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmilingSloth_JA-JP4479144213_UHD.jpg)|
+||*Copyright: 木の枝にぶら下がるナマケモノ, コスタリカ (© Harry Collins/Getty Images)*
 ||
 |||
 |2024-10-19|**Region: en-IN**||
