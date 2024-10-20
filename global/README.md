@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-10-20|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg)|
-||*Copyright: Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)*
+|2024-10-21|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg)|
+||*Copyright: Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)*
 ||
 |||
 |2024-10-20|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 木の枝にぶら下がるナマケモノ, コスタリカ (© Harry Collins/Getty Images)*
 ||
 |||
-|2024-10-19|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.DenderaTemple_EN-IN5970079053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DenderaTemple_EN-IN5970079053_UHD.jpg)|
-||*Copyright: Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)*
+|2024-10-20|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SmilingSloth_EN-IN6528412181_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmilingSloth_EN-IN6528412181_UHD.jpg)|
+||*Copyright: Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)*
 ||
 |||
-|2024-10-20|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DenderaTemple_PT-BR6539845196_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DenderaTemple_PT-BR6539845196_UHD.jpg)|
-||*Copyright: Templo de Hathor, Complexo do Templo de Dendera, Quena, Egito (© Nick Brundle Photography/Getty Images)*
+|2024-10-21|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SmilingSloth_PT-BR6480806367_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmilingSloth_PT-BR6480806367_UHD.jpg)|
+||*Copyright: Bicho-preguiça de três dedos na Costa Rica (© Harry Collins/Getty Images)*
 ||
 |||
-|2024-10-19|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DenderaTemple_FR-FR5972566058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DenderaTemple_FR-FR5972566058_UHD.jpg)|
-||*Copyright: Temple d'Hathor, complexe du temple de Dendera, Qena, Égypte (© Nick Brundle Photography/Getty Images)*
+|2024-10-20|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.NuitsChampagne_FR-FR1213854382_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuitsChampagne_FR-FR1213854382_UHD.jpg)|
+||*Copyright: Vignobles de Champagne, parc naturel régional de la Montagne de Reims, Verzenay (© Philippe Turpin/Getty Images)*
 ||
 |||
-|2024-10-19|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.DenderaTemple_DE-DE9209425729_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DenderaTemple_DE-DE9209425729_UHD.jpg)|
-||*Copyright: Hathortempel, Dendera-Tempelkomplex, Qena, Ägypten (© Nick Brundle Photography/Getty Images)*
+|2024-10-20|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SmilingSloth_DE-DE3423910925_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmilingSloth_DE-DE3423910925_UHD.jpg)|
+||*Copyright: Dreizehenfaultier in Costa Rica (© Harry Collins/Getty Images)*
 ||
 |||
-|2024-10-20|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DenderaTemple_EN-CA1538664812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DenderaTemple_EN-CA1538664812_UHD.jpg)|
-||*Copyright: Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)*
+|2024-10-21|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SmilingSloth_EN-CA3124807232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmilingSloth_EN-CA3124807232_UHD.jpg)|
+||*Copyright: Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)*
 ||
 |||
-|2024-10-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DenderaTemple_EN-GB0191163199_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DenderaTemple_EN-GB0191163199_UHD.jpg)|
-||*Copyright: Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)*
+|2024-10-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SmilingSloth_EN-GB0473899381_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmilingSloth_EN-GB0473899381_UHD.jpg)|
+||*Copyright: Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)*
 ||
 |||
-|2024-10-19|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DenderaTemple_IT-IT8470650196_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DenderaTemple_IT-IT8470650196_UHD.jpg)|
-||*Copyright: Tempio di Hathor, complesso del Tempio di Dendera, Qena, Egitto (© Nick Brundle Photography/Getty Images)*
+|2024-10-20|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SmilingSloth_IT-IT8557895163_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmilingSloth_IT-IT8557895163_UHD.jpg)|
+||*Copyright: Bradipo a tre dita, Costa Rica (© Harry Collins/Getty Images)*
 ||
 |||
-|2024-10-19|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.DenderaTemple_ES-ES2992345983_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DenderaTemple_ES-ES2992345983_UHD.jpg)|
-||*Copyright: Templo de Hathor, Complejo del Templo de Dendera, Quena, Egipto (© Nick Brundle Photography/Getty Images)*
+|2024-10-20|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SpanishBMXRacingChampionship_ES-ES3255025375_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpanishBMXRacingChampionship_ES-ES3255025375_UHD.jpg)|
+||*Copyright: Puesta de sol en Almuñécar, Granada (© E.J. Baumeister Jr./Alamy Stock Photo)*
 ||
 |||
-|2024-10-20|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DenderaTemple_FR-CA2260090471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DenderaTemple_FR-CA2260090471_UHD.jpg)|
-||*Copyright: Temple d'Hathor, complexe du temple de Dendera, Qena, Égypte (© Nick Brundle Photography/Getty Images)*
+|2024-10-21|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SmilingSloth_FR-CA2515050272_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmilingSloth_FR-CA2515050272_UHD.jpg)|
+||*Copyright: Paresseux à trois doigts au Costa Rica (© Harry Collins/Getty Images)*
 ||
 |||
 

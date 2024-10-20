@@ -1,0 +1,60 @@
+
+Program started at 09:25:55
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1456-421
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[09:25:55] Start geting CN Bing Wallpaper
+[09:25:56] Successful get url: https://www.bing.com/th?id=OHR.SmilingSloth_ZH-CN4646662964_UHD.jpg
+[09:25:56] Image saved to img/background.jpg
+[09:25:56] Info saved to README.md
+[09:25:56] Image saved to history/2024/10/20.md
+[09:25:56] Start geting global Bing Wallpaper, region=en-US, local time is 2024-10-20 05:25:56.333986-04:00
+[09:25:56] Successful get url: https://www.bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg
+[09:25:57] Picture infomations saved to  global/en-US/README.md
+[09:25:57] Picture infomations saved to global/en-US/history/2024/10/21_en-US.md
+[09:25:57] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-10-20 18:25:57.498942+09:00
+[09:25:57] Successful get url: https://www.bing.com/th?id=OHR.SmilingSloth_JA-JP4479144213_UHD.jpg
+[09:25:58] Picture infomations saved to  global/ja-JP/README.md
+[09:25:58] Picture infomations saved to global/ja-JP/history/2024/10/20_ja-JP.md
+[09:25:58] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-10-20 14:55:58.048539+05:30
+[09:25:58] Successful get url: https://www.bing.com/th?id=OHR.SmilingSloth_EN-IN6528412181_UHD.jpg
+[09:25:58] Picture infomations saved to  global/en-IN/README.md
+[09:25:58] Picture infomations saved to global/en-IN/history/2024/10/20_en-IN.md
+[09:25:58] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-10-20 06:25:58.556562-03:00
+[09:25:58] Successful get url: https://www.bing.com/th?id=OHR.SmilingSloth_PT-BR6480806367_UHD.jpg
+[09:25:58] Picture infomations saved to  global/pt-BR/README.md
+[09:25:58] Picture infomations saved to global/pt-BR/history/2024/10/21_pt-BR.md
+[09:25:58] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-10-20 11:25:58.980212+02:00
+[09:25:59] Successful get url: https://www.bing.com/th?id=OHR.NuitsChampagne_FR-FR1213854382_UHD.jpg
+[09:25:59] Picture infomations saved to  global/fr-FR/README.md
+[09:25:59] Picture infomations saved to global/fr-FR/history/2024/10/20_fr-FR.md
+[09:25:59] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-10-20 11:25:59.336547+02:00
+[09:25:59] Successful get url: https://www.bing.com/th?id=OHR.SmilingSloth_DE-DE3423910925_UHD.jpg
+[09:25:59] Picture infomations saved to  global/de-DE/README.md
+[09:25:59] Picture infomations saved to global/de-DE/history/2024/10/20_de-DE.md
+[09:25:59] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-10-20 05:25:59.996499-04:00
+[09:26:00] Successful get url: https://www.bing.com/th?id=OHR.SmilingSloth_EN-CA3124807232_UHD.jpg
+[09:26:00] Picture infomations saved to  global/en-CA/README.md
+[09:26:00] Picture infomations saved to global/en-CA/history/2024/10/21_en-CA.md
+[09:26:00] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-10-20 10:26:00.343665+01:00
+[09:26:00] Successful get url: https://www.bing.com/th?id=OHR.SmilingSloth_EN-GB0473899381_UHD.jpg
+[09:26:00] Picture infomations saved to  global/en-GB/README.md
+[09:26:00] Picture infomations saved to global/en-GB/history/2024/10/20_en-GB.md
+[09:26:00] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-10-20 11:26:00.672829+02:00
+[09:26:00] Successful get url: https://www.bing.com/th?id=OHR.SmilingSloth_IT-IT8557895163_UHD.jpg
+[09:26:01] Picture infomations saved to  global/it-IT/README.md
+[09:26:01] Picture infomations saved to global/it-IT/history/2024/10/20_it-IT.md
+[09:26:01] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-10-20 11:26:01.035966+02:00
+[09:26:01] Successful get url: https://www.bing.com/th?id=OHR.SpanishBMXRacingChampionship_ES-ES3255025375_UHD.jpg
+[09:26:01] Picture infomations saved to  global/es-ES/README.md
+[09:26:01] Picture infomations saved to global/es-ES/history/2024/10/20_es-ES.md
+[09:26:01] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-10-20 05:26:01.407685-04:00
+[09:26:01] Successful get url: https://www.bing.com/th?id=OHR.SmilingSloth_FR-CA2515050272_UHD.jpg
+[09:26:01] Picture infomations saved to  global/fr-CA/README.md
+[09:26:01] Picture infomations saved to global/fr-CA/history/2024/10/21_fr-CA.md
+Program exit at 09:26:01
