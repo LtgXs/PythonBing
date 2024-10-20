@@ -6,9 +6,9 @@
 ||*Copyright: Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)*
 ||
 |||
-|2024-10-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SmilingSloth_JA-JP4479144213_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmilingSloth_JA-JP4479144213_UHD.jpg)|
-||*Copyright: 木の枝にぶら下がるナマケモノ, コスタリカ (© Harry Collins/Getty Images)*
+|2024-10-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AutumnCypress_JA-JP4647054612_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnCypress_JA-JP4647054612_UHD.jpg)|
+||*Copyright: ジョージ・エル・スミス州立公園, 米国 ジョージア州 (© Chris Moore/TANDEM Stills + Motion)*
 ||
 |||
 |2024-10-20|**Region: en-IN**||
