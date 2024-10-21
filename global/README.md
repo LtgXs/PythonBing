@@ -6,9 +6,9 @@
 ||*Copyright: Cypress trees in George L. Smith State Park, Georgia (© Chris Moore/TANDEM Stills + Motion)*
 ||
 |||
-|2024-10-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AutumnCypress_JA-JP4647054612_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnCypress_JA-JP4647054612_UHD.jpg)|
-||*Copyright: ジョージ・エル・スミス州立公園, 米国 ジョージア州 (© Chris Moore/TANDEM Stills + Motion)*
+|2024-10-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HeianJingu2024_JA-JP4866409141_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HeianJingu2024_JA-JP4866409141_UHD.jpg)|
+||*Copyright: 平安神宮, 京都府 京都市 (© Ulana Switucha/Alamy Stock Photo)*
 ||
 |||
 |2024-10-21|**Region: en-IN**||
