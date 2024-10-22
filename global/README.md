@@ -6,9 +6,9 @@
 ||*Copyright: Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)*
 ||
 |||
-|2024-10-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HeianJingu2024_JA-JP4866409141_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HeianJingu2024_JA-JP4866409141_UHD.jpg)|
-||*Copyright: 平安神宮, 京都府 京都市 (© Ulana Switucha/Alamy Stock Photo)*
+|2024-10-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HottaiFalls2024_JA-JP5036595123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HottaiFalls2024_JA-JP5036595123_UHD.jpg)|
+||*Copyright: 紅葉に包まれた法体の滝, 秋田県 由利本荘市 (© nattya3714/Getty Images)*
 ||
 |||
 |2024-10-22|**Region: en-IN**||
