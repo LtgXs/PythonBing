@@ -1,0 +1,60 @@
+
+Program started at 09:28:16
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az730-34
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[09:28:16] Start geting CN Bing Wallpaper
+[09:28:16] Successful get url: https://www.bing.com/th?id=OHR.MonsterDoor_ZH-CN6613337019_UHD.jpg
+[09:28:16] Image saved to img/background.jpg
+[09:28:16] Info saved to README.md
+[09:28:16] Image saved to history/2024/10/22.md
+[09:28:16] Start geting global Bing Wallpaper, region=en-US, local time is 2024-10-22 05:28:16.835613-04:00
+[09:28:16] Successful get url: https://www.bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg
+[09:28:16] Picture infomations saved to  global/en-US/README.md
+[09:28:16] Picture infomations saved to global/en-US/history/2024/10/23_en-US.md
+[09:28:16] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-10-22 18:28:16.956172+09:00
+[09:28:17] Successful get url: https://www.bing.com/th?id=OHR.HeianJingu2024_JA-JP4866409141_UHD.jpg
+[09:28:17] Picture infomations saved to  global/ja-JP/README.md
+[09:28:17] Picture infomations saved to global/ja-JP/history/2024/10/22_ja-JP.md
+[09:28:17] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-10-22 14:58:17.056004+05:30
+[09:28:17] Successful get url: https://www.bing.com/th?id=OHR.MonsterDoor_EN-IN9699696476_UHD.jpg
+[09:28:17] Picture infomations saved to  global/en-IN/README.md
+[09:28:17] Picture infomations saved to global/en-IN/history/2024/10/22_en-IN.md
+[09:28:17] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-10-22 06:28:17.209525-03:00
+[09:28:17] Successful get url: https://www.bing.com/th?id=OHR.MonsterDoor_PT-BR8050114747_UHD.jpg
+[09:28:17] Picture infomations saved to  global/pt-BR/README.md
+[09:28:17] Picture infomations saved to global/pt-BR/history/2024/10/23_pt-BR.md
+[09:28:17] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-10-22 11:28:17.313436+02:00
+[09:28:17] Successful get url: https://www.bing.com/th?id=OHR.MonsterDoor_FR-FR1619086814_UHD.jpg
+[09:28:17] Picture infomations saved to  global/fr-FR/README.md
+[09:28:17] Picture infomations saved to global/fr-FR/history/2024/10/22_fr-FR.md
+[09:28:17] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-10-22 11:28:17.404079+02:00
+[09:28:17] Successful get url: https://www.bing.com/th?id=OHR.MonsterDoor_DE-DE5408236104_UHD.jpg
+[09:28:17] Picture infomations saved to  global/de-DE/README.md
+[09:28:17] Picture infomations saved to global/de-DE/history/2024/10/22_de-DE.md
+[09:28:17] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-10-22 05:28:17.502347-04:00
+[09:28:17] Successful get url: https://www.bing.com/th?id=OHR.MonsterDoor_EN-CA3833144484_UHD.jpg
+[09:28:17] Picture infomations saved to  global/en-CA/README.md
+[09:28:17] Picture infomations saved to global/en-CA/history/2024/10/23_en-CA.md
+[09:28:17] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-10-22 10:28:17.597228+01:00
+[09:28:17] Successful get url: https://www.bing.com/th?id=OHR.MonsterDoor_EN-GB1067723555_UHD.jpg
+[09:28:17] Picture infomations saved to  global/en-GB/README.md
+[09:28:17] Picture infomations saved to global/en-GB/history/2024/10/22_en-GB.md
+[09:28:17] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-10-22 11:28:17.697710+02:00
+[09:28:17] Successful get url: https://www.bing.com/th?id=OHR.MonsterDoor_IT-IT8784390686_UHD.jpg
+[09:28:17] Picture infomations saved to  global/it-IT/README.md
+[09:28:17] Picture infomations saved to global/it-IT/history/2024/10/22_it-IT.md
+[09:28:17] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-10-22 11:28:17.839171+02:00
+[09:28:17] Successful get url: https://www.bing.com/th?id=OHR.MonsterDoor_ES-ES5024924639_UHD.jpg
+[09:28:17] Picture infomations saved to  global/es-ES/README.md
+[09:28:17] Picture infomations saved to global/es-ES/history/2024/10/22_es-ES.md
+[09:28:17] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-10-22 05:28:17.948077-04:00
+[09:28:17] Successful get url: https://www.bing.com/th?id=OHR.MonsterDoor_FR-CA3004602263_UHD.jpg
+[09:28:18] Picture infomations saved to  global/fr-CA/README.md
+[09:28:18] Picture infomations saved to global/fr-CA/history/2024/10/23_fr-CA.md
+Program exit at 09:28:18
