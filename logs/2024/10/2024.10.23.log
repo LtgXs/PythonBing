@@ -1,0 +1,60 @@
+
+Program started at 09:28:07
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1148-153
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[09:28:07] Start geting CN Bing Wallpaper
+[09:28:07] Successful get url: https://www.bing.com/th?id=OHR.MadameSherriCastle_ZH-CN8101580548_UHD.jpg
+[09:28:07] Image saved to img/background.jpg
+[09:28:07] Info saved to README.md
+[09:28:07] Image saved to history/2024/10/23.md
+[09:28:07] Start geting global Bing Wallpaper, region=en-US, local time is 2024-10-23 05:28:07.869453-04:00
+[09:28:07] Successful get url: https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg
+[09:28:07] Picture infomations saved to  global/en-US/README.md
+[09:28:07] Picture infomations saved to global/en-US/history/2024/10/24_en-US.md
+[09:28:07] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-10-23 18:28:07.991748+09:00
+[09:28:08] Successful get url: https://www.bing.com/th?id=OHR.HottaiFalls2024_JA-JP5036595123_UHD.jpg
+[09:28:08] Picture infomations saved to  global/ja-JP/README.md
+[09:28:08] Picture infomations saved to global/ja-JP/history/2024/10/23_ja-JP.md
+[09:28:08] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-10-23 14:58:08.083484+05:30
+[09:28:08] Successful get url: https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-IN8531009013_UHD.jpg
+[09:28:08] Picture infomations saved to  global/en-IN/README.md
+[09:28:08] Picture infomations saved to global/en-IN/history/2024/10/23_en-IN.md
+[09:28:08] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-10-23 06:28:08.180907-03:00
+[09:28:08] Successful get url: https://www.bing.com/th?id=OHR.MadameSherriCastle_PT-BR6347507629_UHD.jpg
+[09:28:08] Picture infomations saved to  global/pt-BR/README.md
+[09:28:08] Picture infomations saved to global/pt-BR/history/2024/10/24_pt-BR.md
+[09:28:08] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-10-23 11:28:08.274361+02:00
+[09:28:08] Successful get url: https://www.bing.com/th?id=OHR.MadameSherriCastle_FR-FR1984816895_UHD.jpg
+[09:28:08] Picture infomations saved to  global/fr-FR/README.md
+[09:28:08] Picture infomations saved to global/fr-FR/history/2024/10/23_fr-FR.md
+[09:28:08] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-10-23 11:28:08.378513+02:00
+[09:28:08] Successful get url: https://www.bing.com/th?id=OHR.MadameSherriCastle_DE-DE5744863677_UHD.jpg
+[09:28:08] Picture infomations saved to  global/de-DE/README.md
+[09:28:08] Picture infomations saved to global/de-DE/history/2024/10/23_de-DE.md
+[09:28:08] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-10-23 05:28:08.500522-04:00
+[09:28:08] Successful get url: https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-CA4239046959_UHD.jpg
+[09:28:08] Picture infomations saved to  global/en-CA/README.md
+[09:28:08] Picture infomations saved to global/en-CA/history/2024/10/24_en-CA.md
+[09:28:08] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-10-23 10:28:08.599374+01:00
+[09:28:08] Successful get url: https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-GB1499930962_UHD.jpg
+[09:28:08] Picture infomations saved to  global/en-GB/README.md
+[09:28:08] Picture infomations saved to global/en-GB/history/2024/10/23_en-GB.md
+[09:28:08] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-10-23 11:28:08.689924+02:00
+[09:28:08] Successful get url: https://www.bing.com/th?id=OHR.MadameSherriCastle_IT-IT9899044856_UHD.jpg
+[09:28:08] Picture infomations saved to  global/it-IT/README.md
+[09:28:08] Picture infomations saved to global/it-IT/history/2024/10/23_it-IT.md
+[09:28:08] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-10-23 11:28:08.779255+02:00
+[09:28:08] Successful get url: https://www.bing.com/th?id=OHR.MadameSherriCastle_ES-ES5465850896_UHD.jpg
+[09:28:08] Picture infomations saved to  global/es-ES/README.md
+[09:28:08] Picture infomations saved to global/es-ES/history/2024/10/23_es-ES.md
+[09:28:08] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-10-23 05:28:08.896457-04:00
+[09:28:08] Successful get url: https://www.bing.com/th?id=OHR.MadameSherriCastle_FR-CA3233145393_UHD.jpg
+[09:28:09] Picture infomations saved to  global/fr-CA/README.md
+[09:28:09] Picture infomations saved to global/fr-CA/history/2024/10/24_fr-CA.md
+Program exit at 09:28:09
