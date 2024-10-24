@@ -6,9 +6,9 @@
 ||*Copyright: Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)*
 ||
 |||
-|2024-10-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BodieCalifornia_JA-JP5239125800_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BodieCalifornia_JA-JP5239125800_UHD.jpg)|
-||*Copyright: ボディ州立歴史公園, 米国 カリフォルニア州 (© Julien McRoberts/Tetra Images, LLC/Alamy)*
+|2024-10-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MontBlancMassif_JA-JP5454742573_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontBlancMassif_JA-JP5454742573_UHD.jpg)|
+||*Copyright: シャモニー, フランス (© Simon Schöpf/Getty Images)*
 ||
 |||
 |2024-10-24|**Region: en-IN**||

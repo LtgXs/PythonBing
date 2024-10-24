@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:28:21] Picture infomations saved to  global/fr-CA/README.md
 [09:28:21] Picture infomations saved to global/fr-CA/history/2024/10/25_fr-CA.md
 Program exit at 09:28:21
+
+Program started at 16:13:44
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1433-736
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[16:13:44] Start geting CN Bing Wallpaper
+[16:13:44] Successful get url: https://www.bing.com/th?id=OHR.MontBlancMassif_ZH-CN9172264924_UHD.jpg
+[16:13:44] Image saved to img/background.jpg
+[16:13:44] Info saved to README.md
+[16:13:44] Image saved to history/2024/10/25.md
+[16:13:44] Start geting global Bing Wallpaper, region=en-US, local time is 2024-10-24 12:13:44.441157-04:00
+[16:13:44] Successful get url: https://www.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg
+[16:13:44] Picture infomations saved to  global/en-US/README.md
+[16:13:44] Picture infomations saved to global/en-US/history/2024/10/25_en-US.md
+[16:13:44] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-10-25 01:13:44.545574+09:00
+[16:13:44] Successful get url: https://www.bing.com/th?id=OHR.MontBlancMassif_JA-JP5454742573_UHD.jpg
+[16:13:44] Picture infomations saved to  global/ja-JP/README.md
+[16:13:44] Picture infomations saved to global/ja-JP/history/2024/10/25_ja-JP.md
+[16:13:44] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-10-24 21:43:44.692519+05:30
+[16:13:44] Successful get url: https://www.bing.com/th?id=OHR.BodieCalifornia_EN-IN0325721047_UHD.jpg
+[16:13:44] Picture infomations saved to  global/en-IN/README.md
+[16:13:44] Picture infomations saved to global/en-IN/history/2024/10/24_en-IN.md
+[16:13:44] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-10-24 13:13:44.790324-03:00
+[16:13:44] Successful get url: https://www.bing.com/th?id=OHR.GreatOwl_PT-BR6294923796_UHD.jpg
+[16:13:44] Picture infomations saved to  global/pt-BR/README.md
+[16:13:44] Picture infomations saved to global/pt-BR/history/2024/10/25_pt-BR.md
+[16:13:44] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-10-24 18:13:44.883719+02:00
+[16:13:44] Successful get url: https://www.bing.com/th?id=OHR.BodieCalifornia_FR-FR2619483775_UHD.jpg
+[16:13:44] Picture infomations saved to  global/fr-FR/README.md
+[16:13:44] Picture infomations saved to global/fr-FR/history/2024/10/24_fr-FR.md
+[16:13:44] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-10-24 18:13:44.995862+02:00
+[16:13:45] Successful get url: https://www.bing.com/th?id=OHR.HumboldtUniversityLibrary_DE-DE9129729075_UHD.jpg
+[16:13:45] Picture infomations saved to  global/de-DE/README.md
+[16:13:45] Picture infomations saved to global/de-DE/history/2024/10/24_de-DE.md
+[16:13:45] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-10-24 12:13:45.141552-04:00
+[16:13:45] Successful get url: https://www.bing.com/th?id=OHR.BodieCalifornia_EN-CA4900321008_UHD.jpg
+[16:13:45] Picture infomations saved to  global/en-CA/README.md
+[16:13:45] Picture infomations saved to global/en-CA/history/2024/10/25_en-CA.md
+[16:13:45] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-10-24 17:13:45.259753+01:00
+[16:13:45] Successful get url: https://www.bing.com/th?id=OHR.BodieCalifornia_EN-GB1752364687_UHD.jpg
+[16:13:45] Picture infomations saved to  global/en-GB/README.md
+[16:13:45] Picture infomations saved to global/en-GB/history/2024/10/24_en-GB.md
+[16:13:45] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-10-24 18:13:45.379817+02:00
+[16:13:45] Successful get url: https://www.bing.com/th?id=OHR.GhostForest_IT-IT8926574914_UHD.jpg
+[16:13:45] Picture infomations saved to  global/it-IT/README.md
+[16:13:45] Picture infomations saved to global/it-IT/history/2024/10/24_it-IT.md
+[16:13:45] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-10-24 18:13:45.470389+02:00
+[16:13:45] Successful get url: https://www.bing.com/th?id=OHR.BodieCalifornia_ES-ES5750296287_UHD.jpg
+[16:13:45] Picture infomations saved to  global/es-ES/README.md
+[16:13:45] Picture infomations saved to global/es-ES/history/2024/10/24_es-ES.md
+[16:13:45] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-10-24 12:13:45.613272-04:00
+[16:13:45] Successful get url: https://www.bing.com/th?id=OHR.BodieCalifornia_FR-CA3435010642_UHD.jpg
+[16:13:45] Picture infomations saved to  global/fr-CA/README.md
+[16:13:45] Picture infomations saved to global/fr-CA/history/2024/10/25_fr-CA.md
+Program exit at 16:13:45
