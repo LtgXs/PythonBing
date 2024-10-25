@@ -6,9 +6,9 @@
 ||*Copyright: The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)*
 ||
 |||
-|2024-10-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MontBlancMassif_JA-JP5454742573_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontBlancMassif_JA-JP5454742573_UHD.jpg)|
-||*Copyright: シャモニー, フランス (© Simon Schöpf/Getty Images)*
+|2024-10-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GhostForest_JA-JP5609597853_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GhostForest_JA-JP5609597853_UHD.jpg)|
+||*Copyright: ニーンハーゲンのゴーストフォレスト, ドイツ メクレンブルク ＝ フォアポンメルン州 (© mauritius images GmbH/Alamy)*
 ||
 |||
 |2024-10-25|**Region: en-IN**||
