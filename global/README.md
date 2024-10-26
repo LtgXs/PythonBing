@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-10-26|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg)|
-||*Copyright: The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)*
+|2024-10-27|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg)|
+||*Copyright: Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy)*
 ||
 |||
 |2024-10-26|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ニーンハーゲンのゴーストフォレスト, ドイツ メクレンブルク ＝ フォアポンメルン州 (© mauritius images GmbH/Alamy)*
 ||
 |||
-|2024-10-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GoldenTempleIN_EN-IN0200918572_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenTempleIN_EN-IN0200918572_UHD.jpg)|
-||*Copyright: Golden Temple at dusk, Amritsar (© Vincent Boisvert, all right reserved/Getty Images)*
+|2024-10-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GhostForest_EN-IN3485758200_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GhostForest_EN-IN3485758200_UHD.jpg)|
+||*Copyright: Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy Stock Photo)*
 ||
 |||
-|2024-10-26|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MontBlancMassif_PT-BR6216119824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontBlancMassif_PT-BR6216119824_UHD.jpg)|
-||*Copyright: Mont Blanc em Chamonix, França (© Simon Schöpf/Getty Images)*
+|2024-10-27|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GhostForest_PT-BR6077995597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GhostForest_PT-BR6077995597_UHD.jpg)|
+||*Copyright: Floresta Fantasma, Nienhagen, Alemanha (© mauritius images GmbH/Alamy)*
 ||
 |||
-|2024-10-25|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MontBlancMassif_FR-FR3086355782_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontBlancMassif_FR-FR3086355782_UHD.jpg)|
-||*Copyright: Massif du Mont-Blanc, Chamonix (© Simon Schöpf/Getty Images)*
+|2024-10-26|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.DaylightOrsay_FR-FR6504936679_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DaylightOrsay_FR-FR6504936679_UHD.jpg)|
+||*Copyright: Vue de Paris à travers l'horloge géante du Musée d'Orsay, Paris (© Bruce Beck/Alamy Stock Photo)*
 ||
 |||
-|2024-10-25|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MontBlancMassif_DE-DE0416304565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontBlancMassif_DE-DE0416304565_UHD.jpg)|
-||*Copyright: Mont Blanc in Chamonix, Frankreich (© Simon Schöpf/Getty Images)*
+|2024-10-26|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GhostForest_DE-DE7650231907_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GhostForest_DE-DE7650231907_UHD.jpg)|
+||*Copyright: Gespensterwald, Nienhagen, Mecklenburg-Vorpommern (© mauritius images GmbH/Alamy Stock Photo)*
 ||
 |||
-|2024-10-26|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MontBlancMassif_EN-CA4972012680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontBlancMassif_EN-CA4972012680_UHD.jpg)|
-||*Copyright: Mont Blanc in Chamonix, France (© Simon Schöpf/Getty Images)*
+|2024-10-27|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GhostForest_EN-CA5302994217_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GhostForest_EN-CA5302994217_UHD.jpg)|
+||*Copyright: Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy Stock Photo)*
 ||
 |||
-|2024-10-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MontBlancMassif_EN-GB2071333210_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontBlancMassif_EN-GB2071333210_UHD.jpg)|
-||*Copyright: Mont Blanc in Chamonix, France (© Simon Schöpf/Getty Images)*
+|2024-10-26|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GhostForest_EN-GB6546865643_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GhostForest_EN-GB6546865643_UHD.jpg)|
+||*Copyright: Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy Stock Photo)*
 ||
 |||
-|2024-10-25|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GiornataMondialeDellaPasta_IT-IT9004534121_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiornataMondialeDellaPasta_IT-IT9004534121_UHD.jpg)|
-||*Copyright: Isola di Procida, Golfo di Napoli, Campania, Italia (© RolfSt/iStock/Getty Images Plus)*
+|2024-10-26|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MateraFolklore_IT-IT9091648904_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MateraFolklore_IT-IT9091648904_UHD.jpg)|
+||*Copyright: Parco delle Chiese Rupestri, Matera, Basilicata, Italia (© Vincenzo Mazza - www.afterglow.it/Getty Images)*
 ||
 |||
-|2024-10-25|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MontBlancMassif_ES-ES6175226361_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontBlancMassif_ES-ES6175226361_UHD.jpg)|
-||*Copyright: Mont Blanc en Chamonix, Francia (© Simon Schöpf/Getty Images)*
+|2024-10-26|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GhostForest_ES-ES2765501989_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GhostForest_ES-ES2765501989_UHD.jpg)|
+||*Copyright: Bosque fantasma, Nienhagen, Mecklemburgo-Pomerania Occidental, Alemania (© mauritius images GmbH/Alamy)*
 ||
 |||
-|2024-10-26|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MontBlancMassif_FR-CA3630976248_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontBlancMassif_FR-CA3630976248_UHD.jpg)|
-||*Copyright: Massif du Mont-Blanc, Chamonix (© Simon Schöpf/Getty Images)*
+|2024-10-27|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GhostForest_FR-CA3800284768_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GhostForest_FR-CA3800284768_UHD.jpg)|
+||*Copyright: Fôret de Gespensterwald, Nienhagen, Mecklembourg-Poméranie-Occidentale, Allemagne (© mauritius images GmbH/Alamy)*
 ||
 |||
 
