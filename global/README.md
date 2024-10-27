@@ -6,9 +6,9 @@
 ||*Copyright: Polar bear mom and cub, Churchill, Manitoba, Canada (© Design Pics/plainpicture)*
 ||
 |||
-|2024-10-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PolarBearHug_JA-JP5883977862_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearHug_JA-JP5883977862_UHD.jpg)|
-||*Copyright: 寄り添うホッキョクグマの親子, カナダ マニトバ州 (© Design Pics/plainpicture)*
+|2024-10-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PumpkinMist_JA-JP6129439723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PumpkinMist_JA-JP6129439723_UHD.jpg)|
+||*Copyright: ビクトリアのパンプキン畑, カナダ ブリティッシュコロンビア州 (© Shaun Cunningham/Alamy)*
 ||
 |||
 |2024-10-27|**Region: en-IN**||
