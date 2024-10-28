@@ -6,9 +6,9 @@
 ||*Copyright: Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)*
 ||
 |||
-|2024-10-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PumpkinMist_JA-JP6129439723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PumpkinMist_JA-JP6129439723_UHD.jpg)|
-||*Copyright: ビクトリアのパンプキン畑, カナダ ブリティッシュコロンビア州 (© Shaun Cunningham/Alamy)*
+|2024-10-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GreatOwl_JA-JP6299309375_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreatOwl_JA-JP6299309375_UHD.jpg)|
+||*Copyright: アメリカワシミミズク (© Mark Newman/Getty Images)*
 ||
 |||
 |2024-10-28|**Region: en-IN**||
