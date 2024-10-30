@@ -6,9 +6,9 @@
 ||*Copyright: View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)*
 ||
 |||
-|2024-10-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HauntedEdinburgh_JA-JP6454143527_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HauntedEdinburgh_JA-JP6454143527_UHD.jpg)|
-||*Copyright: エディンバラ城, イギリス (© Chris Dorney/Alamy)*
+|2024-10-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Halloween2024_JA-JP6692896772_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Halloween2024_JA-JP6692896772_UHD.jpg)|
+||*Copyright: 草間彌生の「南瓜」, 香川県 香川郡 (© hedgehog111/Shutterstock)*
 ||
 |||
 |2024-10-30|**Region: en-IN**||
