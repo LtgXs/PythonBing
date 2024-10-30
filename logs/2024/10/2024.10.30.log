@@ -1,0 +1,60 @@
+
+Program started at 09:28:25
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az520-282
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[09:28:25] Start geting CN Bing Wallpaper
+[09:28:25] Successful get url: https://www.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg
+[09:28:25] Image saved to img/background.jpg
+[09:28:25] Info saved to README.md
+[09:28:25] Image saved to history/2024/10/30.md
+[09:28:25] Start geting global Bing Wallpaper, region=en-US, local time is 2024-10-30 05:28:25.516690-04:00
+[09:28:25] Successful get url: https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg
+[09:28:25] Picture infomations saved to  global/en-US/README.md
+[09:28:25] Picture infomations saved to global/en-US/history/2024/10/31_en-US.md
+[09:28:25] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-10-30 18:28:25.632775+09:00
+[09:28:25] Successful get url: https://www.bing.com/th?id=OHR.HauntedEdinburgh_JA-JP6454143527_UHD.jpg
+[09:28:25] Picture infomations saved to  global/ja-JP/README.md
+[09:28:25] Picture infomations saved to global/ja-JP/history/2024/10/30_ja-JP.md
+[09:28:25] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-10-30 14:58:25.777263+05:30
+[09:28:25] Successful get url: https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-IN2114348431_UHD.jpg
+[09:28:25] Picture infomations saved to  global/en-IN/README.md
+[09:28:25] Picture infomations saved to global/en-IN/history/2024/10/30_en-IN.md
+[09:28:25] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-10-30 06:28:25.918918-03:00
+[09:28:25] Successful get url: https://www.bing.com/th?id=OHR.HauntedEdinburgh_PT-BR5740528750_UHD.jpg
+[09:28:26] Picture infomations saved to  global/pt-BR/README.md
+[09:28:26] Picture infomations saved to global/pt-BR/history/2024/10/31_pt-BR.md
+[09:28:26] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-10-30 10:28:26.012201+01:00
+[09:28:26] Successful get url: https://www.bing.com/th?id=OHR.HauntedEdinburgh_FR-FR5789637805_UHD.jpg
+[09:28:26] Picture infomations saved to  global/fr-FR/README.md
+[09:28:26] Picture infomations saved to global/fr-FR/history/2024/10/30_fr-FR.md
+[09:28:26] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-10-30 10:28:26.106156+01:00
+[09:28:26] Successful get url: https://www.bing.com/th?id=OHR.HauntedEdinburgh_DE-DE5335021616_UHD.jpg
+[09:28:26] Picture infomations saved to  global/de-DE/README.md
+[09:28:26] Picture infomations saved to global/de-DE/history/2024/10/30_de-DE.md
+[09:28:26] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-10-30 05:28:26.220219-04:00
+[09:28:26] Successful get url: https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-CA6524249488_UHD.jpg
+[09:28:26] Picture infomations saved to  global/en-CA/README.md
+[09:28:26] Picture infomations saved to global/en-CA/history/2024/10/31_en-CA.md
+[09:28:26] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-10-30 09:28:26.315062+00:00
+[09:28:26] Successful get url: https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-GB3981139829_UHD.jpg
+[09:28:26] Picture infomations saved to  global/en-GB/README.md
+[09:28:26] Picture infomations saved to global/en-GB/history/2024/10/31_en-GB.md
+[09:28:26] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-10-30 10:28:26.410279+01:00
+[09:28:26] Successful get url: https://www.bing.com/th?id=OHR.HauntedEdinburgh_IT-IT6003359191_UHD.jpg
+[09:28:26] Picture infomations saved to  global/it-IT/README.md
+[09:28:26] Picture infomations saved to global/it-IT/history/2024/10/30_it-IT.md
+[09:28:26] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-10-30 10:28:26.551181+01:00
+[09:28:26] Successful get url: https://www.bing.com/th?id=OHR.HauntedEdinburgh_ES-ES3286905259_UHD.jpg
+[09:28:26] Picture infomations saved to  global/es-ES/README.md
+[09:28:26] Picture infomations saved to global/es-ES/history/2024/10/30_es-ES.md
+[09:28:26] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-10-30 05:28:26.708699-04:00
+[09:28:26] Successful get url: https://www.bing.com/th?id=OHR.HauntedEdinburgh_FR-CA4547077323_UHD.jpg
+[09:28:26] Picture infomations saved to  global/fr-CA/README.md
+[09:28:26] Picture infomations saved to global/fr-CA/history/2024/10/31_fr-CA.md
+Program exit at 09:28:26
