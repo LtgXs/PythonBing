@@ -6,9 +6,9 @@
 ||*Copyright: Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)*
 ||
 |||
-|2024-10-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Halloween2024_JA-JP6692896772_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Halloween2024_JA-JP6692896772_UHD.jpg)|
-||*Copyright: 草間彌生の「南瓜」, 香川県 香川郡 (© hedgehog111/Shutterstock)*
+|2024-11-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LencoisMaranhao_JA-JP9337793324_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LencoisMaranhao_JA-JP9337793324_UHD.jpg)|
+||*Copyright: レンソイス・マラニャンセス国立公園, ブラジル マラニャン州 (© thanosquest/Shutterstock)*
 ||
 |||
 |2024-10-31|**Region: en-IN**||
