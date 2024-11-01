@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:57] Picture infomations saved to  global/fr-CA/README.md
 [09:27:57] Picture infomations saved to global/fr-CA/history/2024/11/02_fr-CA.md
 Program exit at 09:27:57
+
+Program started at 16:14:00
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az569-105
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[16:14:00] Start geting CN Bing Wallpaper
+[16:14:00] Successful get url: https://www.bing.com/th?id=OHR.BisonYellowstone_ZH-CN7320887379_UHD.jpg
+[16:14:00] Image saved to img/background.jpg
+[16:14:00] Info saved to README.md
+[16:14:00] Image saved to history/2024/11/02.md
+[16:14:00] Start geting global Bing Wallpaper, region=en-US, local time is 2024-11-01 12:14:00.995949-04:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg
+[16:14:01] Picture infomations saved to  global/en-US/README.md
+[16:14:01] Picture infomations saved to global/en-US/history/2024/11/02_en-US.md
+[16:14:01] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-11-02 01:14:01.097964+09:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.BisonYellowstone_JA-JP3698112107_UHD.jpg
+[16:14:01] Picture infomations saved to  global/ja-JP/README.md
+[16:14:01] Picture infomations saved to global/ja-JP/history/2024/11/02_ja-JP.md
+[16:14:01] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-11-01 21:44:01.200739+05:30
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.LencoisMaranhao_EN-IN6380365409_UHD.jpg
+[16:14:01] Picture infomations saved to  global/en-IN/README.md
+[16:14:01] Picture infomations saved to global/en-IN/history/2024/11/01_en-IN.md
+[16:14:01] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-11-01 13:14:01.357607-03:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_PT-BR1234639247_UHD.jpg
+[16:14:01] Picture infomations saved to  global/pt-BR/README.md
+[16:14:01] Picture infomations saved to global/pt-BR/history/2024/11/02_pt-BR.md
+[16:14:01] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-11-01 17:14:01.517467+01:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_FR-FR4606412994_UHD.jpg
+[16:14:01] Picture infomations saved to  global/fr-FR/README.md
+[16:14:01] Picture infomations saved to global/fr-FR/history/2024/11/01_fr-FR.md
+[16:14:01] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-11-01 17:14:01.671193+01:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_DE-DE2832375252_UHD.jpg
+[16:14:01] Picture infomations saved to  global/de-DE/README.md
+[16:14:01] Picture infomations saved to global/de-DE/history/2024/11/01_de-DE.md
+[16:14:01] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-11-01 12:14:01.823740-04:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_EN-CA1623253128_UHD.jpg
+[16:14:01] Picture infomations saved to  global/en-CA/README.md
+[16:14:01] Picture infomations saved to global/en-CA/history/2024/11/02_en-CA.md
+[16:14:01] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-11-01 16:14:01.918003+00:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_EN-GB0455898190_UHD.jpg
+[16:14:02] Picture infomations saved to  global/en-GB/README.md
+[16:14:02] Picture infomations saved to global/en-GB/history/2024/11/02_en-GB.md
+[16:14:02] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-11-01 17:14:02.083746+01:00
+[16:14:02] Successful get url: https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_IT-IT5335405353_UHD.jpg
+[16:14:02] Picture infomations saved to  global/it-IT/README.md
+[16:14:02] Picture infomations saved to global/it-IT/history/2024/11/01_it-IT.md
+[16:14:02] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-11-01 17:14:02.213248+01:00
+[16:14:02] Successful get url: https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_ES-ES8727705316_UHD.jpg
+[16:14:02] Picture infomations saved to  global/es-ES/README.md
+[16:14:02] Picture infomations saved to global/es-ES/history/2024/11/01_es-ES.md
+[16:14:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-11-01 12:14:02.368677-04:00
+[16:14:02] Successful get url: https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_FR-CA7375208375_UHD.jpg
+[16:14:02] Picture infomations saved to  global/fr-CA/README.md
+[16:14:02] Picture infomations saved to global/fr-CA/history/2024/11/02_fr-CA.md
+Program exit at 16:14:02
