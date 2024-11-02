@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:26:18] Picture infomations saved to  global/fr-CA/README.md
 [09:26:18] Picture infomations saved to global/fr-CA/history/2024/11/03_fr-CA.md
 Program exit at 09:26:18
+
+Program started at 16:13:00
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1016-35
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[16:13:00] Start geting CN Bing Wallpaper
+[16:13:00] Successful get url: https://www.bing.com/th?id=OHR.YucatanBiosphere_ZH-CN7442392453_UHD.jpg
+[16:13:00] Image saved to img/background.jpg
+[16:13:00] Info saved to README.md
+[16:13:00] Image saved to history/2024/11/03.md
+[16:13:00] Start geting global Bing Wallpaper, region=en-US, local time is 2024-11-02 12:13:00.575406-04:00
+[16:13:00] Successful get url: https://www.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg
+[16:13:00] Picture infomations saved to  global/en-US/README.md
+[16:13:00] Picture infomations saved to global/en-US/history/2024/11/03_en-US.md
+[16:13:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-11-03 01:13:00.675068+09:00
+[16:13:00] Successful get url: https://www.bing.com/th?id=OHR.YucatanBiosphere_JA-JP2886303469_UHD.jpg
+[16:13:00] Picture infomations saved to  global/ja-JP/README.md
+[16:13:00] Picture infomations saved to global/ja-JP/history/2024/11/03_ja-JP.md
+[16:13:00] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-11-02 21:43:00.823736+05:30
+[16:13:00] Successful get url: https://www.bing.com/th?id=OHR.BisonYellowstone_EN-IN4855239793_UHD.jpg
+[16:13:00] Picture infomations saved to  global/en-IN/README.md
+[16:13:00] Picture infomations saved to global/en-IN/history/2024/11/02_en-IN.md
+[16:13:00] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-11-02 13:13:00.984181-03:00
+[16:13:01] Successful get url: https://www.bing.com/th?id=OHR.BisonYellowstone_PT-BR0601244596_UHD.jpg
+[16:13:01] Picture infomations saved to  global/pt-BR/README.md
+[16:13:01] Picture infomations saved to global/pt-BR/history/2024/11/03_pt-BR.md
+[16:13:01] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-11-02 17:13:01.126950+01:00
+[16:13:01] Successful get url: https://www.bing.com/th?id=OHR.BisonYellowstone_FR-FR6975480201_UHD.jpg
+[16:13:01] Picture infomations saved to  global/fr-FR/README.md
+[16:13:01] Picture infomations saved to global/fr-FR/history/2024/11/02_fr-FR.md
+[16:13:01] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-11-02 17:13:01.276091+01:00
+[16:13:01] Successful get url: https://www.bing.com/th?id=OHR.BisonYellowstone_DE-DE2653068985_UHD.jpg
+[16:13:01] Picture infomations saved to  global/de-DE/README.md
+[16:13:01] Picture infomations saved to global/de-DE/history/2024/11/02_de-DE.md
+[16:13:01] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-11-02 12:13:01.438414-04:00
+[16:13:01] Successful get url: https://www.bing.com/th?id=OHR.BisonYellowstone_EN-CA3146107562_UHD.jpg
+[16:13:01] Picture infomations saved to  global/en-CA/README.md
+[16:13:01] Picture infomations saved to global/en-CA/history/2024/11/03_en-CA.md
+[16:13:01] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-11-02 16:13:01.595944+00:00
+[16:13:01] Successful get url: https://www.bing.com/th?id=OHR.BisonYellowstone_EN-GB0992143325_UHD.jpg
+[16:13:01] Picture infomations saved to  global/en-GB/README.md
+[16:13:01] Picture infomations saved to global/en-GB/history/2024/11/03_en-GB.md
+[16:13:01] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-11-02 17:13:01.738910+01:00
+[16:13:01] Successful get url: https://www.bing.com/th?id=OHR.BisonYellowstone_IT-IT5583560788_UHD.jpg
+[16:13:01] Picture infomations saved to  global/it-IT/README.md
+[16:13:01] Picture infomations saved to global/it-IT/history/2024/11/02_it-IT.md
+[16:13:01] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-11-02 17:13:01.884646+01:00
+[16:13:01] Successful get url: https://www.bing.com/th?id=OHR.BisonYellowstone_ES-ES2207390444_UHD.jpg
+[16:13:02] Picture infomations saved to  global/es-ES/README.md
+[16:13:02] Picture infomations saved to global/es-ES/history/2024/11/02_es-ES.md
+[16:13:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-11-02 12:13:02.026651-04:00
+[16:13:02] Successful get url: https://www.bing.com/th?id=OHR.BisonYellowstone_FR-CA7570080999_UHD.jpg
+[16:13:02] Picture infomations saved to  global/fr-CA/README.md
+[16:13:02] Picture infomations saved to global/fr-CA/history/2024/11/03_fr-CA.md
+Program exit at 16:13:02

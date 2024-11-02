@@ -6,9 +6,9 @@
 ||*Copyright: American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)*
 ||
 |||
-|2024-11-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BisonYellowstone_JA-JP3698112107_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonYellowstone_JA-JP3698112107_UHD.jpg)|
-||*Copyright: イエローストーン国立公園, 米国 ワイオミング州 (© Ian Shive/TANDEM Stills + Motion)*
+|2024-11-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YucatanBiosphere_JA-JP2886303469_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanBiosphere_JA-JP2886303469_UHD.jpg)|
+||*Copyright: リア・ラガルトス生物圏保護区, メキシコ ユカタン州 (© Claudio Contreras/Minden Pictures)*
 ||
 |||
 |2024-11-02|**Region: en-IN**||
