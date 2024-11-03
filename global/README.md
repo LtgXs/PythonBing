@@ -6,9 +6,9 @@
 ||*Copyright: Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)*
 ||
 |||
-|2024-11-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YucatanBiosphere_JA-JP2886303469_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanBiosphere_JA-JP2886303469_UHD.jpg)|
-||*Copyright: リア・ラガルトス生物圏保護区, メキシコ ユカタン州 (© Claudio Contreras/Minden Pictures)*
+|2024-11-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CumbriaAutumn_JA-JP9920066326_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CumbriaAutumn_JA-JP9920066326_UHD.jpg)|
+||*Copyright: グラスミア, イングランド カンブリア州 (© Thomas Molyneux/Getty Images)*
 ||
 |||
 |2024-11-03|**Region: en-IN**||
