@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-03|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg)|
-||*Copyright: American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)*
+|2024-11-04|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg)|
+||*Copyright: Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)*
 ||
 |||
 |2024-11-03|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: リア・ラガルトス生物圏保護区, メキシコ ユカタン州 (© Claudio Contreras/Minden Pictures)*
 ||
 |||
-|2024-11-02|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BisonYellowstone_EN-IN4855239793_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonYellowstone_EN-IN4855239793_UHD.jpg)|
-||*Copyright: American bison in Yellowstone National Park, Wyoming, USA (© Ian Shive/TANDEM Stills + Motion)*
+|2024-11-03|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.YucatanBiosphere_EN-IN2120875248_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanBiosphere_EN-IN2120875248_UHD.jpg)|
+||*Copyright: Caribbean flamingo egg in nest, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)*
 ||
 |||
-|2024-11-03|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BisonYellowstone_PT-BR0601244596_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonYellowstone_PT-BR0601244596_UHD.jpg)|
-||*Copyright: Bisões americanos no Parque Nacional de Yellowstone, em Wyoming, EUA (© Ian Shive/TANDEM Stills + Motion)*
+|2024-11-04|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.YucatanBiosphere_PT-BR0460941860_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanBiosphere_PT-BR0460941860_UHD.jpg)|
+||*Copyright: Ovo de flamingo caribenho no ninho, Reserva da Biosfera Ría Lagartos, Yucatán, México (© Claudio Contreras/Minden Pictures)*
 ||
 |||
-|2024-11-02|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BisonYellowstone_FR-FR6975480201_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonYellowstone_FR-FR6975480201_UHD.jpg)|
-||*Copyright: Bison d’Amérique, parc national de Yellowstone, Wyoming, États-Unis (© Ian Shive/TANDEM Stills + Motion)*
+|2024-11-03|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.YucatanBiosphere_FR-FR6083251753_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanBiosphere_FR-FR6083251753_UHD.jpg)|
+||*Copyright: Œufs de flamants roses des Caraïbes dans leur nid, Réserve de biosphère de Ría Lagartos, Yucatán, Mexique (© Claudio Contreras/Minden Pictures)*
 ||
 |||
-|2024-11-02|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BisonYellowstone_DE-DE2653068985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonYellowstone_DE-DE2653068985_UHD.jpg)|
-||*Copyright: Amerikanischer Bison im Yellowstone-Nationalpark, Wyoming, USA (© Ian Shive/TANDEM Stills + Motion)*
+|2024-11-03|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.YucatanBiosphere_DE-DE7980917018_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanBiosphere_DE-DE7980917018_UHD.jpg)|
+||*Copyright: Flamingo-Ei im Nest, Biosphärenreservat Ría Lagartos, Yucatán, Mexiko (© Claudio Contreras/Minden Pictures)*
 ||
 |||
-|2024-11-03|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BisonYellowstone_EN-CA3146107562_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonYellowstone_EN-CA3146107562_UHD.jpg)|
-||*Copyright: American bison in Yellowstone National Park, Wyoming, USA (© Ian Shive/TANDEM Stills + Motion)*
+|2024-11-04|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.YucatanBiosphere_EN-CA2792700444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanBiosphere_EN-CA2792700444_UHD.jpg)|
+||*Copyright: Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)*
 ||
 |||
-|2024-11-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BisonYellowstone_EN-GB0992143325_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonYellowstone_EN-GB0992143325_UHD.jpg)|
-||*Copyright: American bison in Yellowstone National Park, Wyoming, USA (© Ian Shive/TANDEM Stills + Motion)*
+|2024-11-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.YucatanBiosphere_EN-GB6477525030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanBiosphere_EN-GB6477525030_UHD.jpg)|
+||*Copyright: Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)*
 ||
 |||
-|2024-11-02|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BisonYellowstone_IT-IT5583560788_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonYellowstone_IT-IT5583560788_UHD.jpg)|
-||*Copyright: Bisonte americano nel Parco Nazionale di Yellowstone, Wyoming, Stati Uniti (© Ian Shive/TANDEM Stills + Motion)*
+|2024-11-03|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.YucatanBiosphere_IT-IT6604296714_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanBiosphere_IT-IT6604296714_UHD.jpg)|
+||*Copyright: Uovo di fenicottero caraibico nel nido, Riserva della Biosfera Ría Lagartos, Yucatán, Messico (© Claudio Contreras/Minden Pictures)*
 ||
 |||
-|2024-11-02|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BisonYellowstone_ES-ES2207390444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonYellowstone_ES-ES2207390444_UHD.jpg)|
-||*Copyright: Bisonte americano en el Parque Nacional de Yellowstone, Wyoming, EE. UU. (© Ian Shive/TANDEM Stills + Motion)*
+|2024-11-03|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.YucatanBiosphere_ES-ES9709656302_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanBiosphere_ES-ES9709656302_UHD.jpg)|
+||*Copyright: Huevo de flamenco caribeño en nido, Reserva de la Biósfera Ría Lagartos, Yucatán, México (© Claudio Contreras/Minden Pictures)*
 ||
 |||
-|2024-11-03|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BisonYellowstone_FR-CA7570080999_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonYellowstone_FR-CA7570080999_UHD.jpg)|
-||*Copyright: Bison d’Amérique, parc national de Yellowstone, Wyoming, États-Unis (© Ian Shive/TANDEM Stills + Motion)*
+|2024-11-04|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.YucatanBiosphere_FR-CA7861757179_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanBiosphere_FR-CA7861757179_UHD.jpg)|
+||*Copyright: Œufs de flamants roses des Caraïbes dans leur nid, Réserve de biosphère de Ría Lagartos, Yucatán, Mexique (© Claudio Contreras/Minden Pictures)*
 ||
 |||
 
