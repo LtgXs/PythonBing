@@ -1,0 +1,60 @@
+
+Program started at 09:29:39
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1106-113
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[09:29:39] Start geting CN Bing Wallpaper
+[09:29:39] Successful get url: https://www.bing.com/th?id=OHR.CumbriaAutumn_ZH-CN7697251216_UHD.jpg
+[09:29:39] Image saved to img/background.jpg
+[09:29:39] Info saved to README.md
+[09:29:39] Image saved to history/2024/11/04.md
+[09:29:39] Start geting global Bing Wallpaper, region=en-US, local time is 2024-11-04 04:29:39.328102-05:00
+[09:29:39] Successful get url: https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg
+[09:29:39] Picture infomations saved to  global/en-US/README.md
+[09:29:39] Picture infomations saved to global/en-US/history/2024/11/05_en-US.md
+[09:29:39] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-11-04 18:29:39.446491+09:00
+[09:29:39] Successful get url: https://www.bing.com/th?id=OHR.CumbriaAutumn_JA-JP9920066326_UHD.jpg
+[09:29:39] Picture infomations saved to  global/ja-JP/README.md
+[09:29:39] Picture infomations saved to global/ja-JP/history/2024/11/04_ja-JP.md
+[09:29:39] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-11-04 14:59:39.558483+05:30
+[09:29:39] Successful get url: https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-IN5406739257_UHD.jpg
+[09:29:39] Picture infomations saved to  global/en-IN/README.md
+[09:29:39] Picture infomations saved to global/en-IN/history/2024/11/04_en-IN.md
+[09:29:39] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-11-04 06:29:39.695947-03:00
+[09:29:39] Successful get url: https://www.bing.com/th?id=OHR.LencoisMaranhao_PT-BR0859804056_UHD.jpg
+[09:29:39] Picture infomations saved to  global/pt-BR/README.md
+[09:29:39] Picture infomations saved to global/pt-BR/history/2024/11/05_pt-BR.md
+[09:29:39] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-11-04 10:29:39.800115+01:00
+[09:29:39] Successful get url: https://www.bing.com/th?id=OHR.CumbriaAutumn_FR-FR6304384185_UHD.jpg
+[09:29:39] Picture infomations saved to  global/fr-FR/README.md
+[09:29:39] Picture infomations saved to global/fr-FR/history/2024/11/04_fr-FR.md
+[09:29:39] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-11-04 10:29:39.893308+01:00
+[09:29:39] Successful get url: https://www.bing.com/th?id=OHR.CumbriaAutumn_DE-DE9239463628_UHD.jpg
+[09:29:40] Picture infomations saved to  global/de-DE/README.md
+[09:29:40] Picture infomations saved to global/de-DE/history/2024/11/04_de-DE.md
+[09:29:40] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-11-04 04:29:40.056414-05:00
+[09:29:40] Successful get url: https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-CA3180790128_UHD.jpg
+[09:29:40] Picture infomations saved to  global/en-CA/README.md
+[09:29:40] Picture infomations saved to global/en-CA/history/2024/11/05_en-CA.md
+[09:29:40] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-11-04 09:29:40.178849+00:00
+[09:29:40] Successful get url: https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-GB1543365213_UHD.jpg
+[09:29:40] Picture infomations saved to  global/en-GB/README.md
+[09:29:40] Picture infomations saved to global/en-GB/history/2024/11/05_en-GB.md
+[09:29:40] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-11-04 10:29:40.326103+01:00
+[09:29:40] Successful get url: https://www.bing.com/th?id=OHR.NationalUnityDayIT_IT-IT9698106067_UHD.jpg
+[09:29:40] Picture infomations saved to  global/it-IT/README.md
+[09:29:40] Picture infomations saved to global/it-IT/history/2024/11/04_it-IT.md
+[09:29:40] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-11-04 10:29:40.418108+01:00
+[09:29:40] Successful get url: https://www.bing.com/th?id=OHR.CumbriaAutumn_ES-ES0346174499_UHD.jpg
+[09:29:40] Picture infomations saved to  global/es-ES/README.md
+[09:29:40] Picture infomations saved to global/es-ES/history/2024/11/04_es-ES.md
+[09:29:40] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-11-04 04:29:40.550848-05:00
+[09:29:40] Successful get url: https://www.bing.com/th?id=OHR.CumbriaAutumn_FR-CA8087428882_UHD.jpg
+[09:29:40] Picture infomations saved to  global/fr-CA/README.md
+[09:29:40] Picture infomations saved to global/fr-CA/history/2024/11/05_fr-CA.md
+Program exit at 09:29:40
