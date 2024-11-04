@@ -6,9 +6,9 @@
 ||*Copyright: Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)*
 ||
 |||
-|2024-11-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CumbriaAutumn_JA-JP9920066326_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CumbriaAutumn_JA-JP9920066326_UHD.jpg)|
-||*Copyright: グラスミア, イングランド カンブリア州 (© Thomas Molyneux/Getty Images)*
+|2024-11-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Torinoichi2024_JA-JP3936994887_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Torinoichi2024_JA-JP3936994887_UHD.jpg)|
+||*Copyright: 酉の市で販売される縁起熊手, 東京 (© ASSOCIATED PRESS/AP)*
 ||
 |||
 |2024-11-04|**Region: en-IN**||
