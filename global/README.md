@@ -6,9 +6,9 @@
 ||*Copyright: Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)*
 ||
 |||
-|2024-11-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Torinoichi2024_JA-JP3936994887_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Torinoichi2024_JA-JP3936994887_UHD.jpg)|
-||*Copyright: 酉の市で販売される縁起熊手, 東京 (© ASSOCIATED PRESS/AP)*
+|2024-11-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ShiShiBeach_JA-JP1245886715_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShiShiBeach_JA-JP1245886715_UHD.jpg)|
+||*Copyright: オリンピック国立公園, 米国 ワシントン州 (© T.M. Schultze/TANDEM Stills + Motion)*
 ||
 |||
 |2024-11-05|**Region: en-IN**||
