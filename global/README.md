@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg)|
-||*Copyright: Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)*
+|2024-11-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg)|
+||*Copyright: Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)*
 ||
 |||
 |2024-11-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 酉の市で販売される縁起熊手, 東京 (© ASSOCIATED PRESS/AP)*
 ||
 |||
-|2024-11-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-IN5406739257_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-IN5406739257_UHD.jpg)|
-||*Copyright: Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)*
+|2024-11-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AdinathTemple_EN-IN6085140917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AdinathTemple_EN-IN6085140917_UHD.jpg)|
+||*Copyright: Ranakpur Jain temple, Ranakpur, Rajasthan (© Anne-Marie Palmer/Alamy Stock Photo)*
 ||
 |||
-|2024-11-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LencoisMaranhao_PT-BR0859804056_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LencoisMaranhao_PT-BR0859804056_UHD.jpg)|
-||*Copyright: Pôr do sol no Parque Nacional dos Lençóis Maranhenses, Maranhão, Brasil (© thanosquest/Shutterstock)*
+|2024-11-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DiadaLinguaPortuguesa_PT-BR1619682232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiadaLinguaPortuguesa_PT-BR1619682232_UHD.jpg)|
+||*Copyright: Vista de livros antigos na Biblioteca Nacional Brasileira no Rio de Janeiro (© CHRISTOPHE SIMON/AFP via Getty Images)*
 ||
 |||
-|2024-11-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CumbriaAutumn_FR-FR6304384185_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CumbriaAutumn_FR-FR6304384185_UHD.jpg)|
-||*Copyright: Grasmere, Lake District, Cumbria, Angleterre (© Thomas Molyneux/Getty Images)*
+|2024-11-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.YucatanFlamingos_FR-FR7541144444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanFlamingos_FR-FR7541144444_UHD.jpg)|
+||*Copyright: Flamants des Caraïbes, péninsule du Yucatán, Mexique (© Claudio Contreras/NPL/Minden Pictures)*
 ||
 |||
-|2024-11-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CumbriaAutumn_DE-DE9239463628_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CumbriaAutumn_DE-DE9239463628_UHD.jpg)|
-||*Copyright: Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)*
+|2024-11-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LencoisMaranhao_DE-DE9846218597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LencoisMaranhao_DE-DE9846218597_UHD.jpg)|
+||*Copyright: Sonnenuntergang im Nationalpark Lençóis Maranhenses, Maranhão, Brasilien (© thanosquest/Shutterstock)*
 ||
 |||
-|2024-11-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-CA3180790128_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-CA3180790128_UHD.jpg)|
-||*Copyright: Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)*
+|2024-11-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LencoisMaranhao_EN-CA5418331666_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LencoisMaranhao_EN-CA5418331666_UHD.jpg)|
+||*Copyright: Sunset in Lençóis Maranhenses National Park, Maranhão, Brazil (© thanosquest/Shutterstock)*
 ||
 |||
-|2024-11-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-GB1543365213_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-GB1543365213_UHD.jpg)|
-||*Copyright: Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)*
+|2024-11-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GuyFawkes2024_EN-GB5116542164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GuyFawkes2024_EN-GB5116542164_UHD.jpg)|
+||*Copyright: Fireworks at Bolton Priory, North Yorkshire on Guy Fawkes Night 2015 (© Thomas Holmes/Alamy Stock Photo)*
 ||
 |||
-|2024-11-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.NationalUnityDayIT_IT-IT9698106067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NationalUnityDayIT_IT-IT9698106067_UHD.jpg)|
-||*Copyright: Altare della Patria, Monumento nazionale a Vittorio Emanuele II, Lazio, Roma, Italia (© Fani Kurti/iStock/Getty Images Plus)*
+|2024-11-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LencoisMaranhao_IT-IT2693599851_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LencoisMaranhao_IT-IT2693599851_UHD.jpg)|
+||*Copyright: Tramonto nel Parco Nazionale dei Lençóis Maranhenses, Maranhão, Brasile (© thanosquest/Shutterstock)*
 ||
 |||
-|2024-11-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CumbriaAutumn_ES-ES0346174499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CumbriaAutumn_ES-ES0346174499_UHD.jpg)|
-||*Copyright: Grasmere, Distrito de los Lagos, Cumbria, Reino Unido (© Thomas Molyneux/Getty Images)*
+|2024-11-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SmartCityExpoBarcelona_ES-ES0874398191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmartCityExpoBarcelona_ES-ES0874398191_UHD.jpg)|
+||*Copyright: Amanecer en Barcelona, España (© Noppasin Wongchum/Alamy Stock Photo)*
 ||
 |||
-|2024-11-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CumbriaAutumn_FR-CA8087428882_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CumbriaAutumn_FR-CA8087428882_UHD.jpg)|
-||*Copyright: Grasmere, Lake District, Cumbria, Angleterre (© Thomas Molyneux/Getty Images)*
+|2024-11-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.LencoisMaranhao_FR-CA9225991831_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LencoisMaranhao_FR-CA9225991831_UHD.jpg)|
+||*Copyright: Coucher de soleil dans le parc national de Lençóis Maranhenses, Maranhão, Brésil (© thanosquest/Shutterstock)*
 ||
 |||
 

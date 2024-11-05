@@ -1,0 +1,60 @@
+
+Program started at 09:27:25
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az585-767
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[09:27:25] Start geting CN Bing Wallpaper
+[09:27:25] Successful get url: https://www.bing.com/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg
+[09:27:26] Image saved to img/background.jpg
+[09:27:26] Info saved to README.md
+[09:27:26] Image saved to history/2024/11/05.md
+[09:27:26] Start geting global Bing Wallpaper, region=en-US, local time is 2024-11-05 04:27:26.101506-05:00
+[09:27:26] Successful get url: https://www.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg
+[09:27:26] Picture infomations saved to  global/en-US/README.md
+[09:27:26] Picture infomations saved to global/en-US/history/2024/11/06_en-US.md
+[09:27:26] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-11-05 18:27:26.399927+09:00
+[09:27:26] Successful get url: https://www.bing.com/th?id=OHR.Torinoichi2024_JA-JP3936994887_UHD.jpg
+[09:27:26] Picture infomations saved to  global/ja-JP/README.md
+[09:27:26] Picture infomations saved to global/ja-JP/history/2024/11/05_ja-JP.md
+[09:27:26] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-11-05 14:57:26.729952+05:30
+[09:27:26] Successful get url: https://www.bing.com/th?id=OHR.AdinathTemple_EN-IN6085140917_UHD.jpg
+[09:27:27] Picture infomations saved to  global/en-IN/README.md
+[09:27:27] Picture infomations saved to global/en-IN/history/2024/11/05_en-IN.md
+[09:27:27] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-11-05 06:27:27.062952-03:00
+[09:27:27] Successful get url: https://www.bing.com/th?id=OHR.DiadaLinguaPortuguesa_PT-BR1619682232_UHD.jpg
+[09:27:27] Picture infomations saved to  global/pt-BR/README.md
+[09:27:27] Picture infomations saved to global/pt-BR/history/2024/11/06_pt-BR.md
+[09:27:27] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-11-05 10:27:27.435772+01:00
+[09:27:27] Successful get url: https://www.bing.com/th?id=OHR.YucatanFlamingos_FR-FR7541144444_UHD.jpg
+[09:27:28] Picture infomations saved to  global/fr-FR/README.md
+[09:27:28] Picture infomations saved to global/fr-FR/history/2024/11/05_fr-FR.md
+[09:27:28] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-11-05 10:27:28.075196+01:00
+[09:27:28] Successful get url: https://www.bing.com/th?id=OHR.LencoisMaranhao_DE-DE9846218597_UHD.jpg
+[09:27:28] Picture infomations saved to  global/de-DE/README.md
+[09:27:28] Picture infomations saved to global/de-DE/history/2024/11/05_de-DE.md
+[09:27:28] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-11-05 04:27:28.434549-05:00
+[09:27:28] Successful get url: https://www.bing.com/th?id=OHR.LencoisMaranhao_EN-CA5418331666_UHD.jpg
+[09:27:28] Picture infomations saved to  global/en-CA/README.md
+[09:27:28] Picture infomations saved to global/en-CA/history/2024/11/06_en-CA.md
+[09:27:28] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-11-05 09:27:28.738076+00:00
+[09:27:28] Successful get url: https://www.bing.com/th?id=OHR.GuyFawkes2024_EN-GB5116542164_UHD.jpg
+[09:27:29] Picture infomations saved to  global/en-GB/README.md
+[09:27:29] Picture infomations saved to global/en-GB/history/2024/11/06_en-GB.md
+[09:27:29] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-11-05 10:27:29.036450+01:00
+[09:27:29] Successful get url: https://www.bing.com/th?id=OHR.LencoisMaranhao_IT-IT2693599851_UHD.jpg
+[09:27:29] Picture infomations saved to  global/it-IT/README.md
+[09:27:29] Picture infomations saved to global/it-IT/history/2024/11/05_it-IT.md
+[09:27:29] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-11-05 10:27:29.405917+01:00
+[09:27:29] Successful get url: https://www.bing.com/th?id=OHR.SmartCityExpoBarcelona_ES-ES0874398191_UHD.jpg
+[09:27:29] Picture infomations saved to  global/es-ES/README.md
+[09:27:29] Picture infomations saved to global/es-ES/history/2024/11/05_es-ES.md
+[09:27:29] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-11-05 04:27:29.728794-05:00
+[09:27:29] Successful get url: https://www.bing.com/th?id=OHR.LencoisMaranhao_FR-CA9225991831_UHD.jpg
+[09:27:30] Picture infomations saved to  global/fr-CA/README.md
+[09:27:30] Picture infomations saved to global/fr-CA/history/2024/11/06_fr-CA.md
+Program exit at 09:27:30
