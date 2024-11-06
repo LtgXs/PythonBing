@@ -6,9 +6,9 @@
 ||*Copyright: Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stills + Motion)*
 ||
 |||
-|2024-11-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ShiShiBeach_JA-JP1245886715_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShiShiBeach_JA-JP1245886715_UHD.jpg)|
-||*Copyright: オリンピック国立公園, 米国 ワシントン州 (© T.M. Schultze/TANDEM Stills + Motion)*
+|2024-11-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AnserAlbifrons2024_JA-JP4172907824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnserAlbifrons2024_JA-JP4172907824_UHD.jpg)|
+||*Copyright: マガンの群れ (© feathercollector/Shutterstock)*
 ||
 |||
 |2024-11-06|**Region: en-IN**||
