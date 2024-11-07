@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-07|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg)|
-||*Copyright: Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stills + Motion)*
+|2024-11-08|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg)|
+||*Copyright: Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy)*
 ||
 |||
 |2024-11-07|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: マガンの群れ (© feathercollector/Shutterstock)*
 ||
 |||
-|2024-11-06|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ShiShiBeach_EN-IN6380183906_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShiShiBeach_EN-IN6380183906_UHD.jpg)|
-||*Copyright: Shi Shi Beach in Olympic National Park, Washington, USA (© T.M. Schultze/TANDEM Stills + Motion)*
+|2024-11-07|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CanadaWolves_EN-IN6734242410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaWolves_EN-IN6734242410_UHD.jpg)|
+||*Copyright: Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy Stock Photo)*
 ||
 |||
-|2024-11-07|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ShiShiBeach_PT-BR2103643981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShiShiBeach_PT-BR2103643981_UHD.jpg)|
-||*Copyright: Praia de Shi Shi no Parque Nacional Olímpico, Washington, EUA (© T.M. Schultze/TANDEM Stills + Motion)*
+|2024-11-08|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CanadaWolves_PT-BR2357751401_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaWolves_PT-BR2357751401_UHD.jpg)|
+||*Copyright: Lobos Costeiros de Vancouver na Floresta Tropical Great Bear, Columbia Britânica, Canadá (© Nick Garbutt/Alamy)*
 ||
 |||
-|2024-11-06|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ShiShiBeach_FR-FR6500831097_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShiShiBeach_FR-FR6500831097_UHD.jpg)|
-||*Copyright: Shi Shi Beach, Parc national Olympique, Washington, États-Unis (© T.M. Schultze/TANDEM Stills + Motion)*
+|2024-11-07|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CanadaWolves_FR-FR6675938333_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaWolves_FR-FR6675938333_UHD.jpg)|
+||*Copyright: Loups côtiers de l’île de Vancouver,  forêt pluviale du Grand Ours, Colombie-Britannique, Canada (© Nick Garbutt/Alamy)*
 ||
 |||
-|2024-11-06|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ShiShiBeach_DE-DE0173093107_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShiShiBeach_DE-DE0173093107_UHD.jpg)|
-||*Copyright: Shi Shi Beach im Olympic-Nationalpark, Washington, USA (© T.M. Schultze/TANDEM Stills + Motion)*
+|2024-11-07|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CanadaWolves_DE-DE4376564886_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaWolves_DE-DE4376564886_UHD.jpg)|
+||*Copyright: Kanadische Küstenwölfe im Great Bear Rainforest, British Columbia, Kanada (© Nick Garbutt/Alamy)*
 ||
 |||
-|2024-11-07|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ShiShiBeach_EN-CA3486295094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShiShiBeach_EN-CA3486295094_UHD.jpg)|
-||*Copyright: Shi Shi Beach in Olympic National Park, Washington, USA (© T.M. Schultze/TANDEM Stills + Motion)*
+|2024-11-08|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CanadaWolves_EN-CA3643391655_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaWolves_EN-CA3643391655_UHD.jpg)|
+||*Copyright: Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy Stock Photo)*
 ||
 |||
-|2024-11-07|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ShiShiBeach_EN-GB4724156220_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShiShiBeach_EN-GB4724156220_UHD.jpg)|
-||*Copyright: Shi Shi Beach in Olympic National Park, Washington, USA (© T.M. Schultze/TANDEM Stills + Motion)*
+|2024-11-08|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CanadaWolves_EN-GB5040698081_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaWolves_EN-GB5040698081_UHD.jpg)|
+||*Copyright: Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy Stock Photo)*
 ||
 |||
-|2024-11-06|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ShiShiBeach_IT-IT3649802386_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShiShiBeach_IT-IT3649802386_UHD.jpg)|
-||*Copyright: Shi Shi Beach nel Parco Nazionale Olimpico, Washington, Stati Uniti (© T.M. Schultze/TANDEM Stills + Motion)*
+|2024-11-07|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CanadaWolves_IT-IT3917855917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaWolves_IT-IT3917855917_UHD.jpg)|
+||*Copyright: Lupi di mare costieri di Vancouver nella Grande Foresta Pluviale dell'Orso, Columbia Britannica, Canada (© Nick Garbutt/Alamy)*
 ||
 |||
-|2024-11-06|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ShiShiBeach_ES-ES1047893586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShiShiBeach_ES-ES1047893586_UHD.jpg)|
-||*Copyright: Playa Shi Shi en el Parque Nacional Olympic, Washington, EE. UU. (© T.M. Schultze/TANDEM Stills + Motion)*
+|2024-11-07|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CanadaWolves_ES-ES1988457082_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaWolves_ES-ES1988457082_UHD.jpg)|
+||*Copyright: Lobos costeros de Vancouver en la selva tropical del Great Bear, Columbia Británica, Canadá (© Nick Garbutt/Alamy)*
 ||
 |||
-|2024-11-07|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ShiShiBeach_FR-CA9456455618_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShiShiBeach_FR-CA9456455618_UHD.jpg)|
-||*Copyright: Shi Shi Beach, Parc national Olympique, Washington, États-Unis (© T.M. Schultze/TANDEM Stills + Motion)*
+|2024-11-08|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CanadaWolves_FR-CA0494556833_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaWolves_FR-CA0494556833_UHD.jpg)|
+||*Copyright: Loups côtiers de l’île de Vancouver,  forêt pluviale du Grand Ours, Colombie-Britannique, Canada (© Nick Garbutt/Alamy)*
 ||
 |||
 
