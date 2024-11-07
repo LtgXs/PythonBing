@@ -6,9 +6,9 @@
 ||*Copyright: Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy)*
 ||
 |||
-|2024-11-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AnserAlbifrons2024_JA-JP4172907824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnserAlbifrons2024_JA-JP4172907824_UHD.jpg)|
-||*Copyright: マガンの群れ (© feathercollector/Shutterstock)*
+|2024-11-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GlacialRivers_JA-JP1694776093_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlacialRivers_JA-JP1694776093_UHD.jpg)|
+||*Copyright: 氷河河川システムの航空写真, アイスランド (© rybarmarekk/Shutterstock)*
 ||
 |||
 |2024-11-07|**Region: en-IN**||
