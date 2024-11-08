@@ -1,0 +1,60 @@
+
+Program started at 09:27:02
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1114-273
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[09:27:02] Start geting CN Bing Wallpaper
+[09:27:02] Successful get url: https://www.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg
+[09:27:02] Image saved to img/background.jpg
+[09:27:02] Info saved to README.md
+[09:27:02] Image saved to history/2024/11/08.md
+[09:27:02] Start geting global Bing Wallpaper, region=en-US, local time is 2024-11-08 04:27:02.294072-05:00
+[09:27:02] Successful get url: https://www.bing.com/th?id=OHR.GlacialRivers_EN-US4356459123_UHD.jpg
+[09:27:02] Picture infomations saved to  global/en-US/README.md
+[09:27:02] Picture infomations saved to global/en-US/history/2024/11/09_en-US.md
+[09:27:02] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-11-08 18:27:02.445047+09:00
+[09:27:02] Successful get url: https://www.bing.com/th?id=OHR.GlacialRivers_JA-JP1694776093_UHD.jpg
+[09:27:02] Picture infomations saved to  global/ja-JP/README.md
+[09:27:02] Picture infomations saved to global/ja-JP/history/2024/11/08_ja-JP.md
+[09:27:02] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-11-08 14:57:02.591693+05:30
+[09:27:02] Successful get url: https://www.bing.com/th?id=OHR.GlacialRivers_EN-IN8184240040_UHD.jpg
+[09:27:02] Picture infomations saved to  global/en-IN/README.md
+[09:27:02] Picture infomations saved to global/en-IN/history/2024/11/08_en-IN.md
+[09:27:02] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-11-08 06:27:02.768273-03:00
+[09:27:02] Successful get url: https://www.bing.com/th?id=OHR.GlacialRivers_PT-BR2577171994_UHD.jpg
+[09:27:02] Picture infomations saved to  global/pt-BR/README.md
+[09:27:02] Picture infomations saved to global/pt-BR/history/2024/11/09_pt-BR.md
+[09:27:02] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-11-08 10:27:02.910124+01:00
+[09:27:02] Successful get url: https://www.bing.com/th?id=OHR.GlacialRivers_FR-FR7112624449_UHD.jpg
+[09:27:03] Picture infomations saved to  global/fr-FR/README.md
+[09:27:03] Picture infomations saved to global/fr-FR/history/2024/11/08_fr-FR.md
+[09:27:03] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-11-08 10:27:03.048707+01:00
+[09:27:03] Successful get url: https://www.bing.com/th?id=OHR.GlacialRivers_DE-DE4755000150_UHD.jpg
+[09:27:03] Picture infomations saved to  global/de-DE/README.md
+[09:27:03] Picture infomations saved to global/de-DE/history/2024/11/08_de-DE.md
+[09:27:03] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-11-08 04:27:03.192882-05:00
+[09:27:03] Successful get url: https://www.bing.com/th?id=OHR.GlacialRivers_EN-CA4120798939_UHD.jpg
+[09:27:03] Picture infomations saved to  global/en-CA/README.md
+[09:27:03] Picture infomations saved to global/en-CA/history/2024/11/09_en-CA.md
+[09:27:03] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-11-08 09:27:03.331476+00:00
+[09:27:03] Successful get url: https://www.bing.com/th?id=OHR.GlacialRivers_EN-GB5304818935_UHD.jpg
+[09:27:03] Picture infomations saved to  global/en-GB/README.md
+[09:27:03] Picture infomations saved to global/en-GB/history/2024/11/09_en-GB.md
+[09:27:03] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-11-08 10:27:03.469443+01:00
+[09:27:03] Successful get url: https://www.bing.com/th?id=OHR.TrentinoAltoBolzanoMerano_IT-IT4259043530_UHD.jpg
+[09:27:03] Picture infomations saved to  global/it-IT/README.md
+[09:27:03] Picture infomations saved to global/it-IT/history/2024/11/08_it-IT.md
+[09:27:03] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-11-08 10:27:03.627136+01:00
+[09:27:03] Successful get url: https://www.bing.com/th?id=OHR.GlacialRivers_ES-ES2177236307_UHD.jpg
+[09:27:03] Picture infomations saved to  global/es-ES/README.md
+[09:27:03] Picture infomations saved to global/es-ES/history/2024/11/08_es-ES.md
+[09:27:03] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-11-08 04:27:03.761172-05:00
+[09:27:03] Successful get url: https://www.bing.com/th?id=OHR.GlacialRivers_FR-CA0752665612_UHD.jpg
+[09:27:03] Picture infomations saved to  global/fr-CA/README.md
+[09:27:03] Picture infomations saved to global/fr-CA/history/2024/11/09_fr-CA.md
+Program exit at 09:27:03
