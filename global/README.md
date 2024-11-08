@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)*
 ||
 |||
-|2024-11-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GlacialRivers_JA-JP1694776093_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlacialRivers_JA-JP1694776093_UHD.jpg)|
-||*Copyright: 氷河河川システムの航空写真, アイスランド (© rybarmarekk/Shutterstock)*
+|2024-11-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_JA-JP1854707696_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_JA-JP1854707696_UHD.jpg)|
+||*Copyright: アイト・ベン・ハドゥの集落, モロッコ (© Cavan Images/Getty Images)*
 ||
 |||
 |2024-11-08|**Region: en-IN**||
