@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-09|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GlacialRivers_EN-US4356459123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlacialRivers_EN-US4356459123_UHD.jpg)|
-||*Copyright: Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)*
+|2024-11-10|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg)|
+||*Copyright: Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)*
 ||
 |||
 |2024-11-09|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アイト・ベン・ハドゥの集落, モロッコ (© Cavan Images/Getty Images)*
 ||
 |||
-|2024-11-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GlacialRivers_EN-IN8184240040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlacialRivers_EN-IN8184240040_UHD.jpg)|
-||*Copyright: Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)*
+|2024-11-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-IN8452456680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-IN8452456680_UHD.jpg)|
+||*Copyright: Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)*
 ||
 |||
-|2024-11-09|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GlacialRivers_PT-BR2577171994_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlacialRivers_PT-BR2577171994_UHD.jpg)|
-||*Copyright: Vista aérea de rios glaciais na Islândia (© rybarmarekk/Shutterstock)*
+|2024-11-10|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_PT-BR2736576550_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_PT-BR2736576550_UHD.jpg)|
+||*Copyright: Via Láctea, Aït Benhaddou, Marrocos (© Cavan Images/Getty Images)*
 ||
 |||
-|2024-11-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GlacialRivers_FR-FR7112624449_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlacialRivers_FR-FR7112624449_UHD.jpg)|
-||*Copyright: Vue aérienne de rivières glacières, Islande (© rybarmarekk/Shutterstock)*
+|2024-11-09|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_FR-FR7350408140_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_FR-FR7350408140_UHD.jpg)|
+||*Copyright: Voie lactée, Aït Benhaddou, Maroc (© Cavan Images/Getty Images)*
 ||
 |||
-|2024-11-08|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GlacialRivers_DE-DE4755000150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlacialRivers_DE-DE4755000150_UHD.jpg)|
-||*Copyright: Luftaufnahme von Gletscherflüssen in Island (© rybarmarekk/Shutterstock)*
+|2024-11-09|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_DE-DE1390989732_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_DE-DE1390989732_UHD.jpg)|
+||*Copyright: Milchstraße, Aït-Ben-Haddou, Marokko (© Cavan Images/Getty Images)*
 ||
 |||
-|2024-11-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GlacialRivers_EN-CA4120798939_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlacialRivers_EN-CA4120798939_UHD.jpg)|
-||*Copyright: Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)*
+|2024-11-10|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-CA4328551346_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-CA4328551346_UHD.jpg)|
+||*Copyright: Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)*
 ||
 |||
-|2024-11-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.GlacialRivers_EN-GB5304818935_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlacialRivers_EN-GB5304818935_UHD.jpg)|
-||*Copyright: Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)*
+|2024-11-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-GB5541631027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-GB5541631027_UHD.jpg)|
+||*Copyright: Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)*
 ||
 |||
-|2024-11-08|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TrentinoAltoBolzanoMerano_IT-IT4259043530_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrentinoAltoBolzanoMerano_IT-IT4259043530_UHD.jpg)|
-||*Copyright: LUMEN - Museo della fotografia di montagna, Brunico, Trentino-Alto Adige, Italia (© Giorgio Filippini/Sime/eStock Photo)*
+|2024-11-09|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_IT-IT3578962903_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_IT-IT3578962903_UHD.jpg)|
+||*Copyright: Via Lattea, Ait-Ben-Haddou, Marocco (© Cavan Images/Getty Images)*
 ||
 |||
-|2024-11-08|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GlacialRivers_ES-ES2177236307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlacialRivers_ES-ES2177236307_UHD.jpg)|
-||*Copyright: Vista aérea de ríos glaciares en Islandia (© rybarmarekk/Shutterstock)*
+|2024-11-09|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FiestaDeLaAlmudena_ES-ES5634922695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FiestaDeLaAlmudena_ES-ES5634922695_UHD.jpg)|
+||*Copyright: Catedral de la Almudena, Madrid, España (© RudyBalasko/iStock/Getty Images)*
 ||
 |||
-|2024-11-09|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.GlacialRivers_FR-CA0752665612_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlacialRivers_FR-CA0752665612_UHD.jpg)|
-||*Copyright: Vue aérienne de rivières glacières, Islande (© rybarmarekk/Shutterstock)*
+|2024-11-10|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_FR-CA0944585809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_FR-CA0944585809_UHD.jpg)|
+||*Copyright: Voie lactée, Aït Benhaddou, Maroc (© Cavan Images/Getty Images)*
 ||
 |||
 

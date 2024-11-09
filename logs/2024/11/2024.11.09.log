@@ -1,0 +1,60 @@
+
+Program started at 09:24:28
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1383-5
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[09:24:28] Start geting CN Bing Wallpaper
+[09:24:28] Successful get url: https://www.bing.com/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_UHD.jpg
+[09:24:29] Image saved to img/background.jpg
+[09:24:29] Info saved to README.md
+[09:24:29] Image saved to history/2024/11/09.md
+[09:24:29] Start geting global Bing Wallpaper, region=en-US, local time is 2024-11-09 04:24:29.015260-05:00
+[09:24:29] Successful get url: https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg
+[09:24:29] Picture infomations saved to  global/en-US/README.md
+[09:24:29] Picture infomations saved to global/en-US/history/2024/11/10_en-US.md
+[09:24:29] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-11-09 18:24:29.172102+09:00
+[09:24:29] Successful get url: https://www.bing.com/th?id=OHR.MoroccoMilkyWay_JA-JP1854707696_UHD.jpg
+[09:24:29] Picture infomations saved to  global/ja-JP/README.md
+[09:24:29] Picture infomations saved to global/ja-JP/history/2024/11/09_ja-JP.md
+[09:24:29] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-11-09 14:54:29.263111+05:30
+[09:24:29] Successful get url: https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-IN8452456680_UHD.jpg
+[09:24:29] Picture infomations saved to  global/en-IN/README.md
+[09:24:29] Picture infomations saved to global/en-IN/history/2024/11/09_en-IN.md
+[09:24:29] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-11-09 06:24:29.395033-03:00
+[09:24:29] Successful get url: https://www.bing.com/th?id=OHR.MoroccoMilkyWay_PT-BR2736576550_UHD.jpg
+[09:24:29] Picture infomations saved to  global/pt-BR/README.md
+[09:24:29] Picture infomations saved to global/pt-BR/history/2024/11/10_pt-BR.md
+[09:24:29] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-11-09 10:24:29.487647+01:00
+[09:24:29] Successful get url: https://www.bing.com/th?id=OHR.MoroccoMilkyWay_FR-FR7350408140_UHD.jpg
+[09:24:29] Picture infomations saved to  global/fr-FR/README.md
+[09:24:29] Picture infomations saved to global/fr-FR/history/2024/11/09_fr-FR.md
+[09:24:29] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-11-09 10:24:29.610920+01:00
+[09:24:29] Successful get url: https://www.bing.com/th?id=OHR.MoroccoMilkyWay_DE-DE1390989732_UHD.jpg
+[09:24:29] Picture infomations saved to  global/de-DE/README.md
+[09:24:29] Picture infomations saved to global/de-DE/history/2024/11/09_de-DE.md
+[09:24:29] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-11-09 04:24:29.696942-05:00
+[09:24:29] Successful get url: https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-CA4328551346_UHD.jpg
+[09:24:29] Picture infomations saved to  global/en-CA/README.md
+[09:24:29] Picture infomations saved to global/en-CA/history/2024/11/10_en-CA.md
+[09:24:29] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-11-09 09:24:29.855439+00:00
+[09:24:29] Successful get url: https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-GB5541631027_UHD.jpg
+[09:24:30] Picture infomations saved to  global/en-GB/README.md
+[09:24:30] Picture infomations saved to global/en-GB/history/2024/11/10_en-GB.md
+[09:24:30] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-11-09 10:24:30.001608+01:00
+[09:24:30] Successful get url: https://www.bing.com/th?id=OHR.MoroccoMilkyWay_IT-IT3578962903_UHD.jpg
+[09:24:30] Picture infomations saved to  global/it-IT/README.md
+[09:24:30] Picture infomations saved to global/it-IT/history/2024/11/09_it-IT.md
+[09:24:30] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-11-09 10:24:30.109716+01:00
+[09:24:30] Successful get url: https://www.bing.com/th?id=OHR.FiestaDeLaAlmudena_ES-ES5634922695_UHD.jpg
+[09:24:30] Picture infomations saved to  global/es-ES/README.md
+[09:24:30] Picture infomations saved to global/es-ES/history/2024/11/09_es-ES.md
+[09:24:30] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-11-09 04:24:30.246236-05:00
+[09:24:30] Successful get url: https://www.bing.com/th?id=OHR.MoroccoMilkyWay_FR-CA0944585809_UHD.jpg
+[09:24:30] Picture infomations saved to  global/fr-CA/README.md
+[09:24:30] Picture infomations saved to global/fr-CA/history/2024/11/10_fr-CA.md
+Program exit at 09:24:30
