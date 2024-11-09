@@ -6,9 +6,9 @@
 ||*Copyright: Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)*
 ||
 |||
-|2024-11-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_JA-JP1854707696_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_JA-JP1854707696_UHD.jpg)|
-||*Copyright: アイト・ベン・ハドゥの集落, モロッコ (© Cavan Images/Getty Images)*
+|2024-11-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YucatanFlamingos_JA-JP2002783035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanFlamingos_JA-JP2002783035_UHD.jpg)|
+||*Copyright: ユカタン半島のベニイロフラミンゴ, メキシコ  (© Claudio Contreras/NPL/Minden Pictures)*
 ||
 |||
 |2024-11-09|**Region: en-IN**||
