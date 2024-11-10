@@ -6,9 +6,9 @@
 ||*Copyright: Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)*
 ||
 |||
-|2024-11-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YucatanFlamingos_JA-JP2002783035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YucatanFlamingos_JA-JP2002783035_UHD.jpg)|
-||*Copyright: ユカタン半島のベニイロフラミンゴ, メキシコ  (© Claudio Contreras/NPL/Minden Pictures)*
+|2024-11-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Banff24_JA-JP2138489803_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Banff24_JA-JP2138489803_UHD.jpg)|
+||*Copyright: バンフ国立公園,カナダ アルバータ州 (© fywPhoto 云卷云舒/Getty Images)*
 ||
 |||
 |2024-11-10|**Region: en-IN**||
