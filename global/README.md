@@ -6,9 +6,9 @@
 ||*Copyright: Double Arch seen through Cove Arch, Arches National Park, Utah (© Jeff Foott/Minden Pictures)*
 ||
 |||
-|2024-11-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CoveArch_JA-JP2301146228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoveArch_JA-JP2301146228_UHD.jpg)|
-||*Copyright: アーチーズ国立公園, 米国 ユタ州 (© Jeff Foott/Minden Pictures)*
+|2024-11-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KelpForest_JA-JP2433405735_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpForest_JA-JP2433405735_UHD.jpg)|
+||*Copyright: 海の中にある森, メキシコ バハ・カリフォルニア州  (© Claudio Contreras/Minden Pictures)*
 ||
 |||
 |2024-11-12|**Region: en-IN**||
