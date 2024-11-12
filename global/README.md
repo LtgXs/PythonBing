@@ -1,59 +1,59 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_UHD.jpg)|
-||*Copyright: Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)*
+|2024-11-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg)|
+||*Copyright: Double Arch seen through Cove Arch, Arches National Park, Utah (© Jeff Foott/Minden Pictures)*
 ||
 |||
-|2024-11-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Banff24_JA-JP2138489803_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Banff24_JA-JP2138489803_UHD.jpg)|
-||*Copyright: バンフ国立公園,カナダ アルバータ州 (© fywPhoto 云卷云舒/Getty Images)*
+|2024-11-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CoveArch_JA-JP2301146228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoveArch_JA-JP2301146228_UHD.jpg)|
+||*Copyright: アーチーズ国立公園, 米国 ユタ州 (© Jeff Foott/Minden Pictures)*
 ||
 |||
-|2024-11-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Banff24_EN-IN9205670476_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Banff24_EN-IN9205670476_UHD.jpg)|
-||*Copyright: Sunset at Banff National Park, Alberta, Canada (© fywPhoto 云卷云舒/Getty Images)*
+|2024-11-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_EN-IN7604889650_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_EN-IN7604889650_UHD.jpg)|
+||*Copyright: Aerial view of vineyards, Varnhalt, Black Forest, Germany (© Sabine Gerold/Amazing Aerial Agency)*
 ||
 |||
-|2024-11-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Banff24_PT-BR3167336781_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Banff24_PT-BR3167336781_UHD.jpg)|
-||*Copyright: Pôr do sol no Parque Nacional Banff, Alberta, Canadá (© fywPhoto 云卷云舒/Getty Images)*
+|2024-11-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CoveArch_PT-BR3365210428_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoveArch_PT-BR3365210428_UHD.jpg)|
+||*Copyright: Double Arch visto através do Cove Arch, Parque Nacional dos Arcos, Utah, EUA (© Jeff Foott/Minden Pictures)*
 ||
 |||
-|2024-11-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.Banff24_FR-FR8236269164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Banff24_FR-FR8236269164_UHD.jpg)|
-||*Copyright: Parc national de Banff, Alberta, Canada (© fywPhoto 云卷云舒/Getty Images)*
+|2024-11-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Moorea_FR-FR8377929183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Moorea_FR-FR8377929183_UHD.jpg)|
+||*Copyright: Coraux et lagon de Moorea, Polynésie française (© bru_greg/Getty Images)*
 ||
 |||
-|2024-11-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.Banff24_DE-DE3210390625_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Banff24_DE-DE3210390625_UHD.jpg)|
-||*Copyright: Sonnenuntergang im Banff-Nationalpark, Alberta, Kanada (© fywPhoto 云卷云舒/Getty Images)*
+|2024-11-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MoselleValleyChurchTowerFall_DE-DE0272111000_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoselleValleyChurchTowerFall_DE-DE0272111000_UHD.jpg)|
+||*Copyright: Kirchturm von Bremm an der Moselschleife, Rheinland-Pfalz (© Jan Wehnert/Shutterstock)*
 ||
 |||
-|2024-11-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Banff24_EN-CA4781010771_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Banff24_EN-CA4781010771_UHD.jpg)|
-||*Copyright: Sunset at Banff National Park, Alberta, Canada (© fywPhoto 云卷云舒/Getty Images)*
+|2024-11-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CoveArch_EN-CA4941949574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoveArch_EN-CA4941949574_UHD.jpg)|
+||*Copyright: Double Arch seen through Cove Arch, Arches National Park, Utah, USA (© Jeff Foott/Minden Pictures)*
 ||
 |||
-|2024-11-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.Banff24_EN-GB6552811708_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Banff24_EN-GB6552811708_UHD.jpg)|
-||*Copyright: Banff National Park, Alberta, Canada (© fywPhoto 云卷云舒/Getty Images)*
+|2024-11-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CoveArch_EN-GB6800987516_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoveArch_EN-GB6800987516_UHD.jpg)|
+||*Copyright: Double Arch seen through Cove Arch, Arches National Park, Utah, USA (© Jeff Foott/Minden Pictures)*
 ||
 |||
-|2024-11-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.Banff24_IT-IT4414822450_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Banff24_IT-IT4414822450_UHD.jpg)|
-||*Copyright: Tramonto al Parco Nazionale Banff, Alberta, Canada (© fywPhoto 云卷云舒/Getty Images)*
+|2024-11-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CoveArch_IT-IT5409061813_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoveArch_IT-IT5409061813_UHD.jpg)|
+||*Copyright: Double Arch visto attraverso Cove Arch, Parco Nazionale degli Arches, Utah, Stati Uniti (© Jeff Foott/Minden Pictures)*
 ||
 |||
-|2024-11-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.Banff24_ES-ES2715898472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Banff24_ES-ES2715898472_UHD.jpg)|
-||*Copyright: Parque Nacional de Banff, Alberta, Canadá  (© fywPhoto 云卷云舒/Getty Images)*
+|2024-11-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CoveArch_ES-ES3565340403_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoveArch_ES-ES3565340403_UHD.jpg)|
+||*Copyright: Arco doble visto a través de Cove Arch, Parque Nacional Arcos, Utah, EE.UU. (© Jeff Foott/Minden Pictures)*
 ||
 |||
-|2024-11-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Banff24_FR-CA1813240291_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Banff24_FR-CA1813240291_UHD.jpg)|
-||*Copyright: Parc national de Banff, Alberta, Canada (© fywPhoto 云卷云舒/Getty Images)*
+|2024-11-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CoveArch_FR-CA2004655005_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoveArch_FR-CA2004655005_UHD.jpg)|
+||*Copyright: Double Arch vue à travers Cove Arch, parc national des Arches, Utah, États-Unis (© Jeff Foott/Minden Pictures)*
 ||
 |||
 
