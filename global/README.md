@@ -6,9 +6,9 @@
 ||*Copyright: California sea lion in a forest of giant kelp, Baja California, Mexico (© Claudio Contreras/Minden Pictures)*
 ||
 |||
-|2024-11-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KelpForest_JA-JP2433405735_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpForest_JA-JP2433405735_UHD.jpg)|
-||*Copyright: 海の中にある森, メキシコ バハ・カリフォルニア州  (© Claudio Contreras/Minden Pictures)*
+|2024-11-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ManarolaItaly_JA-JP2558854780_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManarolaItaly_JA-JP2558854780_UHD.jpg)|
+||*Copyright: マナローラ,  イタリア リグーリア州 (© John_Silver/Shutterstock)*
 ||
 |||
 |2024-11-13|**Region: en-IN**||
