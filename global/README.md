@@ -6,9 +6,9 @@
 ||*Copyright: Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)*
 ||
 |||
-|2024-11-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ManarolaItaly_JA-JP2558854780_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManarolaItaly_JA-JP2558854780_UHD.jpg)|
-||*Copyright: マナローラ,  イタリア リグーリア州 (© John_Silver/Shutterstock)*
+|2024-11-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YiPengLanterns_JA-JP3002354354_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_JA-JP3002354354_UHD.jpg)|
+||*Copyright: 夜空に浮かぶ無数の灯籠, タイ (© tampatra/Getty Images)*
 ||
 |||
 |2024-11-14|**Region: en-IN**||
