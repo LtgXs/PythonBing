@@ -6,9 +6,9 @@
 ||*Copyright: Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)*
 ||
 |||
-|2024-11-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YiPengLanterns_JA-JP3002354354_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_JA-JP3002354354_UHD.jpg)|
-||*Copyright: 夜空に浮かぶ無数の灯籠, タイ (© tampatra/Getty Images)*
+|2024-11-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_JA-JP3280523442_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_JA-JP3280523442_UHD.jpg)|
+||*Copyright: ワッデン海, オランダ フリースラント州 (© Ron ter Burg/Minden Pictures)*
 ||
 |||
 |2024-11-15|**Region: en-IN**||
@@ -27,8 +27,8 @@
 ||
 |||
 |2024-11-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE1312879989_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE1312879989_UHD.jpg)|
-||*Copyright: Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)*
+||![](https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE2623141634_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE2623141634_UHD.jpg)|
+||*Copyright: Yi Peng-Laternenfest, Chiang Mai, Thailand (© tampatra/Getty Images)*
 ||
 |||
 |2024-11-16|**Region: en-CA**||
