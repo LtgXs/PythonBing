@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_UHD.jpg)|
-||*Copyright: Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)*
+|2024-11-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg)|
+||*Copyright: Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)*
 ||
 |||
 |2024-11-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 夜空に浮かぶ無数の灯籠, タイ (© tampatra/Getty Images)*
 ||
 |||
-|2024-11-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ManarolaItaly_EN-IN1899501021_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManarolaItaly_EN-IN1899501021_UHD.jpg)|
-||*Copyright: Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)*
+|2024-11-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-IN5031761378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-IN5031761378_UHD.jpg)|
+||*Copyright: Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)*
 ||
 |||
-|2024-11-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ManarolaItaly_PT-BR4966210433_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManarolaItaly_PT-BR4966210433_UHD.jpg)|
-||*Copyright: Manarola, Parque Nacional Cinque Terre, Ligúria, Itália (© John_Silver/Shutterstock)*
+|2024-11-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.RepublicaBR_PT-BR7751607802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RepublicaBR_PT-BR7751607802_UHD.jpg)|
+||*Copyright: Palácio da Ilha Fiscal e Pão de Açúcar, Rio de Janeiro (© Rolf Richardson/Alamy Stock Photo)*
 ||
 |||
-|2024-11-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ManarolaItaly_FR-FR8734568638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManarolaItaly_FR-FR8734568638_UHD.jpg)|
-||*Copyright: Manarola, Parc national des Cinque Terre, Ligurie, Italie (© John_Silver/Shutterstock)*
+|2024-11-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.YiPengLanterns_FR-FR2863208745_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_FR-FR2863208745_UHD.jpg)|
+||*Copyright: Festival des lanternes de Yi Peng, Chiang Mai, Thaïlande (© tampatra/Getty Images)*
 ||
 |||
-|2024-11-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ManarolaItaly_DE-DE4688511663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManarolaItaly_DE-DE4688511663_UHD.jpg)|
-||*Copyright: Manarola, Nationalpark Cinque Terre, Ligurien, Italien (© John_Silver/Shutterstock)*
+|2024-11-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE1312879989_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE1312879989_UHD.jpg)|
+||*Copyright: Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)*
 ||
 |||
-|2024-11-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ManarolaItaly_EN-CA5208658549_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManarolaItaly_EN-CA5208658549_UHD.jpg)|
-||*Copyright: Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)*
+|2024-11-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-CA5878267253_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-CA5878267253_UHD.jpg)|
+||*Copyright: Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)*
 ||
 |||
-|2024-11-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ManarolaItaly_EN-GB7223949605_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManarolaItaly_EN-GB7223949605_UHD.jpg)|
-||*Copyright: Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)*
+|2024-11-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-GB5743270673_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-GB5743270673_UHD.jpg)|
+||*Copyright: Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)*
 ||
 |||
-|2024-11-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ManarolaItaly_IT-IT6200614457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManarolaItaly_IT-IT6200614457_UHD.jpg)|
-||*Copyright: Manarola, Parco Nazionale delle Cinque Terre, Liguria, Italia (© John_Silver/Shutterstock)*
+|2024-11-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.YiPengLanterns_IT-IT3348534532_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_IT-IT3348534532_UHD.jpg)|
+||*Copyright: Festival delle lanterne di Yi Peng, Chiang Mai, Thailandia (© tampatra/Getty Images)*
 ||
 |||
-|2024-11-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ManarolaItaly_ES-ES4041010969_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManarolaItaly_ES-ES4041010969_UHD.jpg)|
-||*Copyright: Manarola, Parque Nacional de Cinque Terre, Liguria, Italia (© John_Silver/Shutterstock)*
+|2024-11-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.YiPengLanterns_ES-ES0717973586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_ES-ES0717973586_UHD.jpg)|
+||*Copyright: Festival de los faroles de Yi Peng, Chiang Mai, Tailandia (© tampatra/Getty Images)*
 ||
 |||
-|2024-11-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ManarolaItaly_FR-CA2770338170_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManarolaItaly_FR-CA2770338170_UHD.jpg)|
-||*Copyright: Manarola, Parc national des Cinque Terre, Ligurie, Italie (© John_Silver/Shutterstock)*
+|2024-11-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.YiPengLanterns_FR-CA2324998357_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_FR-CA2324998357_UHD.jpg)|
+||*Copyright: Festival des lanternes de Yi Peng, Chiang Mai, Thaïlande (© tampatra/Getty Images)*
 ||
 |||
 
