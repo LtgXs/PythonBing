@@ -6,9 +6,9 @@
 ||*Copyright: Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)*
 ||
 |||
-|2024-11-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_JA-JP3280523442_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_JA-JP3280523442_UHD.jpg)|
-||*Copyright: ワッデン海, オランダ フリースラント州 (© Ron ter Burg/Minden Pictures)*
+|2024-11-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RedStag_JA-JP3676294833_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedStag_JA-JP3676294833_UHD.jpg)|
+||*Copyright: アフリック峡谷のアカシカ, スコットランド ハイランド地方 (© Terry Whittaker/Alamy)*
 ||
 |||
 |2024-11-16|**Region: en-IN**||
