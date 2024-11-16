@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg)|
-||*Copyright: Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)*
+|2024-11-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_UHD.jpg)|
+||*Copyright: Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)*
 ||
 |||
 |2024-11-16|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ワッデン海, オランダ フリースラント州 (© Ron ter Burg/Minden Pictures)*
 ||
 |||
-|2024-11-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-IN5031761378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-IN5031761378_UHD.jpg)|
-||*Copyright: Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)*
+|2024-11-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-IN5299828357_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-IN5299828357_UHD.jpg)|
+||*Copyright: Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)*
 ||
 |||
-|2024-11-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.RepublicaBR_PT-BR7751607802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RepublicaBR_PT-BR7751607802_UHD.jpg)|
-||*Copyright: Palácio da Ilha Fiscal e Pão de Açúcar, Rio de Janeiro (© Rolf Richardson/Alamy Stock Photo)*
+|2024-11-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_PT-BR8090828736_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_PT-BR8090828736_UHD.jpg)|
+||*Copyright: Costa do Mar Frísio, perto de Moddergat, Friesland, Países Baixos (© Ron ter Burg/Minden Pictures)*
 ||
 |||
-|2024-11-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.YiPengLanterns_FR-FR2863208745_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_FR-FR2863208745_UHD.jpg)|
-||*Copyright: Festival des lanternes de Yi Peng, Chiang Mai, Thaïlande (© tampatra/Getty Images)*
+|2024-11-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_FR-FR3199784151_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_FR-FR3199784151_UHD.jpg)|
+||*Copyright: Le littoral de la mer des Wadden, Frise, Pays-Bas (© Ron ter Burg/Minden Pictures)*
 ||
 |||
-|2024-11-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE2623141634_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE2623141634_UHD.jpg)|
-||*Copyright: Yi Peng-Laternenfest, Chiang Mai, Thailand (© tampatra/Getty Images)*
+|2024-11-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_DE-DE2101104356_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_DE-DE2101104356_UHD.jpg)|
+||*Copyright: Wattenmeerküste bei Moddergat, Friesland, Niederlande (© Ron ter Burg/Minden Pictures)*
 ||
 |||
-|2024-11-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-CA5878267253_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-CA5878267253_UHD.jpg)|
-||*Copyright: Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)*
+|2024-11-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-CA6862102879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-CA6862102879_UHD.jpg)|
+||*Copyright: Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)*
 ||
 |||
-|2024-11-16|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-GB5743270673_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-GB5743270673_UHD.jpg)|
-||*Copyright: Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)*
+|2024-11-17|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-GB5948311927_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-GB5948311927_UHD.jpg)|
+||*Copyright: Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)*
 ||
 |||
-|2024-11-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.YiPengLanterns_IT-IT3348534532_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_IT-IT3348534532_UHD.jpg)|
-||*Copyright: Festival delle lanterne di Yi Peng, Chiang Mai, Thailandia (© tampatra/Getty Images)*
+|2024-11-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_IT-IT6096912016_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_IT-IT6096912016_UHD.jpg)|
+||*Copyright: Costa del Mare dei Wadden, vicino a Moddergat, Frisia, Paesi Bassi (© Ron ter Burg/Minden Pictures)*
 ||
 |||
-|2024-11-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.YiPengLanterns_ES-ES0717973586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_ES-ES0717973586_UHD.jpg)|
-||*Copyright: Festival de los faroles de Yi Peng, Chiang Mai, Tailandia (© tampatra/Getty Images)*
+|2024-11-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FlamencoDay2024_ES-ES0805815742_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamencoDay2024_ES-ES0805815742_UHD.jpg)|
+||*Copyright: Baile flamenco en Sevilla, Andalucía, España (© Hemis/Alamy Stock Photo)*
 ||
 |||
-|2024-11-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.YiPengLanterns_FR-CA2324998357_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YiPengLanterns_FR-CA2324998357_UHD.jpg)|
-||*Copyright: Festival des lanternes de Yi Peng, Chiang Mai, Thaïlande (© tampatra/Getty Images)*
+|2024-11-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_FR-CA2531468545_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_FR-CA2531468545_UHD.jpg)|
+||*Copyright: Le littoral de la mer des Wadden, Frise, Pays-Bas (© Ron ter Burg/Minden Pictures)*
 ||
 |||
 
