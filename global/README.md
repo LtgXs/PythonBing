@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-17|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_UHD.jpg)|
-||*Copyright: Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)*
+|2024-11-18|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.RedStag_EN-US3910525623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedStag_EN-US3910525623_UHD.jpg)|
+||*Copyright: Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)*
 ||
 |||
 |2024-11-17|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アフリック峡谷のアカシカ, スコットランド ハイランド地方 (© Terry Whittaker/Alamy)*
 ||
 |||
-|2024-11-16|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-IN5299828357_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-IN5299828357_UHD.jpg)|
-||*Copyright: Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)*
+|2024-11-17|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.RedStag_EN-IN5545228267_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedStag_EN-IN5545228267_UHD.jpg)|
+||*Copyright: Red deer stag in Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)*
 ||
 |||
-|2024-11-17|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_PT-BR8090828736_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_PT-BR8090828736_UHD.jpg)|
-||*Copyright: Costa do Mar Frísio, perto de Moddergat, Friesland, Países Baixos (© Ron ter Burg/Minden Pictures)*
+|2024-11-18|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.RedStag_PT-BR8362159412_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedStag_PT-BR8362159412_UHD.jpg)|
+||*Copyright: Veado-vermelho na Floresta Caledoniana, Glen Affric, Terras Altas da Escócia (© Terry Whittaker/Alamy)*
 ||
 |||
-|2024-11-16|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_FR-FR3199784151_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_FR-FR3199784151_UHD.jpg)|
-||*Copyright: Le littoral de la mer des Wadden, Frise, Pays-Bas (© Ron ter Burg/Minden Pictures)*
+|2024-11-17|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.RedStag_FR-FR3460398465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedStag_FR-FR3460398465_UHD.jpg)|
+||*Copyright: Cerf élaphe dans la forêt calédonienne, Glen Affric, Highlands, Écosse (© Terry Whittaker/Alamy)*
 ||
 |||
-|2024-11-16|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_DE-DE2101104356_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_DE-DE2101104356_UHD.jpg)|
-||*Copyright: Wattenmeerküste bei Moddergat, Friesland, Niederlande (© Ron ter Burg/Minden Pictures)*
+|2024-11-17|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.RedStag_DE-DE2144943138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedStag_DE-DE2144943138_UHD.jpg)|
+||*Copyright: Rothirsch im Caledonian Forest, Glen Affric, Schottische Highlands (© Terry Whittaker/Alamy)*
 ||
 |||
-|2024-11-17|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-CA6862102879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-CA6862102879_UHD.jpg)|
-||*Copyright: Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)*
+|2024-11-18|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.RedStag_EN-CA7140488734_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedStag_EN-CA7140488734_UHD.jpg)|
+||*Copyright: Red deer stag in Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)*
 ||
 |||
-|2024-11-17|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-GB5948311927_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-GB5948311927_UHD.jpg)|
-||*Copyright: Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)*
+|2024-11-18|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.RedStag_EN-GB6258351570_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedStag_EN-GB6258351570_UHD.jpg)|
+||*Copyright: Red deer stag in Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)*
 ||
 |||
-|2024-11-16|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_IT-IT6096912016_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_IT-IT6096912016_UHD.jpg)|
-||*Copyright: Costa del Mare dei Wadden, vicino a Moddergat, Frisia, Paesi Bassi (© Ron ter Burg/Minden Pictures)*
+|2024-11-17|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.RedStag_IT-IT8661593020_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedStag_IT-IT8661593020_UHD.jpg)|
+||*Copyright: Cervo rosso nella Foresta di Conifere della Caledonia, Glen Affric, Highlands scozzesi, Scozia (© Terry Whittaker/Alamy)*
 ||
 |||
-|2024-11-16|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FlamencoDay2024_ES-ES0805815742_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamencoDay2024_ES-ES0805815742_UHD.jpg)|
-||*Copyright: Baile flamenco en Sevilla, Andalucía, España (© Hemis/Alamy Stock Photo)*
+|2024-11-17|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.RedStag_ES-ES1306068439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedStag_ES-ES1306068439_UHD.jpg)|
+||*Copyright: Ciervo rojo en el Bosque Caledonio, Glen Affric, Tierras Altas de Escocia (© Terry Whittaker/Alamy)*
 ||
 |||
-|2024-11-17|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FrieslandNetherlands_FR-CA2531468545_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrieslandNetherlands_FR-CA2531468545_UHD.jpg)|
-||*Copyright: Le littoral de la mer des Wadden, Frise, Pays-Bas (© Ron ter Burg/Minden Pictures)*
+|2024-11-18|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.RedStag_FR-CA2767952011_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedStag_FR-CA2767952011_UHD.jpg)|
+||*Copyright: Cerf élaphe dans la forêt calédonienne, Glen Affric, Highlands, Écosse (© Terry Whittaker/Alamy)*
 ||
 |||
 
