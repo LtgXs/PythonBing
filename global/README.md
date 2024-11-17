@@ -6,9 +6,9 @@
 ||*Copyright: Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)*
 ||
 |||
-|2024-11-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RedStag_JA-JP3676294833_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedStag_JA-JP3676294833_UHD.jpg)|
-||*Copyright: アフリック峡谷のアカシカ, スコットランド ハイランド地方 (© Terry Whittaker/Alamy)*
+|2024-11-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_JA-JP3933854148_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_JA-JP3933854148_UHD.jpg)|
+||*Copyright: ポースコール灯台, イギリス 南ウェールズ (© Leighton Collins/Alamy)*
 ||
 |||
 |2024-11-17|**Region: en-IN**||
