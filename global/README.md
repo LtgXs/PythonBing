@@ -6,9 +6,9 @@
 ||*Copyright: Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)*
 ||
 |||
-|2024-11-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_JA-JP3933854148_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_JA-JP3933854148_UHD.jpg)|
-||*Copyright: ポースコール灯台, イギリス 南ウェールズ (© Leighton Collins/Alamy)*
+|2024-11-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TasmansArch_JA-JP4122919606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TasmansArch_JA-JP4122919606_UHD.jpg)|
+||*Copyright: タスマン国立公園, オーストラリア タスマニア州 (© Gary Bell/Minden Pictures)*
 ||
 |||
 |2024-11-18|**Region: en-IN**||
