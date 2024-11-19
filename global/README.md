@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg)|
-||*Copyright: Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)*
+|2024-11-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TasmansArch_EN-US4274981499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TasmansArch_EN-US4274981499_UHD.jpg)|
+||*Copyright: Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)*
 ||
 |||
 |2024-11-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: タスマン国立公園, オーストラリア タスマニア州 (© Gary Bell/Minden Pictures)*
 ||
 |||
-|2024-11-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_EN-IN5797196395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_EN-IN5797196395_UHD.jpg)|
-||*Copyright: Porthcawl lighthouse, South Wales, UK (© Leighton Collins/Alamy)*
+|2024-11-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TasmansArch_EN-IN6029485722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TasmansArch_EN-IN6029485722_UHD.jpg)|
+||*Copyright: Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)*
 ||
 |||
-|2024-11-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_PT-BR8599692510_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_PT-BR8599692510_UHD.jpg)|
-||*Copyright: Farol de Porthcawl, Sul do País de Gales, Reino Unido (© Leighton Collins/Alamy)*
+|2024-11-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TasmansArch_PT-BR8823523988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TasmansArch_PT-BR8823523988_UHD.jpg)|
+||*Copyright: Arco de Tasman, Tasmânia, Austrália (© Gary Bell/Minden Pictures)*
 ||
 |||
-|2024-11-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_FR-FR3687906997_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_FR-FR3687906997_UHD.jpg)|
-||*Copyright: Phare de Porthcawl, Pays de Galles, Royaume-Uni (© Leighton Collins/Alamy)*
+|2024-11-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TasmansArch_FR-FR3887612340_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TasmansArch_FR-FR3887612340_UHD.jpg)|
+||*Copyright: Arche de Tasmans Tasmanie, Australie (© Gary Bell/Minden Pictures)*
 ||
 |||
-|2024-11-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_DE-DE2845400826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_DE-DE2845400826_UHD.jpg)|
-||*Copyright: Porthcawl Lighthouse, Südwales, UK (© Leighton Collins/Alamy)*
+|2024-11-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GermanyEuropeanWhiteBirchAutumn_DE-DE4170358667_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GermanyEuropeanWhiteBirchAutumn_DE-DE4170358667_UHD.jpg)|
+||*Copyright: Weißbirkenwald (Betula pendula) im Herbstnebel, Deutschland (© Duncan Usher/Minden Pictures)*
 ||
 |||
-|2024-11-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_EN-CA7342147718_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_EN-CA7342147718_UHD.jpg)|
-||*Copyright: Porthcawl lighthouse, South Wales, UK (© Leighton Collins/Alamy)*
+|2024-11-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TasmansArch_EN-CA9582409540_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TasmansArch_EN-CA9582409540_UHD.jpg)|
+||*Copyright: Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)*
 ||
 |||
-|2024-11-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_EN-GB6491276513_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_EN-GB6491276513_UHD.jpg)|
-||*Copyright: Porthcawl lighthouse, South Wales (© Leighton Collins/Alamy)*
+|2024-11-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TasmansArch_EN-GB6702107567_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TasmansArch_EN-GB6702107567_UHD.jpg)|
+||*Copyright: Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)*
 ||
 |||
-|2024-11-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_IT-IT6522253839_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_IT-IT6522253839_UHD.jpg)|
-||*Copyright: Faro di Porthcawl, Galles meridionale, Regno Unito (© Leighton Collins/Alamy)*
+|2024-11-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TasmansArch_IT-IT6908661148_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TasmansArch_IT-IT6908661148_UHD.jpg)|
+||*Copyright: Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)*
 ||
 |||
-|2024-11-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_ES-ES1528982827_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_ES-ES1528982827_UHD.jpg)|
-||*Copyright: Faro de Porthcawl, Gales del Sur, Reino Unido (© Leighton Collins/Alamy)*
+|2024-11-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TasmansArch_ES-ES1772649926_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TasmansArch_ES-ES1772649926_UHD.jpg)|
+||*Copyright: Arco de Tasman, Tasmania, Australia (© Gary Bell/Minden Pictures)*
 ||
 |||
-|2024-11-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_FR-CA2947887858_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_FR-CA2947887858_UHD.jpg)|
-||*Copyright: Phare de Porthcawl, Pays de Galles, Royaume-Uni (© Leighton Collins/Alamy)*
+|2024-11-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TasmansArch_FR-CA4703673291_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TasmansArch_FR-CA4703673291_UHD.jpg)|
+||*Copyright: Arche de Tasmans Tasmanie, Australie (© Gary Bell/Minden Pictures)*
 ||
 |||
 
