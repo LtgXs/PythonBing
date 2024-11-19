@@ -6,9 +6,9 @@
 ||*Copyright: Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)*
 ||
 |||
-|2024-11-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TasmansArch_JA-JP4122919606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TasmansArch_JA-JP4122919606_UHD.jpg)|
-||*Copyright: タスマン国立公園, オーストラリア タスマニア州 (© Gary Bell/Minden Pictures)*
+|2024-11-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BeyondSaype_JA-JP4402963918_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeyondSaype_JA-JP4402963918_UHD.jpg)|
+||*Copyright: Saype によるランドアート「 Beyond Crisis 」, スイス (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
 ||
 |||
 |2024-11-19|**Region: en-IN**||
