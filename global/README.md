@@ -6,9 +6,9 @@
 ||*Copyright: Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
 ||
 |||
-|2024-11-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BeyondSaype_JA-JP4402963918_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeyondSaype_JA-JP4402963918_UHD.jpg)|
-||*Copyright: Saype によるランドアート「 Beyond Crisis 」, スイス (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2024-11-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LionCubs_JA-JP4693137175_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_JA-JP4693137175_UHD.jpg)|
+||*Copyright: 寄り添う 2 頭の子ライオン, 南アフリカ (© Ruan Springorum/Getty Images)*
 ||
 |||
 |2024-11-20|**Region: en-IN**||
