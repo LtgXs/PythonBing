@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_UHD.jpg)|
-||*Copyright: Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2024-11-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg)|
+||*Copyright: Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)*
 ||
 |||
 |2024-11-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 寄り添う 2 頭の子ライオン, 南アフリカ (© Ruan Springorum/Getty Images)*
 ||
 |||
-|2024-11-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TrulliGrove_EN-IN6379040036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliGrove_EN-IN6379040036_UHD.jpg)|
-||*Copyright: Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)*
+|2024-11-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LionCubs_EN-IN6903529152_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_EN-IN6903529152_UHD.jpg)|
+||*Copyright: Two lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)*
 ||
 |||
-|2024-11-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ConscienciaNegraCamelia_PT-BR9267638631_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConscienciaNegraCamelia_PT-BR9267638631_UHD.jpg)|
-||*Copyright: Detalhe das pétalas de uma camélia branca (© ASO FUJITA/amanaimagesRF)*
+|2024-11-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.LionCubs_PT-BR9649632612_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_PT-BR9649632612_UHD.jpg)|
+||*Copyright: Dois filhotes de leão ao nascer do sol, África do Sul (© Ruan Springorum/Getty Images)*
 ||
 |||
-|2024-11-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BeyondSaype_FR-FR1795905140_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeyondSaype_FR-FR1795905140_UHD.jpg)|
-||*Copyright: Fresque géante « Beyond Crisis » de Saype, Leysin, Suisse (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2024-11-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LionCubs_FR-FR2539679303_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_FR-FR2539679303_UHD.jpg)|
+||*Copyright: Lionceaux au lever du soleil, Afrique du Sud (© Ruan Springorum/Getty Images)*
 ||
 |||
-|2024-11-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BeyondSaype_DE-DE4165904776_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeyondSaype_DE-DE4165904776_UHD.jpg)|
-||*Copyright: Riesiges Land-Art-Gemälde „Beyond Crisis“ von Saype, Leysin, Schweiz (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2024-11-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LionCubs_DE-DE4457487465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_DE-DE4457487465_UHD.jpg)|
+||*Copyright: Zwei Löwenjunge bei Sonnenaufgang, Südafrika (© Ruan Springorum/Getty Images)*
 ||
 |||
-|2024-11-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BeyondSaype_EN-CA2766246320_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeyondSaype_EN-CA2766246320_UHD.jpg)|
-||*Copyright: Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2024-11-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AspenTrees_EN-CA3238986123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenTrees_EN-CA3238986123_UHD.jpg)|
+||*Copyright: Aspen trees in autumn, Stewart-Cassiar Highway, British Columbia, Canada (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
-|2024-11-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AssiniboineTS_EN-GB3913113807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AssiniboineTS_EN-GB3913113807_UHD.jpg)|
-||*Copyright: Mount Assiniboine Provincial Park, British Columbia, Canada (© Jeff Lewis/TANDEM Stills + Motion)*
+|2024-11-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.LionCubs_EN-GB7386144841_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_EN-GB7386144841_UHD.jpg)|
+||*Copyright: Two lion cubs, South Africa (© Ruan Springorum/Getty Images)*
 ||
 |||
-|2024-11-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BeyondSaype_IT-IT7130879307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeyondSaype_IT-IT7130879307_UHD.jpg)|
-||*Copyright: Dipinto gigante di land art “Beyond Crisis” di Saype, Leysin, Svizzera (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2024-11-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.NationalTreeDay_IT-IT7236455581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NationalTreeDay_IT-IT7236455581_UHD.jpg)|
+||*Copyright: Sella di Razzo e Sella di Rioda, Alpi Carniche, Friuli-Venezia Giulia, Italia (© phbcz/iStock/Getty Images Plus)*
 ||
 |||
-|2024-11-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BeyondSaype_ES-ES2146271758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeyondSaype_ES-ES2146271758_UHD.jpg)|
-||*Copyright: Pintura gigantesca land art «Más allá de la crisis» de Saype, Leysin, Suiza (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2024-11-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LionCubs_ES-ES2358814300_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_ES-ES2358814300_UHD.jpg)|
+||*Copyright: Dos cachorros de león al amanecer, Sudáfrica (© Ruan Springorum/Getty Images)*
 ||
 |||
-|2024-11-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BeyondSaype_FR-CA5362056492_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeyondSaype_FR-CA5362056492_UHD.jpg)|
-||*Copyright: Fresque géante « Beyond Crisis » de Saype, Leysin, Suisse (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2024-11-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AspenTrees_FR-CA5793421150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenTrees_FR-CA5793421150_UHD.jpg)|
+||*Copyright: Peupliers trembles en automne, route Stewart-Cassiar, Colombie-Britannique (© Yva Momatiuk and John Eastcott/Minden Pictures)*
 ||
 |||
 

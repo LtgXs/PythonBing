@@ -1,0 +1,60 @@
+
+Program started at 09:29:11
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1499-503
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[09:29:11] Start geting CN Bing Wallpaper
+[09:29:11] Successful get url: https://www.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg
+[09:29:11] Image saved to img/background.jpg
+[09:29:11] Info saved to README.md
+[09:29:11] Image saved to history/2024/11/21.md
+[09:29:11] Start geting global Bing Wallpaper, region=en-US, local time is 2024-11-21 04:29:11.905633-05:00
+[09:29:11] Successful get url: https://www.bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg
+[09:29:12] Picture infomations saved to  global/en-US/README.md
+[09:29:12] Picture infomations saved to global/en-US/history/2024/11/22_en-US.md
+[09:29:12] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-11-21 18:29:12.020394+09:00
+[09:29:12] Successful get url: https://www.bing.com/th?id=OHR.LionCubs_JA-JP4693137175_UHD.jpg
+[09:29:12] Picture infomations saved to  global/ja-JP/README.md
+[09:29:12] Picture infomations saved to global/ja-JP/history/2024/11/21_ja-JP.md
+[09:29:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-11-21 14:59:12.114228+05:30
+[09:29:12] Successful get url: https://www.bing.com/th?id=OHR.LionCubs_EN-IN6903529152_UHD.jpg
+[09:29:12] Picture infomations saved to  global/en-IN/README.md
+[09:29:12] Picture infomations saved to global/en-IN/history/2024/11/21_en-IN.md
+[09:29:12] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-11-21 06:29:12.259772-03:00
+[09:29:12] Successful get url: https://www.bing.com/th?id=OHR.LionCubs_PT-BR9649632612_UHD.jpg
+[09:29:12] Picture infomations saved to  global/pt-BR/README.md
+[09:29:12] Picture infomations saved to global/pt-BR/history/2024/11/22_pt-BR.md
+[09:29:12] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-11-21 10:29:12.363618+01:00
+[09:29:12] Successful get url: https://www.bing.com/th?id=OHR.LionCubs_FR-FR2539679303_UHD.jpg
+[09:29:12] Picture infomations saved to  global/fr-FR/README.md
+[09:29:12] Picture infomations saved to global/fr-FR/history/2024/11/21_fr-FR.md
+[09:29:12] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-11-21 10:29:12.479291+01:00
+[09:29:12] Successful get url: https://www.bing.com/th?id=OHR.LionCubs_DE-DE4457487465_UHD.jpg
+[09:29:12] Picture infomations saved to  global/de-DE/README.md
+[09:29:12] Picture infomations saved to global/de-DE/history/2024/11/21_de-DE.md
+[09:29:12] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-11-21 04:29:12.581975-05:00
+[09:29:12] Successful get url: https://www.bing.com/th?id=OHR.AspenTrees_EN-CA3238986123_UHD.jpg
+[09:29:12] Picture infomations saved to  global/en-CA/README.md
+[09:29:12] Picture infomations saved to global/en-CA/history/2024/11/22_en-CA.md
+[09:29:12] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-11-21 09:29:12.737428+00:00
+[09:29:12] Successful get url: https://www.bing.com/th?id=OHR.LionCubs_EN-GB7386144841_UHD.jpg
+[09:29:12] Picture infomations saved to  global/en-GB/README.md
+[09:29:12] Picture infomations saved to global/en-GB/history/2024/11/22_en-GB.md
+[09:29:12] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-11-21 10:29:12.836774+01:00
+[09:29:12] Successful get url: https://www.bing.com/th?id=OHR.NationalTreeDay_IT-IT7236455581_UHD.jpg
+[09:29:12] Picture infomations saved to  global/it-IT/README.md
+[09:29:12] Picture infomations saved to global/it-IT/history/2024/11/21_it-IT.md
+[09:29:12] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-11-21 10:29:12.949552+01:00
+[09:29:12] Successful get url: https://www.bing.com/th?id=OHR.LionCubs_ES-ES2358814300_UHD.jpg
+[09:29:13] Picture infomations saved to  global/es-ES/README.md
+[09:29:13] Picture infomations saved to global/es-ES/history/2024/11/21_es-ES.md
+[09:29:13] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-11-21 04:29:13.105261-05:00
+[09:29:13] Successful get url: https://www.bing.com/th?id=OHR.AspenTrees_FR-CA5793421150_UHD.jpg
+[09:29:13] Picture infomations saved to  global/fr-CA/README.md
+[09:29:13] Picture infomations saved to global/fr-CA/history/2024/11/22_fr-CA.md
+Program exit at 09:29:13
