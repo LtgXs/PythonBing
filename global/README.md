@@ -6,9 +6,9 @@
 ||*Copyright: Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)*
 ||
 |||
-|2024-11-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Xiaoxue2024_JA-JP4930643570_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Xiaoxue2024_JA-JP4930643570_UHD.jpg)|
-||*Copyright: 白糸の滝, 静岡県 富士宮市 (© Sean Pavone/Alamy Stock Photo)*
+|2024-11-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FibonacciAloe_JA-JP5597690966_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FibonacciAloe_JA-JP5597690966_UHD.jpg)|
+||*Copyright: カンガルー島のスパイラルアロエ, オーストラリア (© Michael Melford/Alamy)*
 ||
 |||
 |2024-11-22|**Region: en-IN**||
