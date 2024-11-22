@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-22|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg)|
-||*Copyright: Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)*
+|2024-11-23|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg)|
+||*Copyright: Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)*
 ||
 |||
 |2024-11-22|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 白糸の滝, 静岡県 富士宮市 (© Sean Pavone/Alamy Stock Photo)*
 ||
 |||
-|2024-11-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LionCubs_EN-IN6903529152_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_EN-IN6903529152_UHD.jpg)|
-||*Copyright: Two lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)*
+|2024-11-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ZafraCastle_EN-IN7242103758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZafraCastle_EN-IN7242103758_UHD.jpg)|
+||*Copyright: Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)*
 ||
 |||
-|2024-11-22|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LionCubs_PT-BR9649632612_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_PT-BR9649632612_UHD.jpg)|
-||*Copyright: Dois filhotes de leão ao nascer do sol, África do Sul (© Ruan Springorum/Getty Images)*
+|2024-11-23|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ZafraCastle_PT-BR0233064740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZafraCastle_PT-BR0233064740_UHD.jpg)|
+||*Copyright: Castelo de Zafra, província de Guadalajara, Espanha (© Eduard Gene/Getty Images)*
 ||
 |||
-|2024-11-21|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LionCubs_FR-FR2539679303_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_FR-FR2539679303_UHD.jpg)|
-||*Copyright: Lionceaux au lever du soleil, Afrique du Sud (© Ruan Springorum/Getty Images)*
+|2024-11-22|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ZafraCastle_FR-FR2717876307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZafraCastle_FR-FR2717876307_UHD.jpg)|
+||*Copyright: Château de Zafra, Guadalajara, Espagne (© Eduard Gene/Getty Images)*
 ||
 |||
-|2024-11-21|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LionCubs_DE-DE4457487465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_DE-DE4457487465_UHD.jpg)|
-||*Copyright: Zwei Löwenjunge bei Sonnenaufgang, Südafrika (© Ruan Springorum/Getty Images)*
+|2024-11-22|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ZafraCastle_DE-DE3961546434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZafraCastle_DE-DE3961546434_UHD.jpg)|
+||*Copyright: Burg Zafra, Provinz Guadalajara, Spanien (© Eduard Gene/Getty Images)*
 ||
 |||
-|2024-11-22|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AspenTrees_EN-CA3238986123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenTrees_EN-CA3238986123_UHD.jpg)|
-||*Copyright: Aspen trees in autumn, Stewart-Cassiar Highway, British Columbia, Canada (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-11-23|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ZafraCastle_EN-CA3608705054_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZafraCastle_EN-CA3608705054_UHD.jpg)|
+||*Copyright: Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)*
 ||
 |||
-|2024-11-22|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LionCubs_EN-GB7386144841_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_EN-GB7386144841_UHD.jpg)|
-||*Copyright: Two lion cubs, South Africa (© Ruan Springorum/Getty Images)*
+|2024-11-23|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ZafraCastle_EN-GB7885196184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZafraCastle_EN-GB7885196184_UHD.jpg)|
+||*Copyright: Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)*
 ||
 |||
-|2024-11-21|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.NationalTreeDay_IT-IT7236455581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NationalTreeDay_IT-IT7236455581_UHD.jpg)|
-||*Copyright: Sella di Razzo e Sella di Rioda, Alpi Carniche, Friuli-Venezia Giulia, Italia (© phbcz/iStock/Getty Images Plus)*
+|2024-11-22|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ZafraCastle_IT-IT7473974060_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZafraCastle_IT-IT7473974060_UHD.jpg)|
+||*Copyright: Castello di Zafra, provincia di Guadalajara, Spagna (© Eduard Gene/Getty Images)*
 ||
 |||
-|2024-11-21|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LionCubs_ES-ES2358814300_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionCubs_ES-ES2358814300_UHD.jpg)|
-||*Copyright: Dos cachorros de león al amanecer, Sudáfrica (© Ruan Springorum/Getty Images)*
+|2024-11-22|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ZafraCastle_ES-ES2585214053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZafraCastle_ES-ES2585214053_UHD.jpg)|
+||*Copyright: Castillo de Zafra, Provincia de Guadalajara (© Eduard Gene/Getty Images)*
 ||
 |||
-|2024-11-22|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AspenTrees_FR-CA5793421150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenTrees_FR-CA5793421150_UHD.jpg)|
-||*Copyright: Peupliers trembles en automne, route Stewart-Cassiar, Colombie-Britannique (© Yva Momatiuk and John Eastcott/Minden Pictures)*
+|2024-11-23|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ZafraCastle_FR-CA7635985017_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZafraCastle_FR-CA7635985017_UHD.jpg)|
+||*Copyright: Château de Zafra, Guadalajara, Espagne (© Eduard Gene/Getty Images)*
 ||
 |||
 
