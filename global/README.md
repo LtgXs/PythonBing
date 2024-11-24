@@ -6,9 +6,9 @@
 ||*Copyright: Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)*
 ||
 |||
-|2024-11-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SonomaCoast_JA-JP5834035051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonomaCoast_JA-JP5834035051_UHD.jpg)|
-||*Copyright: ソノマコースト州立公園, 米国 カリフォルニア州 (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-11-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_JA-JP2992203136_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmboseliGiraffes_JA-JP2992203136_UHD.jpg)|
+||*Copyright: アンボセリ国立公園, ケニア (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
 |2024-11-24|**Region: en-IN**||
