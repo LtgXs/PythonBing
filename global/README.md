@@ -6,9 +6,9 @@
 ||*Copyright: Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-11-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_JA-JP2992203136_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmboseliGiraffes_JA-JP2992203136_UHD.jpg)|
-||*Copyright: アンボセリ国立公園, ケニア (© Art Wolfe/DanitaDelimont.com)*
+|2024-11-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HotBathDay2024_JA-JP6338825094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HotBathDay2024_JA-JP6338825094_UHD.jpg)|
+||*Copyright: 金鱗湖の鳥居, 大分県 由布市 (© T-Mizuguchi/Shutterstock)*
 ||
 |||
 |2024-11-25|**Region: en-IN**||
