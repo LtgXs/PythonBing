@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-25|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg)|
-||*Copyright: Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-11-26|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg)|
+||*Copyright: Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
 |2024-11-25|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アンボセリ国立公園, ケニア (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-11-24|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SonomaCoast_EN-IN1867491074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonomaCoast_EN-IN1867491074_UHD.jpg)|
-||*Copyright: Sonoma Coast State Park, California, USA (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-11-25|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-IN4832251197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-IN4832251197_UHD.jpg)|
+||*Copyright: Maasai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-11-25|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SonomaCoast_PT-BR0576687853_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonomaCoast_PT-BR0576687853_UHD.jpg)|
-||*Copyright: Parque Estatal da Costa de Sonoma, Califórnia, EUA (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-11-26|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_PT-BR7213408743_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmboseliGiraffes_PT-BR7213408743_UHD.jpg)|
+||*Copyright: Girafas Masai no Parque Nacional Amboseli, Quênia (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-11-24|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ParisAutumn_FR-FR3278291664_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisAutumn_FR-FR3278291664_UHD.jpg)|
-||*Copyright: Paris aux couleurs de l’automne (© encrier/Getty Images)*
+|2024-11-25|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_FR-FR8363811171_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmboseliGiraffes_FR-FR8363811171_UHD.jpg)|
+||*Copyright: Girafes Masai, parc national d'Amboseli, Kenya (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-11-24|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SonomaCoast_DE-DE6907667505_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonomaCoast_DE-DE6907667505_UHD.jpg)|
-||*Copyright: Sonoma Coast State Park, Kalifornien, USA (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-11-25|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.RegensburgChristmasMarket_DE-DE8576246094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RegensburgChristmasMarket_DE-DE8576246094_UHD.jpg)|
+||*Copyright: Weihnachtsmarkt in Regensburg, Bayern (© Harald Nachtmann/Getty Images)*
 ||
 |||
-|2024-11-25|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SonomaCoast_EN-CA2154911568_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonomaCoast_EN-CA2154911568_UHD.jpg)|
-||*Copyright: Sonoma Coast State Park, California, USA (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-11-26|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-CA6129428319_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-CA6129428319_UHD.jpg)|
+||*Copyright: Maasai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-11-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SonomaCoast_EN-GB8716025465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonomaCoast_EN-GB8716025465_UHD.jpg)|
-||*Copyright: Sonoma Coast State Park, California, USA (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-11-26|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-GB4842022174_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-GB4842022174_UHD.jpg)|
+||*Copyright: Maasai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-11-24|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SonomaCoast_IT-IT7979490899_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonomaCoast_IT-IT7979490899_UHD.jpg)|
-||*Copyright: Parco statale della Costa di Sonoma, California, USA (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-11-25|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CowsInAlpineValley_IT-IT8150386866_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CowsInAlpineValley_IT-IT8150386866_UHD.jpg)|
+||*Copyright: Mucche in una valle alpina a Santa Maddalena, Val di Funes, Dolomiti, Italia (© Smelov/Shutterstock)*
 ||
 |||
-|2024-11-24|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.DavisCupFinalsMalaga_ES-ES2847450969_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DavisCupFinalsMalaga_ES-ES2847450969_UHD.jpg)|
-||*Copyright: Atardecer en Málaga, Andalucía, España (© SJ Travel Photo and Video/Shutterstock)*
+|2024-11-25|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_ES-ES5878697343_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmboseliGiraffes_ES-ES5878697343_UHD.jpg)|
+||*Copyright: Jirafas masai, Parque Nacional de Amboseli, Kenia (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-11-25|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SonomaCoast_FR-CA8588689365_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonomaCoast_FR-CA8588689365_UHD.jpg)|
-||*Copyright: Parc d'État de la côte de Sonoma, Californie, États-Unis (© Rachid Dahnoun/Tandem Stills + Motion)*
+|2024-11-26|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_FR-CA7584281914_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmboseliGiraffes_FR-CA7584281914_UHD.jpg)|
+||*Copyright: Girafes Masai, parc national d'Amboseli, Kenya (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
 
