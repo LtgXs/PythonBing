@@ -6,9 +6,9 @@
 ||*Copyright: Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)*
 ||
 |||
-|2024-11-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HotBathDay2024_JA-JP6338825094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HotBathDay2024_JA-JP6338825094_UHD.jpg)|
-||*Copyright: 金鱗湖の鳥居, 大分県 由布市 (© T-Mizuguchi/Shutterstock)*
+|2024-11-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SemoisRiver_JA-JP6578585711_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SemoisRiver_JA-JP6578585711_UHD.jpg)|
+||*Copyright: セモワ川が作り出した壮大な蛇行地形, ベルギー (© David Briard/Getty)*
 ||
 |||
 |2024-11-26|**Region: en-IN**||
