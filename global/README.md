@@ -6,9 +6,9 @@
 ||*Copyright: Wild turkeys, New York (© John Cancalosi/Alamy)*
 ||
 |||
-|2024-11-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ZafraCastle_JA-JP6761146829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZafraCastle_JA-JP6761146829_UHD.jpg)|
-||*Copyright: ザフラ城, スペイン グアダラハラ県 (© Eduard Gene/Getty Images)*
+|2024-11-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MtStMichel_JA-JP4975687728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtStMichel_JA-JP4975687728_UHD.jpg)|
+||*Copyright: モンサンミッシェル, フランス (© Captain Skyhigh/Getty Images)*
 ||
 |||
 |2024-11-28|**Region: en-IN**||
