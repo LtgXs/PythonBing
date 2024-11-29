@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-11-29|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg)|
-||*Copyright: Wild turkeys, New York (© John Cancalosi/Alamy)*
+|2024-11-30|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg)|
+||*Copyright: Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)*
 ||
 |||
 |2024-11-29|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: モンサンミッシェル, フランス (© Captain Skyhigh/Getty Images)*
 ||
 |||
-|2024-11-28|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MurdeshwarTemple_EN-IN3830652229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MurdeshwarTemple_EN-IN3830652229_UHD.jpg)|
-||*Copyright: Murudeshwara Temple, Murdeshwar, Karnataka (© Amith Nag Photography/Getty Images)*
+|2024-11-29|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MtStMichel_EN-IN3221435828_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtStMichel_EN-IN3221435828_UHD.jpg)|
+||*Copyright: Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)*
 ||
 |||
-|2024-11-29|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AssiniboineTS_PT-BR1279222621_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AssiniboineTS_PT-BR1279222621_UHD.jpg)|
-||*Copyright: Tempestade se dissipando ao pôr do sol, Parque Provincial do Monte Assiniboine, Canadá (© Jeff Lewis/TANDEM Stills + Motion)*
+|2024-11-30|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MtStMichel_PT-BR7244299173_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtStMichel_PT-BR7244299173_UHD.jpg)|
+||*Copyright: Monte Saint-Michel, Normandia, França (© Captain Skyhigh/Getty Images)*
 ||
 |||
-|2024-11-28|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SemoisRiver_FR-FR4323889306_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SemoisRiver_FR-FR4323889306_UHD.jpg)|
-||*Copyright: Tombeau des Géants en automne, Bouillon, Belgique (© David Briard/Getty)*
+|2024-11-29|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MtStMichel_FR-FR7113909915_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtStMichel_FR-FR7113909915_UHD.jpg)|
+||*Copyright: Mont Saint-Michel, Normandie (© Captain Skyhigh/Getty Images)*
 ||
 |||
-|2024-11-28|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AssiniboineTS_DE-DE6120366928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AssiniboineTS_DE-DE6120366928_UHD.jpg)|
-||*Copyright: Aufklarender Sturm bei Sonnenuntergang, Mount Assiniboine Provincial Park, Kanada (© Jeff Lewis/TANDEM Stills + Motion)*
+|2024-11-29|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MtStMichel_DE-DE3578803710_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtStMichel_DE-DE3578803710_UHD.jpg)|
+||*Copyright: Mont-Saint-Michel, Normandie, Frankreich (© Captain Skyhigh/Getty Images)*
 ||
 |||
-|2024-11-29|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AssiniboineTS_EN-CA8487090970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AssiniboineTS_EN-CA8487090970_UHD.jpg)|
-||*Copyright: Clearing storm at sunset, Mount Assiniboine Provincial Park, Canada (© Jeff Lewis/TANDEM Stills + Motion)*
+|2024-11-30|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MtStMichel_EN-CA3538100784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtStMichel_EN-CA3538100784_UHD.jpg)|
+||*Copyright: Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)*
 ||
 |||
-|2024-11-29|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CityHall2024_EN-GB2172832238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CityHall2024_EN-GB2172832238_UHD.jpg)|
-||*Copyright: City Hall, London, England (© coldsnowstorm/iStock/Getty Images)*
+|2024-11-30|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MtStMichel_EN-GB8923576020_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtStMichel_EN-GB8923576020_UHD.jpg)|
+||*Copyright: Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)*
 ||
 |||
-|2024-11-28|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AssiniboineTS_IT-IT8882599718_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AssiniboineTS_IT-IT8882599718_UHD.jpg)|
-||*Copyright: Tempesta di schiarite al tramonto, Parco Provinciale del Monte Assiniboine, Canada (© Jeff Lewis/TANDEM Stills + Motion)*
+|2024-11-29|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MtStMichel_IT-IT5961115578_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtStMichel_IT-IT5961115578_UHD.jpg)|
+||*Copyright: Mont Saint-Michel, Normandia, Francia (© Captain Skyhigh/Getty Images)*
 ||
 |||
-|2024-11-28|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AssiniboineTS_ES-ES3697439529_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AssiniboineTS_ES-ES3697439529_UHD.jpg)|
-||*Copyright: Parque Provincial Monte Assiniboine, Columbia Británica, Canadá (© Jeff Lewis/TANDEM Stills + Motion)*
+|2024-11-29|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MtStMichel_ES-ES3063344602_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtStMichel_ES-ES3063344602_UHD.jpg)|
+||*Copyright: Monte Saint-Michel, Normandía, Francia (© Captain Skyhigh/Getty Images)*
 ||
 |||
-|2024-11-29|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AssiniboineTS_FR-CA9587536433_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AssiniboineTS_FR-CA9587536433_UHD.jpg)|
-||*Copyright: Tempête au coucher du soleil, parc provincial du mont Assiniboine, Colombie-Britannique (© Jeff Lewis/TANDEM Stills + Motion)*
+|2024-11-30|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MtStMichel_FR-CA3710121218_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtStMichel_FR-CA3710121218_UHD.jpg)|
+||*Copyright: Mont Saint-Michel, Normandie (© Captain Skyhigh/Getty Images)*
 ||
 |||
 
