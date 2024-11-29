@@ -6,9 +6,9 @@
 ||*Copyright: Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)*
 ||
 |||
-|2024-11-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MtStMichel_JA-JP4975687728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtStMichel_JA-JP4975687728_UHD.jpg)|
-||*Copyright: モンサンミッシェル, フランス (© Captain Skyhigh/Getty Images)*
+|2024-11-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KilchurnAutumn_JA-JP5172394807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KilchurnAutumn_JA-JP5172394807_UHD.jpg)|
+||*Copyright: 水面に映るキルチャーン城, スコットランド (© Tom Mackie/plainpicture)*
 ||
 |||
 |2024-11-29|**Region: en-IN**||
