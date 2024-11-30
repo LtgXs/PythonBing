@@ -6,9 +6,9 @@
 ||*Copyright: Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)*
 ||
 |||
-|2024-11-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KilchurnAutumn_JA-JP5172394807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KilchurnAutumn_JA-JP5172394807_UHD.jpg)|
-||*Copyright: 水面に映るキルチャーン城, スコットランド (© Tom Mackie/plainpicture)*
+|2024-12-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_JA-JP7385959905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergsAntarctica_JA-JP7385959905_UHD.jpg)|
+||*Copyright: 南極大陸の氷山 (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
 |2024-11-30|**Region: en-IN**||
