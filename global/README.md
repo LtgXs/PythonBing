@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg)|
-||*Copyright: Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)*
+|2024-12-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg)|
+||*Copyright: Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
 |2024-12-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 南極大陸の氷山 (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-11-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RhinosKenya_EN-IN6639992420_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_EN-IN6639992420_UHD.jpg)|
-||*Copyright: Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
+|2024-12-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-IN1897026898_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-IN1897026898_UHD.jpg)|
+||*Copyright: Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-12-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.KilchurnAutumn_PT-BR7553426712_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KilchurnAutumn_PT-BR7553426712_UHD.jpg)|
-||*Copyright: Castelo Kilchurn refletido no Lago Awe, Argyll e Bute, Escócia (© Tom Mackie/plainpicture)*
+|2024-12-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_PT-BR8796328683_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergsAntarctica_PT-BR8796328683_UHD.jpg)|
+||*Copyright: Icebergs, Antártida (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-11-30|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.KilchurnAutumn_FR-FR7304840775_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KilchurnAutumn_FR-FR7304840775_UHD.jpg)|
-||*Copyright: Reflet du château de Kilchurn à Loch Awe, Argyll et Bute, Écosse (© Tom Mackie/plainpicture)*
+|2024-12-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_FR-FR7491065799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergsAntarctica_FR-FR7491065799_UHD.jpg)|
+||*Copyright: Icebergs, Antarctique (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-11-30|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.KilchurnAutumn_DE-DE0282904512_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KilchurnAutumn_DE-DE0282904512_UHD.jpg)|
-||*Copyright: Kilchurn Castle spiegelt sich im Loch Awe, Argyll und Bute, Schottland (© Tom Mackie/plainpicture)*
+|2024-12-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.FreudenbergHistoricHouses_DE-DE3863423728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FreudenbergHistoricHouses_DE-DE3863423728_UHD.jpg)|
+||*Copyright: Verschneite Fachwerkhäuser in Freudenberg bei Siegen, Nordrhein-Westfalen (© Thorsten Frisch/Shutterstock)*
 ||
 |||
-|2024-12-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-CA3966319675_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-CA3966319675_UHD.jpg)|
-||*Copyright: Kilchurn Castle reflecting in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)*
+|2024-12-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-CA5966857635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-CA5966857635_UHD.jpg)|
+||*Copyright: Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-12-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-GB9210745671_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-GB9210745671_UHD.jpg)|
-||*Copyright: Kilchurn Castle reflecting in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)*
+|2024-12-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-GB9447266279_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-GB9447266279_UHD.jpg)|
+||*Copyright: Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-11-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.KilchurnAutumn_IT-IT2035726634_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KilchurnAutumn_IT-IT2035726634_UHD.jpg)|
-||*Copyright: Castello di Kilchurn, Loch Awe, Argyll e Bute, Scozia (© Tom Mackie/plainpicture)*
+|2024-12-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MercatiDiNataleBolzano_IT-IT2256905385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MercatiDiNataleBolzano_IT-IT2256905385_UHD.jpg)|
+||*Copyright: Mercatino di Natale, Bressanone, Provincia di Bolzano, Trentino-Alto Adige, Italia (© Olimpio Fantuz/Sime/eStock Photo)*
 ||
 |||
-|2024-11-30|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.KilchurnAutumn_ES-ES3399855267_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KilchurnAutumn_ES-ES3399855267_UHD.jpg)|
-||*Copyright: Reflejo del castillo de Kilchurn en Loch Awe, Argyll y Bute, Escocia (© Tom Mackie/plainpicture)*
+|2024-12-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_ES-ES3608779732_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergsAntarctica_ES-ES3608779732_UHD.jpg)|
+||*Copyright: Icebergs, Antártida (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-12-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.KilchurnAutumn_FR-CA4166920204_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KilchurnAutumn_FR-CA4166920204_UHD.jpg)|
-||*Copyright: Reflet du château de Kilchurn à Loch Awe, Argyll et Bute, Écosse (© Tom Mackie/plainpicture)*
+|2024-12-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_FR-CA4528106191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergsAntarctica_FR-CA4528106191_UHD.jpg)|
+||*Copyright: Icebergs, Antarctique (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
 
