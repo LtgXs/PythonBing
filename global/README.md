@@ -6,9 +6,9 @@
 ||*Copyright: Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)*
 ||
 |||
-|2024-12-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_JA-JP7385959905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcebergsAntarctica_JA-JP7385959905_UHD.jpg)|
-||*Copyright: 南極大陸の氷山 (© Art Wolfe/DanitaDelimont.com)*
+|2024-12-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SnowMoose_JA-JP7555569429_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowMoose_JA-JP7555569429_UHD.jpg)|
+||*Copyright: デナリ国立公園のヘラジカ, 米国 アラスカ州  (© Cavan Images/Alamy)*
 ||
 |||
 |2024-12-01|**Region: en-IN**||
