@@ -1,0 +1,60 @@
+
+Program started at 09:30:53
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az847-824
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[09:30:53] Start geting CN Bing Wallpaper
+[09:30:53] Successful get url: https://www.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg
+[09:30:53] Image saved to img/background.jpg
+[09:30:53] Info saved to README.md
+[09:30:53] Image saved to history/2024/12/02.md
+[09:30:53] Start geting global Bing Wallpaper, region=en-US, local time is 2024-12-02 04:30:53.361907-05:00
+[09:30:53] Successful get url: https://www.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg
+[09:30:53] Picture infomations saved to  global/en-US/README.md
+[09:30:53] Picture infomations saved to global/en-US/history/2024/12/03_en-US.md
+[09:30:53] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-12-02 18:30:53.551913+09:00
+[09:30:53] Successful get url: https://www.bing.com/th?id=OHR.SnowMoose_JA-JP7555569429_UHD.jpg
+[09:30:53] Picture infomations saved to  global/ja-JP/README.md
+[09:30:53] Picture infomations saved to global/ja-JP/history/2024/12/02_ja-JP.md
+[09:30:53] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-12-02 15:00:53.691446+05:30
+[09:30:53] Successful get url: https://www.bing.com/th?id=OHR.SnowMoose_EN-IN2006473446_UHD.jpg
+[09:30:53] Picture infomations saved to  global/en-IN/README.md
+[09:30:53] Picture infomations saved to global/en-IN/history/2024/12/02_en-IN.md
+[09:30:53] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-12-02 06:30:53.836297-03:00
+[09:30:53] Successful get url: https://www.bing.com/th?id=OHR.DiadoSamba_PT-BR6499916889_UHD.jpg
+[09:30:53] Picture infomations saved to  global/pt-BR/README.md
+[09:30:53] Picture infomations saved to global/pt-BR/history/2024/12/03_pt-BR.md
+[09:30:54] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-12-02 10:30:54.000735+01:00
+[09:30:54] Successful get url: https://www.bing.com/th?id=OHR.SnowMoose_FR-FR5886438114_UHD.jpg
+[09:30:54] Picture infomations saved to  global/fr-FR/README.md
+[09:30:54] Picture infomations saved to global/fr-FR/history/2024/12/02_fr-FR.md
+[09:30:54] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-12-02 10:30:54.141642+01:00
+[09:30:54] Successful get url: https://www.bing.com/th?id=OHR.SnowMoose_DE-DE0618096568_UHD.jpg
+[09:30:54] Picture infomations saved to  global/de-DE/README.md
+[09:30:54] Picture infomations saved to global/de-DE/history/2024/12/02_de-DE.md
+[09:30:54] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-12-02 04:30:54.294447-05:00
+[09:30:54] Successful get url: https://www.bing.com/th?id=OHR.SnowMoose_EN-CA6422097332_UHD.jpg
+[09:30:54] Picture infomations saved to  global/en-CA/README.md
+[09:30:54] Picture infomations saved to global/en-CA/history/2024/12/03_en-CA.md
+[09:30:54] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-12-02 09:30:54.462037+00:00
+[09:30:54] Successful get url: https://www.bing.com/th?id=OHR.SnowMoose_EN-GB9676288027_UHD.jpg
+[09:30:54] Picture infomations saved to  global/en-GB/README.md
+[09:30:54] Picture infomations saved to global/en-GB/history/2024/12/03_en-GB.md
+[09:30:54] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-12-02 10:30:54.595799+01:00
+[09:30:54] Successful get url: https://www.bing.com/th?id=OHR.IcebergsAntarctica_IT-IT6673313021_UHD.jpg
+[09:30:54] Picture infomations saved to  global/it-IT/README.md
+[09:30:54] Picture infomations saved to global/it-IT/history/2024/12/02_it-IT.md
+[09:30:54] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-12-02 10:30:54.756347+01:00
+[09:30:54] Successful get url: https://www.bing.com/th?id=OHR.SnowMoose_ES-ES4746792183_UHD.jpg
+[09:30:54] Picture infomations saved to  global/es-ES/README.md
+[09:30:54] Picture infomations saved to global/es-ES/history/2024/12/02_es-ES.md
+[09:30:54] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-12-02 04:30:54.906029-05:00
+[09:30:54] Successful get url: https://www.bing.com/th?id=OHR.SnowMoose_FR-CA5366514612_UHD.jpg
+[09:30:55] Picture infomations saved to  global/fr-CA/README.md
+[09:30:55] Picture infomations saved to global/fr-CA/history/2024/12/03_fr-CA.md
+Program exit at 09:30:55
