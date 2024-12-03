@@ -6,9 +6,9 @@
 ||*Copyright: Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)*
 ||
 |||
-|2024-12-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ChichibuFestival2024_JA-JP7708851590_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChichibuFestival2024_JA-JP7708851590_UHD.jpg)|
-||*Copyright: 花火と豪華な山車,埼玉県 秩父市 (© ASSOCIATED PRESS/AP)*
+|2024-12-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RhinosKenya_JA-JP7911615612_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_JA-JP7911615612_UHD.jpg)|
+||*Copyright: シロサイの顔合わせ, ケニア (© Ingo Arndt/Minden Pictures)*
 ||
 |||
 |2024-12-03|**Region: en-IN**||
