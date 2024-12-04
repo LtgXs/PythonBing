@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg)|
-||*Copyright: Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)*
+|2024-12-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg)|
+||*Copyright: Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
 ||
 |||
 |2024-12-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: シロサイの顔合わせ, ケニア (© Ingo Arndt/Minden Pictures)*
 ||
 |||
-|2024-12-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.JaipurFort_EN-IN9564090681_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JaipurFort_EN-IN9564090681_UHD.jpg)|
-||*Copyright: Sattais Katcheri (Court of 27 pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)*
+|2024-12-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.NavyDayIN_EN-IN0092273094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NavyDayIN_EN-IN0092273094_UHD.jpg)|
+||*Copyright: Indian Navy soldiers in front of the Gateway of India, Mumbai (© Danish Siddiqui/REUTERS)*
 ||
 |||
-|2024-12-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.JaipurFort_PT-BR6821987206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JaipurFort_PT-BR6821987206_UHD.jpg)|
-||*Copyright: Sattais Katcheri, Forte de Amber, Rajastão, Índia (© Yury Taranik/Shutterstock)*
+|2024-12-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.RhinosKenya_PT-BR7836238197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_PT-BR7836238197_UHD.jpg)|
+||*Copyright: Rinocerontes-brancos machos, Lago Nakuru, Quênia (© Ingo Arndt/Minden Pictures)*
 ||
 |||
-|2024-12-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.JaipurFort_FR-FR7682390069_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JaipurFort_FR-FR7682390069_UHD.jpg)|
-||*Copyright: Sattais Katcheri, Fort d'Amber, Amer, Jaipur, Rajasthan, Inde (© Yury Taranik/Shutterstock)*
+|2024-12-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.RhinosKenya_FR-FR8206885022_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_FR-FR8206885022_UHD.jpg)|
+||*Copyright: Rhinocéros blancs mâles, lac Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
 ||
 |||
-|2024-12-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.JaipurFort_DE-DE4173517386_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JaipurFort_DE-DE4173517386_UHD.jpg)|
-||*Copyright: Sattais Katcheri (Halle der 27 Säulen), Fort Amber, Rajasthan, Indien (© Yury Taranik/Shutterstock)*
+|2024-12-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.RhinosKenya_DE-DE1969801233_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_DE-DE1969801233_UHD.jpg)|
+||*Copyright: Männliche Breitmaulnashörner, Lake Nakuru, Kenia (© Ingo Arndt/Minden Pictures)*
 ||
 |||
-|2024-12-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.JaipurFort_EN-CA4815702615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JaipurFort_EN-CA4815702615_UHD.jpg)|
-||*Copyright: Sattais Katcheri (Court of 27 pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)*
+|2024-12-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.RhinosKenya_EN-CA9474788665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_EN-CA9474788665_UHD.jpg)|
+||*Copyright: Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
 ||
 |||
-|2024-12-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.JaipurFort_EN-GB1927902015_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JaipurFort_EN-GB1927902015_UHD.jpg)|
-||*Copyright: Sattais Katcheri (Court of 27 pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)*
+|2024-12-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.RhinosKenya_EN-GB8677567554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_EN-GB8677567554_UHD.jpg)|
+||*Copyright: Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
 ||
 |||
-|2024-12-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.JaipurFort_IT-IT7009980526_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JaipurFort_IT-IT7009980526_UHD.jpg)|
-||*Copyright: Sattais Katcheri (Corte dei 27 pilastri), Forte di Amber, Rajasthan, India (© Yury Taranik/Shutterstock)*
+|2024-12-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.RhinosKenya_IT-IT3428289115_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_IT-IT3428289115_UHD.jpg)|
+||*Copyright: Rinoceronti bianchi maschi, Lago Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
 ||
 |||
-|2024-12-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.JaipurFort_ES-ES4985021277_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JaipurFort_ES-ES4985021277_UHD.jpg)|
-||*Copyright: Sattais Katcheri (patio de los 27 pilares), Fuerte Amber, Rajastán, India (© Yury Taranik/Shutterstock)*
+|2024-12-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.RhinosKenya_ES-ES5145114880_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_ES-ES5145114880_UHD.jpg)|
+||*Copyright: Rinocerontes blancos machos, Lago Nakuru, Kenia (© Ingo Arndt/Minden Pictures)*
 ||
 |||
-|2024-12-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.JaipurFort_FR-CA8032465470_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JaipurFort_FR-CA8032465470_UHD.jpg)|
-||*Copyright: Sattais Katcheri, Fort d'Amber, Amer, Jaipur, Rajasthan, Inde (© Yury Taranik/Shutterstock)*
+|2024-12-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.RhinosKenya_FR-CA8302013290_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_FR-CA8302013290_UHD.jpg)|
+||*Copyright: Rhinocéros blancs mâles, lac Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
 ||
 |||
 
