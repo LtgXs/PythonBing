@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg)|
-||*Copyright: Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
+|2024-12-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg)|
+||*Copyright: Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)*
 ||
 |||
 |2024-12-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: モノ湖, 米国 カリフォルニア州 (© Susanna Patras/TANDEM Stills + Motion)*
 ||
 |||
-|2024-12-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.NavyDayIN_EN-IN0092273094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NavyDayIN_EN-IN0092273094_UHD.jpg)|
-||*Copyright: Indian Navy soldiers in front of the Gateway of India, Mumbai (© Danish Siddiqui/REUTERS)*
+|2024-12-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MonoTufa_EN-IN2578939152_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_EN-IN2578939152_UHD.jpg)|
+||*Copyright: Tufa formation on Mono Lake, California, USA (© Susanna Patras/TANDEM Stills + Motion)*
 ||
 |||
-|2024-12-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.RhinosKenya_PT-BR7836238197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_PT-BR7836238197_UHD.jpg)|
-||*Copyright: Rinocerontes-brancos machos, Lago Nakuru, Quênia (© Ingo Arndt/Minden Pictures)*
+|2024-12-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MonoTufa_PT-BR8311694912_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_PT-BR8311694912_UHD.jpg)|
+||*Copyright: Formação de tufa no Lago Mono, Califórnia, EUA (© Susanna Patras/TANDEM Stills + Motion)*
 ||
 |||
-|2024-12-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.RhinosKenya_FR-FR8206885022_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_FR-FR8206885022_UHD.jpg)|
-||*Copyright: Rhinocéros blancs mâles, lac Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
+|2024-12-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MonoTufa_FR-FR7760480527_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_FR-FR7760480527_UHD.jpg)|
+||*Copyright: Cheminées de fées sur le lac Mono, Californie, États-Unis (© Susanna Patras/TANDEM Stills + Motion)*
 ||
 |||
-|2024-12-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.RhinosKenya_DE-DE1969801233_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_DE-DE1969801233_UHD.jpg)|
-||*Copyright: Männliche Breitmaulnashörner, Lake Nakuru, Kenia (© Ingo Arndt/Minden Pictures)*
+|2024-12-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MonoTufa_DE-DE3076493863_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_DE-DE3076493863_UHD.jpg)|
+||*Copyright: Kalktuff-Formationen am Mono Lake, Kalifornien, USA (© Susanna Patras/TANDEM Stills + Motion)*
 ||
 |||
-|2024-12-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.RhinosKenya_EN-CA9474788665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_EN-CA9474788665_UHD.jpg)|
-||*Copyright: Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
+|2024-12-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MonoTufa_EN-CA0552920922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_EN-CA0552920922_UHD.jpg)|
+||*Copyright: Tufa formation on Mono Lake, California, USA (© Susanna Patras/TANDEM Stills + Motion)*
 ||
 |||
-|2024-12-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.RhinosKenya_EN-GB8677567554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_EN-GB8677567554_UHD.jpg)|
-||*Copyright: Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
+|2024-12-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MonoTufa_EN-GB2751110672_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_EN-GB2751110672_UHD.jpg)|
+||*Copyright: Tufa formation on Mono Lake, California, USA (© Susanna Patras/TANDEM Stills + Motion)*
 ||
 |||
-|2024-12-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.RhinosKenya_IT-IT3428289115_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_IT-IT3428289115_UHD.jpg)|
-||*Copyright: Rinoceronti bianchi maschi, Lago Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
+|2024-12-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MonoTufa_IT-IT7280531919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_IT-IT7280531919_UHD.jpg)|
+||*Copyright: Formazione di tufo sul lago Mono, California, USA (© Susanna Patras/TANDEM Stills + Motion)*
 ||
 |||
-|2024-12-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.RhinosKenya_ES-ES5145114880_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_ES-ES5145114880_UHD.jpg)|
-||*Copyright: Rinocerontes blancos machos, Lago Nakuru, Kenia (© Ingo Arndt/Minden Pictures)*
+|2024-12-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MonoTufa_ES-ES5680037517_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_ES-ES5680037517_UHD.jpg)|
+||*Copyright: Formación de toba en el lago Mono, California, EE. UU. (© Susanna Patras/TANDEM Stills + Motion)*
 ||
 |||
-|2024-12-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.RhinosKenya_FR-CA8302013290_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhinosKenya_FR-CA8302013290_UHD.jpg)|
-||*Copyright: Rhinocéros blancs mâles, lac Nakuru, Kenya (© Ingo Arndt/Minden Pictures)*
+|2024-12-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MonoTufa_FR-CA2264462783_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_FR-CA2264462783_UHD.jpg)|
+||*Copyright: Cheminées de fées sur le lac Mono, Californie, États-Unis (© Susanna Patras/TANDEM Stills + Motion)*
 ||
 |||
 

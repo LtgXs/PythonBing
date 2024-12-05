@@ -1,0 +1,60 @@
+
+Program started at 09:29:52
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1110-55
+Processor Type: x86_64
+Python Version: 3.12.7
+Python Interpreter Name: CPython
+[09:29:52] Start geting CN Bing Wallpaper
+[09:29:52] Successful get url: https://www.bing.com/th?id=OHR.MonoTufa_ZH-CN4998806540_UHD.jpg
+[09:29:52] Image saved to img/background.jpg
+[09:29:52] Info saved to README.md
+[09:29:52] Image saved to history/2024/12/05.md
+[09:29:52] Start geting global Bing Wallpaper, region=en-US, local time is 2024-12-05 04:29:52.318716-05:00
+[09:29:52] Successful get url: https://www.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg
+[09:29:52] Picture infomations saved to  global/en-US/README.md
+[09:29:52] Picture infomations saved to global/en-US/history/2024/12/06_en-US.md
+[09:29:52] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-12-05 18:29:52.441595+09:00
+[09:29:52] Successful get url: https://www.bing.com/th?id=OHR.MonoTufa_JA-JP8066767108_UHD.jpg
+[09:29:52] Picture infomations saved to  global/ja-JP/README.md
+[09:29:52] Picture infomations saved to global/ja-JP/history/2024/12/05_ja-JP.md
+[09:29:52] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-12-05 14:59:52.568909+05:30
+[09:29:52] Successful get url: https://www.bing.com/th?id=OHR.MonoTufa_EN-IN2578939152_UHD.jpg
+[09:29:52] Picture infomations saved to  global/en-IN/README.md
+[09:29:52] Picture infomations saved to global/en-IN/history/2024/12/05_en-IN.md
+[09:29:52] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-12-05 06:29:52.669121-03:00
+[09:29:52] Successful get url: https://www.bing.com/th?id=OHR.MonoTufa_PT-BR8311694912_UHD.jpg
+[09:29:52] Picture infomations saved to  global/pt-BR/README.md
+[09:29:52] Picture infomations saved to global/pt-BR/history/2024/12/06_pt-BR.md
+[09:29:52] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-12-05 10:29:52.761308+01:00
+[09:29:52] Successful get url: https://www.bing.com/th?id=OHR.MonoTufa_FR-FR7760480527_UHD.jpg
+[09:29:52] Picture infomations saved to  global/fr-FR/README.md
+[09:29:52] Picture infomations saved to global/fr-FR/history/2024/12/05_fr-FR.md
+[09:29:52] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-12-05 10:29:52.849510+01:00
+[09:29:52] Successful get url: https://www.bing.com/th?id=OHR.MonoTufa_DE-DE3076493863_UHD.jpg
+[09:29:52] Picture infomations saved to  global/de-DE/README.md
+[09:29:52] Picture infomations saved to global/de-DE/history/2024/12/05_de-DE.md
+[09:29:52] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-12-05 04:29:52.945443-05:00
+[09:29:53] Successful get url: https://www.bing.com/th?id=OHR.MonoTufa_EN-CA0552920922_UHD.jpg
+[09:29:53] Picture infomations saved to  global/en-CA/README.md
+[09:29:53] Picture infomations saved to global/en-CA/history/2024/12/06_en-CA.md
+[09:29:53] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-12-05 09:29:53.038955+00:00
+[09:29:53] Successful get url: https://www.bing.com/th?id=OHR.MonoTufa_EN-GB2751110672_UHD.jpg
+[09:29:53] Picture infomations saved to  global/en-GB/README.md
+[09:29:53] Picture infomations saved to global/en-GB/history/2024/12/06_en-GB.md
+[09:29:53] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-12-05 10:29:53.130040+01:00
+[09:29:53] Successful get url: https://www.bing.com/th?id=OHR.MonoTufa_IT-IT7280531919_UHD.jpg
+[09:29:53] Picture infomations saved to  global/it-IT/README.md
+[09:29:53] Picture infomations saved to global/it-IT/history/2024/12/05_it-IT.md
+[09:29:53] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-12-05 10:29:53.268545+01:00
+[09:29:53] Successful get url: https://www.bing.com/th?id=OHR.MonoTufa_ES-ES5680037517_UHD.jpg
+[09:29:53] Picture infomations saved to  global/es-ES/README.md
+[09:29:53] Picture infomations saved to global/es-ES/history/2024/12/05_es-ES.md
+[09:29:53] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-12-05 04:29:53.356780-05:00
+[09:29:53] Successful get url: https://www.bing.com/th?id=OHR.MonoTufa_FR-CA2264462783_UHD.jpg
+[09:29:53] Picture infomations saved to  global/fr-CA/README.md
+[09:29:53] Picture infomations saved to global/fr-CA/history/2024/12/06_fr-CA.md
+Program exit at 09:29:53
