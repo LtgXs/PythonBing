@@ -6,9 +6,9 @@
 ||*Copyright: Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)*
 ||
 |||
-|2024-12-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MonoTufa_JA-JP8066767108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_JA-JP8066767108_UHD.jpg)|
-||*Copyright: モノ湖, 米国 カリフォルニア州 (© Susanna Patras/TANDEM Stills + Motion)*
+|2024-12-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HelsinkiDusk_JA-JP8216541034_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HelsinkiDusk_JA-JP8216541034_UHD.jpg)|
+||*Copyright: ヘルシンキの旧市街, フィンランド (© Oleksiy Mark/Shutterstock)*
 ||
 |||
 |2024-12-05|**Region: en-IN**||
