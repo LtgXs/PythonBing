@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg)|
-||*Copyright: Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)*
+|2024-12-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg)|
+||*Copyright: Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)*
 ||
 |||
 |2024-12-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ヘルシンキの旧市街, フィンランド (© Oleksiy Mark/Shutterstock)*
 ||
 |||
-|2024-12-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MonoTufa_EN-IN2578939152_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_EN-IN2578939152_UHD.jpg)|
-||*Copyright: Tufa formation on Mono Lake, California, USA (© Susanna Patras/TANDEM Stills + Motion)*
+|2024-12-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-IN5970913809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-IN5970913809_UHD.jpg)|
+||*Copyright: Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)*
 ||
 |||
-|2024-12-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MonoTufa_PT-BR8311694912_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_PT-BR8311694912_UHD.jpg)|
-||*Copyright: Formação de tufa no Lago Mono, Califórnia, EUA (© Susanna Patras/TANDEM Stills + Motion)*
+|2024-12-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HelsinkiDusk_PT-BR9202274826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HelsinkiDusk_PT-BR9202274826_UHD.jpg)|
+||*Copyright: Centro Histórico de Helsinque, Finlândia (© Oleksiy Mark/Shutterstock)*
 ||
 |||
-|2024-12-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MonoTufa_FR-FR7760480527_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_FR-FR7760480527_UHD.jpg)|
-||*Copyright: Cheminées de fées sur le lac Mono, Californie, États-Unis (© Susanna Patras/TANDEM Stills + Motion)*
+|2024-12-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ColmarHoliday_FR-FR1755218249_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColmarHoliday_FR-FR1755218249_UHD.jpg)|
+||*Copyright: Maisons traditionnelles alsaciennes à colombages et rivière Lauch Colmar, Alsace (© KavalenkavaVolha/Getty Images)*
 ||
 |||
-|2024-12-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MonoTufa_DE-DE3076493863_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_DE-DE3076493863_UHD.jpg)|
-||*Copyright: Kalktuff-Formationen am Mono Lake, Kalifornien, USA (© Susanna Patras/TANDEM Stills + Motion)*
+|2024-12-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HelsinkiDusk_DE-DE2937448278_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HelsinkiDusk_DE-DE2937448278_UHD.jpg)|
+||*Copyright: Altstadt in Helsinki, Finnland (© Oleksiy Mark/Shutterstock)*
 ||
 |||
-|2024-12-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MonoTufa_EN-CA0552920922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_EN-CA0552920922_UHD.jpg)|
-||*Copyright: Tufa formation on Mono Lake, California, USA (© Susanna Patras/TANDEM Stills + Motion)*
+|2024-12-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-CA1340856865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-CA1340856865_UHD.jpg)|
+||*Copyright: Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)*
 ||
 |||
-|2024-12-06|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MonoTufa_EN-GB2751110672_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_EN-GB2751110672_UHD.jpg)|
-||*Copyright: Tufa formation on Mono Lake, California, USA (© Susanna Patras/TANDEM Stills + Motion)*
+|2024-12-07|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-GB3167240327_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-GB3167240327_UHD.jpg)|
+||*Copyright: Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)*
 ||
 |||
-|2024-12-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MonoTufa_IT-IT7280531919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_IT-IT7280531919_UHD.jpg)|
-||*Copyright: Formazione di tufo sul lago Mono, California, USA (© Susanna Patras/TANDEM Stills + Motion)*
+|2024-12-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HelsinkiDusk_IT-IT6690670335_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HelsinkiDusk_IT-IT6690670335_UHD.jpg)|
+||*Copyright: Città vecchia di Helsinki, Finlandia (© Oleksiy Mark/Shutterstock)*
 ||
 |||
-|2024-12-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MonoTufa_ES-ES5680037517_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_ES-ES5680037517_UHD.jpg)|
-||*Copyright: Formación de toba en el lago Mono, California, EE. UU. (© Susanna Patras/TANDEM Stills + Motion)*
+|2024-12-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SpainConstitutionDay2024_ES-ES5831471578_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainConstitutionDay2024_ES-ES5831471578_UHD.jpg)|
+||*Copyright: Congreso de los Diputados, Madrid, España (© Leonid Andronov/Alamy Stock Photo)*
 ||
 |||
-|2024-12-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MonoTufa_FR-CA2264462783_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonoTufa_FR-CA2264462783_UHD.jpg)|
-||*Copyright: Cheminées de fées sur le lac Mono, Californie, États-Unis (© Susanna Patras/TANDEM Stills + Motion)*
+|2024-12-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HelsinkiDusk_FR-CA2777107787_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HelsinkiDusk_FR-CA2777107787_UHD.jpg)|
+||*Copyright: Vieille ville d'Helsinki, Finlande (© Oleksiy Mark/Shutterstock)*
 ||
 |||
 
