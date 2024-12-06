@@ -6,9 +6,9 @@
 ||*Copyright: Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)*
 ||
 |||
-|2024-12-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HelsinkiDusk_JA-JP8216541034_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HelsinkiDusk_JA-JP8216541034_UHD.jpg)|
-||*Copyright: ヘルシンキの旧市街, フィンランド (© Oleksiy Mark/Shutterstock)*
+|2024-12-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Daxue2024_JA-JP8353318760_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Daxue2024_JA-JP8353318760_UHD.jpg)|
+||*Copyright: 雪化粧の五稜郭, 北海道 函館 (© Hiro1775/Getty Images)*
 ||
 |||
 |2024-12-06|**Region: en-IN**||
