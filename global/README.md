@@ -6,9 +6,9 @@
 ||*Copyright: Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)*
 ||
 |||
-|2024-12-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ReopeningNotreDame_JA-JP8512031523_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReopeningNotreDame_JA-JP8512031523_UHD.jpg)|
-||*Copyright: ノートルダム大聖堂, フランス パリ (© Julien Fromentin/Getty Images)*
+|2024-12-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GuanacosChile_JA-JP8670867516_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GuanacosChile_JA-JP8670867516_UHD.jpg)|
+||*Copyright: トーレス・デル・パイネ国立公園のグアナコ, チリ (© Floris van Breugel/NPL/Minden Pictures)*
 ||
 |||
 |2024-12-08|**Region: en-IN**||
