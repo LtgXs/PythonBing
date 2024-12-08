@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-08|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg)|
-||*Copyright: Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)*
+|2024-12-09|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg)|
+||*Copyright: Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)*
 ||
 |||
 |2024-12-08|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ノートルダム大聖堂, フランス パリ (© Julien Fromentin/Getty Images)*
 ||
 |||
-|2024-12-07|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.OrchhaFort_EN-IN5765082916_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrchhaFort_EN-IN5765082916_UHD.jpg)|
-||*Copyright: Jahangir Mahal inside the Orchha Fort complex, Orchha, Madhya Pradesh (© Mukul Banerjee Photography/Getty Images)*
+|2024-12-08|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-IN2799650925_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-IN2799650925_UHD.jpg)|
+||*Copyright: Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)*
 ||
 |||
-|2024-12-08|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ArraialdoCabo_PT-BR0624214500_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArraialdoCabo_PT-BR0624214500_UHD.jpg)|
-||*Copyright: Pontal do Atalaia em Arraial do Cabo, Rio de Janeiro (© Derson Santana/Shutterstock)*
+|2024-12-09|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ReopeningNotreDame_PT-BR1092688639_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReopeningNotreDame_PT-BR1092688639_UHD.jpg)|
+||*Copyright: Catedral de Notre-Dame, Paris, França (© Julien Fromentin/Getty Images)*
 ||
 |||
-|2024-12-07|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ArraialdoCabo_FR-FR2062864559_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArraialdoCabo_FR-FR2062864559_UHD.jpg)|
-||*Copyright: Arraial do Cabo dans l'État de Rio de Janeiro, Brésil (© Derson Santana/Shutterstock)*
+|2024-12-08|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ReopeningNotreDame_FR-FR5165801809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReopeningNotreDame_FR-FR5165801809_UHD.jpg)|
+||*Copyright: Cathédral Notre-Dame de Paris (© Julien Fromentin/Getty Images)*
 ||
 |||
-|2024-12-07|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ArraialdoCabo_DE-DE6486743484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArraialdoCabo_DE-DE6486743484_UHD.jpg)|
-||*Copyright: Arraial do Cabo im Bundesstaat Rio de Janeiro, Brasilien (© Derson Santana/Shutterstock)*
+|2024-12-08|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ReopeningNotreDame_DE-DE4961652428_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReopeningNotreDame_DE-DE4961652428_UHD.jpg)|
+||*Copyright: Kathedrale Notre-Dame, Paris, Frankreich (© Julien Fromentin/Getty Images)*
 ||
 |||
-|2024-12-08|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TorontoWinterSkyline_EN-CA1219816615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TorontoWinterSkyline_EN-CA1219816615_UHD.jpg)|
-||*Copyright: Lake Ontario in the winter season, Toronto (© Brendan Riley/Shutterstock)*
+|2024-12-09|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-CA2618542485_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-CA2618542485_UHD.jpg)|
+||*Copyright: Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)*
 ||
 |||
-|2024-12-08|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.Stonehenge2024_EN-GB3942393785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Stonehenge2024_EN-GB3942393785_UHD.jpg)|
-||*Copyright: Stonehenge, Wiltshire, England (© Gavin Hellier/robertharding/Subjects/Getty Images)*
+|2024-12-09|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-GB4181670261_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-GB4181670261_UHD.jpg)|
+||*Copyright: Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)*
 ||
 |||
-|2024-12-07|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ArraialdoCabo_IT-IT6186077330_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArraialdoCabo_IT-IT6186077330_UHD.jpg)|
-||*Copyright: Arraial do Cabo, Stato di Rio de Janeiro, Brasile (© Derson Santana/Shutterstock)*
+|2024-12-08|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PonteDeellImmacolata_IT-IT7974246156_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PonteDeellImmacolata_IT-IT7974246156_UHD.jpg)|
+||*Copyright: Santa Lucia, Belluno, Veneto (© Moreno Geremetta/Mauritius images GmbH/Alamy Stock Photo)*
 ||
 |||
-|2024-12-07|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ArraialdoCabo_ES-ES6181405360_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArraialdoCabo_ES-ES6181405360_UHD.jpg)|
-||*Copyright: Pontal do Atalaia en Arraial do Cabo, Río de Janeiro, Brasil (© Derson Santana/Shutterstock)*
+|2024-12-08|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ReopeningNotreDame_ES-ES6883823963_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReopeningNotreDame_ES-ES6883823963_UHD.jpg)|
+||*Copyright: Catedral de Notre-Dame, París, Francia (© Julien Fromentin/Getty Images)*
 ||
 |||
-|2024-12-08|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TorontoWinterSkyline_FR-CA4116512200_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TorontoWinterSkyline_FR-CA4116512200_UHD.jpg)|
-||*Copyright: Lac Ontario en hiver, Toronto (© Brendan Riley/Shutterstock)*
+|2024-12-09|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ReopeningNotreDame_FR-CA5489836690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReopeningNotreDame_FR-CA5489836690_UHD.jpg)|
+||*Copyright: Cathédral Notre-Dame de Paris (© Julien Fromentin/Getty Images)*
 ||
 |||
 
