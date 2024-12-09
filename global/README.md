@@ -6,9 +6,9 @@
 ||*Copyright: Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)*
 ||
 |||
-|2024-12-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GuanacosChile_JA-JP8670867516_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GuanacosChile_JA-JP8670867516_UHD.jpg)|
-||*Copyright: トーレス・デル・パイネ国立公園のグアナコ, チリ (© Floris van Breugel/NPL/Minden Pictures)*
+|2024-12-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CornwallSnow_JA-JP8878820207_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallSnow_JA-JP8878820207_UHD.jpg)|
+||*Copyright: ランズ・エンド, イギリス コーンウォール州 (© Josef FitzGerald-Patrick/Getty Images)*
 ||
 |||
 |2024-12-09|**Region: en-IN**||
