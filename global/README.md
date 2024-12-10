@@ -6,9 +6,9 @@
 ||*Copyright: The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)*
 ||
 |||
-|2024-12-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CornwallSnow_JA-JP8878820207_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallSnow_JA-JP8878820207_UHD.jpg)|
-||*Copyright: ランズ・エンド, イギリス コーンウォール州 (© Josef FitzGerald-Patrick/Getty Images)*
+|2024-12-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DolomitesSky_JA-JP9035342357_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSky_JA-JP9035342357_UHD.jpg)|
+||*Copyright: トレ・チーメ・ディ・ラヴァレード, イタリア (© Daniel Maran/Getty Images)*
 ||
 |||
 |2024-12-10|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2024-12-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CornwallSnow_IT-IT8232493820_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallSnow_IT-IT8232493820_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.CornwallSnow_IT-IT1356760467_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallSnow_IT-IT1356760467_UHD.jpg)|
 ||*Copyright: Sentiero costiero della Cornovaglia coperto di neve, Land's End, Cornovaglia, Inghilterra (© Josef FitzGerald-Patrick/Getty Images)*
 ||
 |||
