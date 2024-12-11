@@ -6,9 +6,9 @@
 ||*Copyright: Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)*
 ||
 |||
-|2024-12-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DolomitesSky_JA-JP9035342357_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSky_JA-JP9035342357_UHD.jpg)|
-||*Copyright: トレ・チーメ・ディ・ラヴァレード, イタリア (© Daniel Maran/Getty Images)*
+|2024-12-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WildPoinsettia_JA-JP9224856071_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildPoinsettia_JA-JP9224856071_UHD.jpg)|
+||*Copyright: クリスマスを象徴する美しい植物 (© David Hosking/NPL/Minden Pictures)*
 ||
 |||
 |2024-12-11|**Region: en-IN**||
