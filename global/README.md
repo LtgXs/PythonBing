@@ -6,9 +6,9 @@
 ||*Copyright: Wild poinsettia (aka Christmas flower) (© David Hosking/NPL/Minden Pictures)*
 ||
 |||
-|2024-12-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WildPoinsettia_JA-JP9224856071_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildPoinsettia_JA-JP9224856071_UHD.jpg)|
-||*Copyright: クリスマスを象徴する美しい植物 (© David Hosking/NPL/Minden Pictures)*
+|2024-12-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ChristmasBudapest_JA-JP6583292404_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasBudapest_JA-JP6583292404_UHD.jpg)|
+||*Copyright: 聖イシュトヴァーン大聖堂, ハンガリー (© Calin Stan/Shutterstock)*
 ||
 |||
 |2024-12-12|**Region: en-IN**||
