@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_UHD.jpg)|
-||*Copyright: Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)*
+|2024-12-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg)|
+||*Copyright: Wild poinsettia (aka Christmas flower) (© David Hosking/NPL/Minden Pictures)*
 ||
 |||
 |2024-12-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: クリスマスを象徴する美しい植物 (© David Hosking/NPL/Minden Pictures)*
 ||
 |||
-|2024-12-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.DolomitesSky_EN-IN3020670588_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSky_EN-IN3020670588_UHD.jpg)|
-||*Copyright: Tre Cime di Lavaredo, Italy (© Daniel Maran/Getty Images)*
+|2024-12-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.WildPoinsettia_EN-IN3091252841_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildPoinsettia_EN-IN3091252841_UHD.jpg)|
+||*Copyright: Poinsettia or Christmas flower (© David Hosking/NPL/Minden Pictures)*
 ||
 |||
-|2024-12-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DolomitesSky_PT-BR2904816987_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSky_PT-BR2904816987_UHD.jpg)|
-||*Copyright: Tre Cime di Lavaredo, Itália (© Daniel Maran/Getty Images)*
+|2024-12-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.WildPoinsettia_PT-BR3322413388_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildPoinsettia_PT-BR3322413388_UHD.jpg)|
+||*Copyright: Poinsétia ou Flor de Natal (© David Hosking/NPL/Minden Pictures)*
 ||
 |||
-|2024-12-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DolomitesSky_FR-FR2183933361_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSky_FR-FR2183933361_UHD.jpg)|
-||*Copyright: Tre Cime di Lavaredo, Italie (© Daniel Maran/Getty Images)*
+|2024-12-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.WildPoinsettia_FR-FR2758700807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildPoinsettia_FR-FR2758700807_UHD.jpg)|
+||*Copyright: Poinsettia ou Fleur de Noël (© David Hosking/NPL/Minden Pictures)*
 ||
 |||
-|2024-12-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.DolomitesSky_DE-DE3083933099_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSky_DE-DE3083933099_UHD.jpg)|
-||*Copyright: Drei Zinnen, Italien (© Daniel Maran/Getty Images)*
+|2024-12-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.FrozenLakebyWintrySunrise_DE-DE6146213126_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrozenLakebyWintrySunrise_DE-DE6146213126_UHD.jpg)|
+||*Copyright: Gefrorener See bei Wintersonnenaufgang, Deutschland (© Marc_Osborne/Getty Images)*
 ||
 |||
-|2024-12-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DolomitesSky_EN-CA6901623444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSky_EN-CA6901623444_UHD.jpg)|
-||*Copyright: Tre Cime di Lavaredo, Italy (© Daniel Maran/Getty Images)*
+|2024-12-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.WildPoinsettia_EN-CA8337663672_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildPoinsettia_EN-CA8337663672_UHD.jpg)|
+||*Copyright: Poinsettia or Christmas flower (© David Hosking/NPL/Minden Pictures)*
 ||
 |||
-|2024-12-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DolomitesSky_EN-GB4868872493_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSky_EN-GB4868872493_UHD.jpg)|
-||*Copyright: Tre Cime di Lavaredo, Italy (© Daniel Maran/Getty Images)*
+|2024-12-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.WildPoinsettia_EN-GB5028659817_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildPoinsettia_EN-GB5028659817_UHD.jpg)|
+||*Copyright: Poinsettia or Christmas flower (© David Hosking/NPL/Minden Pictures)*
 ||
 |||
-|2024-12-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DolomitesSky_IT-IT8572597126_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSky_IT-IT8572597126_UHD.jpg)|
-||*Copyright: Tre Cime di Lavaredo, Italia (© Daniel Maran/Getty Images)*
+|2024-12-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.WildPoinsettia_IT-IT8938739079_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildPoinsettia_IT-IT8938739079_UHD.jpg)|
+||*Copyright: Stella di Natale o fiore natalizio (© David Hosking/NPL/Minden Pictures)*
 ||
 |||
-|2024-12-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.DolomitesSky_ES-ES7667848541_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSky_ES-ES7667848541_UHD.jpg)|
-||*Copyright: Las Tres Cimas de Lavaredo, Italia (© Daniel Maran/Getty Images)*
+|2024-12-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.WildPoinsettia_ES-ES7928941818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildPoinsettia_ES-ES7928941818_UHD.jpg)|
+||*Copyright: Flor de Pascua o Flor de Navidad (© David Hosking/NPL/Minden Pictures)*
 ||
 |||
-|2024-12-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DolomitesSky_FR-CA1628831705_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesSky_FR-CA1628831705_UHD.jpg)|
-||*Copyright: Tre Cime di Lavaredo, Italie (© Daniel Maran/Getty Images)*
+|2024-12-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.WildPoinsettia_FR-CA2997084184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildPoinsettia_FR-CA2997084184_UHD.jpg)|
+||*Copyright: Poinsettia ou Fleur de Noël (© David Hosking/NPL/Minden Pictures)*
 ||
 |||
 
