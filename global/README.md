@@ -6,9 +6,9 @@
 ||*Copyright: Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)*
 ||
 |||
-|2024-12-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ChristmasBudapest_JA-JP6583292404_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasBudapest_JA-JP6583292404_UHD.jpg)|
-||*Copyright: 聖イシュトヴァーン大聖堂, ハンガリー (© Calin Stan/Shutterstock)*
+|2024-12-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_JA-JP7268842450_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_JA-JP7268842450_UHD.jpg)|
+||*Copyright: オナガフクロウ, カナダ (© pchoui/Getty Images)*
 ||
 |||
 |2024-12-13|**Region: en-IN**||
