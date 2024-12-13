@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2024-12-14
+## History Bing Wallpaper
+Wallpaper date: 2024-12-14
 ![](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg&w=1000)Download: [Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg)
 
 Auto get programm by LtgX
