@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-14|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg)|
-||*Copyright: Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)*
+|2024-12-15|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg)|
+||*Copyright: Northern hawk-owl, Canada (© pchoui/Getty Images)*
 ||
 |||
 |2024-12-14|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: オナガフクロウ, カナダ (© pchoui/Getty Images)*
 ||
 |||
-|2024-12-13|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-IN6422339047_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-IN6422339047_UHD.jpg)|
-||*Copyright: Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)*
+|2024-12-14|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-IN5021019692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-IN5021019692_UHD.jpg)|
+||*Copyright: Northern hawk-owl, Canada (© pchoui/Getty Images)*
 ||
 |||
-|2024-12-14|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DiaNacionaldoForro_PT-BR8634835181_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiaNacionaldoForro_PT-BR8634835181_UHD.jpg)|
-||*Copyright: Festival no nordeste do Brasil (Bahia) (© Franz Tagore Photographer/Getty Images)*
+|2024-12-15|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_PT-BR0335958870_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_PT-BR0335958870_UHD.jpg)|
+||*Copyright: Coruja-gavião-do-norte, Canadá (© pchoui/Getty Images)*
 ||
 |||
-|2024-12-13|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ChristmasBudapest_FR-FR0838567901_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasBudapest_FR-FR0838567901_UHD.jpg)|
-||*Copyright: Marché de Noël, basilique Saint-Étienne, Budapest, Hongrie (© Calin Stan/Shutterstock)*
+|2024-12-14|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LynxTree_FR-FR1855644774_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynxTree_FR-FR1855644774_UHD.jpg)|
+||*Copyright: Lynx de Boréal perché dans un arbre, France (© Marc Chesneau/Getty Images)*
 ||
 |||
-|2024-12-13|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ChristmasBudapest_DE-DE0464258749_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasBudapest_DE-DE0464258749_UHD.jpg)|
-||*Copyright: Weihnachtsmarkt, St. Stephans Basilika, Budapest, Ungarn (© Calin Stan/Shutterstock)*
+|2024-12-14|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_DE-DE0106015482_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_DE-DE0106015482_UHD.jpg)|
+||*Copyright: Sperbereule, Kanada (© pchoui/Getty Images)*
 ||
 |||
-|2024-12-14|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-CA2975655898_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-CA2975655898_UHD.jpg)|
-||*Copyright: Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)*
+|2024-12-15|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-CA1011187644_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-CA1011187644_UHD.jpg)|
+||*Copyright: Northern hawk-owl, Canada (© pchoui/Getty Images)*
 ||
 |||
-|2024-12-14|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-GB5094460199_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-GB5094460199_UHD.jpg)|
-||*Copyright: Christmas market, St Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)*
+|2024-12-15|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-GB5538150484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-GB5538150484_UHD.jpg)|
+||*Copyright: Northern hawk-owl, Canada (© pchoui/Getty Images)*
 ||
 |||
-|2024-12-13|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ChristmasBudapest_IT-IT6393045785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasBudapest_IT-IT6393045785_UHD.jpg)|
-||*Copyright: Mercatino di Natale, Basilica di Santo Stefano, Budapest, Ungheria (© Calin Stan/Shutterstock)*
+|2024-12-14|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_IT-IT6682562006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_IT-IT6682562006_UHD.jpg)|
+||*Copyright: Surnia ulula, Canada (© pchoui/Getty Images)*
 ||
 |||
-|2024-12-13|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ChristmasBudapest_ES-ES8138996738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasBudapest_ES-ES8138996738_UHD.jpg)|
-||*Copyright: Mercado navideño, Basílica de San Esteban, Budapest, Hungría (© Calin Stan/Shutterstock)*
+|2024-12-14|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PrioroWinter_ES-ES0831913831_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrioroWinter_ES-ES0831913831_UHD.jpg)|
+||*Copyright: Prioro, Castilla y León, España (© Ruben Earth/Moment/Getty Images)*
 ||
 |||
-|2024-12-14|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ChristmasBudapest_FR-CA8168719338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasBudapest_FR-CA8168719338_UHD.jpg)|
-||*Copyright: Marché de Noël, basilique Saint-Étienne, Budapest, Hongrie (© Calin Stan/Shutterstock)*
+|2024-12-15|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_FR-CA4030609030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_FR-CA4030609030_UHD.jpg)|
+||*Copyright: Hibou des Marais, Canada (© pchoui/Getty Images)*
 ||
 |||
 
