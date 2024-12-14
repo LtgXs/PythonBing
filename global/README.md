@@ -6,9 +6,9 @@
 ||*Copyright: Northern hawk-owl, Canada (© pchoui/Getty Images)*
 ||
 |||
-|2024-12-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_JA-JP7268842450_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_JA-JP7268842450_UHD.jpg)|
-||*Copyright: オナガフクロウ, カナダ (© pchoui/Getty Images)*
+|2024-12-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MisurinaLake_JA-JP7561735635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_JA-JP7561735635_UHD.jpg)|
+||*Copyright: ミズリーナ湖, イタリア (© Marco Bottigelli/Getty Images)*
 ||
 |||
 |2024-12-14|**Region: en-IN**||
