@@ -6,9 +6,9 @@
 ||*Copyright: Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2024-12-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MisurinaLake_JA-JP7561735635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_JA-JP7561735635_UHD.jpg)|
-||*Copyright: ミズリーナ湖, イタリア (© Marco Bottigelli/Getty Images)*
+|2024-12-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SalzburgSnow_JA-JP7845943575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_JA-JP7845943575_UHD.jpg)|
+||*Copyright: ザルツブルク, オーストリア (© bluejayphoto/Getty Images)*
 ||
 |||
 |2024-12-15|**Region: en-IN**||
