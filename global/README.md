@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg)|
-||*Copyright: Northern hawk-owl, Canada (© pchoui/Getty Images)*
+|2024-12-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg)|
+||*Copyright: Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)*
 ||
 |||
 |2024-12-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ミズリーナ湖, イタリア (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2024-12-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-IN5021019692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-IN5021019692_UHD.jpg)|
-||*Copyright: Northern hawk-owl, Canada (© pchoui/Getty Images)*
+|2024-12-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MisurinaLake_EN-IN9075982875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_EN-IN9075982875_UHD.jpg)|
+||*Copyright: Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2024-12-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_PT-BR0335958870_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_PT-BR0335958870_UHD.jpg)|
-||*Copyright: Coruja-gavião-do-norte, Canadá (© pchoui/Getty Images)*
+|2024-12-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MisurinaLake_PT-BR2880479849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_PT-BR2880479849_UHD.jpg)|
+||*Copyright: Lago Misurina, Dolomitas, Itália (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2024-12-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LynxTree_FR-FR1855644774_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynxTree_FR-FR1855644774_UHD.jpg)|
-||*Copyright: Lynx de Boréal perché dans un arbre, France (© Marc Chesneau/Getty Images)*
+|2024-12-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MisurinaLake_FR-FR7558311472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_FR-FR7558311472_UHD.jpg)|
+||*Copyright: Lac Misurina, Dolomites, Italie (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2024-12-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_DE-DE0106015482_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_DE-DE0106015482_UHD.jpg)|
-||*Copyright: Sperbereule, Kanada (© pchoui/Getty Images)*
+|2024-12-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MisurinaLake_DE-DE0931532016_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_DE-DE0931532016_UHD.jpg)|
+||*Copyright: Misurinasee, Dolomiten, Italien (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2024-12-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-CA1011187644_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-CA1011187644_UHD.jpg)|
-||*Copyright: Northern hawk-owl, Canada (© pchoui/Getty Images)*
+|2024-12-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MisurinaLake_EN-CA3296922212_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_EN-CA3296922212_UHD.jpg)|
+||*Copyright: Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2024-12-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-GB5538150484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-GB5538150484_UHD.jpg)|
-||*Copyright: Northern hawk-owl, Canada (© pchoui/Getty Images)*
+|2024-12-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MisurinaLake_EN-GB5184581408_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_EN-GB5184581408_UHD.jpg)|
+||*Copyright: Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2024-12-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_IT-IT6682562006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_IT-IT6682562006_UHD.jpg)|
-||*Copyright: Surnia ulula, Canada (© pchoui/Getty Images)*
+|2024-12-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MisurinaLake_IT-IT7475356294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_IT-IT7475356294_UHD.jpg)|
+||*Copyright: Lago di Misurina, Auronzo di Cadore, Veneto (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2024-12-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PrioroWinter_ES-ES0831913831_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrioroWinter_ES-ES0831913831_UHD.jpg)|
-||*Copyright: Prioro, Castilla y León, España (© Ruben Earth/Moment/Getty Images)*
+|2024-12-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MisurinaLake_ES-ES8402822409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_ES-ES8402822409_UHD.jpg)|
+||*Copyright: Lago Misurina, Dolomitas, Italia (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2024-12-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.NorthernHawkOwl_FR-CA4030609030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthernHawkOwl_FR-CA4030609030_UHD.jpg)|
-||*Copyright: Hibou des Marais, Canada (© pchoui/Getty Images)*
+|2024-12-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MisurinaLake_FR-CA4286276291_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_FR-CA4286276291_UHD.jpg)|
+||*Copyright: Lac Misurina, Dolomites, Italie (© Marco Bottigelli/Getty Images)*
 ||
 |||
 
