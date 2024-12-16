@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg)|
-||*Copyright: Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)*
+|2024-12-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-US8262729220_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-US8262729220_UHD.jpg)|
+||*Copyright: Salzburg, Austria (© bluejayphoto/Getty Images)*
 ||
 |||
 |2024-12-16|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ザルツブルク, オーストリア (© bluejayphoto/Getty Images)*
 ||
 |||
-|2024-12-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MisurinaLake_EN-IN9075982875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_EN-IN9075982875_UHD.jpg)|
-||*Copyright: Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)*
+|2024-12-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-IN9939957339_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-IN9939957339_UHD.jpg)|
+||*Copyright: Salzburg, Austria (© bluejayphoto/Getty Images)*
 ||
 |||
-|2024-12-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MisurinaLake_PT-BR2880479849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_PT-BR2880479849_UHD.jpg)|
-||*Copyright: Lago Misurina, Dolomitas, Itália (© Marco Bottigelli/Getty Images)*
+|2024-12-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SalzburgSnow_PT-BR6117595550_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_PT-BR6117595550_UHD.jpg)|
+||*Copyright: Salzburgo, Áustria (© bluejayphoto/Getty Images)*
 ||
 |||
-|2024-12-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MisurinaLake_FR-FR7558311472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_FR-FR7558311472_UHD.jpg)|
-||*Copyright: Lac Misurina, Dolomites, Italie (© Marco Bottigelli/Getty Images)*
+|2024-12-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SalzburgSnow_FR-FR2498324626_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_FR-FR2498324626_UHD.jpg)|
+||*Copyright: Salzbourg, Autriche (© bluejayphoto/Getty Images)*
 ||
 |||
-|2024-12-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MisurinaLake_DE-DE0931532016_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_DE-DE0931532016_UHD.jpg)|
-||*Copyright: Misurinasee, Dolomiten, Italien (© Marco Bottigelli/Getty Images)*
+|2024-12-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SalzburgSnow_DE-DE5352398270_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_DE-DE5352398270_UHD.jpg)|
+||*Copyright: Salzburg, Österreich (© bluejayphoto/Getty Images)*
 ||
 |||
-|2024-12-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MisurinaLake_EN-CA3296922212_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_EN-CA3296922212_UHD.jpg)|
-||*Copyright: Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)*
+|2024-12-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-CA2222024592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-CA2222024592_UHD.jpg)|
+||*Copyright: Salzburg, Austria (© bluejayphoto/Getty Images)*
 ||
 |||
-|2024-12-16|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MisurinaLake_EN-GB5184581408_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_EN-GB5184581408_UHD.jpg)|
-||*Copyright: Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)*
+|2024-12-17|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-GB5350086810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-GB5350086810_UHD.jpg)|
+||*Copyright: Salzburg, Austria (© bluejayphoto/Getty Images)*
 ||
 |||
-|2024-12-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MisurinaLake_IT-IT7475356294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_IT-IT7475356294_UHD.jpg)|
-||*Copyright: Lago di Misurina, Auronzo di Cadore, Veneto (© Marco Bottigelli/Getty Images)*
+|2024-12-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SalzburgSnow_IT-IT6943675624_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_IT-IT6943675624_UHD.jpg)|
+||*Copyright: Salisburgo, Austria (© bluejayphoto/Getty Images)*
 ||
 |||
-|2024-12-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MisurinaLake_ES-ES8402822409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_ES-ES8402822409_UHD.jpg)|
-||*Copyright: Lago Misurina, Dolomitas, Italia (© Marco Bottigelli/Getty Images)*
+|2024-12-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SalzburgSnow_ES-ES9070747480_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_ES-ES9070747480_UHD.jpg)|
+||*Copyright: Salzburgo, Austria (© bluejayphoto/Getty Images)*
 ||
 |||
-|2024-12-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MisurinaLake_FR-CA4286276291_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaLake_FR-CA4286276291_UHD.jpg)|
-||*Copyright: Lac Misurina, Dolomites, Italie (© Marco Bottigelli/Getty Images)*
+|2024-12-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SalzburgSnow_FR-CA8518855447_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_FR-CA8518855447_UHD.jpg)|
+||*Copyright: Salzbourg, Autriche (© bluejayphoto/Getty Images)*
 ||
 |||
 
