@@ -6,9 +6,9 @@
 ||*Copyright: Salzburg, Austria (© bluejayphoto/Getty Images)*
 ||
 |||
-|2024-12-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SalzburgSnow_JA-JP7845943575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_JA-JP7845943575_UHD.jpg)|
-||*Copyright: ザルツブルク, オーストリア (© bluejayphoto/Getty Images)*
+|2024-12-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ReinefjordenNorway_JA-JP8145740016_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReinefjordenNorway_JA-JP8145740016_UHD.jpg)|
+||*Copyright: 美しい村レーヌ, ノルウェー (© Pilat666/Getty Images)*
 ||
 |||
 |2024-12-16|**Region: en-IN**||
