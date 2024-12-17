@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-17|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-US8262729220_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-US8262729220_UHD.jpg)|
-||*Copyright: Salzburg, Austria (© bluejayphoto/Getty Images)*
+|2024-12-18|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ReinefjordenNorway_EN-US8636083241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReinefjordenNorway_EN-US8636083241_UHD.jpg)|
+||*Copyright: Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pilat666/Getty Images)*
 ||
 |||
 |2024-12-17|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 美しい村レーヌ, ノルウェー (© Pilat666/Getty Images)*
 ||
 |||
-|2024-12-16|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-IN9939957339_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-IN9939957339_UHD.jpg)|
-||*Copyright: Salzburg, Austria (© bluejayphoto/Getty Images)*
+|2024-12-17|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ReinefjordenNorway_EN-IN1479907327_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReinefjordenNorway_EN-IN1479907327_UHD.jpg)|
+||*Copyright: Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pilat666/Getty Images)*
 ||
 |||
-|2024-12-17|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SalzburgSnow_PT-BR6117595550_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_PT-BR6117595550_UHD.jpg)|
-||*Copyright: Salzburgo, Áustria (© bluejayphoto/Getty Images)*
+|2024-12-18|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ReinefjordenNorway_PT-BR6626525854_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReinefjordenNorway_PT-BR6626525854_UHD.jpg)|
+||*Copyright: Cabanas tradicionais de pescadores na costa de Reinefjorden, Noruega (© Pilat666/Getty Images)*
 ||
 |||
-|2024-12-16|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SalzburgSnow_FR-FR2498324626_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_FR-FR2498324626_UHD.jpg)|
-||*Copyright: Salzbourg, Autriche (© bluejayphoto/Getty Images)*
+|2024-12-17|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ReinefjordenNorway_FR-FR9231276610_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReinefjordenNorway_FR-FR9231276610_UHD.jpg)|
+||*Copyright: Cabanes traditionnelles de pêcheurs sur le rivage de Reinefjorden, Norvège (© Pilat666/Getty Images)*
 ||
 |||
-|2024-12-16|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SalzburgSnow_DE-DE5352398270_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_DE-DE5352398270_UHD.jpg)|
-||*Copyright: Salzburg, Österreich (© bluejayphoto/Getty Images)*
+|2024-12-17|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ReinefjordenNorway_DE-DE5744534611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReinefjordenNorway_DE-DE5744534611_UHD.jpg)|
+||*Copyright: Traditionelle rote Fischerhütten am Ufer des Reinefjords, Norwegen (© Pilat666/Getty Images)*
 ||
 |||
-|2024-12-17|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-CA2222024592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-CA2222024592_UHD.jpg)|
-||*Copyright: Salzburg, Austria (© bluejayphoto/Getty Images)*
+|2024-12-18|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ReinefjordenNorway_EN-CA2665608310_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReinefjordenNorway_EN-CA2665608310_UHD.jpg)|
+||*Copyright: Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pilat666/Getty Images)*
 ||
 |||
-|2024-12-17|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-GB5350086810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-GB5350086810_UHD.jpg)|
-||*Copyright: Salzburg, Austria (© bluejayphoto/Getty Images)*
+|2024-12-18|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ReinefjordenNorway_EN-GB7665717824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReinefjordenNorway_EN-GB7665717824_UHD.jpg)|
+||*Copyright: Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pilat666/Getty Images)*
 ||
 |||
-|2024-12-16|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SalzburgSnow_IT-IT6943675624_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_IT-IT6943675624_UHD.jpg)|
-||*Copyright: Salisburgo, Austria (© bluejayphoto/Getty Images)*
+|2024-12-17|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ReinefjordenNorway_IT-IT7180371144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReinefjordenNorway_IT-IT7180371144_UHD.jpg)|
+||*Copyright: Tradizionali casette rosse dei pescatori sulle rive del Reinefjorden, Norvegia (© Pilat666/Getty Images)*
 ||
 |||
-|2024-12-16|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SalzburgSnow_ES-ES9070747480_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_ES-ES9070747480_UHD.jpg)|
-||*Copyright: Salzburgo, Austria (© bluejayphoto/Getty Images)*
+|2024-12-17|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ReinefjordenNorway_ES-ES2052368531_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReinefjordenNorway_ES-ES2052368531_UHD.jpg)|
+||*Copyright: Cabañas rojas tradicionales de pescadores en la costa de Reinefjorden, Noruega (© Pilat666/Getty Images)*
 ||
 |||
-|2024-12-17|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SalzburgSnow_FR-CA8518855447_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SalzburgSnow_FR-CA8518855447_UHD.jpg)|
-||*Copyright: Salzbourg, Autriche (© bluejayphoto/Getty Images)*
+|2024-12-18|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ReinefjordenNorway_FR-CA4918243263_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReinefjordenNorway_FR-CA4918243263_UHD.jpg)|
+||*Copyright: Cabanes traditionnelles de pêcheurs sur le rivage de Reinefjorden, Norvège (© Pilat666/Getty Images)*
 ||
 |||
 
