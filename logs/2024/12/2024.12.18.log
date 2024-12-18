@@ -1,0 +1,60 @@
+
+Program started at 09:28:54
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1756-152
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[09:28:54] Start geting CN Bing Wallpaper
+[09:28:54] Successful get url: https://www.bing.com/th?id=OHR.MorningElephants_ZH-CN1418579765_UHD.jpg
+[09:28:54] Image saved to img/background.jpg
+[09:28:54] Info saved to README.md
+[09:28:54] Image saved to history/2024/12/18.md
+[09:28:54] Start geting global Bing Wallpaper, region=en-US, local time is 2024-12-18 04:28:54.346746-05:00
+[09:28:54] Successful get url: https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-US8927830113_UHD.jpg
+[09:28:54] Picture infomations saved to  global/en-US/README.md
+[09:28:54] Picture infomations saved to global/en-US/history/2024/12/19_en-US.md
+[09:28:54] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-12-18 18:28:54.444841+09:00
+[09:28:54] Successful get url: https://www.bing.com/th?id=OHR.NutcrackerBallet_JA-JP8484350110_UHD.jpg
+[09:28:54] Picture infomations saved to  global/ja-JP/README.md
+[09:28:54] Picture infomations saved to global/ja-JP/history/2024/12/18_ja-JP.md
+[09:28:54] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-12-18 14:58:54.563832+05:30
+[09:28:54] Successful get url: https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-IN5416156608_UHD.jpg
+[09:28:54] Picture infomations saved to  global/en-IN/README.md
+[09:28:54] Picture infomations saved to global/en-IN/history/2024/12/18_en-IN.md
+[09:28:54] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-12-18 06:28:54.669254-03:00
+[09:28:54] Successful get url: https://www.bing.com/th?id=OHR.NutcrackerBallet_PT-BR8706469865_UHD.jpg
+[09:28:54] Picture infomations saved to  global/pt-BR/README.md
+[09:28:54] Picture infomations saved to global/pt-BR/history/2024/12/19_pt-BR.md
+[09:28:54] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-12-18 10:28:54.780205+01:00
+[09:28:54] Successful get url: https://www.bing.com/th?id=OHR.NutcrackerBallet_FR-FR0747265079_UHD.jpg
+[09:28:54] Picture infomations saved to  global/fr-FR/README.md
+[09:28:54] Picture infomations saved to global/fr-FR/history/2024/12/18_fr-FR.md
+[09:28:54] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-12-18 10:28:54.881700+01:00
+[09:28:54] Successful get url: https://www.bing.com/th?id=OHR.NutcrackerBallet_DE-DE4788718607_UHD.jpg
+[09:28:54] Picture infomations saved to  global/de-DE/README.md
+[09:28:54] Picture infomations saved to global/de-DE/history/2024/12/18_de-DE.md
+[09:28:54] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-12-18 04:28:54.984603-05:00
+[09:28:55] Successful get url: https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-CA9033194667_UHD.jpg
+[09:28:55] Picture infomations saved to  global/en-CA/README.md
+[09:28:55] Picture infomations saved to global/en-CA/history/2024/12/19_en-CA.md
+[09:28:55] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-12-18 09:28:55.090707+00:00
+[09:28:55] Successful get url: https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-GB4363189142_UHD.jpg
+[09:28:55] Picture infomations saved to  global/en-GB/README.md
+[09:28:55] Picture infomations saved to global/en-GB/history/2024/12/19_en-GB.md
+[09:28:55] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-12-18 10:28:55.185100+01:00
+[09:28:55] Successful get url: https://www.bing.com/th?id=OHR.NutcrackerBallet_IT-IT7796108656_UHD.jpg
+[09:28:55] Picture infomations saved to  global/it-IT/README.md
+[09:28:55] Picture infomations saved to global/it-IT/history/2024/12/18_it-IT.md
+[09:28:55] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-12-18 10:28:55.266823+01:00
+[09:28:55] Successful get url: https://www.bing.com/th?id=OHR.NutcrackerBallet_ES-ES9535020384_UHD.jpg
+[09:28:55] Picture infomations saved to  global/es-ES/README.md
+[09:28:55] Picture infomations saved to global/es-ES/history/2024/12/18_es-ES.md
+[09:28:55] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-12-18 04:28:55.367142-05:00
+[09:28:55] Successful get url: https://www.bing.com/th?id=OHR.NutcrackerBallet_FR-CA2554047378_UHD.jpg
+[09:28:55] Picture infomations saved to  global/fr-CA/README.md
+[09:28:55] Picture infomations saved to global/fr-CA/history/2024/12/19_fr-CA.md
+Program exit at 09:28:55
