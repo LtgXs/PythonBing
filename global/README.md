@@ -6,9 +6,9 @@
 ||*Copyright: English National Ballet performing 'The Nutcracker' (© Caroline Holden/Alamy)*
 ||
 |||
-|2024-12-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NutcrackerBallet_JA-JP8484350110_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NutcrackerBallet_JA-JP8484350110_UHD.jpg)|
-||*Copyright: くるみ割り人形 (© Caroline Holden/Alamy)*
+|2024-12-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SibiuRomania_JA-JP9171991249_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SibiuRomania_JA-JP9171991249_UHD.jpg)|
+||*Copyright: 歴史的な都市シビウ, ルーマニア (© Calin Stan/Alamy)*
 ||
 |||
 |2024-12-18|**Region: en-IN**||
