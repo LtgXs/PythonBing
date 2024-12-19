@@ -6,9 +6,9 @@
 ||*Copyright: Christmas market in Sibiu, Romania (© Calin Stan/Alamy)*
 ||
 |||
-|2024-12-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SibiuRomania_JA-JP9171991249_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SibiuRomania_JA-JP9171991249_UHD.jpg)|
-||*Copyright: 歴史的な都市シビウ, ルーマニア (© Calin Stan/Alamy)*
+|2024-12-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SantaClausVillage_JA-JP9442890850_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaClausVillage_JA-JP9442890850_UHD.jpg)|
+||*Copyright: ロヴァニエミ近郊のサンタクロース村, フィンランド (© Smelov/Shutterstock)*
 ||
 |||
 |2024-12-19|**Region: en-IN**||
