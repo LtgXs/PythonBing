@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-US8927830113_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-US8927830113_UHD.jpg)|
-||*Copyright: English National Ballet performing 'The Nutcracker' (© Caroline Holden/Alamy)*
+|2024-12-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg)|
+||*Copyright: Christmas market in Sibiu, Romania (© Calin Stan/Alamy)*
 ||
 |||
 |2024-12-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 歴史的な都市シビウ, ルーマニア (© Calin Stan/Alamy)*
 ||
 |||
-|2024-12-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-IN5416156608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-IN5416156608_UHD.jpg)|
-||*Copyright: English National Ballet performing 'The Nutcracker' (© Caroline Holden/Alamy Stock Photo)*
+|2024-12-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SibiuRomania_EN-IN1994356758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SibiuRomania_EN-IN1994356758_UHD.jpg)|
+||*Copyright: Sibiu Christmas Market, Romania (© Calin Stan/Alamy Stock Photo)*
 ||
 |||
-|2024-12-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.NutcrackerBallet_PT-BR8706469865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NutcrackerBallet_PT-BR8706469865_UHD.jpg)|
-||*Copyright: English National Ballet apresentando "O Quebra-Nozes" (© Caroline Holden/Alamy Stock Photo)*
+|2024-12-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SibiuRomania_PT-BR7281120144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SibiuRomania_PT-BR7281120144_UHD.jpg)|
+||*Copyright: Mercado de Natal de Sibiu, Romênia (© Calin Stan/Alamy)*
 ||
 |||
-|2024-12-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.NutcrackerBallet_FR-FR0747265079_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NutcrackerBallet_FR-FR0747265079_UHD.jpg)|
-||*Copyright: Représentation de Casse-Noisette par l’English National Ballet (© Caroline Holden/Alamy Stock Photo)*
+|2024-12-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SibiuRomania_FR-FR5904755818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SibiuRomania_FR-FR5904755818_UHD.jpg)|
+||*Copyright: Marché de Noël de Sibiu, Roumanie  (© Calin Stan/Alamy)*
 ||
 |||
-|2024-12-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.NutcrackerBallet_DE-DE4788718607_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NutcrackerBallet_DE-DE4788718607_UHD.jpg)|
-||*Copyright: English National Ballet bei der Aufführung von „Der Nussknacker“ (© Caroline Holden/Alamy Stock Photo)*
+|2024-12-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SibiuRomania_DE-DE6226513054_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SibiuRomania_DE-DE6226513054_UHD.jpg)|
+||*Copyright: Weihnachtsmarkt in Hermannstadt (Sibiu), Rumänien (© Calin Stan/Alamy Stock Photo)*
 ||
 |||
-|2024-12-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-CA9033194667_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-CA9033194667_UHD.jpg)|
-||*Copyright: English National Ballet performing 'The Nutcracker' (© Caroline Holden/Alamy Stock Photo)*
+|2024-12-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SibiuRomania_EN-CA3979703489_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SibiuRomania_EN-CA3979703489_UHD.jpg)|
+||*Copyright: Sibiu Christmas Market, Romania (© Calin Stan/Alamy Stock Photo)*
 ||
 |||
-|2024-12-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-GB4363189142_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-GB4363189142_UHD.jpg)|
-||*Copyright: English National Ballet performing 'The Nutcracker' (© Caroline Holden/Alamy Stock Photo)*
+|2024-12-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SibiuRomania_EN-GB6095129735_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SibiuRomania_EN-GB6095129735_UHD.jpg)|
+||*Copyright: Sibiu Christmas Market, Romania (© Calin Stan/Alamy Stock Photo)*
 ||
 |||
-|2024-12-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.NutcrackerBallet_IT-IT7796108656_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NutcrackerBallet_IT-IT7796108656_UHD.jpg)|
-||*Copyright: Il Balletto Nazionale Inglese esegue “Lo Schiaccianoci” (© Caroline Holden/Alamy Stock Photo)*
+|2024-12-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SibiuRomania_IT-IT8074363725_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SibiuRomania_IT-IT8074363725_UHD.jpg)|
+||*Copyright: Mercatino di Natale di Sibiu, Romania (© Calin Stan/Alamy Stock Photo)*
 ||
 |||
-|2024-12-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.NutcrackerBallet_ES-ES9535020384_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NutcrackerBallet_ES-ES9535020384_UHD.jpg)|
-||*Copyright: El Ballet Nacional de Inglaterra interpretando “El Cascanueces”  (©  Caroline Holden/Alamy)*
+|2024-12-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SibiuRomania_ES-ES0903750194_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SibiuRomania_ES-ES0903750194_UHD.jpg)|
+||*Copyright: Mercado navideño de Sibiu, Rumanía (© Calin Stan/Alamy)*
 ||
 |||
-|2024-12-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.NutcrackerBallet_FR-CA2554047378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NutcrackerBallet_FR-CA2554047378_UHD.jpg)|
-||*Copyright: Représentation de Casse-Noisette par l’English National Ballet (© Caroline Holden/Alamy)*
+|2024-12-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SibiuRomania_FR-CA5341145448_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SibiuRomania_FR-CA5341145448_UHD.jpg)|
+||*Copyright: Marché de Noël de Sibiu, Roumanie (© Calin Stan/Alamy)*
 ||
 |||
 
