@@ -6,9 +6,9 @@
 ||*Copyright: Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)*
 ||
 |||
-|2024-12-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SantaClausVillage_JA-JP9442890850_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaClausVillage_JA-JP9442890850_UHD.jpg)|
-||*Copyright: ロヴァニエミ近郊のサンタクロース村, フィンランド (© Smelov/Shutterstock)*
+|2024-12-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BluePond2024_JA-JP2198755551_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BluePond2024_JA-JP2198755551_UHD.jpg)|
+||*Copyright: ライトアップされた青い池, 北海道 美瑛町 (© Sean Pavone/Alamy Stock Photo)*
 ||
 |||
 |2024-12-20|**Region: en-IN**||
