@@ -1,0 +1,60 @@
+
+Program started at 09:27:07
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az984-150
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[09:27:07] Start geting CN Bing Wallpaper
+[09:27:07] Successful get url: https://www.bing.com/th?id=OHR.SantaClausVillage_ZH-CN1839275027_UHD.jpg
+[09:27:07] Image saved to img/background.jpg
+[09:27:07] Info saved to README.md
+[09:27:07] Image saved to history/2024/12/20.md
+[09:27:07] Start geting global Bing Wallpaper, region=en-US, local time is 2024-12-20 04:27:07.996661-05:00
+[09:27:08] Successful get url: https://www.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg
+[09:27:08] Picture infomations saved to  global/en-US/README.md
+[09:27:08] Picture infomations saved to global/en-US/history/2024/12/21_en-US.md
+[09:27:08] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-12-20 18:27:08.181128+09:00
+[09:27:08] Successful get url: https://www.bing.com/th?id=OHR.SantaClausVillage_JA-JP9442890850_UHD.jpg
+[09:27:08] Picture infomations saved to  global/ja-JP/README.md
+[09:27:08] Picture infomations saved to global/ja-JP/history/2024/12/20_ja-JP.md
+[09:27:08] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-12-20 14:57:08.338894+05:30
+[09:27:08] Successful get url: https://www.bing.com/th?id=OHR.SantaClausVillage_EN-IN8131344842_UHD.jpg
+[09:27:08] Picture infomations saved to  global/en-IN/README.md
+[09:27:08] Picture infomations saved to global/en-IN/history/2024/12/20_en-IN.md
+[09:27:08] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-12-20 06:27:08.495750-03:00
+[09:27:08] Successful get url: https://www.bing.com/th?id=OHR.SantaClausVillage_PT-BR7713817885_UHD.jpg
+[09:27:08] Picture infomations saved to  global/pt-BR/README.md
+[09:27:08] Picture infomations saved to global/pt-BR/history/2024/12/21_pt-BR.md
+[09:27:08] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-12-20 10:27:08.632288+01:00
+[09:27:08] Successful get url: https://www.bing.com/th?id=OHR.SantaClausVillage_FR-FR1605218480_UHD.jpg
+[09:27:08] Picture infomations saved to  global/fr-FR/README.md
+[09:27:08] Picture infomations saved to global/fr-FR/history/2024/12/20_fr-FR.md
+[09:27:08] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-12-20 10:27:08.778859+01:00
+[09:27:08] Successful get url: https://www.bing.com/th?id=OHR.SantaClausVillage_DE-DE6517743209_UHD.jpg
+[09:27:08] Picture infomations saved to  global/de-DE/README.md
+[09:27:08] Picture infomations saved to global/de-DE/history/2024/12/20_de-DE.md
+[09:27:08] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-12-20 04:27:08.932993-05:00
+[09:27:08] Successful get url: https://www.bing.com/th?id=OHR.SantaClausVillage_EN-CA0049104166_UHD.jpg
+[09:27:09] Picture infomations saved to  global/en-CA/README.md
+[09:27:09] Picture infomations saved to global/en-CA/history/2024/12/21_en-CA.md
+[09:27:09] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-12-20 09:27:09.070208+00:00
+[09:27:09] Successful get url: https://www.bing.com/th?id=OHR.SantaClausVillage_EN-GB5411562669_UHD.jpg
+[09:27:09] Picture infomations saved to  global/en-GB/README.md
+[09:27:09] Picture infomations saved to global/en-GB/history/2024/12/21_en-GB.md
+[09:27:09] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-12-20 10:27:09.218231+01:00
+[09:27:09] Successful get url: https://www.bing.com/th?id=OHR.SantaClausVillage_IT-IT8309910661_UHD.jpg
+[09:27:09] Picture infomations saved to  global/it-IT/README.md
+[09:27:09] Picture infomations saved to global/it-IT/history/2024/12/20_it-IT.md
+[09:27:09] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-12-20 10:27:09.362612+01:00
+[09:27:09] Successful get url: https://www.bing.com/th?id=OHR.SantaClausVillage_ES-ES1153785422_UHD.jpg
+[09:27:09] Picture infomations saved to  global/es-ES/README.md
+[09:27:09] Picture infomations saved to global/es-ES/history/2024/12/20_es-ES.md
+[09:27:09] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-12-20 04:27:09.673267-05:00
+[09:27:09] Successful get url: https://www.bing.com/th?id=OHR.SantaClausVillage_FR-CA3164872000_UHD.jpg
+[09:27:09] Picture infomations saved to  global/fr-CA/README.md
+[09:27:09] Picture infomations saved to global/fr-CA/history/2024/12/21_fr-CA.md
+Program exit at 09:27:09
