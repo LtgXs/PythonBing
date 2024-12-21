@@ -6,9 +6,9 @@
 ||*Copyright: Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)*
 ||
 |||
-|2024-12-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BluePond2024_JA-JP2198755551_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BluePond2024_JA-JP2198755551_UHD.jpg)|
-||*Copyright: ライトアップされた青い池, 北海道 美瑛町 (© Sean Pavone/Alamy Stock Photo)*
+|2024-12-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FestivusCranes_JA-JP9750730538_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FestivusCranes_JA-JP9750730538_UHD.jpg)|
+||*Copyright: 釧路湿原のタンチョウ, 北海道 (© Wirestock, Inc./Alamy)*
 ||
 |||
 |2024-12-21|**Region: en-IN**||
