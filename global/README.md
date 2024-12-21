@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg)|
-||*Copyright: Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)*
+|2024-12-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg)|
+||*Copyright: Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)*
 ||
 |||
 |2024-12-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ライトアップされた青い池, 北海道 美瑛町 (© Sean Pavone/Alamy Stock Photo)*
 ||
 |||
-|2024-12-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SantaClausVillage_EN-IN8131344842_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaClausVillage_EN-IN8131344842_UHD.jpg)|
-||*Copyright: Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)*
+|2024-12-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SolsticeHalo_EN-IN0859597164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SolsticeHalo_EN-IN0859597164_UHD.jpg)|
+||*Copyright: Halo around the sun, Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)*
 ||
 |||
-|2024-12-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SantaClausVillage_PT-BR7713817885_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaClausVillage_PT-BR7713817885_UHD.jpg)|
-||*Copyright: Vila do Papai Noel em Rovaniemi, Lapônia, Finlândia (© Smelov/Shutterstock)*
+|2024-12-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.InicioVerao2024_PT-BR9499376932_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.InicioVerao2024_PT-BR9499376932_UHD.jpg)|
+||*Copyright: Vista aérea da Ilha Cataguás em Angra dos Reis, Rio de Janeiro (© R.M. Nunes/Alamy Stock Photo)*
 ||
 |||
-|2024-12-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SantaClausVillage_FR-FR1605218480_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaClausVillage_FR-FR1605218480_UHD.jpg)|
-||*Copyright: Village du Père Noël à Rovaniemi, Laponie, Finlande (© Smelov/Shutterstock)*
+|2024-12-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SolsticeHalo_FR-FR4955312327_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SolsticeHalo_FR-FR4955312327_UHD.jpg)|
+||*Copyright: Halo autour du soleil, Monts Métallifères, Saxe, Allemagne (© Martin Ruegner/Getty Images)*
 ||
 |||
-|2024-12-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SantaClausVillage_DE-DE6517743209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaClausVillage_DE-DE6517743209_UHD.jpg)|
-||*Copyright: Weihnachtsmanndorf in Rovaniemi, Lappland, Finnland (© Smelov/Shutterstock)*
+|2024-12-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SolsticeHalo_DE-DE6991258679_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SolsticeHalo_DE-DE6991258679_UHD.jpg)|
+||*Copyright: Halo um die Sonne, Erzgebirge, Sachsen, Deutschland (© Martin Ruegner/Getty Images)*
 ||
 |||
-|2024-12-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SantaClausVillage_EN-CA0049104166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaClausVillage_EN-CA0049104166_UHD.jpg)|
-||*Copyright: Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)*
+|2024-12-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SolsticeHalo_EN-CA3461734834_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SolsticeHalo_EN-CA3461734834_UHD.jpg)|
+||*Copyright: Halo around the sun, Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)*
 ||
 |||
-|2024-12-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SantaClausVillage_EN-GB5411562669_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaClausVillage_EN-GB5411562669_UHD.jpg)|
-||*Copyright: Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)*
+|2024-12-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BurningOfTheClocks2024_EN-GB6475088295_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BurningOfTheClocks2024_EN-GB6475088295_UHD.jpg)|
+||*Copyright: Royal Pavilion, Brighton, England (© Michaelasbest/Shutterstock)*
 ||
 |||
-|2024-12-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SantaClausVillage_IT-IT8309910661_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaClausVillage_IT-IT8309910661_UHD.jpg)|
-||*Copyright: Villaggio di Babbo Natale a Rovaniemi, Lapponia, Finlandia (© Smelov/Shutterstock)*
+|2024-12-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SolsticeHalo_IT-IT8535598523_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SolsticeHalo_IT-IT8535598523_UHD.jpg)|
+||*Copyright: Un alone intorno al Sole, Monti Metalliferi, Sassonia, Germania (© Martin Ruegner/Getty Images)*
 ||
 |||
-|2024-12-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SantaClausVillage_ES-ES1153785422_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaClausVillage_ES-ES1153785422_UHD.jpg)|
-||*Copyright: Pueblo de Papá Noel en Rovaniemi, Laponia, Finlandia (© Smelov/Shutterstock)*
+|2024-12-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SolsticeHalo_ES-ES1500540396_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SolsticeHalo_ES-ES1500540396_UHD.jpg)|
+||*Copyright: Halo alrededor del sol, Montes Metálicos, Sajonia, Alemania (© Martin Ruegner/Getty Images)*
 ||
 |||
-|2024-12-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SantaClausVillage_FR-CA3164872000_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaClausVillage_FR-CA3164872000_UHD.jpg)|
-||*Copyright: Village du Père Noël à Rovaniemi, Laponie, Finlande (© Smelov/Shutterstock)*
+|2024-12-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SolsticeHalo_FR-CA5700741639_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SolsticeHalo_FR-CA5700741639_UHD.jpg)|
+||*Copyright: Halo autour du soleil, Monts Métallifères, Saxe, Allemagne (© Martin Ruegner/Getty Images)*
 ||
 |||
 
