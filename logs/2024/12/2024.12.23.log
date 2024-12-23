@@ -1,0 +1,60 @@
+
+Program started at 09:27:41
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az2022-365
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[09:27:41] Start geting CN Bing Wallpaper
+[09:27:41] Successful get url: https://www.bing.com/th?id=OHR.FestivusCranes_ZH-CN2464862059_UHD.jpg
+[09:27:41] Image saved to img/background.jpg
+[09:27:41] Info saved to README.md
+[09:27:41] Image saved to history/2024/12/23.md
+[09:27:41] Start geting global Bing Wallpaper, region=en-US, local time is 2024-12-23 04:27:41.717262-05:00
+[09:27:41] Successful get url: https://www.bing.com/th?id=OHR.FestivusCranes_EN-US0396321898_UHD.jpg
+[09:27:41] Picture infomations saved to  global/en-US/README.md
+[09:27:41] Picture infomations saved to global/en-US/history/2024/12/24_en-US.md
+[09:27:41] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-12-23 18:27:41.821808+09:00
+[09:27:41] Successful get url: https://www.bing.com/th?id=OHR.TokyoTower2024_JA-JP2762394000_UHD.jpg
+[09:27:41] Picture infomations saved to  global/ja-JP/README.md
+[09:27:41] Picture infomations saved to global/ja-JP/history/2024/12/23_ja-JP.md
+[09:27:41] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-12-23 14:57:41.916625+05:30
+[09:27:41] Successful get url: https://www.bing.com/th?id=OHR.DhamekStupa_EN-IN0403888448_UHD.jpg
+[09:27:42] Picture infomations saved to  global/en-IN/README.md
+[09:27:42] Picture infomations saved to global/en-IN/history/2024/12/23_en-IN.md
+[09:27:42] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-12-23 06:27:42.013777-03:00
+[09:27:42] Successful get url: https://www.bing.com/th?id=OHR.FestivusCranes_PT-BR2027410391_UHD.jpg
+[09:27:42] Picture infomations saved to  global/pt-BR/README.md
+[09:27:42] Picture infomations saved to global/pt-BR/history/2024/12/24_pt-BR.md
+[09:27:42] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-12-23 10:27:42.105281+01:00
+[09:27:42] Successful get url: https://www.bing.com/th?id=OHR.FestivusCranes_FR-FR4485267796_UHD.jpg
+[09:27:42] Picture infomations saved to  global/fr-FR/README.md
+[09:27:42] Picture infomations saved to global/fr-FR/history/2024/12/23_fr-FR.md
+[09:27:42] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-12-23 10:27:42.202507+01:00
+[09:27:42] Successful get url: https://www.bing.com/th?id=OHR.FestivusCranes_DE-DE1009786321_UHD.jpg
+[09:27:42] Picture infomations saved to  global/de-DE/README.md
+[09:27:42] Picture infomations saved to global/de-DE/history/2024/12/23_de-DE.md
+[09:27:42] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-12-23 04:27:42.298907-05:00
+[09:27:42] Successful get url: https://www.bing.com/th?id=OHR.FestivusCranes_EN-CA3928943615_UHD.jpg
+[09:27:42] Picture infomations saved to  global/en-CA/README.md
+[09:27:42] Picture infomations saved to global/en-CA/history/2024/12/24_en-CA.md
+[09:27:42] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-12-23 09:27:42.404865+00:00
+[09:27:42] Successful get url: https://www.bing.com/th?id=OHR.FestivusCranes_EN-GB8631404413_UHD.jpg
+[09:27:42] Picture infomations saved to  global/en-GB/README.md
+[09:27:42] Picture infomations saved to global/en-GB/history/2024/12/24_en-GB.md
+[09:27:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-12-23 10:27:42.519816+01:00
+[09:27:42] Successful get url: https://www.bing.com/th?id=OHR.FestivusCranes_IT-IT8994526236_UHD.jpg
+[09:27:42] Picture infomations saved to  global/it-IT/README.md
+[09:27:42] Picture infomations saved to global/it-IT/history/2024/12/23_it-IT.md
+[09:27:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-12-23 10:27:42.634836+01:00
+[09:27:42] Successful get url: https://www.bing.com/th?id=OHR.FestivusCranes_ES-ES2012612015_UHD.jpg
+[09:27:42] Picture infomations saved to  global/es-ES/README.md
+[09:27:42] Picture infomations saved to global/es-ES/history/2024/12/23_es-ES.md
+[09:27:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-12-23 04:27:42.733468-05:00
+[09:27:42] Successful get url: https://www.bing.com/th?id=OHR.FestivusCranes_FR-CA6325415770_UHD.jpg
+[09:27:42] Picture infomations saved to  global/fr-CA/README.md
+[09:27:42] Picture infomations saved to global/fr-CA/history/2024/12/24_fr-CA.md
+Program exit at 09:27:42
