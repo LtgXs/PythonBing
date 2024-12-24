@@ -6,9 +6,9 @@
 ||*Copyright: Christmas market scene in Germany (© Cyril Gosselin/Getty Images)*
 ||
 |||
-|2024-12-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SantaSnowglobe_JA-JP0084831582_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaSnowglobe_JA-JP0084831582_UHD.jpg)|
-||*Copyright: クリスマスマーケットの工芸品, ドイツ (© Cyril Gosselin/Getty Images)*
+|2024-12-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ReindeerTrio_JA-JP0425560339_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerTrio_JA-JP0425560339_UHD.jpg)|
+||*Copyright: スヴァールバル諸島のトナカイ, ノルウェー (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)*
 ||
 |||
 |2024-12-24|**Region: en-IN**||
