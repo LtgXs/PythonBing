@@ -6,9 +6,9 @@
 ||*Copyright: Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)*
 ||
 |||
-|2024-12-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ReindeerTrio_JA-JP0425560339_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerTrio_JA-JP0425560339_UHD.jpg)|
-||*Copyright: スヴァールバル諸島のトナカイ, ノルウェー (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)*
+|2024-12-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MouseholeXmas_JA-JP0779815955_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MouseholeXmas_JA-JP0779815955_UHD.jpg)|
+||*Copyright: マウゼル, イングランド (© ianwool/Getty Images)*
 ||
 |||
 |2024-12-25|**Region: en-IN**||

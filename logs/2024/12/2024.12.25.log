@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:26:36] Picture infomations saved to  global/fr-CA/README.md
 [09:26:36] Picture infomations saved to global/fr-CA/history/2024/12/26_fr-CA.md
 Program exit at 09:26:36
+
+Program started at 16:13:32
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az2031-111
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[16:13:32] Start geting CN Bing Wallpaper
+[16:13:32] Successful get url: https://www.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg
+[16:13:32] Image saved to img/background.jpg
+[16:13:32] Info saved to README.md
+[16:13:32] Image saved to history/2024/12/26.md
+[16:13:32] Start geting global Bing Wallpaper, region=en-US, local time is 2024-12-25 11:13:32.531864-05:00
+[16:13:32] Successful get url: https://www.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg
+[16:13:32] Picture infomations saved to  global/en-US/README.md
+[16:13:32] Picture infomations saved to global/en-US/history/2024/12/26_en-US.md
+[16:13:32] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-12-26 01:13:32.651165+09:00
+[16:13:32] Successful get url: https://www.bing.com/th?id=OHR.MouseholeXmas_JA-JP0779815955_UHD.jpg
+[16:13:32] Picture infomations saved to  global/ja-JP/README.md
+[16:13:32] Picture infomations saved to global/ja-JP/history/2024/12/26_ja-JP.md
+[16:13:32] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-12-25 21:43:32.800402+05:30
+[16:13:32] Successful get url: https://www.bing.com/th?id=OHR.ReindeerTrio_EN-IN0167081195_UHD.jpg
+[16:13:32] Picture infomations saved to  global/en-IN/README.md
+[16:13:32] Picture infomations saved to global/en-IN/history/2024/12/25_en-IN.md
+[16:13:32] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-12-25 13:13:32.964067-03:00
+[16:13:33] Successful get url: https://www.bing.com/th?id=OHR.ReindeerTrio_PT-BR1240066422_UHD.jpg
+[16:13:33] Picture infomations saved to  global/pt-BR/README.md
+[16:13:33] Picture infomations saved to global/pt-BR/history/2024/12/26_pt-BR.md
+[16:13:33] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-12-25 17:13:33.183099+01:00
+[16:13:33] Successful get url: https://www.bing.com/th?id=OHR.ReindeerTrio_FR-FR3852495223_UHD.jpg
+[16:13:33] Picture infomations saved to  global/fr-FR/README.md
+[16:13:33] Picture infomations saved to global/fr-FR/history/2024/12/25_fr-FR.md
+[16:13:33] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-12-25 17:13:33.343637+01:00
+[16:13:33] Successful get url: https://www.bing.com/th?id=OHR.ReindeerTrio_DE-DE1704555391_UHD.jpg
+[16:13:33] Picture infomations saved to  global/de-DE/README.md
+[16:13:33] Picture infomations saved to global/de-DE/history/2024/12/25_de-DE.md
+[16:13:33] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-12-25 11:13:33.454034-05:00
+[16:13:33] Successful get url: https://www.bing.com/th?id=OHR.Christmas24_EN-CA4696082080_UHD.jpg
+[16:13:33] Picture infomations saved to  global/en-CA/README.md
+[16:13:33] Picture infomations saved to global/en-CA/history/2024/12/26_en-CA.md
+[16:13:33] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-12-25 16:13:33.616794+00:00
+[16:13:33] Successful get url: https://www.bing.com/th?id=OHR.ReindeerTrio_EN-GB9048626587_UHD.jpg
+[16:13:33] Picture infomations saved to  global/en-GB/README.md
+[16:13:33] Picture infomations saved to global/en-GB/history/2024/12/26_en-GB.md
+[16:13:33] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-12-25 17:13:33.773827+01:00
+[16:13:33] Successful get url: https://www.bing.com/th?id=OHR.ReindeerTrio_IT-IT1609765217_UHD.jpg
+[16:13:33] Picture infomations saved to  global/it-IT/README.md
+[16:13:33] Picture infomations saved to global/it-IT/history/2024/12/25_it-IT.md
+[16:13:33] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-12-25 17:13:33.946836+01:00
+[16:13:33] Successful get url: https://www.bing.com/th?id=OHR.ReindeerTrio_ES-ES2505457663_UHD.jpg
+[16:13:34] Picture infomations saved to  global/es-ES/README.md
+[16:13:34] Picture infomations saved to global/es-ES/history/2024/12/25_es-ES.md
+[16:13:34] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-12-25 11:13:34.099072-05:00
+[16:13:34] Successful get url: https://www.bing.com/th?id=OHR.Christmas24_FR-CA6807039694_UHD.jpg
+[16:13:34] Picture infomations saved to  global/fr-CA/README.md
+[16:13:34] Picture infomations saved to global/fr-CA/history/2024/12/26_fr-CA.md
+Program exit at 16:13:34
