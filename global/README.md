@@ -6,9 +6,9 @@
 ||*Copyright: Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)*
 ||
 |||
-|2024-12-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MouseholeXmas_JA-JP0779815955_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MouseholeXmas_JA-JP0779815955_UHD.jpg)|
-||*Copyright: マウゼル, イングランド (© ianwool/Getty Images)*
+|2024-12-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LakeBledSnow_JA-JP5075131023_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeBledSnow_JA-JP5075131023_UHD.jpg)|
+||*Copyright: ブレッド湖, スロベニア (© Kesu01/Getty Images)*
 ||
 |||
 |2024-12-26|**Region: en-IN**||
