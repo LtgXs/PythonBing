@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-26|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg)|
-||*Copyright: Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)*
+|2024-12-27|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg)|
+||*Copyright: Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)*
 ||
 |||
 |2024-12-26|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: マウゼル, イングランド (© ianwool/Getty Images)*
 ||
 |||
-|2024-12-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ReindeerTrio_EN-IN0167081195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerTrio_EN-IN0167081195_UHD.jpg)|
-||*Copyright: Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)*
+|2024-12-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MouseholeXmas_EN-IN6968521248_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MouseholeXmas_EN-IN6968521248_UHD.jpg)|
+||*Copyright: Christmas lights at Mousehole harbour, Cornwall, England (© ianwool/Getty Images)*
 ||
 |||
-|2024-12-26|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ReindeerTrio_PT-BR1240066422_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerTrio_PT-BR1240066422_UHD.jpg)|
-||*Copyright: Renas no Parque Nacional Van Mijenfjorden, Noruega (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)*
+|2024-12-27|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MouseholeXmas_PT-BR0836930103_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MouseholeXmas_PT-BR0836930103_UHD.jpg)|
+||*Copyright: Luzes de Natal no porto de Mousehole, Cornualha, Inglaterra (© ianwool/Getty Images)*
 ||
 |||
-|2024-12-25|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ReindeerTrio_FR-FR3852495223_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerTrio_FR-FR3852495223_UHD.jpg)|
-||*Copyright: Rennes du Svalbard, parc national de Van Mijenfjorden, Norvège (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)*
+|2024-12-26|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PointeDiable_FR-FR3649413809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointeDiable_FR-FR3649413809_UHD.jpg)|
+||*Copyright: Pointe du Diable, Saint Pierre, Parc national de la Réunion (© MONTICO Lionel/Hemis/Alamy Stock Photo)*
 ||
 |||
-|2024-12-25|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ReindeerTrio_DE-DE1704555391_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerTrio_DE-DE1704555391_UHD.jpg)|
-||*Copyright: Spitzbergen-Rentiere im Van Mijenfjord NP, Norwegen (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)*
+|2024-12-26|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MouseholeXmas_DE-DE8175245850_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MouseholeXmas_DE-DE8175245850_UHD.jpg)|
+||*Copyright: Weihnachtsbeleuchtung im Hafen von Mousehole, Cornwall, England (© ianwool/Getty Images)*
 ||
 |||
-|2024-12-26|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Christmas24_EN-CA4696082080_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Christmas24_EN-CA4696082080_UHD.jpg)|
-||*Copyright: Christmas trees with the Three Sisters mountain in the background, Canmore, Alberta (© Nick Fitzhardinge/Moment/Getty Images)*
+|2024-12-27|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BoxingDay24_EN-CA4323476281_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoxingDay24_EN-CA4323476281_UHD.jpg)|
+||*Copyright: Gastown steam clock in Vancouver, British Columbia, Canada (© J Duquette/iStock/Getty Images)*
 ||
 |||
-|2024-12-26|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ReindeerTrio_EN-GB9048626587_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerTrio_EN-GB9048626587_UHD.jpg)|
-||*Copyright: Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)*
+|2024-12-27|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MouseholeXmas_EN-GB9459656621_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MouseholeXmas_EN-GB9459656621_UHD.jpg)|
+||*Copyright: Christmas lights at Mousehole harbour, Cornwall, England (© ianwool/Getty Images)*
 ||
 |||
-|2024-12-25|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ReindeerTrio_IT-IT1609765217_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerTrio_IT-IT1609765217_UHD.jpg)|
-||*Copyright: Renne delle Svalbard nel Van Mijenfjorden NP, Norvegia (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)*
+|2024-12-26|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696_UHD.jpg)|
+||*Copyright: Albero di Natale, Portofino, Liguria (© Alberto Ialongo/Adobe Stock)*
 ||
 |||
-|2024-12-25|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ReindeerTrio_ES-ES2505457663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerTrio_ES-ES2505457663_UHD.jpg)|
-||*Copyright: Renos de Svalbard en el Van Mijenfjorden NP, Noruega (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)*
+|2024-12-26|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SaintStephensDay_ES-ES9179048163_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintStephensDay_ES-ES9179048163_UHD.jpg)|
+||*Copyright: Cala Comte al atardecer, Ibiza, Islas Baleares, España (© Vicente Soler Marmaneu Vicenfoto/Alamy Stock Photo)*
 ||
 |||
-|2024-12-26|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Christmas24_FR-CA6807039694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Christmas24_FR-CA6807039694_UHD.jpg)|
-||*Copyright: Arbres de Noël avec la montagne Three Sisters en arrière-plan, Canmore, Alberta (© Nick Fitzhardinge/Moment/Getty Images)*
+|2024-12-27|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BoxingDay24_FR-CA1518470041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoxingDay24_FR-CA1518470041_UHD.jpg)|
+||*Copyright: Horloge à vapeur de Gastown à Vancouver, Colombie-Britannique (© J Duquette/iStock/Getty Images)*
 ||
 |||
 
