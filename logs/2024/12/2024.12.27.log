@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:26:37] Picture infomations saved to  global/fr-CA/README.md
 [09:26:37] Picture infomations saved to global/fr-CA/history/2024/12/28_fr-CA.md
 Program exit at 09:26:37
+
+Program started at 16:13:37
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1382-733
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[16:13:37] Start geting CN Bing Wallpaper
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_ZH-CN4771437860_UHD.jpg
+[16:13:37] Image saved to img/background.jpg
+[16:13:37] Info saved to README.md
+[16:13:37] Image saved to history/2024/12/28.md
+[16:13:37] Start geting global Bing Wallpaper, region=en-US, local time is 2024-12-27 11:13:37.256244-05:00
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg
+[16:13:37] Picture infomations saved to  global/en-US/README.md
+[16:13:37] Picture infomations saved to global/en-US/history/2024/12/28_en-US.md
+[16:13:37] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-12-28 01:13:37.408883+09:00
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_JA-JP5618879842_UHD.jpg
+[16:13:37] Picture infomations saved to  global/ja-JP/README.md
+[16:13:37] Picture infomations saved to global/ja-JP/history/2024/12/28_ja-JP.md
+[16:13:37] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-12-27 21:43:37.557221+05:30
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.LakeBledSnow_EN-IN8178018929_UHD.jpg
+[16:13:37] Picture infomations saved to  global/en-IN/README.md
+[16:13:37] Picture infomations saved to global/en-IN/history/2024/12/27_en-IN.md
+[16:13:37] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-12-27 13:13:37.705924-03:00
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.LakeBledSnow_PT-BR8619122225_UHD.jpg
+[16:13:37] Picture infomations saved to  global/pt-BR/README.md
+[16:13:37] Picture infomations saved to global/pt-BR/history/2024/12/28_pt-BR.md
+[16:13:37] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-12-27 17:13:37.887274+01:00
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.LakeBledSnow_FR-FR5167708906_UHD.jpg
+[16:13:38] Picture infomations saved to  global/fr-FR/README.md
+[16:13:38] Picture infomations saved to global/fr-FR/history/2024/12/27_fr-FR.md
+[16:13:38] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-12-27 17:13:38.030950+01:00
+[16:13:38] Successful get url: https://www.bing.com/th?id=OHR.LakeBledSnow_DE-DE0780577347_UHD.jpg
+[16:13:38] Picture infomations saved to  global/de-DE/README.md
+[16:13:38] Picture infomations saved to global/de-DE/history/2024/12/27_de-DE.md
+[16:13:38] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-12-27 11:13:38.190268-05:00
+[16:13:38] Successful get url: https://www.bing.com/th?id=OHR.LakeBledSnow_EN-CA4421792798_UHD.jpg
+[16:13:38] Picture infomations saved to  global/en-CA/README.md
+[16:13:38] Picture infomations saved to global/en-CA/history/2024/12/28_en-CA.md
+[16:13:38] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-12-27 16:13:38.343670+00:00
+[16:13:38] Successful get url: https://www.bing.com/th?id=OHR.LakeBledSnow_EN-GB9064661612_UHD.jpg
+[16:13:38] Picture infomations saved to  global/en-GB/README.md
+[16:13:38] Picture infomations saved to global/en-GB/history/2024/12/28_en-GB.md
+[16:13:38] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-12-27 17:13:38.569646+01:00
+[16:13:38] Successful get url: https://www.bing.com/th?id=OHR.LakeBledSnow_IT-IT5595802346_UHD.jpg
+[16:13:38] Picture infomations saved to  global/it-IT/README.md
+[16:13:38] Picture infomations saved to global/it-IT/history/2024/12/27_it-IT.md
+[16:13:38] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-12-27 17:13:38.713411+01:00
+[16:13:38] Successful get url: https://www.bing.com/th?id=OHR.LakeBledSnow_ES-ES1245773741_UHD.jpg
+[16:13:38] Picture infomations saved to  global/es-ES/README.md
+[16:13:38] Picture infomations saved to global/es-ES/history/2024/12/27_es-ES.md
+[16:13:38] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-12-27 11:13:38.861458-05:00
+[16:13:38] Successful get url: https://www.bing.com/th?id=OHR.LakeBledSnow_FR-CA6860271239_UHD.jpg
+[16:13:39] Picture infomations saved to  global/fr-CA/README.md
+[16:13:39] Picture infomations saved to global/fr-CA/history/2024/12/28_fr-CA.md
+Program exit at 16:13:39

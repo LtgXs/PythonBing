@@ -6,9 +6,9 @@
 ||*Copyright: Lake Bled, Slovenia (© Kesu01/Getty Images)*
 ||
 |||
-|2024-12-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LakeBledSnow_JA-JP5075131023_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeBledSnow_JA-JP5075131023_UHD.jpg)|
-||*Copyright: ブレッド湖, スロベニア (© Kesu01/Getty Images)*
+|2024-12-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CoralTurtle_JA-JP5618879842_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoralTurtle_JA-JP5618879842_UHD.jpg)|
+||*Copyright: アオウミガメ, フランス (© Damsea/Shutterstock)*
 ||
 |||
 |2024-12-27|**Region: en-IN**||
