@@ -6,9 +6,9 @@
 ||*Copyright: A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia (© Damsea/Shutterstock)*
 ||
 |||
-|2024-12-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CoralTurtle_JA-JP5618879842_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoralTurtle_JA-JP5618879842_UHD.jpg)|
-||*Copyright: アオウミガメ, フランス (© Damsea/Shutterstock)*
+|2024-12-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BorobudurBells_JA-JP5888220367_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BorobudurBells_JA-JP5888220367_UHD.jpg)|
+||*Copyright: ボロブドゥール遺跡, インドネシア (© Robertharding/Shutterstock)*
 ||
 |||
 |2024-12-28|**Region: en-IN**||
