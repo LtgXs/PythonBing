@@ -1,0 +1,60 @@
+
+Program started at 09:24:53
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1153-462
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[09:24:53] Start geting CN Bing Wallpaper
+[09:24:53] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_ZH-CN4771437860_UHD.jpg
+[09:24:54] Image saved to img/background.jpg
+[09:24:54] Info saved to README.md
+[09:24:54] Image saved to history/2024/12/28.md
+[09:24:54] Start geting global Bing Wallpaper, region=en-US, local time is 2024-12-28 04:24:54.028502-05:00
+[09:24:54] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg
+[09:24:54] Picture infomations saved to  global/en-US/README.md
+[09:24:54] Picture infomations saved to global/en-US/history/2024/12/29_en-US.md
+[09:24:54] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-12-28 18:24:54.182176+09:00
+[09:24:54] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_JA-JP5618879842_UHD.jpg
+[09:24:54] Picture infomations saved to  global/ja-JP/README.md
+[09:24:54] Picture infomations saved to global/ja-JP/history/2024/12/28_ja-JP.md
+[09:24:54] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-12-28 14:54:54.319194+05:30
+[09:24:54] Successful get url: https://www.bing.com/th?id=OHR.DudhsagarFalls_EN-IN8941732838_UHD.jpg
+[09:24:54] Picture infomations saved to  global/en-IN/README.md
+[09:24:54] Picture infomations saved to global/en-IN/history/2024/12/28_en-IN.md
+[09:24:54] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-12-28 06:24:54.462710-03:00
+[09:24:54] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_PT-BR9135680807_UHD.jpg
+[09:24:54] Picture infomations saved to  global/pt-BR/README.md
+[09:24:54] Picture infomations saved to global/pt-BR/history/2024/12/29_pt-BR.md
+[09:24:54] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-12-28 10:24:54.602835+01:00
+[09:24:54] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_FR-FR9548465819_UHD.jpg
+[09:24:54] Picture infomations saved to  global/fr-FR/README.md
+[09:24:54] Picture infomations saved to global/fr-FR/history/2024/12/28_fr-FR.md
+[09:24:54] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-12-28 10:24:54.734705+01:00
+[09:24:54] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_DE-DE1141048085_UHD.jpg
+[09:24:54] Picture infomations saved to  global/de-DE/README.md
+[09:24:54] Picture infomations saved to global/de-DE/history/2024/12/28_de-DE.md
+[09:24:54] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-12-28 04:24:54.878635-05:00
+[09:24:54] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_EN-CA4867100726_UHD.jpg
+[09:24:55] Picture infomations saved to  global/en-CA/README.md
+[09:24:55] Picture infomations saved to global/en-CA/history/2024/12/29_en-CA.md
+[09:24:55] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-12-28 09:24:55.052169+00:00
+[09:24:55] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_EN-GB3087704851_UHD.jpg
+[09:24:55] Picture infomations saved to  global/en-GB/README.md
+[09:24:55] Picture infomations saved to global/en-GB/history/2024/12/29_en-GB.md
+[09:24:55] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-12-28 10:24:55.195048+01:00
+[09:24:55] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_IT-IT2494528336_UHD.jpg
+[09:24:55] Picture infomations saved to  global/it-IT/README.md
+[09:24:55] Picture infomations saved to global/it-IT/history/2024/12/28_it-IT.md
+[09:24:55] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-12-28 10:24:55.334632+01:00
+[09:24:55] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_ES-ES1601437701_UHD.jpg
+[09:24:55] Picture infomations saved to  global/es-ES/README.md
+[09:24:55] Picture infomations saved to global/es-ES/history/2024/12/28_es-ES.md
+[09:24:55] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-12-28 04:24:55.478800-05:00
+[09:24:55] Successful get url: https://www.bing.com/th?id=OHR.CoralTurtle_FR-CA6869883059_UHD.jpg
+[09:24:55] Picture infomations saved to  global/fr-CA/README.md
+[09:24:55] Picture infomations saved to global/fr-CA/history/2024/12/29_fr-CA.md
+Program exit at 09:24:55
