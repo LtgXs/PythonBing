@@ -6,9 +6,9 @@
 ||*Copyright: Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)*
 ||
 |||
-|2024-12-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BorobudurBells_JA-JP5888220367_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BorobudurBells_JA-JP5888220367_UHD.jpg)|
-||*Copyright: ボロブドゥール遺跡, インドネシア (© Robertharding/Shutterstock)*
+|2024-12-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MountFieldNP_JA-JP6160592179_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountFieldNP_JA-JP6160592179_UHD.jpg)|
+||*Copyright: マウントフィールド国立公園, オーストラリア (© Whitworth Images/Getty Images)*
 ||
 |||
 |2024-12-29|**Region: en-IN**||
