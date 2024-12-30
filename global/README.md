@@ -6,9 +6,9 @@
 ||*Copyright: Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)*
 ||
 |||
-|2024-12-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MountFieldNP_JA-JP6160592179_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountFieldNP_JA-JP6160592179_UHD.jpg)|
-||*Copyright: マウントフィールド国立公園, オーストラリア (© Whitworth Images/Getty Images)*
+|2024-12-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Omisoka2024_JA-JP6408751475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Omisoka2024_JA-JP6408751475_UHD.jpg)|
+||*Copyright: 平等院の梵鐘, 京都 (© Asia Images Group LLC/Alamy Stock Photo)*
 ||
 |||
 |2024-12-30|**Region: en-IN**||

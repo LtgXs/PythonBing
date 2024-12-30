@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:35] Picture infomations saved to  global/fr-CA/README.md
 [09:27:35] Picture infomations saved to global/fr-CA/history/2024/12/31_fr-CA.md
 Program exit at 09:27:35
+
+Program started at 16:13:51
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1146-94
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[16:13:51] Start geting CN Bing Wallpaper
+[16:13:51] Successful get url: https://www.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg
+[16:13:51] Image saved to img/background.jpg
+[16:13:51] Info saved to README.md
+[16:13:51] Image saved to history/2024/12/31.md
+[16:13:51] Start geting global Bing Wallpaper, region=en-US, local time is 2024-12-30 11:13:51.984762-05:00
+[16:13:52] Successful get url: https://www.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg
+[16:13:52] Picture infomations saved to  global/en-US/README.md
+[16:13:52] Picture infomations saved to global/en-US/history/2024/12/31_en-US.md
+[16:13:52] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-12-31 01:13:52.178584+09:00
+[16:13:52] Successful get url: https://www.bing.com/th?id=OHR.Omisoka2024_JA-JP6408751475_UHD.jpg
+[16:13:52] Picture infomations saved to  global/ja-JP/README.md
+[16:13:52] Picture infomations saved to global/ja-JP/history/2024/12/31_ja-JP.md
+[16:13:52] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-12-30 21:43:52.335783+05:30
+[16:13:52] Successful get url: https://www.bing.com/th?id=OHR.MountFieldNP_EN-IN2502905267_UHD.jpg
+[16:13:52] Picture infomations saved to  global/en-IN/README.md
+[16:13:52] Picture infomations saved to global/en-IN/history/2024/12/30_en-IN.md
+[16:13:52] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-12-30 13:13:52.439821-03:00
+[16:13:52] Successful get url: https://www.bing.com/th?id=OHR.CorridadeSaoSilvestre_PT-BR4824975840_UHD.jpg
+[16:13:52] Picture infomations saved to  global/pt-BR/README.md
+[16:13:52] Picture infomations saved to global/pt-BR/history/2024/12/31_pt-BR.md
+[16:13:52] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-12-30 17:13:52.608032+01:00
+[16:13:52] Successful get url: https://www.bing.com/th?id=OHR.MountFieldNP_FR-FR0048358623_UHD.jpg
+[16:13:52] Picture infomations saved to  global/fr-FR/README.md
+[16:13:52] Picture infomations saved to global/fr-FR/history/2024/12/30_fr-FR.md
+[16:13:52] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-12-30 17:13:52.789994+01:00
+[16:13:52] Successful get url: https://www.bing.com/th?id=OHR.MountFieldNP_DE-DE4643713603_UHD.jpg
+[16:13:52] Picture infomations saved to  global/de-DE/README.md
+[16:13:52] Picture infomations saved to global/de-DE/history/2024/12/30_de-DE.md
+[16:13:52] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-12-30 11:13:52.964397-05:00
+[16:13:53] Successful get url: https://www.bing.com/th?id=OHR.MountFieldNP_EN-CA5418391081_UHD.jpg
+[16:13:53] Picture infomations saved to  global/en-CA/README.md
+[16:13:53] Picture infomations saved to global/en-CA/history/2024/12/31_en-CA.md
+[16:13:53] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-12-30 16:13:53.128890+00:00
+[16:13:53] Successful get url: https://www.bing.com/th?id=OHR.MountFieldNP_EN-GB1514220907_UHD.jpg
+[16:13:53] Picture infomations saved to  global/en-GB/README.md
+[16:13:53] Picture infomations saved to global/en-GB/history/2024/12/31_en-GB.md
+[16:13:53] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-12-30 17:13:53.249685+01:00
+[16:13:53] Successful get url: https://www.bing.com/th?id=OHR.MountFieldNP_IT-IT7967272422_UHD.jpg
+[16:13:53] Picture infomations saved to  global/it-IT/README.md
+[16:13:53] Picture infomations saved to global/it-IT/history/2024/12/30_it-IT.md
+[16:13:53] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-12-30 17:13:53.381785+01:00
+[16:13:53] Successful get url: https://www.bing.com/th?id=OHR.MountFieldNP_ES-ES3508020804_UHD.jpg
+[16:13:53] Picture infomations saved to  global/es-ES/README.md
+[16:13:53] Picture infomations saved to global/es-ES/history/2024/12/30_es-ES.md
+[16:13:53] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-12-30 11:13:53.541226-05:00
+[16:13:53] Successful get url: https://www.bing.com/th?id=OHR.MountFieldNP_FR-CA7134371574_UHD.jpg
+[16:13:53] Picture infomations saved to  global/fr-CA/README.md
+[16:13:53] Picture infomations saved to global/fr-CA/history/2024/12/31_fr-CA.md
+Program exit at 16:13:53
