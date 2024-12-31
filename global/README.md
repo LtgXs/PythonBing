@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2024-12-31|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg)|
-||*Copyright: Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)*
+|2025-01-01|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg)|
+||*Copyright: New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)*
 ||
 |||
 |2024-12-31|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 平等院の梵鐘, 京都 (© Asia Images Group LLC/Alamy Stock Photo)*
 ||
 |||
-|2024-12-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MountFieldNP_EN-IN2502905267_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountFieldNP_EN-IN2502905267_UHD.jpg)|
-||*Copyright: Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)*
+|2024-12-31|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.RioNewYear_EN-IN5477298039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RioNewYear_EN-IN5477298039_UHD.jpg)|
+||*Copyright: New Year's Eve fireworks over Copacabana beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)*
 ||
 |||
-|2024-12-31|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CorridadeSaoSilvestre_PT-BR4824975840_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorridadeSaoSilvestre_PT-BR4824975840_UHD.jpg)|
-||*Copyright: Vista aérea da Avenida Paulista na cidade de São Paulo (© cifotart/Getty Images)*
+|2025-01-01|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.RioNewYear_PT-BR1238586029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RioNewYear_PT-BR1238586029_UHD.jpg)|
+||*Copyright: Queima de fogos de Ano-Novo na Praia de Copacabana, Rio de Janeiro, Brasil (© Wagner Meier/Getty Images)*
 ||
 |||
-|2024-12-30|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MountFieldNP_FR-FR0048358623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountFieldNP_FR-FR0048358623_UHD.jpg)|
-||*Copyright: Eucalyptus coccifera et pandanus, parc national de Mount Field, Tasmanie, Australie (© Whitworth Images/Getty Images)*
+|2024-12-31|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ParisNewYearEve_FR-FR3084713180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisNewYearEve_FR-FR3084713180_UHD.jpg)|
+||*Copyright: Arc de Triomphe sous les feux d’artifice, Paris (© Kiran Ridley/Getty Images)*
 ||
 |||
-|2024-12-30|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MountFieldNP_DE-DE4643713603_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountFieldNP_DE-DE4643713603_UHD.jpg)|
-||*Copyright: Tasmanischer Schnee-Eukalyptus und Pandani-Pflanzen in der Nähe des Lake Dobson, Mount-Field-Nationalpark, Tasmanien, Australien (© Whitworth Images/Getty Images)*
+|2024-12-31|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BavariaNewYearsEveFireworks_DE-DE4504129944_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BavariaNewYearsEveFireworks_DE-DE4504129944_UHD.jpg)|
+||*Copyright: Silvesterfeuerwerk über der Stadt Garmisch-Partenkirchen mit Blick auf die Zugspitzgruppe, Bayern (© Marc Hohenleitner/Huber/eStock Photo)*
 ||
 |||
-|2024-12-31|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MountFieldNP_EN-CA5418391081_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountFieldNP_EN-CA5418391081_UHD.jpg)|
-||*Copyright: Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)*
+|2025-01-01|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CANYE24_EN-CA5635305751_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CANYE24_EN-CA5635305751_UHD.jpg)|
+||*Copyright: Fireworks over Parliament Hill with reflection, Ottawa (© naibak/Moment/Getty Images)*
 ||
 |||
-|2024-12-31|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MountFieldNP_EN-GB1514220907_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountFieldNP_EN-GB1514220907_UHD.jpg)|
-||*Copyright: Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)*
+|2025-01-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.Hogmanay2024_EN-GB1967612260_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hogmanay2024_EN-GB1967612260_UHD.jpg)|
+||*Copyright: Fireworks in Edinburgh, Scotland (© Jane Barlow/PA Images via Getty Images)*
 ||
 |||
-|2024-12-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MountFieldNP_IT-IT7967272422_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountFieldNP_IT-IT7967272422_UHD.jpg)|
-||*Copyright: Piante di gomma delle nevi e pandani, Parco Nazionale di Mount Field, Tasmania, Australia (© Whitworth Images/Getty Images)*
+|2024-12-31|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CapodannoFirenze_IT-IT8277886621_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapodannoFirenze_IT-IT8277886621_UHD.jpg)|
+||*Copyright: Fuochi d'artificio di Capodanno a Firenze, Toscana (© Marti Bug Catcher/Shutterstock)*
 ||
 |||
-|2024-12-30|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MountFieldNP_ES-ES3508020804_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountFieldNP_ES-ES3508020804_UHD.jpg)|
-||*Copyright: Eucalipto de nieve de Tasmania y pandani de Tasmania cerca del lago Dobson, Parque Nacional Mount Field, Tasmania, Australia (© Whitworth Images/Getty Images)*
+|2024-12-31|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.NewYearSpain24_ES-ES3801149904_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearSpain24_ES-ES3801149904_UHD.jpg)|
+||*Copyright: Nochevieja en la Puerta del Sol, Madrid, España (© Mario Montero Arroyo/iStock/Getty Images)*
 ||
 |||
-|2024-12-31|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MountFieldNP_FR-CA7134371574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountFieldNP_FR-CA7134371574_UHD.jpg)|
-||*Copyright: Eucalyptus coccifera et pandanus, parc national de Mount Field, Tasmanie, Australie (© Whitworth Images/Getty Images)*
+|2025-01-01|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CANYE24_FR-CA7534148922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CANYE24_FR-CA7534148922_UHD.jpg)|
+||*Copyright: Feux d'artifice sur la colline du Parlement, Ottawa, Canada (© naibank/Getty Images)*
 ||
 |||
 

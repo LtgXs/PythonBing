@@ -1,0 +1,60 @@
+
+Program started at 09:26:26
+Operating System Name: Linux
+Operating System Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1442-596
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[09:26:26] Start geting CN Bing Wallpaper
+[09:26:26] Successful get url: https://www.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg
+[09:26:26] Image saved to img/background.jpg
+[09:26:26] Info saved to README.md
+[09:26:26] Image saved to history/2024/12/31.md
+[09:26:26] Start geting global Bing Wallpaper, region=en-US, local time is 2024-12-31 04:26:26.472998-05:00
+[09:26:26] Successful get url: https://www.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg
+[09:26:26] Picture infomations saved to  global/en-US/README.md
+[09:26:26] Picture infomations saved to global/en-US/history/2025/01/01_en-US.md
+[09:26:26] Start geting global Bing Wallpaper, region=ja-JP, local time is 2024-12-31 18:26:26.617979+09:00
+[09:26:26] Successful get url: https://www.bing.com/th?id=OHR.Omisoka2024_JA-JP6408751475_UHD.jpg
+[09:26:26] Picture infomations saved to  global/ja-JP/README.md
+[09:26:26] Picture infomations saved to global/ja-JP/history/2024/12/31_ja-JP.md
+[09:26:26] Start geting global Bing Wallpaper, region=en-IN, local time is 2024-12-31 14:56:26.765233+05:30
+[09:26:26] Successful get url: https://www.bing.com/th?id=OHR.RioNewYear_EN-IN5477298039_UHD.jpg
+[09:26:26] Picture infomations saved to  global/en-IN/README.md
+[09:26:26] Picture infomations saved to global/en-IN/history/2024/12/31_en-IN.md
+[09:26:26] Start geting global Bing Wallpaper, region=pt-BR, local time is 2024-12-31 06:26:26.913544-03:00
+[09:26:26] Successful get url: https://www.bing.com/th?id=OHR.RioNewYear_PT-BR1238586029_UHD.jpg
+[09:26:27] Picture infomations saved to  global/pt-BR/README.md
+[09:26:27] Picture infomations saved to global/pt-BR/history/2025/01/01_pt-BR.md
+[09:26:27] Start geting global Bing Wallpaper, region=fr-FR, local time is 2024-12-31 10:26:27.053207+01:00
+[09:26:27] Successful get url: https://www.bing.com/th?id=OHR.ParisNewYearEve_FR-FR3084713180_UHD.jpg
+[09:26:27] Picture infomations saved to  global/fr-FR/README.md
+[09:26:27] Picture infomations saved to global/fr-FR/history/2024/12/31_fr-FR.md
+[09:26:27] Start geting global Bing Wallpaper, region=de-DE, local time is 2024-12-31 10:26:27.199781+01:00
+[09:26:27] Successful get url: https://www.bing.com/th?id=OHR.BavariaNewYearsEveFireworks_DE-DE4504129944_UHD.jpg
+[09:26:27] Picture infomations saved to  global/de-DE/README.md
+[09:26:27] Picture infomations saved to global/de-DE/history/2024/12/31_de-DE.md
+[09:26:27] Start geting global Bing Wallpaper, region=en-CA, local time is 2024-12-31 04:26:27.352365-05:00
+[09:26:27] Successful get url: https://www.bing.com/th?id=OHR.CANYE24_EN-CA5635305751_UHD.jpg
+[09:26:27] Picture infomations saved to  global/en-CA/README.md
+[09:26:27] Picture infomations saved to global/en-CA/history/2025/01/01_en-CA.md
+[09:26:27] Start geting global Bing Wallpaper, region=en-GB, local time is 2024-12-31 09:26:27.499115+00:00
+[09:26:27] Successful get url: https://www.bing.com/th?id=OHR.Hogmanay2024_EN-GB1967612260_UHD.jpg
+[09:26:27] Picture infomations saved to  global/en-GB/README.md
+[09:26:27] Picture infomations saved to global/en-GB/history/2025/01/01_en-GB.md
+[09:26:27] Start geting global Bing Wallpaper, region=it-IT, local time is 2024-12-31 10:26:27.647776+01:00
+[09:26:27] Successful get url: https://www.bing.com/th?id=OHR.CapodannoFirenze_IT-IT8277886621_UHD.jpg
+[09:26:27] Picture infomations saved to  global/it-IT/README.md
+[09:26:27] Picture infomations saved to global/it-IT/history/2024/12/31_it-IT.md
+[09:26:27] Start geting global Bing Wallpaper, region=es-ES, local time is 2024-12-31 10:26:27.797714+01:00
+[09:26:27] Successful get url: https://www.bing.com/th?id=OHR.NewYearSpain24_ES-ES3801149904_UHD.jpg
+[09:26:27] Picture infomations saved to  global/es-ES/README.md
+[09:26:27] Picture infomations saved to global/es-ES/history/2024/12/31_es-ES.md
+[09:26:27] Start geting global Bing Wallpaper, region=fr-CA, local time is 2024-12-31 04:26:27.933715-05:00
+[09:26:27] Successful get url: https://www.bing.com/th?id=OHR.CANYE24_FR-CA7534148922_UHD.jpg
+[09:26:28] Picture infomations saved to  global/fr-CA/README.md
+[09:26:28] Picture infomations saved to global/fr-CA/history/2025/01/01_fr-CA.md
+Program exit at 09:26:28
