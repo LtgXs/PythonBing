@@ -6,9 +6,9 @@
 ||*Copyright: New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)*
 ||
 |||
-|2024-12-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Omisoka2024_JA-JP6408751475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Omisoka2024_JA-JP6408751475_UHD.jpg)|
-||*Copyright: 平等院の梵鐘, 京都 (© Asia Images Group LLC/Alamy Stock Photo)*
+|2025-01-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ShirahigeSunrise2024_JA-JP6695296609_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShirahigeSunrise2024_JA-JP6695296609_UHD.jpg)|
+||*Copyright: 朝日と白髭神社の鳥居, 滋賀県 高島市 (© Cavan Images/Alamy Stock Photo)*
 ||
 |||
 |2024-12-31|**Region: en-IN**||
