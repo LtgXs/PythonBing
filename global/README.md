@@ -6,9 +6,9 @@
 ||*Copyright: Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-01-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ShirahigeSunrise2024_JA-JP6695296609_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShirahigeSunrise2024_JA-JP6695296609_UHD.jpg)|
-||*Copyright: 朝日と白髭神社の鳥居, 滋賀県 高島市 (© Cavan Images/Alamy Stock Photo)*
+|2025-01-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PlumParakeet_JA-JP6915629740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlumParakeet_JA-JP6915629740_UHD.jpg)|
+||*Copyright: コセイインコ, インド カルナータカ州 (© Hira Punjabi/Alamy)*
 ||
 |||
 |2025-01-01|**Region: en-IN**||
