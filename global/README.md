@@ -6,9 +6,9 @@
 ||*Copyright: Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-01-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PlumParakeet_JA-JP6915629740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlumParakeet_JA-JP6915629740_UHD.jpg)|
-||*Copyright: コセイインコ, インド カルナータカ州 (© Hira Punjabi/Alamy)*
+|2025-01-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TolkienOxford_JA-JP7219183666_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_JA-JP7219183666_UHD.jpg)|
+||*Copyright: オックスフォード大学の図書館, イギリス (© atiger/Shutterstock)*
 ||
 |||
 |2025-01-02|**Region: en-IN**||
