@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-01-03|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg)|
-||*Copyright: Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)*
+|2025-01-04|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg)|
+||*Copyright: The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)*
 ||
 |||
 |2025-01-03|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: オックスフォード大学の図書館, イギリス (© atiger/Shutterstock)*
 ||
 |||
-|2025-01-02|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-IN7123035732_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-IN7123035732_UHD.jpg)|
-||*Copyright: Star trails over Ardez village, Graubunden, Switzerland (© Roberto Moiola/Getty Images)*
+|2025-01-03|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TolkienOxford_EN-IN7522700035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_EN-IN7522700035_UHD.jpg)|
+||*Copyright: Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)*
 ||
 |||
-|2025-01-03|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ArdezSwitzerland_PT-BR2038942515_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdezSwitzerland_PT-BR2038942515_UHD.jpg)|
-||*Copyright: Trilhas de estrelas sobre a vila de Ardez, Cantão dos Grisões, Suíça (© Roberto Moiola/Getty Images)*
+|2025-01-04|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TolkienOxford_PT-BR2782448271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_PT-BR2782448271_UHD.jpg)|
+||*Copyright: Radcliffe Camera e All Souls College, Universidade de Oxford, Inglaterra (© atiger/Shutterstock)*
 ||
 |||
-|2025-01-02|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AlpsSunset_FR-FR0523137668_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpsSunset_FR-FR0523137668_UHD.jpg)|
-||*Copyright: Montagne enneigée au coucher du soleil, Alpes françaises (© raeva/Getty Images)*
+|2025-01-03|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TolkienOxford_FR-FR1207092725_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_FR-FR1207092725_UHD.jpg)|
+||*Copyright: Radcliffe Camera et All Souls College, Université d'Oxford, Angleterre (© atiger/Shutterstock)*
 ||
 |||
-|2025-01-02|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ArdezSwitzerland_DE-DE7533597545_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdezSwitzerland_DE-DE7533597545_UHD.jpg)|
-||*Copyright: Sternspuren über Ardez, Graubünden, Schweiz (© Roberto Moiola/Getty Images)*
+|2025-01-03|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TolkienOxford_DE-DE5846503746_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_DE-DE5846503746_UHD.jpg)|
+||*Copyright: Radcliffe Camera und All Souls College, Universität Oxford, England (© atiger/Shutterstock)*
 ||
 |||
-|2025-01-03|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-CA6090409096_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-CA6090409096_UHD.jpg)|
-||*Copyright: Star trails over Ardez village, Graubunden, Switzerland (© Roberto Moiola/Getty Images)*
+|2025-01-04|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TolkienOxford_EN-CA6554362108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_EN-CA6554362108_UHD.jpg)|
+||*Copyright: Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)*
 ||
 |||
-|2025-01-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-GB7554817854_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-GB7554817854_UHD.jpg)|
-||*Copyright: Star trails over Ardez village, Graubunden, Switzerland (© Roberto Moiola/Getty Images)*
+|2025-01-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TolkienOxford_EN-GB2804398313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_EN-GB2804398313_UHD.jpg)|
+||*Copyright: Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)*
 ||
 |||
-|2025-01-02|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ArdezSwitzerland_IT-IT8831023098_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdezSwitzerland_IT-IT8831023098_UHD.jpg)|
-||*Copyright: Scie di stelle cadenti sul villaggio di Ardez, Grigioni, Svizzera (© Roberto Moiola/Getty Images)*
+|2025-01-03|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TolkienOxford_IT-IT9082436970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_IT-IT9082436970_UHD.jpg)|
+||*Copyright: Radcliffe Camera e All Souls College, Università di Oxford, Inghilterra (© atiger/Shutterstock)*
 ||
 |||
-|2025-01-02|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ArdezSwitzerland_ES-ES4481408701_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdezSwitzerland_ES-ES4481408701_UHD.jpg)|
-||*Copyright: Estelas de estrellas sobre el pueblo de Ardez, Graubunden, Suiza (© Roberto Moiola/Getty Images)*
+|2025-01-03|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TolkienOxford_ES-ES4772799027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_ES-ES4772799027_UHD.jpg)|
+||*Copyright: La Cámara Radcliffe y el All Souls College, Universidad de Oxford, Inglaterra (© atiger/Shutterstock)*
 ||
 |||
-|2025-01-03|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ArdezSwitzerland_FR-CA8314617577_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdezSwitzerland_FR-CA8314617577_UHD.jpg)|
-||*Copyright: Traînées d'étoiles au-dessus du village d'Ardez, Graubunden, Suisse (© Roberto Moiola/Getty Images)*
+|2025-01-04|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TolkienOxford_FR-CA8637685822_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_FR-CA8637685822_UHD.jpg)|
+||*Copyright: Radcliffe Camera et All Souls College, Université d'Oxford, Angleterre (© atiger/Shutterstock)*
 ||
 |||
 
