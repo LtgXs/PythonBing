@@ -6,9 +6,9 @@
 ||*Copyright: The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)*
 ||
 |||
-|2025-01-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TolkienOxford_JA-JP7219183666_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_JA-JP7219183666_UHD.jpg)|
-||*Copyright: オックスフォード大学の図書館, イギリス (© atiger/Shutterstock)*
+|2025-01-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BouldersNZ_JA-JP7494581439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BouldersNZ_JA-JP7494581439_UHD.jpg)|
+||*Copyright: 丸い巨石が転がる海岸, ニュージーランド (© Douglas Pearson/eStock Photo)*
 ||
 |||
 |2025-01-03|**Region: en-IN**||
