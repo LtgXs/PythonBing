@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-01-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg)|
-||*Copyright: The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)*
+|2025-01-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg)|
+||*Copyright: Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)*
 ||
 |||
 |2025-01-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 丸い巨石が転がる海岸, ニュージーランド (© Douglas Pearson/eStock Photo)*
 ||
 |||
-|2025-01-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TolkienOxford_EN-IN7522700035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_EN-IN7522700035_UHD.jpg)|
-||*Copyright: Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)*
+|2025-01-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.VietnamFalls_EN-IN7892338335_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_EN-IN7892338335_UHD.jpg)|
+||*Copyright: Bản Giốc – Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)*
 ||
 |||
-|2025-01-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TolkienOxford_PT-BR2782448271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_PT-BR2782448271_UHD.jpg)|
-||*Copyright: Radcliffe Camera e All Souls College, Universidade de Oxford, Inglaterra (© atiger/Shutterstock)*
+|2025-01-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.VietnamFalls_PT-BR3430655242_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_PT-BR3430655242_UHD.jpg)|
+||*Copyright: Cataratas de Bản Giốc-Detian no Rio Quây Sơn, Vietnã (© Shane P. White/Minden Pictures)*
 ||
 |||
-|2025-01-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TolkienOxford_FR-FR1207092725_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_FR-FR1207092725_UHD.jpg)|
-||*Copyright: Radcliffe Camera et All Souls College, Université d'Oxford, Angleterre (© atiger/Shutterstock)*
+|2025-01-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.VietnamFalls_FR-FR1506770845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_FR-FR1506770845_UHD.jpg)|
+||*Copyright: Chutes de Ban Gioc, Vietnam (© Shane P. White/Minden Pictures)*
 ||
 |||
-|2025-01-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TolkienOxford_DE-DE5846503746_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_DE-DE5846503746_UHD.jpg)|
-||*Copyright: Radcliffe Camera und All Souls College, Universität Oxford, England (© atiger/Shutterstock)*
+|2025-01-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.VietnamFalls_DE-DE6165029954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_DE-DE6165029954_UHD.jpg)|
+||*Copyright: Bản-Giốc-Detian-Wasserfälle am Quây Sơn Fluss, Vietnam (© Shane P. White/Minden Pictures)*
 ||
 |||
-|2025-01-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TolkienOxford_EN-CA6554362108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_EN-CA6554362108_UHD.jpg)|
-||*Copyright: Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)*
+|2025-01-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.VietnamFalls_EN-CA6990371995_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_EN-CA6990371995_UHD.jpg)|
+||*Copyright: Bản Giốc – Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)*
 ||
 |||
-|2025-01-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TolkienOxford_EN-GB2804398313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_EN-GB2804398313_UHD.jpg)|
-||*Copyright: Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)*
+|2025-01-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.VietnamFalls_EN-GB3020680221_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_EN-GB3020680221_UHD.jpg)|
+||*Copyright: Bản Giốc – Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)*
 ||
 |||
-|2025-01-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TolkienOxford_IT-IT9082436970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_IT-IT9082436970_UHD.jpg)|
-||*Copyright: Radcliffe Camera e All Souls College, Università di Oxford, Inghilterra (© atiger/Shutterstock)*
+|2025-01-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.VietnamFalls_IT-IT3525554686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_IT-IT3525554686_UHD.jpg)|
+||*Copyright: Cascate di Bản Giốc sul fiume Quây Sơn, Vietnam (© Shane P. White/Minden Pictures)*
 ||
 |||
-|2025-01-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TolkienOxford_ES-ES4772799027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_ES-ES4772799027_UHD.jpg)|
-||*Copyright: La Cámara Radcliffe y el All Souls College, Universidad de Oxford, Inglaterra (© atiger/Shutterstock)*
+|2025-01-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.VietnamFalls_ES-ES5222423755_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_ES-ES5222423755_UHD.jpg)|
+||*Copyright: Cataratas Ban Gioc - Detian en el río Quây Sơn, en la frontera entre China y Vietnam (© Shane P. White/Minden Pictures)*
 ||
 |||
-|2025-01-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TolkienOxford_FR-CA8637685822_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienOxford_FR-CA8637685822_UHD.jpg)|
-||*Copyright: Radcliffe Camera et All Souls College, Université d'Oxford, Angleterre (© atiger/Shutterstock)*
+|2025-01-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.VietnamFalls_FR-CA8861500399_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_FR-CA8861500399_UHD.jpg)|
+||*Copyright: Chutes de Ban Gioc, Vietnam  (© Shane P. White/Minden Pictures)*
 ||
 |||
 
