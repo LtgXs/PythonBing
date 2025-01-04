@@ -6,9 +6,9 @@
 ||*Copyright: Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)*
 ||
 |||
-|2025-01-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BouldersNZ_JA-JP7494581439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BouldersNZ_JA-JP7494581439_UHD.jpg)|
-||*Copyright: 丸い巨石が転がる海岸, ニュージーランド (© Douglas Pearson/eStock Photo)*
+|2025-01-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ArdezSwitzerland_JA-JP7833129331_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdezSwitzerland_JA-JP7833129331_UHD.jpg)|
+||*Copyright: アルデッツ村, スイス (© Roberto Moiola/Getty Images)*
 ||
 |||
 |2025-01-04|**Region: en-IN**||
