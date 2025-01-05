@@ -6,9 +6,9 @@
 ||*Copyright: Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)*
 ||
 |||
-|2025-01-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ArdezSwitzerland_JA-JP7833129331_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArdezSwitzerland_JA-JP7833129331_UHD.jpg)|
-||*Copyright: アルデッツ村, スイス (© Roberto Moiola/Getty Images)*
+|2025-01-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RavennaBasilica_JA-JP8188667597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RavennaBasilica_JA-JP8188667597_UHD.jpg)|
+||*Copyright: サン・フランチェスコ聖堂, イタリア (© Andrea Pucci/Getty Images)*
 ||
 |||
 |2025-01-05|**Region: en-IN**||
