@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-01-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg)|
-||*Copyright: Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)*
+|2025-01-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg)|
+||*Copyright: Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)*
 ||
 |||
 |2025-01-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アルデッツ村, スイス (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-01-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.VietnamFalls_EN-IN7892338335_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_EN-IN7892338335_UHD.jpg)|
-||*Copyright: Bản Giốc – Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)*
+|2025-01-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PushkarniTank_EN-IN9828404964_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarniTank_EN-IN9828404964_UHD.jpg)|
+||*Copyright: Pushkarani, Sri Krishna Temple, Hampi, Karnataka (© ImagesofIndia/Shutterstock)*
 ||
 |||
-|2025-01-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.VietnamFalls_PT-BR3430655242_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_PT-BR3430655242_UHD.jpg)|
-||*Copyright: Cataratas de Bản Giốc-Detian no Rio Quây Sơn, Vietnã (© Shane P. White/Minden Pictures)*
+|2025-01-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PlumParakeet_PT-BR4715109832_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlumParakeet_PT-BR4715109832_UHD.jpg)|
+||*Copyright: Periquito-cabeça-de-ameixa em Shimoga, Karnataka, Índia (© Hira Punjabi/Alamy)*
 ||
 |||
-|2025-01-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.VietnamFalls_FR-FR1506770845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_FR-FR1506770845_UHD.jpg)|
-||*Copyright: Chutes de Ban Gioc, Vietnam (© Shane P. White/Minden Pictures)*
+|2025-01-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PlumParakeet_FR-FR1766885015_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlumParakeet_FR-FR1766885015_UHD.jpg)|
+||*Copyright: Perruche à tête de prune, Shimoga, Karnataka, Inde (© Hira Punjabi/Alamy)*
 ||
 |||
-|2025-01-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.VietnamFalls_DE-DE6165029954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_DE-DE6165029954_UHD.jpg)|
-||*Copyright: Bản-Giốc-Detian-Wasserfälle am Quây Sơn Fluss, Vietnam (© Shane P. White/Minden Pictures)*
+|2025-01-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.WinterLandscapeBavaria_DE-DE6496709723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterLandscapeBavaria_DE-DE6496709723_UHD.jpg)|
+||*Copyright: Winterlandschaft in Bayern, Deutschland (© wingmar/Getty Images)*
 ||
 |||
-|2025-01-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.VietnamFalls_EN-CA6990371995_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_EN-CA6990371995_UHD.jpg)|
-||*Copyright: Bản Giốc – Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)*
+|2025-01-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PlumParakeet_EN-CA7233766984_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlumParakeet_EN-CA7233766984_UHD.jpg)|
+||*Copyright: Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy Stock Photo)*
 ||
 |||
-|2025-01-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.VietnamFalls_EN-GB3020680221_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_EN-GB3020680221_UHD.jpg)|
-||*Copyright: Bản Giốc – Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)*
+|2025-01-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PlumParakeet_EN-GB3398674878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlumParakeet_EN-GB3398674878_UHD.jpg)|
+||*Copyright: Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy Stock Photo)*
 ||
 |||
-|2025-01-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.VietnamFalls_IT-IT3525554686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_IT-IT3525554686_UHD.jpg)|
-||*Copyright: Cascate di Bản Giốc sul fiume Quây Sơn, Vietnam (© Shane P. White/Minden Pictures)*
+|2025-01-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BouldersNZ_IT-IT9574087004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BouldersNZ_IT-IT9574087004_UHD.jpg)|
+||*Copyright: Massi di Moeraki al tramonto, Isola del Sud, Nuova Zelanda (© Douglas Pearson/eStock Photo)*
 ||
 |||
-|2025-01-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.VietnamFalls_ES-ES5222423755_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_ES-ES5222423755_UHD.jpg)|
-||*Copyright: Cataratas Ban Gioc - Detian en el río Quây Sơn, en la frontera entre China y Vietnam (© Shane P. White/Minden Pictures)*
+|2025-01-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GeneralWinterNavarre_ES-ES5527142777_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GeneralWinterNavarre_ES-ES5527142777_UHD.jpg)|
+||*Copyright: Árboles escarchados en la Sierra de Aralar, Navarra, España (© Iñaki Tejerina/Moment/Getty Images)*
 ||
 |||
-|2025-01-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.VietnamFalls_FR-CA8861500399_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_FR-CA8861500399_UHD.jpg)|
-||*Copyright: Chutes de Ban Gioc, Vietnam  (© Shane P. White/Minden Pictures)*
+|2025-01-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PlumParakeet_FR-CA9102129073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlumParakeet_FR-CA9102129073_UHD.jpg)|
+||*Copyright: Perruche à tête de prune, Shimoga, Karnataka, Inde (© Hira Punjabi/Alamy)*
 ||
 |||
 
