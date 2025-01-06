@@ -6,9 +6,9 @@
 ||*Copyright: Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)*
 ||
 |||
-|2025-01-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RavennaBasilica_JA-JP8188667597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RavennaBasilica_JA-JP8188667597_UHD.jpg)|
-||*Copyright: サン・フランチェスコ聖堂, イタリア (© Andrea Pucci/Getty Images)*
+|2025-01-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.VietnamFalls_JA-JP8519812125_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_JA-JP8519812125_UHD.jpg)|
+||*Copyright: バンゾック滝, ベトナム (© Shane P. White/Minden Pictures)*
 ||
 |||
 |2025-01-06|**Region: en-IN**||
