@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:28:10] Picture infomations saved to  global/fr-CA/README.md
 [09:28:10] Picture infomations saved to global/fr-CA/history/2025/01/08_fr-CA.md
 Program exit at 09:28:10
+
+Program started at 16:29:19
+Operating System Name: Linux
+Operating System Version: #20-Ubuntu SMP Tue Oct 22 03:43:13 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1276-778
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[16:29:19] Start geting CN Bing Wallpaper
+[16:29:19] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_ZH-CN4045949792_UHD.jpg
+[16:29:19] Image saved to img/background.jpg
+[16:29:19] Info saved to README.md
+[16:29:19] Image saved to history/2025/01/08.md
+[16:29:19] Start geting global Bing Wallpaper, region=en-US, local time is 2025-01-07 11:29:19.593204-05:00
+[16:29:19] Successful get url: https://www.bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg
+[16:29:19] Picture infomations saved to  global/en-US/README.md
+[16:29:19] Picture infomations saved to global/en-US/history/2025/01/08_en-US.md
+[16:29:19] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-01-08 01:29:19.710578+09:00
+[16:29:19] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_JA-JP2827072518_UHD.jpg
+[16:29:19] Picture infomations saved to  global/ja-JP/README.md
+[16:29:19] Picture infomations saved to global/ja-JP/history/2025/01/08_ja-JP.md
+[16:29:19] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-01-07 21:59:19.877569+05:30
+[16:29:19] Successful get url: https://www.bing.com/th?id=OHR.BouldersNZ_EN-IN0206909278_UHD.jpg
+[16:29:19] Picture infomations saved to  global/en-IN/README.md
+[16:29:19] Picture infomations saved to global/en-IN/history/2025/01/07_en-IN.md
+[16:29:19] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-01-07 13:29:19.996922-03:00
+[16:29:20] Successful get url: https://www.bing.com/th?id=OHR.BouldersNZ_PT-BR5423530847_UHD.jpg
+[16:29:20] Picture infomations saved to  global/pt-BR/README.md
+[16:29:20] Picture infomations saved to global/pt-BR/history/2025/01/08_pt-BR.md
+[16:29:20] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-01-07 17:29:20.157943+01:00
+[16:29:20] Successful get url: https://www.bing.com/th?id=OHR.BouldersNZ_FR-FR2503535078_UHD.jpg
+[16:29:20] Picture infomations saved to  global/fr-FR/README.md
+[16:29:20] Picture infomations saved to global/fr-FR/history/2025/01/07_fr-FR.md
+[16:29:20] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-01-07 17:29:20.278818+01:00
+[16:29:20] Successful get url: https://www.bing.com/th?id=OHR.BouldersNZ_DE-DE6991214761_UHD.jpg
+[16:29:20] Picture infomations saved to  global/de-DE/README.md
+[16:29:20] Picture infomations saved to global/de-DE/history/2025/01/07_de-DE.md
+[16:29:20] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-01-07 11:29:20.372307-05:00
+[16:29:20] Successful get url: https://www.bing.com/th?id=OHR.BouldersNZ_EN-CA8083856326_UHD.jpg
+[16:29:20] Picture infomations saved to  global/en-CA/README.md
+[16:29:20] Picture infomations saved to global/en-CA/history/2025/01/08_en-CA.md
+[16:29:20] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-01-07 16:29:20.488130+00:00
+[16:29:20] Successful get url: https://www.bing.com/th?id=OHR.BouldersNZ_EN-GB9218282319_UHD.jpg
+[16:29:20] Picture infomations saved to  global/en-GB/README.md
+[16:29:20] Picture infomations saved to global/en-GB/history/2025/01/08_en-GB.md
+[16:29:20] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-01-07 17:29:20.633550+01:00
+[16:29:20] Successful get url: https://www.bing.com/th?id=OHR.FestaTricoloreDolomites_IT-IT7900673609_UHD.jpg
+[16:29:20] Picture infomations saved to  global/it-IT/README.md
+[16:29:20] Picture infomations saved to global/it-IT/history/2025/01/07_it-IT.md
+[16:29:20] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-01-07 17:29:20.768278+01:00
+[16:29:20] Successful get url: https://www.bing.com/th?id=OHR.BouldersNZ_ES-ES6118203530_UHD.jpg
+[16:29:20] Picture infomations saved to  global/es-ES/README.md
+[16:29:20] Picture infomations saved to global/es-ES/history/2025/01/07_es-ES.md
+[16:29:20] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-01-07 11:29:20.859463-05:00
+[16:29:20] Successful get url: https://www.bing.com/th?id=OHR.BouldersNZ_FR-CA6332854398_UHD.jpg
+[16:29:21] Picture infomations saved to  global/fr-CA/README.md
+[16:29:21] Picture infomations saved to global/fr-CA/history/2025/01/08_fr-CA.md
+Program exit at 16:29:21

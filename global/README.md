@@ -6,9 +6,9 @@
 ||*Copyright: Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)*
 ||
 |||
-|2025-01-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.VietnamFalls_JA-JP8519812125_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamFalls_JA-JP8519812125_UHD.jpg)|
-||*Copyright: バンゾック滝, ベトナム (© Shane P. White/Minden Pictures)*
+|2025-01-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GreatWallStairs_JA-JP2827072518_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreatWallStairs_JA-JP2827072518_UHD.jpg)|
+||*Copyright: 雪化粧した万里の長城, 中国 (© View Stock/Alamy)*
 ||
 |||
 |2025-01-07|**Region: en-IN**||
@@ -42,8 +42,8 @@
 ||
 |||
 |2025-01-07|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FestaTricoloreDolomites_IT-IT0168095926_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FestaTricoloreDolomites_IT-IT0168095926_UHD.jpg)|
-||*Copyright: Frecce Tricolori in formazione acrobatica sulle dolomiti italiane, Cortina d'Ampezzo, Veneto (© Anze Furlan/Alamy Stock Photo)*
+||![](https://www.bing.com/th?id=OHR.FestaTricoloreDolomites_IT-IT7900673609_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FestaTricoloreDolomites_IT-IT7900673609_UHD.jpg)|
+||*Copyright: Frecce Tricolori in formazione acrobatica sulle Dolomiti italiane, Cortina d'Ampezzo, Veneto (© Anze Furlan/Alamy Stock Photo)*
 ||
 |||
 |2025-01-07|**Region: es-ES**||
