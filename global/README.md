@@ -6,9 +6,9 @@
 ||*Copyright: Snow on the Great Wall of China (© View Stock/Alamy)*
 ||
 |||
-|2025-01-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GreatWallStairs_JA-JP2827072518_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreatWallStairs_JA-JP2827072518_UHD.jpg)|
-||*Copyright: 雪化粧した万里の長城, 中国 (© View Stock/Alamy)*
+|2025-01-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NamibiaDunes_JA-JP9057669220_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaDunes_JA-JP9057669220_UHD.jpg)|
+||*Copyright: ナミブ砂漠, ナミビア (© Airpano/Amazing Aerial Agency)*
 ||
 |||
 |2025-01-08|**Region: en-IN**||
