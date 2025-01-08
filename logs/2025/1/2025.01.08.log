@@ -1,0 +1,60 @@
+
+Program started at 09:27:36
+Operating System Name: Linux
+Operating System Version: #20-Ubuntu SMP Tue Oct 22 03:43:13 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az807-413
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[09:27:36] Start geting CN Bing Wallpaper
+[09:27:36] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_ZH-CN4045949792_UHD.jpg
+[09:27:36] Image saved to img/background.jpg
+[09:27:36] Info saved to README.md
+[09:27:36] Image saved to history/2025/01/08.md
+[09:27:36] Start geting global Bing Wallpaper, region=en-US, local time is 2025-01-08 04:27:36.520075-05:00
+[09:27:36] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg
+[09:27:36] Picture infomations saved to  global/en-US/README.md
+[09:27:36] Picture infomations saved to global/en-US/history/2025/01/09_en-US.md
+[09:27:36] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-01-08 18:27:36.626413+09:00
+[09:27:36] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_JA-JP2827072518_UHD.jpg
+[09:27:36] Picture infomations saved to  global/ja-JP/README.md
+[09:27:36] Picture infomations saved to global/ja-JP/history/2025/01/08_ja-JP.md
+[09:27:36] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-01-08 14:57:36.739341+05:30
+[09:27:36] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_EN-IN4478048411_UHD.jpg
+[09:27:36] Picture infomations saved to  global/en-IN/README.md
+[09:27:36] Picture infomations saved to global/en-IN/history/2025/01/08_en-IN.md
+[09:27:36] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-01-08 06:27:36.901941-03:00
+[09:27:36] Successful get url: https://www.bing.com/th?id=OHR.DiaNacionaldoFotografo_PT-BR5093198767_UHD.jpg
+[09:27:36] Picture infomations saved to  global/pt-BR/README.md
+[09:27:36] Picture infomations saved to global/pt-BR/history/2025/01/09_pt-BR.md
+[09:27:36] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-01-08 10:27:36.995556+01:00
+[09:27:37] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_FR-FR2831168051_UHD.jpg
+[09:27:37] Picture infomations saved to  global/fr-FR/README.md
+[09:27:37] Picture infomations saved to global/fr-FR/history/2025/01/08_fr-FR.md
+[09:27:37] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-01-08 10:27:37.113208+01:00
+[09:27:37] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_DE-DE7232445822_UHD.jpg
+[09:27:37] Picture infomations saved to  global/de-DE/README.md
+[09:27:37] Picture infomations saved to global/de-DE/history/2025/01/08_de-DE.md
+[09:27:37] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-01-08 04:27:37.268442-05:00
+[09:27:37] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_EN-CA8728749257_UHD.jpg
+[09:27:37] Picture infomations saved to  global/en-CA/README.md
+[09:27:37] Picture infomations saved to global/en-CA/history/2025/01/09_en-CA.md
+[09:27:37] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-01-08 09:27:37.425611+00:00
+[09:27:37] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_EN-GB9518457526_UHD.jpg
+[09:27:37] Picture infomations saved to  global/en-GB/README.md
+[09:27:37] Picture infomations saved to global/en-GB/history/2025/01/09_en-GB.md
+[09:27:37] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-01-08 10:27:37.517720+01:00
+[09:27:37] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_IT-IT6218183610_UHD.jpg
+[09:27:37] Picture infomations saved to  global/it-IT/README.md
+[09:27:37] Picture infomations saved to global/it-IT/history/2025/01/08_it-IT.md
+[09:27:37] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-01-08 10:27:37.614527+01:00
+[09:27:37] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_ES-ES6386971861_UHD.jpg
+[09:27:37] Picture infomations saved to  global/es-ES/README.md
+[09:27:37] Picture infomations saved to global/es-ES/history/2025/01/08_es-ES.md
+[09:27:37] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-01-08 04:27:37.713579-05:00
+[09:27:37] Successful get url: https://www.bing.com/th?id=OHR.GreatWallStairs_FR-CA6576775955_UHD.jpg
+[09:27:37] Picture infomations saved to  global/fr-CA/README.md
+[09:27:37] Picture infomations saved to global/fr-CA/history/2025/01/09_fr-CA.md
+Program exit at 09:27:37
