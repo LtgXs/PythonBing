@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:56] Picture infomations saved to  global/fr-CA/README.md
 [09:27:56] Picture infomations saved to global/fr-CA/history/2025/01/10_fr-CA.md
 Program exit at 09:27:56
+
+Program started at 16:14:46
+Operating System Name: Linux
+Operating System Version: #20-Ubuntu SMP Tue Oct 22 03:43:13 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1720-989
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[16:14:46] Start geting CN Bing Wallpaper
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg
+[16:14:46] Image saved to img/background.jpg
+[16:14:46] Info saved to README.md
+[16:14:46] Image saved to history/2025/01/10.md
+[16:14:46] Start geting global Bing Wallpaper, region=en-US, local time is 2025-01-09 11:14:46.242710-05:00
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg
+[16:14:46] Picture infomations saved to  global/en-US/README.md
+[16:14:46] Picture infomations saved to global/en-US/history/2025/01/10_en-US.md
+[16:14:46] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-01-10 01:14:46.477212+09:00
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_JA-JP3345547738_UHD.jpg
+[16:14:46] Picture infomations saved to  global/ja-JP/README.md
+[16:14:46] Picture infomations saved to global/ja-JP/history/2025/01/10_ja-JP.md
+[16:14:46] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-01-09 21:44:46.719459+05:30
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.NamibiaDunes_EN-IN0592013391_UHD.jpg
+[16:14:46] Picture infomations saved to  global/en-IN/README.md
+[16:14:46] Picture infomations saved to global/en-IN/history/2025/01/09_en-IN.md
+[16:14:46] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-01-09 13:14:46.972850-03:00
+[16:14:47] Successful get url: https://www.bing.com/th?id=OHR.NamibiaDunes_PT-BR5749717911_UHD.jpg
+[16:14:47] Picture infomations saved to  global/pt-BR/README.md
+[16:14:47] Picture infomations saved to global/pt-BR/history/2025/01/10_pt-BR.md
+[16:14:47] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-01-09 17:14:47.179326+01:00
+[16:14:47] Successful get url: https://www.bing.com/th?id=OHR.NamibiaDunes_FR-FR3454752206_UHD.jpg
+[16:14:47] Picture infomations saved to  global/fr-FR/README.md
+[16:14:47] Picture infomations saved to global/fr-FR/history/2025/01/09_fr-FR.md
+[16:14:47] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-01-09 17:14:47.388502+01:00
+[16:14:47] Successful get url: https://www.bing.com/th?id=OHR.NamibiaDunes_DE-DE7496419422_UHD.jpg
+[16:14:47] Picture infomations saved to  global/de-DE/README.md
+[16:14:47] Picture infomations saved to global/de-DE/history/2025/01/09_de-DE.md
+[16:14:47] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-01-09 11:14:47.614993-05:00
+[16:14:47] Successful get url: https://www.bing.com/th?id=OHR.NamibiaDunes_EN-CA8993588239_UHD.jpg
+[16:14:47] Picture infomations saved to  global/en-CA/README.md
+[16:14:47] Picture infomations saved to global/en-CA/history/2025/01/10_en-CA.md
+[16:14:47] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-01-09 16:14:47.827893+00:00
+[16:14:47] Successful get url: https://www.bing.com/th?id=OHR.NamibiaDunes_EN-GB9795419612_UHD.jpg
+[16:14:48] Picture infomations saved to  global/en-GB/README.md
+[16:14:48] Picture infomations saved to global/en-GB/history/2025/01/10_en-GB.md
+[16:14:48] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-01-09 17:14:48.048170+01:00
+[16:14:48] Successful get url: https://www.bing.com/th?id=OHR.NamibiaDunes_IT-IT8256486695_UHD.jpg
+[16:14:48] Picture infomations saved to  global/it-IT/README.md
+[16:14:48] Picture infomations saved to global/it-IT/history/2025/01/09_it-IT.md
+[16:14:48] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-01-09 17:14:48.258847+01:00
+[16:14:48] Successful get url: https://www.bing.com/th?id=OHR.RavennaBasilica_ES-ES6729761925_UHD.jpg
+[16:14:48] Picture infomations saved to  global/es-ES/README.md
+[16:14:48] Picture infomations saved to global/es-ES/history/2025/01/09_es-ES.md
+[16:14:48] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-01-09 11:14:48.468272-05:00
+[16:14:48] Successful get url: https://www.bing.com/th?id=OHR.NamibiaDunes_FR-CA6566666687_UHD.jpg
+[16:14:48] Picture infomations saved to  global/fr-CA/README.md
+[16:14:48] Picture infomations saved to global/fr-CA/history/2025/01/10_fr-CA.md
+Program exit at 16:14:48

@@ -6,9 +6,9 @@
 ||*Copyright: The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)*
 ||
 |||
-|2025-01-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NamibiaDunes_JA-JP9057669220_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NamibiaDunes_JA-JP9057669220_UHD.jpg)|
-||*Copyright: ナミブ砂漠, ナミビア (© Airpano/Amazing Aerial Agency)*
+|2025-01-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BubbleLake_JA-JP3345547738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BubbleLake_JA-JP3345547738_UHD.jpg)|
+||*Copyright: アブラハム湖, カナダ アルバータ州 (© Basic Elements Photography/Getty Images)*
 ||
 |||
 |2025-01-09|**Region: en-IN**||
