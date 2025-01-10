@@ -6,9 +6,9 @@
 ||*Copyright: Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)*
 ||
 |||
-|2025-01-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BubbleLake_JA-JP3345547738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BubbleLake_JA-JP3345547738_UHD.jpg)|
-||*Copyright: アブラハム湖, カナダ アルバータ州 (© Basic Elements Photography/Getty Images)*
+|2025-01-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MeknesMorocco_JA-JP3587132795_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MeknesMorocco_JA-JP3587132795_UHD.jpg)|
+||*Copyright: 古都メクネス, モロッコ (© Calin Stan/Shutterstock)*
 ||
 |||
 |2025-01-10|**Region: en-IN**||
