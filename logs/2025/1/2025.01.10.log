@@ -1,0 +1,60 @@
+
+Program started at 09:27:44
+Operating System Name: Linux
+Operating System Version: #20-Ubuntu SMP Tue Oct 22 03:43:13 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1055-782
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[09:27:44] Start geting CN Bing Wallpaper
+[09:27:44] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg
+[09:27:44] Image saved to img/background.jpg
+[09:27:44] Info saved to README.md
+[09:27:44] Image saved to history/2025/01/10.md
+[09:27:44] Start geting global Bing Wallpaper, region=en-US, local time is 2025-01-10 04:27:44.599170-05:00
+[09:27:44] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg
+[09:27:44] Picture infomations saved to  global/en-US/README.md
+[09:27:44] Picture infomations saved to global/en-US/history/2025/01/11_en-US.md
+[09:27:44] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-01-10 18:27:44.895516+09:00
+[09:27:44] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_JA-JP3345547738_UHD.jpg
+[09:27:45] Picture infomations saved to  global/ja-JP/README.md
+[09:27:45] Picture infomations saved to global/ja-JP/history/2025/01/10_ja-JP.md
+[09:27:45] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-01-10 14:57:45.171152+05:30
+[09:27:45] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_EN-IN4983583688_UHD.jpg
+[09:27:45] Picture infomations saved to  global/en-IN/README.md
+[09:27:45] Picture infomations saved to global/en-IN/history/2025/01/10_en-IN.md
+[09:27:45] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-01-10 06:27:45.434359-03:00
+[09:27:45] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_PT-BR9346398938_UHD.jpg
+[09:27:45] Picture infomations saved to  global/pt-BR/README.md
+[09:27:45] Picture infomations saved to global/pt-BR/history/2025/01/11_pt-BR.md
+[09:27:45] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-01-10 10:27:45.695145+01:00
+[09:27:45] Successful get url: https://www.bing.com/th?id=OHR.DayTintin_FR-FR9740389196_UHD.jpg
+[09:27:45] Picture infomations saved to  global/fr-FR/README.md
+[09:27:45] Picture infomations saved to global/fr-FR/history/2025/01/10_fr-FR.md
+[09:27:45] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-01-10 10:27:45.975458+01:00
+[09:27:46] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_DE-DE3603764208_UHD.jpg
+[09:27:46] Picture infomations saved to  global/de-DE/README.md
+[09:27:46] Picture infomations saved to global/de-DE/history/2025/01/10_de-DE.md
+[09:27:46] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-01-10 04:27:46.232663-05:00
+[09:27:46] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_EN-CA0662387726_UHD.jpg
+[09:27:46] Picture infomations saved to  global/en-CA/README.md
+[09:27:46] Picture infomations saved to global/en-CA/history/2025/01/11_en-CA.md
+[09:27:46] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-01-10 09:27:46.495879+00:00
+[09:27:46] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_EN-GB9269932898_UHD.jpg
+[09:27:46] Picture infomations saved to  global/en-GB/README.md
+[09:27:46] Picture infomations saved to global/en-GB/history/2025/01/11_en-GB.md
+[09:27:46] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-01-10 10:27:46.750136+01:00
+[09:27:46] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_IT-IT6583176586_UHD.jpg
+[09:27:47] Picture infomations saved to  global/it-IT/README.md
+[09:27:47] Picture infomations saved to global/it-IT/history/2025/01/10_it-IT.md
+[09:27:47] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-01-10 10:27:47.008141+01:00
+[09:27:47] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_ES-ES9230701084_UHD.jpg
+[09:27:47] Picture infomations saved to  global/es-ES/README.md
+[09:27:47] Picture infomations saved to global/es-ES/history/2025/01/10_es-ES.md
+[09:27:47] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-01-10 04:27:47.271688-05:00
+[09:27:47] Successful get url: https://www.bing.com/th?id=OHR.BubbleLake_FR-CA9239282306_UHD.jpg
+[09:27:47] Picture infomations saved to  global/fr-CA/README.md
+[09:27:47] Picture infomations saved to global/fr-CA/history/2025/01/11_fr-CA.md
+Program exit at 09:27:47
