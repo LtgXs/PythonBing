@@ -6,9 +6,9 @@
 ||*Copyright: Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)*
 ||
 |||
-|2025-01-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MeknesMorocco_JA-JP3587132795_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MeknesMorocco_JA-JP3587132795_UHD.jpg)|
-||*Copyright: 古都メクネス, モロッコ (© Calin Stan/Shutterstock)*
+|2025-01-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CadizSpain_JA-JP3855173491_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadizSpain_JA-JP3855173491_UHD.jpg)|
+||*Copyright: サアラ・デ・ラ・シエラ,  スペイン (© SEN LI/Getty Images)*
 ||
 |||
 |2025-01-11|**Region: en-IN**||
