@@ -6,9 +6,9 @@
 ||*Copyright: Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)*
 ||
 |||
-|2025-01-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CadizSpain_JA-JP3855173491_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadizSpain_JA-JP3855173491_UHD.jpg)|
-||*Copyright: サアラ・デ・ラ・シエラ,  スペイン (© SEN LI/Getty Images)*
+|2025-01-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CoastalWales_JA-JP4408975920_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoastalWales_JA-JP4408975920_UHD.jpg)|
+||*Copyright: イニス・ランドウィン, ウェールズ (© Westend61 on Offset/Shutterstock)*
 ||
 |||
 |2025-01-12|**Region: en-IN**||
