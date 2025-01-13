@@ -6,9 +6,9 @@
 ||*Copyright: Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)*
 ||
 |||
-|2025-01-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CoastalWales_JA-JP4408975920_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoastalWales_JA-JP4408975920_UHD.jpg)|
-||*Copyright: イニス・ランドウィン, ウェールズ (© Westend61 on Offset/Shutterstock)*
+|2025-01-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MuseumCourt_JA-JP4665250059_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumCourt_JA-JP4665250059_UHD.jpg)|
+||*Copyright: 大英博物館, イギリス (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
 |2025-01-13|**Region: en-IN**||
