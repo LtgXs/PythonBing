@@ -6,9 +6,9 @@
 ||*Copyright: Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain (© SEN LI/Getty Images)*
 ||
 |||
-|2025-01-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MuseumCourt_JA-JP4665250059_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumCourt_JA-JP4665250059_UHD.jpg)|
-||*Copyright: 大英博物館, イギリス (© Cavan Images/Offset/Shutterstock)*
+|2025-01-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Mochibana2025_JA-JP8291657654_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Mochibana2025_JA-JP8291657654_UHD.jpg)|
+||*Copyright: カラフルな餅花, 愛知県 豊田市 (© Photo taken by Bong Grit/Getty Images)*
 ||
 |||
 |2025-01-14|**Region: en-IN**||
