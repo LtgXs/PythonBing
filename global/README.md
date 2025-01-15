@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-01-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CadizSpain_EN-US9699586606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadizSpain_EN-US9699586606_UHD.jpg)|
-||*Copyright: Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain (© SEN LI/Getty Images)*
+|2025-01-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg)|
+||*Copyright: The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
 |2025-01-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: カラフルな餅花, 愛知県 豊田市 (© Photo taken by Bong Grit/Getty Images)*
 ||
 |||
-|2025-01-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SkyKites_EN-IN7504370489_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkyKites_EN-IN7504370489_UHD.jpg)|
-||*Copyright: Sky full of kites (© anand purohit/Getty Images)*
+|2025-01-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.DeerBuck_EN-IN3553465734_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerBuck_EN-IN3553465734_UHD.jpg)|
+||*Copyright: Chital, Bandhavgarh National Park, Madhya Pradesh (© James Warwick/Getty Images)*
 ||
 |||
-|2025-01-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CadizSpain_PT-BR3104311078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadizSpain_PT-BR3104311078_UHD.jpg)|
-||*Copyright: Vila de Zahara de la Sierra, Cádiz, Espanha (© SEN LI/Getty Images)*
+|2025-01-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TrancosoPraia_PT-BR2050297915_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrancosoPraia_PT-BR2050297915_UHD.jpg)|
+||*Copyright: Praia dos Nativos vista de Quadrado, Trancoso, Porto Seguro, Bahia (© Samuel Ericksen/Shutterstock)*
 ||
 |||
-|2025-01-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CadizSpain_FR-FR2616000691_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadizSpain_FR-FR2616000691_UHD.jpg)|
-||*Copyright: Zahara de la Sierra, Cadix, Espagne (© SEN LI/Getty Images)*
+|2025-01-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MuseumCourt_FR-FR4239916080_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumCourt_FR-FR4239916080_UHD.jpg)|
+||*Copyright: Grande Cour Élisabeth II, British Museum, Londres, Angleterre (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2025-01-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CadizSpain_DE-DE6446198457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadizSpain_DE-DE6446198457_UHD.jpg)|
-||*Copyright: Zahara de la Sierra, Cádiz, Spanien (© SEN LI/Getty Images)*
+|2025-01-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MuseumCourt_DE-DE6557412428_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumCourt_DE-DE6557412428_UHD.jpg)|
+||*Copyright: Der Große Hof des British Museum, London, England (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2025-01-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CadizSpain_EN-CA1050667038_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadizSpain_EN-CA1050667038_UHD.jpg)|
-||*Copyright: Zahara de la Sierra, Cadiz, Spain (© SEN LI/Getty Images)*
+|2025-01-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.FrozenLakeSuperior_EN-CA6245571097_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrozenLakeSuperior_EN-CA6245571097_UHD.jpg)|
+||*Copyright: Lake Superior during winters, Thunder Bay, Ontario (© Susan Dykstra/plainpicture)*
 ||
 |||
-|2025-01-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CadizSpain_EN-GB7941823974_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadizSpain_EN-GB7941823974_UHD.jpg)|
-||*Copyright: Zahara de la Sierra, Cadiz, Spain (© SEN LI/Getty Images)*
+|2025-01-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MuseumCourt_EN-GB7712861262_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumCourt_EN-GB7712861262_UHD.jpg)|
+||*Copyright: The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2025-01-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.NeptunesGrotto_IT-IT6948130051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeptunesGrotto_IT-IT6948130051_UHD.jpg)|
-||*Copyright: Grotta di Nettuno, Alghero, Sassari, Sardegna (© Carlo Murenu/Getty Images)*
+|2025-01-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MuseumCourt_IT-IT0217909528_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumCourt_IT-IT0217909528_UHD.jpg)|
+||*Copyright: La Grande Corte del British Museum, Londra, Inghilterra (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2025-01-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CadizSpain_ES-ES9539607355_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadizSpain_ES-ES9539607355_UHD.jpg)|
-||*Copyright: Zahara de la Sierra, Cádiz, España (© SEN LI/Getty Images)*
+|2025-01-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MuseumCourt_ES-ES2025282183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumCourt_ES-ES2025282183_UHD.jpg)|
+||*Copyright: El gran patio del Museo Británico, Londres, Inglaterra (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2025-01-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CadizSpain_FR-CA2371424829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadizSpain_FR-CA2371424829_UHD.jpg)|
-||*Copyright: Zahara de la Sierra, Cadix, Espagne (© SEN LI/Getty Images)*
+|2025-01-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.FrozenLakeSuperior_FR-CA1047293623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrozenLakeSuperior_FR-CA1047293623_UHD.jpg)|
+||*Copyright: Lac Supérieur en hiver, Thunder Bay, Ontario (© Susan Dykstra/plainpicture)*
 ||
 |||
 

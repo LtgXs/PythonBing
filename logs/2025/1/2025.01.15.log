@@ -1,0 +1,60 @@
+
+Program started at 09:26:47
+Operating System Name: Linux
+Operating System Version: #20-Ubuntu SMP Tue Oct 22 03:43:13 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az797-706
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[09:26:47] Start geting CN Bing Wallpaper
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_UHD.jpg
+[09:26:48] Image saved to img/background.jpg
+[09:26:48] Info saved to README.md
+[09:26:48] Image saved to history/2025/01/15.md
+[09:26:48] Start geting global Bing Wallpaper, region=en-US, local time is 2025-01-15 04:26:48.125738-05:00
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg
+[09:26:48] Picture infomations saved to  global/en-US/README.md
+[09:26:48] Picture infomations saved to global/en-US/history/2025/01/16_en-US.md
+[09:26:48] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-01-15 18:26:48.243580+09:00
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.Mochibana2025_JA-JP8291657654_UHD.jpg
+[09:26:48] Picture infomations saved to  global/ja-JP/README.md
+[09:26:48] Picture infomations saved to global/ja-JP/history/2025/01/15_ja-JP.md
+[09:26:48] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-01-15 14:56:48.367963+05:30
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.DeerBuck_EN-IN3553465734_UHD.jpg
+[09:26:48] Picture infomations saved to  global/en-IN/README.md
+[09:26:48] Picture infomations saved to global/en-IN/history/2025/01/15_en-IN.md
+[09:26:48] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-01-15 06:26:48.501950-03:00
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.TrancosoPraia_PT-BR2050297915_UHD.jpg
+[09:26:48] Picture infomations saved to  global/pt-BR/README.md
+[09:26:48] Picture infomations saved to global/pt-BR/history/2025/01/16_pt-BR.md
+[09:26:48] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-01-15 10:26:48.624778+01:00
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.MuseumCourt_FR-FR4239916080_UHD.jpg
+[09:26:48] Picture infomations saved to  global/fr-FR/README.md
+[09:26:48] Picture infomations saved to global/fr-FR/history/2025/01/15_fr-FR.md
+[09:26:48] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-01-15 10:26:48.725321+01:00
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.MuseumCourt_DE-DE6557412428_UHD.jpg
+[09:26:48] Picture infomations saved to  global/de-DE/README.md
+[09:26:48] Picture infomations saved to global/de-DE/history/2025/01/15_de-DE.md
+[09:26:48] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-01-15 04:26:48.847459-05:00
+[09:26:48] Successful get url: https://www.bing.com/th?id=OHR.FrozenLakeSuperior_EN-CA6245571097_UHD.jpg
+[09:26:48] Picture infomations saved to  global/en-CA/README.md
+[09:26:48] Picture infomations saved to global/en-CA/history/2025/01/16_en-CA.md
+[09:26:48] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-01-15 09:26:48.962482+00:00
+[09:26:49] Successful get url: https://www.bing.com/th?id=OHR.MuseumCourt_EN-GB7712861262_UHD.jpg
+[09:26:49] Picture infomations saved to  global/en-GB/README.md
+[09:26:49] Picture infomations saved to global/en-GB/history/2025/01/16_en-GB.md
+[09:26:49] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-01-15 10:26:49.060641+01:00
+[09:26:49] Successful get url: https://www.bing.com/th?id=OHR.MuseumCourt_IT-IT0217909528_UHD.jpg
+[09:26:49] Picture infomations saved to  global/it-IT/README.md
+[09:26:49] Picture infomations saved to global/it-IT/history/2025/01/15_it-IT.md
+[09:26:49] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-01-15 10:26:49.369892+01:00
+[09:26:49] Successful get url: https://www.bing.com/th?id=OHR.MuseumCourt_ES-ES2025282183_UHD.jpg
+[09:26:49] Picture infomations saved to  global/es-ES/README.md
+[09:26:49] Picture infomations saved to global/es-ES/history/2025/01/15_es-ES.md
+[09:26:49] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-01-15 04:26:49.472773-05:00
+[09:26:49] Successful get url: https://www.bing.com/th?id=OHR.FrozenLakeSuperior_FR-CA1047293623_UHD.jpg
+[09:26:49] Picture infomations saved to  global/fr-CA/README.md
+[09:26:49] Picture infomations saved to global/fr-CA/history/2025/01/16_fr-CA.md
+Program exit at 09:26:49
