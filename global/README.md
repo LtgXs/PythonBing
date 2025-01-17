@@ -6,9 +6,9 @@
 ||*Copyright: Brown pelican, San Diego, California (© Arthur Morris/BIRDS AS ART/Getty Images)*
 ||
 |||
-|2025-01-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AssiniboineTS_JA-JP8766031351_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AssiniboineTS_JA-JP8766031351_UHD.jpg)|
-||*Copyright: マウント・アシニボイン州立公園, カナダ ブリティッシュコロンビア州 (© Jeff Lewis/TANDEM Stills + Motion)*
+|2025-01-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WhiteSandsNP_JA-JP9246270172_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNP_JA-JP9246270172_UHD.jpg)|
+||*Copyright: ホワイトサンズ国立公園, 米国 ニューメキシコ州  (© Image Professionals GmbH/Alamy)*
 ||
 |||
 |2025-01-17|**Region: en-IN**||
