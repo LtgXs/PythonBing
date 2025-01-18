@@ -6,9 +6,9 @@
 ||*Copyright: Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)*
 ||
 |||
-|2025-01-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNP_JA-JP9246270172_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNP_JA-JP9246270172_UHD.jpg)|
-||*Copyright: ホワイトサンズ国立公園, 米国 ニューメキシコ州  (© Image Professionals GmbH/Alamy)*
+|2025-01-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NeptunesGrotto_JA-JP9457027054_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeptunesGrotto_JA-JP9457027054_UHD.jpg)|
+||*Copyright: ネプチューンの洞窟, イタリア (© Carlo Murenu/Getty Images)*
 ||
 |||
 |2025-01-18|**Region: en-IN**||
