@@ -6,9 +6,9 @@
 ||*Copyright: Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)*
 ||
 |||
-|2025-01-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NeptunesGrotto_JA-JP9457027054_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeptunesGrotto_JA-JP9457027054_UHD.jpg)|
-||*Copyright: ネプチューンの洞窟, イタリア (© Carlo Murenu/Getty Images)*
+|2025-01-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Daikan2025_JA-JP9667984098_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Daikan2025_JA-JP9667984098_UHD.jpg)|
+||*Copyright: コタンの湯, 北海道 川上郡 (© NitiChuysakul Photography/Getty Images)*
 ||
 |||
 |2025-01-19|**Region: en-IN**||
