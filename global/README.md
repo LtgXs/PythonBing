@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-01-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg)|
-||*Copyright: Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)*
+|2025-01-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg)|
+||*Copyright: Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)*
 ||
 |||
 |2025-01-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ネプチューンの洞窟, イタリア (© Carlo Murenu/Getty Images)*
 ||
 |||
-|2025-01-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNP_EN-IN4617317381_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNP_EN-IN4617317381_UHD.jpg)|
-||*Copyright: Sunset at White Sands National Park, New Mexico, USA (© Image Professionals GmbH/Alamy Stock Photo)*
+|2025-01-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.NeptunesGrotto_EN-IN4839715567_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeptunesGrotto_EN-IN4839715567_UHD.jpg)|
+||*Copyright: Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)*
 ||
 |||
-|2025-01-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNP_PT-BR5756772005_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNP_PT-BR5756772005_UHD.jpg)|
-||*Copyright: Pôr do sol no Parque Nacional de White Sands, Novo México, EUA (© Image Professionals GmbH/Alamy)*
+|2025-01-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.NeptunesGrotto_PT-BR9754491184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeptunesGrotto_PT-BR9754491184_UHD.jpg)|
+||*Copyright: Gruta de Netuno, Sardenha, Itália (© Carlo Murenu/Getty Images)*
 ||
 |||
-|2025-01-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNP_FR-FR0107552593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNP_FR-FR0107552593_UHD.jpg)|
-||*Copyright: Coucher de soleil, parc national de White Sands, Nouveau Mexique, États-Unis (© Image Professionals GmbH/Alamy)*
+|2025-01-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.NeptunesGrotto_FR-FR0309930376_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeptunesGrotto_FR-FR0309930376_UHD.jpg)|
+||*Copyright: Grotte de Neptune, Sardaigne, Italie (© Carlo Murenu/Getty Images)*
 ||
 |||
-|2025-01-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNP_DE-DE3540462962_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNP_DE-DE3540462962_UHD.jpg)|
-||*Copyright: Sonnenuntergang im White-Sands-Nationalpark, New Mexico, USA (© Image Professionals GmbH/Alamy Stock Photo)*
+|2025-01-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.NeptunesGrotto_DE-DE3937457490_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeptunesGrotto_DE-DE3937457490_UHD.jpg)|
+||*Copyright: Grotta di Nettuno, Alghero, Sardinien, Italien (© Carlo Murenu/Getty Images)*
 ||
 |||
-|2025-01-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNP_EN-CA4298808631_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNP_EN-CA4298808631_UHD.jpg)|
-||*Copyright: Sunset at White Sands National Park, New Mexico, USA (© Image Professionals GmbH/Alamy Stock Photo)*
+|2025-01-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.NeptunesGrotto_EN-CA9827251114_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeptunesGrotto_EN-CA9827251114_UHD.jpg)|
+||*Copyright: Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)*
 ||
 |||
-|2025-01-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PoohDay2025_EN-GB6799275517_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PoohDay2025_EN-GB6799275517_UHD.jpg)|
-||*Copyright: Ashdown Forest, East Sussex, England (© Mark Holme photo/Alamy Stock Photo)*
+|2025-01-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.NeptunesGrotto_EN-GB6545750765_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeptunesGrotto_EN-GB6545750765_UHD.jpg)|
+||*Copyright: Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)*
 ||
 |||
-|2025-01-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNP_IT-IT7416154003_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNP_IT-IT7416154003_UHD.jpg)|
-||*Copyright: Tramonto al Parco Nazionale White Sands, Nuovo Messico, USA (© Image Professionals GmbH/Alamy Stock Photo)*
+|2025-01-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CortinaAmpezzo_IT-IT8151089763_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CortinaAmpezzo_IT-IT8151089763_UHD.jpg)|
+||*Copyright: Agordino, Colle Santa Lucia, Belluno, Veneto (© Moreno Geremetta/Mauritius Images GmbH/Alamy Stock Photo)*
 ||
 |||
-|2025-01-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNP_ES-ES5591219937_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNP_ES-ES5591219937_UHD.jpg)|
-||*Copyright: Puesta de sol en el Parque Nacional White Sands, Nuevo México, EE. UU. (© Image Professionals GmbH/Alamy)*
+|2025-01-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.NeptunesGrotto_ES-ES8086917702_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeptunesGrotto_ES-ES8086917702_UHD.jpg)|
+||*Copyright: Gruta de Neptuno, Cerdeña, Italia (© Carlo Murenu/Getty Images)*
 ||
 |||
-|2025-01-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNP_FR-CA3487939453_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNP_FR-CA3487939453_UHD.jpg)|
-||*Copyright: Coucher de soleil, parc national de White Sands, Nouveau Mexique, États-Unis (© Image Professionals GmbH/Alamy)*
+|2025-01-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.NeptunesGrotto_FR-CA3779857016_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeptunesGrotto_FR-CA3779857016_UHD.jpg)|
+||*Copyright: Grotte de Neptune, Sardaigne, Italie (© Carlo Murenu/Getty Images)*
 ||
 |||
 
