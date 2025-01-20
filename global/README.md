@@ -6,9 +6,9 @@
 ||*Copyright: Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)*
 ||
 |||
-|2025-01-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Daikan2025_JA-JP9667984098_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Daikan2025_JA-JP9667984098_UHD.jpg)|
-||*Copyright: コタンの湯, 北海道 川上郡 (© NitiChuysakul Photography/Getty Images)*
+|2025-01-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DutchSquirrel_JA-JP6210839377_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DutchSquirrel_JA-JP6210839377_UHD.jpg)|
+||*Copyright: キタリスとキノコ, オランダ (© Edwin Giesbers/Minden Pictures)*
 ||
 |||
 |2025-01-20|**Region: en-IN**||
