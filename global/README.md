@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-01-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.KingMemorial_EN-US1319830882_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingMemorial_EN-US1319830882_UHD.jpg)|
-||*Copyright: Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)*
+|2025-01-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg)|
+||*Copyright: Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)*
 ||
 |||
 |2025-01-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: キタリスとキノコ, オランダ (© Edwin Giesbers/Minden Pictures)*
 ||
 |||
-|2025-01-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CadizSpain_EN-IN5354642054_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadizSpain_EN-IN5354642054_UHD.jpg)|
-||*Copyright: Zahara de la Sierra, Cadiz, Spain (© SEN LI/Getty Images)*
+|2025-01-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.DutchSquirrel_EN-IN5567594638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DutchSquirrel_EN-IN5567594638_UHD.jpg)|
+||*Copyright: Eurasian red squirrel with toadstool (© Edwin Giesbers/Minden Pictures)*
 ||
 |||
-|2025-01-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.NapoliPizza_PT-BR8534903906_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NapoliPizza_PT-BR8534903906_UHD.jpg)|
-||*Copyright: Vista do Golfo de Nápoles rumo ao Monte Vesúvio, Itália (© ezypix/Getty Images)*
+|2025-01-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DutchSquirrel_PT-BR7430673566_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DutchSquirrel_PT-BR7430673566_UHD.jpg)|
+||*Copyright: Esquilo-vermelho-eurasiático com cogumelo (© Edwin Giesbers/Minden Pictures)*
 ||
 |||
-|2025-01-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BubbleLake_FR-FR0545944347_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BubbleLake_FR-FR0545944347_UHD.jpg)|
-||*Copyright: Lac Abraham, Alberta, Canada (© Basic Elements Photography/Getty Images)*
+|2025-01-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ColourfulBlueMonday_FR-FR0873171314_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColourfulBlueMonday_FR-FR0873171314_UHD.jpg)|
+||*Copyright: Cabanes aux toits colorés recouvertes de neige à Gouville-sur-Mer, Normandie (© Andia/Getty Images)*
 ||
 |||
-|2025-01-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PelicanPortrait_DE-DE4317425167_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PelicanPortrait_DE-DE4317425167_UHD.jpg)|
-||*Copyright: Braunpelikan, San Diego, Kalifornien, USA (© Arthur Morris/BIRDS AS ART/Getty Images)*
+|2025-01-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.DutchSquirrel_DE-DE9795930868_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DutchSquirrel_DE-DE9795930868_UHD.jpg)|
+||*Copyright: Eurasisches Eichhörnchen mit Fliegenpilz (© Edwin Giesbers/Minden Pictures)*
 ||
 |||
-|2025-01-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PelicanPortrait_EN-CA2220060113_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PelicanPortrait_EN-CA2220060113_UHD.jpg)|
-||*Copyright: Brown pelican, San Diego, California, USA (© Arthur Morris/BIRDS AS ART/Getty Images)*
+|2025-01-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.DutchSquirrel_EN-CA8161264304_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DutchSquirrel_EN-CA8161264304_UHD.jpg)|
+||*Copyright: Eurasian red squirrel with toadstool (© Edwin Giesbers/Minden Pictures)*
 ||
 |||
-|2025-01-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNP_EN-GB6124824986_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNP_EN-GB6124824986_UHD.jpg)|
-||*Copyright: White Sands National Park, New Mexico, USA (© Image Professionals GmbH/Alamy Stock Photo)*
+|2025-01-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.DutchSquirrel_EN-GB5824691080_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DutchSquirrel_EN-GB5824691080_UHD.jpg)|
+||*Copyright: Eurasian red squirrel with toadstool (© Edwin Giesbers/Minden Pictures)*
 ||
 |||
-|2025-01-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CadizSpain_IT-IT4747642623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CadizSpain_IT-IT4747642623_UHD.jpg)|
-||*Copyright: Zahara de la Sierra, Cadice, Spagna (© SEN LI/Getty Images)*
+|2025-01-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DutchSquirrel_IT-IT0079565716_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DutchSquirrel_IT-IT0079565716_UHD.jpg)|
+||*Copyright: Scoiattolo rosso (© Edwin Giesbers/Minden Pictures)*
 ||
 |||
-|2025-01-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LasCarantonas_ES-ES8729775352_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasCarantonas_ES-ES8729775352_UHD.jpg)|
-||*Copyright: Real Monasterio de Santa María de Guadalupe, Cáceres, Extremadura, España (© Rudolf Ernst/iStock/Getty Images)*
+|2025-01-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.DutchSquirrel_ES-ES3993162395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DutchSquirrel_ES-ES3993162395_UHD.jpg)|
+||*Copyright: Ardilla roja euroasiática junto a una seta, Países Bajos (© Edwin Giesbers/Minden Pictures)*
 ||
 |||
-|2025-01-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MuseumCourt_FR-CA4038187736_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumCourt_FR-CA4038187736_UHD.jpg)|
-||*Copyright: Grande Cour Élisabeth II, British Museum, Londres, Angleterre (© Cavan Images/Offset/Shutterstock)*
+|2025-01-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.DutchSquirrel_FR-CA4252766314_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DutchSquirrel_FR-CA4252766314_UHD.jpg)|
+||*Copyright: Écureuil roux avec un champignon (© Edwin Giesbers/Minden Pictures)*
 ||
 |||
 
