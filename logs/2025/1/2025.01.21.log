@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:31] Picture infomations saved to  global/fr-CA/README.md
 [09:27:31] Picture infomations saved to global/fr-CA/history/2025/01/22_fr-CA.md
 Program exit at 09:27:31
+
+Program started at 16:14:09
+Operating System Name: Linux
+Operating System Version: #20-Ubuntu SMP Tue Oct 22 03:43:13 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1950-914
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[16:14:09] Start geting CN Bing Wallpaper
+[16:14:09] Successful get url: https://www.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg
+[16:14:09] Image saved to img/background.jpg
+[16:14:09] Info saved to README.md
+[16:14:09] Image saved to history/2025/01/22.md
+[16:14:09] Start geting global Bing Wallpaper, region=en-US, local time is 2025-01-21 11:14:09.779444-05:00
+[16:14:09] Successful get url: https://www.bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg
+[16:14:09] Picture infomations saved to  global/en-US/README.md
+[16:14:09] Picture infomations saved to global/en-US/history/2025/01/22_en-US.md
+[16:14:09] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-01-22 01:14:09.960360+09:00
+[16:14:10] Successful get url: https://www.bing.com/th?id=OHR.PetraMonastery_JA-JP0333984762_UHD.jpg
+[16:14:10] Picture infomations saved to  global/ja-JP/README.md
+[16:14:10] Picture infomations saved to global/ja-JP/history/2025/01/22_ja-JP.md
+[16:14:10] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-01-21 21:44:10.139910+05:30
+[16:14:10] Successful get url: https://www.bing.com/th?id=OHR.DutchSquirrel_EN-IN5567594638_UHD.jpg
+[16:14:10] Picture infomations saved to  global/en-IN/README.md
+[16:14:10] Picture infomations saved to global/en-IN/history/2025/01/21_en-IN.md
+[16:14:10] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-01-21 13:14:10.300395-03:00
+[16:14:10] Successful get url: https://www.bing.com/th?id=OHR.DutchSquirrel_PT-BR7430673566_UHD.jpg
+[16:14:10] Picture infomations saved to  global/pt-BR/README.md
+[16:14:10] Picture infomations saved to global/pt-BR/history/2025/01/22_pt-BR.md
+[16:14:10] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-01-21 17:14:10.475640+01:00
+[16:14:10] Successful get url: https://www.bing.com/th?id=OHR.ColourfulBlueMonday_FR-FR0873171314_UHD.jpg
+[16:14:10] Picture infomations saved to  global/fr-FR/README.md
+[16:14:10] Picture infomations saved to global/fr-FR/history/2025/01/21_fr-FR.md
+[16:14:10] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-01-21 17:14:10.634869+01:00
+[16:14:10] Successful get url: https://www.bing.com/th?id=OHR.DutchSquirrel_DE-DE9795930868_UHD.jpg
+[16:14:10] Picture infomations saved to  global/de-DE/README.md
+[16:14:10] Picture infomations saved to global/de-DE/history/2025/01/21_de-DE.md
+[16:14:10] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-01-21 11:14:10.780869-05:00
+[16:14:10] Successful get url: https://www.bing.com/th?id=OHR.DutchSquirrel_EN-CA8161264304_UHD.jpg
+[16:14:10] Picture infomations saved to  global/en-CA/README.md
+[16:14:10] Picture infomations saved to global/en-CA/history/2025/01/22_en-CA.md
+[16:14:10] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-01-21 16:14:10.972241+00:00
+[16:14:11] Successful get url: https://www.bing.com/th?id=OHR.DutchSquirrel_EN-GB5824691080_UHD.jpg
+[16:14:11] Picture infomations saved to  global/en-GB/README.md
+[16:14:11] Picture infomations saved to global/en-GB/history/2025/01/22_en-GB.md
+[16:14:11] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-01-21 17:14:11.136086+01:00
+[16:14:11] Successful get url: https://www.bing.com/th?id=OHR.DutchSquirrel_IT-IT0079565716_UHD.jpg
+[16:14:11] Picture infomations saved to  global/it-IT/README.md
+[16:14:11] Picture infomations saved to global/it-IT/history/2025/01/21_it-IT.md
+[16:14:11] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-01-21 17:14:11.327072+01:00
+[16:14:11] Successful get url: https://www.bing.com/th?id=OHR.DutchSquirrel_ES-ES3993162395_UHD.jpg
+[16:14:11] Picture infomations saved to  global/es-ES/README.md
+[16:14:11] Picture infomations saved to global/es-ES/history/2025/01/21_es-ES.md
+[16:14:11] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-01-21 11:14:11.496556-05:00
+[16:14:11] Successful get url: https://www.bing.com/th?id=OHR.DutchSquirrel_FR-CA4252766314_UHD.jpg
+[16:14:11] Picture infomations saved to  global/fr-CA/README.md
+[16:14:11] Picture infomations saved to global/fr-CA/history/2025/01/22_fr-CA.md
+Program exit at 16:14:11

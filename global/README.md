@@ -6,9 +6,9 @@
 ||*Copyright: Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)*
 ||
 |||
-|2025-01-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DutchSquirrel_JA-JP6210839377_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DutchSquirrel_JA-JP6210839377_UHD.jpg)|
-||*Copyright: キタリスとキノコ, オランダ (© Edwin Giesbers/Minden Pictures)*
+|2025-01-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PetraMonastery_JA-JP0333984762_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PetraMonastery_JA-JP0333984762_UHD.jpg)|
+||*Copyright: ペトラ, ヨルダン (© Punnawit Suwuttananun/Getty Images)*
 ||
 |||
 |2025-01-21|**Region: en-IN**||
