@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:31] Picture infomations saved to  global/fr-CA/README.md
 [09:27:31] Picture infomations saved to global/fr-CA/history/2025/01/23_fr-CA.md
 Program exit at 09:27:31
+
+Program started at 16:14:41
+Operating System Name: Linux
+Operating System Version: #20-Ubuntu SMP Tue Oct 22 03:43:13 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1118-779
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[16:14:41] Start geting CN Bing Wallpaper
+[16:14:41] Successful get url: https://www.bing.com/th?id=OHR.DeerValley_ZH-CN6029262704_UHD.jpg
+[16:14:41] Image saved to img/background.jpg
+[16:14:41] Info saved to README.md
+[16:14:41] Image saved to history/2025/01/23.md
+[16:14:41] Start geting global Bing Wallpaper, region=en-US, local time is 2025-01-22 11:14:41.253791-05:00
+[16:14:41] Successful get url: https://www.bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg
+[16:14:41] Picture infomations saved to  global/en-US/README.md
+[16:14:41] Picture infomations saved to global/en-US/history/2025/01/23_en-US.md
+[16:14:41] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-01-23 01:14:41.427640+09:00
+[16:14:41] Successful get url: https://www.bing.com/th?id=OHR.DeerValley_JA-JP0604255662_UHD.jpg
+[16:14:41] Picture infomations saved to  global/ja-JP/README.md
+[16:14:41] Picture infomations saved to global/ja-JP/history/2025/01/23_ja-JP.md
+[16:14:41] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-01-22 21:44:41.586664+05:30
+[16:14:41] Successful get url: https://www.bing.com/th?id=OHR.PetraMonastery_EN-IN5783567233_UHD.jpg
+[16:14:41] Picture infomations saved to  global/en-IN/README.md
+[16:14:41] Picture infomations saved to global/en-IN/history/2025/01/22_en-IN.md
+[16:14:41] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-01-22 13:14:41.742388-03:00
+[16:14:41] Successful get url: https://www.bing.com/th?id=OHR.PetraMonastery_PT-BR6925888778_UHD.jpg
+[16:14:41] Picture infomations saved to  global/pt-BR/README.md
+[16:14:41] Picture infomations saved to global/pt-BR/history/2025/01/23_pt-BR.md
+[16:14:41] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-01-22 17:14:41.888206+01:00
+[16:14:41] Successful get url: https://www.bing.com/th?id=OHR.PetraMonastery_FR-FR1072501086_UHD.jpg
+[16:14:42] Picture infomations saved to  global/fr-FR/README.md
+[16:14:42] Picture infomations saved to global/fr-FR/history/2025/01/22_fr-FR.md
+[16:14:42] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-01-22 17:14:42.052517+01:00
+[16:14:42] Successful get url: https://www.bing.com/th?id=OHR.PetraMonastery_DE-DE5253716041_UHD.jpg
+[16:14:42] Picture infomations saved to  global/de-DE/README.md
+[16:14:42] Picture infomations saved to global/de-DE/history/2025/01/22_de-DE.md
+[16:14:42] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-01-22 11:14:42.384986-05:00
+[16:14:42] Successful get url: https://www.bing.com/th?id=OHR.PetraMonastery_EN-CA7784198857_UHD.jpg
+[16:14:42] Picture infomations saved to  global/en-CA/README.md
+[16:14:42] Picture infomations saved to global/en-CA/history/2025/01/23_en-CA.md
+[16:14:42] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-01-22 16:14:42.552912+00:00
+[16:14:42] Successful get url: https://www.bing.com/th?id=OHR.PetraMonastery_EN-GB4623557481_UHD.jpg
+[16:14:42] Picture infomations saved to  global/en-GB/README.md
+[16:14:42] Picture infomations saved to global/en-GB/history/2025/01/23_en-GB.md
+[16:14:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-01-22 17:14:42.707363+01:00
+[16:14:42] Successful get url: https://www.bing.com/th?id=OHR.PetraMonastery_IT-IT8921152499_UHD.jpg
+[16:14:42] Picture infomations saved to  global/it-IT/README.md
+[16:14:42] Picture infomations saved to global/it-IT/history/2025/01/22_it-IT.md
+[16:14:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-01-22 17:14:42.866689+01:00
+[16:14:42] Successful get url: https://www.bing.com/th?id=OHR.PetraMonastery_ES-ES6740525723_UHD.jpg
+[16:14:43] Picture infomations saved to  global/es-ES/README.md
+[16:14:43] Picture infomations saved to global/es-ES/history/2025/01/22_es-ES.md
+[16:14:43] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-01-22 11:14:43.015913-05:00
+[16:14:43] Successful get url: https://www.bing.com/th?id=OHR.PetraMonastery_FR-CA4480470167_UHD.jpg
+[16:14:43] Picture infomations saved to  global/fr-CA/README.md
+[16:14:43] Picture infomations saved to global/fr-CA/history/2025/01/23_fr-CA.md
+Program exit at 16:14:43
