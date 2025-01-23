@@ -6,9 +6,9 @@
 ||*Copyright: Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)*
 ||
 |||
-|2025-01-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DeerValley_JA-JP0604255662_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerValley_JA-JP0604255662_UHD.jpg)|
-||*Copyright: 雪化粧したパークシティ, 米国 ユタ州 (© Adventure_Photo/Getty Images)*
+|2025-01-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IcelandGeyser_JA-JP3899461242_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandGeyser_JA-JP3899461242_UHD.jpg)|
+||*Copyright: ストロックル間欠泉, アイスランド (© John and Tina Reid/Getty Images)*
 ||
 |||
 |2025-01-23|**Region: en-IN**||

@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:45] Picture infomations saved to  global/fr-CA/README.md
 [09:27:45] Picture infomations saved to global/fr-CA/history/2025/01/24_fr-CA.md
 Program exit at 09:27:45
+
+Program started at 16:14:18
+Operating System Name: Linux
+Operating System Version: #23-Ubuntu SMP Mon Dec  9 16:58:58 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1701-141
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[16:14:18] Start geting CN Bing Wallpaper
+[16:14:18] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg
+[16:14:18] Image saved to img/background.jpg
+[16:14:18] Info saved to README.md
+[16:14:18] Image saved to history/2025/01/24.md
+[16:14:18] Start geting global Bing Wallpaper, region=en-US, local time is 2025-01-23 11:14:18.715329-05:00
+[16:14:18] Successful get url: https://www.bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg
+[16:14:18] Picture infomations saved to  global/en-US/README.md
+[16:14:18] Picture infomations saved to global/en-US/history/2025/01/24_en-US.md
+[16:14:18] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-01-24 01:14:18.887418+09:00
+[16:14:18] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_JA-JP3899461242_UHD.jpg
+[16:14:19] Picture infomations saved to  global/ja-JP/README.md
+[16:14:19] Picture infomations saved to global/ja-JP/history/2025/01/24_ja-JP.md
+[16:14:19] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-01-23 21:44:19.003922+05:30
+[16:14:19] Successful get url: https://www.bing.com/th?id=OHR.DeerValley_EN-IN5983015603_UHD.jpg
+[16:14:19] Picture infomations saved to  global/en-IN/README.md
+[16:14:19] Picture infomations saved to global/en-IN/history/2025/01/23_en-IN.md
+[16:14:19] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-01-23 13:14:19.125176-03:00
+[16:14:19] Successful get url: https://www.bing.com/th?id=OHR.DeerValley_PT-BR5923655325_UHD.jpg
+[16:14:19] Picture infomations saved to  global/pt-BR/README.md
+[16:14:19] Picture infomations saved to global/pt-BR/history/2025/01/24_pt-BR.md
+[16:14:19] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-01-23 17:14:19.230112+01:00
+[16:14:23] Successful get url: https://www.bing.com/th?id=OHR.DeerValley_FR-FR5592642570_UHD.jpg
+[16:14:23] Picture infomations saved to  global/fr-FR/README.md
+[16:14:23] Picture infomations saved to global/fr-FR/history/2025/01/23_fr-FR.md
+[16:14:23] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-01-23 17:14:23.224502+01:00
+[16:14:23] Successful get url: https://www.bing.com/th?id=OHR.DeerValley_DE-DE5666572987_UHD.jpg
+[16:14:23] Picture infomations saved to  global/de-DE/README.md
+[16:14:23] Picture infomations saved to global/de-DE/history/2025/01/23_de-DE.md
+[16:14:23] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-01-23 11:14:23.365532-05:00
+[16:14:23] Successful get url: https://www.bing.com/th?id=OHR.DeerValley_EN-CA0676675342_UHD.jpg
+[16:14:23] Picture infomations saved to  global/en-CA/README.md
+[16:14:23] Picture infomations saved to global/en-CA/history/2025/01/24_en-CA.md
+[16:14:23] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-01-23 16:14:23.483514+00:00
+[16:14:23] Successful get url: https://www.bing.com/th?id=OHR.DeerValley_EN-GB0738627342_UHD.jpg
+[16:14:23] Picture infomations saved to  global/en-GB/README.md
+[16:14:23] Picture infomations saved to global/en-GB/history/2025/01/24_en-GB.md
+[16:14:23] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-01-23 17:14:23.812019+01:00
+[16:14:23] Successful get url: https://www.bing.com/th?id=OHR.DeerValley_IT-IT9318398790_UHD.jpg
+[16:14:23] Picture infomations saved to  global/it-IT/README.md
+[16:14:23] Picture infomations saved to global/it-IT/history/2025/01/23_it-IT.md
+[16:14:23] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-01-23 17:14:23.924756+01:00
+[16:14:23] Successful get url: https://www.bing.com/th?id=OHR.DeerValley_ES-ES7003891910_UHD.jpg
+[16:14:24] Picture infomations saved to  global/es-ES/README.md
+[16:14:24] Picture infomations saved to global/es-ES/history/2025/01/23_es-ES.md
+[16:14:24] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-01-23 11:14:24.049561-05:00
+[16:14:24] Successful get url: https://www.bing.com/th?id=OHR.DeerValley_FR-CA1426119767_UHD.jpg
+[16:14:24] Picture infomations saved to  global/fr-CA/README.md
+[16:14:24] Picture infomations saved to global/fr-CA/history/2025/01/24_fr-CA.md
+Program exit at 16:14:24
