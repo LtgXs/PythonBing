@@ -1,0 +1,60 @@
+
+Program started at 09:27:01
+Operating System Name: Linux
+Operating System Version: #23-Ubuntu SMP Mon Dec  9 16:58:58 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1376-705
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[09:27:01] Start geting CN Bing Wallpaper
+[09:27:02] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg
+[09:27:02] Image saved to img/background.jpg
+[09:27:02] Info saved to README.md
+[09:27:02] Image saved to history/2025/01/24.md
+[09:27:02] Start geting global Bing Wallpaper, region=en-US, local time is 2025-01-24 04:27:02.235442-05:00
+[09:27:02] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg
+[09:27:02] Picture infomations saved to  global/en-US/README.md
+[09:27:02] Picture infomations saved to global/en-US/history/2025/01/25_en-US.md
+[09:27:02] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-01-24 18:27:02.506600+09:00
+[09:27:02] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_JA-JP3899461242_UHD.jpg
+[09:27:02] Picture infomations saved to  global/ja-JP/README.md
+[09:27:02] Picture infomations saved to global/ja-JP/history/2025/01/24_ja-JP.md
+[09:27:02] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-01-24 14:57:02.778609+05:30
+[09:27:02] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_EN-IN1107479797_UHD.jpg
+[09:27:03] Picture infomations saved to  global/en-IN/README.md
+[09:27:03] Picture infomations saved to global/en-IN/history/2025/01/24_en-IN.md
+[09:27:03] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-01-24 06:27:03.038045-03:00
+[09:27:03] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_PT-BR7544029151_UHD.jpg
+[09:27:03] Picture infomations saved to  global/pt-BR/README.md
+[09:27:03] Picture infomations saved to global/pt-BR/history/2025/01/25_pt-BR.md
+[09:27:03] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-01-24 10:27:03.317767+01:00
+[09:27:03] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_FR-FR6775594395_UHD.jpg
+[09:27:03] Picture infomations saved to  global/fr-FR/README.md
+[09:27:03] Picture infomations saved to global/fr-FR/history/2025/01/24_fr-FR.md
+[09:27:03] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-01-24 10:27:03.578964+01:00
+[09:27:03] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_DE-DE1379578975_UHD.jpg
+[09:27:03] Picture infomations saved to  global/de-DE/README.md
+[09:27:03] Picture infomations saved to global/de-DE/history/2025/01/24_de-DE.md
+[09:27:03] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-01-24 04:27:03.839490-05:00
+[09:27:03] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_EN-CA0487344815_UHD.jpg
+[09:27:04] Picture infomations saved to  global/en-CA/README.md
+[09:27:04] Picture infomations saved to global/en-CA/history/2025/01/25_en-CA.md
+[09:27:04] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-01-24 09:27:04.107231+00:00
+[09:27:04] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_EN-GB0103989552_UHD.jpg
+[09:27:04] Picture infomations saved to  global/en-GB/README.md
+[09:27:04] Picture infomations saved to global/en-GB/history/2025/01/25_en-GB.md
+[09:27:04] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-01-24 10:27:04.367055+01:00
+[09:27:04] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_IT-IT1394965765_UHD.jpg
+[09:27:04] Picture infomations saved to  global/it-IT/README.md
+[09:27:04] Picture infomations saved to global/it-IT/history/2025/01/24_it-IT.md
+[09:27:04] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-01-24 10:27:04.619875+01:00
+[09:27:04] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_ES-ES1598539119_UHD.jpg
+[09:27:04] Picture infomations saved to  global/es-ES/README.md
+[09:27:04] Picture infomations saved to global/es-ES/history/2025/01/24_es-ES.md
+[09:27:04] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-01-24 04:27:04.892741-05:00
+[09:27:04] Successful get url: https://www.bing.com/th?id=OHR.IcelandGeyser_FR-CA8164450943_UHD.jpg
+[09:27:05] Picture infomations saved to  global/fr-CA/README.md
+[09:27:05] Picture infomations saved to global/fr-CA/history/2025/01/25_fr-CA.md
+Program exit at 09:27:05
