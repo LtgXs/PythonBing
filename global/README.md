@@ -6,9 +6,9 @@
 ||*Copyright: Porto, Portugal (© Starcevic/Getty Images)*
 ||
 |||
-|2025-01-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PortoSunset_JA-JP4070269520_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortoSunset_JA-JP4070269520_UHD.jpg)|
-||*Copyright: ポルト, ポルトガル (© Starcevic/Getty Images)*
+|2025-01-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FrostedBeech_JA-JP4239876315_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostedBeech_JA-JP4239876315_UHD.jpg)|
+||*Copyright: 霧氷のブナ林, ベルギー (© Philippe Moes/Minden Pictures)*
 ||
 |||
 |2025-01-25|**Region: en-IN**||
