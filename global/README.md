@@ -6,9 +6,9 @@
 ||*Copyright: European beech forest in Belgium (© Philippe Moes/Minden Pictures)*
 ||
 |||
-|2025-01-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FrostedBeech_JA-JP4239876315_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostedBeech_JA-JP4239876315_UHD.jpg)|
-||*Copyright: 霧氷のブナ林, ベルギー (© Philippe Moes/Minden Pictures)*
+|2025-01-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CanyonSnow_JA-JP4445810449_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanyonSnow_JA-JP4445810449_UHD.jpg)|
+||*Copyright: グランド・キャニオン国立公園, 米国 アリゾナ州 (© Nick Lake/Tandem Stills + Motion)*
 ||
 |||
 |2025-01-26|**Region: en-IN**||
