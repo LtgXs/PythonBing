@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-01-26|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg)|
-||*Copyright: Porto, Portugal (© Starcevic/Getty Images)*
+|2025-01-27|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg)|
+||*Copyright: European beech forest in Belgium (© Philippe Moes/Minden Pictures)*
 ||
 |||
 |2025-01-26|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 霧氷のブナ林, ベルギー (© Philippe Moes/Minden Pictures)*
 ||
 |||
-|2025-01-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PortoSunset_EN-IN1245971448_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortoSunset_EN-IN1245971448_UHD.jpg)|
-||*Copyright: Porto, Portugal (© Starcevic/Getty Images)*
+|2025-01-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.IndiaGateTriColour_EN-IN3150557359_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndiaGateTriColour_EN-IN3150557359_UHD.jpg)|
+||*Copyright: India Gate, New Delhi (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-01-26|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DiaBossaNova_PT-BR0445068072_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiaBossaNova_PT-BR0445068072_UHD.jpg)|
-||*Copyright: Amanhecer no Rio de Janeiro (© Stanley Chen Xi, landscape and architecture photographer/Getty Images)*
+|2025-01-27|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.FrostedBeech_PT-BR2068604489_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostedBeech_PT-BR2068604489_UHD.jpg)|
+||*Copyright: Floresta de faia-europeia na Bélgica (© Philippe Moes/Minden Pictures)*
 ||
 |||
-|2025-01-25|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PortoSunset_FR-FR7243507947_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortoSunset_FR-FR7243507947_UHD.jpg)|
-||*Copyright: Porto, Portugal (© Starcevic/Getty Images)*
+|2025-01-26|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.FrostedBeech_FR-FR8535589917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostedBeech_FR-FR8535589917_UHD.jpg)|
+||*Copyright: Forêt de hêtres, Belgique (© Philippe Moes/Minden Pictures)*
 ||
 |||
-|2025-01-25|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PortoSunset_DE-DE2650196473_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortoSunset_DE-DE2650196473_UHD.jpg)|
-||*Copyright: Porto, Portugal (© Starcevic/Getty Images)*
+|2025-01-26|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.FrostedBeech_DE-DE3039006645_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostedBeech_DE-DE3039006645_UHD.jpg)|
+||*Copyright: Rotbuchenwald in Belgien (© Philippe Moes/Minden Pictures)*
 ||
 |||
-|2025-01-26|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PortoSunset_EN-CA0543189674_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortoSunset_EN-CA0543189674_UHD.jpg)|
-||*Copyright: Porto, Portugal (© Starcevic/Getty Images)*
+|2025-01-27|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.FrostedBeech_EN-CA0729211596_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostedBeech_EN-CA0729211596_UHD.jpg)|
+||*Copyright: European beech forest in Belgium (© Philippe Moes/Minden Pictures)*
 ||
 |||
-|2025-01-26|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BurnsNight2025_EN-GB6468698638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BurnsNight2025_EN-GB6468698638_UHD.jpg)|
-||*Copyright: Devorgilla Bridge in Dumfries Galloway Scotland, UK (© jazman/Shutterstock)*
+|2025-01-27|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.FrostedBeech_EN-GB0216949411_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostedBeech_EN-GB0216949411_UHD.jpg)|
+||*Copyright: European beech forest in Belgium (© Philippe Moes/Minden Pictures)*
 ||
 |||
-|2025-01-25|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PortoSunset_IT-IT1632622830_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortoSunset_IT-IT1632622830_UHD.jpg)|
-||*Copyright: Porto, Portogallo (© Starcevic/Getty Images)*
+|2025-01-26|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.FrostedBeech_IT-IT1757566579_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostedBeech_IT-IT1757566579_UHD.jpg)|
+||*Copyright: Foresta di faggi, Belgio (© Philippe Moes/Minden Pictures)*
 ||
 |||
-|2025-01-25|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PortoSunset_ES-ES3099666552_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortoSunset_ES-ES3099666552_UHD.jpg)|
-||*Copyright: Oporto, Portugal (© Starcevic/Getty Images)*
+|2025-01-26|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FrostedBeech_ES-ES3324166189_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostedBeech_ES-ES3324166189_UHD.jpg)|
+||*Copyright: Bosque de hayas en Bélgica (© Philippe Moes/Minden Pictures)*
 ||
 |||
-|2025-01-26|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PortoSunset_FR-CA8246410939_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortoSunset_FR-CA8246410939_UHD.jpg)|
-||*Copyright: Porto, Portugal (© Starcevic/Getty Images)*
+|2025-01-27|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.FrostedBeech_FR-CA8663595738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostedBeech_FR-CA8663595738_UHD.jpg)|
+||*Copyright: Forêt de hêtres, Belgique (© Philippe Moes/Minden Pictures)*
 ||
 |||
 
