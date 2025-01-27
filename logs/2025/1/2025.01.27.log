@@ -1,0 +1,60 @@
+
+Program started at 09:28:02
+Operating System Name: Linux
+Operating System Version: #23-Ubuntu SMP Mon Dec  9 16:58:58 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1784-206
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[09:28:02] Start geting CN Bing Wallpaper
+[09:28:02] Successful get url: https://www.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_UHD.jpg
+[09:28:02] Image saved to img/background.jpg
+[09:28:02] Info saved to README.md
+[09:28:02] Image saved to history/2025/01/27.md
+[09:28:02] Start geting global Bing Wallpaper, region=en-US, local time is 2025-01-27 04:28:02.410477-05:00
+[09:28:02] Successful get url: https://www.bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg
+[09:28:02] Picture infomations saved to  global/en-US/README.md
+[09:28:02] Picture infomations saved to global/en-US/history/2025/01/28_en-US.md
+[09:28:02] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-01-27 18:28:02.598405+09:00
+[09:28:02] Successful get url: https://www.bing.com/th?id=OHR.CanyonSnow_JA-JP4445810449_UHD.jpg
+[09:28:02] Picture infomations saved to  global/ja-JP/README.md
+[09:28:02] Picture infomations saved to global/ja-JP/history/2025/01/27_ja-JP.md
+[09:28:02] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-01-27 14:58:02.779246+05:30
+[09:28:02] Successful get url: https://www.bing.com/th?id=OHR.CanyonSnow_EN-IN1568269360_UHD.jpg
+[09:28:02] Picture infomations saved to  global/en-IN/README.md
+[09:28:02] Picture infomations saved to global/en-IN/history/2025/01/27_en-IN.md
+[09:28:02] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-01-27 06:28:02.935832-03:00
+[09:28:02] Successful get url: https://www.bing.com/th?id=OHR.CanyonSnow_PT-BR4095354589_UHD.jpg
+[09:28:03] Picture infomations saved to  global/pt-BR/README.md
+[09:28:03] Picture infomations saved to global/pt-BR/history/2025/01/28_pt-BR.md
+[09:28:03] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-01-27 10:28:03.092242+01:00
+[09:28:03] Successful get url: https://www.bing.com/th?id=OHR.ParisSnow_FR-FR5265906192_UHD.jpg
+[09:28:03] Picture infomations saved to  global/fr-FR/README.md
+[09:28:03] Picture infomations saved to global/fr-FR/history/2025/01/27_fr-FR.md
+[09:28:03] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-01-27 10:28:03.266936+01:00
+[09:28:03] Successful get url: https://www.bing.com/th?id=OHR.CanyonSnow_DE-DE3570405094_UHD.jpg
+[09:28:03] Picture infomations saved to  global/de-DE/README.md
+[09:28:03] Picture infomations saved to global/de-DE/history/2025/01/27_de-DE.md
+[09:28:03] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-01-27 04:28:03.431581-05:00
+[09:28:03] Successful get url: https://www.bing.com/th?id=OHR.CanyonSnow_EN-CA0932914294_UHD.jpg
+[09:28:03] Picture infomations saved to  global/en-CA/README.md
+[09:28:03] Picture infomations saved to global/en-CA/history/2025/01/28_en-CA.md
+[09:28:03] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-01-27 09:28:03.582664+00:00
+[09:28:03] Successful get url: https://www.bing.com/th?id=OHR.CanyonSnow_EN-GB0286033660_UHD.jpg
+[09:28:03] Picture infomations saved to  global/en-GB/README.md
+[09:28:03] Picture infomations saved to global/en-GB/history/2025/01/28_en-GB.md
+[09:28:03] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-01-27 10:28:03.737008+01:00
+[09:28:03] Successful get url: https://www.bing.com/th?id=OHR.CanyonSnow_IT-IT1813827101_UHD.jpg
+[09:28:03] Picture infomations saved to  global/it-IT/README.md
+[09:28:03] Picture infomations saved to global/it-IT/history/2025/01/27_it-IT.md
+[09:28:03] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-01-27 10:28:03.900177+01:00
+[09:28:03] Successful get url: https://www.bing.com/th?id=OHR.CanyonSnow_ES-ES3550411981_UHD.jpg
+[09:28:04] Picture infomations saved to  global/es-ES/README.md
+[09:28:04] Picture infomations saved to global/es-ES/history/2025/01/27_es-ES.md
+[09:28:04] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-01-27 04:28:04.047539-05:00
+[09:28:04] Successful get url: https://www.bing.com/th?id=OHR.CanyonSnow_FR-CA8930856554_UHD.jpg
+[09:28:04] Picture infomations saved to  global/fr-CA/README.md
+[09:28:04] Picture infomations saved to global/fr-CA/history/2025/01/28_fr-CA.md
+Program exit at 09:28:04
