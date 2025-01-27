@@ -6,9 +6,9 @@
 ||*Copyright: Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)*
 ||
 |||
-|2025-01-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CanyonSnow_JA-JP4445810449_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanyonSnow_JA-JP4445810449_UHD.jpg)|
-||*Copyright: グランド・キャニオン国立公園, 米国 アリゾナ州 (© Nick Lake/Tandem Stills + Motion)*
+|2025-01-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FlyingOwl_JA-JP5099744024_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingOwl_JA-JP5099744024_UHD.jpg)|
+||*Copyright: 吹雪の中を飛ぶコミミズク (© Dilshan Muthalib/Getty Images)*
 ||
 |||
 |2025-01-27|**Region: en-IN**||
