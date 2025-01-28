@@ -6,9 +6,9 @@
 ||*Copyright: Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)*
 ||
 |||
-|2025-01-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FlyingOwl_JA-JP5099744024_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingOwl_JA-JP5099744024_UHD.jpg)|
-||*Copyright: 吹雪の中を飛ぶコミミズク (© Dilshan Muthalib/Getty Images)*
+|2025-01-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LunarDragon_JA-JP5285145740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LunarDragon_JA-JP5285145740_UHD.jpg)|
+||*Copyright: 鉄の花の中で舞う龍舞, 中国 湖北省 (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
 ||
 |||
 |2025-01-28|**Region: en-IN**||
