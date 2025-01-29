@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-01-29|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg)|
-||*Copyright: Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)*
+|2025-01-30|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg)|
+||*Copyright: Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
 ||
 |||
 |2025-01-29|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 鉄の花の中で舞う龍舞, 中国 湖北省 (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
 ||
 |||
-|2025-01-28|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FlyingOwl_EN-IN1693196635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingOwl_EN-IN1693196635_UHD.jpg)|
-||*Copyright: Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)*
+|2025-01-29|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LunarDragon_EN-IN2177152421_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LunarDragon_EN-IN2177152421_UHD.jpg)|
+||*Copyright: Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
 ||
 |||
-|2025-01-29|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FlyingOwl_PT-BR5034009033_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingOwl_PT-BR5034009033_UHD.jpg)|
-||*Copyright: Coruja-do-nabal caçando na neve (© Dilshan Muthalib/Getty Images)*
+|2025-01-30|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.LunarDragon_PT-BR5484555441_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LunarDragon_PT-BR5484555441_UHD.jpg)|
+||*Copyright: Dança do dragão, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
 ||
 |||
-|2025-01-28|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FlyingOwl_FR-FR1750905079_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingOwl_FR-FR1750905079_UHD.jpg)|
-||*Copyright: Hibou des marais chassant sous une neige épaisse (© Dilshan Muthalib/Getty Images)*
+|2025-01-29|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LunarDragon_FR-FR2196981779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LunarDragon_FR-FR2196981779_UHD.jpg)|
+||*Copyright: Danse du dragon, Wuhan, Chine (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
 ||
 |||
-|2025-01-28|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FlyingOwl_DE-DE4640467598_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingOwl_DE-DE4640467598_UHD.jpg)|
-||*Copyright: Sumpfohreule bei der Jagd im starken Schneefall (© Dilshan Muthalib/Getty Images)*
+|2025-01-29|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LunarDragon_DE-DE8035550106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LunarDragon_DE-DE8035550106_UHD.jpg)|
+||*Copyright: Drachentanz, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
 ||
 |||
-|2025-01-29|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FlyingOwl_EN-CA1475306632_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingOwl_EN-CA1475306632_UHD.jpg)|
-||*Copyright: Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)*
+|2025-01-30|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LunarDragon_EN-CA1697133736_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LunarDragon_EN-CA1697133736_UHD.jpg)|
+||*Copyright: Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
 ||
 |||
-|2025-01-29|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FlyingOwl_EN-GB0318156254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingOwl_EN-GB0318156254_UHD.jpg)|
-||*Copyright: Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)*
+|2025-01-30|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PortoSunset_EN-GB0347440030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortoSunset_EN-GB0347440030_UHD.jpg)|
+||*Copyright: Porto, Portugal (© Starcevic/Getty Images)*
 ||
 |||
-|2025-01-28|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.Piedmont_IT-IT1689633679_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Piedmont_IT-IT1689633679_UHD.jpg)|
-||*Copyright: Paesaggio alpino con laghi nel Parco Nazionale del Gran Paradiso, Piemonte – Valle d’Aosta, Italia (© Stefano Zaccaria/Alamy Stock Photo)*
+|2025-01-29|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LunarDragon_IT-IT2211011304_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LunarDragon_IT-IT2211011304_UHD.jpg)|
+||*Copyright: Danza del Drago, Wuhan, Cina (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
 ||
 |||
-|2025-01-28|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FlyingOwl_ES-ES3769864994_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingOwl_ES-ES3769864994_UHD.jpg)|
-||*Copyright: Búho campestre cazando en la nieve (© Dilshan Muthalib/Getty Images)*
+|2025-01-29|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LunarDragon_ES-ES3892690560_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LunarDragon_ES-ES3892690560_UHD.jpg)|
+||*Copyright: Danza del dragón, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
 ||
 |||
-|2025-01-29|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FlyingOwl_FR-CA9086625004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingOwl_FR-CA9086625004_UHD.jpg)|
-||*Copyright: Hibou des marais chassant sous une neige épaisse (© Dilshan Muthalib/Getty Images)*
+|2025-01-30|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.LunarDragon_FR-CA9234329279_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LunarDragon_FR-CA9234329279_UHD.jpg)|
+||*Copyright: Danse du dragon, Wuhan, Chine (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
 ||
 |||
 
