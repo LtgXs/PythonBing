@@ -6,9 +6,9 @@
 ||*Copyright: Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
 ||
 |||
-|2025-01-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LunarDragon_JA-JP5285145740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LunarDragon_JA-JP5285145740_UHD.jpg)|
-||*Copyright: 鉄の花の中で舞う龍舞, 中国 湖北省 (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)*
+|2025-01-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OrdesaSpain_JA-JP5528658967_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrdesaSpain_JA-JP5528658967_UHD.jpg)|
+||*Copyright: オルデサ・イ・モンテ・ペルディード国立公園, スペイン (© Inaki Relanzon/Nature Picture Library/Alamy)*
 ||
 |||
 |2025-01-29|**Region: en-IN**||
