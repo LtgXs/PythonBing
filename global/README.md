@@ -6,9 +6,9 @@
 ||*Copyright: La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy)*
 ||
 |||
-|2025-01-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OrdesaSpain_JA-JP5528658967_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrdesaSpain_JA-JP5528658967_UHD.jpg)|
-||*Copyright: オルデサ・イ・モンテ・ペルディード国立公園, スペイン (© Inaki Relanzon/Nature Picture Library/Alamy)*
+|2025-01-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PlainsZebra_JA-JP5699662720_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlainsZebra_JA-JP5699662720_UHD.jpg)|
+||*Copyright: モカラ国立公園, 南アフリカ (© EcoPrint/Shutterstock)*
 ||
 |||
 |2025-01-30|**Region: en-IN**||
