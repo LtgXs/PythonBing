@@ -1,0 +1,60 @@
+
+Program started at 09:26:22
+Operating System Name: Linux
+Operating System Version: #23-Ubuntu SMP Mon Dec  9 16:58:58 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1371-570
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[09:26:22] Start geting CN Bing Wallpaper
+[09:26:22] Successful get url: https://www.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_UHD.jpg
+[09:26:22] Image saved to img/background.jpg
+[09:26:22] Info saved to README.md
+[09:26:22] Image saved to history/2025/01/30.md
+[09:26:22] Start geting global Bing Wallpaper, region=en-US, local time is 2025-01-30 04:26:22.781759-05:00
+[09:26:22] Successful get url: https://www.bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg
+[09:26:22] Picture infomations saved to  global/en-US/README.md
+[09:26:22] Picture infomations saved to global/en-US/history/2025/01/31_en-US.md
+[09:26:22] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-01-30 18:26:22.949703+09:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.OrdesaSpain_JA-JP5528658967_UHD.jpg
+[09:26:23] Picture infomations saved to  global/ja-JP/README.md
+[09:26:23] Picture infomations saved to global/ja-JP/history/2025/01/30_ja-JP.md
+[09:26:23] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-01-30 14:56:23.066459+05:30
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.OrdesaSpain_EN-IN2338334373_UHD.jpg
+[09:26:23] Picture infomations saved to  global/en-IN/README.md
+[09:26:23] Picture infomations saved to global/en-IN/history/2025/01/30_en-IN.md
+[09:26:23] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-01-30 06:26:23.166206-03:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.BaiadosPorcos_PT-BR0532087075_UHD.jpg
+[09:26:23] Picture infomations saved to  global/pt-BR/README.md
+[09:26:23] Picture infomations saved to global/pt-BR/history/2025/01/31_pt-BR.md
+[09:26:23] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-01-30 10:26:23.270696+01:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.OrdesaSpain_FR-FR2730396570_UHD.jpg
+[09:26:23] Picture infomations saved to  global/fr-FR/README.md
+[09:26:23] Picture infomations saved to global/fr-FR/history/2025/01/30_fr-FR.md
+[09:26:23] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-01-30 10:26:23.373199+01:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.OrdesaSpain_DE-DE0076469296_UHD.jpg
+[09:26:23] Picture infomations saved to  global/de-DE/README.md
+[09:26:23] Picture infomations saved to global/de-DE/history/2025/01/30_de-DE.md
+[09:26:23] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-01-30 04:26:23.472383-05:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.BoatShowVan_EN-CA2061504870_UHD.jpg
+[09:26:23] Picture infomations saved to  global/en-CA/README.md
+[09:26:23] Picture infomations saved to global/en-CA/history/2025/01/31_en-CA.md
+[09:26:23] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-01-30 09:26:23.562955+00:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.OrdesaSpain_EN-GB0380328230_UHD.jpg
+[09:26:23] Picture infomations saved to  global/en-GB/README.md
+[09:26:23] Picture infomations saved to global/en-GB/history/2025/01/31_en-GB.md
+[09:26:23] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-01-30 10:26:23.645276+01:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.OrdesaSpain_IT-IT2526212966_UHD.jpg
+[09:26:23] Picture infomations saved to  global/it-IT/README.md
+[09:26:23] Picture infomations saved to global/it-IT/history/2025/01/30_it-IT.md
+[09:26:23] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-01-30 10:26:23.730955+01:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.OrdesaSpain_ES-ES4787929078_UHD.jpg
+[09:26:23] Picture infomations saved to  global/es-ES/README.md
+[09:26:23] Picture infomations saved to global/es-ES/history/2025/01/30_es-ES.md
+[09:26:23] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-01-30 04:26:23.820554-05:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.BoatShowVan_FR-CA0337074319_UHD.jpg
+[09:26:23] Picture infomations saved to  global/fr-CA/README.md
+[09:26:23] Picture infomations saved to global/fr-CA/history/2025/01/31_fr-CA.md
+Program exit at 09:26:23
