@@ -6,9 +6,9 @@
 ||*Copyright: Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)*
 ||
 |||
-|2025-01-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PlainsZebra_JA-JP5699662720_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlainsZebra_JA-JP5699662720_UHD.jpg)|
-||*Copyright: モカラ国立公園, 南アフリカ (© EcoPrint/Shutterstock)*
+|2025-02-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GoldenBridge_JA-JP5870058784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenBridge_JA-JP5870058784_UHD.jpg)|
+||*Copyright: ゴールデンブリッジ, ベトナム (© Hien Phung Thu/Shutterstock)*
 ||
 |||
 |2025-01-31|**Region: en-IN**||
