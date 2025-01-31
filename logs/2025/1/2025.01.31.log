@@ -1,0 +1,60 @@
+
+Program started at 09:26:33
+Operating System Name: Linux
+Operating System Version: #23-Ubuntu SMP Mon Dec  9 16:58:58 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az810-215
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[09:26:33] Start geting CN Bing Wallpaper
+[09:26:33] Successful get url: https://www.bing.com/th?id=OHR.PlainsZebra_ZH-CN1989542307_UHD.jpg
+[09:26:33] Image saved to img/background.jpg
+[09:26:33] Info saved to README.md
+[09:26:33] Image saved to history/2025/01/31.md
+[09:26:33] Start geting global Bing Wallpaper, region=en-US, local time is 2025-01-31 04:26:33.461545-05:00
+[09:26:33] Successful get url: https://www.bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg
+[09:26:33] Picture infomations saved to  global/en-US/README.md
+[09:26:33] Picture infomations saved to global/en-US/history/2025/02/01_en-US.md
+[09:26:33] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-01-31 18:26:33.674443+09:00
+[09:26:33] Successful get url: https://www.bing.com/th?id=OHR.PlainsZebra_JA-JP5699662720_UHD.jpg
+[09:26:33] Picture infomations saved to  global/ja-JP/README.md
+[09:26:33] Picture infomations saved to global/ja-JP/history/2025/01/31_ja-JP.md
+[09:26:33] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-01-31 14:56:33.882807+05:30
+[09:26:33] Successful get url: https://www.bing.com/th?id=OHR.PlainsZebra_EN-IN2514350674_UHD.jpg
+[09:26:34] Picture infomations saved to  global/en-IN/README.md
+[09:26:34] Picture infomations saved to global/en-IN/history/2025/01/31_en-IN.md
+[09:26:34] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-01-31 06:26:34.068236-03:00
+[09:26:34] Successful get url: https://www.bing.com/th?id=OHR.PlainsZebra_PT-BR0179432464_UHD.jpg
+[09:26:34] Picture infomations saved to  global/pt-BR/README.md
+[09:26:34] Picture infomations saved to global/pt-BR/history/2025/02/01_pt-BR.md
+[09:26:34] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-01-31 10:26:34.232577+01:00
+[09:26:34] Successful get url: https://www.bing.com/th?id=OHR.PlainsZebra_FR-FR3265795603_UHD.jpg
+[09:26:34] Picture infomations saved to  global/fr-FR/README.md
+[09:26:34] Picture infomations saved to global/fr-FR/history/2025/01/31_fr-FR.md
+[09:26:34] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-01-31 10:26:34.395723+01:00
+[09:26:34] Successful get url: https://www.bing.com/th?id=OHR.PlainsZebra_DE-DE9982406079_UHD.jpg
+[09:26:34] Picture infomations saved to  global/de-DE/README.md
+[09:26:34] Picture infomations saved to global/de-DE/history/2025/01/31_de-DE.md
+[09:26:34] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-01-31 04:26:34.555705-05:00
+[09:26:34] Successful get url: https://www.bing.com/th?id=OHR.PlainsZebra_EN-CA2255570448_UHD.jpg
+[09:26:34] Picture infomations saved to  global/en-CA/README.md
+[09:26:34] Picture infomations saved to global/en-CA/history/2025/02/01_en-CA.md
+[09:26:34] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-01-31 09:26:34.711243+00:00
+[09:26:34] Successful get url: https://www.bing.com/th?id=OHR.PlainsZebra_EN-GB0409319973_UHD.jpg
+[09:26:34] Picture infomations saved to  global/en-GB/README.md
+[09:26:34] Picture infomations saved to global/en-GB/history/2025/02/01_en-GB.md
+[09:26:34] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-01-31 10:26:34.874500+01:00
+[09:26:34] Successful get url: https://www.bing.com/th?id=OHR.PlainsZebra_IT-IT2615421914_UHD.jpg
+[09:26:35] Picture infomations saved to  global/it-IT/README.md
+[09:26:35] Picture infomations saved to global/it-IT/history/2025/01/31_it-IT.md
+[09:26:35] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-01-31 10:26:35.038140+01:00
+[09:26:35] Successful get url: https://www.bing.com/th?id=OHR.TenerifeCarnival2025_ES-ES0044754668_UHD.jpg
+[09:26:35] Picture infomations saved to  global/es-ES/README.md
+[09:26:35] Picture infomations saved to global/es-ES/history/2025/01/31_es-ES.md
+[09:26:35] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-01-31 04:26:35.191688-05:00
+[09:26:35] Successful get url: https://www.bing.com/th?id=OHR.PlainsZebra_FR-CA6166027619_UHD.jpg
+[09:26:35] Picture infomations saved to  global/fr-CA/README.md
+[09:26:35] Picture infomations saved to global/fr-CA/history/2025/02/01_fr-CA.md
+Program exit at 09:26:35
