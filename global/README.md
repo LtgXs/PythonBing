@@ -6,9 +6,9 @@
 ||*Copyright: National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)*
 ||
 |||
-|2025-02-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GoldenBridge_JA-JP5870058784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenBridge_JA-JP5870058784_UHD.jpg)|
-||*Copyright: ゴールデンブリッジ, ベトナム (© Hien Phung Thu/Shutterstock)*
+|2025-02-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AustriaMarmot_JA-JP6210470300_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AustriaMarmot_JA-JP6210470300_UHD.jpg)|
+||*Copyright: アルプスマーモット, 米国 ペンシルバニア州 (© Jonas Fichtner-Pflaum/Getty Images)*
 ||
 |||
 |2025-02-01|**Region: en-IN**||
