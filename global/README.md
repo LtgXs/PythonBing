@@ -6,9 +6,9 @@
 ||*Copyright: Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com)*
 ||
 |||
-|2025-02-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Risshun2025_JA-JP6529014440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Risshun2025_JA-JP6529014440_UHD.jpg)|
-||*Copyright: 梅の花で吸蜜するメジロ (© yankane/shutterstock)*
+|2025-02-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YukiMatsuri2025_JA-JP6765872006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YukiMatsuri2025_JA-JP6765872006_UHD.jpg)|
+||*Copyright: 犬山城の大雪像, 北海道 札幌市 (© Randy Green/Alamy Stock Photo)*
 ||
 |||
 |2025-02-03|**Region: en-IN**||
