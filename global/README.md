@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-02-03|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg)|
-||*Copyright: Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)*
+|2025-02-04|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg)|
+||*Copyright: Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com)*
 ||
 |||
 |2025-02-03|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 梅の花で吸蜜するメジロ (© yankane/shutterstock)*
 ||
 |||
-|2025-02-02|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AlappuzhaWaters_EN-IN6155439001_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlappuzhaWaters_EN-IN6155439001_UHD.jpg)|
-||*Copyright: Alappuzha, Kerala (© Gautam Krishna/Getty Images)*
+|2025-02-03|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-IN3282548733_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-IN3282548733_UHD.jpg)|
+||*Copyright: Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England, United Kingdom (© AWL Images/DanitaDelimont.com)*
 ||
 |||
-|2025-02-03|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AustriaMarmot_PT-BR3852598184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AustriaMarmot_PT-BR3852598184_UHD.jpg)|
-||*Copyright: Jovem marmota alpina (© Jonas Fichtner-Pflaum/Getty Images)*
+|2025-02-04|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_PT-BR4711325256_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_PT-BR4711325256_UHD.jpg)|
+||*Copyright: Viaduto Ribblehead e montanha de Ingleborough, North Yorkshire, Inglaterra, Reino Unido (© AWL Images/DanitaDelimont.com)*
 ||
 |||
-|2025-02-02|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AustriaMarmot_FR-FR4256858728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AustriaMarmot_FR-FR4256858728_UHD.jpg)|
-||*Copyright: Marmotte des Alpes (© Jonas Fichtner-Pflaum/Getty Images)*
+|2025-02-03|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_FR-FR4663739053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_FR-FR4663739053_UHD.jpg)|
+||*Copyright: Viaduc de Ribblehead et sommet d’Ingleborough, Nord de l'Angleterre, Royaume-Uni (© AWL Images/DanitaDelimont.com)*
 ||
 |||
-|2025-02-02|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_DE-DE2245895557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_DE-DE2245895557_UHD.jpg)|
-||*Copyright: Westerhever, Nationalpark Schleswig-Holsteinisches Wattenmeer (© 3quarks/Getty Images)*
+|2025-02-03|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_DE-DE0601273840_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_DE-DE0601273840_UHD.jpg)|
+||*Copyright: Ribblehead-Viadukt und Ingleborough-Berg, North Yorkshire, England, UK (© AWL Images/DanitaDelimont.com)*
 ||
 |||
-|2025-02-03|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AustriaMarmot_EN-CA2613536224_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AustriaMarmot_EN-CA2613536224_UHD.jpg)|
-||*Copyright: Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)*
+|2025-02-04|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-CA3107714600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-CA3107714600_UHD.jpg)|
+||*Copyright: Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England, United Kingdom (© AWL Images/DanitaDelimont.com)*
 ||
 |||
-|2025-02-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AustriaMarmot_EN-GB0497553794_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AustriaMarmot_EN-GB0497553794_UHD.jpg)|
-||*Copyright: Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)*
+|2025-02-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-GB1298957029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-GB1298957029_UHD.jpg)|
+||*Copyright: Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com)*
 ||
 |||
-|2025-02-02|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PortofinoMarathon_IT-IT1822275112_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortofinoMarathon_IT-IT1822275112_UHD.jpg)|
-||*Copyright: Portofino, Liguria, Italia (© Haveseen/Shutterstock)*
+|2025-02-03|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_IT-IT3273904446_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_IT-IT3273904446_UHD.jpg)|
+||*Copyright: Viadotto Ribblehead e monte Ingleborough, North Yorkshire, Inghilterra (© AWL Images/DanitaDelimont.com)*
 ||
 |||
-|2025-02-02|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AustriaMarmot_ES-ES5324822318_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AustriaMarmot_ES-ES5324822318_UHD.jpg)|
-||*Copyright: Joven marmota alpina (© Jonas Fichtner-Pflaum/Getty Images)*
+|2025-02-03|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_ES-ES5419364772_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_ES-ES5419364772_UHD.jpg)|
+||*Copyright: Viaducto de Ribblehead y montaña de Ingleborough, Yorkshire del Norte, Inglaterra, Reino Unido (© AWL Images/DanitaDelimont.com)*
 ||
 |||
-|2025-02-03|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AustriaMarmot_FR-CA6673820084_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AustriaMarmot_FR-CA6673820084_UHD.jpg)|
-||*Copyright: Marmotte des Alpes (© Jonas Fichtner-Pflaum/Getty Images)*
+|2025-02-04|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_FR-CA7176711694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_FR-CA7176711694_UHD.jpg)|
+||*Copyright: Viaduc de Ribblehead et sommet d’Ingleborough, Nord de l'Angleterre, Royaume-Uni (© AWL Images/DanitaDelimont.com)*
 ||
 |||
 
