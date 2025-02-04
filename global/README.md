@@ -6,9 +6,9 @@
 ||*Copyright: Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)*
 ||
 |||
-|2025-02-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YukiMatsuri2025_JA-JP6765872006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YukiMatsuri2025_JA-JP6765872006_UHD.jpg)|
-||*Copyright: 犬山城の大雪像, 北海道 札幌市 (© Randy Green/Alamy Stock Photo)*
+|2025-02-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ScottishSheep_JA-JP7061956700_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottishSheep_JA-JP7061956700_UHD.jpg)|
+||*Copyright: ブラックフェース, スコットランド  (© Mike Powles/Getty Images)*
 ||
 |||
 |2025-02-04|**Region: en-IN**||
