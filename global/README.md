@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-02-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg)|
-||*Copyright: Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com)*
+|2025-02-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg)|
+||*Copyright: Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)*
 ||
 |||
 |2025-02-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 犬山城の大雪像, 北海道 札幌市 (© Randy Green/Alamy Stock Photo)*
 ||
 |||
-|2025-02-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-IN3282548733_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-IN3282548733_UHD.jpg)|
-||*Copyright: Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England, United Kingdom (© AWL Images/DanitaDelimont.com)*
+|2025-02-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GoldenBridge_EN-IN3517654384_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenBridge_EN-IN3517654384_UHD.jpg)|
+||*Copyright: Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)*
 ||
 |||
-|2025-02-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_PT-BR4711325256_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_PT-BR4711325256_UHD.jpg)|
-||*Copyright: Viaduto Ribblehead e montanha de Ingleborough, North Yorkshire, Inglaterra, Reino Unido (© AWL Images/DanitaDelimont.com)*
+|2025-02-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GoldenBridge_PT-BR5001907624_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenBridge_PT-BR5001907624_UHD.jpg)|
+||*Copyright: Ponte Dourada, Bà Nà Hills, Da Nang, Vietnã (© Hien Phung Thu/Shutterstock)*
 ||
 |||
-|2025-02-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_FR-FR4663739053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_FR-FR4663739053_UHD.jpg)|
-||*Copyright: Viaduc de Ribblehead et sommet d’Ingleborough, Nord de l'Angleterre, Royaume-Uni (© AWL Images/DanitaDelimont.com)*
+|2025-02-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GoldenBridge_FR-FR5137269465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenBridge_FR-FR5137269465_UHD.jpg)|
+||*Copyright: Pont doré, collines Bà Nà, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)*
 ||
 |||
-|2025-02-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_DE-DE0601273840_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_DE-DE0601273840_UHD.jpg)|
-||*Copyright: Ribblehead-Viadukt und Ingleborough-Berg, North Yorkshire, England, UK (© AWL Images/DanitaDelimont.com)*
+|2025-02-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GoldenBridge_DE-DE8445682123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenBridge_DE-DE8445682123_UHD.jpg)|
+||*Copyright: Goldene Brücke, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)*
 ||
 |||
-|2025-02-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-CA3107714600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-CA3107714600_UHD.jpg)|
-||*Copyright: Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England, United Kingdom (© AWL Images/DanitaDelimont.com)*
+|2025-02-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GoldenBridge_EN-CA4566090328_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenBridge_EN-CA4566090328_UHD.jpg)|
+||*Copyright: Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)*
 ||
 |||
-|2025-02-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-GB1298957029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-GB1298957029_UHD.jpg)|
-||*Copyright: Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com)*
+|2025-02-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GoldenBridge_EN-GB1672320037_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenBridge_EN-GB1672320037_UHD.jpg)|
+||*Copyright: Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)*
 ||
 |||
-|2025-02-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_IT-IT3273904446_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_IT-IT3273904446_UHD.jpg)|
-||*Copyright: Viadotto Ribblehead e monte Ingleborough, North Yorkshire, Inghilterra (© AWL Images/DanitaDelimont.com)*
+|2025-02-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GoldenBridge_IT-IT2971017940_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenBridge_IT-IT2971017940_UHD.jpg)|
+||*Copyright: Ponte d'oro, colline di Bà Nà, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)*
 ||
 |||
-|2025-02-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_ES-ES5419364772_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_ES-ES5419364772_UHD.jpg)|
-||*Copyright: Viaducto de Ribblehead y montaña de Ingleborough, Yorkshire del Norte, Inglaterra, Reino Unido (© AWL Images/DanitaDelimont.com)*
+|2025-02-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PrioratTarragona_ES-ES0211120786_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrioratTarragona_ES-ES0211120786_UHD.jpg)|
+||*Copyright: Siurana de Tarragona, Cataluña, España (© Sergi Boixader/Alamy Stock Photo)*
 ||
 |||
-|2025-02-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_FR-CA7176711694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_FR-CA7176711694_UHD.jpg)|
-||*Copyright: Viaduc de Ribblehead et sommet d’Ingleborough, Nord de l'Angleterre, Royaume-Uni (© AWL Images/DanitaDelimont.com)*
+|2025-02-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GoldenBridge_FR-CA7277634680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoldenBridge_FR-CA7277634680_UHD.jpg)|
+||*Copyright: Pont doré, collines Bà Nà, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)*
 ||
 |||
 
