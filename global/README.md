@@ -6,9 +6,9 @@
 ||*Copyright: Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)*
 ||
 |||
-|2025-02-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ScottishSheep_JA-JP7061956700_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottishSheep_JA-JP7061956700_UHD.jpg)|
-||*Copyright: ブラックフェース, スコットランド  (© Mike Powles/Getty Images)*
+|2025-02-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WhararikiBeach_JA-JP9113396067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhararikiBeach_JA-JP9113396067_UHD.jpg)|
+||*Copyright: アーチウェイ諸島, ニュージーランド (© Francesco Vaninetti/AWL/plainpicture)*
 ||
 |||
 |2025-02-05|**Region: en-IN**||
