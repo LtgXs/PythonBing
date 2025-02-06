@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-02-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg)|
-||*Copyright: Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)*
+|2025-02-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg)|
+||*Copyright: Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)*
 ||
 |||
 |2025-02-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アーチウェイ諸島, ニュージーランド (© Francesco Vaninetti/AWL/plainpicture)*
 ||
 |||
-|2025-02-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WhararikiBeach_EN-IN3664421729_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhararikiBeach_EN-IN3664421729_UHD.jpg)|
+|2025-02-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ScottishSheep_EN-IN6992172099_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottishSheep_EN-IN6992172099_UHD.jpg)|
+||*Copyright: Scottish Blackface sheep, Aberdeenshire, Scotland (© Mike Powles/Getty Images)*
+||
+|||
+|2025-02-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.WhararikiBeach_PT-BR7385955178_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhararikiBeach_PT-BR7385955178_UHD.jpg)|
+||*Copyright: Ilha Archway, Praia Wharariki, Ilha Sul, Nova Zelândia (© Francesco Vaninetti/AWL/plainpicture)*
+||
+|||
+|2025-02-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.WhararikiBeach_FR-FR6142596123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhararikiBeach_FR-FR6142596123_UHD.jpg)|
+||*Copyright: Îles Archway, plage de Wharariki, Tasman, Nouvelle-Zélande (© Francesco Vaninetti/AWL/plainpicture)*
+||
+|||
+|2025-02-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.WhararikiBeach_DE-DE0573200423_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhararikiBeach_DE-DE0573200423_UHD.jpg)|
+||*Copyright: Archway Islands, Wharariki Beach, Südinsel, Neuseeland (© Francesco Vaninetti/AWL/plainpicture)*
+||
+|||
+|2025-02-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.WhararikiBeach_EN-CA4374441149_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhararikiBeach_EN-CA4374441149_UHD.jpg)|
 ||*Copyright: Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)*
 ||
 |||
-|2025-02-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ScottishSheep_PT-BR7044869693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottishSheep_PT-BR7044869693_UHD.jpg)|
-||*Copyright: Ovelha Blackface Escocesa, Aberdeenshire, Escócia (© Mike Powles/Getty Images)*
+|2025-02-07|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.WhararikiBeach_EN-GB0621465548_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhararikiBeach_EN-GB0621465548_UHD.jpg)|
+||*Copyright: Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)*
 ||
 |||
-|2025-02-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ScottishSheep_FR-FR6098426442_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottishSheep_FR-FR6098426442_UHD.jpg)|
-||*Copyright: Moutons Scottish Blackface, Écosse (© Mike Powles/Getty Images)*
+|2025-02-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.WhararikiBeach_IT-IT3025215693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhararikiBeach_IT-IT3025215693_UHD.jpg)|
+||*Copyright: Isole Archway, Spiaggia di Wharariki, Isola del Sud, Nuova Zelanda (© Francesco Vaninetti/AWL/plainpicture)*
 ||
 |||
-|2025-02-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ScottishSheep_DE-DE0235532190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottishSheep_DE-DE0235532190_UHD.jpg)|
-||*Copyright: Scottish Blackface-Schaf, Aberdeenshire, Schottland (© Mike Powles/Getty Images)*
+|2025-02-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.WhararikiBeach_ES-ES6059269268_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhararikiBeach_ES-ES6059269268_UHD.jpg)|
+||*Copyright: Islas Archway, Playa Wharariki, Isla Sur, Nueva Zelanda (© Francesco Vaninetti/AWL/plainpicture)*
 ||
 |||
-|2025-02-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ScottishSheep_EN-CA4202362647_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottishSheep_EN-CA4202362647_UHD.jpg)|
-||*Copyright: Scottish Blackface sheep, Aberdeenshire, Scotland (© Mike Powles/Getty Images)*
-||
-|||
-|2025-02-06|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ScottishSheep_EN-GB0591608610_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottishSheep_EN-GB0591608610_UHD.jpg)|
-||*Copyright: Scottish Blackface sheep, Aberdeenshire, Scotland (© Mike Powles/Getty Images)*
-||
-|||
-|2025-02-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ScottishSheep_IT-IT3106374740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottishSheep_IT-IT3106374740_UHD.jpg)|
-||*Copyright: Pecore scozzesi Blackface, Aberdeenshire, Scozia (© Mike Powles/Getty Images)*
-||
-|||
-|2025-02-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ScottishSheep_ES-ES5976225157_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottishSheep_ES-ES5976225157_UHD.jpg)|
-||*Copyright: Ovejas escocesas Blackface, Aberdeenshire, Escocia (© Mike Powles/Getty Images)*
-||
-|||
-|2025-02-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ScottishSheep_FR-CA7662917245_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottishSheep_FR-CA7662917245_UHD.jpg)|
-||*Copyright: Moutons Scottish Blackface, Écosse (© Mike Powles/Getty Images)*
+|2025-02-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.WhararikiBeach_FR-CA4266393826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhararikiBeach_FR-CA4266393826_UHD.jpg)|
+||*Copyright: Îles Archway, plage de Wharariki, Tasman, Nouvelle-Zélande (© Francesco Vaninetti/AWL/plainpicture)*
 ||
 |||
 
