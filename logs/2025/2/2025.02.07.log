@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:16] Picture infomations saved to  global/fr-CA/README.md
 [09:27:16] Picture infomations saved to global/fr-CA/history/2025/02/08_fr-CA.md
 Program exit at 09:27:16
+
+Program started at 16:14:20
+Operating System Name: Linux
+Operating System Version: #23-Ubuntu SMP Mon Dec  9 16:58:58 UTC 2024
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1911-354
+Processor Type: x86_64
+Python Version: 3.12.8
+Python Interpreter Name: CPython
+[16:14:20] Start geting CN Bing Wallpaper
+[16:14:20] Successful get url: https://www.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg
+[16:14:20] Image saved to img/background.jpg
+[16:14:20] Info saved to README.md
+[16:14:20] Image saved to history/2025/02/08.md
+[16:14:20] Start geting global Bing Wallpaper, region=en-US, local time is 2025-02-07 11:14:20.933889-05:00
+[16:14:21] Successful get url: https://www.bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg
+[16:14:21] Picture infomations saved to  global/en-US/README.md
+[16:14:21] Picture infomations saved to global/en-US/history/2025/02/08_en-US.md
+[16:14:21] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-02-08 01:14:21.161927+09:00
+[16:14:21] Successful get url: https://www.bing.com/th?id=OHR.SnowySvaneti_JA-JP2274619860_UHD.jpg
+[16:14:21] Picture infomations saved to  global/ja-JP/README.md
+[16:14:21] Picture infomations saved to global/ja-JP/history/2025/02/08_ja-JP.md
+[16:14:21] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-02-07 21:44:21.322503+05:30
+[16:14:21] Successful get url: https://www.bing.com/th?id=OHR.BlueNorway_EN-IN7562913622_UHD.jpg
+[16:14:21] Picture infomations saved to  global/en-IN/README.md
+[16:14:21] Picture infomations saved to global/en-IN/history/2025/02/07_en-IN.md
+[16:14:21] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-02-07 13:14:21.494179-03:00
+[16:14:21] Successful get url: https://www.bing.com/th?id=OHR.BlueNorway_PT-BR1972445946_UHD.jpg
+[16:14:21] Picture infomations saved to  global/pt-BR/README.md
+[16:14:21] Picture infomations saved to global/pt-BR/history/2025/02/08_pt-BR.md
+[16:14:21] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-02-07 17:14:21.652550+01:00
+[16:14:21] Successful get url: https://www.bing.com/th?id=OHR.LouvreRainyDay_FR-FR9439129374_UHD.jpg
+[16:14:21] Picture infomations saved to  global/fr-FR/README.md
+[16:14:21] Picture infomations saved to global/fr-FR/history/2025/02/07_fr-FR.md
+[16:14:21] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-02-07 17:14:21.831394+01:00
+[16:14:21] Successful get url: https://www.bing.com/th?id=OHR.BlueNorway_DE-DE6219110826_UHD.jpg
+[16:14:21] Picture infomations saved to  global/de-DE/README.md
+[16:14:22] Picture infomations saved to global/de-DE/history/2025/02/07_de-DE.md
+[16:14:22] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-02-07 11:14:22.000477-05:00
+[16:14:22] Successful get url: https://www.bing.com/th?id=OHR.BlueNorway_EN-CA8085268470_UHD.jpg
+[16:14:22] Picture infomations saved to  global/en-CA/README.md
+[16:14:22] Picture infomations saved to global/en-CA/history/2025/02/08_en-CA.md
+[16:14:22] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-02-07 16:14:22.385167+00:00
+[16:14:22] Successful get url: https://www.bing.com/th?id=OHR.BlueNorway_EN-GB4715422563_UHD.jpg
+[16:14:22] Picture infomations saved to  global/en-GB/README.md
+[16:14:22] Picture infomations saved to global/en-GB/history/2025/02/08_en-GB.md
+[16:14:22] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-02-07 17:14:22.563623+01:00
+[16:14:22] Successful get url: https://www.bing.com/th?id=OHR.BlueNorway_IT-IT0515535753_UHD.jpg
+[16:14:22] Picture infomations saved to  global/it-IT/README.md
+[16:14:22] Picture infomations saved to global/it-IT/history/2025/02/07_it-IT.md
+[16:14:22] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-02-07 17:14:22.701973+01:00
+[16:14:22] Successful get url: https://www.bing.com/th?id=OHR.BlueNorway_ES-ES9259858969_UHD.jpg
+[16:14:22] Picture infomations saved to  global/es-ES/README.md
+[16:14:22] Picture infomations saved to global/es-ES/history/2025/02/07_es-ES.md
+[16:14:22] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-02-07 11:14:22.886261-05:00
+[16:14:22] Successful get url: https://www.bing.com/th?id=OHR.BlueNorway_FR-CA3240346092_UHD.jpg
+[16:14:23] Picture infomations saved to  global/fr-CA/README.md
+[16:14:23] Picture infomations saved to global/fr-CA/history/2025/02/08_fr-CA.md
+Program exit at 16:14:23

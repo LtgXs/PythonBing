@@ -6,9 +6,9 @@
 ||*Copyright: Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)*
 ||
 |||
-|2025-02-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BlueNorway_JA-JP1977029810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNorway_JA-JP1977029810_UHD.jpg)|
-||*Copyright: トロンハイム, ノルウェー (© Jeanny Mueller/Getty Images)*
+|2025-02-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SnowySvaneti_JA-JP2274619860_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowySvaneti_JA-JP2274619860_UHD.jpg)|
+||*Copyright: メスティア, ジョージア スヴァネティ (© photoaliona/Getty Images)*
 ||
 |||
 |2025-02-07|**Region: en-IN**||
