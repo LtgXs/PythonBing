@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-02-08|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg)|
-||*Copyright: Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)*
+|2025-02-09|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg)|
+||*Copyright: Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)*
 ||
 |||
 |2025-02-08|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: メスティア, ジョージア スヴァネティ (© photoaliona/Getty Images)*
 ||
 |||
-|2025-02-07|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BlueNorway_EN-IN7562913622_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNorway_EN-IN7562913622_UHD.jpg)|
-||*Copyright: Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)*
+|2025-02-08|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SnowySvaneti_EN-IN8244607405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowySvaneti_EN-IN8244607405_UHD.jpg)|
+||*Copyright: Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)*
 ||
 |||
-|2025-02-08|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BlueNorway_PT-BR1972445946_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNorway_PT-BR1972445946_UHD.jpg)|
-||*Copyright: Hora azul em Trontêmio, Noruega (© Jeanny Mueller/Getty Images)*
+|2025-02-09|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SnowySvaneti_PT-BR2482598093_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowySvaneti_PT-BR2482598093_UHD.jpg)|
+||*Copyright: Torres medievais em Mestia, Suanécia, Geórgia (© photoaliona/Getty Images)*
 ||
 |||
-|2025-02-07|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LouvreRainyDay_FR-FR9439129374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LouvreRainyDay_FR-FR9439129374_UHD.jpg)|
-||*Copyright: Pyramide du Louvre, Paris, France (© Andriy Kravchenko/Alamy Stock Photo)*
+|2025-02-08|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SnowySvaneti_FR-FR5675454162_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowySvaneti_FR-FR5675454162_UHD.jpg)|
+||*Copyright: Tours médiévales, Mestia, Haut-Svaneti, Géorgie (© photoaliona/Getty Images)*
 ||
 |||
-|2025-02-07|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BlueNorway_DE-DE6219110826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNorway_DE-DE6219110826_UHD.jpg)|
-||*Copyright: Blaue Stunde in Trondheim, Norwegen (© Jeanny Mueller/Getty Images)*
+|2025-02-08|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SnowySvaneti_DE-DE7103298381_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowySvaneti_DE-DE7103298381_UHD.jpg)|
+||*Copyright: Mittelalterliche Türme in Mestia, Oberswanetien, Georgien (© photoaliona/Getty Images)*
 ||
 |||
-|2025-02-08|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BlueNorway_EN-CA8085268470_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNorway_EN-CA8085268470_UHD.jpg)|
-||*Copyright: Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)*
+|2025-02-09|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SnowySvaneti_EN-CA8293251402_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowySvaneti_EN-CA8293251402_UHD.jpg)|
+||*Copyright: Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)*
 ||
 |||
-|2025-02-08|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BlueNorway_EN-GB4715422563_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNorway_EN-GB4715422563_UHD.jpg)|
-||*Copyright: Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)*
+|2025-02-09|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SnowySvaneti_EN-GB4839188622_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowySvaneti_EN-GB4839188622_UHD.jpg)|
+||*Copyright: Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)*
 ||
 |||
-|2025-02-07|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BlueNorway_IT-IT0515535753_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNorway_IT-IT0515535753_UHD.jpg)|
-||*Copyright: Ora blu a Trondheim, Norvegia (© Jeanny Mueller/Getty Images)*
+|2025-02-08|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SnowySvaneti_IT-IT0719958038_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowySvaneti_IT-IT0719958038_UHD.jpg)|
+||*Copyright: Torri medievali a Mestia, Svanezia, Georgia (© photoaliona/Getty Images)*
 ||
 |||
-|2025-02-07|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BlueNorway_ES-ES9259858969_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNorway_ES-ES9259858969_UHD.jpg)|
-||*Copyright: Hora azul en Trondheim, Noruega (© Jeanny Mueller/Getty Images)*
+|2025-02-08|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PremiosGoya_ES-ES9389747120_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PremiosGoya_ES-ES9389747120_UHD.jpg)|
+||*Copyright: La Alhambra vista desde el Albaicín, Granada, Andalucía, España (© Antonio Violi/Alamy Stock Photo)*
 ||
 |||
-|2025-02-08|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BlueNorway_FR-CA3240346092_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNorway_FR-CA3240346092_UHD.jpg)|
-||*Copyright: Heure bleue à Trondheim, Norvège (© Jeanny Mueller/Getty Images)*
+|2025-02-09|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SnowySvaneti_FR-CA7435205782_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowySvaneti_FR-CA7435205782_UHD.jpg)|
+||*Copyright: Tours médiévales, Mestia, Haute-Svaneti, Géorgie (© photoaliona/Getty Images)*
 ||
 |||
 
