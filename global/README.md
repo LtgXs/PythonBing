@@ -6,9 +6,9 @@
 ||*Copyright: Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)*
 ||
 |||
-|2025-02-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AlstromPoint_JA-JP2498220831_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlstromPoint_JA-JP2498220831_UHD.jpg)|
-||*Copyright: アルストロムポイント, 米国ユタ州 (© T.M. Schultze/TANDEM Stills + Motion)*
+|2025-02-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.UmbrellaDay_JA-JP2687142465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UmbrellaDay_JA-JP2687142465_UHD.jpg)|
+||*Copyright: バラマーケット, イギリス ロンドン (© Malcolm P Chapman/Getty Images)*
 ||
 |||
 |2025-02-09|**Region: en-IN**||
