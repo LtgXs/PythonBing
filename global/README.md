@@ -6,9 +6,9 @@
 ||*Copyright: Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)*
 ||
 |||
-|2025-02-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.UmbrellaDay_JA-JP2687142465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UmbrellaDay_JA-JP2687142465_UHD.jpg)|
-||*Copyright: バラマーケット, イギリス ロンドン (© Malcolm P Chapman/Getty Images)*
+|2025-02-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KairakuUme2025_JA-JP3144342607_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KairakuUme2025_JA-JP3144342607_UHD.jpg)|
+||*Copyright: 春の訪れを告げる梅の花, 茨城県 水戸市 (© dekitateyo/shutterstock)*
 ||
 |||
 |2025-02-10|**Region: en-IN**||
