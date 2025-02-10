@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-02-10|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg)|
-||*Copyright: Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)*
+|2025-02-11|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg)|
+||*Copyright: Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)*
 ||
 |||
 |2025-02-10|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: バラマーケット, イギリス ロンドン (© Malcolm P Chapman/Getty Images)*
 ||
 |||
-|2025-02-09|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AlstromPoint_EN-IN8438578560_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlstromPoint_EN-IN8438578560_UHD.jpg)|
-||*Copyright: Alstrom Point, Lake Powell, Utah, United States (© T.M. Schultze/TANDEM Stills + Motion)*
+|2025-02-10|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.UmbrellaDay_EN-IN8605591874_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UmbrellaDay_EN-IN8605591874_UHD.jpg)|
+||*Copyright: Art installation of umbrellas, Borough Market, London, England (© Malcolm P Chapman/Getty Images)*
 ||
 |||
-|2025-02-10|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AlstromPoint_PT-BR0066857741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlstromPoint_PT-BR0066857741_UHD.jpg)|
-||*Copyright: Alstrom Point, Lago Powell, Utah, EUA (© T.M. Schultze/TANDEM Stills + Motion)*
+|2025-02-11|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DiaAtletaPro_PT-BR7651032356_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiaAtletaPro_PT-BR7651032356_UHD.jpg)|
+||*Copyright: Oracle Red Bull Racing em São Paulo (© Jared C. Tilton/Staff/Getty Images)*
 ||
 |||
-|2025-02-09|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AlstromPoint_FR-FR6504478404_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlstromPoint_FR-FR6504478404_UHD.jpg)|
-||*Copyright: Alstrom Point, lac Powell, Utah, États-Unis (© T.M. Schultze/TANDEM Stills + Motion)*
+|2025-02-10|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.UmbrellaDay_FR-FR6755683409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UmbrellaDay_FR-FR6755683409_UHD.jpg)|
+||*Copyright: Installation artistique de parapluies, Borough Market, Londres, Angleterre (© Malcolm P Chapman/Getty Images)*
 ||
 |||
-|2025-02-09|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LeonardoGlassCubeBadDriburg_DE-DE7335934587_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeonardoGlassCubeBadDriburg_DE-DE7335934587_UHD.jpg)|
-||*Copyright: Leonardo Glass Cube, Bad Driburg, Nordrhein-Westfalen (© Nathan Willock-VIEW/Alamy Stock Foto)*
+|2025-02-10|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.UmbrellaDay_DE-DE7581909470_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UmbrellaDay_DE-DE7581909470_UHD.jpg)|
+||*Copyright: Kunstinstallation von Regenschirmen, Borough Market, London, England (© Malcolm P Chapman/Getty Images)*
 ||
 |||
-|2025-02-10|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AlstromPoint_EN-CA8518632532_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlstromPoint_EN-CA8518632532_UHD.jpg)|
-||*Copyright: Alstrom Point, Lake Powell, Utah, United States (© T.M. Schultze/TANDEM Stills + Motion)*
+|2025-02-11|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BanffSnow25_EN-CA9095652551_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BanffSnow25_EN-CA9095652551_UHD.jpg)|
+||*Copyright: Banff National Park in winter, Alberta, Canada (© Waitforlight/Moment/Getty Images)*
 ||
 |||
-|2025-02-10|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AlstromPoint_EN-GB5387097476_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlstromPoint_EN-GB5387097476_UHD.jpg)|
-||*Copyright: Alstrom Point, Lake Powell, Utah, United States (© T.M. Schultze/TANDEM Stills + Motion)*
+|2025-02-11|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.UmbrellaDay_EN-GB6243466764_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UmbrellaDay_EN-GB6243466764_UHD.jpg)|
+||*Copyright: Art installation of umbrellas, Borough Market, London, England (© Malcolm P Chapman/Getty Images)*
 ||
 |||
-|2025-02-09|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AlstromPoint_IT-IT1127096784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlstromPoint_IT-IT1127096784_UHD.jpg)|
-||*Copyright: Alstrom Point, Lago Powell, Utah, USA (© T.M. Schultze/TANDEM Stills + Motion)*
+|2025-02-10|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.UmbrellaDay_IT-IT1405781799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UmbrellaDay_IT-IT1405781799_UHD.jpg)|
+||*Copyright: Installazione artistica di ombrelli, Borough Market, Londra, Inghilterra (© Malcolm P Chapman/Getty Images)*
 ||
 |||
-|2025-02-09|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SnowySvaneti_ES-ES9495722875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowySvaneti_ES-ES9495722875_UHD.jpg)|
-||*Copyright: Torres medievales en Mestia, Mingrelia-Alta Esvanetia, Georgia (© photoaliona/Getty Images)*
+|2025-02-10|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.UmbrellaDay_ES-ES9589999908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UmbrellaDay_ES-ES9589999908_UHD.jpg)|
+||*Copyright: Instalación artística de paraguas, Borough Market, Londres, Inglaterra (© Malcolm P Chapman/Getty Images)*
 ||
 |||
-|2025-02-10|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AlstromPoint_FR-CA6255476346_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlstromPoint_FR-CA6255476346_UHD.jpg)|
-||*Copyright: Alstrom Point, lac Powell, Utah, États-Unis (© T.M. Schultze/TANDEM Stills + Motion)*
+|2025-02-11|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.UmbrellaDay_FR-CA7989925636_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UmbrellaDay_FR-CA7989925636_UHD.jpg)|
+||*Copyright: Installation artistique de parapluies, Borough Market, Londres, Angleterre (© Malcolm P Chapman/Getty Images)*
 ||
 |||
 
