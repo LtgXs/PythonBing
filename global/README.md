@@ -6,9 +6,9 @@
 ||*Copyright: Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)*
 ||
 |||
-|2025-02-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KairakuUme2025_JA-JP3144342607_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KairakuUme2025_JA-JP3144342607_UHD.jpg)|
-||*Copyright: 春の訪れを告げる梅の花, 茨城県 水戸市 (© dekitateyo/shutterstock)*
+|2025-02-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PolarBearSwim_JA-JP3305613182_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearSwim_JA-JP3305613182_UHD.jpg)|
+||*Copyright: ホッキョクグマ  (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
 |2025-02-11|**Region: en-IN**||
