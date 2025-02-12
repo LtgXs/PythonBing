@@ -6,9 +6,9 @@
 ||*Copyright: Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)*
 ||
 |||
-|2025-02-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PolarBearSwim_JA-JP3305613182_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarBearSwim_JA-JP3305613182_UHD.jpg)|
-||*Copyright: ホッキョクグマ  (© Ondrej Prosicky/Shutterstock)*
+|2025-02-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LakeTyrrell_JA-JP3510337163_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTyrrell_JA-JP3510337163_UHD.jpg)|
+||*Copyright: ティレル湖, オーストラリア ビクトリア州 (© Monica Bertolazzi/Getty Images)*
 ||
 |||
 |2025-02-12|**Region: en-IN**||
