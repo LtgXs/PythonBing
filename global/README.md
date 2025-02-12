@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-02-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg)|
-||*Copyright: Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)*
+|2025-02-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg)|
+||*Copyright: Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)*
 ||
 |||
 |2025-02-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ホッキョクグマ  (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-02-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.YungangGrottoes_EN-IN8770982427_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YungangGrottoes_EN-IN8770982427_UHD.jpg)|
-||*Copyright: Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)*
+|2025-02-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AshokaPillar_EN-IN9270643437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AshokaPillar_EN-IN9270643437_UHD.jpg)|
+||*Copyright: Ashoka pillar, Kutagarasala Vihara, Vaishali, Bihar (© Memoryfor/Shutterstock)*
 ||
 |||
-|2025-02-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.YungangGrottoes_PT-BR2035290844_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YungangGrottoes_PT-BR2035290844_UHD.jpg)|
-||*Copyright: Grutas de Yungang, Datong, província de Xanxim, China (© Eric Yang/Getty Images)*
+|2025-02-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GalapagosIguana_PT-BR2320828755_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosIguana_PT-BR2320828755_UHD.jpg)|
+||*Copyright: Iguanas-marinhas, Ilhas Galápagos, Equador (© helovi/Getty Images)*
 ||
 |||
-|2025-02-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.YungangGrottoes_FR-FR6982379876_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YungangGrottoes_FR-FR6982379876_UHD.jpg)|
-||*Copyright: Grottes de Yungang, Datong, province de Shanxi, Chine (© Eric Yang/Getty Images)*
+|2025-02-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GalapagosIguana_FR-FR7185960680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosIguana_FR-FR7185960680_UHD.jpg)|
+||*Copyright: Iguanes marins, îles Galápagos, Équateur (© helovi/Getty Images)*
 ||
 |||
-|2025-02-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.YungangGrottoes_DE-DE7812500680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YungangGrottoes_DE-DE7812500680_UHD.jpg)|
-||*Copyright: Yungang-Grotten, Datong, Provinz Shanxi, China (© Eric Yang/Getty Images)*
+|2025-02-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GalapagosIguana_DE-DE8148803350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosIguana_DE-DE8148803350_UHD.jpg)|
+||*Copyright: Meerechsen, Galápagos-Inseln, Ecuador (© helovi/Getty Images)*
 ||
 |||
-|2025-02-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.YungangGrottoes_EN-CA9325528271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YungangGrottoes_EN-CA9325528271_UHD.jpg)|
-||*Copyright: Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)*
+|2025-02-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GalapagosIguana_EN-CA9835077586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosIguana_EN-CA9835077586_UHD.jpg)|
+||*Copyright: Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)*
 ||
 |||
-|2025-02-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.YungangGrottoes_EN-GB6267033764_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YungangGrottoes_EN-GB6267033764_UHD.jpg)|
-||*Copyright: Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)*
+|2025-02-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GalapagosIguana_EN-GB6309526875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosIguana_EN-GB6309526875_UHD.jpg)|
+||*Copyright: Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)*
 ||
 |||
-|2025-02-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PanoramaSanremoFestival_IT-IT5283578356_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PanoramaSanremoFestival_IT-IT5283578356_UHD.jpg)|
-||*Copyright: Porto di Sanremo, Imperia, Liguria (© Pictures-and-Pixels/iStock/Getty images)*
+|2025-02-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GalapagosIguana_IT-IT5515786764_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosIguana_IT-IT5515786764_UHD.jpg)|
+||*Copyright: Iguane marine, Isole Galápagos, Ecuador (© helovi/Getty Images)*
 ||
 |||
-|2025-02-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.YungangGrottoes_ES-ES9694315972_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YungangGrottoes_ES-ES9694315972_UHD.jpg)|
-||*Copyright: Grutas de Yungang, Datong, provincia de Shanxi, China (© Eric Yang/Getty Images)*
+|2025-02-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GalapagosIguana_ES-ES9781681264_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosIguana_ES-ES9781681264_UHD.jpg)|
+||*Copyright: Iguanas marinas, Islas Galápagos, Ecuador (© helovi/Getty Images)*
 ||
 |||
-|2025-02-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.YungangGrottoes_FR-CA8449584215_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YungangGrottoes_FR-CA8449584215_UHD.jpg)|
-||*Copyright: Grottes de Yungang, Datong, province de Shanxi, Chine (© Eric Yang/Getty Images)*
+|2025-02-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GalapagosIguana_FR-CA2196736682_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosIguana_FR-CA2196736682_UHD.jpg)|
+||*Copyright: Iguanes marins, îles Galápagos, Équateur (© helovi/Getty Images)*
 ||
 |||
 
