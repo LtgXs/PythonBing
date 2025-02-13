@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-02-13
+## History Bing Wallpaper
+Wallpaper date: 2025-02-13
 ![](https://www.bing.com/th?id=OHR.LakeTyrrell_ES-ES9869603940_UHD.jpg&w=1000)Download: [Lago Tyrrell, Victoria, Australia (© Monica Bertolazzi/Getty Images)](https://www.bing.com/th?id=OHR.LakeTyrrell_ES-ES9869603940_UHD.jpg)
 
 Auto get programm by LtgX
