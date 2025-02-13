@@ -6,9 +6,9 @@
 ||*Copyright: Lake Tyrrell, Victoria, Australia (© Monica Bertolazzi/Getty Images)*
 ||
 |||
-|2025-02-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LakeTyrrell_JA-JP3510337163_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeTyrrell_JA-JP3510337163_UHD.jpg)|
-||*Copyright: ティレル湖, オーストラリア ビクトリア州 (© Monica Bertolazzi/Getty Images)*
+|2025-02-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PenguinLove_JA-JP3730970592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinLove_JA-JP3730970592_UHD.jpg)|
+||*Copyright: マゼランペンギンのペア, イギリス (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
 |2025-02-13|**Region: en-IN**||
