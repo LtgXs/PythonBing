@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:20] Picture infomations saved to  global/fr-CA/README.md
 [09:27:20] Picture infomations saved to global/fr-CA/history/2025/02/15_fr-CA.md
 Program exit at 09:27:20
+
+Program started at 16:13:54
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1057-468
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:13:54] Start geting CN Bing Wallpaper
+[16:13:54] Successful get url: https://www.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg
+[16:13:54] Image saved to img/background.jpg
+[16:13:54] Info saved to README.md
+[16:13:54] Image saved to history/2025/02/15.md
+[16:13:54] Start geting global Bing Wallpaper, region=en-US, local time is 2025-02-14 11:13:54.736045-05:00
+[16:13:54] Successful get url: https://www.bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg
+[16:13:54] Picture infomations saved to  global/en-US/README.md
+[16:13:54] Picture infomations saved to global/en-US/history/2025/02/15_en-US.md
+[16:13:54] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-02-15 01:13:54.913284+09:00
+[16:13:54] Successful get url: https://www.bing.com/th?id=OHR.Misotsuchi2025_JA-JP3931043311_UHD.jpg
+[16:13:55] Picture infomations saved to  global/ja-JP/README.md
+[16:13:55] Picture infomations saved to global/ja-JP/history/2025/02/15_ja-JP.md
+[16:13:55] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-02-14 21:43:55.086306+05:30
+[16:13:55] Successful get url: https://www.bing.com/th?id=OHR.PenguinLove_EN-IN9647996808_UHD.jpg
+[16:13:55] Picture infomations saved to  global/en-IN/README.md
+[16:13:55] Picture infomations saved to global/en-IN/history/2025/02/14_en-IN.md
+[16:13:55] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-02-14 13:13:55.263958-03:00
+[16:13:55] Successful get url: https://www.bing.com/th?id=OHR.PelourinhoSalvador_PT-BR8001944563_UHD.jpg
+[16:13:55] Picture infomations saved to  global/pt-BR/README.md
+[16:13:55] Picture infomations saved to global/pt-BR/history/2025/02/15_pt-BR.md
+[16:13:55] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-02-14 17:13:55.450007+01:00
+[16:13:55] Successful get url: https://www.bing.com/th?id=OHR.PenguinLove_FR-FR7793534409_UHD.jpg
+[16:13:55] Picture infomations saved to  global/fr-FR/README.md
+[16:13:55] Picture infomations saved to global/fr-FR/history/2025/02/14_fr-FR.md
+[16:13:55] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-02-14 17:13:55.619972+01:00
+[16:13:55] Successful get url: https://www.bing.com/th?id=OHR.PenguinLove_DE-DE2328190080_UHD.jpg
+[16:13:55] Picture infomations saved to  global/de-DE/README.md
+[16:13:55] Picture infomations saved to global/de-DE/history/2025/02/14_de-DE.md
+[16:13:55] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-02-14 11:13:55.798768-05:00
+[16:13:55] Successful get url: https://www.bing.com/th?id=OHR.PenguinLove_EN-CA0448805956_UHD.jpg
+[16:13:55] Picture infomations saved to  global/en-CA/README.md
+[16:13:55] Picture infomations saved to global/en-CA/history/2025/02/15_en-CA.md
+[16:13:55] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-02-14 16:13:55.983298+00:00
+[16:13:56] Successful get url: https://www.bing.com/th?id=OHR.PenguinLove_EN-GB6356684660_UHD.jpg
+[16:13:56] Picture infomations saved to  global/en-GB/README.md
+[16:13:56] Picture infomations saved to global/en-GB/history/2025/02/15_en-GB.md
+[16:13:56] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-02-14 17:13:56.153774+01:00
+[16:13:56] Successful get url: https://www.bing.com/th?id=OHR.TypicalVenetianRedGold_IT-IT4023171951_UHD.jpg
+[16:13:56] Picture infomations saved to  global/it-IT/README.md
+[16:13:56] Picture infomations saved to global/it-IT/history/2025/02/14_it-IT.md
+[16:13:56] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-02-14 17:13:56.323172+01:00
+[16:13:56] Successful get url: https://www.bing.com/th?id=OHR.PenguinLove_ES-ES9960991342_UHD.jpg
+[16:13:56] Picture infomations saved to  global/es-ES/README.md
+[16:13:56] Picture infomations saved to global/es-ES/history/2025/02/14_es-ES.md
+[16:13:56] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-02-14 11:13:56.481847-05:00
+[16:13:56] Successful get url: https://www.bing.com/th?id=OHR.PenguinLove_FR-CA6502160876_UHD.jpg
+[16:13:56] Picture infomations saved to  global/fr-CA/README.md
+[16:13:56] Picture infomations saved to global/fr-CA/history/2025/02/15_fr-CA.md
+Program exit at 16:13:56
