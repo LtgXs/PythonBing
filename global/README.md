@@ -6,9 +6,9 @@
 ||*Copyright: Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)*
 ||
 |||
-|2025-02-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Misotsuchi2025_JA-JP3931043311_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Misotsuchi2025_JA-JP3931043311_UHD.jpg)|
-||*Copyright: 三十槌の氷柱, 埼玉県 秩父市 (© watayu0821/Shutterstock)*
+|2025-02-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HumpbackMother_JA-JP4098515390_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackMother_JA-JP4098515390_UHD.jpg)|
+||*Copyright: ザトウクジラの親子, トンガ (© Chase Dekker/Minden Pictures)*
 ||
 |||
 |2025-02-15|**Region: en-IN**||
