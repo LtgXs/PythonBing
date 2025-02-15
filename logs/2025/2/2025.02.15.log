@@ -1,0 +1,60 @@
+
+Program started at 09:26:38
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1676-688
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[09:26:38] Start geting CN Bing Wallpaper
+[09:26:38] Successful get url: https://www.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg
+[09:26:38] Image saved to img/background.jpg
+[09:26:38] Info saved to README.md
+[09:26:38] Image saved to history/2025/02/15.md
+[09:26:38] Start geting global Bing Wallpaper, region=en-US, local time is 2025-02-15 04:26:38.848204-05:00
+[09:26:38] Successful get url: https://www.bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg
+[09:26:39] Picture infomations saved to  global/en-US/README.md
+[09:26:39] Picture infomations saved to global/en-US/history/2025/02/16_en-US.md
+[09:26:39] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-02-15 18:26:39.149411+09:00
+[09:26:39] Successful get url: https://www.bing.com/th?id=OHR.Misotsuchi2025_JA-JP3931043311_UHD.jpg
+[09:26:39] Picture infomations saved to  global/ja-JP/README.md
+[09:26:39] Picture infomations saved to global/ja-JP/history/2025/02/15_ja-JP.md
+[09:26:39] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-02-15 14:56:39.485495+05:30
+[09:26:39] Successful get url: https://www.bing.com/th?id=OHR.Misotsuchi2025_EN-IN0138753388_UHD.jpg
+[09:26:39] Picture infomations saved to  global/en-IN/README.md
+[09:26:39] Picture infomations saved to global/en-IN/history/2025/02/15_en-IN.md
+[09:26:39] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-02-15 06:26:39.738321-03:00
+[09:26:39] Successful get url: https://www.bing.com/th?id=OHR.Misotsuchi2025_PT-BR6356787037_UHD.jpg
+[09:26:40] Picture infomations saved to  global/pt-BR/README.md
+[09:26:40] Picture infomations saved to global/pt-BR/history/2025/02/16_pt-BR.md
+[09:26:40] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-02-15 10:26:40.029595+01:00
+[09:26:40] Successful get url: https://www.bing.com/th?id=OHR.CarnivalNice_FR-FR8752947591_UHD.jpg
+[09:26:40] Picture infomations saved to  global/fr-FR/README.md
+[09:26:40] Picture infomations saved to global/fr-FR/history/2025/02/15_fr-FR.md
+[09:26:40] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-02-15 10:26:40.949274+01:00
+[09:26:41] Successful get url: https://www.bing.com/th?id=OHR.Misotsuchi2025_DE-DE8865716337_UHD.jpg
+[09:26:41] Picture infomations saved to  global/de-DE/README.md
+[09:26:41] Picture infomations saved to global/de-DE/history/2025/02/15_de-DE.md
+[09:26:41] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-02-15 04:26:41.227574-05:00
+[09:26:41] Successful get url: https://www.bing.com/th?id=OHR.Misotsuchi2025_EN-CA1564430447_UHD.jpg
+[09:26:41] Picture infomations saved to  global/en-CA/README.md
+[09:26:41] Picture infomations saved to global/en-CA/history/2025/02/16_en-CA.md
+[09:26:41] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-02-15 09:26:41.499063+00:00
+[09:26:41] Successful get url: https://www.bing.com/th?id=OHR.BigGardenBirdwatch2025_EN-GB9755191158_UHD.jpg
+[09:26:41] Picture infomations saved to  global/en-GB/README.md
+[09:26:41] Picture infomations saved to global/en-GB/history/2025/02/16_en-GB.md
+[09:26:41] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-02-15 10:26:41.777353+01:00
+[09:26:41] Successful get url: https://www.bing.com/th?id=OHR.Misotsuchi2025_IT-IT7855483347_UHD.jpg
+[09:26:42] Picture infomations saved to  global/it-IT/README.md
+[09:26:42] Picture infomations saved to global/it-IT/history/2025/02/15_it-IT.md
+[09:26:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-02-15 10:26:42.076264+01:00
+[09:26:42] Successful get url: https://www.bing.com/th?id=OHR.Misotsuchi2025_ES-ES0046918328_UHD.jpg
+[09:26:42] Picture infomations saved to  global/es-ES/README.md
+[09:26:42] Picture infomations saved to global/es-ES/history/2025/02/15_es-ES.md
+[09:26:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-02-15 04:26:42.356369-05:00
+[09:26:42] Successful get url: https://www.bing.com/th?id=OHR.Misotsuchi2025_FR-CA6882256212_UHD.jpg
+[09:26:42] Picture infomations saved to  global/fr-CA/README.md
+[09:26:42] Picture infomations saved to global/fr-CA/history/2025/02/16_fr-CA.md
+Program exit at 09:26:42

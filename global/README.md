@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-02-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg)|
-||*Copyright: Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-02-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg)|
+||*Copyright: Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)*
 ||
 |||
 |2025-02-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 三十槌の氷柱, 埼玉県 秩父市 (© watayu0821/Shutterstock)*
 ||
 |||
-|2025-02-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PenguinLove_EN-IN9647996808_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinLove_EN-IN9647996808_UHD.jpg)|
-||*Copyright: Two Magellanic penguins, Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-02-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.Misotsuchi2025_EN-IN0138753388_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Misotsuchi2025_EN-IN0138753388_UHD.jpg)|
+||*Copyright: Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/shutterstock)*
 ||
 |||
-|2025-02-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PelourinhoSalvador_PT-BR8001944563_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PelourinhoSalvador_PT-BR8001944563_UHD.jpg)|
-||*Copyright: Centro histórico do Pelourinho, Salvador (© golero/Getty Images)*
+|2025-02-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Misotsuchi2025_PT-BR6356787037_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Misotsuchi2025_PT-BR6356787037_UHD.jpg)|
+||*Copyright: Pingentes de gelo em Misotsuchi, Chichibu, Japão (© watayu0821/Shutterstock)*
 ||
 |||
-|2025-02-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PenguinLove_FR-FR7793534409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinLove_FR-FR7793534409_UHD.jpg)|
-||*Copyright: Deux manchots de Magellan, îles Malouines (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-02-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CarnivalNice_FR-FR8752947591_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarnivalNice_FR-FR8752947591_UHD.jpg)|
+||*Copyright: Défilé du Carnaval de Nice, le Roi sur la Promenade des Anglais (© aerial-photos.com/Alamy Stock Photo)*
 ||
 |||
-|2025-02-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PenguinLove_DE-DE2328190080_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinLove_DE-DE2328190080_UHD.jpg)|
-||*Copyright: Zwei Magellanpinguine, Falklandinseln (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-02-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.Misotsuchi2025_DE-DE8865716337_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Misotsuchi2025_DE-DE8865716337_UHD.jpg)|
+||*Copyright: Eiszapfen von Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)*
 ||
 |||
-|2025-02-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PenguinLove_EN-CA0448805956_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinLove_EN-CA0448805956_UHD.jpg)|
-||*Copyright: Two Magellanic penguins, Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-02-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.Misotsuchi2025_EN-CA1564430447_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Misotsuchi2025_EN-CA1564430447_UHD.jpg)|
+||*Copyright: Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/shutterstock)*
 ||
 |||
-|2025-02-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PenguinLove_EN-GB6356684660_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinLove_EN-GB6356684660_UHD.jpg)|
-||*Copyright: Two Magellanic penguins, Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-02-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2025_EN-GB9755191158_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2025_EN-GB9755191158_UHD.jpg)|
+||*Copyright: A kingfisher perched on a branch (© NJphoto/Alamy Stock Photo)*
 ||
 |||
-|2025-02-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TypicalVenetianRedGold_IT-IT4023171951_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TypicalVenetianRedGold_IT-IT4023171951_UHD.jpg)|
-||*Copyright: Maschera veneziana con gondole sul retro, Venezia, Veneto (© Chiara Cattaruzzi Photography/Moment/Getty Images)*
+|2025-02-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.Misotsuchi2025_IT-IT7855483347_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Misotsuchi2025_IT-IT7855483347_UHD.jpg)|
+||*Copyright: Stalattiti di ghiaccio di Misotsuchi, Chichibu, Giappone (© watayu0821/shutterstock)*
 ||
 |||
-|2025-02-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PenguinLove_ES-ES9960991342_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinLove_ES-ES9960991342_UHD.jpg)|
-||*Copyright: Dos pingüinos de Magallanes, Islas Malvinas (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-02-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.Misotsuchi2025_ES-ES0046918328_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Misotsuchi2025_ES-ES0046918328_UHD.jpg)|
+||*Copyright: Carámbanos de Misotsuchi, Chichibu, Japón (© watayu0821/Shutterstock)*
 ||
 |||
-|2025-02-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PenguinLove_FR-CA6502160876_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PenguinLove_FR-CA6502160876_UHD.jpg)|
-||*Copyright: Deux manchots de Magellan, îles Malouines (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-02-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.Misotsuchi2025_FR-CA6882256212_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Misotsuchi2025_FR-CA6882256212_UHD.jpg)|
+||*Copyright: Stalactites de Misotsuchi, Chichibu, Japon (© watayu0821/shutterstock)*
 ||
 |||
 
