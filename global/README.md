@@ -6,9 +6,9 @@
 ||*Copyright: Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)*
 ||
 |||
-|2025-02-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HumpbackMother_JA-JP4098515390_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumpbackMother_JA-JP4098515390_UHD.jpg)|
-||*Copyright: ザトウクジラの親子, トンガ (© Chase Dekker/Minden Pictures)*
+|2025-02-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YungangGrottoes_JA-JP4266553262_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YungangGrottoes_JA-JP4266553262_UHD.jpg)|
+||*Copyright: 雲崗石窟, 中国 山西省 (© Eric Yang/Getty Images)*
 ||
 |||
 |2025-02-16|**Region: en-IN**||
