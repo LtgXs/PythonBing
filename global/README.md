@@ -6,9 +6,9 @@
 ||*Copyright: The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)*
 ||
 |||
-|2025-02-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YungangGrottoes_JA-JP4266553262_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YungangGrottoes_JA-JP4266553262_UHD.jpg)|
-||*Copyright: 雲崗石窟, 中国 山西省 (© Eric Yang/Getty Images)*
+|2025-02-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BlueBelize_JA-JP4446467431_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueBelize_JA-JP4446467431_UHD.jpg)|
+||*Copyright: グレート・ブルーホール, ベリーズ (© JamiesOnAMission/Shutterstock)*
 ||
 |||
 |2025-02-17|**Region: en-IN**||
