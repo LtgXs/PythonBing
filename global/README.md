@@ -6,9 +6,9 @@
 ||*Copyright: Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)*
 ||
 |||
-|2025-02-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BlueBelize_JA-JP4446467431_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueBelize_JA-JP4446467431_UHD.jpg)|
-||*Copyright: グレート・ブルーホール, ベリーズ (© JamiesOnAMission/Shutterstock)*
+|2025-02-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IceHoleOtter_JA-JP4600805047_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceHoleOtter_JA-JP4600805047_UHD.jpg)|
+||*Copyright: ユーラシアカワウソ, オランダ (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
 |2025-02-18|**Region: en-IN**||
