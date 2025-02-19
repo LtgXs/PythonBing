@@ -6,9 +6,9 @@
 ||*Copyright: European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2025-02-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IceHoleOtter_JA-JP4600805047_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceHoleOtter_JA-JP4600805047_UHD.jpg)|
-||*Copyright: ユーラシアカワウソ, オランダ (© Ernst Dirksen/Minden Pictures)*
+|2025-02-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_JA-JP4771104579_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_JA-JP4771104579_UHD.jpg)|
+||*Copyright: ケーニッヒシュタイン要塞, ドイツ (© Bildagentur-online/Exss/Alamy)*
 ||
 |||
 |2025-02-19|**Region: en-IN**||

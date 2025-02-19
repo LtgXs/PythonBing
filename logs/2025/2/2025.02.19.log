@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:44] Picture infomations saved to  global/fr-CA/README.md
 [09:27:44] Picture infomations saved to global/fr-CA/history/2025/02/20_fr-CA.md
 Program exit at 09:27:44
+
+Program started at 16:14:56
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1934-680
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:14:56] Start geting CN Bing Wallpaper
+[16:14:56] Successful get url: https://www.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg
+[16:14:56] Image saved to img/background.jpg
+[16:14:56] Info saved to README.md
+[16:14:56] Image saved to history/2025/02/20.md
+[16:14:56] Start geting global Bing Wallpaper, region=en-US, local time is 2025-02-19 11:14:56.789573-05:00
+[16:14:56] Successful get url: https://www.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg
+[16:14:56] Picture infomations saved to  global/en-US/README.md
+[16:14:56] Picture infomations saved to global/en-US/history/2025/02/20_en-US.md
+[16:14:56] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-02-20 01:14:56.898605+09:00
+[16:14:56] Successful get url: https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_JA-JP4771104579_UHD.jpg
+[16:14:57] Picture infomations saved to  global/ja-JP/README.md
+[16:14:57] Picture infomations saved to global/ja-JP/history/2025/02/20_ja-JP.md
+[16:14:57] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-02-19 21:44:57.060352+05:30
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.IceHoleOtter_EN-IN0694843542_UHD.jpg
+[16:14:57] Picture infomations saved to  global/en-IN/README.md
+[16:14:57] Picture infomations saved to global/en-IN/history/2025/02/19_en-IN.md
+[16:14:57] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-02-19 13:14:57.174112-03:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.IceHoleOtter_PT-BR4179764708_UHD.jpg
+[16:14:57] Picture infomations saved to  global/pt-BR/README.md
+[16:14:57] Picture infomations saved to global/pt-BR/history/2025/02/20_pt-BR.md
+[16:14:57] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-02-19 17:14:57.325608+01:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.IceHoleOtter_FR-FR7480810536_UHD.jpg
+[16:14:57] Picture infomations saved to  global/fr-FR/README.md
+[16:14:57] Picture infomations saved to global/fr-FR/history/2025/02/19_fr-FR.md
+[16:14:57] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-02-19 17:14:57.437296+01:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.IceHoleOtter_DE-DE5011760287_UHD.jpg
+[16:14:57] Picture infomations saved to  global/de-DE/README.md
+[16:14:57] Picture infomations saved to global/de-DE/history/2025/02/19_de-DE.md
+[16:14:57] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-02-19 11:14:57.592621-05:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.IceHoleOtter_EN-CA2426610896_UHD.jpg
+[16:14:57] Picture infomations saved to  global/en-CA/README.md
+[16:14:57] Picture infomations saved to global/en-CA/history/2025/02/20_en-CA.md
+[16:14:57] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-02-19 16:14:57.742379+00:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.IceHoleOtter_EN-GB7580568123_UHD.jpg
+[16:14:57] Picture infomations saved to  global/en-GB/README.md
+[16:14:57] Picture infomations saved to global/en-GB/history/2025/02/20_en-GB.md
+[16:14:57] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-02-19 17:14:57.889857+01:00
+[16:14:57] Successful get url: https://www.bing.com/th?id=OHR.YungangGrottoes_IT-IT7896461151_UHD.jpg
+[16:14:57] Picture infomations saved to  global/it-IT/README.md
+[16:14:57] Picture infomations saved to global/it-IT/history/2025/02/19_it-IT.md
+[16:14:57] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-02-19 17:14:57.987681+01:00
+[16:14:58] Successful get url: https://www.bing.com/th?id=OHR.IceHoleOtter_ES-ES0502740204_UHD.jpg
+[16:14:58] Picture infomations saved to  global/es-ES/README.md
+[16:14:58] Picture infomations saved to global/es-ES/history/2025/02/19_es-ES.md
+[16:14:58] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-02-19 11:14:58.086533-05:00
+[16:14:58] Successful get url: https://www.bing.com/th?id=OHR.IceHoleOtter_FR-CA1911250698_UHD.jpg
+[16:14:58] Picture infomations saved to  global/fr-CA/README.md
+[16:14:58] Picture infomations saved to global/fr-CA/history/2025/02/20_fr-CA.md
+Program exit at 16:14:58
