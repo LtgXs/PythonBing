@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-02-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg)|
-||*Copyright: Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)*
+|2025-02-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg)|
+||*Copyright: European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
 |2025-02-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ユーラシアカワウソ, オランダ (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2025-02-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BlueBelize_EN-IN0493528832_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueBelize_EN-IN0493528832_UHD.jpg)|
-||*Copyright: Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)*
+|2025-02-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.IceHoleOtter_EN-IN0694843542_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceHoleOtter_EN-IN0694843542_UHD.jpg)|
+||*Copyright: European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2025-02-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BlueBelize_PT-BR3865302067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueBelize_PT-BR3865302067_UHD.jpg)|
-||*Copyright: Grande Buraco Azul, Belize (© JamiesOnAMission/Shutterstock)*
+|2025-02-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.IceHoleOtter_PT-BR4179764708_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceHoleOtter_PT-BR4179764708_UHD.jpg)|
+||*Copyright: Lontra-européia, Lelystad, Países Baixos (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2025-02-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BlueBelize_FR-FR7135169329_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueBelize_FR-FR7135169329_UHD.jpg)|
-||*Copyright: Le Grand Trou Bleu, Belize (© JamiesOnAMission/Shutterstock)*
+|2025-02-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.IceHoleOtter_FR-FR7480810536_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceHoleOtter_FR-FR7480810536_UHD.jpg)|
+||*Copyright: Loutre d'Europe, Lelystad, Pays-Bas (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2025-02-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BlueBelize_DE-DE7316744984_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueBelize_DE-DE7316744984_UHD.jpg)|
-||*Copyright: Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)*
+|2025-02-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.IceHoleOtter_DE-DE5011760287_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceHoleOtter_DE-DE5011760287_UHD.jpg)|
+||*Copyright: Europäischer Flussotter, Lelystad, Niederlande (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2025-02-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BlueBelize_EN-CA2231756573_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueBelize_EN-CA2231756573_UHD.jpg)|
-||*Copyright: Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)*
+|2025-02-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.IceHoleOtter_EN-CA2426610896_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceHoleOtter_EN-CA2426610896_UHD.jpg)|
+||*Copyright: European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2025-02-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BlueBelize_EN-GB7414492800_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueBelize_EN-GB7414492800_UHD.jpg)|
-||*Copyright: Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)*
+|2025-02-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.IceHoleOtter_EN-GB7580568123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceHoleOtter_EN-GB7580568123_UHD.jpg)|
+||*Copyright: European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2025-02-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BlueBelize_IT-IT5720382841_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueBelize_IT-IT5720382841_UHD.jpg)|
-||*Copyright: Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)*
+|2025-02-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.YungangGrottoes_IT-IT7896461151_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YungangGrottoes_IT-IT7896461151_UHD.jpg)|
+||*Copyright: Grotte di Yungang, Datong, provincia di Shanxi, Cina (© Eric Yang/Getty Images)*
 ||
 |||
-|2025-02-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BlueBelize_ES-ES0416994585_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueBelize_ES-ES0416994585_UHD.jpg)|
-||*Copyright: El Gran Agujero Azul, costa de Belice (© JamiesOnAMission/Shutterstock)*
+|2025-02-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.IceHoleOtter_ES-ES0502740204_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceHoleOtter_ES-ES0502740204_UHD.jpg)|
+||*Copyright: Nutria de río europea, Lelystad, Países Bajos (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
-|2025-02-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BlueBelize_FR-CA1406479043_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueBelize_FR-CA1406479043_UHD.jpg)|
-||*Copyright: Le Grand Trou Bleu, Belize (© JamiesOnAMission/Shutterstock)*
+|2025-02-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.IceHoleOtter_FR-CA1911250698_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceHoleOtter_FR-CA1911250698_UHD.jpg)|
+||*Copyright: Loutre d'Europe, Lelystad, Pays-Bas (© Ernst Dirksen/Minden Pictures)*
 ||
 |||
 
