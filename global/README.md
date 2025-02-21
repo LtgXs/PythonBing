@@ -6,9 +6,9 @@
 ||*Copyright: Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-02-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ChampakaSarasi_JA-JP0008600806_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChampakaSarasi_JA-JP0008600806_UHD.jpg)|
-||*Copyright: チャンパカ・サラシール, インド カルナータカ州 (© Amith Nag Photography/Getty Images)*
+|2025-02-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.StLouisArch_JA-JP0218152600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StLouisArch_JA-JP0218152600_UHD.jpg)|
+||*Copyright: ゲートウェイ・アーチ, 米国 ミズーリ州 (© f11photo/Getty Images)*
 ||
 |||
 |2025-02-21|**Region: en-IN**||
