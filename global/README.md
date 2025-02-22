@@ -6,9 +6,9 @@
 ||*Copyright: The Gateway Arch in St. Louis, Missouri (© f11photo/Getty Images)*
 ||
 |||
-|2025-02-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.StLouisArch_JA-JP0218152600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StLouisArch_JA-JP0218152600_UHD.jpg)|
-||*Copyright: ゲートウェイ・アーチ, 米国 ミズーリ州 (© f11photo/Getty Images)*
+|2025-02-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MtFujiSunrise_JA-JP0451320828_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtFujiSunrise_JA-JP0451320828_UHD.jpg)|
+||*Copyright: 河口湖からの富士山, 山梨県 南都留郡 (© Twenty47studio/Getty Images)*
 ||
 |||
 |2025-02-22|**Region: en-IN**||
