@@ -6,9 +6,9 @@
 ||*Copyright: Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)*
 ||
 |||
-|2025-02-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MtFujiSunrise_JA-JP0451320828_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MtFujiSunrise_JA-JP0451320828_UHD.jpg)|
-||*Copyright: 河口湖からの富士山, 山梨県 南都留郡 (© Twenty47studio/Getty Images)*
+|2025-02-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_JA-JP0769503543_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_JA-JP0769503543_UHD.jpg)|
+||*Copyright: リブルヘッド高架橋, イングランド ノース・ヨークシャー (© AWL Images/DanitaDelimont.com)*
 ||
 |||
 |2025-02-23|**Region: en-IN**||
