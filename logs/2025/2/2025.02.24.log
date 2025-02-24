@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:29:10] Picture infomations saved to  global/fr-CA/README.md
 [09:29:10] Picture infomations saved to global/fr-CA/history/2025/02/25_fr-CA.md
 Program exit at 09:29:10
+
+Program started at 16:15:59
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1914-423
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:15:59] Start geting CN Bing Wallpaper
+[16:15:59] Successful get url: https://www.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg
+[16:15:59] Image saved to img/background.jpg
+[16:15:59] Info saved to README.md
+[16:15:59] Image saved to history/2025/02/25.md
+[16:15:59] Start geting global Bing Wallpaper, region=en-US, local time is 2025-02-24 11:15:59.760352-05:00
+[16:15:59] Successful get url: https://www.bing.com/th?id=OHR.GiantCuttlefish_EN-US2276053377_UHD.jpg
+[16:15:59] Picture infomations saved to  global/en-US/README.md
+[16:15:59] Picture infomations saved to global/en-US/history/2025/02/25_en-US.md
+[16:15:59] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-02-25 01:16:00.014785+09:00
+[16:16:00] Successful get url: https://www.bing.com/th?id=OHR.BryceHoodoos_JA-JP0914701137_UHD.jpg
+[16:16:00] Picture infomations saved to  global/ja-JP/README.md
+[16:16:00] Picture infomations saved to global/ja-JP/history/2025/02/25_ja-JP.md
+[16:16:00] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-02-24 21:46:00.165570+05:30
+[16:16:00] Successful get url: https://www.bing.com/th?id=OHR.GiantCuttlefish_EN-IN9002970798_UHD.jpg
+[16:16:00] Picture infomations saved to  global/en-IN/README.md
+[16:16:00] Picture infomations saved to global/en-IN/history/2025/02/24_en-IN.md
+[16:16:00] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-02-24 13:16:00.356337-03:00
+[16:16:00] Successful get url: https://www.bing.com/th?id=OHR.GiantCuttlefish_PT-BR7956763969_UHD.jpg
+[16:16:00] Picture infomations saved to  global/pt-BR/README.md
+[16:16:00] Picture infomations saved to global/pt-BR/history/2025/02/25_pt-BR.md
+[16:16:00] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-02-24 17:16:00.540141+01:00
+[16:16:00] Successful get url: https://www.bing.com/th?id=OHR.GiantCuttlefish_FR-FR8590035625_UHD.jpg
+[16:16:00] Picture infomations saved to  global/fr-FR/README.md
+[16:16:00] Picture infomations saved to global/fr-FR/history/2025/02/24_fr-FR.md
+[16:16:00] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-02-24 17:16:00.725633+01:00
+[16:16:00] Successful get url: https://www.bing.com/th?id=OHR.GiantCuttlefish_DE-DE6436813426_UHD.jpg
+[16:16:00] Picture infomations saved to  global/de-DE/README.md
+[16:16:00] Picture infomations saved to global/de-DE/history/2025/02/24_de-DE.md
+[16:16:00] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-02-24 11:16:00.924370-05:00
+[16:16:00] Successful get url: https://www.bing.com/th?id=OHR.GiantCuttlefish_EN-CA7282936990_UHD.jpg
+[16:16:01] Picture infomations saved to  global/en-CA/README.md
+[16:16:01] Picture infomations saved to global/en-CA/history/2025/02/25_en-CA.md
+[16:16:01] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-02-24 16:16:01.095672+00:00
+[16:16:01] Successful get url: https://www.bing.com/th?id=OHR.GiantCuttlefish_EN-GB1252194719_UHD.jpg
+[16:16:01] Picture infomations saved to  global/en-GB/README.md
+[16:16:01] Picture infomations saved to global/en-GB/history/2025/02/25_en-GB.md
+[16:16:01] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-02-24 17:16:01.264497+01:00
+[16:16:01] Successful get url: https://www.bing.com/th?id=OHR.BryceHoodoos_IT-IT9552861475_UHD.jpg
+[16:16:01] Picture infomations saved to  global/it-IT/README.md
+[16:16:01] Picture infomations saved to global/it-IT/history/2025/02/24_it-IT.md
+[16:16:01] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-02-24 17:16:01.430989+01:00
+[16:16:01] Successful get url: https://www.bing.com/th?id=OHR.GiantCuttlefish_ES-ES5593543587_UHD.jpg
+[16:16:01] Picture infomations saved to  global/es-ES/README.md
+[16:16:01] Picture infomations saved to global/es-ES/history/2025/02/24_es-ES.md
+[16:16:01] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-02-24 11:16:01.599578-05:00
+[16:16:01] Successful get url: https://www.bing.com/th?id=OHR.GiantCuttlefish_FR-CA8314855616_UHD.jpg
+[16:16:01] Picture infomations saved to  global/fr-CA/README.md
+[16:16:01] Picture infomations saved to global/fr-CA/history/2025/02/25_fr-CA.md
+Program exit at 16:16:01

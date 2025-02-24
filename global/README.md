@@ -6,9 +6,9 @@
 ||*Copyright: Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia (© Gary Bell/Minden Pictures)*
 ||
 |||
-|2025-02-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_JA-JP0769503543_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibbleheadViaduct_JA-JP0769503543_UHD.jpg)|
-||*Copyright: リブルヘッド高架橋, イングランド ノース・ヨークシャー (© AWL Images/DanitaDelimont.com)*
+|2025-02-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BryceHoodoos_JA-JP0914701137_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BryceHoodoos_JA-JP0914701137_UHD.jpg)|
+||*Copyright: ブライスキャニオン国立公園, 米国 ユタ州 (© Stephen Matera/TANDEM Stills + Motion)*
 ||
 |||
 |2025-02-24|**Region: en-IN**||
