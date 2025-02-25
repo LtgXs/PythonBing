@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:28:42] Picture infomations saved to  global/fr-CA/README.md
 [09:28:42] Picture infomations saved to global/fr-CA/history/2025/02/26_fr-CA.md
 Program exit at 09:28:42
+
+Program started at 16:15:41
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1344-816
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:15:41] Start geting CN Bing Wallpaper
+[16:15:41] Successful get url: https://www.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg
+[16:15:41] Image saved to img/background.jpg
+[16:15:41] Info saved to README.md
+[16:15:41] Image saved to history/2025/02/26.md
+[16:15:41] Start geting global Bing Wallpaper, region=en-US, local time is 2025-02-25 11:15:41.900112-05:00
+[16:15:41] Successful get url: https://www.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg
+[16:15:42] Picture infomations saved to  global/en-US/README.md
+[16:15:42] Picture infomations saved to global/en-US/history/2025/02/26_en-US.md
+[16:15:42] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-02-26 01:15:42.005426+09:00
+[16:15:42] Successful get url: https://www.bing.com/th?id=OHR.ArgyllStalker_JA-JP1121064297_UHD.jpg
+[16:15:42] Picture infomations saved to  global/ja-JP/README.md
+[16:15:42] Picture infomations saved to global/ja-JP/history/2025/02/26_ja-JP.md
+[16:15:42] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-02-25 21:45:42.129738+05:30
+[16:15:42] Successful get url: https://www.bing.com/th?id=OHR.ArgyllStalker_EN-IN2644083090_UHD.jpg
+[16:15:42] Picture infomations saved to  global/en-IN/README.md
+[16:15:42] Picture infomations saved to global/en-IN/history/2025/02/25_en-IN.md
+[16:15:42] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-02-25 13:15:42.242860-03:00
+[16:15:42] Successful get url: https://www.bing.com/th?id=OHR.BryceHoodoos_PT-BR6923982183_UHD.jpg
+[16:15:42] Picture infomations saved to  global/pt-BR/README.md
+[16:15:42] Picture infomations saved to global/pt-BR/history/2025/02/26_pt-BR.md
+[16:15:42] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-02-25 17:15:42.357691+01:00
+[16:15:42] Successful get url: https://www.bing.com/th?id=OHR.MillauBridge_FR-FR5934709762_UHD.jpg
+[16:15:42] Picture infomations saved to  global/fr-FR/README.md
+[16:15:42] Picture infomations saved to global/fr-FR/history/2025/02/25_fr-FR.md
+[16:15:42] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-02-25 17:15:42.539045+01:00
+[16:15:42] Successful get url: https://www.bing.com/th?id=OHR.BryceHoodoos_DE-DE7316141560_UHD.jpg
+[16:15:42] Picture infomations saved to  global/de-DE/README.md
+[16:15:42] Picture infomations saved to global/de-DE/history/2025/02/25_de-DE.md
+[16:15:42] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-02-25 11:15:42.682052-05:00
+[16:15:42] Successful get url: https://www.bing.com/th?id=OHR.BryceHoodoos_EN-CA7439537445_UHD.jpg
+[16:15:42] Picture infomations saved to  global/en-CA/README.md
+[16:15:42] Picture infomations saved to global/en-CA/history/2025/02/26_en-CA.md
+[16:15:42] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-02-25 16:15:42.796769+00:00
+[16:15:42] Successful get url: https://www.bing.com/th?id=OHR.BryceHoodoos_EN-GB1524631248_UHD.jpg
+[16:15:42] Picture infomations saved to  global/en-GB/README.md
+[16:15:42] Picture infomations saved to global/en-GB/history/2025/02/26_en-GB.md
+[16:15:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-02-25 17:15:42.949049+01:00
+[16:15:43] Successful get url: https://www.bing.com/th?id=OHR.MilanFashionWeek_IT-IT9622143512_UHD.jpg
+[16:15:43] Picture infomations saved to  global/it-IT/README.md
+[16:15:43] Picture infomations saved to global/it-IT/history/2025/02/25_it-IT.md
+[16:15:43] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-02-25 17:15:43.081405+01:00
+[16:15:43] Successful get url: https://www.bing.com/th?id=OHR.BryceHoodoos_ES-ES5738568418_UHD.jpg
+[16:15:43] Picture infomations saved to  global/es-ES/README.md
+[16:15:43] Picture infomations saved to global/es-ES/history/2025/02/25_es-ES.md
+[16:15:43] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-02-25 11:15:43.179177-05:00
+[16:15:43] Successful get url: https://www.bing.com/th?id=OHR.WalterdaleBridge_FR-CA9281333446_UHD.jpg
+[16:15:43] Picture infomations saved to  global/fr-CA/README.md
+[16:15:43] Picture infomations saved to global/fr-CA/history/2025/02/26_fr-CA.md
+Program exit at 16:15:43

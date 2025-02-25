@@ -6,9 +6,9 @@
 ||*Copyright: Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)*
 ||
 |||
-|2025-02-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BryceHoodoos_JA-JP0914701137_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BryceHoodoos_JA-JP0914701137_UHD.jpg)|
-||*Copyright: ブライスキャニオン国立公園, 米国 ユタ州 (© Stephen Matera/TANDEM Stills + Motion)*
+|2025-02-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ArgyllStalker_JA-JP1121064297_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArgyllStalker_JA-JP1121064297_UHD.jpg)|
+||*Copyright: ストーカー城, スコットランド (© WLDavies/Getty Images)*
 ||
 |||
 |2025-02-25|**Region: en-IN**||
