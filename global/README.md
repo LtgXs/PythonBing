@@ -6,9 +6,9 @@
 ||*Copyright: Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)*
 ||
 |||
-|2025-02-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ArgyllStalker_JA-JP1121064297_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArgyllStalker_JA-JP1121064297_UHD.jpg)|
-||*Copyright: ストーカー城, スコットランド (© WLDavies/Getty Images)*
+|2025-02-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PolarCub_JA-JP1257956041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarCub_JA-JP1257956041_UHD.jpg)|
+||*Copyright: 雪の中のホッキョクグマの子, カナダ マニトバ州 (© Eric Baccega/NPL/Minden Pictures)*
 ||
 |||
 |2025-02-26|**Region: en-IN**||
