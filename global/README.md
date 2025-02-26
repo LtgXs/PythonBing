@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-02-26|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg)|
-||*Copyright: Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)*
+|2025-02-27|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg)|
+||*Copyright: Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)*
 ||
 |||
 |2025-02-26|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ストーカー城, スコットランド (© WLDavies/Getty Images)*
 ||
 |||
-|2025-02-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-IN2644083090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-IN2644083090_UHD.jpg)|
+|2025-02-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TungnathShiva_EN-IN3198630247_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TungnathShiva_EN-IN3198630247_UHD.jpg)|
+||*Copyright: Tungnath Temple, Uttarakhand (© draco-zlat/Getty Images)*
+||
+|||
+|2025-02-27|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ArgyllStalker_PT-BR7662239404_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArgyllStalker_PT-BR7662239404_UHD.jpg)|
+||*Copyright: Castelo de Stalker no Lago Laich, Argyll, Escócia (© WLDavies/Getty Images)*
+||
+|||
+|2025-02-26|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ArgyllStalker_FR-FR0089551685_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArgyllStalker_FR-FR0089551685_UHD.jpg)|
+||*Copyright: Château de Stalker sur le loch Laich, Argyll, Écosse (© WLDavies/Getty Images)*
+||
+|||
+|2025-02-26|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ArgyllStalker_DE-DE7352876454_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArgyllStalker_DE-DE7352876454_UHD.jpg)|
+||*Copyright: Castle Stalker am Loch Laich, Argyll, Schottland (© WLDavies/Getty Images)*
+||
+|||
+|2025-02-27|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-CA0781984286_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-CA0781984286_UHD.jpg)|
 ||*Copyright: Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)*
 ||
 |||
-|2025-02-26|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BryceHoodoos_PT-BR6923982183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BryceHoodoos_PT-BR6923982183_UHD.jpg)|
-||*Copyright: Hoodoos de arenito, Parque Nacional de Bryce Canyon, Utah, EUA (© Stephen Matera/TANDEM Stills + Motion)*
+|2025-02-27|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-GB9934578048_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-GB9934578048_UHD.jpg)|
+||*Copyright: Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)*
 ||
 |||
-|2025-02-25|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MillauBridge_FR-FR5934709762_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MillauBridge_FR-FR5934709762_UHD.jpg)|
-||*Copyright: Viaduc de Millau, Aveyron, France (© Andrzej Gorzkowski Photography/Alamy Stock Photo)*
+|2025-02-26|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ArgyllStalker_IT-IT3265254164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArgyllStalker_IT-IT3265254164_UHD.jpg)|
+||*Copyright: Castello di Stalker sul Loch Laich, Argyll, Scozia (© WLDavies/Getty Images)*
 ||
 |||
-|2025-02-25|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BryceHoodoos_DE-DE7316141560_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BryceHoodoos_DE-DE7316141560_UHD.jpg)|
-||*Copyright: Sandstein-Hoodoos, Bryce-Canyon-Nationalpark, Utah, USA (© Stephen Matera/TANDEM Stills + Motion)*
+|2025-02-26|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ArgyllStalker_ES-ES5913378191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArgyllStalker_ES-ES5913378191_UHD.jpg)|
+||*Copyright: Castillo Stalker en Loch Laich, Argyll, Escocia (© WLDavies/Getty Images)*
 ||
 |||
-|2025-02-26|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-CA7439537445_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-CA7439537445_UHD.jpg)|
-||*Copyright: Sandstone hoodoos, Bryce Canyon National Park, Utah, United States (© Stephen Matera/TANDEM Stills + Motion)*
-||
-|||
-|2025-02-26|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-GB1524631248_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-GB1524631248_UHD.jpg)|
-||*Copyright: Sandstone hoodoos, Bryce Canyon National Park, Utah, United States (© Stephen Matera/TANDEM Stills + Motion)*
-||
-|||
-|2025-02-25|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MilanFashionWeek_IT-IT9622143512_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilanFashionWeek_IT-IT9622143512_UHD.jpg)|
-||*Copyright: Galleria Vittorio Emanuele II al tramonto, Milano, Lombardia (© Marco Bottigelli/Moment/Getty Images)*
-||
-|||
-|2025-02-25|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BryceHoodoos_ES-ES5738568418_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BryceHoodoos_ES-ES5738568418_UHD.jpg)|
-||*Copyright: Chimeneas de hada, Parque Nacional Bryce Canyon, Utah, EE. UU. (© Stephen Matera/TANDEM Stills + Motion)*
-||
-|||
-|2025-02-26|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WalterdaleBridge_FR-CA9281333446_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalterdaleBridge_FR-CA9281333446_UHD.jpg)|
-||*Copyright: Pont Walterdale à Edmonton, Alberta (© ronniechua/Getty Images)*
+|2025-02-27|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ArgyllStalker_FR-CA9572525309_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArgyllStalker_FR-CA9572525309_UHD.jpg)|
+||*Copyright: Château de Stalker sur le loch Laich, Argyll, Écosse (© WLDavies/Getty Images)*
 ||
 |||
 
