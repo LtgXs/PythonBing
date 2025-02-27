@@ -6,9 +6,9 @@
 ||*Copyright: Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)*
 ||
 |||
-|2025-02-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PolarCub_JA-JP1257956041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PolarCub_JA-JP1257956041_UHD.jpg)|
-||*Copyright: 雪の中のホッキョクグマの子, カナダ マニトバ州 (© Eric Baccega/NPL/Minden Pictures)*
+|2025-02-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BhutanMonastery_JA-JP1458270567_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanMonastery_JA-JP1458270567_UHD.jpg)|
+||*Copyright: タクツァン僧院, ブータン (© Baron Reznik/Getty Images)*
 ||
 |||
 |2025-02-27|**Region: en-IN**||
