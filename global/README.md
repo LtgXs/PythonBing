@@ -6,9 +6,9 @@
 ||*Copyright: Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)*
 ||
 |||
-|2025-02-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BhutanMonastery_JA-JP1458270567_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanMonastery_JA-JP1458270567_UHD.jpg)|
-||*Copyright: タクツァン僧院, ブータン (© Baron Reznik/Getty Images)*
+|2025-03-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.EucalyptusForest_JA-JP1746182669_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusForest_JA-JP1746182669_UHD.jpg)|
+||*Copyright: ブルー・マウンテンズ国立公園, オーストラリア ニューサウスウェールズ州 (© Andrew Peacock/TANDEM Stills + Motion)*
 ||
 |||
 |2025-02-28|**Region: en-IN**||
