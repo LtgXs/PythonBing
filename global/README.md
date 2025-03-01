@@ -6,9 +6,9 @@
 ||*Copyright: Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)*
 ||
 |||
-|2025-03-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EucalyptusForest_JA-JP1746182669_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusForest_JA-JP1746182669_UHD.jpg)|
-||*Copyright: ブルー・マウンテンズ国立公園, オーストラリア ニューサウスウェールズ州 (© Andrew Peacock/TANDEM Stills + Motion)*
+|2025-03-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HornbillPair_JA-JP1960738768_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HornbillPair_JA-JP1960738768_UHD.jpg)|
+||*Copyright: ミナミキバシコサイチョウ, 南アフリカ (© Richard Du Toit/Minden Pictures)*
 ||
 |||
 |2025-03-01|**Region: en-IN**||
