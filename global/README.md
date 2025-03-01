@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-03-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg)|
-||*Copyright: Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)*
+|2025-03-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg)|
+||*Copyright: Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)*
 ||
 |||
 |2025-03-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ブルー・マウンテンズ国立公園, オーストラリア ニューサウスウェールズ州 (© Andrew Peacock/TANDEM Stills + Motion)*
 ||
 |||
-|2025-02-28|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-IN9102034060_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-IN9102034060_UHD.jpg)|
-||*Copyright: Taktsang Palphug Monastery, Bhutan (© Baron Reznik/Getty Images)*
+|2025-03-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-IN9126700951_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-IN9126700951_UHD.jpg)|
+||*Copyright: Sandstone hoodoos, Bryce Canyon National Park, Utah, United States (© Stephen Matera/TANDEM Stills + Motion)*
 ||
 |||
-|2025-03-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BhutanMonastery_PT-BR9663296659_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanMonastery_PT-BR9663296659_UHD.jpg)|
-||*Copyright: Mosteiro Taktsang Palphug, Butão (© Baron Reznik/Getty Images)*
+|2025-03-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_PT-BR9833593341_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaligneLakeJasper_PT-BR9833593341_UHD.jpg)|
+||*Copyright: Aurora boreal sobre a Ilha Spirit no Lago Maligne, Parque Nacional Jasper, Canadá (© Mumemories/Getty Images)*
 ||
 |||
-|2025-02-28|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BhutanMonastery_FR-FR1020195060_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanMonastery_FR-FR1020195060_UHD.jpg)|
-||*Copyright: Monastère Taktshang, Bhoutan (© Baron Reznik/Getty Images)*
+|2025-03-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_FR-FR2308232847_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaligneLakeJasper_FR-FR2308232847_UHD.jpg)|
+||*Copyright: Aurores boréales au-dessus de Spirit Island sur le lac Maligne, Parc national Jasper, Canada (© Mumemories/Getty Images)*
 ||
 |||
-|2025-02-28|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BhutanMonastery_DE-DE8934073002_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanMonastery_DE-DE8934073002_UHD.jpg)|
-||*Copyright: Kloster Taktshang Palphug, Bhutan (© Baron Reznik/Getty Images)*
+|2025-03-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_DE-DE5640949329_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaligneLakeJasper_DE-DE5640949329_UHD.jpg)|
+||*Copyright: Nordlicht über Spirit Island am Maligne Lake im Jasper-Nationalpark, Kanada (© Mumemories/Getty Images)*
 ||
 |||
-|2025-03-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.NevadaBigHorns_EN-CA8281032097_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NevadaBigHorns_EN-CA8281032097_UHD.jpg)|
-||*Copyright: Desert bighorn sheep in Valley of Fire State Park, Nevada, United States (© Rachid Dahnoun/Cavan Images)*
+|2025-03-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_EN-CA0802451019_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaligneLakeJasper_EN-CA0802451019_UHD.jpg)|
+||*Copyright: Aurora borealis over Maligne Lake in Jasper National Park, Alberta, Canada (© Mumemories/Getty Images)*
 ||
 |||
-|2025-03-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-GB2130473204_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-GB2130473204_UHD.jpg)|
-||*Copyright: Taktsang Palphug Monastery, Bhutan (© Baron Reznik/Getty Images)*
+|2025-03-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.DavidsCathedralGB_EN-GB8444575423_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DavidsCathedralGB_EN-GB8444575423_UHD.jpg)|
+||*Copyright: St Davids Cathedral, St Davids, Pembrokeshire, Wales (© Steve Taylor ARPS/Alamy Stock Photo)*
 ||
 |||
-|2025-02-28|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BhutanMonastery_IT-IT9860257157_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanMonastery_IT-IT9860257157_UHD.jpg)|
-||*Copyright: Monastero di Taktsang Palphug, Bhutan (© Baron Reznik/Getty Images)*
+|2025-03-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_IT-IT4481289877_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaligneLakeJasper_IT-IT4481289877_UHD.jpg)|
+||*Copyright: Aurora boreale sopra Spirit Island sul lago Maligne, Parco Nazionale di Jasper, Canada (© Mumemories/Getty Images)*
 ||
 |||
-|2025-02-28|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AndalusianStreet_ES-ES6181340886_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AndalusianStreet_ES-ES6181340886_UHD.jpg)|
-||*Copyright: Iznájar, Andalucía, España (© Miguel Sotomayor/Getty Images)*
+|2025-03-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_ES-ES6288170690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaligneLakeJasper_ES-ES6288170690_UHD.jpg)|
+||*Copyright: Aurora boreal sobre la Isla Spirit en el Lago Maligne, Parque Nacional Jasper, Canadá (© Mumemories/Getty Images)*
 ||
 |||
-|2025-03-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BhutanMonastery_FR-CA0854071680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BhutanMonastery_FR-CA0854071680_UHD.jpg)|
-||*Copyright: Monastère Taktshang, Bhoutan (© Baron Reznik/Getty Images)*
+|2025-03-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_FR-CA2655670114_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaligneLakeJasper_FR-CA2655670114_UHD.jpg)|
+||*Copyright: Aurores boréales au-dessus de Spirit Island sur le lac Maligne, Parc national Jasper, Canada (© Mumemories/Getty Images)*
 ||
 |||
 
