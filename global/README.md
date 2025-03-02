@@ -6,9 +6,9 @@
 ||*Copyright: Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion)*
 ||
 |||
-|2025-03-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HornbillPair_JA-JP1960738768_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HornbillPair_JA-JP1960738768_UHD.jpg)|
-||*Copyright: ミナミキバシコサイチョウ, 南アフリカ (© Richard Du Toit/Minden Pictures)*
+|2025-03-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Hinamatsuri2025_JA-JP2146557406_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hinamatsuri2025_JA-JP2146557406_UHD.jpg)|
+||*Copyright: かぐやびな, 兵庫県 上郡町 (© Buddhika Weerasinghe/特派員/Getty Images)*
 ||
 |||
 |2025-03-02|**Region: en-IN**||
