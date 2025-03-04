@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-03-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HornbillPair_EN-US3168408482_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HornbillPair_EN-US3168408482_UHD.jpg)|
-||*Copyright: Southern yellow-billed hornbills in Kruger National Park, South Africa (© Richard Du Toit/Minden Pictures)*
+|2025-03-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg)|
+||*Copyright: Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)*
 ||
 |||
 |2025-03-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ジャクソン・スクウェア, 米国 ルイジアナ州 (© SeanPavonePhoto/Getty Images)*
 ||
 |||
-|2025-03-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.HornbillPair_EN-IN8859837972_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HornbillPair_EN-IN8859837972_UHD.jpg)|
-||*Copyright: Southern yellow-billed hornbills in Kruger National Park, South Africa (© Richard Du Toit/Minden Pictures)*
+|2025-03-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CharminarInterior_EN-IN8277108319_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CharminarInterior_EN-IN8277108319_UHD.jpg)|
+||*Copyright: Interior of the Charminar, Hyderabad, Telangana (© Richard I'Anson/Getty Images)*
 ||
 |||
-|2025-03-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Carnaval2024_PT-BR2466690213_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Carnaval2024_PT-BR2466690213_UHD.jpg)|
-||*Copyright: Desfile de Carnaval no Sambódromo, Rio de Janeiro (© Giordano Cipriani/Getty Images)*
+|2025-03-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MardiGrasJackson_PT-BR0441776263_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MardiGrasJackson_PT-BR0441776263_UHD.jpg)|
+||*Copyright: Jackson Square, Nova Orleans, Louisiana, EUA (© SeanPavonePhoto/Getty Images)*
 ||
 |||
-|2025-03-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HornbillPair_FR-FR3828518426_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HornbillPair_FR-FR3828518426_UHD.jpg)|
-||*Copyright: Calaos à bec jaune du sud dans le parc national Kruger, Afrique du Sud (© Richard Du Toit/Minden Pictures)*
+|2025-03-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MardiGrasJackson_FR-FR5010820128_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MardiGrasJackson_FR-FR5010820128_UHD.jpg)|
+||*Copyright: Jackson Square, Nouvelle-Orléans, Louisiane, États-Unis (© SeanPavonePhoto/Getty Images)*
 ||
 |||
-|2025-03-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.HornbillPair_DE-DE7709056749_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HornbillPair_DE-DE7709056749_UHD.jpg)|
-||*Copyright: Südliche Gelbschnabeltoko im Kruger-Nationalpark, Südafrika (© Richard Du Toit/Minden Pictures)*
+|2025-03-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MardiGrasJackson_DE-DE3939287021_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MardiGrasJackson_DE-DE3939287021_UHD.jpg)|
+||*Copyright: Jackson Square, New Orleans, Louisiana, USA (© SeanPavonePhoto/Getty Images)*
 ||
 |||
-|2025-03-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HornbillPair_EN-CA9068536722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HornbillPair_EN-CA9068536722_UHD.jpg)|
-||*Copyright: Southern yellow-billed hornbills in Kruger National Park, South Africa (© Richard Du Toit/Minden Pictures)*
+|2025-03-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-CA9265935084_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-CA9265935084_UHD.jpg)|
+||*Copyright: Jackson Square, New Orleans, Louisiana, United States (© SeanPavonePhoto/Getty Images)*
 ||
 |||
-|2025-03-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.HornbillPair_EN-GB2589125332_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HornbillPair_EN-GB2589125332_UHD.jpg)|
-||*Copyright: Southern yellow-billed hornbills in Kruger National Park, South Africa (© Richard Du Toit/Minden Pictures)*
+|2025-03-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-GB2810612583_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-GB2810612583_UHD.jpg)|
+||*Copyright: Jackson Square, New Orleans, Louisiana, United States (© SeanPavonePhoto/Getty Images)*
 ||
 |||
-|2025-03-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.HornbillPair_IT-IT0150079379_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HornbillPair_IT-IT0150079379_UHD.jpg)|
-||*Copyright: Buceri dal becco giallo meridionale nel Parco Nazionale Kruger, Sudafrica (© Richard Du Toit/Minden Pictures)*
+|2025-03-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MardiGrasJackson_IT-IT5960330110_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MardiGrasJackson_IT-IT5960330110_UHD.jpg)|
+||*Copyright: Jackson Square, New Orleans, Louisiana, USA (© SeanPavonePhoto/Getty Images)*
 ||
 |||
-|2025-03-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.HornbillPair_ES-ES6520167475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HornbillPair_ES-ES6520167475_UHD.jpg)|
-||*Copyright: Cálaos de pico amarillo del sur en el Parque Nacional Kruger, Sudáfrica (© Richard Du Toit/Minden Pictures)*
+|2025-03-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MardiGrasJackson_ES-ES6628104190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MardiGrasJackson_ES-ES6628104190_UHD.jpg)|
+||*Copyright: Jackson Square, Nueva Orleans, Luisiana, EE. UU. (© SeanPavonePhoto/Getty Images)*
 ||
 |||
-|2025-03-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HornbillPair_FR-CA4028763796_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HornbillPair_FR-CA4028763796_UHD.jpg)|
-||*Copyright: Calaos à bec jaune du sud dans le parc national Kruger, Afrique du Sud (© Richard Du Toit/Minden Pictures)*
+|2025-03-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MardiGrasJackson_FR-CA5198718448_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MardiGrasJackson_FR-CA5198718448_UHD.jpg)|
+||*Copyright: Jackson Square, Nouvelle-Orléans, Louisiane, États-Unis (© SeanPavonePhoto/Getty Images)*
 ||
 |||
 
