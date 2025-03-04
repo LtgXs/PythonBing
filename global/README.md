@@ -6,9 +6,9 @@
 ||*Copyright: Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)*
 ||
 |||
-|2025-03-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MardiGrasJackson_JA-JP2336854900_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MardiGrasJackson_JA-JP2336854900_UHD.jpg)|
-||*Copyright: ジャクソン・スクウェア, 米国 ルイジアナ州 (© SeanPavonePhoto/Getty Images)*
+|2025-03-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SuratThani_JA-JP0039497594_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuratThani_JA-JP0039497594_UHD.jpg)|
+||*Copyright: カオソック国立公園, タイ (© Peetatham Kongkapech/Getty Images)*
 ||
 |||
 |2025-03-04|**Region: en-IN**||
