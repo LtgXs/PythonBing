@@ -1,0 +1,60 @@
+
+Program started at 09:28:59
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az792-548
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[09:28:59] Start geting CN Bing Wallpaper
+[09:28:59] Successful get url: https://www.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_UHD.jpg
+[09:28:59] Image saved to img/background.jpg
+[09:28:59] Info saved to README.md
+[09:28:59] Image saved to history/2025/03/05.md
+[09:28:59] Start geting global Bing Wallpaper, region=en-US, local time is 2025-03-05 04:28:59.732274-05:00
+[09:28:59] Successful get url: https://www.bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg
+[09:29:00] Picture infomations saved to  global/en-US/README.md
+[09:29:00] Picture infomations saved to global/en-US/history/2025/03/06_en-US.md
+[09:29:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-03-05 18:29:00.280878+09:00
+[09:29:00] Successful get url: https://www.bing.com/th?id=OHR.SuratThani_JA-JP0039497594_UHD.jpg
+[09:29:00] Picture infomations saved to  global/ja-JP/README.md
+[09:29:00] Picture infomations saved to global/ja-JP/history/2025/03/05_ja-JP.md
+[09:29:00] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-03-05 14:59:00.847291+05:30
+[09:29:00] Successful get url: https://www.bing.com/th?id=OHR.SuratThani_EN-IN8229875017_UHD.jpg
+[09:29:01] Picture infomations saved to  global/en-IN/README.md
+[09:29:01] Picture infomations saved to global/en-IN/history/2025/03/05_en-IN.md
+[09:29:01] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-03-05 06:29:01.488590-03:00
+[09:29:01] Successful get url: https://www.bing.com/th?id=OHR.SuratThani_PT-BR0610691802_UHD.jpg
+[09:29:01] Picture infomations saved to  global/pt-BR/README.md
+[09:29:01] Picture infomations saved to global/pt-BR/history/2025/03/06_pt-BR.md
+[09:29:01] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-03-05 10:29:01.890318+01:00
+[09:29:01] Successful get url: https://www.bing.com/th?id=OHR.SuratThani_FR-FR5557578896_UHD.jpg
+[09:29:02] Picture infomations saved to  global/fr-FR/README.md
+[09:29:02] Picture infomations saved to global/fr-FR/history/2025/03/05_fr-FR.md
+[09:29:02] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-03-05 10:29:02.297744+01:00
+[09:29:02] Successful get url: https://www.bing.com/th?id=OHR.SuratThani_DE-DE7389163324_UHD.jpg
+[09:29:02] Picture infomations saved to  global/de-DE/README.md
+[09:29:02] Picture infomations saved to global/de-DE/history/2025/03/05_de-DE.md
+[09:29:02] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-03-05 04:29:02.818808-05:00
+[09:29:03] Successful get url: https://www.bing.com/th?id=OHR.SuratThani_EN-CA9452161985_UHD.jpg
+[09:29:03] Picture infomations saved to  global/en-CA/README.md
+[09:29:03] Picture infomations saved to global/en-CA/history/2025/03/06_en-CA.md
+[09:29:03] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-03-05 09:29:03.656941+00:00
+[09:29:03] Successful get url: https://www.bing.com/th?id=OHR.SuratThani_EN-GB2942049458_UHD.jpg
+[09:29:04] Picture infomations saved to  global/en-GB/README.md
+[09:29:04] Picture infomations saved to global/en-GB/history/2025/03/06_en-GB.md
+[09:29:04] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-03-05 10:29:04.021612+01:00
+[09:29:04] Successful get url: https://www.bing.com/th?id=OHR.SuratThani_IT-IT0062631130_UHD.jpg
+[09:29:04] Picture infomations saved to  global/it-IT/README.md
+[09:29:04] Picture infomations saved to global/it-IT/history/2025/03/05_it-IT.md
+[09:29:04] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-03-05 10:29:04.413823+01:00
+[09:29:04] Successful get url: https://www.bing.com/th?id=OHR.SuratThani_ES-ES6760904041_UHD.jpg
+[09:29:04] Picture infomations saved to  global/es-ES/README.md
+[09:29:04] Picture infomations saved to global/es-ES/history/2025/03/05_es-ES.md
+[09:29:04] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-03-05 04:29:04.736908-05:00
+[09:29:04] Successful get url: https://www.bing.com/th?id=OHR.SuratThani_FR-CA5392385177_UHD.jpg
+[09:29:05] Picture infomations saved to  global/fr-CA/README.md
+[09:29:05] Picture infomations saved to global/fr-CA/history/2025/03/06_fr-CA.md
+Program exit at 09:29:05
