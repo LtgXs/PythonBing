@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of Khao Sok National Park, Surat Thani, Thailand (© Peetatham Kongkapech/Getty Images)*
 ||
 |||
-|2025-03-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SuratThani_JA-JP0039497594_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuratThani_JA-JP0039497594_UHD.jpg)|
-||*Copyright: カオソック国立公園, タイ (© Peetatham Kongkapech/Getty Images)*
+|2025-03-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NevadaBigHorns_JA-JP0367669044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NevadaBigHorns_JA-JP0367669044_UHD.jpg)|
+||*Copyright: バレー・オブ・ファイヤー州立公園, 米国 ネバダ州 (© Rachid Dahnoun/Cavan Images)*
 ||
 |||
 |2025-03-05|**Region: en-IN**||
