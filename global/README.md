@@ -6,9 +6,9 @@
 ||*Copyright: Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)*
 ||
 |||
-|2025-03-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NevadaBigHorns_JA-JP0367669044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NevadaBigHorns_JA-JP0367669044_UHD.jpg)|
-||*Copyright: バレー・オブ・ファイヤー州立公園, 米国 ネバダ州 (© Rachid Dahnoun/Cavan Images)*
+|2025-03-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PlumBlossom_JA-JP3242294823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlumBlossom_JA-JP3242294823_UHD.jpg)|
+||*Copyright: 梅の花, 中国 (© zhikun sun/Getty Images)*
 ||
 |||
 |2025-03-06|**Region: en-IN**||
