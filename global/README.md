@@ -6,9 +6,9 @@
 ||*Copyright: St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)*
 ||
 |||
-|2025-03-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ItalyClock_JA-JP3693788365_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyClock_JA-JP3693788365_UHD.jpg)|
-||*Copyright: サン・マルコ時計塔, イタリア (© scaliger/Getty Images)*
+|2025-03-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PandaSnow_JA-JP3991253092_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PandaSnow_JA-JP3991253092_UHD.jpg)|
+||*Copyright: パンダの赤ちゃん, 中国 (© Cheryl Schneider/Alamy)*
 ||
 |||
 |2025-03-09|**Region: en-IN**||
