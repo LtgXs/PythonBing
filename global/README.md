@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-03-09|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg)|
-||*Copyright: Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)*
+|2025-03-10|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg)|
+||*Copyright: St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)*
 ||
 |||
 |2025-03-09|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: サン・マルコ時計塔, イタリア (© scaliger/Getty Images)*
 ||
 |||
-|2025-03-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FearlessWomen_EN-IN8449612154_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FearlessWomen_EN-IN8449612154_UHD.jpg)|
-||*Copyright: Fearless Girl statue facing the New York Stock Exchange, New York City, United States (© JOHANNES EISELE/AFP via Getty Images)*
+|2025-03-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KedarkanthaSummit_EN-IN0550105745_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KedarkanthaSummit_EN-IN0550105745_UHD.jpg)|
+||*Copyright: Sunrise at the summit of Kedarkantha (© Jeet Khagram/500px/Getty Images)*
 ||
 |||
-|2025-03-09|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FearlessWomen_PT-BR2238848436_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FearlessWomen_PT-BR2238848436_UHD.jpg)|
-||*Copyright: Estátua da Fearless Girl diante da Bolsa de Valores de Nova York, EUA (© JOHANNES EISELE/AFP via Getty Images)*
+|2025-03-10|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ItalyClock_PT-BR6894860611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyClock_PT-BR6894860611_UHD.jpg)|
+||*Copyright: Torre do Relógio de São Marcos, Veneza, Itália (© scaliger/Getty Images)*
 ||
 |||
-|2025-03-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FearlessWomen_FR-FR5893935829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FearlessWomen_FR-FR5893935829_UHD.jpg)|
-||*Copyright: Statue « Fearless Girl » face à Wall Street, New York, États-Unis (© JOHANNES EISELE/AFP via Getty Images)*
+|2025-03-09|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.kingfisherFr_FR-FR6370911716_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.kingfisherFr_FR-FR6370911716_UHD.jpg)|
+||*Copyright: Martin-pêcheur d'Europe sur une branche (© Javier Fernández Sánchez/Getty Images)*
 ||
 |||
-|2025-03-08|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FearlessWomen_DE-DE2789139190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FearlessWomen_DE-DE2789139190_UHD.jpg)|
-||*Copyright: Fearless Girl-Statue vor der New Yorker Börse, New York City, USA (© JOHANNES EISELE/AFP via Getty Images)*
+|2025-03-09|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BavarianAlpsMariaGern_DE-DE4506132433_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BavarianAlpsMariaGern_DE-DE4506132433_UHD.jpg)|
+||*Copyright: Wallfahrtskirche Maria Gern und Watzmannmassiv, Berchtesgadener Alpen, Bayern (© bluejayphoto/Getty Images)*
 ||
 |||
-|2025-03-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FearlessWomen_EN-CA9880136828_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FearlessWomen_EN-CA9880136828_UHD.jpg)|
-||*Copyright: Fearless Girl statue facing the New York Stock Exchange, New York City, United States (© JOHANNES EISELE/AFP via Getty Images)*
+|2025-03-10|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ItalyClock_EN-CA0044429164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyClock_EN-CA0044429164_UHD.jpg)|
+||*Copyright: St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)*
 ||
 |||
-|2025-03-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FearlessWomen_EN-GB0884411482_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FearlessWomen_EN-GB0884411482_UHD.jpg)|
-||*Copyright: Fearless Girl statue facing the New York Stock Exchange, New York City, United States (© JOHANNES EISELE/AFP via Getty Images)*
+|2025-03-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ShardLondon2025_EN-GB0574444826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShardLondon2025_EN-GB0574444826_UHD.jpg)|
+||*Copyright: The Shard, London (© Dennis Fischer Photography/Moment/Getty Images)*
 ||
 |||
-|2025-03-08|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FearlessWomen_IT-IT9544136799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FearlessWomen_IT-IT9544136799_UHD.jpg)|
-||*Copyright: Statua della Fearless Girl di fronte alla Borsa di New York, New York City, USA (© JOHANNES EISELE/AFP via Getty Images)*
+|2025-03-09|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.WinterGamesTurin_IT-IT9894957082_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterGamesTurin_IT-IT9894957082_UHD.jpg)|
+||*Copyright: Vista su Torino, Piemonte (© Fabio Lamanna/Getty Images)*
 ||
 |||
-|2025-03-08|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FearlessWomen_ES-ES6846993796_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FearlessWomen_ES-ES6846993796_UHD.jpg)|
-||*Copyright: Escultura “Niña sin miedo” frente a la Bolsa de Nueva York, Nueva York, EE. UU. (© JOHANNES EISELE/AFP via Getty Images)*
+|2025-03-09|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ForumRomanum_ES-ES7963502187_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ForumRomanum_ES-ES7963502187_UHD.jpg)|
+||*Copyright: El Templo de Saturno en el Foro Romano, Roma, Italia (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
-|2025-03-09|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FearlessWomen_FR-CA3083178240_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FearlessWomen_FR-CA3083178240_UHD.jpg)|
-||*Copyright: Statue « Fearless Girl » face à Wall Street, New York, États-Unis (© JOHANNES EISELE/AFP via Getty Images)*
+|2025-03-10|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ItalyClock_FR-CA0091042756_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyClock_FR-CA0091042756_UHD.jpg)|
+||*Copyright: Tour de l'horloge de Saint-Marc, Venise, Italie (© scaliger/Getty Images)*
 ||
 |||
 
