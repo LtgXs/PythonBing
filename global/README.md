@@ -6,9 +6,9 @@
 ||*Copyright: A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)*
 ||
 |||
-|2025-03-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PandaSnow_JA-JP3991253092_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PandaSnow_JA-JP3991253092_UHD.jpg)|
-||*Copyright: パンダの赤ちゃん, 中国 (© Cheryl Schneider/Alamy)*
+|2025-03-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TohokuEarthquake2025_JA-JP8965651144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TohokuEarthquake2025_JA-JP8965651144_UHD.jpg)|
+||*Copyright: 追悼イベントの灯籠, 宮城県 名取市 (© Kuni Takahashi/寄稿者/Getty Images)*
 ||
 |||
 |2025-03-10|**Region: en-IN**||
