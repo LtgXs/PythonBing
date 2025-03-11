@@ -6,9 +6,9 @@
 ||*Copyright: Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)*
 ||
 |||
-|2025-03-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TohokuEarthquake2025_JA-JP8965651144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TohokuEarthquake2025_JA-JP8965651144_UHD.jpg)|
-||*Copyright: 追悼イベントの灯籠, 宮城県 名取市 (© Kuni Takahashi/寄稿者/Getty Images)*
+|2025-03-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Omizutori2025_JA-JP2990990687_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Omizutori2025_JA-JP2990990687_UHD.jpg)|
+||*Copyright: 東大寺, 奈良県 奈良市 (© Chris Willson/Alamy Stock Photo)*
 ||
 |||
 |2025-03-11|**Region: en-IN**||
