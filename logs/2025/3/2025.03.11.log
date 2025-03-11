@@ -1,0 +1,60 @@
+
+Program started at 09:29:18
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1912-318
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[09:29:18] Start geting CN Bing Wallpaper
+[09:29:18] Successful get url: https://www.bing.com/th?id=OHR.NusaPenida_ZH-CN4934656933_UHD.jpg
+[09:29:18] Image saved to img/background.jpg
+[09:29:18] Info saved to README.md
+[09:29:18] Image saved to history/2025/03/11.md
+[09:29:18] Start geting global Bing Wallpaper, region=en-US, local time is 2025-03-11 05:29:18.644559-04:00
+[09:29:18] Successful get url: https://www.bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg
+[09:29:18] Picture infomations saved to  global/en-US/README.md
+[09:29:18] Picture infomations saved to global/en-US/history/2025/03/12_en-US.md
+[09:29:18] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-03-11 18:29:18.813147+09:00
+[09:29:18] Successful get url: https://www.bing.com/th?id=OHR.TohokuEarthquake2025_JA-JP8965651144_UHD.jpg
+[09:29:18] Picture infomations saved to  global/ja-JP/README.md
+[09:29:18] Picture infomations saved to global/ja-JP/history/2025/03/11_ja-JP.md
+[09:29:18] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-03-11 14:59:18.973423+05:30
+[09:29:19] Successful get url: https://www.bing.com/th?id=OHR.NusaPenida_EN-IN9109539452_UHD.jpg
+[09:29:19] Picture infomations saved to  global/en-IN/README.md
+[09:29:19] Picture infomations saved to global/en-IN/history/2025/03/11_en-IN.md
+[09:29:19] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-03-11 06:29:19.122755-03:00
+[09:29:19] Successful get url: https://www.bing.com/th?id=OHR.NusaPenida_PT-BR7092841551_UHD.jpg
+[09:29:19] Picture infomations saved to  global/pt-BR/README.md
+[09:29:19] Picture infomations saved to global/pt-BR/history/2025/03/12_pt-BR.md
+[09:29:19] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-03-11 10:29:19.276241+01:00
+[09:29:19] Successful get url: https://www.bing.com/th?id=OHR.NusaPenida_FR-FR6937590982_UHD.jpg
+[09:29:19] Picture infomations saved to  global/fr-FR/README.md
+[09:29:19] Picture infomations saved to global/fr-FR/history/2025/03/11_fr-FR.md
+[09:29:19] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-03-11 10:29:19.414152+01:00
+[09:29:19] Successful get url: https://www.bing.com/th?id=OHR.NusaPenida_DE-DE3430606232_UHD.jpg
+[09:29:19] Picture infomations saved to  global/de-DE/README.md
+[09:29:19] Picture infomations saved to global/de-DE/history/2025/03/11_de-DE.md
+[09:29:19] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-03-11 05:29:19.562853-04:00
+[09:29:19] Successful get url: https://www.bing.com/th?id=OHR.NusaPenida_EN-CA1409655767_UHD.jpg
+[09:29:19] Picture infomations saved to  global/en-CA/README.md
+[09:29:19] Picture infomations saved to global/en-CA/history/2025/03/12_en-CA.md
+[09:29:19] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-03-11 09:29:19.738532+00:00
+[09:29:19] Successful get url: https://www.bing.com/th?id=OHR.NusaPenida_EN-GB1392461130_UHD.jpg
+[09:29:19] Picture infomations saved to  global/en-GB/README.md
+[09:29:19] Picture infomations saved to global/en-GB/history/2025/03/12_en-GB.md
+[09:29:19] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-03-11 10:29:19.888083+01:00
+[09:29:19] Successful get url: https://www.bing.com/th?id=OHR.NusaPenida_IT-IT9952682567_UHD.jpg
+[09:29:20] Picture infomations saved to  global/it-IT/README.md
+[09:29:20] Picture infomations saved to global/it-IT/history/2025/03/11_it-IT.md
+[09:29:20] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-03-11 10:29:20.065216+01:00
+[09:29:20] Successful get url: https://www.bing.com/th?id=OHR.NusaPenida_ES-ES7408212429_UHD.jpg
+[09:29:20] Picture infomations saved to  global/es-ES/README.md
+[09:29:20] Picture infomations saved to global/es-ES/history/2025/03/11_es-ES.md
+[09:29:20] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-03-11 05:29:20.208618-04:00
+[09:29:20] Successful get url: https://www.bing.com/th?id=OHR.NusaPenida_FR-CA6070971285_UHD.jpg
+[09:29:20] Picture infomations saved to  global/fr-CA/README.md
+[09:29:20] Picture infomations saved to global/fr-CA/history/2025/03/12_fr-CA.md
+Program exit at 09:29:20
