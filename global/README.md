@@ -6,9 +6,9 @@
 ||*Copyright: Château de Sully-sur-Loire, Center-Val de Loire, France (© StockPhotoAstur/Shutterstock)*
 ||
 |||
-|2025-03-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Omizutori2025_JA-JP2990990687_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Omizutori2025_JA-JP2990990687_UHD.jpg)|
-||*Copyright: 東大寺, 奈良県 奈良市 (© Chris Willson/Alamy Stock Photo)*
+|2025-03-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HoliColors_JA-JP6070846521_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoliColors_JA-JP6070846521_UHD.jpg)|
+||*Copyright: カラフルな色粉を投げ合う祭り, インド (© powerofforever/Getty Images)*
 ||
 |||
 |2025-03-12|**Region: en-IN**||
@@ -32,7 +32,7 @@
 ||
 |||
 |2025-03-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ChateauLoire_EN-CA2155493752_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChateauLoire_EN-CA2155493752_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.ChateauLoire_EN-CA0574990626_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChateauLoire_EN-CA0574990626_UHD.jpg)|
 ||*Copyright: Château de Sully-sur-Loire, Centre-Val de Loire, France (© StockPhotoAstur/Shutterstock)*
 ||
 |||
