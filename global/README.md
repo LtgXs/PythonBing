@@ -6,9 +6,9 @@
 ||*Copyright: Holi celebration in Jaipur, India (© powerofforever/Getty Images)*
 ||
 |||
-|2025-03-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HoliColors_JA-JP6070846521_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoliColors_JA-JP6070846521_UHD.jpg)|
-||*Copyright: カラフルな色粉を投げ合う祭り, インド (© powerofforever/Getty Images)*
+|2025-03-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BasqueDolmen_JA-JP6281411037_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasqueDolmen_JA-JP6281411037_UHD.jpg)|
+||*Copyright: ソルギネチェ・ドルメン, スペイン (© David Herraez Calzada/plainpicture)*
 ||
 |||
 |2025-03-13|**Region: en-IN**||
