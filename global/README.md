@@ -6,9 +6,9 @@
 ||*Copyright: Dolmen of Sorginetxe, Basque Country, Álava, Spain (© David Herraez Calzada/plainpicture)*
 ||
 |||
-|2025-03-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BasqueDolmen_JA-JP6281411037_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasqueDolmen_JA-JP6281411037_UHD.jpg)|
-||*Copyright: ソルギネチェ・ドルメン, スペイン (© David Herraez Calzada/plainpicture)*
+|2025-03-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ForumRomanum_JA-JP6466904487_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ForumRomanum_JA-JP6466904487_UHD.jpg)|
+||*Copyright: サートゥルヌス神殿, イタリア (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
 |2025-03-14|**Region: en-IN**||

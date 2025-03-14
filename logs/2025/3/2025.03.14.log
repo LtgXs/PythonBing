@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:28:44] Picture infomations saved to  global/fr-CA/README.md
 [09:28:44] Picture infomations saved to global/fr-CA/history/2025/03/15_fr-CA.md
 Program exit at 09:28:44
+
+Program started at 16:15:00
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1657-621
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:15:00] Start geting CN Bing Wallpaper
+[16:15:00] Successful get url: https://www.bing.com/th?id=OHR.ForumRomanum_ZH-CN5873120178_UHD.jpg
+[16:15:00] Image saved to img/background.jpg
+[16:15:00] Info saved to README.md
+[16:15:00] Image saved to history/2025/03/15.md
+[16:15:00] Start geting global Bing Wallpaper, region=en-US, local time is 2025-03-14 12:15:00.477852-04:00
+[16:15:00] Successful get url: https://www.bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_UHD.jpg
+[16:15:00] Picture infomations saved to  global/en-US/README.md
+[16:15:00] Picture infomations saved to global/en-US/history/2025/03/15_en-US.md
+[16:15:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-03-15 01:15:00.622917+09:00
+[16:15:00] Successful get url: https://www.bing.com/th?id=OHR.ForumRomanum_JA-JP6466904487_UHD.jpg
+[16:15:00] Picture infomations saved to  global/ja-JP/README.md
+[16:15:00] Picture infomations saved to global/ja-JP/history/2025/03/15_ja-JP.md
+[16:15:00] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-03-14 21:45:00.793838+05:30
+[16:15:00] Successful get url: https://www.bing.com/th?id=OHR.NandgaonHoli_EN-IN5066984939_UHD.jpg
+[16:15:00] Picture infomations saved to  global/en-IN/README.md
+[16:15:00] Picture infomations saved to global/en-IN/history/2025/03/14_en-IN.md
+[16:15:00] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-03-14 13:15:00.949266-03:00
+[16:15:01] Successful get url: https://www.bing.com/th?id=OHR.BasqueDolmen_PT-BR6370690979_UHD.jpg
+[16:15:01] Picture infomations saved to  global/pt-BR/README.md
+[16:15:01] Picture infomations saved to global/pt-BR/history/2025/03/15_pt-BR.md
+[16:15:01] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-03-14 17:15:01.117785+01:00
+[16:15:01] Successful get url: https://www.bing.com/th?id=OHR.BasqueDolmen_FR-FR8212950561_UHD.jpg
+[16:15:01] Picture infomations saved to  global/fr-FR/README.md
+[16:15:01] Picture infomations saved to global/fr-FR/history/2025/03/14_fr-FR.md
+[16:15:01] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-03-14 17:15:01.272900+01:00
+[16:15:01] Successful get url: https://www.bing.com/th?id=OHR.BasqueDolmen_DE-DE4751565010_UHD.jpg
+[16:15:01] Picture infomations saved to  global/de-DE/README.md
+[16:15:01] Picture infomations saved to global/de-DE/history/2025/03/14_de-DE.md
+[16:15:01] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-03-14 12:15:01.461395-04:00
+[16:15:01] Successful get url: https://www.bing.com/th?id=OHR.BasqueDolmen_EN-CA3900622159_UHD.jpg
+[16:15:01] Picture infomations saved to  global/en-CA/README.md
+[16:15:01] Picture infomations saved to global/en-CA/history/2025/03/15_en-CA.md
+[16:15:01] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-03-14 16:15:01.631468+00:00
+[16:15:01] Successful get url: https://www.bing.com/th?id=OHR.BasqueDolmen_EN-GB2189832080_UHD.jpg
+[16:15:01] Picture infomations saved to  global/en-GB/README.md
+[16:15:01] Picture infomations saved to global/en-GB/history/2025/03/15_en-GB.md
+[16:15:01] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-03-14 17:15:01.789596+01:00
+[16:15:01] Successful get url: https://www.bing.com/th?id=OHR.BasqueDolmen_IT-IT0162501946_UHD.jpg
+[16:15:01] Picture infomations saved to  global/it-IT/README.md
+[16:15:01] Picture infomations saved to global/it-IT/history/2025/03/14_it-IT.md
+[16:15:01] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-03-14 17:15:01.961082+01:00
+[16:15:02] Successful get url: https://www.bing.com/th?id=OHR.BasqueDolmen_ES-ES7735714145_UHD.jpg
+[16:15:02] Picture infomations saved to  global/es-ES/README.md
+[16:15:02] Picture infomations saved to global/es-ES/history/2025/03/14_es-ES.md
+[16:15:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-03-14 12:15:02.120512-04:00
+[16:15:02] Successful get url: https://www.bing.com/th?id=OHR.BasqueDolmen_FR-CA7491741480_UHD.jpg
+[16:15:02] Picture infomations saved to  global/fr-CA/README.md
+[16:15:02] Picture infomations saved to global/fr-CA/history/2025/03/15_fr-CA.md
+Program exit at 16:15:02
