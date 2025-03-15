@@ -6,9 +6,9 @@
 ||*Copyright: The Temple of Saturn in the Roman Forum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
-|2025-03-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ForumRomanum_JA-JP6466904487_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ForumRomanum_JA-JP6466904487_UHD.jpg)|
-||*Copyright: サートゥルヌス神殿, イタリア (© Nico De Pasquale Photography/Getty Images)*
+|2025-03-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NusaPenida_JA-JP6740183252_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NusaPenida_JA-JP6740183252_UHD.jpg)|
+||*Copyright: ブロークンビーチ, インドネシア (© joakimbkk/Getty Images)*
 ||
 |||
 |2025-03-15|**Region: en-IN**||
