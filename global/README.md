@@ -6,9 +6,9 @@
 ||*Copyright: Baby giant panda in the snow, China (© Cheryl Schneider/Alamy)*
 ||
 |||
-|2025-03-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NusaPenida_JA-JP6740183252_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NusaPenida_JA-JP6740183252_UHD.jpg)|
-||*Copyright: ブロークンビーチ, インドネシア (© joakimbkk/Getty Images)*
+|2025-03-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BeckettBridge_JA-JP9875156013_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeckettBridge_JA-JP9875156013_UHD.jpg)|
+||*Copyright: サミュエル・ベケット橋, アイルランド (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
 |2025-03-16|**Region: en-IN**||
