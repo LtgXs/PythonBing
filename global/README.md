@@ -6,9 +6,9 @@
 ||*Copyright: Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2025-03-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BeckettBridge_JA-JP9875156013_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeckettBridge_JA-JP9875156013_UHD.jpg)|
-||*Copyright: サミュエル・ベケット橋, アイルランド (© Colm Keating/Tandem Stills + Motion)*
+|2025-03-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SedonaSpring_JA-JP0072901423_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SedonaSpring_JA-JP0072901423_UHD.jpg)|
+||*Copyright: セドナ, 米国 アリゾナ州 (© Jim Ekstrand/Alamy)*
 ||
 |||
 |2025-03-17|**Region: en-IN**||
