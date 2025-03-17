@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-03-17|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PandaSnow_EN-US9432739016_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PandaSnow_EN-US9432739016_UHD.jpg)|
-||*Copyright: Baby giant panda in the snow, China (© Cheryl Schneider/Alamy)*
+|2025-03-18|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BeckettBridge_EN-US9511078525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeckettBridge_EN-US9511078525_UHD.jpg)|
+||*Copyright: Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
 |2025-03-17|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: サミュエル・ベケット橋, アイルランド (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2025-03-16|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PandaSnow_EN-IN5935458208_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PandaSnow_EN-IN5935458208_UHD.jpg)|
-||*Copyright: Baby giant panda in the snow, China (© Cheryl Schneider/Alamy Stock Photo)*
+|2025-03-17|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BeckettBridge_EN-IN6779354204_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeckettBridge_EN-IN6779354204_UHD.jpg)|
+||*Copyright: Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2025-03-17|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PandaSnow_PT-BR5155103859_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PandaSnow_PT-BR5155103859_UHD.jpg)|
-||*Copyright: Filhote de panda-gigante na neve, China (© Cheryl Schneider/Alamy)*
+|2025-03-18|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BeckettBridge_PT-BR3137652720_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeckettBridge_PT-BR3137652720_UHD.jpg)|
+||*Copyright: Ponte Samuel Beckett, Dublin, Irlanda (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2025-03-16|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PandaSnow_FR-FR9580239780_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PandaSnow_FR-FR9580239780_UHD.jpg)|
-||*Copyright: Bébé panda géant dans la neige, Chine (© Cheryl Schneider/Alamy)*
+|2025-03-17|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BeckettBridge_FR-FR9410208549_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeckettBridge_FR-FR9410208549_UHD.jpg)|
+||*Copyright: Pont Samuel Beckett, Dublin, Irlande (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2025-03-16|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PandaSnow_DE-DE6090290293_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PandaSnow_DE-DE6090290293_UHD.jpg)|
-||*Copyright: Baby-Riesenpanda im Schnee, China (© Cheryl Schneider/Alamy)*
+|2025-03-17|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BeckettBridge_DE-DE6303850469_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeckettBridge_DE-DE6303850469_UHD.jpg)|
+||*Copyright: Samuel Beckett Bridge, Dublin, Irland (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2025-03-17|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PandaSnow_EN-CA0601748068_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PandaSnow_EN-CA0601748068_UHD.jpg)|
-||*Copyright: Baby giant panda in the snow, China (© Cheryl Schneider/Alamy Stock Photo)*
+|2025-03-18|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BeckettBridge_EN-CA5658772029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeckettBridge_EN-CA5658772029_UHD.jpg)|
+||*Copyright: Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2025-03-17|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PandaSnow_EN-GB2411862375_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PandaSnow_EN-GB2411862375_UHD.jpg)|
-||*Copyright: Baby giant panda in the snow, China (© Cheryl Schneider/Alamy Stock Photo)*
+|2025-03-18|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BeckettBridge_EN-GB2641883580_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeckettBridge_EN-GB2641883580_UHD.jpg)|
+||*Copyright: Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2025-03-16|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PandaSnow_IT-IT8708952567_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PandaSnow_IT-IT8708952567_UHD.jpg)|
-||*Copyright: Baby panda gigante nella neve, Cina (© Cheryl Schneider/Alamy Stock Photo)*
+|2025-03-17|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BeckettBridge_IT-IT9734044392_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeckettBridge_IT-IT9734044392_UHD.jpg)|
+||*Copyright: Samuel Beckett Bridge, Dublino, Irlanda (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2025-03-16|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PandaSnow_ES-ES8069843059_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PandaSnow_ES-ES8069843059_UHD.jpg)|
-||*Copyright: Bebé panda gigante en la nieve, China (© Cheryl Schneider/Alamy)*
+|2025-03-17|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BeckettBridge_ES-ES8163072684_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeckettBridge_ES-ES8163072684_UHD.jpg)|
+||*Copyright: Puente Samuel Beckett, Dublín, Irlanda (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2025-03-17|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PandaSnow_FR-CA8015152922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PandaSnow_FR-CA8015152922_UHD.jpg)|
-||*Copyright: Bébé panda géant dans la neige, Chine (© Cheryl Schneider/Alamy)*
+|2025-03-18|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BeckettBridge_FR-CA8387649691_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeckettBridge_FR-CA8387649691_UHD.jpg)|
+||*Copyright: Pont Samuel Beckett, Dublin, Irlande (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
 
