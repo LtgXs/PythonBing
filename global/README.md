@@ -6,9 +6,9 @@
 ||*Copyright: Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)*
 ||
 |||
-|2025-03-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SedonaSpring_JA-JP0072901423_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SedonaSpring_JA-JP0072901423_UHD.jpg)|
-||*Copyright: セドナ, 米国 アリゾナ州 (© Jim Ekstrand/Alamy)*
+|2025-03-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BlackHeron_JA-JP0377876469_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackHeron_JA-JP0377876469_UHD.jpg)|
+||*Copyright: チョベ国立公園 , ボツワナ (© Paul Souders/Minden Pictures)*
 ||
 |||
 |2025-03-18|**Region: en-IN**||
