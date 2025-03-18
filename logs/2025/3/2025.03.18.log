@@ -1,0 +1,60 @@
+
+Program started at 09:30:06
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1959-344
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[09:30:06] Start geting CN Bing Wallpaper
+[09:30:06] Successful get url: https://www.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg
+[09:30:07] Image saved to img/background.jpg
+[09:30:07] Info saved to README.md
+[09:30:07] Image saved to history/2025/03/18.md
+[09:30:07] Start geting global Bing Wallpaper, region=en-US, local time is 2025-03-18 05:30:07.012291-04:00
+[09:30:07] Successful get url: https://www.bing.com/th?id=OHR.SedonaSpring_EN-US9611080272_UHD.jpg
+[09:30:07] Picture infomations saved to  global/en-US/README.md
+[09:30:07] Picture infomations saved to global/en-US/history/2025/03/19_en-US.md
+[09:30:07] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-03-18 18:30:07.359012+09:00
+[09:30:07] Successful get url: https://www.bing.com/th?id=OHR.SedonaSpring_JA-JP0072901423_UHD.jpg
+[09:30:07] Picture infomations saved to  global/ja-JP/README.md
+[09:30:07] Picture infomations saved to global/ja-JP/history/2025/03/18_ja-JP.md
+[09:30:07] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-03-18 15:00:07.560871+05:30
+[09:30:07] Successful get url: https://www.bing.com/th?id=OHR.SedonaSpring_EN-IN7043464348_UHD.jpg
+[09:30:07] Picture infomations saved to  global/en-IN/README.md
+[09:30:07] Picture infomations saved to global/en-IN/history/2025/03/18_en-IN.md
+[09:30:07] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-03-18 06:30:07.657596-03:00
+[09:30:07] Successful get url: https://www.bing.com/th?id=OHR.SedonaSpring_PT-BR2515283879_UHD.jpg
+[09:30:07] Picture infomations saved to  global/pt-BR/README.md
+[09:30:07] Picture infomations saved to global/pt-BR/history/2025/03/19_pt-BR.md
+[09:30:07] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-03-18 10:30:07.831365+01:00
+[09:30:07] Successful get url: https://www.bing.com/th?id=OHR.SedonaSpring_FR-FR0140900404_UHD.jpg
+[09:30:08] Picture infomations saved to  global/fr-FR/README.md
+[09:30:08] Picture infomations saved to global/fr-FR/history/2025/03/18_fr-FR.md
+[09:30:08] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-03-18 10:30:08.065230+01:00
+[09:30:08] Successful get url: https://www.bing.com/th?id=OHR.SedonaSpring_DE-DE6616608162_UHD.jpg
+[09:30:08] Picture infomations saved to  global/de-DE/README.md
+[09:30:08] Picture infomations saved to global/de-DE/history/2025/03/18_de-DE.md
+[09:30:08] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-03-18 05:30:08.273939-04:00
+[09:30:08] Successful get url: https://www.bing.com/th?id=OHR.SedonaSpring_EN-CA0725253888_UHD.jpg
+[09:30:08] Picture infomations saved to  global/en-CA/README.md
+[09:30:08] Picture infomations saved to global/en-CA/history/2025/03/19_en-CA.md
+[09:30:08] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-03-18 09:30:08.619394+00:00
+[09:30:08] Successful get url: https://www.bing.com/th?id=OHR.SedonaSpring_EN-GB2852810114_UHD.jpg
+[09:30:08] Picture infomations saved to  global/en-GB/README.md
+[09:30:08] Picture infomations saved to global/en-GB/history/2025/03/19_en-GB.md
+[09:30:08] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-03-18 10:30:08.727981+01:00
+[09:30:08] Successful get url: https://www.bing.com/th?id=OHR.SedonaSpring_IT-IT2929229885_UHD.jpg
+[09:30:09] Picture infomations saved to  global/it-IT/README.md
+[09:30:09] Picture infomations saved to global/it-IT/history/2025/03/18_it-IT.md
+[09:30:09] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-03-18 10:30:09.253325+01:00
+[09:30:09] Successful get url: https://www.bing.com/th?id=OHR.SedonaSpring_ES-ES8257183608_UHD.jpg
+[09:30:09] Picture infomations saved to  global/es-ES/README.md
+[09:30:09] Picture infomations saved to global/es-ES/history/2025/03/18_es-ES.md
+[09:30:09] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-03-18 05:30:09.522356-04:00
+[09:30:09] Successful get url: https://www.bing.com/th?id=OHR.SedonaSpring_FR-CA8595129301_UHD.jpg
+[09:30:09] Picture infomations saved to  global/fr-CA/README.md
+[09:30:09] Picture infomations saved to global/fr-CA/history/2025/03/19_fr-CA.md
+Program exit at 09:30:09
