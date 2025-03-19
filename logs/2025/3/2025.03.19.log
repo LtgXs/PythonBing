@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:56] Picture infomations saved to  global/fr-CA/README.md
 [09:30:56] Picture infomations saved to global/fr-CA/history/2025/03/20_fr-CA.md
 Program exit at 09:30:56
+
+Program started at 16:15:48
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1361-438
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:15:48] Start geting CN Bing Wallpaper
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_UHD.jpg
+[16:15:48] Image saved to img/background.jpg
+[16:15:48] Info saved to README.md
+[16:15:48] Image saved to history/2025/03/20.md
+[16:15:48] Start geting global Bing Wallpaper, region=en-US, local time is 2025-03-19 12:15:48.945972-04:00
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg
+[16:15:49] Picture infomations saved to  global/en-US/README.md
+[16:15:49] Picture infomations saved to global/en-US/history/2025/03/20_en-US.md
+[16:15:49] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-03-20 01:15:49.043014+09:00
+[16:15:49] Successful get url: https://www.bing.com/th?id=OHR.SpringDaffodils_JA-JP0516701335_UHD.jpg
+[16:15:49] Picture infomations saved to  global/ja-JP/README.md
+[16:15:49] Picture infomations saved to global/ja-JP/history/2025/03/20_ja-JP.md
+[16:15:49] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-03-19 21:45:49.169689+05:30
+[16:15:49] Successful get url: https://www.bing.com/th?id=OHR.BlackHeron_EN-IN7242437208_UHD.jpg
+[16:15:49] Picture infomations saved to  global/en-IN/README.md
+[16:15:49] Picture infomations saved to global/en-IN/history/2025/03/19_en-IN.md
+[16:15:49] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-03-19 13:15:49.308676-03:00
+[16:15:49] Successful get url: https://www.bing.com/th?id=OHR.BlackHeron_PT-BR1894971609_UHD.jpg
+[16:15:49] Picture infomations saved to  global/pt-BR/README.md
+[16:15:49] Picture infomations saved to global/pt-BR/history/2025/03/20_pt-BR.md
+[16:15:49] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-03-19 17:15:49.398944+01:00
+[16:15:49] Successful get url: https://www.bing.com/th?id=OHR.BlackHeron_FR-FR0339627364_UHD.jpg
+[16:15:49] Picture infomations saved to  global/fr-FR/README.md
+[16:15:49] Picture infomations saved to global/fr-FR/history/2025/03/19_fr-FR.md
+[16:15:49] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-03-19 17:15:49.496401+01:00
+[16:15:49] Successful get url: https://www.bing.com/th?id=OHR.BlackHeron_DE-DE7013473338_UHD.jpg
+[16:15:49] Picture infomations saved to  global/de-DE/README.md
+[16:15:49] Picture infomations saved to global/de-DE/history/2025/03/19_de-DE.md
+[16:15:49] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-03-19 12:15:49.646570-04:00
+[16:15:49] Successful get url: https://www.bing.com/th?id=OHR.BlackHeron_EN-CA0146794297_UHD.jpg
+[16:15:49] Picture infomations saved to  global/en-CA/README.md
+[16:15:49] Picture infomations saved to global/en-CA/history/2025/03/20_en-CA.md
+[16:15:49] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-03-19 16:15:49.726190+00:00
+[16:15:49] Successful get url: https://www.bing.com/th?id=OHR.BlackHeron_EN-GB3002716071_UHD.jpg
+[16:15:49] Picture infomations saved to  global/en-GB/README.md
+[16:15:49] Picture infomations saved to global/en-GB/history/2025/03/20_en-GB.md
+[16:15:49] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-03-19 17:15:49.808187+01:00
+[16:15:49] Successful get url: https://www.bing.com/th?id=OHR.BlackHeron_IT-IT9965971040_UHD.jpg
+[16:15:49] Picture infomations saved to  global/it-IT/README.md
+[16:15:49] Picture infomations saved to global/it-IT/history/2025/03/19_it-IT.md
+[16:15:49] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-03-19 17:15:49.949924+01:00
+[16:15:50] Successful get url: https://www.bing.com/th?id=OHR.BlackHeron_ES-ES8419055943_UHD.jpg
+[16:15:50] Picture infomations saved to  global/es-ES/README.md
+[16:15:50] Picture infomations saved to global/es-ES/history/2025/03/19_es-ES.md
+[16:15:50] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-03-19 12:15:50.098492-04:00
+[16:15:50] Successful get url: https://www.bing.com/th?id=OHR.BlackHeron_FR-CA8776036113_UHD.jpg
+[16:15:50] Picture infomations saved to  global/fr-CA/README.md
+[16:15:50] Picture infomations saved to global/fr-CA/history/2025/03/20_fr-CA.md
+Program exit at 16:15:50
