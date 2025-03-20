@@ -6,9 +6,9 @@
 ||*Copyright: Spring daffodils glowing in morning light (© LedyX/Shutterstock)*
 ||
 |||
-|2025-03-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SpringDaffodils_JA-JP0516701335_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringDaffodils_JA-JP0516701335_UHD.jpg)|
-||*Copyright: スイセンの花 (© LedyX/Shutterstock)*
+|2025-03-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DanumValley_JA-JP9471621232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DanumValley_JA-JP9471621232_UHD.jpg)|
+||*Copyright: ダヌムバレー保護地域, マレーシア サバ州 (© Nick Garbutt/Alamy)*
 ||
 |||
 |2025-03-20|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2025-03-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PrimaveraToscana_IT-IT0282064526_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrimaveraToscana_IT-IT0282064526_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.PrimaveraToscana_IT-IT0074316759_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrimaveraToscana_IT-IT0074316759_UHD.jpg)|
 ||*Copyright: San Quirico d’Orcia, Toscana (© Fabio Muzzi/Connect Images/Alamy Stock Photo)*
 ||
 |||
