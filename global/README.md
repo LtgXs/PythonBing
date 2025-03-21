@@ -6,9 +6,9 @@
 ||*Copyright: Mist over a lowland rainforest, Danum Valley, Sabah, Borneo, Malaysia (© Nick Garbutt/Alamy)*
 ||
 |||
-|2025-03-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DanumValley_JA-JP9471621232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DanumValley_JA-JP9471621232_UHD.jpg)|
-||*Copyright: ダヌムバレー保護地域, マレーシア サバ州 (© Nick Garbutt/Alamy)*
+|2025-03-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CenoteLilies_JA-JP9666252322_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CenoteLilies_JA-JP9666252322_UHD.jpg)|
+||*Copyright: セノーテの水面に咲く睡蓮, メキシコ (© Franco Banfi/NPL/Minden Pictures)*
 ||
 |||
 |2025-03-21|**Region: en-IN**||
