@@ -6,9 +6,9 @@
 ||*Copyright: Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico (© Franco Banfi/NPL/Minden Pictures)*
 ||
 |||
-|2025-03-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CenoteLilies_JA-JP9666252322_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CenoteLilies_JA-JP9666252322_UHD.jpg)|
-||*Copyright: セノーテの水面に咲く睡蓮, メキシコ (© Franco Banfi/NPL/Minden Pictures)*
+|2025-03-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NebraskaStorm_JA-JP9880301157_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NebraskaStorm_JA-JP9880301157_UHD.jpg)|
+||*Copyright: アンビルクローラー, 米国 ネブラスカ州 (© john finney photography/Getty Images)*
 ||
 |||
 |2025-03-22|**Region: en-IN**||
