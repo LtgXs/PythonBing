@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:25:57] Picture infomations saved to  global/fr-CA/README.md
 [09:25:57] Picture infomations saved to global/fr-CA/history/2025/03/24_fr-CA.md
 Program exit at 09:25:57
+
+Program started at 16:13:36
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1979-395
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:13:36] Start geting CN Bing Wallpaper
+[16:13:36] Successful get url: https://www.bing.com/th?id=OHR.ElephantGrass_ZH-CN7110191053_UHD.jpg
+[16:13:36] Image saved to img/background.jpg
+[16:13:36] Info saved to README.md
+[16:13:36] Image saved to history/2025/03/24.md
+[16:13:36] Start geting global Bing Wallpaper, region=en-US, local time is 2025-03-23 12:13:36.402014-04:00
+[16:13:36] Successful get url: https://www.bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg
+[16:13:36] Picture infomations saved to  global/en-US/README.md
+[16:13:36] Picture infomations saved to global/en-US/history/2025/03/24_en-US.md
+[16:13:36] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-03-24 01:13:36.513155+09:00
+[16:13:36] Successful get url: https://www.bing.com/th?id=OHR.ElephantGrass_JA-JP0063384057_UHD.jpg
+[16:13:36] Picture infomations saved to  global/ja-JP/README.md
+[16:13:36] Picture infomations saved to global/ja-JP/history/2025/03/24_ja-JP.md
+[16:13:36] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-03-23 21:43:36.605236+05:30
+[16:13:36] Successful get url: https://www.bing.com/th?id=OHR.NebraskaStorm_EN-IN8540918083_UHD.jpg
+[16:13:36] Picture infomations saved to  global/en-IN/README.md
+[16:13:36] Picture infomations saved to global/en-IN/history/2025/03/23_en-IN.md
+[16:13:36] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-03-23 13:13:36.702363-03:00
+[16:13:36] Successful get url: https://www.bing.com/th?id=OHR.AniversarioFlorianopolis_PT-BR1020574641_UHD.jpg
+[16:13:36] Picture infomations saved to  global/pt-BR/README.md
+[16:13:36] Picture infomations saved to global/pt-BR/history/2025/03/24_pt-BR.md
+[16:13:36] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-03-23 17:13:36.799359+01:00
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.NebraskaStorm_FR-FR4537048706_UHD.jpg
+[16:13:37] Picture infomations saved to  global/fr-FR/README.md
+[16:13:37] Picture infomations saved to global/fr-FR/history/2025/03/23_fr-FR.md
+[16:13:37] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-03-23 17:13:37.099929+01:00
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.NebraskaStorm_DE-DE2755671712_UHD.jpg
+[16:13:37] Picture infomations saved to  global/de-DE/README.md
+[16:13:37] Picture infomations saved to global/de-DE/history/2025/03/23_de-DE.md
+[16:13:37] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-03-23 12:13:37.196724-04:00
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.NebraskaStorm_EN-CA8250611097_UHD.jpg
+[16:13:37] Picture infomations saved to  global/en-CA/README.md
+[16:13:37] Picture infomations saved to global/en-CA/history/2025/03/24_en-CA.md
+[16:13:37] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-03-23 16:13:37.279407+00:00
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.NebraskaStorm_EN-GB4330008569_UHD.jpg
+[16:13:37] Picture infomations saved to  global/en-GB/README.md
+[16:13:37] Picture infomations saved to global/en-GB/history/2025/03/24_en-GB.md
+[16:13:37] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-03-23 17:13:37.373070+01:00
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.NebraskaStorm_IT-IT9749175316_UHD.jpg
+[16:13:37] Picture infomations saved to  global/it-IT/README.md
+[16:13:37] Picture infomations saved to global/it-IT/history/2025/03/23_it-IT.md
+[16:13:37] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-03-23 17:13:37.453827+01:00
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.NebraskaStorm_ES-ES5763602514_UHD.jpg
+[16:13:37] Picture infomations saved to  global/es-ES/README.md
+[16:13:37] Picture infomations saved to global/es-ES/history/2025/03/23_es-ES.md
+[16:13:37] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-03-23 12:13:37.549375-04:00
+[16:13:37] Successful get url: https://www.bing.com/th?id=OHR.NebraskaStorm_FR-CA7356220380_UHD.jpg
+[16:13:37] Picture infomations saved to  global/fr-CA/README.md
+[16:13:37] Picture infomations saved to global/fr-CA/history/2025/03/24_fr-CA.md
+Program exit at 16:13:37

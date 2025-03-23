@@ -6,9 +6,9 @@
 ||*Copyright: Lightning and storm clouds at sunset near Bowman, Nebraska (© john finney photography/Getty Images)*
 ||
 |||
-|2025-03-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NebraskaStorm_JA-JP9880301157_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NebraskaStorm_JA-JP9880301157_UHD.jpg)|
-||*Copyright: アンビルクローラー, 米国 ネブラスカ州 (© john finney photography/Getty Images)*
+|2025-03-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ElephantGrass_JA-JP0063384057_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantGrass_JA-JP0063384057_UHD.jpg)|
+||*Copyright: 砂漠ゾウの親子, ナミビア (© Christophe Courteau/Minden Pictures)*
 ||
 |||
 |2025-03-23|**Region: en-IN**||
