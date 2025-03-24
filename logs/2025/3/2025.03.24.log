@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:08] Picture infomations saved to  global/fr-CA/README.md
 [09:30:08] Picture infomations saved to global/fr-CA/history/2025/03/25_fr-CA.md
 Program exit at 09:30:08
+
+Program started at 16:17:04
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1296-753
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:17:04] Start geting CN Bing Wallpaper
+[16:17:04] Successful get url: https://www.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg
+[16:17:04] Image saved to img/background.jpg
+[16:17:04] Info saved to README.md
+[16:17:04] Image saved to history/2025/03/25.md
+[16:17:04] Start geting global Bing Wallpaper, region=en-US, local time is 2025-03-24 12:17:04.268252-04:00
+[16:17:04] Successful get url: https://www.bing.com/th?id=OHR.ElephantGrass_EN-US1398774650_UHD.jpg
+[16:17:04] Picture infomations saved to  global/en-US/README.md
+[16:17:04] Picture infomations saved to global/en-US/history/2025/03/25_en-US.md
+[16:17:04] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-03-25 01:17:04.400649+09:00
+[16:17:04] Successful get url: https://www.bing.com/th?id=OHR.HobbitHole_JA-JP0242283883_UHD.jpg
+[16:17:04] Picture infomations saved to  global/ja-JP/README.md
+[16:17:04] Picture infomations saved to global/ja-JP/history/2025/03/25_ja-JP.md
+[16:17:04] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-03-24 21:47:04.536134+05:30
+[16:17:04] Successful get url: https://www.bing.com/th?id=OHR.ElephantGrass_EN-IN8930309129_UHD.jpg
+[16:17:04] Picture infomations saved to  global/en-IN/README.md
+[16:17:04] Picture infomations saved to global/en-IN/history/2025/03/24_en-IN.md
+[16:17:04] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-03-24 13:17:04.666223-03:00
+[16:17:04] Successful get url: https://www.bing.com/th?id=OHR.ElephantGrass_PT-BR3216599628_UHD.jpg
+[16:17:04] Picture infomations saved to  global/pt-BR/README.md
+[16:17:04] Picture infomations saved to global/pt-BR/history/2025/03/25_pt-BR.md
+[16:17:04] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-03-24 17:17:04.778911+01:00
+[16:17:04] Successful get url: https://www.bing.com/th?id=OHR.ElephantGrass_FR-FR5375120032_UHD.jpg
+[16:17:04] Picture infomations saved to  global/fr-FR/README.md
+[16:17:04] Picture infomations saved to global/fr-FR/history/2025/03/24_fr-FR.md
+[16:17:04] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-03-24 17:17:04.888611+01:00
+[16:17:04] Successful get url: https://www.bing.com/th?id=OHR.ElephantGrass_DE-DE3541534518_UHD.jpg
+[16:17:05] Picture infomations saved to  global/de-DE/README.md
+[16:17:05] Picture infomations saved to global/de-DE/history/2025/03/24_de-DE.md
+[16:17:05] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-03-24 12:17:05.000949-04:00
+[16:17:05] Successful get url: https://www.bing.com/th?id=OHR.ElephantGrass_EN-CA8436870295_UHD.jpg
+[16:17:05] Picture infomations saved to  global/en-CA/README.md
+[16:17:05] Picture infomations saved to global/en-CA/history/2025/03/25_en-CA.md
+[16:17:05] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-03-24 16:17:05.123770+00:00
+[16:17:05] Successful get url: https://www.bing.com/th?id=OHR.SydneyHarbour_EN-GB4487505878_UHD.jpg
+[16:17:05] Picture infomations saved to  global/en-GB/README.md
+[16:17:05] Picture infomations saved to global/en-GB/history/2025/03/25_en-GB.md
+[16:17:05] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-03-24 17:17:05.362543+01:00
+[16:17:05] Successful get url: https://www.bing.com/th?id=OHR.PiazzaBologna_IT-IT4343709340_UHD.jpg
+[16:17:05] Picture infomations saved to  global/it-IT/README.md
+[16:17:05] Picture infomations saved to global/it-IT/history/2025/03/24_it-IT.md
+[16:17:05] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-03-24 17:17:05.558667+01:00
+[16:17:05] Successful get url: https://www.bing.com/th?id=OHR.ElephantGrass_ES-ES9916597908_UHD.jpg
+[16:17:05] Picture infomations saved to  global/es-ES/README.md
+[16:17:05] Picture infomations saved to global/es-ES/history/2025/03/24_es-ES.md
+[16:17:05] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-03-24 12:17:05.682616-04:00
+[16:17:05] Successful get url: https://www.bing.com/th?id=OHR.ElephantGrass_FR-CA8064485353_UHD.jpg
+[16:17:06] Picture infomations saved to  global/fr-CA/README.md
+[16:17:06] Picture infomations saved to global/fr-CA/history/2025/03/25_fr-CA.md
+Program exit at 16:17:06

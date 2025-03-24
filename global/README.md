@@ -6,9 +6,9 @@
 ||*Copyright: Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau/Minden Pictures)*
 ||
 |||
-|2025-03-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ElephantGrass_JA-JP0063384057_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantGrass_JA-JP0063384057_UHD.jpg)|
-||*Copyright: 砂漠ゾウの親子, ナミビア (© Christophe Courteau/Minden Pictures)*
+|2025-03-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HobbitHole_JA-JP0242283883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HobbitHole_JA-JP0242283883_UHD.jpg)|
+||*Copyright: ホビット穴, ニュージーランド (© Kim Petersen/Alamy)*
 ||
 |||
 |2025-03-24|**Region: en-IN**||
