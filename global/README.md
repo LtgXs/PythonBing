@@ -6,9 +6,9 @@
 ||*Copyright: Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)*
 ||
 |||
-|2025-03-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HobbitHole_JA-JP0242283883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HobbitHole_JA-JP0242283883_UHD.jpg)|
-||*Copyright: ホビット穴, ニュージーランド (© Kim Petersen/Alamy)*
+|2025-03-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CrystalManatee_JA-JP0403735948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrystalManatee_JA-JP0403735948_UHD.jpg)|
+||*Copyright: クリスタルリバーのマナティー, 米国 フロリダ州 (© Stephen Frink/Getty Images)*
 ||
 |||
 |2025-03-25|**Region: en-IN**||

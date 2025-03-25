@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:29:48] Picture infomations saved to  global/fr-CA/README.md
 [09:29:48] Picture infomations saved to global/fr-CA/history/2025/03/26_fr-CA.md
 Program exit at 09:29:48
+
+Program started at 16:14:44
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1326-829
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:14:44] Start geting CN Bing Wallpaper
+[16:14:44] Successful get url: https://www.bing.com/th?id=OHR.CrystalManatee_ZH-CN7547286414_UHD.jpg
+[16:14:44] Image saved to img/background.jpg
+[16:14:44] Info saved to README.md
+[16:14:44] Image saved to history/2025/03/26.md
+[16:14:44] Start geting global Bing Wallpaper, region=en-US, local time is 2025-03-25 12:14:44.337343-04:00
+[16:14:44] Successful get url: https://www.bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg
+[16:14:44] Picture infomations saved to  global/en-US/README.md
+[16:14:44] Picture infomations saved to global/en-US/history/2025/03/26_en-US.md
+[16:14:44] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-03-26 01:14:44.529617+09:00
+[16:14:44] Successful get url: https://www.bing.com/th?id=OHR.CrystalManatee_JA-JP0403735948_UHD.jpg
+[16:14:44] Picture infomations saved to  global/ja-JP/README.md
+[16:14:44] Picture infomations saved to global/ja-JP/history/2025/03/26_ja-JP.md
+[16:14:44] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-03-25 21:44:44.786400+05:30
+[16:14:44] Successful get url: https://www.bing.com/th?id=OHR.HobbitHole_EN-IN9319772613_UHD.jpg
+[16:14:44] Picture infomations saved to  global/en-IN/README.md
+[16:14:44] Picture infomations saved to global/en-IN/history/2025/03/25_en-IN.md
+[16:14:44] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-03-25 13:14:44.936210-03:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.HobbitHole_PT-BR3505721591_UHD.jpg
+[16:14:45] Picture infomations saved to  global/pt-BR/README.md
+[16:14:45] Picture infomations saved to global/pt-BR/history/2025/03/26_pt-BR.md
+[16:14:45] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-03-25 17:14:45.102351+01:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.ProcrastinationD_FR-FR5977849258_UHD.jpg
+[16:14:45] Picture infomations saved to  global/fr-FR/README.md
+[16:14:45] Picture infomations saved to global/fr-FR/history/2025/03/25_fr-FR.md
+[16:14:45] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-03-25 17:14:45.256748+01:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.AlsterLakeCherry_DE-DE3454488264_UHD.jpg
+[16:14:45] Picture infomations saved to  global/de-DE/README.md
+[16:14:45] Picture infomations saved to global/de-DE/history/2025/03/25_de-DE.md
+[16:14:45] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-03-25 12:14:45.434123-04:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.HobbitHole_EN-CA8754229294_UHD.jpg
+[16:14:45] Picture infomations saved to  global/en-CA/README.md
+[16:14:45] Picture infomations saved to global/en-CA/history/2025/03/26_en-CA.md
+[16:14:45] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-03-25 16:14:45.581460+00:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.HobbitHole_EN-GB4657800200_UHD.jpg
+[16:14:45] Picture infomations saved to  global/en-GB/README.md
+[16:14:45] Picture infomations saved to global/en-GB/history/2025/03/26_en-GB.md
+[16:14:45] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-03-25 17:14:45.742717+01:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.HobbitHole_IT-IT4670453023_UHD.jpg
+[16:14:45] Picture infomations saved to  global/it-IT/README.md
+[16:14:45] Picture infomations saved to global/it-IT/history/2025/03/25_it-IT.md
+[16:14:45] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-03-25 17:14:45.937013+01:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.HobbitHole_ES-ES0003424206_UHD.jpg
+[16:14:46] Picture infomations saved to  global/es-ES/README.md
+[16:14:46] Picture infomations saved to global/es-ES/history/2025/03/25_es-ES.md
+[16:14:46] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-03-25 12:14:46.129818-04:00
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.HobbitHole_FR-CA8203213295_UHD.jpg
+[16:14:46] Picture infomations saved to  global/fr-CA/README.md
+[16:14:46] Picture infomations saved to global/fr-CA/history/2025/03/26_fr-CA.md
+Program exit at 16:14:46
