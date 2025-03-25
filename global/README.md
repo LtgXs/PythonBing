@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-03-25|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ElephantGrass_EN-US1398774650_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantGrass_EN-US1398774650_UHD.jpg)|
-||*Copyright: Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau/Minden Pictures)*
+|2025-03-26|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg)|
+||*Copyright: Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)*
 ||
 |||
 |2025-03-25|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ホビット穴, ニュージーランド (© Kim Petersen/Alamy)*
 ||
 |||
-|2025-03-24|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ElephantGrass_EN-IN8930309129_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantGrass_EN-IN8930309129_UHD.jpg)|
-||*Copyright: Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau/Minden Pictures)*
+|2025-03-25|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HobbitHole_EN-IN9319772613_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HobbitHole_EN-IN9319772613_UHD.jpg)|
+||*Copyright: Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)*
 ||
 |||
-|2025-03-25|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ElephantGrass_PT-BR3216599628_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantGrass_PT-BR3216599628_UHD.jpg)|
-||*Copyright: Elefante do deserto e filhote se alimentando de capim alto, Namíbia (© Christophe Courteau/Minden Pictures)*
+|2025-03-26|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HobbitHole_PT-BR3505721591_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HobbitHole_PT-BR3505721591_UHD.jpg)|
+||*Copyright: Buraco de Hobbit no set de filmagem de Hobbiton, Waikato, Nova Zelândia (© Kim Petersen/Alamy)*
 ||
 |||
-|2025-03-24|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ElephantGrass_FR-FR5375120032_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantGrass_FR-FR5375120032_UHD.jpg)|
-||*Copyright: Éléphant du désert et son petit se nourrissant d'herbes hautes, Namibie (© Christophe Courteau/Minden Pictures)*
+|2025-03-25|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ProcrastinationD_FR-FR5977849258_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ProcrastinationD_FR-FR5977849258_UHD.jpg)|
+||*Copyright: Marmottes des Alpes, Marmota Marmota, Hautes Pyrénées (© Yann Guichaoua-Photos/Getty Images)*
 ||
 |||
-|2025-03-24|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ElephantGrass_DE-DE3541534518_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantGrass_DE-DE3541534518_UHD.jpg)|
-||*Copyright: Wüstenelefant mit Kalb, Namibia (© Christophe Courteau/Minden Pictures)*
+|2025-03-25|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AlsterLakeCherry_DE-DE3454488264_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlsterLakeCherry_DE-DE3454488264_UHD.jpg)|
+||*Copyright: Kirschblüten am Ufer der Alster bei Sonnenuntergang, Hamburg (© Westend61/Getty Images)*
 ||
 |||
-|2025-03-25|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ElephantGrass_EN-CA8436870295_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantGrass_EN-CA8436870295_UHD.jpg)|
-||*Copyright: Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau/Minden Pictures)*
+|2025-03-26|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HobbitHole_EN-CA8754229294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HobbitHole_EN-CA8754229294_UHD.jpg)|
+||*Copyright: Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)*
 ||
 |||
-|2025-03-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-GB4487505878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-GB4487505878_UHD.jpg)|
-||*Copyright: Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)*
+|2025-03-26|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HobbitHole_EN-GB4657800200_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HobbitHole_EN-GB4657800200_UHD.jpg)|
+||*Copyright: Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)*
 ||
 |||
-|2025-03-24|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PiazzaBologna_IT-IT4343709340_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PiazzaBologna_IT-IT4343709340_UHD.jpg)|
-||*Copyright: Piazza Maggiore al sorgere del sole, Bologna, Emilia-Romagna (© RudyBalasko/Getty Images)*
+|2025-03-25|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HobbitHole_IT-IT4670453023_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HobbitHole_IT-IT4670453023_UHD.jpg)|
+||*Copyright: Set cinematografico di Hobbiton, Waikato, Nuova Zelanda (© Kim Petersen/Alamy)*
 ||
 |||
-|2025-03-24|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ElephantGrass_ES-ES9916597908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantGrass_ES-ES9916597908_UHD.jpg)|
-||*Copyright: Elefante africano de sabana con su cría alimentándose de hierba, Namibia (© Christophe Courteau/Minden Pictures)*
+|2025-03-25|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HobbitHole_ES-ES0003424206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HobbitHole_ES-ES0003424206_UHD.jpg)|
+||*Copyright: Set de rodaje de Hobbiton, Waikato, Nueva Zelanda (© Kim Petersen/Alamy)*
 ||
 |||
-|2025-03-25|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ElephantGrass_FR-CA8064485353_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantGrass_FR-CA8064485353_UHD.jpg)|
-||*Copyright: Éléphant du désert et son petit se nourrissant d'herbes hautes, Namibie (© Christophe Courteau/Minden Pictures)*
+|2025-03-26|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HobbitHole_FR-CA8203213295_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HobbitHole_FR-CA8203213295_UHD.jpg)|
+||*Copyright: Trou de hobbit sur le plateau de tournage de Hobbiton, Waikato, Nouvelle-Zélande (© Kim Petersen/Alamy)*
 ||
 |||
 
