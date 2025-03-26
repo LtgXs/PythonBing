@@ -1,0 +1,60 @@
+
+Program started at 09:29:51
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1047-595
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[09:29:51] Start geting CN Bing Wallpaper
+[09:29:51] Successful get url: https://www.bing.com/th?id=OHR.CrystalManatee_ZH-CN7547286414_UHD.jpg
+[09:29:51] Image saved to img/background.jpg
+[09:29:51] Info saved to README.md
+[09:29:51] Image saved to history/2025/03/26.md
+[09:29:51] Start geting global Bing Wallpaper, region=en-US, local time is 2025-03-26 05:29:51.506838-04:00
+[09:29:56] Successful get url: https://www.bing.com/th?id=OHR.CrystalManatee_EN-US1724106178_UHD.jpg
+[09:29:56] Picture infomations saved to  global/en-US/README.md
+[09:29:56] Picture infomations saved to global/en-US/history/2025/03/27_en-US.md
+[09:29:56] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-03-26 18:29:56.417937+09:00
+[09:29:56] Successful get url: https://www.bing.com/th?id=OHR.CrystalManatee_JA-JP0403735948_UHD.jpg
+[09:29:56] Picture infomations saved to  global/ja-JP/README.md
+[09:29:56] Picture infomations saved to global/ja-JP/history/2025/03/26_ja-JP.md
+[09:29:56] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-03-26 14:59:56.520781+05:30
+[09:29:56] Successful get url: https://www.bing.com/th?id=OHR.CrystalManatee_EN-IN9367417729_UHD.jpg
+[09:29:56] Picture infomations saved to  global/en-IN/README.md
+[09:29:56] Picture infomations saved to global/en-IN/history/2025/03/26_en-IN.md
+[09:29:56] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-03-26 06:29:56.634280-03:00
+[09:29:56] Successful get url: https://www.bing.com/th?id=OHR.CrystalManatee_PT-BR6841178872_UHD.jpg
+[09:29:56] Picture infomations saved to  global/pt-BR/README.md
+[09:29:56] Picture infomations saved to global/pt-BR/history/2025/03/27_pt-BR.md
+[09:29:56] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-03-26 10:29:56.735228+01:00
+[09:29:56] Successful get url: https://www.bing.com/th?id=OHR.CrystalManatee_FR-FR9678954985_UHD.jpg
+[09:29:56] Picture infomations saved to  global/fr-FR/README.md
+[09:29:56] Picture infomations saved to global/fr-FR/history/2025/03/26_fr-FR.md
+[09:29:56] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-03-26 10:29:56.831079+01:00
+[09:29:56] Successful get url: https://www.bing.com/th?id=OHR.CrystalManatee_DE-DE8276334869_UHD.jpg
+[09:29:56] Picture infomations saved to  global/de-DE/README.md
+[09:29:56] Picture infomations saved to global/de-DE/history/2025/03/26_de-DE.md
+[09:29:56] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-03-26 05:29:56.971418-04:00
+[09:29:57] Successful get url: https://www.bing.com/th?id=OHR.Cherry25Blossom_EN-CA1808645687_UHD.jpg
+[09:29:57] Picture infomations saved to  global/en-CA/README.md
+[09:29:57] Picture infomations saved to global/en-CA/history/2025/03/27_en-CA.md
+[09:29:57] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-03-26 09:29:57.083605+00:00
+[09:29:57] Successful get url: https://www.bing.com/th?id=OHR.CrystalManatee_EN-GB4829470738_UHD.jpg
+[09:29:57] Picture infomations saved to  global/en-GB/README.md
+[09:29:57] Picture infomations saved to global/en-GB/history/2025/03/27_en-GB.md
+[09:29:57] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-03-26 10:29:57.178216+01:00
+[09:29:57] Successful get url: https://www.bing.com/th?id=OHR.CrystalManatee_IT-IT9883831174_UHD.jpg
+[09:29:57] Picture infomations saved to  global/it-IT/README.md
+[09:29:57] Picture infomations saved to global/it-IT/history/2025/03/26_it-IT.md
+[09:29:57] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-03-26 10:29:57.312901+01:00
+[09:29:57] Successful get url: https://www.bing.com/th?id=OHR.CrystalManatee_ES-ES0107634100_UHD.jpg
+[09:29:57] Picture infomations saved to  global/es-ES/README.md
+[09:29:57] Picture infomations saved to global/es-ES/history/2025/03/26_es-ES.md
+[09:29:57] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-03-26 05:29:57.422718-04:00
+[09:29:57] Successful get url: https://www.bing.com/th?id=OHR.Cherry25Blossom_FR-CA8168272462_UHD.jpg
+[09:29:57] Picture infomations saved to  global/fr-CA/README.md
+[09:29:57] Picture infomations saved to global/fr-CA/history/2025/03/27_fr-CA.md
+Program exit at 09:29:57
