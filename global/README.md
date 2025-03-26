@@ -6,9 +6,9 @@
 ||*Copyright: Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)*
 ||
 |||
-|2025-03-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CrystalManatee_JA-JP0403735948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrystalManatee_JA-JP0403735948_UHD.jpg)|
-||*Copyright: クリスタルリバーのマナティー, 米国 フロリダ州 (© Stephen Frink/Getty Images)*
+|2025-03-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OdeonAthens_JA-JP0554447843_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_JA-JP0554447843_UHD.jpg)|
+||*Copyright: ヘロディス・アッティコス音楽堂, ギリシャ、アテネ (© f11photo/Getty Images)*
 ||
 |||
 |2025-03-26|**Region: en-IN**||
