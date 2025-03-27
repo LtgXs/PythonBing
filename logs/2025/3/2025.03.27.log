@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:33] Picture infomations saved to  global/fr-CA/README.md
 [09:30:33] Picture infomations saved to global/fr-CA/history/2025/03/28_fr-CA.md
 Program exit at 09:30:33
+
+Program started at 16:16:04
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az2211-650
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:16:04] Start geting CN Bing Wallpaper
+[16:16:04] Successful get url: https://www.bing.com/th?id=OHR.NestingMonarch_ZH-CN7848166951_UHD.jpg
+[16:16:04] Image saved to img/background.jpg
+[16:16:04] Info saved to README.md
+[16:16:04] Image saved to history/2025/03/28.md
+[16:16:04] Start geting global Bing Wallpaper, region=en-US, local time is 2025-03-27 12:16:04.550747-04:00
+[16:16:04] Successful get url: https://www.bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg
+[16:16:04] Picture infomations saved to  global/en-US/README.md
+[16:16:04] Picture infomations saved to global/en-US/history/2025/03/28_en-US.md
+[16:16:04] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-03-28 01:16:04.784250+09:00
+[16:16:04] Successful get url: https://www.bing.com/th?id=OHR.NestingMonarch_JA-JP0784290288_UHD.jpg
+[16:16:04] Picture infomations saved to  global/ja-JP/README.md
+[16:16:04] Picture infomations saved to global/ja-JP/history/2025/03/28_ja-JP.md
+[16:16:04] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-03-27 21:46:04.967537+05:30
+[16:16:05] Successful get url: https://www.bing.com/th?id=OHR.OdeonAthens_EN-IN9699251221_UHD.jpg
+[16:16:05] Picture infomations saved to  global/en-IN/README.md
+[16:16:05] Picture infomations saved to global/en-IN/history/2025/03/27_en-IN.md
+[16:16:05] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-03-27 13:16:05.191135-03:00
+[16:16:05] Successful get url: https://www.bing.com/th?id=OHR.OdeonAthens_PT-BR7363037534_UHD.jpg
+[16:16:05] Picture infomations saved to  global/pt-BR/README.md
+[16:16:05] Picture infomations saved to global/pt-BR/history/2025/03/28_pt-BR.md
+[16:16:05] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-03-27 17:16:05.409158+01:00
+[16:16:05] Successful get url: https://www.bing.com/th?id=OHR.OdeonAthens_FR-FR0023742153_UHD.jpg
+[16:16:05] Picture infomations saved to  global/fr-FR/README.md
+[16:16:05] Picture infomations saved to global/fr-FR/history/2025/03/27_fr-FR.md
+[16:16:05] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-03-27 17:16:05.605766+01:00
+[16:16:05] Successful get url: https://www.bing.com/th?id=OHR.OdeonAthens_DE-DE3749163988_UHD.jpg
+[16:16:05] Picture infomations saved to  global/de-DE/README.md
+[16:16:05] Picture infomations saved to global/de-DE/history/2025/03/27_de-DE.md
+[16:16:05] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-03-27 12:16:05.781540-04:00
+[16:16:05] Successful get url: https://www.bing.com/th?id=OHR.OdeonAthens_EN-CA9280527970_UHD.jpg
+[16:16:06] Picture infomations saved to  global/en-CA/README.md
+[16:16:06] Picture infomations saved to global/en-CA/history/2025/03/28_en-CA.md
+[16:16:06] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-03-27 16:16:06.090962+00:00
+[16:16:06] Successful get url: https://www.bing.com/th?id=OHR.OdeonAthens_EN-GB5028449189_UHD.jpg
+[16:16:06] Picture infomations saved to  global/en-GB/README.md
+[16:16:06] Picture infomations saved to global/en-GB/history/2025/03/28_en-GB.md
+[16:16:06] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-03-27 17:16:06.254099+01:00
+[16:16:06] Successful get url: https://www.bing.com/th?id=OHR.OdeonAthens_IT-IT6024741417_UHD.jpg
+[16:16:06] Picture infomations saved to  global/it-IT/README.md
+[16:16:06] Picture infomations saved to global/it-IT/history/2025/03/27_it-IT.md
+[16:16:06] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-03-27 17:16:06.508084+01:00
+[16:16:06] Successful get url: https://www.bing.com/th?id=OHR.OdeonAthens_ES-ES0187817711_UHD.jpg
+[16:16:06] Picture infomations saved to  global/es-ES/README.md
+[16:16:06] Picture infomations saved to global/es-ES/history/2025/03/27_es-ES.md
+[16:16:06] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-03-27 12:16:06.682554-04:00
+[16:16:06] Successful get url: https://www.bing.com/th?id=OHR.OdeonAthens_FR-CA8874855369_UHD.jpg
+[16:16:06] Picture infomations saved to  global/fr-CA/README.md
+[16:16:06] Picture infomations saved to global/fr-CA/history/2025/03/28_fr-CA.md
+Program exit at 16:16:06

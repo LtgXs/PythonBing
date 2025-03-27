@@ -6,9 +6,9 @@
 ||*Copyright: Odeon of Herodes Atticus, Acropolis of Athens, Greece (© f11photo/Getty Images)*
 ||
 |||
-|2025-03-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OdeonAthens_JA-JP0554447843_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_JA-JP0554447843_UHD.jpg)|
-||*Copyright: ヘロディス・アッティコス音楽堂, ギリシャ、アテネ (© f11photo/Getty Images)*
+|2025-03-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NestingMonarch_JA-JP0784290288_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NestingMonarch_JA-JP0784290288_UHD.jpg)|
+||*Copyright: クロエリヒタキのメス (© komkrit tonusin/Alamy)*
 ||
 |||
 |2025-03-27|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2025-03-27|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OdeonAthens_IT-IT6974635534_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_IT-IT6974635534_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.OdeonAthens_IT-IT6024741417_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_IT-IT6024741417_UHD.jpg)|
 ||*Copyright: Odeon del teatro di Erode Attico, Acropoli di Atene, Grecia (© f11photo/Getty Images)*
 ||
 |||
