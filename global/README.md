@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-03-27|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CrystalManatee_EN-US1724106178_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrystalManatee_EN-US1724106178_UHD.jpg)|
-||*Copyright: Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)*
+|2025-03-28|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg)|
+||*Copyright: Odeon of Herodes Atticus, Acropolis of Athens, Greece (© f11photo/Getty Images)*
 ||
 |||
 |2025-03-27|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ヘロディス・アッティコス音楽堂, ギリシャ、アテネ (© f11photo/Getty Images)*
 ||
 |||
-|2025-03-26|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CrystalManatee_EN-IN9367417729_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrystalManatee_EN-IN9367417729_UHD.jpg)|
-||*Copyright: Manatee in Crystal River, Florida, United States (© Stephen Frink/Getty Images)*
+|2025-03-27|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.OdeonAthens_EN-IN9699251221_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_EN-IN9699251221_UHD.jpg)|
+||*Copyright: Odeon of Herodes Atticus theatre, Acropolis of Athens, Greece (© f11photo/Getty Images)*
 ||
 |||
-|2025-03-27|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CrystalManatee_PT-BR6841178872_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrystalManatee_PT-BR6841178872_UHD.jpg)|
-||*Copyright: Peixe-boi em Crystal River, Flórida, EUA (© Stephen Frink/Getty Images)*
+|2025-03-28|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.OdeonAthens_PT-BR7363037534_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_PT-BR7363037534_UHD.jpg)|
+||*Copyright: Odeon of Herodes Atticus theater, Acropolis of Athens, Greece (© f11photo/Getty Images)*
 ||
 |||
-|2025-03-26|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CrystalManatee_FR-FR9678954985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrystalManatee_FR-FR9678954985_UHD.jpg)|
-||*Copyright: Lamantin à Crystal River, Floride, États-Unis (© Stephen Frink/Getty Images)*
+|2025-03-27|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.OdeonAthens_FR-FR0023742153_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_FR-FR0023742153_UHD.jpg)|
+||*Copyright: Théâtre de l'Odéon d'Hérode Atticus, Acropole d'Athènes, Grèce (© f11photo/Getty Images)*
 ||
 |||
-|2025-03-26|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CrystalManatee_DE-DE8276334869_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrystalManatee_DE-DE8276334869_UHD.jpg)|
-||*Copyright: Rundschwanzseekuh in Crystal River, Florida, USA (© Stephen Frink/Getty Images)*
+|2025-03-27|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.OdeonAthens_DE-DE3749163988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_DE-DE3749163988_UHD.jpg)|
+||*Copyright: Odeon des Herodes Atticus, Akropolis von Athen, Griechenland (© f11photo/Getty Images)*
 ||
 |||
-|2025-03-27|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Cherry25Blossom_EN-CA1808645687_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Cherry25Blossom_EN-CA1808645687_UHD.jpg)|
-||*Copyright: Cherry blossoms in Queen Elizabeth Park, Vancouver, Canada (© Kim Rogerson/Getty Images)*
+|2025-03-28|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.OdeonAthens_EN-CA9280527970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_EN-CA9280527970_UHD.jpg)|
+||*Copyright: Odeon of Herodes Atticus theatre, Acropolis of Athens, Greece (© f11photo/Getty Images)*
 ||
 |||
-|2025-03-27|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CrystalManatee_EN-GB4829470738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrystalManatee_EN-GB4829470738_UHD.jpg)|
-||*Copyright: Manatee in Crystal River, Florida, United States (© Stephen Frink/Getty Images)*
+|2025-03-28|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.OdeonAthens_EN-GB5028449189_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_EN-GB5028449189_UHD.jpg)|
+||*Copyright: Odeon of Herodes Atticus theatre, Acropolis of Athens, Greece (© f11photo/Getty Images)*
 ||
 |||
-|2025-03-26|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CrystalManatee_IT-IT9883831174_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrystalManatee_IT-IT9883831174_UHD.jpg)|
-||*Copyright: Trichechus a Crystal River, Florida, USA (© Stephen Frink/Getty Images)*
+|2025-03-27|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.OdeonAthens_IT-IT6974635534_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_IT-IT6974635534_UHD.jpg)|
+||*Copyright: Odeon del teatro di Erode Attico, Acropoli di Atene, Grecia (© f11photo/Getty Images)*
 ||
 |||
-|2025-03-26|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CrystalManatee_ES-ES0107634100_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CrystalManatee_ES-ES0107634100_UHD.jpg)|
-||*Copyright: Manatí en Crystal River, Florida, EE. UU. (© Stephen Frink/Getty Images)*
+|2025-03-27|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.OdeonAthens_ES-ES0187817711_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_ES-ES0187817711_UHD.jpg)|
+||*Copyright: Odeón de Herodes Ático, Acrópolis de Atenas, Grecia (© f11photo/Getty Images)*
 ||
 |||
-|2025-03-27|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Cherry25Blossom_FR-CA8168272462_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Cherry25Blossom_FR-CA8168272462_UHD.jpg)|
-||*Copyright: Cerisiers en fleurs dans le parc Queen Elizabeth, Vancouver, Canada (© Kim Rogerson/Getty Images)*
+|2025-03-28|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.OdeonAthens_FR-CA8874855369_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_FR-CA8874855369_UHD.jpg)|
+||*Copyright: Théâtre de l'Odéon d'Hérode Atticus, Acropole d'Athènes, Grèce (© f11photo/Getty Images)*
 ||
 |||
 
