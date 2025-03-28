@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-03-28|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg)|
-||*Copyright: Odeon of Herodes Atticus, Acropolis of Athens, Greece (© f11photo/Getty Images)*
+|2025-03-29|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg)|
+||*Copyright: Female black-naped monarch nesting (© komkrit tonusin/Alamy)*
 ||
 |||
 |2025-03-28|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: クロエリヒタキのメス (© komkrit tonusin/Alamy)*
 ||
 |||
-|2025-03-27|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.OdeonAthens_EN-IN9699251221_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_EN-IN9699251221_UHD.jpg)|
-||*Copyright: Odeon of Herodes Atticus theatre, Acropolis of Athens, Greece (© f11photo/Getty Images)*
+|2025-03-28|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.NestingMonarch_EN-IN9834490771_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NestingMonarch_EN-IN9834490771_UHD.jpg)|
+||*Copyright: Female black-naped monarch nesting (© komkrit tonusin/Alamy)*
 ||
 |||
-|2025-03-28|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.OdeonAthens_PT-BR7363037534_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_PT-BR7363037534_UHD.jpg)|
-||*Copyright: Odeon of Herodes Atticus theater, Acropolis of Athens, Greece (© f11photo/Getty Images)*
+|2025-03-29|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.NestingMonarch_PT-BR7621606081_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NestingMonarch_PT-BR7621606081_UHD.jpg)|
+||*Copyright: Monarca-azul-de-solidéu fêmea no ninho (© komkrit tonusin/Alamy)*
 ||
 |||
-|2025-03-27|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.OdeonAthens_FR-FR0023742153_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_FR-FR0023742153_UHD.jpg)|
-||*Copyright: Théâtre de l'Odéon d'Hérode Atticus, Acropole d'Athènes, Grèce (© f11photo/Getty Images)*
+|2025-03-28|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.NestingMonarch_FR-FR0368519818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NestingMonarch_FR-FR0368519818_UHD.jpg)|
+||*Copyright: Femelle tchitrec azuré en train de nicher (© komkrit tonusin/Alamy)*
 ||
 |||
-|2025-03-27|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.OdeonAthens_DE-DE3749163988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_DE-DE3749163988_UHD.jpg)|
-||*Copyright: Odeon des Herodes Atticus, Akropolis von Athen, Griechenland (© f11photo/Getty Images)*
+|2025-03-28|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.NestingMonarch_DE-DE4342475181_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NestingMonarch_DE-DE4342475181_UHD.jpg)|
+||*Copyright: Weiblicher Schwarzgenickschnäpper im Nest (© komkrit tonusin/Alamy)*
 ||
 |||
-|2025-03-28|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.OdeonAthens_EN-CA9280527970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_EN-CA9280527970_UHD.jpg)|
-||*Copyright: Odeon of Herodes Atticus theatre, Acropolis of Athens, Greece (© f11photo/Getty Images)*
+|2025-03-29|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.NestingMonarch_EN-CA9445717272_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NestingMonarch_EN-CA9445717272_UHD.jpg)|
+||*Copyright: Female black-naped monarch nesting (© komkrit tonusin/Alamy)*
 ||
 |||
-|2025-03-28|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.OdeonAthens_EN-GB5028449189_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_EN-GB5028449189_UHD.jpg)|
-||*Copyright: Odeon of Herodes Atticus theatre, Acropolis of Athens, Greece (© f11photo/Getty Images)*
+|2025-03-29|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.NestingMonarch_EN-GB8009331215_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NestingMonarch_EN-GB8009331215_UHD.jpg)|
+||*Copyright: Female black-naped monarch nesting (© komkrit tonusin/Alamy)*
 ||
 |||
-|2025-03-27|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OdeonAthens_IT-IT6024741417_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_IT-IT6024741417_UHD.jpg)|
-||*Copyright: Odeon del teatro di Erode Attico, Acropoli di Atene, Grecia (© f11photo/Getty Images)*
+|2025-03-28|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ElephantGrass_IT-IT5535834532_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantGrass_IT-IT5535834532_UHD.jpg)|
+||*Copyright: Elefante del deserto con cucciolo che si nutre di erba alta, Namibia (© Christophe Courteau/Minden Pictures)*
 ||
 |||
-|2025-03-27|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.OdeonAthens_ES-ES0187817711_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_ES-ES0187817711_UHD.jpg)|
-||*Copyright: Odeón de Herodes Ático, Acrópolis de Atenas, Grecia (© f11photo/Getty Images)*
+|2025-03-28|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ReconquestofVigo_ES-ES0266760154_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReconquestofVigo_ES-ES0266760154_UHD.jpg)|
+||*Copyright: Camiño do Faro de Cíes, Pontevedra, Galicia (© Xurxo Lobato/Getty Images)*
 ||
 |||
-|2025-03-28|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.OdeonAthens_FR-CA8874855369_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OdeonAthens_FR-CA8874855369_UHD.jpg)|
-||*Copyright: Théâtre de l'Odéon d'Hérode Atticus, Acropole d'Athènes, Grèce (© f11photo/Getty Images)*
+|2025-03-29|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.NestingMonarch_FR-CA7537769339_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NestingMonarch_FR-CA7537769339_UHD.jpg)|
+||*Copyright: Femelle tchitrec azuré en train de nicher (© komkrit tonusin/Alamy)*
 ||
 |||
 
