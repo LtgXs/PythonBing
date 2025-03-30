@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)*
 ||
 |||
-|2025-03-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SydneyHarbour_JA-JP1159048271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SydneyHarbour_JA-JP1159048271_UHD.jpg)|
-||*Copyright: シドニー・ハーバー, オーストラリア ニューサウスウェールズ州 (© jamenpercy/Getty Images)*
+|2025-03-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ItalyOstuni_JA-JP1339145959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyOstuni_JA-JP1339145959_UHD.jpg)|
+||*Copyright: 夕暮れのオストゥーニ, イタリア プッリャ州 (© Feng Wei Photography/Getty Images)*
 ||
 |||
 |2025-03-30|**Region: en-IN**||
