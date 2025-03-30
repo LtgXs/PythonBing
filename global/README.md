@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-03-30|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg)|
-||*Copyright: Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)*
+|2025-03-31|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg)|
+||*Copyright: Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)*
 ||
 |||
 |2025-03-30|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: シドニー・ハーバー, オーストラリア ニューサウスウェールズ州 (© jamenpercy/Getty Images)*
 ||
 |||
-|2025-03-29|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-IN0314971879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-IN0314971879_UHD.jpg)|
-||*Copyright: Superbloom in Carrizo Plain National Monument, California, United States (© Robb Hirsch/TANDEM Stills + Motion)*
+|2025-03-30|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-IN0606023668_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-IN0606023668_UHD.jpg)|
+||*Copyright: Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)*
 ||
 |||
-|2025-03-30|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CarrizoBloom_PT-BR8458116464_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarrizoBloom_PT-BR8458116464_UHD.jpg)|
-||*Copyright: Superfloração no Monumento Nacional Carrizo Plain, Califórnia, EUA (© Robb Hirsch/TANDEM Stills + Motion)*
+|2025-03-31|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SydneyHarbour_PT-BR9026745479_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SydneyHarbour_PT-BR9026745479_UHD.jpg)|
+||*Copyright: Vista aérea do Porto de Sydney, Nova Gales do Sul, Austrália (© jamenpercy/Getty Images)*
 ||
 |||
-|2025-03-29|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SydneyHarbour_FR-FR4894871663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SydneyHarbour_FR-FR4894871663_UHD.jpg)|
-||*Copyright: Vue aérienne du port de Sydney, Nouvelle-Galles du Sud, Australie (© jamenpercy/Getty Images)*
+|2025-03-30|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ItalyClock_FR-FR5009254968_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyClock_FR-FR5009254968_UHD.jpg)|
+||*Copyright: Tour de l'horloge de Saint-Marc, Venise, Italie (© scaliger/Getty Images)*
 ||
 |||
-|2025-03-29|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CarrizoBloom_DE-DE4724342753_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarrizoBloom_DE-DE4724342753_UHD.jpg)|
-||*Copyright: Superbloom in Carrizo Plain National Monument, Kalifornien, USA (© Robb Hirsch/TANDEM Stills + Motion)*
+|2025-03-30|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AtheneNoctuaGermany_DE-DE4640297200_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AtheneNoctuaGermany_DE-DE4640297200_UHD.jpg)|
+||*Copyright: Steinkauz-Junges in einem Baumloch (© Bildagentur Zoonar GmbH/Alamy)*
 ||
 |||
-|2025-03-30|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-CA9693070982_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-CA9693070982_UHD.jpg)|
-||*Copyright: Superbloom in Carrizo Plain National Monument, California, United States (© Robb Hirsch/TANDEM Stills + Motion)*
+|2025-03-31|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-CA9853843667_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-CA9853843667_UHD.jpg)|
+||*Copyright: Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)*
 ||
 |||
 |2025-03-30|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-GB8154155837_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-GB8154155837_UHD.jpg)|
-||*Copyright: Superbloom in Carrizo Plain National Monument, California, United States (© Robb Hirsch/TANDEM Stills + Motion)*
+||![](https://www.bing.com/th?id=OHR.ElephantGrass_EN-GB8382422599_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantGrass_EN-GB8382422599_UHD.jpg)|
+||*Copyright: Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau/Minden Pictures)*
 ||
 |||
-|2025-03-29|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CarrizoBloom_IT-IT9336939108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarrizoBloom_IT-IT9336939108_UHD.jpg)|
-||*Copyright: Superbloom nel Carrizo Plain National Monument, California, USA (© Robb Hirsch/TANDEM Stills + Motion)*
+|2025-03-30|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.Clock_IT-IT7164959440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Clock_IT-IT7164959440_UHD.jpg)|
+||*Copyright: Torre dell'Orologio e statua in marmo del Leone alato di San Marco, Piazza dei Signori, Padova, Veneto (© Alberto Masnovo/Alamy Stock Photo)*
 ||
 |||
-|2025-03-29|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CarrizoBloom_ES-ES6860410740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarrizoBloom_ES-ES6860410740_UHD.jpg)|
-||*Copyright: Monumento Nacional de la Llanura de Carrizo Plain, California, EE. UU. (© Robb Hirsch/TANDEM Stills + Motion)*
+|2025-03-30|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ItalyClock_ES-ES6730268051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyClock_ES-ES6730268051_UHD.jpg)|
+||*Copyright: Torre del Reloj de San Marcos, Venecia, Italia (© scaliger/Getty Images)*
 ||
 |||
-|2025-03-30|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CarrizoBloom_FR-CA9432246059_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarrizoBloom_FR-CA9432246059_UHD.jpg)|
-||*Copyright: Superfloraison, Monument national de Carrizo Plain, Californie, États-Unis (© Robb Hirsch/TANDEM Stills + Motion)*
+|2025-03-31|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SydneyHarbour_FR-CA1242326658_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SydneyHarbour_FR-CA1242326658_UHD.jpg)|
+||*Copyright: Vue aérienne du port de Sydney, Nouvelle-Galles du Sud, Australie (© jamenpercy/Getty Images)*
 ||
 |||
 
