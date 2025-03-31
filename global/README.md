@@ -6,9 +6,9 @@
 ||*Copyright: Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)*
 ||
 |||
-|2025-03-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ItalyOstuni_JA-JP1339145959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyOstuni_JA-JP1339145959_UHD.jpg)|
-||*Copyright: 夕暮れのオストゥーニ, イタリア プッリャ州 (© Feng Wei Photography/Getty Images)*
+|2025-04-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CherryBlossom2025_JA-JP1573820444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CherryBlossom2025_JA-JP1573820444_UHD.jpg)|
+||*Copyright: 奈良公園, 奈良県 奈良市 (© AaronChenPS2/Shutterstock)*
 ||
 |||
 |2025-03-31|**Region: en-IN**||
