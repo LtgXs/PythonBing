@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg)|
-||*Copyright: Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)*
+|2025-04-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg)|
+||*Copyright: Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
 |2025-04-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 奈良公園, 奈良県 奈良市 (© AaronChenPS2/Shutterstock)*
 ||
 |||
-|2025-03-31|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ItalyOstuni_EN-IN0750809698_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyOstuni_EN-IN0750809698_UHD.jpg)|
-||*Copyright: Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)*
+|2025-04-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TicanFrog_EN-IN0941028255_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TicanFrog_EN-IN0941028255_UHD.jpg)|
+||*Copyright: Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-04-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ItalyOstuni_PT-BR1632629962_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyOstuni_PT-BR1632629962_UHD.jpg)|
-||*Copyright: Ostuni ao entardecer, Apúlia, Itália (© Feng Wei Photography/Getty Images)*
+|2025-04-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TicanFrog_PT-BR2144380781_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TicanFrog_PT-BR2144380781_UHD.jpg)|
+||*Copyright: Perereca Boana rufitela, Costa Rica (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-03-31|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ItalyOstuni_FR-FR7585525322_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyOstuni_FR-FR7585525322_UHD.jpg)|
-||*Copyright: Ostuni au crépuscule, Pouilles, Italie (© Feng Wei Photography/Getty Images)*
+|2025-04-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TicanFrog_FR-FR5747392507_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TicanFrog_FR-FR5747392507_UHD.jpg)|
+||*Copyright: Grenouille rainette, Costa Rica (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-03-31|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ItalyOstuni_DE-DE7873606461_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyOstuni_DE-DE7873606461_UHD.jpg)|
-||*Copyright: Ostuni bei Dämmerung, Apulien, Italien (© Feng Wei Photography/Getty Images)*
+|2025-04-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TicanFrog_DE-DE8199372905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TicanFrog_DE-DE8199372905_UHD.jpg)|
+||*Copyright: Kanalzonen-Baumfrosch, Costa Rica (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-04-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ItalyOstuni_EN-CA1782279768_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyOstuni_EN-CA1782279768_UHD.jpg)|
-||*Copyright: Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)*
+|2025-04-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TicanFrog_EN-CA1907772266_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TicanFrog_EN-CA1907772266_UHD.jpg)|
+||*Copyright: Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-03-31|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ItalyOstuni_EN-GB1857300472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyOstuni_EN-GB1857300472_UHD.jpg)|
-||*Copyright: Ostuni, Apulia, Italy (© Feng Wei Photography/Getty Images)*
+|2025-04-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TicanFrog_EN-GB2046965668_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TicanFrog_EN-GB2046965668_UHD.jpg)|
+||*Copyright: Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-03-31|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ItalyOstuni_IT-IT5728384591_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyOstuni_IT-IT5728384591_UHD.jpg)|
-||*Copyright: Ostuni al tramonto, Puglia (© Feng Wei Photography/Getty Images)*
+|2025-04-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TicanFrog_IT-IT7236834033_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TicanFrog_IT-IT7236834033_UHD.jpg)|
+||*Copyright: Rana, Costa Rica (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-03-31|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ItalyOstuni_ES-ES6756528922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyOstuni_ES-ES6756528922_UHD.jpg)|
-||*Copyright: Ostuni al atardecer, Brindisi, Apulia, Italia (© Feng Wei Photography/Getty Images)*
+|2025-04-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CerezoEnFlor_ES-ES6779922174_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CerezoEnFlor_ES-ES6779922174_UHD.jpg)|
+||*Copyright: Castillo de La Calahorra, Granada, Andalucía, España (© Ugo Mellone/Sime/eStock Photo)*
 ||
 |||
-|2025-04-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ItalyOstuni_FR-CA1443154374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyOstuni_FR-CA1443154374_UHD.jpg)|
-||*Copyright: Ostuni au crépuscule, Pouilles, Italie (© Feng Wei Photography/Getty Images)*
+|2025-04-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TicanFrog_FR-CA1574191785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TicanFrog_FR-CA1574191785_UHD.jpg)|
+||*Copyright: Grenouille rainette, Costa Rica (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
 
