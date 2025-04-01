@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:55] Picture infomations saved to  global/fr-CA/README.md
 [09:30:55] Picture infomations saved to global/fr-CA/history/2025/04/02_fr-CA.md
 Program exit at 09:30:55
+
+Program started at 16:15:03
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1937-861
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:15:03] Start geting CN Bing Wallpaper
+[16:15:03] Successful get url: https://www.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg
+[16:15:03] Image saved to img/background.jpg
+[16:15:03] Info saved to README.md
+[16:15:03] Image saved to history/2025/04/02.md
+[16:15:03] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-01 12:15:03.717830-04:00
+[16:15:03] Successful get url: https://www.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg
+[16:15:03] Picture infomations saved to  global/en-US/README.md
+[16:15:03] Picture infomations saved to global/en-US/history/2025/04/02_en-US.md
+[16:15:03] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-02 01:15:03.914144+09:00
+[16:15:03] Successful get url: https://www.bing.com/th?id=OHR.Sawara2025_JA-JP1817975477_UHD.jpg
+[16:15:04] Picture infomations saved to  global/ja-JP/README.md
+[16:15:04] Picture infomations saved to global/ja-JP/history/2025/04/02_ja-JP.md
+[16:15:04] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-01 21:45:04.121543+05:30
+[16:15:04] Successful get url: https://www.bing.com/th?id=OHR.TicanFrog_EN-IN0941028255_UHD.jpg
+[16:15:04] Picture infomations saved to  global/en-IN/README.md
+[16:15:04] Picture infomations saved to global/en-IN/history/2025/04/01_en-IN.md
+[16:15:04] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-01 13:15:04.293848-03:00
+[16:15:04] Successful get url: https://www.bing.com/th?id=OHR.TicanFrog_PT-BR2144380781_UHD.jpg
+[16:15:04] Picture infomations saved to  global/pt-BR/README.md
+[16:15:04] Picture infomations saved to global/pt-BR/history/2025/04/02_pt-BR.md
+[16:15:04] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-01 18:15:04.474747+02:00
+[16:15:04] Successful get url: https://www.bing.com/th?id=OHR.TicanFrog_FR-FR5747392507_UHD.jpg
+[16:15:04] Picture infomations saved to  global/fr-FR/README.md
+[16:15:04] Picture infomations saved to global/fr-FR/history/2025/04/01_fr-FR.md
+[16:15:04] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-01 18:15:04.625430+02:00
+[16:15:05] Successful get url: https://www.bing.com/th?id=OHR.TicanFrog_DE-DE8199372905_UHD.jpg
+[16:15:05] Picture infomations saved to  global/de-DE/README.md
+[16:15:05] Picture infomations saved to global/de-DE/history/2025/04/01_de-DE.md
+[16:15:05] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-01 12:15:05.293884-04:00
+[16:15:05] Successful get url: https://www.bing.com/th?id=OHR.TicanFrog_EN-CA1907772266_UHD.jpg
+[16:15:05] Picture infomations saved to  global/en-CA/README.md
+[16:15:05] Picture infomations saved to global/en-CA/history/2025/04/02_en-CA.md
+[16:15:05] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-01 17:15:05.435463+01:00
+[16:15:05] Successful get url: https://www.bing.com/th?id=OHR.TicanFrog_EN-GB2046965668_UHD.jpg
+[16:15:05] Picture infomations saved to  global/en-GB/README.md
+[16:15:05] Picture infomations saved to global/en-GB/history/2025/04/01_en-GB.md
+[16:15:05] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-01 18:15:05.602810+02:00
+[16:15:05] Successful get url: https://www.bing.com/th?id=OHR.TicanFrog_IT-IT7236834033_UHD.jpg
+[16:15:05] Picture infomations saved to  global/it-IT/README.md
+[16:15:05] Picture infomations saved to global/it-IT/history/2025/04/01_it-IT.md
+[16:15:05] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-01 18:15:05.772406+02:00
+[16:15:05] Successful get url: https://www.bing.com/th?id=OHR.CerezoEnFlor_ES-ES6779922174_UHD.jpg
+[16:15:05] Picture infomations saved to  global/es-ES/README.md
+[16:15:05] Picture infomations saved to global/es-ES/history/2025/04/01_es-ES.md
+[16:15:05] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-01 12:15:05.942786-04:00
+[16:15:06] Successful get url: https://www.bing.com/th?id=OHR.TicanFrog_FR-CA1574191785_UHD.jpg
+[16:15:06] Picture infomations saved to  global/fr-CA/README.md
+[16:15:06] Picture infomations saved to global/fr-CA/history/2025/04/02_fr-CA.md
+Program exit at 16:15:06

@@ -6,9 +6,9 @@
 ||*Copyright: Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-04-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CherryBlossom2025_JA-JP1573820444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CherryBlossom2025_JA-JP1573820444_UHD.jpg)|
-||*Copyright: 奈良公園, 奈良県 奈良市 (© AaronChenPS2/Shutterstock)*
+|2025-04-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Sawara2025_JA-JP1817975477_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Sawara2025_JA-JP1817975477_UHD.jpg)|
+||*Copyright: 香取神宮の田植え祭, 千葉県 香取市 (© Junko Kimura/特派員/Getty Images)*
 ||
 |||
 |2025-04-01|**Region: en-IN**||
