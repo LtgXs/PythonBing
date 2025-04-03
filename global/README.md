@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-03|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg)|
-||*Copyright: Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)*
+|2025-04-04|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg)|
+||*Copyright: Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)*
 ||
 |||
 |2025-04-03|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: バッドランド, 米国 ユタ州 (© Chris Moore/TANDEM Stills + Motion)*
 ||
 |||
-|2025-04-02|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.UtahBadlands_EN-IN2081384937_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UtahBadlands_EN-IN2081384937_UHD.jpg)|
-||*Copyright: Sandstone formations in the badlands near Caineville, Utah, United States (© Chris Moore/TANDEM Stills + Motion)*
+|2025-04-03|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KanyakumariSunrise_EN-IN5756215519_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KanyakumariSunrise_EN-IN5756215519_UHD.jpg)|
+||*Copyright: Thiruvalluvar Statue, Kanyakumari, Tamil Nadu (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-04-03|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CanyonItaimbezinho_PT-BR4970821899_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanyonItaimbezinho_PT-BR4970821899_UHD.jpg)|
-||*Copyright: Cânion Itaimbezinho, Rio Grande do Sul, Brasil (© agustavop/iStock/Getty Images Plus)*
+|2025-04-04|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SaguaroRainbow_PT-BR3397933674_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroRainbow_PT-BR3397933674_UHD.jpg)|
+||*Copyright: Arco-íris sobre o Wasson Peak, Parque Nacional de Saguaro, Arizona, EUA (© Frank Staub/Getty Images)*
 ||
 |||
-|2025-04-02|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WildWolf_FR-FR5843982312_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildWolf_FR-FR5843982312_UHD.jpg)|
-||*Copyright: Loup gris (© AB Photography/Getty Images)*
+|2025-04-03|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SaguaroRainbow_FR-FR7652479435_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroRainbow_FR-FR7652479435_UHD.jpg)|
+||*Copyright: Arc-en-ciel au-dessus de Wasson Peak, parc national de Saguaro, Arizona, États-Unis (© Frank Staub/Getty Images)*
 ||
 |||
-|2025-04-02|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.UtahBadlands_DE-DE8578683347_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UtahBadlands_DE-DE8578683347_UHD.jpg)|
-||*Copyright: Sandsteinformationen in den Badlands bei Caineville, Utah, USA (© Chris Moore/TANDEM Stills + Motion)*
+|2025-04-03|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SaguaroRainbow_DE-DE8863396941_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroRainbow_DE-DE8863396941_UHD.jpg)|
+||*Copyright: Regenbogen über dem Wasson Peak, Saguaro-Nationalpark, Arizona, USA (© Frank Staub/Getty Images)*
 ||
 |||
-|2025-04-03|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.UtahBadlands_EN-CA2102882917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UtahBadlands_EN-CA2102882917_UHD.jpg)|
-||*Copyright: Sandstone formations in the badlands near Caineville, Utah, United States (© Chris Moore/TANDEM Stills + Motion)*
+|2025-04-04|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.RufousHummingbird_EN-CA2493433576_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RufousHummingbird_EN-CA2493433576_UHD.jpg)|
+||*Copyright: Rufous hummingbird, Salt Spring Island, British Columbia, Canada (© Dave Hutchison Photography/Getty Images)*
 ||
 |||
-|2025-04-02|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.UtahBadlands_EN-GB1912634254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UtahBadlands_EN-GB1912634254_UHD.jpg)|
-||*Copyright: Sandstone formations in the badlands near Caineville, Utah, United States (© Chris Moore/TANDEM Stills + Motion)*
+|2025-04-03|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SaguaroRainbow_EN-GB1954302225_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroRainbow_EN-GB1954302225_UHD.jpg)|
+||*Copyright: Rainbow over Wasson Peak, Saguaro National Park, Arizona, United States (© Frank Staub/Getty Images)*
 ||
 |||
-|2025-04-02|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.UtahBadlands_IT-IT7290436395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UtahBadlands_IT-IT7290436395_UHD.jpg)|
-||*Copyright: Formazioni di arenaria nelle badlands vicino a Caineville, Utah, USA (© Chris Moore/TANDEM Stills + Motion)*
+|2025-04-03|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SaguaroRainbow_IT-IT7336031543_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroRainbow_IT-IT7336031543_UHD.jpg)|
+||*Copyright: Arcobaleno sul Wasson Peak, Parco Nazionale dei Saguaro, Arizona, USA (© Frank Staub/Getty Images)*
 ||
 |||
-|2025-04-02|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.UtahBadlands_ES-ES6805243978_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UtahBadlands_ES-ES6805243978_UHD.jpg)|
-||*Copyright: Formaciones de arenisca en las tierras baldías cerca de Caineville, Utah, EE. UU. (© Chris Moore/TANDEM Stills + Motion)*
+|2025-04-03|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SaguaroRainbow_ES-ES6828628699_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroRainbow_ES-ES6828628699_UHD.jpg)|
+||*Copyright: Arco iris sobre el Pico Wasson, Parque Nacional Saguaro, Arizona, EE. UU. (© Frank Staub/Getty Images)*
 ||
 |||
-|2025-04-03|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.UtahBadlands_FR-CA1740090528_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UtahBadlands_FR-CA1740090528_UHD.jpg)|
-||*Copyright: Formations de grès dans les badlands près de Caineville, Utah, États-Unis (© Chris Moore/TANDEM Stills + Motion)*
+|2025-04-04|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.RufousHummingbird_FR-CA8727304764_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RufousHummingbird_FR-CA8727304764_UHD.jpg)|
+||*Copyright: Colibri roux, île de Salt Spring, Colombie-Britannique, Canada (© Dave Hutchison Photography/Getty Images)*
 ||
 |||
 
