@@ -6,9 +6,9 @@
 ||*Copyright: Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)*
 ||
 |||
-|2025-04-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.UtahBadlands_JA-JP2147654788_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UtahBadlands_JA-JP2147654788_UHD.jpg)|
-||*Copyright: バッドランド, 米国 ユタ州 (© Chris Moore/TANDEM Stills + Motion)*
+|2025-04-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Qingming2025_JA-JP2915866958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Qingming2025_JA-JP2915866958_UHD.jpg)|
+||*Copyright: 首里城の守礼門, 沖縄県 那覇市 (© Richie Chan/Shutterstock)*
 ||
 |||
 |2025-04-03|**Region: en-IN**||
