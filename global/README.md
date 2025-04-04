@@ -6,9 +6,9 @@
 ||*Copyright: The National Cherry Blossom Festival in Washington, DC (© f11photo/Getty Images)*
 ||
 |||
-|2025-04-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Qingming2025_JA-JP2915866958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Qingming2025_JA-JP2915866958_UHD.jpg)|
-||*Copyright: 首里城の守礼門, 沖縄県 那覇市 (© Richie Chan/Shutterstock)*
+|2025-04-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_JA-JP3147357176_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_JA-JP3147357176_UHD.jpg)|
+||*Copyright: 夕暮れのガステルガチェ, スペイン バスク州 (© Eloi_Omella/Getty Images)*
 ||
 |||
 |2025-04-04|**Region: en-IN**||
