@@ -6,9 +6,9 @@
 ||*Copyright: Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-04-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_JA-JP3147357176_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_JA-JP3147357176_UHD.jpg)|
-||*Copyright: 夕暮れのガステルガチェ, スペイン バスク州 (© Eloi_Omella/Getty Images)*
+|2025-04-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CastleDay2025_JA-JP3325548053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastleDay2025_JA-JP3325548053_UHD.jpg)|
+||*Copyright: 姫路城, 兵庫県 姫路市 (© Sean Pavone/Alamy Stock Photo)*
 ||
 |||
 |2025-04-05|**Region: en-IN**||
