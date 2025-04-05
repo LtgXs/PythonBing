@@ -1,0 +1,60 @@
+
+Program started at 09:26:23
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1373-79
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[09:26:23] Start geting CN Bing Wallpaper
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg
+[09:26:23] Image saved to img/background.jpg
+[09:26:23] Info saved to README.md
+[09:26:23] Image saved to history/2025/04/05.md
+[09:26:23] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-05 05:26:23.553234-04:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg
+[09:26:23] Picture infomations saved to  global/en-US/README.md
+[09:26:23] Picture infomations saved to global/en-US/history/2025/04/06_en-US.md
+[09:26:23] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-05 18:26:23.647536+09:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.GaztelugatxeSunset_JA-JP3147357176_UHD.jpg
+[09:26:23] Picture infomations saved to  global/ja-JP/README.md
+[09:26:23] Picture infomations saved to global/ja-JP/history/2025/04/05_ja-JP.md
+[09:26:23] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-05 14:56:23.737083+05:30
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-IN9783802550_UHD.jpg
+[09:26:23] Picture infomations saved to  global/en-IN/README.md
+[09:26:23] Picture infomations saved to global/en-IN/history/2025/04/05_en-IN.md
+[09:26:23] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-05 06:26:23.828121-03:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.GaztelugatxeSunset_PT-BR7140171016_UHD.jpg
+[09:26:23] Picture infomations saved to  global/pt-BR/README.md
+[09:26:23] Picture infomations saved to global/pt-BR/history/2025/04/06_pt-BR.md
+[09:26:23] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-05 11:26:23.924611+02:00
+[09:26:23] Successful get url: https://www.bing.com/th?id=OHR.GaztelugatxeSunset_FR-FR9907394387_UHD.jpg
+[09:26:24] Picture infomations saved to  global/fr-FR/README.md
+[09:26:24] Picture infomations saved to global/fr-FR/history/2025/04/05_fr-FR.md
+[09:26:24] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-05 11:26:24.017172+02:00
+[09:26:24] Successful get url: https://www.bing.com/th?id=OHR.GaztelugatxeSunset_DE-DE0917848827_UHD.jpg
+[09:26:24] Picture infomations saved to  global/de-DE/README.md
+[09:26:24] Picture infomations saved to global/de-DE/history/2025/04/05_de-DE.md
+[09:26:24] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-05 05:26:24.094850-04:00
+[09:26:24] Successful get url: https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-CA8176973652_UHD.jpg
+[09:26:24] Picture infomations saved to  global/en-CA/README.md
+[09:26:24] Picture infomations saved to global/en-CA/history/2025/04/06_en-CA.md
+[09:26:24] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-05 10:26:24.183828+01:00
+[09:26:24] Successful get url: https://www.bing.com/th?id=OHR.GrandNational2025_EN-GB3927450244_UHD.jpg
+[09:26:24] Picture infomations saved to  global/en-GB/README.md
+[09:26:24] Picture infomations saved to global/en-GB/history/2025/04/05_en-GB.md
+[09:26:24] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-05 11:26:24.271034+02:00
+[09:26:24] Successful get url: https://www.bing.com/th?id=OHR.GaztelugatxeSunset_IT-IT9513907046_UHD.jpg
+[09:26:24] Picture infomations saved to  global/it-IT/README.md
+[09:26:24] Picture infomations saved to global/it-IT/history/2025/04/05_it-IT.md
+[09:26:24] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-05 11:26:24.359443+02:00
+[09:26:24] Successful get url: https://www.bing.com/th?id=OHR.GaztelugatxeSunset_ES-ES7893865924_UHD.jpg
+[09:26:24] Picture infomations saved to  global/es-ES/README.md
+[09:26:24] Picture infomations saved to global/es-ES/history/2025/04/05_es-ES.md
+[09:26:24] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-05 05:26:24.443048-04:00
+[09:26:24] Successful get url: https://www.bing.com/th?id=OHR.GaztelugatxeSunset_FR-CA0080559519_UHD.jpg
+[09:26:24] Picture infomations saved to  global/fr-CA/README.md
+[09:26:24] Picture infomations saved to global/fr-CA/history/2025/04/06_fr-CA.md
+Program exit at 09:26:24
