@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg)|
-||*Copyright: Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)*
+|2025-04-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg)|
+||*Copyright: George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)*
 ||
 |||
 |2025-04-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 姫路城, 兵庫県 姫路市 (© Sean Pavone/Alamy Stock Photo)*
 ||
 |||
-|2025-04-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-IN9783802550_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-IN9783802550_UHD.jpg)|
-||*Copyright: Gaztelugatxe islet at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)*
+|2025-04-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-IN9911189149_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-IN9911189149_UHD.jpg)|
+||*Copyright: Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)*
 ||
 |||
-|2025-04-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_PT-BR7140171016_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_PT-BR7140171016_UHD.jpg)|
-||*Copyright: Ilhote de Gaztelugatxe ao pôr do sol, País Basco, Espanha (© Eloi_Omella/Getty Images)*
+|2025-04-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PeabodyBaltimore_PT-BR0400301029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeabodyBaltimore_PT-BR0400301029_UHD.jpg)|
+||*Copyright: Biblioteca George Peabody, Baltimore, Maryland, EUA (© Wim Wiskerke/Alamy)*
 ||
 |||
-|2025-04-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_FR-FR9907394387_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_FR-FR9907394387_UHD.jpg)|
-||*Copyright: Îlot Gaztelugatxe au coucher du soleil, Pays basque, Espagne (© Eloi_Omella/Getty Images)*
+|2025-04-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TulipsWindmill_FR-FR8201526563_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_FR-FR8201526563_UHD.jpg)|
+||*Copyright: Champs de tulipes, Pays-Bas (© 1111IESPDJ/Getty Images)*
 ||
 |||
-|2025-04-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_DE-DE0917848827_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_DE-DE0917848827_UHD.jpg)|
-||*Copyright: Insel Gaztelugatxe bei Sonnenuntergang, Baskenland, Spanien (© Eloi_Omella/Getty Images)*
+|2025-04-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PeabodyBaltimore_DE-DE8297645557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeabodyBaltimore_DE-DE8297645557_UHD.jpg)|
+||*Copyright: George Peabody Library, Baltimore, Maryland, USA (© Wim Wiskerke/Alamy)*
 ||
 |||
-|2025-04-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-CA8176973652_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-CA8176973652_UHD.jpg)|
-||*Copyright: Gaztelugatxe islet at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)*
+|2025-04-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.YellowWarbler_EN-CA8652491444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowWarbler_EN-CA8652491444_UHD.jpg)|
+||*Copyright: Yellow warbler in Canada (© mirceax/Getty Images)*
 ||
 |||
-|2025-04-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.GrandNational2025_EN-GB3927450244_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandNational2025_EN-GB3927450244_UHD.jpg)|
-||*Copyright: 2021 Grand National at Aintree Racecourse, Liverpool, England (© Alan Crowhurst/PA Images/Getty Images)*
+|2025-04-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-GB4088567205_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-GB4088567205_UHD.jpg)|
+||*Copyright: Gaztelugatxe islet, Basque Country, Spain (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-04-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_IT-IT9513907046_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_IT-IT9513907046_UHD.jpg)|
-||*Copyright: Isola di Gaztelugatxe al tramonto, Paesi Baschi, Spagna (© Eloi_Omella/Getty Images)*
+|2025-04-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CarbonaraDay_IT-IT2080771090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarbonaraDay_IT-IT2080771090_UHD.jpg)|
+||*Copyright: Tramonto al Colosseo, Roma, Lazio (© Anton Aleksenko/iStock/Getty Images Plus)*
 ||
 |||
-|2025-04-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_ES-ES7893865924_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_ES-ES7893865924_UHD.jpg)|
-||*Copyright: Islote Gaztelugache al atardecer, País Vasco, España (© Eloi_Omella/Getty Images)*
+|2025-04-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AsturiasCovadongaSpain_ES-ES8023805515_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsturiasCovadongaSpain_ES-ES8023805515_UHD.jpg)|
+||*Copyright: Lagos de Covadonga, Asturias, España (© David Garcia Eirin/Alamy Stock Photo)*
 ||
 |||
-|2025-04-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_FR-CA0080559519_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_FR-CA0080559519_UHD.jpg)|
-||*Copyright: Îlot Gaztelugatxe au coucher du soleil, Pays basque, Espagne (© Eloi_Omella/Getty Images)*
+|2025-04-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.YellowWarbler_FR-CA2010153906_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowWarbler_FR-CA2010153906_UHD.jpg)|
+||*Copyright: Paruline du Canada (© mirceax/Getty Images)*
 ||
 |||
 
