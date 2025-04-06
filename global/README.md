@@ -6,9 +6,9 @@
 ||*Copyright: George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)*
 ||
 |||
-|2025-04-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CastleDay2025_JA-JP3325548053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastleDay2025_JA-JP3325548053_UHD.jpg)|
-||*Copyright: 姫路城, 兵庫県 姫路市 (© Sean Pavone/Alamy Stock Photo)*
+|2025-04-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BeaverDay_JA-JP3508921078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDay_JA-JP3508921078_UHD.jpg)|
+||*Copyright: アメリカビーバー, 米国 ワイオミング州 (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
 |2025-04-06|**Region: en-IN**||
