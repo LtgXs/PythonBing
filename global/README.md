@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-07|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg)|
-||*Copyright: George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)*
+|2025-04-08|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg)|
+||*Copyright: North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
 |2025-04-07|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アメリカビーバー, 米国 ワイオミング州 (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-04-06|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-IN9911189149_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-IN9911189149_UHD.jpg)|
-||*Copyright: Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)*
+|2025-04-07|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BeaverDay_EN-IN0064816773_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDay_EN-IN0064816773_UHD.jpg)|
+||*Copyright: North American beaver, Moran, Wyoming, United States (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-04-07|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PeabodyBaltimore_PT-BR0400301029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeabodyBaltimore_PT-BR0400301029_UHD.jpg)|
-||*Copyright: Biblioteca George Peabody, Baltimore, Maryland, EUA (© Wim Wiskerke/Alamy)*
+|2025-04-08|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BeaverDay_PT-BR0574676705_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDay_PT-BR0574676705_UHD.jpg)|
+||*Copyright: Castor-americano, Moran, Wyoming, EUA (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-04-06|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TulipsWindmill_FR-FR8201526563_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_FR-FR8201526563_UHD.jpg)|
-||*Copyright: Champs de tulipes, Pays-Bas (© 1111IESPDJ/Getty Images)*
+|2025-04-07|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BeaverDay_FR-FR0993512788_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDay_FR-FR0993512788_UHD.jpg)|
+||*Copyright: Castor du Canada, Moran, Wyoming, États-Unis (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-04-06|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PeabodyBaltimore_DE-DE8297645557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeabodyBaltimore_DE-DE8297645557_UHD.jpg)|
-||*Copyright: George Peabody Library, Baltimore, Maryland, USA (© Wim Wiskerke/Alamy)*
+|2025-04-07|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BeaverDay_DE-DE8403333829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDay_DE-DE8403333829_UHD.jpg)|
+||*Copyright: Kanadischer Biber, Moran, Wyoming, USA (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-04-07|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.YellowWarbler_EN-CA8652491444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowWarbler_EN-CA8652491444_UHD.jpg)|
-||*Copyright: Yellow warbler in Canada (© mirceax/Getty Images)*
+|2025-04-08|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.WhistlerSnowboard_EN-CA9156013019_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhistlerSnowboard_EN-CA9156013019_UHD.jpg)|
+||*Copyright: Whistler and Blackcomb mountains, British Columbia (© Pierre Leclerc/Shutterstock)*
 ||
 |||
-|2025-04-06|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-GB4088567205_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_EN-GB4088567205_UHD.jpg)|
-||*Copyright: Gaztelugatxe islet, Basque Country, Spain (© Eloi_Omella/Getty Images)*
+|2025-04-07|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BeaverDay_EN-GB4231980844_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDay_EN-GB4231980844_UHD.jpg)|
+||*Copyright: North American beaver, Moran, Wyoming, United States (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-04-06|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CarbonaraDay_IT-IT2080771090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarbonaraDay_IT-IT2080771090_UHD.jpg)|
-||*Copyright: Tramonto al Colosseo, Roma, Lazio (© Anton Aleksenko/iStock/Getty Images Plus)*
+|2025-04-07|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BeaverDay_IT-IT8371039769_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDay_IT-IT8371039769_UHD.jpg)|
+||*Copyright: Castoro nordamericano, Moran, Wyoming, USA (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-04-06|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AsturiasCovadongaSpain_ES-ES8023805515_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsturiasCovadongaSpain_ES-ES8023805515_UHD.jpg)|
-||*Copyright: Lagos de Covadonga, Asturias, España (© David Garcia Eirin/Alamy Stock Photo)*
+|2025-04-07|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BeaverDay_ES-ES8231200914_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDay_ES-ES8231200914_UHD.jpg)|
+||*Copyright: Castor canadensis, Moran, Wyoming, EE. UU. (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-04-07|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.YellowWarbler_FR-CA2010153906_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowWarbler_FR-CA2010153906_UHD.jpg)|
-||*Copyright: Paruline du Canada (© mirceax/Getty Images)*
+|2025-04-08|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.WhistlerSnowboard_FR-CA2302818424_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhistlerSnowboard_FR-CA2302818424_UHD.jpg)|
+||*Copyright: Montagnes de Whistler et de Blackcomb, Colombie-Britannique (© Pierre Leclerc/Shutterstock)*
 ||
 |||
 
