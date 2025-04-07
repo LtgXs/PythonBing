@@ -6,9 +6,9 @@
 ||*Copyright: North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-04-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BeaverDay_JA-JP3508921078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverDay_JA-JP3508921078_UHD.jpg)|
-||*Copyright: アメリカビーバー, 米国 ワイオミング州 (© Enrique Aguirre Aves/Getty Images)*
+|2025-04-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ParoTsechu_JA-JP3717839940_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParoTsechu_JA-JP3717839940_UHD.jpg)|
+||*Copyright: 民族衣装をまとった女性たち, ブータン (© Richard I'Anson/Getty Images)*
 ||
 |||
 |2025-04-07|**Region: en-IN**||
