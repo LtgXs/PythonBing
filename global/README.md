@@ -6,9 +6,9 @@
 ||*Copyright: Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)*
 ||
 |||
-|2025-04-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ParoTsechu_JA-JP3717839940_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParoTsechu_JA-JP3717839940_UHD.jpg)|
-||*Copyright: 民族衣装をまとった女性たち, ブータン (© Richard I'Anson/Getty Images)*
+|2025-04-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BlueNaxos_JA-JP3919761085_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_JA-JP3919761085_UHD.jpg)|
+||*Copyright: ナクソス島, ギリシャ (© Sizun Eye/Getty Images)*
 ||
 |||
 |2025-04-08|**Region: en-IN**||

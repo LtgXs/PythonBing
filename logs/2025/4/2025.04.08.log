@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:37] Picture infomations saved to  global/fr-CA/README.md
 [09:30:37] Picture infomations saved to global/fr-CA/history/2025/04/09_fr-CA.md
 Program exit at 09:30:37
+
+Program started at 16:16:18
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az810-159
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:16:18] Start geting CN Bing Wallpaper
+[16:16:18] Successful get url: https://www.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg
+[16:16:18] Image saved to img/background.jpg
+[16:16:18] Info saved to README.md
+[16:16:18] Image saved to history/2025/04/09.md
+[16:16:18] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-08 12:16:18.576151-04:00
+[16:16:18] Successful get url: https://www.bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg
+[16:16:18] Picture infomations saved to  global/en-US/README.md
+[16:16:18] Picture infomations saved to global/en-US/history/2025/04/09_en-US.md
+[16:16:18] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-09 01:16:18.864560+09:00
+[16:16:18] Successful get url: https://www.bing.com/th?id=OHR.BlueNaxos_JA-JP3919761085_UHD.jpg
+[16:16:19] Picture infomations saved to  global/ja-JP/README.md
+[16:16:19] Picture infomations saved to global/ja-JP/history/2025/04/09_ja-JP.md
+[16:16:19] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-08 21:46:19.075888+05:30
+[16:16:19] Successful get url: https://www.bing.com/th?id=OHR.ParoTsechu_EN-IN0196975136_UHD.jpg
+[16:16:19] Picture infomations saved to  global/en-IN/README.md
+[16:16:19] Picture infomations saved to global/en-IN/history/2025/04/08_en-IN.md
+[16:16:19] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-08 13:16:19.300747-03:00
+[16:16:19] Successful get url: https://www.bing.com/th?id=OHR.ParoTsechu_PT-BR0804311067_UHD.jpg
+[16:16:19] Picture infomations saved to  global/pt-BR/README.md
+[16:16:19] Picture infomations saved to global/pt-BR/history/2025/04/09_pt-BR.md
+[16:16:19] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-08 18:16:19.566811+02:00
+[16:16:19] Successful get url: https://www.bing.com/th?id=OHR.ParoTsechu_FR-FR1863100443_UHD.jpg
+[16:16:19] Picture infomations saved to  global/fr-FR/README.md
+[16:16:19] Picture infomations saved to global/fr-FR/history/2025/04/08_fr-FR.md
+[16:16:19] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-08 18:16:19.949766+02:00
+[16:16:20] Successful get url: https://www.bing.com/th?id=OHR.ParoTsechu_DE-DE2839281679_UHD.jpg
+[16:16:20] Picture infomations saved to  global/de-DE/README.md
+[16:16:20] Picture infomations saved to global/de-DE/history/2025/04/08_de-DE.md
+[16:16:20] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-08 12:16:20.227535-04:00
+[16:16:20] Successful get url: https://www.bing.com/th?id=OHR.ParoTsechu_EN-CA6976048681_UHD.jpg
+[16:16:20] Picture infomations saved to  global/en-CA/README.md
+[16:16:20] Picture infomations saved to global/en-CA/history/2025/04/09_en-CA.md
+[16:16:20] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-08 17:16:20.385395+01:00
+[16:16:20] Successful get url: https://www.bing.com/th?id=OHR.ParoTsechu_EN-GB4364292065_UHD.jpg
+[16:16:20] Picture infomations saved to  global/en-GB/README.md
+[16:16:20] Picture infomations saved to global/en-GB/history/2025/04/08_en-GB.md
+[16:16:20] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-08 18:16:20.609022+02:00
+[16:16:20] Successful get url: https://www.bing.com/th?id=OHR.ParoTsechu_IT-IT4678234670_UHD.jpg
+[16:16:20] Picture infomations saved to  global/it-IT/README.md
+[16:16:20] Picture infomations saved to global/it-IT/history/2025/04/08_it-IT.md
+[16:16:20] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-08 18:16:20.934203+02:00
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.ParoTsechu_ES-ES8527446081_UHD.jpg
+[16:16:21] Picture infomations saved to  global/es-ES/README.md
+[16:16:21] Picture infomations saved to global/es-ES/history/2025/04/08_es-ES.md
+[16:16:21] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-08 12:16:21.200115-04:00
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.ParoTsechu_FR-CA5633759949_UHD.jpg
+[16:16:21] Picture infomations saved to  global/fr-CA/README.md
+[16:16:21] Picture infomations saved to global/fr-CA/history/2025/04/09_fr-CA.md
+Program exit at 16:16:21
