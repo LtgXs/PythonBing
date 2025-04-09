@@ -2,13 +2,13 @@
 |      |      |      |
 | :----: | :----: | :----: |
 |2025-04-10|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-US0374867860_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_EN-US0374867860_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg)|
 ||*Copyright: Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)*
 ||
 |||
-|2025-04-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BlueNaxos_JA-JP3919761085_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_JA-JP3919761085_UHD.jpg)|
-||*Copyright: ナクソス島, ギリシャ (© Sizun Eye/Getty Images)*
+|2025-04-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LittleFoxes_JA-JP4068111842_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_JA-JP4068111842_UHD.jpg)|
+||*Copyright: 巣穴の近くにいる子ギツネたち (© WildMedia/Shutterstock)*
 ||
 |||
 |2025-04-09|**Region: en-IN**||
