@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:29:55] Picture infomations saved to  global/fr-CA/README.md
 [09:29:55] Picture infomations saved to global/fr-CA/history/2025/04/11_fr-CA.md
 Program exit at 09:29:55
+
+Program started at 16:16:12
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1277-646
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:16:12] Start geting CN Bing Wallpaper
+[16:16:12] Successful get url: https://www.bing.com/th?id=OHR.TulipsWindmill_ZH-CN0665142956_UHD.jpg
+[16:16:12] Image saved to img/background.jpg
+[16:16:12] Info saved to README.md
+[16:16:12] Image saved to history/2025/04/11.md
+[16:16:12] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-10 12:16:12.790579-04:00
+[16:16:12] Successful get url: https://www.bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg
+[16:16:12] Picture infomations saved to  global/en-US/README.md
+[16:16:12] Picture infomations saved to global/en-US/history/2025/04/11_en-US.md
+[16:16:12] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-11 01:16:12.948115+09:00
+[16:16:12] Successful get url: https://www.bing.com/th?id=OHR.TulipsWindmill_JA-JP4212176711_UHD.jpg
+[16:16:13] Picture infomations saved to  global/ja-JP/README.md
+[16:16:13] Picture infomations saved to global/ja-JP/history/2025/04/11_ja-JP.md
+[16:16:13] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-10 21:46:13.145157+05:30
+[16:16:13] Successful get url: https://www.bing.com/th?id=OHR.LittleFoxes_EN-IN0436750405_UHD.jpg
+[16:16:13] Picture infomations saved to  global/en-IN/README.md
+[16:16:13] Picture infomations saved to global/en-IN/history/2025/04/10_en-IN.md
+[16:16:13] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-10 13:16:13.314213-03:00
+[16:16:13] Successful get url: https://www.bing.com/th?id=OHR.LittleFoxes_PT-BR1339249223_UHD.jpg
+[16:16:13] Picture infomations saved to  global/pt-BR/README.md
+[16:16:13] Picture infomations saved to global/pt-BR/history/2025/04/11_pt-BR.md
+[16:16:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-10 18:16:13.511050+02:00
+[16:16:13] Successful get url: https://www.bing.com/th?id=OHR.LittleFoxes_FR-FR7823312506_UHD.jpg
+[16:16:13] Picture infomations saved to  global/fr-FR/README.md
+[16:16:13] Picture infomations saved to global/fr-FR/history/2025/04/10_fr-FR.md
+[16:16:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-10 18:16:13.689259+02:00
+[16:16:13] Successful get url: https://www.bing.com/th?id=OHR.LittleFoxes_DE-DE1578546136_UHD.jpg
+[16:16:13] Picture infomations saved to  global/de-DE/README.md
+[16:16:13] Picture infomations saved to global/de-DE/history/2025/04/10_de-DE.md
+[16:16:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-10 12:16:13.848292-04:00
+[16:16:13] Successful get url: https://www.bing.com/th?id=OHR.LittleFoxes_EN-CA7621816152_UHD.jpg
+[16:16:14] Picture infomations saved to  global/en-CA/README.md
+[16:16:14] Picture infomations saved to global/en-CA/history/2025/04/11_en-CA.md
+[16:16:14] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-10 17:16:14.014839+01:00
+[16:16:14] Successful get url: https://www.bing.com/th?id=OHR.MillenniumCentre2025_EN-GB4834695501_UHD.jpg
+[16:16:14] Picture infomations saved to  global/en-GB/README.md
+[16:16:14] Picture infomations saved to global/en-GB/history/2025/04/10_en-GB.md
+[16:16:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-10 18:16:14.190023+02:00
+[16:16:14] Successful get url: https://www.bing.com/th?id=OHR.LittleFoxes_IT-IT0375371643_UHD.jpg
+[16:16:14] Picture infomations saved to  global/it-IT/README.md
+[16:16:14] Picture infomations saved to global/it-IT/history/2025/04/10_it-IT.md
+[16:16:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-10 18:16:14.399879+02:00
+[16:16:14] Successful get url: https://www.bing.com/th?id=OHR.LittleFoxes_ES-ES9657822321_UHD.jpg
+[16:16:14] Picture infomations saved to  global/es-ES/README.md
+[16:16:14] Picture infomations saved to global/es-ES/history/2025/04/10_es-ES.md
+[16:16:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-10 12:16:14.556712-04:00
+[16:16:14] Successful get url: https://www.bing.com/th?id=OHR.LittleFoxes_FR-CA7956538809_UHD.jpg
+[16:16:14] Picture infomations saved to  global/fr-CA/README.md
+[16:16:14] Picture infomations saved to global/fr-CA/history/2025/04/11_fr-CA.md
+Program exit at 16:16:14

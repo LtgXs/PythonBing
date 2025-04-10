@@ -6,9 +6,9 @@
 ||*Copyright: Red fox cubs near their den (© WildMedia/Shutterstock)*
 ||
 |||
-|2025-04-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LittleFoxes_JA-JP4068111842_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_JA-JP4068111842_UHD.jpg)|
-||*Copyright: 巣穴の近くにいる子ギツネたち (© WildMedia/Shutterstock)*
+|2025-04-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TulipsWindmill_JA-JP4212176711_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_JA-JP4212176711_UHD.jpg)|
+||*Copyright: チューリップと風車, オランダ (© 1111IESPDJ/Getty Images)*
 ||
 |||
 |2025-04-10|**Region: en-IN**||
