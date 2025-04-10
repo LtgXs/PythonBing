@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-10|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg)|
-||*Copyright: Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)*
+|2025-04-11|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg)|
+||*Copyright: Red fox cubs near their den (© WildMedia/Shutterstock)*
 ||
 |||
 |2025-04-10|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 巣穴の近くにいる子ギツネたち (© WildMedia/Shutterstock)*
 ||
 |||
-|2025-04-09|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-IN8174628613_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_EN-IN8174628613_UHD.jpg)|
-||*Copyright: Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)*
+|2025-04-10|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LittleFoxes_EN-IN0436750405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_EN-IN0436750405_UHD.jpg)|
+||*Copyright: Red fox cubs near their den (© WildMedia/Shutterstock)*
 ||
 |||
-|2025-04-10|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BlueNaxos_PT-BR1208172497_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_PT-BR1208172497_UHD.jpg)|
-||*Copyright: Hora azul em Naxos, Cíclades, Grécia (© Sizun Eye/Getty Images)*
+|2025-04-11|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.LittleFoxes_PT-BR1339249223_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_PT-BR1339249223_UHD.jpg)|
+||*Copyright: Filhotes de raposa-vermelha perto da toca (© WildMedia/Shutterstock)*
 ||
 |||
-|2025-04-09|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BlueNaxos_FR-FR7466920458_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_FR-FR7466920458_UHD.jpg)|
-||*Copyright: Heure bleue à Naxos, Cyclades, Grèce (© Sizun Eye/Getty Images)*
+|2025-04-10|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LittleFoxes_FR-FR7823312506_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_FR-FR7823312506_UHD.jpg)|
+||*Copyright: Renardeaux près de leur tanière (© WildMedia/Shutterstock)*
 ||
 |||
-|2025-04-09|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BlueNaxos_DE-DE2161075771_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_DE-DE2161075771_UHD.jpg)|
-||*Copyright: Blaue Stunde auf Naxos, Kykladen, Griechenland (© Sizun Eye/Getty Images)*
+|2025-04-10|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LittleFoxes_DE-DE1578546136_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_DE-DE1578546136_UHD.jpg)|
+||*Copyright: Rotfuchsjunge in der Nähe ihres Baus (© WildMedia/Shutterstock)*
 ||
 |||
-|2025-04-10|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-CA7494029338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_EN-CA7494029338_UHD.jpg)|
-||*Copyright: Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)*
+|2025-04-11|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LittleFoxes_EN-CA7621816152_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_EN-CA7621816152_UHD.jpg)|
+||*Copyright: Red fox cubs near their den (© WildMedia/Shutterstock)*
 ||
 |||
-|2025-04-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BlueNaxos_EN-GB4555979110_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_EN-GB4555979110_UHD.jpg)|
-||*Copyright: Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)*
+|2025-04-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MillenniumCentre2025_EN-GB4834695501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MillenniumCentre2025_EN-GB4834695501_UHD.jpg)|
+||*Copyright: Wales Millennium Centre, Cardiff, Wales (© Billy Stock/Collection Mix/Getty Images)*
 ||
 |||
-|2025-04-09|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BlueNaxos_IT-IT4796672311_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_IT-IT4796672311_UHD.jpg)|
-||*Copyright: Ora blu a Nasso, Cicladi, Grecia (© Sizun Eye/Getty Images)*
+|2025-04-10|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LittleFoxes_IT-IT0375371643_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_IT-IT0375371643_UHD.jpg)|
+||*Copyright: Cuccioli di volpe rossa vicino alla loro tana (© WildMedia/Shutterstock)*
 ||
 |||
-|2025-04-09|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BlueNaxos_ES-ES9345555190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_ES-ES9345555190_UHD.jpg)|
-||*Copyright: Hora azul en Naxos, Cícladas, Grecia (© Sizun Eye/Getty Images)*
+|2025-04-10|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LittleFoxes_ES-ES9657822321_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_ES-ES9657822321_UHD.jpg)|
+||*Copyright: Cachorros de zorro rojo cerca de su guarida (© WildMedia/Shutterstock)*
 ||
 |||
-|2025-04-10|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BlueNaxos_FR-CA7619118944_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueNaxos_FR-CA7619118944_UHD.jpg)|
-||*Copyright: Heure bleue à Naxos, Cyclades, Grèce (© Sizun Eye/Getty Images)*
+|2025-04-11|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.LittleFoxes_FR-CA7956538809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_FR-CA7956538809_UHD.jpg)|
+||*Copyright: Renardeaux près de leur tanière (© WildMedia/Shutterstock)*
 ||
 |||
 
