@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-11|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg)|
-||*Copyright: Red fox cubs near their den (© WildMedia/Shutterstock)*
+|2025-04-12|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg)|
+||*Copyright: Tulip fields in Netherlands (© 1111IESPDJ/Getty Images)*
 ||
 |||
 |2025-04-11|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: チューリップと風車, オランダ (© 1111IESPDJ/Getty Images)*
 ||
 |||
-|2025-04-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LittleFoxes_EN-IN0436750405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_EN-IN0436750405_UHD.jpg)|
-||*Copyright: Red fox cubs near their den (© WildMedia/Shutterstock)*
+|2025-04-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-IN0831690807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-IN0831690807_UHD.jpg)|
+||*Copyright: Tulips, Netherlands (© 1111IESPDJ/Getty Images)*
 ||
 |||
-|2025-04-11|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LittleFoxes_PT-BR1339249223_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_PT-BR1339249223_UHD.jpg)|
-||*Copyright: Filhotes de raposa-vermelha perto da toca (© WildMedia/Shutterstock)*
+|2025-04-12|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TulipsWindmill_PT-BR1514723393_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_PT-BR1514723393_UHD.jpg)|
+||*Copyright: Campo de Tulipas nos Países Baixos (© 1111IESPDJ/Getty Images)*
 ||
 |||
-|2025-04-10|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LittleFoxes_FR-FR7823312506_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_FR-FR7823312506_UHD.jpg)|
-||*Copyright: Renardeaux près de leur tanière (© WildMedia/Shutterstock)*
+|2025-04-11|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BookFestival_FR-FR8770789335_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BookFestival_FR-FR8770789335_UHD.jpg)|
+||*Copyright: Vue aérienne du pont Wilson sur la Loire au crépuscule, Tours (© Cristian Mircea Balate/Getty Images)*
 ||
 |||
-|2025-04-10|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LittleFoxes_DE-DE1578546136_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_DE-DE1578546136_UHD.jpg)|
-||*Copyright: Rotfuchsjunge in der Nähe ihres Baus (© WildMedia/Shutterstock)*
+|2025-04-11|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TulipsWindmill_DE-DE0828527136_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_DE-DE0828527136_UHD.jpg)|
+||*Copyright: Tulpenfeld, Niederlande (© 1111IESPDJ/Getty Images)*
 ||
 |||
-|2025-04-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LittleFoxes_EN-CA7621816152_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_EN-CA7621816152_UHD.jpg)|
-||*Copyright: Red fox cubs near their den (© WildMedia/Shutterstock)*
+|2025-04-12|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-CA9221489477_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-CA9221489477_UHD.jpg)|
+||*Copyright: Tulips, Netherlands (© 1111IESPDJ/Getty Images)*
 ||
 |||
-|2025-04-10|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MillenniumCentre2025_EN-GB4834695501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MillenniumCentre2025_EN-GB4834695501_UHD.jpg)|
-||*Copyright: Wales Millennium Centre, Cardiff, Wales (© Billy Stock/Collection Mix/Getty Images)*
+|2025-04-11|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-GB4977266654_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-GB4977266654_UHD.jpg)|
+||*Copyright: Tulips, Netherlands (© 1111IESPDJ/Getty Images)*
 ||
 |||
-|2025-04-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LittleFoxes_IT-IT0375371643_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_IT-IT0375371643_UHD.jpg)|
-||*Copyright: Cuccioli di volpe rossa vicino alla loro tana (© WildMedia/Shutterstock)*
+|2025-04-11|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TulipsWindmill_IT-IT0852704157_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_IT-IT0852704157_UHD.jpg)|
+||*Copyright: Tulipani, Paesi Bassi (© 1111IESPDJ/Getty Images)*
 ||
 |||
-|2025-04-10|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LittleFoxes_ES-ES9657822321_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_ES-ES9657822321_UHD.jpg)|
-||*Copyright: Cachorros de zorro rojo cerca de su guarida (© WildMedia/Shutterstock)*
+|2025-04-11|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TulipsWindmill_ES-ES1285066743_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_ES-ES1285066743_UHD.jpg)|
+||*Copyright: Tulipanes, Países Bajos (© 1111IESPDJ/Getty Images)*
 ||
 |||
-|2025-04-11|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LittleFoxes_FR-CA7956538809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittleFoxes_FR-CA7956538809_UHD.jpg)|
-||*Copyright: Renardeaux près de leur tanière (© WildMedia/Shutterstock)*
+|2025-04-12|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TulipsWindmill_FR-CA8325142207_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_FR-CA8325142207_UHD.jpg)|
+||*Copyright: Champs de tulipes, Pays-Bas (© 1111IESPDJ/Getty Images)*
 ||
 |||
 
