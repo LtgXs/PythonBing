@@ -1,0 +1,60 @@
+
+Program started at 09:28:27
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1296-225
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[09:28:27] Start geting CN Bing Wallpaper
+[09:28:27] Successful get url: https://www.bing.com/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg
+[09:28:27] Image saved to img/background.jpg
+[09:28:27] Info saved to README.md
+[09:28:27] Image saved to history/2025/04/12.md
+[09:28:27] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-12 05:28:27.659433-04:00
+[09:28:27] Successful get url: https://www.bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg
+[09:28:27] Picture infomations saved to  global/en-US/README.md
+[09:28:27] Picture infomations saved to global/en-US/history/2025/04/13_en-US.md
+[09:28:27] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-12 18:28:27.742420+09:00
+[09:28:27] Successful get url: https://www.bing.com/th?id=OHR.SpaceFlight_JA-JP4398798070_UHD.jpg
+[09:28:27] Picture infomations saved to  global/ja-JP/README.md
+[09:28:27] Picture infomations saved to global/ja-JP/history/2025/04/12_ja-JP.md
+[09:28:27] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-12 14:58:27.898800+05:30
+[09:28:27] Successful get url: https://www.bing.com/th?id=OHR.SpaceFlight_EN-IN4763380292_UHD.jpg
+[09:28:27] Picture infomations saved to  global/en-IN/README.md
+[09:28:27] Picture infomations saved to global/en-IN/history/2025/04/12_en-IN.md
+[09:28:27] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-12 06:28:27.994181-03:00
+[09:28:28] Successful get url: https://www.bing.com/th?id=OHR.SpaceFlight_PT-BR1652543641_UHD.jpg
+[09:28:28] Picture infomations saved to  global/pt-BR/README.md
+[09:28:28] Picture infomations saved to global/pt-BR/history/2025/04/13_pt-BR.md
+[09:28:28] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-12 11:28:28.094190+02:00
+[09:28:28] Successful get url: https://www.bing.com/th?id=OHR.SpaceFlight_FR-FR9020944555_UHD.jpg
+[09:28:28] Picture infomations saved to  global/fr-FR/README.md
+[09:28:28] Picture infomations saved to global/fr-FR/history/2025/04/12_fr-FR.md
+[09:28:28] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-12 11:28:28.204972+02:00
+[09:28:28] Successful get url: https://www.bing.com/th?id=OHR.SpaceFlight_DE-DE4206523074_UHD.jpg
+[09:28:28] Picture infomations saved to  global/de-DE/README.md
+[09:28:28] Picture infomations saved to global/de-DE/history/2025/04/12_de-DE.md
+[09:28:28] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-12 05:28:28.315680-04:00
+[09:28:28] Successful get url: https://www.bing.com/th?id=OHR.SpaceFlight_EN-CA9375956608_UHD.jpg
+[09:28:28] Picture infomations saved to  global/en-CA/README.md
+[09:28:28] Picture infomations saved to global/en-CA/history/2025/04/13_en-CA.md
+[09:28:28] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-12 10:28:28.479360+01:00
+[09:28:28] Successful get url: https://www.bing.com/th?id=OHR.SpaceFlight_EN-GB5240728693_UHD.jpg
+[09:28:28] Picture infomations saved to  global/en-GB/README.md
+[09:28:28] Picture infomations saved to global/en-GB/history/2025/04/12_en-GB.md
+[09:28:28] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-12 11:28:28.591951+02:00
+[09:28:28] Successful get url: https://www.bing.com/th?id=OHR.SpaceFlight_IT-IT7664385047_UHD.jpg
+[09:28:28] Picture infomations saved to  global/it-IT/README.md
+[09:28:28] Picture infomations saved to global/it-IT/history/2025/04/12_it-IT.md
+[09:28:28] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-12 11:28:28.692959+02:00
+[09:28:28] Successful get url: https://www.bing.com/th?id=OHR.SpaceFlight_ES-ES0011702709_UHD.jpg
+[09:28:28] Picture infomations saved to  global/es-ES/README.md
+[09:28:28] Picture infomations saved to global/es-ES/history/2025/04/12_es-ES.md
+[09:28:28] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-12 05:28:28.871555-04:00
+[09:28:28] Successful get url: https://www.bing.com/th?id=OHR.SpaceFlight_FR-CA9146561784_UHD.jpg
+[09:28:28] Picture infomations saved to  global/fr-CA/README.md
+[09:28:28] Picture infomations saved to global/fr-CA/history/2025/04/13_fr-CA.md
+Program exit at 09:28:28

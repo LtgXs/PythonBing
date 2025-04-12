@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg)|
-||*Copyright: Tulip fields in Netherlands (© 1111IESPDJ/Getty Images)*
+|2025-04-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg)|
+||*Copyright: View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)*
 ||
 |||
 |2025-04-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: キューポラから見た地球 (© NASA)*
 ||
 |||
-|2025-04-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-IN0831690807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-IN0831690807_UHD.jpg)|
-||*Copyright: Tulips, Netherlands (© 1111IESPDJ/Getty Images)*
+|2025-04-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SpaceFlight_EN-IN4763380292_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_EN-IN4763380292_UHD.jpg)|
+||*Copyright: View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)*
 ||
 |||
-|2025-04-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TulipsWindmill_PT-BR1514723393_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_PT-BR1514723393_UHD.jpg)|
-||*Copyright: Campo de Tulipas nos Países Baixos (© 1111IESPDJ/Getty Images)*
+|2025-04-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SpaceFlight_PT-BR1652543641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_PT-BR1652543641_UHD.jpg)|
+||*Copyright: Vista da cúpula da Estação Espacial Internacional sobre o Oceano Pacífico Sul (© NASA)*
 ||
 |||
-|2025-04-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BookFestival_FR-FR8770789335_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BookFestival_FR-FR8770789335_UHD.jpg)|
-||*Copyright: Vue aérienne du pont Wilson sur la Loire au crépuscule, Tours (© Cristian Mircea Balate/Getty Images)*
+|2025-04-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SpaceFlight_FR-FR9020944555_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_FR-FR9020944555_UHD.jpg)|
+||*Copyright: Vue de la coupole de la Station spatiale internationale au-dessus de l'océan Pacifique Sud (© NASA)*
 ||
 |||
-|2025-04-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TulipsWindmill_DE-DE0828527136_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_DE-DE0828527136_UHD.jpg)|
-||*Copyright: Tulpenfeld, Niederlande (© 1111IESPDJ/Getty Images)*
+|2025-04-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SpaceFlight_DE-DE4206523074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_DE-DE4206523074_UHD.jpg)|
+||*Copyright: Blick aus der Kuppel der Internationalen Raumstation über den Südpazifik (© NASA)*
 ||
 |||
-|2025-04-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-CA9221489477_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-CA9221489477_UHD.jpg)|
-||*Copyright: Tulips, Netherlands (© 1111IESPDJ/Getty Images)*
+|2025-04-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SpaceFlight_EN-CA9375956608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_EN-CA9375956608_UHD.jpg)|
+||*Copyright: View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)*
 ||
 |||
-|2025-04-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-GB4977266654_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-GB4977266654_UHD.jpg)|
-||*Copyright: Tulips, Netherlands (© 1111IESPDJ/Getty Images)*
+|2025-04-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SpaceFlight_EN-GB5240728693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_EN-GB5240728693_UHD.jpg)|
+||*Copyright: View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)*
 ||
 |||
-|2025-04-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TulipsWindmill_IT-IT0852704157_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_IT-IT0852704157_UHD.jpg)|
-||*Copyright: Tulipani, Paesi Bassi (© 1111IESPDJ/Getty Images)*
+|2025-04-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SpaceFlight_IT-IT7664385047_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_IT-IT7664385047_UHD.jpg)|
+||*Copyright: Vista dalla cupola della Stazione Spaziale Internazionale sopra l'Oceano Pacifico meridionale (© NASA)*
 ||
 |||
-|2025-04-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TulipsWindmill_ES-ES1285066743_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_ES-ES1285066743_UHD.jpg)|
-||*Copyright: Tulipanes, Países Bajos (© 1111IESPDJ/Getty Images)*
+|2025-04-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SpaceFlight_ES-ES0011702709_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_ES-ES0011702709_UHD.jpg)|
+||*Copyright: Vista desde la cúpula de la Estación Espacial Internacional sobre el Océano Pacífico Sur (© NASA)*
 ||
 |||
-|2025-04-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TulipsWindmill_FR-CA8325142207_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipsWindmill_FR-CA8325142207_UHD.jpg)|
-||*Copyright: Champs de tulipes, Pays-Bas (© 1111IESPDJ/Getty Images)*
+|2025-04-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SpaceFlight_FR-CA9146561784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_FR-CA9146561784_UHD.jpg)|
+||*Copyright: Vue de la coupole de la Station spatiale internationale au-dessus de l'océan Pacifique Sud (© NASA)*
 ||
 |||
 
