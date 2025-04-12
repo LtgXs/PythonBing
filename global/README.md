@@ -6,9 +6,9 @@
 ||*Copyright: View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)*
 ||
 |||
-|2025-04-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SpaceFlight_JA-JP4398798070_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_JA-JP4398798070_UHD.jpg)|
-||*Copyright: キューポラから見た地球 (© NASA)*
+|2025-04-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ThailandPagodas_JA-JP4544592836_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_JA-JP4544592836_UHD.jpg)|
+||*Copyright: ワット・タン・サイ寺院, タイ (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
 |2025-04-12|**Region: en-IN**||
