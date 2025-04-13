@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:29:22] Picture infomations saved to  global/fr-CA/README.md
 [09:29:22] Picture infomations saved to global/fr-CA/history/2025/04/14_fr-CA.md
 Program exit at 09:29:22
+
+Program started at 16:14:44
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1047-397
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:14:44] Start geting CN Bing Wallpaper
+[16:14:44] Successful get url: https://www.bing.com/th?id=OHR.SpottedDolphins_ZH-CN1257100316_UHD.jpg
+[16:14:44] Image saved to img/background.jpg
+[16:14:44] Info saved to README.md
+[16:14:44] Image saved to history/2025/04/14.md
+[16:14:44] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-13 12:14:44.890235-04:00
+[16:14:44] Successful get url: https://www.bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg
+[16:14:45] Picture infomations saved to  global/en-US/README.md
+[16:14:45] Picture infomations saved to global/en-US/history/2025/04/14_en-US.md
+[16:14:45] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-14 01:14:45.007212+09:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.TakayamaFestival2025_JA-JP4780504174_UHD.jpg
+[16:14:45] Picture infomations saved to  global/ja-JP/README.md
+[16:14:45] Picture infomations saved to global/ja-JP/history/2025/04/14_ja-JP.md
+[16:14:45] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-13 21:44:45.185775+05:30
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.ThailandPagodas_EN-IN4796043507_UHD.jpg
+[16:14:45] Picture infomations saved to  global/en-IN/README.md
+[16:14:45] Picture infomations saved to global/en-IN/history/2025/04/13_en-IN.md
+[16:14:45] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-13 13:14:45.562922-03:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.AniversarioFortaleza_PT-BR2253033645_UHD.jpg
+[16:14:45] Picture infomations saved to  global/pt-BR/README.md
+[16:14:45] Picture infomations saved to global/pt-BR/history/2025/04/14_pt-BR.md
+[16:14:45] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-13 18:14:45.683370+02:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.ThailandPagodas_FR-FR9765190330_UHD.jpg
+[16:14:45] Picture infomations saved to  global/fr-FR/README.md
+[16:14:45] Picture infomations saved to global/fr-FR/history/2025/04/13_fr-FR.md
+[16:14:45] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-13 18:14:45.782169+02:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.ThailandPagodas_DE-DE3455777825_UHD.jpg
+[16:14:45] Picture infomations saved to  global/de-DE/README.md
+[16:14:45] Picture infomations saved to global/de-DE/history/2025/04/13_de-DE.md
+[16:14:45] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-13 12:14:45.978293-04:00
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.ThailandPagodas_EN-CA9636405561_UHD.jpg
+[16:14:46] Picture infomations saved to  global/en-CA/README.md
+[16:14:46] Picture infomations saved to global/en-CA/history/2025/04/14_en-CA.md
+[16:14:46] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-13 17:14:46.207794+01:00
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.ThailandPagodas_EN-GB5439908632_UHD.jpg
+[16:14:46] Picture infomations saved to  global/en-GB/README.md
+[16:14:46] Picture infomations saved to global/en-GB/history/2025/04/13_en-GB.md
+[16:14:46] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-13 18:14:46.339471+02:00
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.ThailandPagodas_IT-IT7756165601_UHD.jpg
+[16:14:46] Picture infomations saved to  global/it-IT/README.md
+[16:14:46] Picture infomations saved to global/it-IT/history/2025/04/13_it-IT.md
+[16:14:46] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-13 18:14:46.458849+02:00
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.ThailandPagodas_ES-ES0158142053_UHD.jpg
+[16:14:46] Picture infomations saved to  global/es-ES/README.md
+[16:14:46] Picture infomations saved to global/es-ES/history/2025/04/13_es-ES.md
+[16:14:46] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-13 12:14:46.581639-04:00
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.ThailandPagodas_FR-CA4441520959_UHD.jpg
+[16:14:46] Picture infomations saved to  global/fr-CA/README.md
+[16:14:46] Picture infomations saved to global/fr-CA/history/2025/04/14_fr-CA.md
+Program exit at 16:14:46
