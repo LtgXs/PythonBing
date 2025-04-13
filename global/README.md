@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg)|
-||*Copyright: View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)*
+|2025-04-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg)|
+||*Copyright: Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
 |2025-04-13|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ワット・タン・サイ寺院, タイ (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-04-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SpaceFlight_EN-IN4763380292_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_EN-IN4763380292_UHD.jpg)|
-||*Copyright: View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)*
+|2025-04-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-IN4796043507_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-IN4796043507_UHD.jpg)|
+||*Copyright: Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-04-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SpaceFlight_PT-BR1652543641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_PT-BR1652543641_UHD.jpg)|
-||*Copyright: Vista da cúpula da Estação Espacial Internacional sobre o Oceano Pacífico Sul (© NASA)*
+|2025-04-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AniversarioFortaleza_PT-BR2253033645_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AniversarioFortaleza_PT-BR2253033645_UHD.jpg)|
+||*Copyright: Vista aérea da Praia de Iracema, Fortaleza, Ceará, Brasil (© stocklapse/Getty Images)*
 ||
 |||
-|2025-04-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SpaceFlight_FR-FR9020944555_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_FR-FR9020944555_UHD.jpg)|
-||*Copyright: Vue de la coupole de la Station spatiale internationale au-dessus de l'océan Pacifique Sud (© NASA)*
+|2025-04-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ThailandPagodas_FR-FR9765190330_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_FR-FR9765190330_UHD.jpg)|
+||*Copyright: Temple Wat Tang Sai à Ban Krut, Thaïlande (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-04-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SpaceFlight_DE-DE4206523074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_DE-DE4206523074_UHD.jpg)|
-||*Copyright: Blick aus der Kuppel der Internationalen Raumstation über den Südpazifik (© NASA)*
+|2025-04-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ThailandPagodas_DE-DE3455777825_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_DE-DE3455777825_UHD.jpg)|
+||*Copyright: Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-04-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SpaceFlight_EN-CA9375956608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_EN-CA9375956608_UHD.jpg)|
-||*Copyright: View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)*
+|2025-04-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-CA9636405561_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-CA9636405561_UHD.jpg)|
+||*Copyright: Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-04-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SpaceFlight_EN-GB5240728693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_EN-GB5240728693_UHD.jpg)|
-||*Copyright: View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)*
+|2025-04-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-GB5439908632_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-GB5439908632_UHD.jpg)|
+||*Copyright: Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-04-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SpaceFlight_IT-IT7664385047_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_IT-IT7664385047_UHD.jpg)|
-||*Copyright: Vista dalla cupola della Stazione Spaziale Internazionale sopra l'Oceano Pacifico meridionale (© NASA)*
+|2025-04-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ThailandPagodas_IT-IT7756165601_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_IT-IT7756165601_UHD.jpg)|
+||*Copyright: Tempio Wat Tang Sai a Ban Krut, Thailandia (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-04-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SpaceFlight_ES-ES0011702709_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_ES-ES0011702709_UHD.jpg)|
-||*Copyright: Vista desde la cúpula de la Estación Espacial Internacional sobre el Océano Pacífico Sur (© NASA)*
+|2025-04-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ThailandPagodas_ES-ES0158142053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_ES-ES0158142053_UHD.jpg)|
+||*Copyright: Templo Wat Tang Sai en Ban Krut, Tailandia (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-04-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SpaceFlight_FR-CA9146561784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceFlight_FR-CA9146561784_UHD.jpg)|
-||*Copyright: Vue de la coupole de la Station spatiale internationale au-dessus de l'océan Pacifique Sud (© NASA)*
+|2025-04-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ThailandPagodas_FR-CA4441520959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_FR-CA4441520959_UHD.jpg)|
+||*Copyright: Temple Wat Tang Sai à Ban Krut, Thaïlande (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
 
