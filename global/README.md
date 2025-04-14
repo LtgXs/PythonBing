@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-14|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg)|
-||*Copyright: Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)*
+|2025-04-15|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg)|
+||*Copyright: Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)*
 ||
 |||
 |2025-04-14|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 精巧なからくり人形, 岐阜県 高山市 (© N. F. Photography/Shutterstock)*
 ||
 |||
-|2025-04-13|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-IN4796043507_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-IN4796043507_UHD.jpg)|
-||*Copyright: Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)*
+|2025-04-14|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AmbedkarMemorialIN_EN-IN5190883644_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmbedkarMemorialIN_EN-IN5190883644_UHD.jpg)|
+||*Copyright: Ambedkar Memorial Park, Lucknow, Uttar Pradesh (© aquarajiv/Getty Images)*
 ||
 |||
-|2025-04-14|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AniversarioFortaleza_PT-BR2253033645_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AniversarioFortaleza_PT-BR2253033645_UHD.jpg)|
-||*Copyright: Vista aérea da Praia de Iracema, Fortaleza, Ceará, Brasil (© stocklapse/Getty Images)*
+|2025-04-15|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SpottedDolphins_PT-BR4725039948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_PT-BR4725039948_UHD.jpg)|
+||*Copyright: Golfinhos-pintados-do-Atlântico perto da Ilha de Santa Maria, Açores, Portugal (© Jordi Chias/Minden Pictures)*
 ||
 |||
-|2025-04-13|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ThailandPagodas_FR-FR9765190330_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_FR-FR9765190330_UHD.jpg)|
-||*Copyright: Temple Wat Tang Sai à Ban Krut, Thaïlande (© Ratnakorn Piyasirisorost/Getty Images)*
+|2025-04-14|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SpottedDolphins_FR-FR1251975856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_FR-FR1251975856_UHD.jpg)|
+||*Copyright: Dauphins tachetés de l'Atlantique près de l'île de Santa Maria, Açores, Portugal (© Jordi Chias/Minden Pictures)*
 ||
 |||
-|2025-04-13|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ThailandPagodas_DE-DE3455777825_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_DE-DE3455777825_UHD.jpg)|
-||*Copyright: Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)*
+|2025-04-14|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SpottedDolphins_DE-DE3167683290_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_DE-DE3167683290_UHD.jpg)|
+||*Copyright: Zügeldelfine in der Nähe der Insel Santa Maria, Azoren, Portugal (© Jordi Chias/Minden Pictures)*
 ||
 |||
-|2025-04-14|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-CA9636405561_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-CA9636405561_UHD.jpg)|
-||*Copyright: Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)*
+|2025-04-15|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-CA9818391981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-CA9818391981_UHD.jpg)|
+||*Copyright: Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)*
 ||
 |||
-|2025-04-13|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-GB5439908632_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-GB5439908632_UHD.jpg)|
-||*Copyright: Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)*
+|2025-04-14|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-GB5559649631_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-GB5559649631_UHD.jpg)|
+||*Copyright: Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)*
 ||
 |||
-|2025-04-13|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ThailandPagodas_IT-IT7756165601_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_IT-IT7756165601_UHD.jpg)|
-||*Copyright: Tempio Wat Tang Sai a Ban Krut, Thailandia (© Ratnakorn Piyasirisorost/Getty Images)*
+|2025-04-14|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SpottedDolphins_IT-IT7838462769_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_IT-IT7838462769_UHD.jpg)|
+||*Copyright: Delfini nell'Atlantico, vicino all'isola di Santa Maria, Azzorre, Portogallo (© Jordi Chias/Minden Pictures)*
 ||
 |||
-|2025-04-13|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ThailandPagodas_ES-ES0158142053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_ES-ES0158142053_UHD.jpg)|
-||*Copyright: Templo Wat Tang Sai en Ban Krut, Tailandia (© Ratnakorn Piyasirisorost/Getty Images)*
+|2025-04-14|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SpottedDolphins_ES-ES0341116224_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_ES-ES0341116224_UHD.jpg)|
+||*Copyright: Delfines moteados cerca de la isla de Santa María, Azores, Portugal (© Jordi Chias/Minden Pictures)*
 ||
 |||
-|2025-04-14|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ThailandPagodas_FR-CA4441520959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThailandPagodas_FR-CA4441520959_UHD.jpg)|
-||*Copyright: Temple Wat Tang Sai à Ban Krut, Thaïlande (© Ratnakorn Piyasirisorost/Getty Images)*
+|2025-04-15|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SpottedDolphins_FR-CA1398136066_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_FR-CA1398136066_UHD.jpg)|
+||*Copyright: Dauphins tachetés de l'Atlantique près de l'île de Santa Maria, Açores, Portugal (© Jordi Chias/Minden Pictures)*
 ||
 |||
 
