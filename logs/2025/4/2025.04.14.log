@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:31:30] Picture infomations saved to  global/fr-CA/README.md
 [09:31:30] Picture infomations saved to global/fr-CA/history/2025/04/15_fr-CA.md
 Program exit at 09:31:30
+
+Program started at 16:16:20
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1914-625
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[16:16:20] Start geting CN Bing Wallpaper
+[16:16:20] Successful get url: https://www.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg
+[16:16:20] Image saved to img/background.jpg
+[16:16:20] Info saved to README.md
+[16:16:20] Image saved to history/2025/04/15.md
+[16:16:20] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-14 12:16:20.681998-04:00
+[16:16:20] Successful get url: https://www.bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg
+[16:16:20] Picture infomations saved to  global/en-US/README.md
+[16:16:20] Picture infomations saved to global/en-US/history/2025/04/15_en-US.md
+[16:16:20] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-15 01:16:20.853106+09:00
+[16:16:20] Successful get url: https://www.bing.com/th?id=OHR.BeachArt_JA-JP4983678633_UHD.jpg
+[16:16:21] Picture infomations saved to  global/ja-JP/README.md
+[16:16:21] Picture infomations saved to global/ja-JP/history/2025/04/15_ja-JP.md
+[16:16:21] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-14 21:46:21.053153+05:30
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.AmbedkarMemorialIN_EN-IN5190883644_UHD.jpg
+[16:16:21] Picture infomations saved to  global/en-IN/README.md
+[16:16:21] Picture infomations saved to global/en-IN/history/2025/04/14_en-IN.md
+[16:16:21] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-14 13:16:21.195172-03:00
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.SpottedDolphins_PT-BR4725039948_UHD.jpg
+[16:16:21] Picture infomations saved to  global/pt-BR/README.md
+[16:16:21] Picture infomations saved to global/pt-BR/history/2025/04/15_pt-BR.md
+[16:16:21] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-14 18:16:21.450361+02:00
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.SpottedDolphins_FR-FR1251975856_UHD.jpg
+[16:16:21] Picture infomations saved to  global/fr-FR/README.md
+[16:16:21] Picture infomations saved to global/fr-FR/history/2025/04/14_fr-FR.md
+[16:16:21] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-14 18:16:21.589423+02:00
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.SpottedDolphins_DE-DE3167683290_UHD.jpg
+[16:16:21] Picture infomations saved to  global/de-DE/README.md
+[16:16:21] Picture infomations saved to global/de-DE/history/2025/04/14_de-DE.md
+[16:16:21] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-14 12:16:21.704439-04:00
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.SpottedDolphins_EN-CA9818391981_UHD.jpg
+[16:16:21] Picture infomations saved to  global/en-CA/README.md
+[16:16:21] Picture infomations saved to global/en-CA/history/2025/04/15_en-CA.md
+[16:16:21] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-14 17:16:21.860352+01:00
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.SpottedDolphins_EN-GB5559649631_UHD.jpg
+[16:16:22] Picture infomations saved to  global/en-GB/README.md
+[16:16:22] Picture infomations saved to global/en-GB/history/2025/04/14_en-GB.md
+[16:16:22] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-14 18:16:22.008872+02:00
+[16:16:22] Successful get url: https://www.bing.com/th?id=OHR.SpottedDolphins_IT-IT7838462769_UHD.jpg
+[16:16:22] Picture infomations saved to  global/it-IT/README.md
+[16:16:22] Picture infomations saved to global/it-IT/history/2025/04/14_it-IT.md
+[16:16:22] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-14 18:16:22.146821+02:00
+[16:16:22] Successful get url: https://www.bing.com/th?id=OHR.SpottedDolphins_ES-ES0341116224_UHD.jpg
+[16:16:22] Picture infomations saved to  global/es-ES/README.md
+[16:16:22] Picture infomations saved to global/es-ES/history/2025/04/14_es-ES.md
+[16:16:22] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-14 12:16:22.292783-04:00
+[16:16:22] Successful get url: https://www.bing.com/th?id=OHR.SpottedDolphins_FR-CA1398136066_UHD.jpg
+[16:16:22] Picture infomations saved to  global/fr-CA/README.md
+[16:16:22] Picture infomations saved to global/fr-CA/history/2025/04/15_fr-CA.md
+Program exit at 16:16:22
