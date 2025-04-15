@@ -6,9 +6,9 @@
 ||*Copyright: Beach art by Zarpõ at plage de Sauveterre, Les Sables-d'Olonne, France (© Hemis/Alamy)*
 ||
 |||
-|2025-04-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BeachArt_JA-JP4983678633_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_JA-JP4983678633_UHD.jpg)|
-||*Copyright: ビーチに描かれた巨大な絵, フランス (© Hemis/Alamy)*
+|2025-04-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KachinaBridge_JA-JP5136647433_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KachinaBridge_JA-JP5136647433_UHD.jpg)|
+||*Copyright: ナチュラル・ブリッジ国定公園, 米国 ユタ州 (© Alan Majchrowicz/Getty Images)*
 ||
 |||
 |2025-04-15|**Region: en-IN**||
