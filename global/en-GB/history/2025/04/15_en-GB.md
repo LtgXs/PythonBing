@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-04-15
+## History Bing Wallpaper
+Wallpaper date: 2025-04-15
 ![](https://www.bing.com/th?id=OHR.BeachArt_EN-GB6018920186_UHD.jpg&w=1000)Download: [Beach art on Sauveterre Beach by Zarpo, Les Sables-d'Olonne, Vendee, France (© Hemis/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.BeachArt_EN-GB6018920186_UHD.jpg)
 
 Auto get programm by LtgX

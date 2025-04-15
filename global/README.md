@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg)|
-||*Copyright: Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)*
+|2025-04-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg)|
+||*Copyright: Beach art by Zarpõ at plage de Sauveterre, Les Sables-d'Olonne, France (© Hemis/Alamy)*
 ||
 |||
 |2025-04-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ビーチに描かれた巨大な絵, フランス (© Hemis/Alamy)*
 ||
 |||
-|2025-04-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AmbedkarMemorialIN_EN-IN5190883644_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmbedkarMemorialIN_EN-IN5190883644_UHD.jpg)|
-||*Copyright: Ambedkar Memorial Park, Lucknow, Uttar Pradesh (© aquarajiv/Getty Images)*
+|2025-04-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BeachArt_EN-IN5781333917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_EN-IN5781333917_UHD.jpg)|
+||*Copyright: Beach art on Sauveterre Beach by Zarpo, Les Sables-d'Olonne, Vendee, France (© Hemis/Alamy Stock Photo)*
 ||
 |||
-|2025-04-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SpottedDolphins_PT-BR4725039948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_PT-BR4725039948_UHD.jpg)|
-||*Copyright: Golfinhos-pintados-do-Atlântico perto da Ilha de Santa Maria, Açores, Portugal (© Jordi Chias/Minden Pictures)*
+|2025-04-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BeachArt_PT-BR4894197418_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_PT-BR4894197418_UHD.jpg)|
+||*Copyright: Arte na areia na Praia de Sauveterre por Zarpo, Les Sables-d'Olonne, Vendeia, França (© Hemis/Alamy)*
 ||
 |||
-|2025-04-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SpottedDolphins_FR-FR1251975856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_FR-FR1251975856_UHD.jpg)|
-||*Copyright: Dauphins tachetés de l'Atlantique près de l'île de Santa Maria, Açores, Portugal (© Jordi Chias/Minden Pictures)*
+|2025-04-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BeachArt_FR-FR1721959544_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_FR-FR1721959544_UHD.jpg)|
+||*Copyright: Beach art sur la plage de Sauveterre par Zarpo, Les Sables-d'Olonne, France (© Hemis/Alamy)*
 ||
 |||
-|2025-04-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SpottedDolphins_DE-DE3167683290_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_DE-DE3167683290_UHD.jpg)|
-||*Copyright: Zügeldelfine in der Nähe der Insel Santa Maria, Azoren, Portugal (© Jordi Chias/Minden Pictures)*
+|2025-04-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BeachArt_DE-DE2496270870_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_DE-DE2496270870_UHD.jpg)|
+||*Copyright: Sandkunst am Sauveterre Strand bei Zarpo, Les Sables-d'Olonne, Vendee, Frankreich (© Hemis/Alamy)*
 ||
 |||
-|2025-04-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-CA9818391981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-CA9818391981_UHD.jpg)|
-||*Copyright: Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)*
+|2025-04-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BeachArt_EN-CA0022402106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_EN-CA0022402106_UHD.jpg)|
+||*Copyright: Beach art on Sauveterre Beach by Zarpo, Les Sables-d'Olonne, Vendee, France (© Hemis/Alamy Stock Photo)*
 ||
 |||
-|2025-04-14|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-GB5559649631_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-GB5559649631_UHD.jpg)|
-||*Copyright: Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)*
+|2025-04-15|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BeachArt_EN-GB6018920186_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_EN-GB6018920186_UHD.jpg)|
+||*Copyright: Beach art on Sauveterre Beach by Zarpo, Les Sables-d'Olonne, Vendee, France (© Hemis/Alamy Stock Photo)*
 ||
 |||
-|2025-04-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SpottedDolphins_IT-IT7838462769_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_IT-IT7838462769_UHD.jpg)|
-||*Copyright: Delfini nell'Atlantico, vicino all'isola di Santa Maria, Azzorre, Portogallo (© Jordi Chias/Minden Pictures)*
+|2025-04-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BeachArt_IT-IT8015252028_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_IT-IT8015252028_UHD.jpg)|
+||*Copyright: Opera d'arte sulla spiaggia di Sauveterre di Zarpo, Les Sables-d'Olonne, Vandea, Francia (© Hemis/Alamy Stock Photo)*
 ||
 |||
-|2025-04-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SpottedDolphins_ES-ES0341116224_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_ES-ES0341116224_UHD.jpg)|
-||*Copyright: Delfines moteados cerca de la isla de Santa María, Azores, Portugal (© Jordi Chias/Minden Pictures)*
+|2025-04-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BeachArt_ES-ES0479706512_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_ES-ES0479706512_UHD.jpg)|
+||*Copyright: Arte playero en la playa de Sauveterre por Zarpo, Les Sables-d'Olonne, Vendée, Francia (© Hemis/Alamy)*
 ||
 |||
-|2025-04-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SpottedDolphins_FR-CA1398136066_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedDolphins_FR-CA1398136066_UHD.jpg)|
-||*Copyright: Dauphins tachetés de l'Atlantique près de l'île de Santa Maria, Açores, Portugal (© Jordi Chias/Minden Pictures)*
+|2025-04-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BeachArt_FR-CA1945523130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_FR-CA1945523130_UHD.jpg)|
+||*Copyright: Beach art sur la plage de Sauveterre par Zarpo, Les Sables-d'Olonne, France (© Hemis/Alamy)*
 ||
 |||
 

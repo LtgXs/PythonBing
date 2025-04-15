@@ -1,0 +1,60 @@
+
+Program started at 09:31:05
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az2035-264
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[09:31:05] Start geting CN Bing Wallpaper
+[09:31:05] Successful get url: https://www.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg
+[09:31:05] Image saved to img/background.jpg
+[09:31:05] Info saved to README.md
+[09:31:05] Image saved to history/2025/04/15.md
+[09:31:05] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-15 05:31:05.402608-04:00
+[09:31:05] Successful get url: https://www.bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg
+[09:31:05] Picture infomations saved to  global/en-US/README.md
+[09:31:05] Picture infomations saved to global/en-US/history/2025/04/16_en-US.md
+[09:31:05] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-15 18:31:05.556719+09:00
+[09:31:05] Successful get url: https://www.bing.com/th?id=OHR.BeachArt_JA-JP4983678633_UHD.jpg
+[09:31:05] Picture infomations saved to  global/ja-JP/README.md
+[09:31:05] Picture infomations saved to global/ja-JP/history/2025/04/15_ja-JP.md
+[09:31:05] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-15 15:01:05.730549+05:30
+[09:31:05] Successful get url: https://www.bing.com/th?id=OHR.BeachArt_EN-IN5781333917_UHD.jpg
+[09:31:05] Picture infomations saved to  global/en-IN/README.md
+[09:31:05] Picture infomations saved to global/en-IN/history/2025/04/15_en-IN.md
+[09:31:05] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-15 06:31:05.863967-03:00
+[09:31:05] Successful get url: https://www.bing.com/th?id=OHR.BeachArt_PT-BR4894197418_UHD.jpg
+[09:31:05] Picture infomations saved to  global/pt-BR/README.md
+[09:31:05] Picture infomations saved to global/pt-BR/history/2025/04/16_pt-BR.md
+[09:31:05] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-15 11:31:05.983322+02:00
+[09:31:06] Successful get url: https://www.bing.com/th?id=OHR.BeachArt_FR-FR1721959544_UHD.jpg
+[09:31:06] Picture infomations saved to  global/fr-FR/README.md
+[09:31:06] Picture infomations saved to global/fr-FR/history/2025/04/15_fr-FR.md
+[09:31:06] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-15 11:31:06.090653+02:00
+[09:31:06] Successful get url: https://www.bing.com/th?id=OHR.BeachArt_DE-DE2496270870_UHD.jpg
+[09:31:06] Picture infomations saved to  global/de-DE/README.md
+[09:31:06] Picture infomations saved to global/de-DE/history/2025/04/15_de-DE.md
+[09:31:06] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-15 05:31:06.191036-04:00
+[09:31:06] Successful get url: https://www.bing.com/th?id=OHR.BeachArt_EN-CA0022402106_UHD.jpg
+[09:31:06] Picture infomations saved to  global/en-CA/README.md
+[09:31:06] Picture infomations saved to global/en-CA/history/2025/04/16_en-CA.md
+[09:31:06] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-15 10:31:06.283336+01:00
+[09:31:06] Successful get url: https://www.bing.com/th?id=OHR.BeachArt_EN-GB6018920186_UHD.jpg
+[09:31:06] Picture infomations saved to  global/en-GB/README.md
+[09:31:06] Picture infomations saved to global/en-GB/history/2025/04/15_en-GB.md
+[09:31:06] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-15 11:31:06.419647+02:00
+[09:31:06] Successful get url: https://www.bing.com/th?id=OHR.BeachArt_IT-IT8015252028_UHD.jpg
+[09:31:06] Picture infomations saved to  global/it-IT/README.md
+[09:31:06] Picture infomations saved to global/it-IT/history/2025/04/15_it-IT.md
+[09:31:06] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-15 11:31:06.552742+02:00
+[09:31:06] Successful get url: https://www.bing.com/th?id=OHR.BeachArt_ES-ES0479706512_UHD.jpg
+[09:31:06] Picture infomations saved to  global/es-ES/README.md
+[09:31:06] Picture infomations saved to global/es-ES/history/2025/04/15_es-ES.md
+[09:31:06] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-15 05:31:06.771326-04:00
+[09:31:06] Successful get url: https://www.bing.com/th?id=OHR.BeachArt_FR-CA1945523130_UHD.jpg
+[09:31:06] Picture infomations saved to  global/fr-CA/README.md
+[09:31:06] Picture infomations saved to global/fr-CA/history/2025/04/16_fr-CA.md
+Program exit at 09:31:06
