@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg)|
-||*Copyright: Beach art by Zarpõ at plage de Sauveterre, Les Sables-d'Olonne, France (© Hemis/Alamy)*
+|2025-04-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg)|
+||*Copyright: Kachina Bridge, Natural Bridges National Monument, Utah (© Alan Majchrowicz/Getty Images)*
 ||
 |||
 |2025-04-16|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ナチュラル・ブリッジ国定公園, 米国 ユタ州 (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2025-04-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BeachArt_EN-IN5781333917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_EN-IN5781333917_UHD.jpg)|
-||*Copyright: Beach art on Sauveterre Beach by Zarpo, Les Sables-d'Olonne, Vendee, France (© Hemis/Alamy Stock Photo)*
+|2025-04-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KachinaBridge_EN-IN8735275886_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KachinaBridge_EN-IN8735275886_UHD.jpg)|
+||*Copyright: Kachina Bridge, Natural Bridges National Monument, Utah, United States (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2025-04-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BeachArt_PT-BR4894197418_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_PT-BR4894197418_UHD.jpg)|
-||*Copyright: Arte na areia na Praia de Sauveterre por Zarpo, Les Sables-d'Olonne, Vendeia, França (© Hemis/Alamy)*
+|2025-04-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.FozdoIguacu2025_PT-BR5499701871_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FozdoIguacu2025_PT-BR5499701871_UHD.jpg)|
+||*Copyright: Cartaratas do Iguaçu vistas de Foz do Iguaçu, Paraná, Brasil (© Stockfoto)*
 ||
 |||
-|2025-04-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BeachArt_FR-FR1721959544_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_FR-FR1721959544_UHD.jpg)|
-||*Copyright: Beach art sur la plage de Sauveterre par Zarpo, Les Sables-d'Olonne, France (© Hemis/Alamy)*
+|2025-04-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ToulouseBridge_FR-FR3626710676_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToulouseBridge_FR-FR3626710676_UHD.jpg)|
+||*Copyright: Pont sur la Garonne avec le Dôme de la Grave, Toulouse (© LOOK-foto/Image Professionals GmbH/Alamy Stock Photo)*
 ||
 |||
-|2025-04-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BeachArt_DE-DE2496270870_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_DE-DE2496270870_UHD.jpg)|
-||*Copyright: Sandkunst am Sauveterre Strand bei Zarpo, Les Sables-d'Olonne, Vendee, Frankreich (© Hemis/Alamy)*
+|2025-04-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BeachChairsSteinwarder_DE-DE2084587794_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachChairsSteinwarder_DE-DE2084587794_UHD.jpg)|
+||*Copyright: Strandkörbe vor der Seebrücke auf Steinwarder in Heiligenhafen, Schleswig-Holstein, Deutschland (© Frank Lukasseck/Huber/eStock Photo)*
 ||
 |||
-|2025-04-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BeachArt_EN-CA0022402106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_EN-CA0022402106_UHD.jpg)|
-||*Copyright: Beach art on Sauveterre Beach by Zarpo, Les Sables-d'Olonne, Vendee, France (© Hemis/Alamy Stock Photo)*
+|2025-04-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.KachinaBridge_EN-CA0621409398_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KachinaBridge_EN-CA0621409398_UHD.jpg)|
+||*Copyright: Kachina Bridge, Natural Bridges National Monument, Utah, United States (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2025-04-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BeachArt_EN-GB6018920186_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_EN-GB6018920186_UHD.jpg)|
-||*Copyright: Beach art on Sauveterre Beach by Zarpo, Les Sables-d'Olonne, Vendee, France (© Hemis/Alamy Stock Photo)*
+|2025-04-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.KachinaBridge_EN-GB6179737252_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KachinaBridge_EN-GB6179737252_UHD.jpg)|
+||*Copyright: Kachina Bridge, Natural Bridges National Monument, Utah, United States (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2025-04-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BeachArt_IT-IT8015252028_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_IT-IT8015252028_UHD.jpg)|
-||*Copyright: Opera d'arte sulla spiaggia di Sauveterre di Zarpo, Les Sables-d'Olonne, Vandea, Francia (© Hemis/Alamy Stock Photo)*
+|2025-04-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MilanSpringCiliegi_IT-IT8049577261_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilanSpringCiliegi_IT-IT8049577261_UHD.jpg)|
+||*Copyright: Duomo di Milano, Milano, Lombardia (© Tupungato/Getty Images)*
 ||
 |||
-|2025-04-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BeachArt_ES-ES0479706512_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_ES-ES0479706512_UHD.jpg)|
-||*Copyright: Arte playero en la playa de Sauveterre por Zarpo, Les Sables-d'Olonne, Vendée, Francia (© Hemis/Alamy)*
+|2025-04-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.KachinaBridge_ES-ES0602250183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KachinaBridge_ES-ES0602250183_UHD.jpg)|
+||*Copyright: Puente Kachina, Monumento nacional de los Puentes Naturales, Utah, EE. UU. (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2025-04-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BeachArt_FR-CA1945523130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeachArt_FR-CA1945523130_UHD.jpg)|
-||*Copyright: Beach art sur la plage de Sauveterre par Zarpo, Les Sables-d'Olonne, France (© Hemis/Alamy)*
+|2025-04-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.KachinaBridge_FR-CA2353131733_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KachinaBridge_FR-CA2353131733_UHD.jpg)|
+||*Copyright: Pont Kachina, monument national des National Bridges, Utah, États-Unis (© Alan Majchrowicz/Getty Images)*
 ||
 |||
 

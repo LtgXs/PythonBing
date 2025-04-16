@@ -1,0 +1,60 @@
+
+Program started at 09:30:34
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az2211-805
+Processor Type: x86_64
+Python Version: 3.12.9
+Python Interpreter Name: CPython
+[09:30:34] Start geting CN Bing Wallpaper
+[09:30:38] Successful get url: https://www.bing.com/th?id=OHR.KachinaBridge_ZH-CN3333793502_UHD.jpg
+[09:30:38] Image saved to img/background.jpg
+[09:30:38] Info saved to README.md
+[09:30:38] Image saved to history/2025/04/16.md
+[09:30:38] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-16 05:30:38.357104-04:00
+[09:30:38] Successful get url: https://www.bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg
+[09:30:38] Picture infomations saved to  global/en-US/README.md
+[09:30:38] Picture infomations saved to global/en-US/history/2025/04/17_en-US.md
+[09:30:38] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-16 18:30:38.568741+09:00
+[09:30:38] Successful get url: https://www.bing.com/th?id=OHR.KachinaBridge_JA-JP5136647433_UHD.jpg
+[09:30:38] Picture infomations saved to  global/ja-JP/README.md
+[09:30:38] Picture infomations saved to global/ja-JP/history/2025/04/16_ja-JP.md
+[09:30:38] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-16 15:00:38.834092+05:30
+[09:30:38] Successful get url: https://www.bing.com/th?id=OHR.KachinaBridge_EN-IN8735275886_UHD.jpg
+[09:30:39] Picture infomations saved to  global/en-IN/README.md
+[09:30:39] Picture infomations saved to global/en-IN/history/2025/04/16_en-IN.md
+[09:30:39] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-16 06:30:39.031416-03:00
+[09:30:39] Successful get url: https://www.bing.com/th?id=OHR.FozdoIguacu2025_PT-BR5499701871_UHD.jpg
+[09:30:39] Picture infomations saved to  global/pt-BR/README.md
+[09:30:39] Picture infomations saved to global/pt-BR/history/2025/04/17_pt-BR.md
+[09:30:39] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-16 11:30:39.263582+02:00
+[09:30:39] Successful get url: https://www.bing.com/th?id=OHR.ToulouseBridge_FR-FR3626710676_UHD.jpg
+[09:30:39] Picture infomations saved to  global/fr-FR/README.md
+[09:30:39] Picture infomations saved to global/fr-FR/history/2025/04/16_fr-FR.md
+[09:30:39] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-16 11:30:39.534892+02:00
+[09:30:39] Successful get url: https://www.bing.com/th?id=OHR.BeachChairsSteinwarder_DE-DE2084587794_UHD.jpg
+[09:30:39] Picture infomations saved to  global/de-DE/README.md
+[09:30:39] Picture infomations saved to global/de-DE/history/2025/04/16_de-DE.md
+[09:30:39] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-16 05:30:39.784739-04:00
+[09:30:39] Successful get url: https://www.bing.com/th?id=OHR.KachinaBridge_EN-CA0621409398_UHD.jpg
+[09:30:39] Picture infomations saved to  global/en-CA/README.md
+[09:30:39] Picture infomations saved to global/en-CA/history/2025/04/17_en-CA.md
+[09:30:39] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-16 10:30:39.971985+01:00
+[09:30:40] Successful get url: https://www.bing.com/th?id=OHR.KachinaBridge_EN-GB6179737252_UHD.jpg
+[09:30:40] Picture infomations saved to  global/en-GB/README.md
+[09:30:40] Picture infomations saved to global/en-GB/history/2025/04/16_en-GB.md
+[09:30:40] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-16 11:30:40.186687+02:00
+[09:30:40] Successful get url: https://www.bing.com/th?id=OHR.MilanSpringCiliegi_IT-IT8049577261_UHD.jpg
+[09:30:40] Picture infomations saved to  global/it-IT/README.md
+[09:30:40] Picture infomations saved to global/it-IT/history/2025/04/16_it-IT.md
+[09:30:40] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-16 11:30:40.404294+02:00
+[09:30:40] Successful get url: https://www.bing.com/th?id=OHR.KachinaBridge_ES-ES0602250183_UHD.jpg
+[09:30:40] Picture infomations saved to  global/es-ES/README.md
+[09:30:40] Picture infomations saved to global/es-ES/history/2025/04/16_es-ES.md
+[09:30:40] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-16 05:30:40.587905-04:00
+[09:30:40] Successful get url: https://www.bing.com/th?id=OHR.KachinaBridge_FR-CA2353131733_UHD.jpg
+[09:30:40] Picture infomations saved to  global/fr-CA/README.md
+[09:30:40] Picture infomations saved to global/fr-CA/history/2025/04/17_fr-CA.md
+Program exit at 09:30:40
