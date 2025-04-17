@@ -6,9 +6,9 @@
 ||*Copyright: Andean cocks-of-the-rock, Ecuador (© Kit Day/Alamy)*
 ||
 |||
-|2025-04-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EcuadorBird_JA-JP5274741674_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EcuadorBird_JA-JP5274741674_UHD.jpg)|
-||*Copyright: アンデスイワドリ, エクアドル (© Kit Day/Alamy)*
+|2025-04-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GoremeTurkey_JA-JP0595841869_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoremeTurkey_JA-JP0595841869_UHD.jpg)|
+||*Copyright: ギョレメ国立公園, トルコ (© Anton Petrus/Getty Images)*
 ||
 |||
 |2025-04-17|**Region: en-IN**||

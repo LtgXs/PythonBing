@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:40] Picture infomations saved to  global/fr-CA/README.md
 [09:30:40] Picture infomations saved to global/fr-CA/history/2025/04/18_fr-CA.md
 Program exit at 09:30:40
+
+Program started at 16:16:35
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1927-652
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:16:35] Start geting CN Bing Wallpaper
+[16:16:35] Successful get url: https://www.bing.com/th?id=OHR.GoremeTurkey_ZH-CN0255739302_UHD.jpg
+[16:16:36] Image saved to img/background.jpg
+[16:16:36] Info saved to README.md
+[16:16:36] Image saved to history/2025/04/18.md
+[16:16:36] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-17 12:16:36.104791-04:00
+[16:16:36] Successful get url: https://www.bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg
+[16:16:36] Picture infomations saved to  global/en-US/README.md
+[16:16:36] Picture infomations saved to global/en-US/history/2025/04/18_en-US.md
+[16:16:36] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-18 01:16:36.462905+09:00
+[16:16:36] Successful get url: https://www.bing.com/th?id=OHR.GoremeTurkey_JA-JP0595841869_UHD.jpg
+[16:16:36] Picture infomations saved to  global/ja-JP/README.md
+[16:16:36] Picture infomations saved to global/ja-JP/history/2025/04/18_ja-JP.md
+[16:16:36] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-17 21:46:36.647469+05:30
+[16:16:36] Successful get url: https://www.bing.com/th?id=OHR.EcuadorBird_EN-IN6854243689_UHD.jpg
+[16:16:36] Picture infomations saved to  global/en-IN/README.md
+[16:16:36] Picture infomations saved to global/en-IN/history/2025/04/17_en-IN.md
+[16:16:36] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-17 13:16:36.831953-03:00
+[16:16:36] Successful get url: https://www.bing.com/th?id=OHR.EcuadorBird_PT-BR5045243813_UHD.jpg
+[16:16:37] Picture infomations saved to  global/pt-BR/README.md
+[16:16:37] Picture infomations saved to global/pt-BR/history/2025/04/18_pt-BR.md
+[16:16:37] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-17 18:16:37.018825+02:00
+[16:16:37] Successful get url: https://www.bing.com/th?id=OHR.EcuadorBird_FR-FR4091583945_UHD.jpg
+[16:16:37] Picture infomations saved to  global/fr-FR/README.md
+[16:16:37] Picture infomations saved to global/fr-FR/history/2025/04/17_fr-FR.md
+[16:16:37] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-17 18:16:37.265066+02:00
+[16:16:37] Successful get url: https://www.bing.com/th?id=OHR.EcuadorBird_DE-DE1431082236_UHD.jpg
+[16:16:37] Picture infomations saved to  global/de-DE/README.md
+[16:16:37] Picture infomations saved to global/de-DE/history/2025/04/17_de-DE.md
+[16:16:37] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-17 12:16:37.418290-04:00
+[16:16:37] Successful get url: https://www.bing.com/th?id=OHR.EcuadorBird_EN-CA0828953911_UHD.jpg
+[16:16:37] Picture infomations saved to  global/en-CA/README.md
+[16:16:37] Picture infomations saved to global/en-CA/history/2025/04/18_en-CA.md
+[16:16:37] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-17 17:16:37.566191+01:00
+[16:16:37] Successful get url: https://www.bing.com/th?id=OHR.EcuadorBird_EN-GB6287056261_UHD.jpg
+[16:16:37] Picture infomations saved to  global/en-GB/README.md
+[16:16:37] Picture infomations saved to global/en-GB/history/2025/04/17_en-GB.md
+[16:16:37] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-17 18:16:37.759402+02:00
+[16:16:37] Successful get url: https://www.bing.com/th?id=OHR.PeabodyBaltimore_IT-IT8224367841_UHD.jpg
+[16:16:38] Picture infomations saved to  global/it-IT/README.md
+[16:16:38] Picture infomations saved to global/it-IT/history/2025/04/17_it-IT.md
+[16:16:38] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-17 18:16:38.134326+02:00
+[16:16:38] Successful get url: https://www.bing.com/th?id=OHR.CastroUrdiales_ES-ES0758582290_UHD.jpg
+[16:16:38] Picture infomations saved to  global/es-ES/README.md
+[16:16:38] Picture infomations saved to global/es-ES/history/2025/04/17_es-ES.md
+[16:16:38] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-17 12:16:38.269177-04:00
+[16:16:38] Successful get url: https://www.bing.com/th?id=OHR.EcuadorBird_FR-CA4387782439_UHD.jpg
+[16:16:38] Picture infomations saved to  global/fr-CA/README.md
+[16:16:38] Picture infomations saved to global/fr-CA/history/2025/04/18_fr-CA.md
+Program exit at 16:16:38
