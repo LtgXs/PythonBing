@@ -6,9 +6,9 @@
 ||*Copyright: Zion National Park, Utah (© Simon Dannhauer/Getty Images)*
 ||
 |||
-|2025-04-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ZionValley_JA-JP1023148962_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZionValley_JA-JP1023148962_UHD.jpg)|
-||*Copyright: ザイオン国立公園, 米国 ユタ州 (© Simon Dannhauer/Getty Images)*
+|2025-04-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BunnyLove_JA-JP1230746476_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BunnyLove_JA-JP1230746476_UHD.jpg)|
+||*Copyright: 野生の子ウサギ (© Fiona McAllister Photography/Getty Images)*
 ||
 |||
 |2025-04-19|**Region: en-IN**||

@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:05] Picture infomations saved to  global/fr-CA/README.md
 [09:27:05] Picture infomations saved to global/fr-CA/history/2025/04/20_fr-CA.md
 Program exit at 09:27:05
+
+Program started at 16:15:00
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1779-938
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:15:00] Start geting CN Bing Wallpaper
+[16:15:00] Successful get url: https://www.bing.com/th?id=OHR.BunnyLove_ZH-CN1145897965_UHD.jpg
+[16:15:00] Image saved to img/background.jpg
+[16:15:00] Info saved to README.md
+[16:15:00] Image saved to history/2025/04/20.md
+[16:15:00] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-19 12:15:00.931465-04:00
+[16:15:01] Successful get url: https://www.bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg
+[16:15:01] Picture infomations saved to  global/en-US/README.md
+[16:15:01] Picture infomations saved to global/en-US/history/2025/04/20_en-US.md
+[16:15:01] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-20 01:15:01.120171+09:00
+[16:15:01] Successful get url: https://www.bing.com/th?id=OHR.BunnyLove_JA-JP1230746476_UHD.jpg
+[16:15:01] Picture infomations saved to  global/ja-JP/README.md
+[16:15:01] Picture infomations saved to global/ja-JP/history/2025/04/20_ja-JP.md
+[16:15:01] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-19 21:45:01.293974+05:30
+[16:15:01] Successful get url: https://www.bing.com/th?id=OHR.ZionValley_EN-IN0015125872_UHD.jpg
+[16:15:01] Picture infomations saved to  global/en-IN/README.md
+[16:15:01] Picture infomations saved to global/en-IN/history/2025/04/19_en-IN.md
+[16:15:01] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-19 13:15:01.453187-03:00
+[16:15:01] Successful get url: https://www.bing.com/th?id=OHR.ZionValley_PT-BR8868751465_UHD.jpg
+[16:15:01] Picture infomations saved to  global/pt-BR/README.md
+[16:15:01] Picture infomations saved to global/pt-BR/history/2025/04/20_pt-BR.md
+[16:15:01] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-19 18:15:01.627514+02:00
+[16:15:01] Successful get url: https://www.bing.com/th?id=OHR.ZionValley_FR-FR4910447899_UHD.jpg
+[16:15:01] Picture infomations saved to  global/fr-FR/README.md
+[16:15:01] Picture infomations saved to global/fr-FR/history/2025/04/19_fr-FR.md
+[16:15:01] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-19 18:15:01.810114+02:00
+[16:15:01] Successful get url: https://www.bing.com/th?id=OHR.ZionValley_DE-DE1917937045_UHD.jpg
+[16:15:01] Picture infomations saved to  global/de-DE/README.md
+[16:15:01] Picture infomations saved to global/de-DE/history/2025/04/19_de-DE.md
+[16:15:01] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-19 12:15:01.984160-04:00
+[16:15:02] Successful get url: https://www.bing.com/th?id=OHR.ZionValley_EN-CA7338120688_UHD.jpg
+[16:15:02] Picture infomations saved to  global/en-CA/README.md
+[16:15:02] Picture infomations saved to global/en-CA/history/2025/04/20_en-CA.md
+[16:15:02] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-19 17:15:02.230209+01:00
+[16:15:02] Successful get url: https://www.bing.com/th?id=OHR.ZionValley_EN-GB5278363127_UHD.jpg
+[16:15:02] Picture infomations saved to  global/en-GB/README.md
+[16:15:02] Picture infomations saved to global/en-GB/history/2025/04/19_en-GB.md
+[16:15:02] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-19 18:15:02.384843+02:00
+[16:15:02] Successful get url: https://www.bing.com/th?id=OHR.ZionValley_IT-IT1237391753_UHD.jpg
+[16:15:02] Picture infomations saved to  global/it-IT/README.md
+[16:15:02] Picture infomations saved to global/it-IT/history/2025/04/19_it-IT.md
+[16:15:02] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-19 18:15:02.597264+02:00
+[16:15:02] Successful get url: https://www.bing.com/th?id=OHR.ZionValley_ES-ES3051360376_UHD.jpg
+[16:15:02] Picture infomations saved to  global/es-ES/README.md
+[16:15:02] Picture infomations saved to global/es-ES/history/2025/04/19_es-ES.md
+[16:15:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-19 12:15:02.736678-04:00
+[16:15:02] Successful get url: https://www.bing.com/th?id=OHR.ZionValley_FR-CA5154039067_UHD.jpg
+[16:15:02] Picture infomations saved to  global/fr-CA/README.md
+[16:15:02] Picture infomations saved to global/fr-CA/history/2025/04/20_fr-CA.md
+Program exit at 16:15:02
