@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:26:46] Picture infomations saved to  global/fr-CA/README.md
 [09:26:46] Picture infomations saved to global/fr-CA/history/2025/04/21_fr-CA.md
 Program exit at 09:26:46
+
+Program started at 16:14:30
+Operating System Name: Linux
+Operating System Version: #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az813-319
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:14:30] Start geting CN Bing Wallpaper
+[16:14:30] Successful get url: https://www.bing.com/th?id=OHR.JoshuaStars_ZH-CN1375098210_UHD.jpg
+[16:14:30] Image saved to img/background.jpg
+[16:14:30] Info saved to README.md
+[16:14:30] Image saved to history/2025/04/21.md
+[16:14:30] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-20 12:14:30.666590-04:00
+[16:14:30] Successful get url: https://www.bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg
+[16:14:30] Picture infomations saved to  global/en-US/README.md
+[16:14:30] Picture infomations saved to global/en-US/history/2025/04/21_en-US.md
+[16:14:30] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-21 01:14:30.854065+09:00
+[16:14:30] Successful get url: https://www.bing.com/th?id=OHR.JoshuaStars_JA-JP1506519282_UHD.jpg
+[16:14:31] Picture infomations saved to  global/ja-JP/README.md
+[16:14:31] Picture infomations saved to global/ja-JP/history/2025/04/21_ja-JP.md
+[16:14:31] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-20 21:44:31.097365+05:30
+[16:14:31] Successful get url: https://www.bing.com/th?id=OHR.BunnyLove_EN-IN1663801678_UHD.jpg
+[16:14:31] Picture infomations saved to  global/en-IN/README.md
+[16:14:31] Picture infomations saved to global/en-IN/history/2025/04/20_en-IN.md
+[16:14:31] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-20 13:14:31.279726-03:00
+[16:14:31] Successful get url: https://www.bing.com/th?id=OHR.BunnyLove_PT-BR9190228390_UHD.jpg
+[16:14:31] Picture infomations saved to  global/pt-BR/README.md
+[16:14:31] Picture infomations saved to global/pt-BR/history/2025/04/21_pt-BR.md
+[16:14:31] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-20 18:14:31.457687+02:00
+[16:14:31] Successful get url: https://www.bing.com/th?id=OHR.BunnyLove_FR-FR9891527833_UHD.jpg
+[16:14:31] Picture infomations saved to  global/fr-FR/README.md
+[16:14:31] Picture infomations saved to global/fr-FR/history/2025/04/20_fr-FR.md
+[16:14:31] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-20 18:14:31.648710+02:00
+[16:14:31] Successful get url: https://www.bing.com/th?id=OHR.EastereggsTree_DE-DE3677882321_UHD.jpg
+[16:14:33] Picture infomations saved to  global/de-DE/README.md
+[16:14:33] Picture infomations saved to global/de-DE/history/2025/04/20_de-DE.md
+[16:14:33] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-20 12:14:33.237620-04:00
+[16:14:33] Successful get url: https://www.bing.com/th?id=OHR.BunnyLove_EN-CA7409244062_UHD.jpg
+[16:14:33] Picture infomations saved to  global/en-CA/README.md
+[16:14:33] Picture infomations saved to global/en-CA/history/2025/04/21_en-CA.md
+[16:14:33] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-20 17:14:33.413748+01:00
+[16:14:33] Successful get url: https://www.bing.com/th?id=OHR.BunnyLove_EN-GB7199953818_UHD.jpg
+[16:14:33] Picture infomations saved to  global/en-GB/README.md
+[16:14:33] Picture infomations saved to global/en-GB/history/2025/04/20_en-GB.md
+[16:14:33] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-20 18:14:33.577478+02:00
+[16:14:33] Successful get url: https://www.bing.com/th?id=OHR.BunnyLove_IT-IT3916580301_UHD.jpg
+[16:14:33] Picture infomations saved to  global/it-IT/README.md
+[16:14:33] Picture infomations saved to global/it-IT/history/2025/04/20_it-IT.md
+[16:14:33] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-20 18:14:33.829726+02:00
+[16:14:33] Successful get url: https://www.bing.com/th?id=OHR.BunnyLove_ES-ES9248343079_UHD.jpg
+[16:14:34] Picture infomations saved to  global/es-ES/README.md
+[16:14:34] Picture infomations saved to global/es-ES/history/2025/04/20_es-ES.md
+[16:14:34] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-20 12:14:34.012075-04:00
+[16:14:34] Successful get url: https://www.bing.com/th?id=OHR.BunnyLove_FR-CA0827299821_UHD.jpg
+[16:14:34] Picture infomations saved to  global/fr-CA/README.md
+[16:14:34] Picture infomations saved to global/fr-CA/history/2025/04/21_fr-CA.md
+Program exit at 16:14:34
