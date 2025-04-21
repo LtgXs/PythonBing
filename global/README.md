@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg)|
-||*Copyright: Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)*
+|2025-04-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg)|
+||*Copyright: Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)*
 ||
 |||
 |2025-04-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ジョシュア・ツリー国立公園の天の川, 米国 カリフォルニア州 (© Chao Zhang/Getty Images)*
 ||
 |||
-|2025-04-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BunnyLove_EN-IN1663801678_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BunnyLove_EN-IN1663801678_UHD.jpg)|
-||*Copyright: Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)*
+|2025-04-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.JoshuaStars_EN-IN0635592651_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaStars_EN-IN0635592651_UHD.jpg)|
+||*Copyright: Joshua trees under the Milky Way, California, United States (© Chao Zhang/Getty Images)*
 ||
 |||
-|2025-04-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BunnyLove_PT-BR9190228390_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BunnyLove_PT-BR9190228390_UHD.jpg)|
-||*Copyright: Coelhos selvagens no outono (© Fiona McAllister Photography/Getty Images)*
+|2025-04-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AniversarioBrasilia_PT-BR0404109011_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AniversarioBrasilia_PT-BR0404109011_UHD.jpg)|
+||*Copyright: Aniversário de Brasília, DF (© Cro Magnon/Alamy Stock Photo)*
 ||
 |||
-|2025-04-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BunnyLove_FR-FR9891527833_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BunnyLove_FR-FR9891527833_UHD.jpg)|
-||*Copyright: Lapins de Garenne au printemps (© Fiona McAllister Photography/Getty Images)*
+|2025-04-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.JoshuaStars_FR-FR1134604793_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaStars_FR-FR1134604793_UHD.jpg)|
+||*Copyright: Arbres de Josué sous la Voie lactée, Californie, États-Unis (© Chao Zhang/Getty Images)*
 ||
 |||
-|2025-04-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.EastereggsTree_DE-DE3677882321_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EastereggsTree_DE-DE3677882321_UHD.jpg)|
-||*Copyright: Viele bunt bemalte Ostereier an einem Apfelbaum (© Kerrick/Getty Images)*
+|2025-04-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.JoshuaStars_DE-DE4771713346_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaStars_DE-DE4771713346_UHD.jpg)|
+||*Copyright: Josuabäume unter der Milchstraße, Kalifornien, USA (© Chao Zhang/Getty Images)*
 ||
 |||
-|2025-04-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BunnyLove_EN-CA7409244062_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BunnyLove_EN-CA7409244062_UHD.jpg)|
-||*Copyright: Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)*
+|2025-04-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.JoshuaStars_EN-CA7462331125_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaStars_EN-CA7462331125_UHD.jpg)|
+||*Copyright: Joshua trees under the Milky Way, California, United States (© Chao Zhang/Getty Images)*
 ||
 |||
-|2025-04-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BunnyLove_EN-GB7199953818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BunnyLove_EN-GB7199953818_UHD.jpg)|
-||*Copyright: Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)*
+|2025-04-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.JoshuaStars_EN-GB6081437558_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaStars_EN-GB6081437558_UHD.jpg)|
+||*Copyright: Joshua trees under the Milky Way, California, United States (© Chao Zhang/Getty Images)*
 ||
 |||
-|2025-04-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BunnyLove_IT-IT3916580301_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BunnyLove_IT-IT3916580301_UHD.jpg)|
-||*Copyright: Coniglietti selvatici in primavera (© Fiona McAllister Photography/Getty Images)*
+|2025-04-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PitiglianoPasquetta_IT-IT4003845136_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PitiglianoPasquetta_IT-IT4003845136_UHD.jpg)|
+||*Copyright: Pitigliano al tramonto, Provincia di Grosseto, Toscana (© Ivoha/Alamy Stock Photo)*
 ||
 |||
-|2025-04-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BunnyLove_ES-ES9248343079_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BunnyLove_ES-ES9248343079_UHD.jpg)|
-||*Copyright: Crías de conejo en primavera (© Fiona McAllister Photography/Getty Images)*
+|2025-04-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.JoshuaStars_ES-ES3139415437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaStars_ES-ES3139415437_UHD.jpg)|
+||*Copyright: Árboles de Josué bajo la Vía Láctea, California, EE.UU. (© Chao Zhang/Getty Images)*
 ||
 |||
-|2025-04-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BunnyLove_FR-CA0827299821_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BunnyLove_FR-CA0827299821_UHD.jpg)|
-||*Copyright: Lapins de Garenne au printemps (© Fiona McAllister Photography/Getty Images)*
+|2025-04-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.JoshuaStars_FR-CA1371442285_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaStars_FR-CA1371442285_UHD.jpg)|
+||*Copyright: Arbres de Josué sous la Voie lactée, Californie, États-Unis (© Chao Zhang/Getty Images)*
 ||
 |||
 
