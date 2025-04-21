@@ -6,9 +6,9 @@
 ||*Copyright: Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)*
 ||
 |||
-|2025-04-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.JoshuaStars_JA-JP1506519282_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JoshuaStars_JA-JP1506519282_UHD.jpg)|
-||*Copyright: ジョシュア・ツリー国立公園の天の川, 米国 カリフォルニア州 (© Chao Zhang/Getty Images)*
+|2025-04-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneSpring_JA-JP1684502274_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneSpring_JA-JP1684502274_UHD.jpg)|
+||*Copyright: イエローストーン国立公園, 米国 ワイオミング州 (© Ajith Kumar/Getty Images)*
 ||
 |||
 |2025-04-21|**Region: en-IN**||
