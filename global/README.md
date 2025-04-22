@@ -6,9 +6,9 @@
 ||*Copyright: Grand Prismatic Spring, Yellowstone National Park, Wyoming (© Ajith Kumar/Getty Images)*
 ||
 |||
-|2025-04-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneSpring_JA-JP1684502274_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneSpring_JA-JP1684502274_UHD.jpg)|
-||*Copyright: イエローストーン国立公園, 米国 ワイオミング州 (© Ajith Kumar/Getty Images)*
+|2025-04-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GlobeTheatre_JA-JP1842538883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlobeTheatre_JA-JP1842538883_UHD.jpg)|
+||*Copyright: シェイクスピアズ・グローブ, イギリス ロンドン (© Peter Dazeley/Getty Images)*
 ||
 |||
 |2025-04-22|**Region: en-IN**||
