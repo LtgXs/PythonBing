@@ -6,9 +6,9 @@
 ||*Copyright: Shakespeare's Globe, London, England (© Peter Dazeley/Getty Images)*
 ||
 |||
-|2025-04-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GlobeTheatre_JA-JP1842538883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlobeTheatre_JA-JP1842538883_UHD.jpg)|
-||*Copyright: シェイクスピアズ・グローブ, イギリス ロンドン (© Peter Dazeley/Getty Images)*
+|2025-04-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KenaiSpires_JA-JP1998460612_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenaiSpires_JA-JP1998460612_UHD.jpg)|
+||*Copyright: キーナイ・フィヨルド国立公園, 米国 アラスカ州 (© Wander Photography/Getty Images)*
 ||
 |||
 |2025-04-23|**Region: en-IN**||

@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:31:15] Picture infomations saved to  global/fr-CA/README.md
 [09:31:15] Picture infomations saved to global/fr-CA/history/2025/04/24_fr-CA.md
 Program exit at 09:31:15
+
+Program started at 16:16:36
+Operating System Name: Linux
+Operating System Version: #12~24.04.1-Ubuntu SMP Mon Mar 10 19:00:39 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az805-813
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:16:36] Start geting CN Bing Wallpaper
+[16:16:36] Successful get url: https://www.bing.com/th?id=OHR.KenaiSpires_ZH-CN3045699778_UHD.jpg
+[16:16:36] Image saved to img/background.jpg
+[16:16:36] Info saved to README.md
+[16:16:36] Image saved to history/2025/04/24.md
+[16:16:36] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-23 12:16:36.396443-04:00
+[16:16:36] Successful get url: https://www.bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg
+[16:16:36] Picture infomations saved to  global/en-US/README.md
+[16:16:36] Picture infomations saved to global/en-US/history/2025/04/24_en-US.md
+[16:16:36] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-24 01:16:36.579460+09:00
+[16:16:36] Successful get url: https://www.bing.com/th?id=OHR.KenaiSpires_JA-JP1998460612_UHD.jpg
+[16:16:36] Picture infomations saved to  global/ja-JP/README.md
+[16:16:36] Picture infomations saved to global/ja-JP/history/2025/04/24_ja-JP.md
+[16:16:36] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-23 21:46:36.835836+05:30
+[16:16:36] Successful get url: https://www.bing.com/th?id=OHR.GlobeTheatre_EN-IN1029114608_UHD.jpg
+[16:16:36] Picture infomations saved to  global/en-IN/README.md
+[16:16:36] Picture infomations saved to global/en-IN/history/2025/04/23_en-IN.md
+[16:16:36] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-23 13:16:37.002995-03:00
+[16:16:37] Successful get url: https://www.bing.com/th?id=OHR.GlobeTheatre_PT-BR2484921869_UHD.jpg
+[16:16:37] Picture infomations saved to  global/pt-BR/README.md
+[16:16:37] Picture infomations saved to global/pt-BR/history/2025/04/24_pt-BR.md
+[16:16:37] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-23 18:16:37.116573+02:00
+[16:16:37] Successful get url: https://www.bing.com/th?id=OHR.GlobeTheatre_FR-FR2329774006_UHD.jpg
+[16:16:37] Picture infomations saved to  global/fr-FR/README.md
+[16:16:37] Picture infomations saved to global/fr-FR/history/2025/04/23_fr-FR.md
+[16:16:37] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-23 18:16:37.285872+02:00
+[16:16:37] Successful get url: https://www.bing.com/th?id=OHR.GlobeTheatre_DE-DE3738219615_UHD.jpg
+[16:16:37] Picture infomations saved to  global/de-DE/README.md
+[16:16:37] Picture infomations saved to global/de-DE/history/2025/04/23_de-DE.md
+[16:16:37] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-23 12:16:37.476539-04:00
+[16:16:37] Successful get url: https://www.bing.com/th?id=OHR.GlobeTheatre_EN-CA7568109228_UHD.jpg
+[16:16:37] Picture infomations saved to  global/en-CA/README.md
+[16:16:37] Picture infomations saved to global/en-CA/history/2025/04/24_en-CA.md
+[16:16:37] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-23 17:16:37.620919+01:00
+[16:16:37] Successful get url: https://www.bing.com/th?id=OHR.StGeorgeDay2025_EN-GB0136708024_UHD.jpg
+[16:16:37] Picture infomations saved to  global/en-GB/README.md
+[16:16:37] Picture infomations saved to global/en-GB/history/2025/04/23_en-GB.md
+[16:16:37] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-23 18:16:37.802454+02:00
+[16:16:37] Successful get url: https://www.bing.com/th?id=OHR.GlobeTheatre_IT-IT1664921161_UHD.jpg
+[16:16:37] Picture infomations saved to  global/it-IT/README.md
+[16:16:37] Picture infomations saved to global/it-IT/history/2025/04/23_it-IT.md
+[16:16:37] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-23 18:16:37.931770+02:00
+[16:16:37] Successful get url: https://www.bing.com/th?id=OHR.CastillayLeonDay_ES-ES9340220273_UHD.jpg
+[16:16:38] Picture infomations saved to  global/es-ES/README.md
+[16:16:38] Picture infomations saved to global/es-ES/history/2025/04/23_es-ES.md
+[16:16:38] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-23 12:16:38.045283-04:00
+[16:16:38] Successful get url: https://www.bing.com/th?id=OHR.GlobeTheatre_FR-CA4288984351_UHD.jpg
+[16:16:38] Picture infomations saved to  global/fr-CA/README.md
+[16:16:38] Picture infomations saved to global/fr-CA/history/2025/04/24_fr-CA.md
+Program exit at 16:16:38
