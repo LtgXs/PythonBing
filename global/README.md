@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg)|
-||*Copyright: Shakespeare's Globe, London, England (© Peter Dazeley/Getty Images)*
+|2025-04-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg)|
+||*Copyright: Spire Cove in Kenai Fjords National Park, Seward, Alaska (© Wander Photography/Getty Images)*
 ||
 |||
 |2025-04-24|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: キーナイ・フィヨルド国立公園, 米国 アラスカ州 (© Wander Photography/Getty Images)*
 ||
 |||
-|2025-04-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GlobeTheatre_EN-IN1029114608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlobeTheatre_EN-IN1029114608_UHD.jpg)|
-||*Copyright: Shakespeare's Globe Theatre, London, England (© Peter Dazeley/Getty Images)*
+|2025-04-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KenaiSpires_EN-IN1230020846_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenaiSpires_EN-IN1230020846_UHD.jpg)|
+||*Copyright: Spire Cove in Kenai Fjords National Park, Seward, Alaska, United States (© Wander Photography/Getty Images)*
 ||
 |||
-|2025-04-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GlobeTheatre_PT-BR2484921869_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlobeTheatre_PT-BR2484921869_UHD.jpg)|
-||*Copyright: Teatro Shakespeare's Globe, Londres, Inglaterra (© Peter Dazeley/Getty Images)*
+|2025-04-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.KenaiSpires_PT-BR2765699166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenaiSpires_PT-BR2765699166_UHD.jpg)|
+||*Copyright: Parque Nacional dos Fiordes de Kenai, Seward, Alasca, EUA (© Wander Photography/Getty Images)*
 ||
 |||
-|2025-04-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GlobeTheatre_FR-FR2329774006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlobeTheatre_FR-FR2329774006_UHD.jpg)|
-||*Copyright: Théâtre du Globe, Londres, Angleterre (© Peter Dazeley/Getty Images)*
+|2025-04-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.KenaiSpires_FR-FR3080979017_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenaiSpires_FR-FR3080979017_UHD.jpg)|
+||*Copyright: Spire Cove, parc national des fjords de Kenai, Alaska, États-Unis (© Wander Photography/Getty Images)*
 ||
 |||
-|2025-04-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GlobeTheatre_DE-DE3738219615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlobeTheatre_DE-DE3738219615_UHD.jpg)|
-||*Copyright: Shakespeares Globe Theatre, London, England (© Peter Dazeley/Getty Images)*
+|2025-04-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.KenaiSpires_DE-DE8277470819_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenaiSpires_DE-DE8277470819_UHD.jpg)|
+||*Copyright: Spire Cove im Kenai-Fjords-Nationalpark, Seward, Alaska, USA (© Wander Photography/Getty Images)*
 ||
 |||
-|2025-04-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GlobeTheatre_EN-CA7568109228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlobeTheatre_EN-CA7568109228_UHD.jpg)|
-||*Copyright: Shakespeare's Globe Theatre, London, England (© Peter Dazeley/Getty Images)*
+|2025-04-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.KenaiSpires_EN-CA7607198416_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenaiSpires_EN-CA7607198416_UHD.jpg)|
+||*Copyright: Spire Cove in Kenai Fjords National Park, Seward, Alaska, United States (© Wander Photography/Getty Images)*
 ||
 |||
-|2025-04-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.StGeorgeDay2025_EN-GB0136708024_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StGeorgeDay2025_EN-GB0136708024_UHD.jpg)|
-||*Copyright: A large mechanical dragon at Saint George's Day celebrations (© MediaWorldImages/Alamy Stock Photo)*
+|2025-04-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.KenaiSpires_EN-GB7450613757_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenaiSpires_EN-GB7450613757_UHD.jpg)|
+||*Copyright: Spire Cove in Kenai Fjords National Park, Seward, Alaska, United States (© Wander Photography/Getty Images)*
 ||
 |||
-|2025-04-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GlobeTheatre_IT-IT1664921161_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlobeTheatre_IT-IT1664921161_UHD.jpg)|
-||*Copyright: Globe Theatre di Shakespeare, Londra, Inghilterra (© Peter Dazeley/Getty Images)*
+|2025-04-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.KenaiSpires_IT-IT1719586029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenaiSpires_IT-IT1719586029_UHD.jpg)|
+||*Copyright: Spire Cove nel Parco Nazionale dei Fiordi di Kenai, Seward, Alaska, USA (© Wander Photography/Getty Images)*
 ||
 |||
-|2025-04-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CastillayLeonDay_ES-ES9340220273_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastillayLeonDay_ES-ES9340220273_UHD.jpg)|
-||*Copyright: Castillo de Gormaz, Soria, Castilla y León, España (© Evan Frank/Alamy Stock Photo)*
+|2025-04-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.KenaiSpires_ES-ES3278232415_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenaiSpires_ES-ES3278232415_UHD.jpg)|
+||*Copyright: Spire Cove, en el Parque Nacional de Kenai Fjords, Seward, Alaska, EE. UU. (© Wander Photography/Getty Images)*
 ||
 |||
-|2025-04-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.GlobeTheatre_FR-CA4288984351_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlobeTheatre_FR-CA4288984351_UHD.jpg)|
-||*Copyright: Théâtre du Globe, Londres, Angleterre (© Peter Dazeley/Getty Images)*
+|2025-04-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.KenaiSpires_FR-CA4625250704_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenaiSpires_FR-CA4625250704_UHD.jpg)|
+||*Copyright: Spire Cove, parc national des fjords de Kenai, Alaska, États-Unis (© Wander Photography/Getty Images)*
 ||
 |||
 
