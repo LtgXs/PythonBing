@@ -6,9 +6,9 @@
 ||*Copyright: Spire Cove in Kenai Fjords National Park, Seward, Alaska (© Wander Photography/Getty Images)*
 ||
 |||
-|2025-04-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KenaiSpires_JA-JP1998460612_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenaiSpires_JA-JP1998460612_UHD.jpg)|
-||*Copyright: キーナイ・フィヨルド国立公園, 米国 アラスカ州 (© Wander Photography/Getty Images)*
+|2025-04-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MagellanicPenguin_JA-JP2151034914_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MagellanicPenguin_JA-JP2151034914_UHD.jpg)|
+||*Copyright: フォークランド諸島のマゼランペンギン, イギリス (© imageBROKER/Matthias Graben/Getty Images)*
 ||
 |||
 |2025-04-24|**Region: en-IN**||
