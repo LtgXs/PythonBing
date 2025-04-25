@@ -1,0 +1,60 @@
+
+Program started at 09:30:15
+Operating System Name: Linux
+Operating System Version: #12~24.04.1-Ubuntu SMP Mon Mar 10 19:00:39 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1333-337
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[09:30:15] Start geting CN Bing Wallpaper
+[09:30:15] Successful get url: https://www.bing.com/th?id=OHR.MagellanicPenguin_ZH-CN3177950090_UHD.jpg
+[09:30:16] Image saved to img/background.jpg
+[09:30:16] Info saved to README.md
+[09:30:16] Image saved to history/2025/04/25.md
+[09:30:16] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-25 05:30:16.073532-04:00
+[09:30:16] Successful get url: https://www.bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg
+[09:30:16] Picture infomations saved to  global/en-US/README.md
+[09:30:16] Picture infomations saved to global/en-US/history/2025/04/26_en-US.md
+[09:30:16] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-25 18:30:16.214973+09:00
+[09:30:16] Successful get url: https://www.bing.com/th?id=OHR.MagellanicPenguin_JA-JP2151034914_UHD.jpg
+[09:30:16] Picture infomations saved to  global/ja-JP/README.md
+[09:30:16] Picture infomations saved to global/ja-JP/history/2025/04/25_ja-JP.md
+[09:30:16] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-25 15:00:16.372099+05:30
+[09:30:16] Successful get url: https://www.bing.com/th?id=OHR.MagellanicPenguin_EN-IN1652511877_UHD.jpg
+[09:30:16] Picture infomations saved to  global/en-IN/README.md
+[09:30:16] Picture infomations saved to global/en-IN/history/2025/04/25_en-IN.md
+[09:30:16] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-25 06:30:16.510490-03:00
+[09:30:16] Successful get url: https://www.bing.com/th?id=OHR.MagellanicPenguin_PT-BR3120283712_UHD.jpg
+[09:30:16] Picture infomations saved to  global/pt-BR/README.md
+[09:30:16] Picture infomations saved to global/pt-BR/history/2025/04/26_pt-BR.md
+[09:30:16] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-25 11:30:16.607396+02:00
+[09:30:16] Successful get url: https://www.bing.com/th?id=OHR.MagellanicPenguin_FR-FR7463895706_UHD.jpg
+[09:30:16] Picture infomations saved to  global/fr-FR/README.md
+[09:30:16] Picture infomations saved to global/fr-FR/history/2025/04/25_fr-FR.md
+[09:30:16] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-25 11:30:16.720962+02:00
+[09:30:16] Successful get url: https://www.bing.com/th?id=OHR.MagellanicPenguin_DE-DE2240102652_UHD.jpg
+[09:30:16] Picture infomations saved to  global/de-DE/README.md
+[09:30:16] Picture infomations saved to global/de-DE/history/2025/04/25_de-DE.md
+[09:30:16] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-25 05:30:16.818549-04:00
+[09:30:16] Successful get url: https://www.bing.com/th?id=OHR.MagellanicPenguin_EN-CA7639828073_UHD.jpg
+[09:30:16] Picture infomations saved to  global/en-CA/README.md
+[09:30:16] Picture infomations saved to global/en-CA/history/2025/04/26_en-CA.md
+[09:30:16] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-25 10:30:16.916386+01:00
+[09:30:16] Successful get url: https://www.bing.com/th?id=OHR.MagellanicPenguin_EN-GB7845842741_UHD.jpg
+[09:30:17] Picture infomations saved to  global/en-GB/README.md
+[09:30:17] Picture infomations saved to global/en-GB/history/2025/04/25_en-GB.md
+[09:30:17] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-25 11:30:17.068709+02:00
+[09:30:17] Successful get url: https://www.bing.com/th?id=OHR.MagellanicPenguin_IT-IT1778784018_UHD.jpg
+[09:30:17] Picture infomations saved to  global/it-IT/README.md
+[09:30:17] Picture infomations saved to global/it-IT/history/2025/04/25_it-IT.md
+[09:30:17] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-25 11:30:17.166529+02:00
+[09:30:17] Successful get url: https://www.bing.com/th?id=OHR.MagellanicPenguin_ES-ES9545554066_UHD.jpg
+[09:30:17] Picture infomations saved to  global/es-ES/README.md
+[09:30:17] Picture infomations saved to global/es-ES/history/2025/04/25_es-ES.md
+[09:30:17] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-25 05:30:17.277411-04:00
+[09:30:17] Successful get url: https://www.bing.com/th?id=OHR.MagellanicPenguin_FR-CA5009837918_UHD.jpg
+[09:30:17] Picture infomations saved to  global/fr-CA/README.md
+[09:30:17] Picture infomations saved to global/fr-CA/history/2025/04/26_fr-CA.md
+Program exit at 09:30:17
