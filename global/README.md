@@ -6,9 +6,9 @@
 ||*Copyright: Magellanic penguins, Volunteer Point, Falkland Islands (© imageBROKER/Matthias Graben/Getty Images)*
 ||
 |||
-|2025-04-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MagellanicPenguin_JA-JP2151034914_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MagellanicPenguin_JA-JP2151034914_UHD.jpg)|
-||*Copyright: フォークランド諸島のマゼランペンギン, イギリス (© imageBROKER/Matthias Graben/Getty Images)*
+|2025-04-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_JA-JP2332159486_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaligneLakeJasper_JA-JP2332159486_UHD.jpg)|
+||*Copyright: ジャスパー国立公園, カナダ アルバータ州 (© Mumemories/Getty Images)*
 ||
 |||
 |2025-04-25|**Region: en-IN**||
