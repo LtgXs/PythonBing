@@ -6,9 +6,9 @@
 ||*Copyright: Halema'uma'u Crater's lava lake, Kīlauea Caldera, Hawai'i Volcanoes National Park, Hawaii (© Stephen Matera/Tandem Stills + Motion)*
 ||
 |||
-|2025-04-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RedwoodGrove_JA-JP2501396373_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedwoodGrove_JA-JP2501396373_UHD.jpg)|
-||*Copyright: レッドウッド国立公園, 米国 カリフォルニア州 (© Bob Pool/Getty Images)*
+|2025-04-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OrangeImpala_JA-JP2688977471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrangeImpala_JA-JP2688977471_UHD.jpg)|
+||*Copyright: インパラ, ボツワナ (© Paul Souders/Getty Images)*
 ||
 |||
 |2025-04-27|**Region: en-IN**||
