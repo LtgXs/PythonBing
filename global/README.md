@@ -6,9 +6,9 @@
 ||*Copyright: Impala with red-billed oxpecker in Moremi Game Reserve, Botswana (© Paul Souders/Getty Images)*
 ||
 |||
-|2025-04-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OrangeImpala_JA-JP2688977471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrangeImpala_JA-JP2688977471_UHD.jpg)|
-||*Copyright: インパラ, ボツワナ (© Paul Souders/Getty Images)*
+|2025-04-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GardensVillandry_JA-JP2835269741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GardensVillandry_JA-JP2835269741_UHD.jpg)|
+||*Copyright: ヴィランドリー城, フランス (© Mint Images/Getty Images)*
 ||
 |||
 |2025-04-28|**Region: en-IN**||

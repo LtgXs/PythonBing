@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:54:36] Picture infomations saved to  global/fr-CA/README.md
 [10:54:36] Picture infomations saved to global/fr-CA/history/2025/04/29_fr-CA.md
 Program exit at 10:54:36
+
+Program started at 16:15:42
+Operating System Name: Linux
+Operating System Version: #12~24.04.1-Ubuntu SMP Mon Mar 10 19:00:39 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1982-858
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:15:42] Start geting CN Bing Wallpaper
+[16:15:42] Successful get url: https://www.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg
+[16:15:43] Image saved to img/background.jpg
+[16:15:43] Info saved to README.md
+[16:15:43] Image saved to history/2025/04/29.md
+[16:15:43] Start geting global Bing Wallpaper, region=en-US, local time is 2025-04-28 12:15:43.025495-04:00
+[16:15:43] Successful get url: https://www.bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg
+[16:15:43] Picture infomations saved to  global/en-US/README.md
+[16:15:43] Picture infomations saved to global/en-US/history/2025/04/29_en-US.md
+[16:15:43] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-04-29 01:15:43.194141+09:00
+[16:15:43] Successful get url: https://www.bing.com/th?id=OHR.GardensVillandry_JA-JP2835269741_UHD.jpg
+[16:15:43] Picture infomations saved to  global/ja-JP/README.md
+[16:15:43] Picture infomations saved to global/ja-JP/history/2025/04/29_ja-JP.md
+[16:15:43] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-04-28 21:45:43.677775+05:30
+[16:15:43] Successful get url: https://www.bing.com/th?id=OHR.OrangeImpala_EN-IN4070939383_UHD.jpg
+[16:15:43] Picture infomations saved to  global/en-IN/README.md
+[16:15:43] Picture infomations saved to global/en-IN/history/2025/04/28_en-IN.md
+[16:15:43] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-04-28 13:15:43.796270-03:00
+[16:15:43] Successful get url: https://www.bing.com/th?id=OHR.DunasMaranhenses_PT-BR7731502605_UHD.jpg
+[16:15:43] Picture infomations saved to  global/pt-BR/README.md
+[16:15:43] Picture infomations saved to global/pt-BR/history/2025/04/29_pt-BR.md
+[16:15:43] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-04-28 18:15:43.955033+02:00
+[16:15:43] Successful get url: https://www.bing.com/th?id=OHR.OrangeImpala_FR-FR4270664002_UHD.jpg
+[16:15:44] Picture infomations saved to  global/fr-FR/README.md
+[16:15:44] Picture infomations saved to global/fr-FR/history/2025/04/28_fr-FR.md
+[16:15:44] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-04-28 18:15:44.072483+02:00
+[16:15:44] Successful get url: https://www.bing.com/th?id=OHR.OrangeImpala_DE-DE8059561226_UHD.jpg
+[16:15:44] Picture infomations saved to  global/de-DE/README.md
+[16:15:44] Picture infomations saved to global/de-DE/history/2025/04/28_de-DE.md
+[16:15:44] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-04-28 12:15:44.371012-04:00
+[16:15:44] Successful get url: https://www.bing.com/th?id=OHR.OrangeImpala_EN-CA7752458355_UHD.jpg
+[16:15:44] Picture infomations saved to  global/en-CA/README.md
+[16:15:44] Picture infomations saved to global/en-CA/history/2025/04/29_en-CA.md
+[16:15:44] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-04-28 17:15:44.923158+01:00
+[16:15:44] Successful get url: https://www.bing.com/th?id=OHR.OrangeImpala_EN-GB8814408257_UHD.jpg
+[16:15:45] Picture infomations saved to  global/en-GB/README.md
+[16:15:45] Picture infomations saved to global/en-GB/history/2025/04/28_en-GB.md
+[16:15:45] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-04-28 18:15:45.961245+02:00
+[16:15:45] Successful get url: https://www.bing.com/th?id=OHR.LagoDiGardaVillaRomana_IT-IT2119836247_UHD.jpg
+[16:15:46] Picture infomations saved to  global/it-IT/README.md
+[16:15:46] Picture infomations saved to global/it-IT/history/2025/04/28_it-IT.md
+[16:15:46] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-04-28 18:15:46.129628+02:00
+[16:15:46] Successful get url: https://www.bing.com/th?id=OHR.OrangeImpala_ES-ES9655514798_UHD.jpg
+[16:15:46] Picture infomations saved to  global/es-ES/README.md
+[16:15:46] Picture infomations saved to global/es-ES/history/2025/04/28_es-ES.md
+[16:15:46] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-04-28 12:15:46.315608-04:00
+[16:15:46] Successful get url: https://www.bing.com/th?id=OHR.OrangeImpala_FR-CA0295710042_UHD.jpg
+[16:15:46] Picture infomations saved to  global/fr-CA/README.md
+[16:15:46] Picture infomations saved to global/fr-CA/history/2025/04/29_fr-CA.md
+Program exit at 16:15:46
