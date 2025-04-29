@@ -6,9 +6,9 @@
 ||*Copyright: Formal garden at Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)*
 ||
 |||
-|2025-04-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GardensVillandry_JA-JP2835269741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GardensVillandry_JA-JP2835269741_UHD.jpg)|
-||*Copyright: ヴィランドリー城, フランス (© Mint Images/Getty Images)*
+|2025-04-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ColtraneBand_JA-JP3450716389_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColtraneBand_JA-JP3450716389_UHD.jpg)|
+||*Copyright: サックス奏者ジョン・コルトレーンと彼のバンド, イギリス ロンドン (© Popperfoto/Getty Images)*
 ||
 |||
 |2025-04-29|**Region: en-IN**||
