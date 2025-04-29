@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-04-29|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg)|
-||*Copyright: Impala with red-billed oxpecker in Moremi Game Reserve, Botswana (© Paul Souders/Getty Images)*
+|2025-04-30|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg)|
+||*Copyright: Formal garden at Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)*
 ||
 |||
 |2025-04-29|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ヴィランドリー城, フランス (© Mint Images/Getty Images)*
 ||
 |||
-|2025-04-28|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.OrangeImpala_EN-IN4070939383_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrangeImpala_EN-IN4070939383_UHD.jpg)|
-||*Copyright: Impala in Moremi Game Reserve, Botswana (© Paul Souders/Getty Images)*
+|2025-04-29|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GardensVillandry_EN-IN2679118410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GardensVillandry_EN-IN2679118410_UHD.jpg)|
+||*Copyright: Formal Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)*
 ||
 |||
-|2025-04-29|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DunasMaranhenses_PT-BR7731502605_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunasMaranhenses_PT-BR7731502605_UHD.jpg)|
-||*Copyright: Parque Nacional dos Lençóis Maranhenses, Maranhão (© WhyNotTrip/Shutterstock)*
+|2025-04-30|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GardensVillandry_PT-BR2651560431_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GardensVillandry_PT-BR2651560431_UHD.jpg)|
+||*Copyright: Castelo de Villandry, Vale do Loire, França (© Mint Images/Getty Images)*
 ||
 |||
-|2025-04-28|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.OrangeImpala_FR-FR4270664002_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrangeImpala_FR-FR4270664002_UHD.jpg)|
-||*Copyright: Impala dans la réserve de Moremi, Botswana (© Paul Souders/Getty Images)*
+|2025-04-29|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GardensVillandry_FR-FR7410166716_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GardensVillandry_FR-FR7410166716_UHD.jpg)|
+||*Copyright: Jardins du château de Villandry, Vallée de la Loire (© Mint Images/Getty Images)*
 ||
 |||
-|2025-04-28|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.OrangeImpala_DE-DE8059561226_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrangeImpala_DE-DE8059561226_UHD.jpg)|
-||*Copyright: Impala im Moremi-Wildreservat, Botswana (© Paul Souders/Getty Images)*
+|2025-04-29|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GardensVillandry_DE-DE3270965160_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GardensVillandry_DE-DE3270965160_UHD.jpg)|
+||*Copyright: Château de Villandry, Loiretal, Frankreich (© Mint Images/Getty Images)*
 ||
 |||
-|2025-04-29|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.OrangeImpala_EN-CA7752458355_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrangeImpala_EN-CA7752458355_UHD.jpg)|
-||*Copyright: Impala in Moremi Game Reserve, Botswana (© Paul Souders/Getty Images)*
+|2025-04-30|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GardensVillandry_EN-CA7797620166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GardensVillandry_EN-CA7797620166_UHD.jpg)|
+||*Copyright: Formal Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)*
 ||
 |||
-|2025-04-28|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.OrangeImpala_EN-GB8814408257_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrangeImpala_EN-GB8814408257_UHD.jpg)|
-||*Copyright: Impala in Moremi Game Reserve, Botswana (© Paul Souders/Getty Images)*
+|2025-04-29|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GardensVillandry_EN-GB9000201088_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GardensVillandry_EN-GB9000201088_UHD.jpg)|
+||*Copyright: Formal Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)*
 ||
 |||
-|2025-04-28|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LagoDiGardaVillaRomana_IT-IT2119836247_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LagoDiGardaVillaRomana_IT-IT2119836247_UHD.jpg)|
-||*Copyright: Grotte di Catullo, Sirmione, Provincia di Brescia, Lombardia (© AlagnaMarco/Getty Images)*
+|2025-04-29|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GardensVillandry_IT-IT2296635680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GardensVillandry_IT-IT2296635680_UHD.jpg)|
+||*Copyright: Castello di Villandry, Valle della Loira, Francia (© Mint Images/Getty Images)*
 ||
 |||
-|2025-04-28|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.OrangeImpala_ES-ES9655514798_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrangeImpala_ES-ES9655514798_UHD.jpg)|
-||*Copyright: Impala en la Reserva de Moremi, Botsuana (© Paul Souders/Getty Images)*
+|2025-04-29|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GardensVillandry_ES-ES9696020463_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GardensVillandry_ES-ES9696020463_UHD.jpg)|
+||*Copyright: Jardin del Castillo de Villandry, Valle del Loira, Francia (© Mint Images/Getty Images)*
 ||
 |||
-|2025-04-29|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.OrangeImpala_FR-CA0295710042_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrangeImpala_FR-CA0295710042_UHD.jpg)|
-||*Copyright: Impala dans la réserve de Moremi, Botswana (© Paul Souders/Getty Images)*
+|2025-04-30|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GardensVillandry_FR-CA0608759870_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GardensVillandry_FR-CA0608759870_UHD.jpg)|
+||*Copyright: Jardins du château de Villandry, Vallée de la Loire (© Mint Images/Getty Images)*
 ||
 |||
 
