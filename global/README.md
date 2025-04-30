@@ -6,9 +6,9 @@
 ||*Copyright: Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)*
 ||
 |||
-|2025-04-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ColtraneBand_JA-JP3450716389_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColtraneBand_JA-JP3450716389_UHD.jpg)|
-||*Copyright: サックス奏者ジョン・コルトレーンと彼のバンド, イギリス ロンドン (© Popperfoto/Getty Images)*
+|2025-05-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Hachijyuhachi2025_JA-JP6490825826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hachijyuhachi2025_JA-JP6490825826_UHD.jpg)|
+||*Copyright: 大淵笹場の茶畑, 静岡県 富士市 (© 7maru/Getty Images)*
 ||
 |||
 |2025-04-30|**Region: en-IN**||
