@@ -6,9 +6,9 @@
 ||*Copyright: Plumeria flowers, Hawaii (© Miranda Jans/Getty Images)*
 ||
 |||
-|2025-05-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Hachijyuhachi2025_JA-JP6490825826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hachijyuhachi2025_JA-JP6490825826_UHD.jpg)|
-||*Copyright: 大淵笹場の茶畑, 静岡県 富士市 (© 7maru/Getty Images)*
+|2025-05-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BrazilHeron_JA-JP6898901440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilHeron_JA-JP6898901440_UHD.jpg)|
+||*Copyright: パンタナル, ブラジル (© Gerald Corsi/Getty Images)*
 ||
 |||
 |2025-05-01|**Region: en-IN**||

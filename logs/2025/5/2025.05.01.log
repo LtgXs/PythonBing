@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:29:57] Picture infomations saved to  global/fr-CA/README.md
 [09:29:57] Picture infomations saved to global/fr-CA/history/2025/05/02_fr-CA.md
 Program exit at 09:29:57
+
+Program started at 16:16:27
+Operating System Name: Linux
+Operating System Version: #12~24.04.1-Ubuntu SMP Mon Mar 10 19:00:39 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1335-445
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:16:27] Start geting CN Bing Wallpaper
+[16:16:27] Successful get url: https://www.bing.com/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg
+[16:16:27] Image saved to img/background.jpg
+[16:16:27] Info saved to README.md
+[16:16:27] Image saved to history/2025/05/02.md
+[16:16:27] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-01 12:16:27.820946-04:00
+[16:16:27] Successful get url: https://www.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg
+[16:16:28] Picture infomations saved to  global/en-US/README.md
+[16:16:28] Picture infomations saved to global/en-US/history/2025/05/02_en-US.md
+[16:16:28] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-02 01:16:28.103121+09:00
+[16:16:28] Successful get url: https://www.bing.com/th?id=OHR.BrazilHeron_JA-JP6898901440_UHD.jpg
+[16:16:28] Picture infomations saved to  global/ja-JP/README.md
+[16:16:28] Picture infomations saved to global/ja-JP/history/2025/05/02_ja-JP.md
+[16:16:28] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-01 21:46:28.271273+05:30
+[16:16:28] Successful get url: https://www.bing.com/th?id=OHR.SeaLink_EN-IN8546932125_UHD.jpg
+[16:16:28] Picture infomations saved to  global/en-IN/README.md
+[16:16:28] Picture infomations saved to global/en-IN/history/2025/05/01_en-IN.md
+[16:16:28] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-01 13:16:28.464605-03:00
+[16:16:28] Successful get url: https://www.bing.com/th?id=OHR.PinkPlumeria_PT-BR2515554490_UHD.jpg
+[16:16:28] Picture infomations saved to  global/pt-BR/README.md
+[16:16:28] Picture infomations saved to global/pt-BR/history/2025/05/02_pt-BR.md
+[16:16:28] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-01 18:16:28.736211+02:00
+[16:16:28] Successful get url: https://www.bing.com/th?id=OHR.PinkPlumeria_FR-FR9237716464_UHD.jpg
+[16:16:28] Picture infomations saved to  global/fr-FR/README.md
+[16:16:28] Picture infomations saved to global/fr-FR/history/2025/05/01_fr-FR.md
+[16:16:28] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-01 18:16:28.904021+02:00
+[16:16:28] Successful get url: https://www.bing.com/th?id=OHR.PinkPlumeria_DE-DE1954010737_UHD.jpg
+[16:16:29] Picture infomations saved to  global/de-DE/README.md
+[16:16:29] Picture infomations saved to global/de-DE/history/2025/05/01_de-DE.md
+[16:16:29] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-01 12:16:29.105222-04:00
+[16:16:29] Successful get url: https://www.bing.com/th?id=OHR.PinkPlumeria_EN-CA9604595582_UHD.jpg
+[16:16:29] Picture infomations saved to  global/en-CA/README.md
+[16:16:29] Picture infomations saved to global/en-CA/history/2025/05/02_en-CA.md
+[16:16:29] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-01 17:16:29.303909+01:00
+[16:16:29] Successful get url: https://www.bing.com/th?id=OHR.PinkPlumeria_EN-GB9432400887_UHD.jpg
+[16:16:29] Picture infomations saved to  global/en-GB/README.md
+[16:16:29] Picture infomations saved to global/en-GB/history/2025/05/01_en-GB.md
+[16:16:29] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-01 18:16:29.733669+02:00
+[16:16:29] Successful get url: https://www.bing.com/th?id=OHR.PinkPlumeria_IT-IT2418782991_UHD.jpg
+[16:16:30] Picture infomations saved to  global/it-IT/README.md
+[16:16:30] Picture infomations saved to global/it-IT/history/2025/05/01_it-IT.md
+[16:16:30] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-01 18:16:30.012998+02:00
+[16:16:30] Successful get url: https://www.bing.com/th?id=OHR.PinkPlumeria_ES-ES3406077464_UHD.jpg
+[16:16:30] Picture infomations saved to  global/es-ES/README.md
+[16:16:30] Picture infomations saved to global/es-ES/history/2025/05/01_es-ES.md
+[16:16:30] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-01 12:16:30.387276-04:00
+[16:16:30] Successful get url: https://www.bing.com/th?id=OHR.PinkPlumeria_FR-CA9550937196_UHD.jpg
+[16:16:30] Picture infomations saved to  global/fr-CA/README.md
+[16:16:30] Picture infomations saved to global/fr-CA/history/2025/05/02_fr-CA.md
+Program exit at 16:16:30
