@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg)|
-||*Copyright: Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)*
+|2025-05-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg)|
+||*Copyright: Plumeria flowers, Hawaii (© Miranda Jans/Getty Images)*
 ||
 |||
 |2025-05-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 大淵笹場の茶畑, 静岡県 富士市 (© 7maru/Getty Images)*
 ||
 |||
-|2025-04-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ColtraneBand_EN-IN4058785023_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColtraneBand_EN-IN4058785023_UHD.jpg)|
-||*Copyright: Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)*
+|2025-05-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SeaLink_EN-IN8546932125_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SeaLink_EN-IN8546932125_UHD.jpg)|
+||*Copyright: Bandra–Worli Sea Link, Mumbai, Maharashtra (© Puneet Vikram Singh, Nature and Concept photographer/Getty Images)*
 ||
 |||
-|2025-05-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ColtraneBand_PT-BR2612003019_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColtraneBand_PT-BR2612003019_UHD.jpg)|
-||*Copyright: Saxofonista John Coltrane e sua banda se apresentando em 1961 em Londres, Inglaterra (© Popperfoto/Getty Images)*
+|2025-05-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PinkPlumeria_PT-BR2515554490_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_PT-BR2515554490_UHD.jpg)|
+||*Copyright: Flores de plumeria, Havaí EUA (© Miranda Jans/Getty Images)*
 ||
 |||
-|2025-04-30|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.Pheasant_FR-FR7804669644_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Pheasant_FR-FR7804669644_UHD.jpg)|
-||*Copyright: Faisan de Colchide mâle au milieu de fleurs jaunes, Normandie (© slowmotiongli/Getty Images)*
+|2025-05-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PinkPlumeria_FR-FR9237716464_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_FR-FR9237716464_UHD.jpg)|
+||*Copyright: Fleurs de frangipanier, Hawaï, États-Unis (© Miranda Jans/Getty Images)*
 ||
 |||
-|2025-04-30|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_UHD.jpg)|
-||*Copyright: Jazz-Saxophonist John Coltrane und Band bei einem Auftritt 1961 in London, England (© Popperfoto/Getty Images)*
+|2025-05-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PinkPlumeria_DE-DE1954010737_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_DE-DE1954010737_UHD.jpg)|
+||*Copyright: Plumeria-Blumen, Hawaii, USA (© Miranda Jans/Getty Images)*
 ||
 |||
-|2025-05-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ColtraneBand_EN-CA8272011820_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColtraneBand_EN-CA8272011820_UHD.jpg)|
-||*Copyright: Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)*
+|2025-05-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-CA9604595582_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-CA9604595582_UHD.jpg)|
+||*Copyright: Plumeria flowers, Hawaii, United States (© Miranda Jans/Getty Images)*
 ||
 |||
-|2025-04-30|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ColtraneBand_EN-GB9213132534_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColtraneBand_EN-GB9213132534_UHD.jpg)|
-||*Copyright: Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)*
+|2025-05-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-GB9432400887_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-GB9432400887_UHD.jpg)|
+||*Copyright: Plumeria flowers, Hawaii, United States (© Miranda Jans/Getty Images)*
 ||
 |||
-|2025-04-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ColtraneBand_IT-IT2364291009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColtraneBand_IT-IT2364291009_UHD.jpg)|
-||*Copyright: Il sassofonista John Coltrane e la sua band si esibiscono nel 1961 a Londra, Inghilterra (© Popperfoto/Getty Images)*
+|2025-05-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PinkPlumeria_IT-IT2418782991_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_IT-IT2418782991_UHD.jpg)|
+||*Copyright: Fiori di plumeria, Hawaii, USA (© Miranda Jans/Getty Images)*
 ||
 |||
-|2025-04-30|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ColtraneBand_ES-ES9738799865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColtraneBand_ES-ES9738799865_UHD.jpg)|
-||*Copyright: El saxofonista de jazz John Coltrane y su banda actuando en 1961 en Londres, Inglaterra (© Popperfoto/Getty Images)*
+|2025-05-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PinkPlumeria_ES-ES3406077464_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_ES-ES3406077464_UHD.jpg)|
+||*Copyright: Flores de plumeria, Hawái, EE. UU. (© Miranda Jans/Getty Images)*
 ||
 |||
-|2025-05-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ColtraneBand_FR-CA0892756164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColtraneBand_FR-CA0892756164_UHD.jpg)|
-||*Copyright: John Coltrane et son groupe en 1961, Londres, Angleterre (© Popperfoto/Getty Images)*
+|2025-05-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PinkPlumeria_FR-CA9550937196_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_FR-CA9550937196_UHD.jpg)|
+||*Copyright: Fleurs de frangipanier, Hawaï, États-Unis (© Miranda Jans/Getty Images)*
 ||
 |||
 
