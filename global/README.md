@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-02|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg)|
-||*Copyright: Plumeria flowers, Hawaii (© Miranda Jans/Getty Images)*
+|2025-05-03|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg)|
+||*Copyright: Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)*
 ||
 |||
 |2025-05-02|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: パンタナル, ブラジル (© Gerald Corsi/Getty Images)*
 ||
 |||
-|2025-05-01|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SeaLink_EN-IN8546932125_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SeaLink_EN-IN8546932125_UHD.jpg)|
-||*Copyright: Bandra–Worli Sea Link, Mumbai, Maharashtra (© Puneet Vikram Singh, Nature and Concept photographer/Getty Images)*
+|2025-05-02|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BrazilHeron_EN-IN0370124301_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilHeron_EN-IN0370124301_UHD.jpg)|
+||*Copyright: Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)*
 ||
 |||
-|2025-05-02|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PinkPlumeria_PT-BR2515554490_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_PT-BR2515554490_UHD.jpg)|
-||*Copyright: Flores de plumeria, Havaí EUA (© Miranda Jans/Getty Images)*
+|2025-05-03|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BrazilHeron_PT-BR4897621554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilHeron_PT-BR4897621554_UHD.jpg)|
+||*Copyright: Socozinho sobre uma vitória-régia, Pantanal (© Gerald Corsi/Getty Images)*
 ||
 |||
-|2025-05-01|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PinkPlumeria_FR-FR9237716464_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_FR-FR9237716464_UHD.jpg)|
-||*Copyright: Fleurs de frangipanier, Hawaï, États-Unis (© Miranda Jans/Getty Images)*
+|2025-05-02|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BrazilHeron_FR-FR2379480505_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilHeron_FR-FR2379480505_UHD.jpg)|
+||*Copyright: Héron strié sur un nénuphar Victoria, Pantanal, Brésil (© Gerald Corsi/Getty Images)*
 ||
 |||
-|2025-05-01|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PinkPlumeria_DE-DE1954010737_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_DE-DE1954010737_UHD.jpg)|
-||*Copyright: Plumeria-Blumen, Hawaii, USA (© Miranda Jans/Getty Images)*
+|2025-05-02|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BrazilHeron_DE-DE1974794289_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilHeron_DE-DE1974794289_UHD.jpg)|
+||*Copyright: Mangrovereiher auf einer Victoria-Seerose, Pantanal, Brasilien (© Gerald Corsi/Getty Images)*
 ||
 |||
-|2025-05-02|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-CA9604595582_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-CA9604595582_UHD.jpg)|
-||*Copyright: Plumeria flowers, Hawaii, United States (© Miranda Jans/Getty Images)*
+|2025-05-03|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BrazilHeron_EN-CA7612661930_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilHeron_EN-CA7612661930_UHD.jpg)|
+||*Copyright: Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)*
 ||
 |||
-|2025-05-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-GB9432400887_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-GB9432400887_UHD.jpg)|
-||*Copyright: Plumeria flowers, Hawaii, United States (© Miranda Jans/Getty Images)*
+|2025-05-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BrazilHeron_EN-GB3243894936_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilHeron_EN-GB3243894936_UHD.jpg)|
+||*Copyright: Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)*
 ||
 |||
-|2025-05-01|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PinkPlumeria_IT-IT2418782991_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_IT-IT2418782991_UHD.jpg)|
-||*Copyright: Fiori di plumeria, Hawaii, USA (© Miranda Jans/Getty Images)*
+|2025-05-02|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BrazilHeron_IT-IT7849076526_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilHeron_IT-IT7849076526_UHD.jpg)|
+||*Copyright: Airone striato su una ninfea Victoria, Pantanal, Brasile (© Gerald Corsi/Getty Images)*
 ||
 |||
-|2025-05-01|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PinkPlumeria_ES-ES3406077464_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_ES-ES3406077464_UHD.jpg)|
-||*Copyright: Flores de plumeria, Hawái, EE. UU. (© Miranda Jans/Getty Images)*
+|2025-05-02|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BrazilHeron_ES-ES2902878903_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilHeron_ES-ES2902878903_UHD.jpg)|
+||*Copyright: Garza estriada sobre un nenúfar Victoria, Pantanal, Brasil (© Gerald Corsi/Getty Images)*
 ||
 |||
-|2025-05-02|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PinkPlumeria_FR-CA9550937196_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkPlumeria_FR-CA9550937196_UHD.jpg)|
-||*Copyright: Fleurs de frangipanier, Hawaï, États-Unis (© Miranda Jans/Getty Images)*
+|2025-05-03|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BrazilHeron_FR-CA6403400968_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilHeron_FR-CA6403400968_UHD.jpg)|
+||*Copyright: Héron strié sur un nénuphar Victoria, Pantanal, Brésil (© Gerald Corsi/Getty Images)*
 ||
 |||
 
