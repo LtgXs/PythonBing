@@ -6,9 +6,9 @@
 ||*Copyright: Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)*
 ||
 |||
-|2025-05-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BrazilHeron_JA-JP6898901440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrazilHeron_JA-JP6898901440_UHD.jpg)|
-||*Copyright: パンタナル, ブラジル (© Gerald Corsi/Getty Images)*
+|2025-05-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ArchesGalaxy_JA-JP7174638960_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArchesGalaxy_JA-JP7174638960_UHD.jpg)|
+||*Copyright: アーチーズ国立公園, 米国 ユタ州 (© Adventure_Photo/Getty Images)*
 ||
 |||
 |2025-05-02|**Region: en-IN**||
