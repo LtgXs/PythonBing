@@ -6,9 +6,9 @@
 ||*Copyright: The Milky Way framed by Double Arch in Arches National Park, Utah (© Adventure_Photo/Getty Images)*
 ||
 |||
-|2025-05-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ArchesGalaxy_JA-JP7174638960_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArchesGalaxy_JA-JP7174638960_UHD.jpg)|
-||*Copyright: アーチーズ国立公園, 米国 ユタ州 (© Adventure_Photo/Getty Images)*
+|2025-05-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GreeneryDay2025_JA-JP4166384279_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreeneryDay2025_JA-JP4166384279_UHD.jpg)|
+||*Copyright: 屋久島, 鹿児島県 (© oxico/Getty Images)*
 ||
 |||
 |2025-05-03|**Region: en-IN**||
