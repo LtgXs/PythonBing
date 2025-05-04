@@ -1,0 +1,60 @@
+
+Program started at 09:27:49
+Operating System Name: Linux
+Operating System Version: #12~24.04.1-Ubuntu SMP Mon Mar 10 19:00:39 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1436-387
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[09:27:49] Start geting CN Bing Wallpaper
+[09:27:49] Successful get url: https://www.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg
+[09:27:49] Image saved to img/background.jpg
+[09:27:49] Info saved to README.md
+[09:27:49] Image saved to history/2025/05/04.md
+[09:27:49] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-04 05:27:49.963949-04:00
+[09:27:50] Successful get url: https://www.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg
+[09:27:50] Picture infomations saved to  global/en-US/README.md
+[09:27:50] Picture infomations saved to global/en-US/history/2025/05/05_en-US.md
+[09:27:50] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-04 18:27:50.050271+09:00
+[09:27:50] Successful get url: https://www.bing.com/th?id=OHR.GreeneryDay2025_JA-JP4166384279_UHD.jpg
+[09:27:50] Picture infomations saved to  global/ja-JP/README.md
+[09:27:50] Picture infomations saved to global/ja-JP/history/2025/05/04_ja-JP.md
+[09:27:50] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-04 14:57:50.139719+05:30
+[09:27:50] Successful get url: https://www.bing.com/th?id=OHR.MysorePalace_EN-IN3228585823_UHD.jpg
+[09:27:50] Picture infomations saved to  global/en-IN/README.md
+[09:27:50] Picture infomations saved to global/en-IN/history/2025/05/04_en-IN.md
+[09:27:50] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-04 06:27:50.216394-03:00
+[09:27:50] Successful get url: https://www.bing.com/th?id=OHR.SevilleNaboo_PT-BR1882762485_UHD.jpg
+[09:27:50] Picture infomations saved to  global/pt-BR/README.md
+[09:27:50] Picture infomations saved to global/pt-BR/history/2025/05/05_pt-BR.md
+[09:27:50] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-04 11:27:50.295827+02:00
+[09:27:50] Successful get url: https://www.bing.com/th?id=OHR.SevilleNaboo_FR-FR2052386392_UHD.jpg
+[09:27:50] Picture infomations saved to  global/fr-FR/README.md
+[09:27:50] Picture infomations saved to global/fr-FR/history/2025/05/04_fr-FR.md
+[09:27:50] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-04 11:27:50.370004+02:00
+[09:27:50] Successful get url: https://www.bing.com/th?id=OHR.SevilleNaboo_DE-DE9420581107_UHD.jpg
+[09:27:50] Picture infomations saved to  global/de-DE/README.md
+[09:27:50] Picture infomations saved to global/de-DE/history/2025/05/04_de-DE.md
+[09:27:50] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-04 05:27:50.446486-04:00
+[09:27:50] Successful get url: https://www.bing.com/th?id=OHR.SevilleNaboo_EN-CA6053548784_UHD.jpg
+[09:27:50] Picture infomations saved to  global/en-CA/README.md
+[09:27:50] Picture infomations saved to global/en-CA/history/2025/05/05_en-CA.md
+[09:27:50] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-04 10:27:50.524419+01:00
+[09:27:50] Successful get url: https://www.bing.com/th?id=OHR.SevilleNaboo_EN-GB9843700805_UHD.jpg
+[09:27:50] Picture infomations saved to  global/en-GB/README.md
+[09:27:50] Picture infomations saved to global/en-GB/history/2025/05/04_en-GB.md
+[09:27:50] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-04 11:27:50.604565+02:00
+[09:27:50] Successful get url: https://www.bing.com/th?id=OHR.SevilleNaboo_IT-IT2269809948_UHD.jpg
+[09:27:50] Picture infomations saved to  global/it-IT/README.md
+[09:27:50] Picture infomations saved to global/it-IT/history/2025/05/04_it-IT.md
+[09:27:50] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-04 11:27:50.689727+02:00
+[09:27:50] Successful get url: https://www.bing.com/th?id=OHR.SevilleNaboo_ES-ES5034292868_UHD.jpg
+[09:27:50] Picture infomations saved to  global/es-ES/README.md
+[09:27:50] Picture infomations saved to global/es-ES/history/2025/05/04_es-ES.md
+[09:27:50] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-04 05:27:50.769543-04:00
+[09:27:50] Successful get url: https://www.bing.com/th?id=OHR.SevilleNaboo_FR-CA9803476617_UHD.jpg
+[09:27:50] Picture infomations saved to  global/fr-CA/README.md
+[09:27:50] Picture infomations saved to global/fr-CA/history/2025/05/05_fr-CA.md
+Program exit at 09:27:50
