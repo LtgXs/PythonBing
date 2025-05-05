@@ -6,9 +6,9 @@
 ||*Copyright: Paper flags strung over a street in San Miguel de Allende, Mexico (© William Zinn/Getty Images)*
 ||
 |||
-|2025-05-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Koinobori2025_JA-JP0438864566_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Koinobori2025_JA-JP0438864566_UHD.jpg)|
-||*Copyright: 東京タワー 333 匹の鯉のぼり, 東京 (© Takashi Aoyama/寄稿者/Getty Images)*
+|2025-05-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FlyoverNamibia_JA-JP8746385575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyoverNamibia_JA-JP8746385575_UHD.jpg)|
+||*Copyright: ナミブ砂漠, ナミビア (© Burt Johnson/Alamy)*
 ||
 |||
 |2025-05-05|**Region: en-IN**||
