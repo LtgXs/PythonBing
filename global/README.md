@@ -6,9 +6,9 @@
 ||*Copyright: An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy)*
 ||
 |||
-|2025-05-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FlyoverNamibia_JA-JP8746385575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyoverNamibia_JA-JP8746385575_UHD.jpg)|
-||*Copyright: ナミブ砂漠, ナミビア (© Burt Johnson/Alamy)*
+|2025-05-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DunluceIreland_JA-JP8933138067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunluceIreland_JA-JP8933138067_UHD.jpg)|
+||*Copyright: ダンルース城, イギリス (© DieterMeyrl/Getty Images)*
 ||
 |||
 |2025-05-06|**Region: en-IN**||
