@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-07|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg)|
-||*Copyright: An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy)*
+|2025-05-08|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg)|
+||*Copyright: Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)*
 ||
 |||
 |2025-05-07|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ダンルース城, イギリス (© DieterMeyrl/Getty Images)*
 ||
 |||
-|2025-05-06|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-IN3642714628_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-IN3642714628_UHD.jpg)|
-||*Copyright: An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy Stock Photo)*
+|2025-05-07|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.RabindraJayantiIN_EN-IN3289019397_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RabindraJayantiIN_EN-IN3289019397_UHD.jpg)|
+||*Copyright: Statue of Rabindranath Tagore at Rabindra Sarobar, West Bengal (© suprabhat/Shutterstock)*
 ||
 |||
-|2025-05-07|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FlyoverNamibia_PT-BR8374548592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyoverNamibia_PT-BR8374548592_UHD.jpg)|
-||*Copyright: Ultraleve sobrevoando as areias da Namíbia (© Burt Johnson/Alamy)*
+|2025-05-08|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DunluceIreland_PT-BR4554563942_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunluceIreland_PT-BR4554563942_UHD.jpg)|
+||*Copyright: Castelo de Dunluce, Condado de Antrim, Irlanda do Norte (© DieterMeyrl/Getty Images)*
 ||
 |||
-|2025-05-06|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FlyoverNamibia_FR-FR8600226309_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyoverNamibia_FR-FR8600226309_UHD.jpg)|
-||*Copyright: Un avion ULM survolant les sables de Namibie (© Burt Johnson/Alamy)*
+|2025-05-07|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.DunluceIreland_FR-FR8462134318_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunluceIreland_FR-FR8462134318_UHD.jpg)|
+||*Copyright: Château de Dunluce, Comté d'Antrim, Irlande du Nord (© DieterMeyrl/Getty Images)*
 ||
 |||
-|2025-05-06|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FlyoverNamibia_DE-DE0196935378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyoverNamibia_DE-DE0196935378_UHD.jpg)|
-||*Copyright: Ein Ultraleichtflugzeug fliegt über die Wüste Namibias (© Burt Johnson/Alamy)*
+|2025-05-07|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.DunluceIreland_DE-DE2678397911_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunluceIreland_DE-DE2678397911_UHD.jpg)|
+||*Copyright: Dunluce Castle, Grafschaft Antrim, Nordirland (© DieterMeyrl/Getty Images)*
 ||
 |||
-|2025-05-07|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-CA6702004315_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-CA6702004315_UHD.jpg)|
-||*Copyright: An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy Stock Photo)*
+|2025-05-08|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.DunluceIreland_EN-CA9898003199_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunluceIreland_EN-CA9898003199_UHD.jpg)|
+||*Copyright: Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)*
 ||
 |||
-|2025-05-06|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-GB4652418118_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-GB4652418118_UHD.jpg)|
-||*Copyright: An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy Stock Photo)*
+|2025-05-07|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.DunluceIreland_EN-GB4973641730_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunluceIreland_EN-GB4973641730_UHD.jpg)|
+||*Copyright: Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)*
 ||
 |||
-|2025-05-06|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FlyoverNamibia_IT-IT8197478549_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyoverNamibia_IT-IT8197478549_UHD.jpg)|
-||*Copyright: Aereo ultraleggero in volo sulle sabbie della Namibia (© Burt Johnson/Alamy Stock Photo)*
+|2025-05-07|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DunluceIreland_IT-IT8360348588_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunluceIreland_IT-IT8360348588_UHD.jpg)|
+||*Copyright: Castello di Dunluce, Contea di Antrim, Irlanda del Nord (© DieterMeyrl/Getty Images)*
 ||
 |||
-|2025-05-06|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SevillaFairMay_ES-ES5278862844_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevillaFairMay_ES-ES5278862844_UHD.jpg)|
-||*Copyright: Feria de Sevilla, España (© joserpizarro/Shutterstock)*
+|2025-05-07|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.DunluceIreland_ES-ES0624885257_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunluceIreland_ES-ES0624885257_UHD.jpg)|
+||*Copyright: Castillo de Dunluce, Condado de Antrim, Irlanda del Norte (© DieterMeyrl/Getty Images)*
 ||
 |||
-|2025-05-07|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FlyoverNamibia_FR-CA3457148210_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyoverNamibia_FR-CA3457148210_UHD.jpg)|
-||*Copyright: Un avion ULM survolant les sables de Namibie (© Burt Johnson/Alamy)*
+|2025-05-08|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.DunluceIreland_FR-CA3431196090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunluceIreland_FR-CA3431196090_UHD.jpg)|
+||*Copyright: Château de Dunluce, Comté d'Antrim, Irlande du Nord (© DieterMeyrl/Getty Images)*
 ||
 |||
 
