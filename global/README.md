@@ -6,9 +6,9 @@
 ||*Copyright: Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)*
 ||
 |||
-|2025-05-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DunluceIreland_JA-JP8933138067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunluceIreland_JA-JP8933138067_UHD.jpg)|
-||*Copyright: ダンルース城, イギリス (© DieterMeyrl/Getty Images)*
+|2025-05-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_JA-JP9115996276_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_JA-JP9115996276_UHD.jpg)|
+||*Copyright: 野原に並んで立つ 2 頭のロバ, 米国 ネバダ州 (© Moelyn Photos/Getty Images)*
 ||
 |||
 |2025-05-07|**Region: en-IN**||
