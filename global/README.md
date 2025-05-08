@@ -6,9 +6,9 @@
 ||*Copyright: Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)*
 ||
 |||
-|2025-05-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_JA-JP9115996276_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_JA-JP9115996276_UHD.jpg)|
-||*Copyright: 野原に並んで立つ 2 頭のロバ, 米国 ネバダ州 (© Moelyn Photos/Getty Images)*
+|2025-05-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BrucePeninsula_JA-JP8286448696_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrucePeninsula_JA-JP8286448696_UHD.jpg)|
+||*Copyright: ブルース・ペニンシュラ国立公園, カナダ オンタリオ州 (© Maurice Prokaziuk/Getty Images)*
 ||
 |||
 |2025-05-08|**Region: en-IN**||

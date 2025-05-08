@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:58] Picture infomations saved to  global/fr-CA/README.md
 [09:30:58] Picture infomations saved to global/fr-CA/history/2025/05/09_fr-CA.md
 Program exit at 09:30:58
+
+Program started at 16:16:56
+Operating System Name: Linux
+Operating System Version: #13~24.04.1-Ubuntu SMP Fri Mar 28 23:43:34 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1657-622
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:16:56] Start geting CN Bing Wallpaper
+[16:16:56] Successful get url: https://www.bing.com/th?id=OHR.CuteChameleon_ZH-CN5029981236_UHD.jpg
+[16:16:56] Image saved to img/background.jpg
+[16:16:56] Info saved to README.md
+[16:16:56] Image saved to history/2025/05/09.md
+[16:16:56] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-08 12:16:56.632782-04:00
+[16:16:56] Successful get url: https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg
+[16:16:56] Picture infomations saved to  global/en-US/README.md
+[16:16:56] Picture infomations saved to global/en-US/history/2025/05/09_en-US.md
+[16:16:56] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-09 01:16:56.852441+09:00
+[16:16:56] Successful get url: https://www.bing.com/th?id=OHR.BrucePeninsula_JA-JP8286448696_UHD.jpg
+[16:16:56] Picture infomations saved to  global/ja-JP/README.md
+[16:16:56] Picture infomations saved to global/ja-JP/history/2025/05/09_ja-JP.md
+[16:16:56] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-08 21:46:57.000586+05:30
+[16:16:57] Successful get url: https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-IN2213858489_UHD.jpg
+[16:16:57] Picture infomations saved to  global/en-IN/README.md
+[16:16:57] Picture infomations saved to global/en-IN/history/2025/05/08_en-IN.md
+[16:16:57] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-08 13:16:57.533305-03:00
+[16:16:57] Successful get url: https://www.bing.com/th?id=OHR.DiaNacionalTurismo2025_PT-BR1293599256_UHD.jpg
+[16:16:57] Picture infomations saved to  global/pt-BR/README.md
+[16:16:57] Picture infomations saved to global/pt-BR/history/2025/05/09_pt-BR.md
+[16:16:57] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-08 18:16:57.776248+02:00
+[16:16:57] Successful get url: https://www.bing.com/th?id=OHR.VictoryDay_FR-FR8101939030_UHD.jpg
+[16:16:57] Picture infomations saved to  global/fr-FR/README.md
+[16:16:57] Picture infomations saved to global/fr-FR/history/2025/05/08_fr-FR.md
+[16:16:57] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-08 18:16:57.986903+02:00
+[16:16:58] Successful get url: https://www.bing.com/th?id=OHR.RhyoliteDonkeys_DE-DE0880172671_UHD.jpg
+[16:16:58] Picture infomations saved to  global/de-DE/README.md
+[16:16:58] Picture infomations saved to global/de-DE/history/2025/05/08_de-DE.md
+[16:16:58] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-08 12:16:58.297611-04:00
+[16:16:58] Successful get url: https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-CA1691842106_UHD.jpg
+[16:16:58] Picture infomations saved to  global/en-CA/README.md
+[16:16:58] Picture infomations saved to global/en-CA/history/2025/05/09_en-CA.md
+[16:16:58] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-08 17:16:58.416393+01:00
+[16:16:58] Successful get url: https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-GB9400382526_UHD.jpg
+[16:16:58] Picture infomations saved to  global/en-GB/README.md
+[16:16:58] Picture infomations saved to global/en-GB/history/2025/05/08_en-GB.md
+[16:16:58] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-08 18:16:58.727689+02:00
+[16:16:58] Successful get url: https://www.bing.com/th?id=OHR.RhyoliteDonkeys_IT-IT8431105690_UHD.jpg
+[16:16:59] Picture infomations saved to  global/it-IT/README.md
+[16:16:59] Picture infomations saved to global/it-IT/history/2025/05/08_it-IT.md
+[16:16:59] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-08 18:16:59.097944+02:00
+[16:16:59] Successful get url: https://www.bing.com/th?id=OHR.RhyoliteDonkeys_ES-ES0826770025_UHD.jpg
+[16:16:59] Picture infomations saved to  global/es-ES/README.md
+[16:16:59] Picture infomations saved to global/es-ES/history/2025/05/08_es-ES.md
+[16:16:59] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-08 12:16:59.269648-04:00
+[16:16:59] Successful get url: https://www.bing.com/th?id=OHR.RhyoliteDonkeys_FR-CA4100487057_UHD.jpg
+[16:16:59] Picture infomations saved to  global/fr-CA/README.md
+[16:16:59] Picture infomations saved to global/fr-CA/history/2025/05/09_fr-CA.md
+Program exit at 16:16:59
