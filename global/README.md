@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-09|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg)|
-||*Copyright: Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)*
+|2025-05-10|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg)|
+||*Copyright: Common chameleon (© Photostock-Israel/SPL/Getty Images)*
 ||
 |||
 |2025-05-09|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ブルース・ペニンシュラ国立公園, カナダ オンタリオ州 (© Maurice Prokaziuk/Getty Images)*
 ||
 |||
-|2025-05-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-IN2213858489_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-IN2213858489_UHD.jpg)|
-||*Copyright: Donkeys in a valley near Rhyolite, Nevada, United States (© Moelyn Photos/Getty Images)*
+|2025-05-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CuteChameleon_EN-IN3680584611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuteChameleon_EN-IN3680584611_UHD.jpg)|
+||*Copyright: Common chameleon (© Photostock-Israel/SPL/Getty Images)*
 ||
 |||
-|2025-05-09|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DiaNacionalTurismo2025_PT-BR1293599256_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiaNacionalTurismo2025_PT-BR1293599256_UHD.jpg)|
-||*Copyright: Parque do Caracol, Canela, RS (© Luís Henrique Boucault/Getty Images)*
+|2025-05-10|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.FumacinhaBahia_PT-BR0440078650_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FumacinhaBahia_PT-BR0440078650_UHD.jpg)|
+||*Copyright: Cachoeira Fumacinha, Parque Nacional da Chapada Diamantina, Ibicoara, BA (© Pulsar Imagens/Alamy Stock Photo)*
 ||
 |||
-|2025-05-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.VictoryDay_FR-FR8101939030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VictoryDay_FR-FR8101939030_UHD.jpg)|
-||*Copyright: Volcan Puy du Pariou, Auvergne (© Frantisek ZVARDON/Onlyfrance.fr/Alamy Stock Photo)*
+|2025-05-09|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CuteChameleon_FR-FR7690747856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuteChameleon_FR-FR7690747856_UHD.jpg)|
+||*Copyright: Caméléon commun (© Photostock-Israel/SPL/Getty Images)*
 ||
 |||
-|2025-05-08|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_DE-DE0880172671_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_DE-DE0880172671_UHD.jpg)|
-||*Copyright: Esel in einem Tal bei Rhyolite, Nevada, USA (© Moelyn Photos/Getty Images)*
+|2025-05-09|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CuteChameleon_DE-DE1145473262_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuteChameleon_DE-DE1145473262_UHD.jpg)|
+||*Copyright: Gewöhnliches Chamäleon (© Photostock-Israel/SPL/Getty Images)*
 ||
 |||
-|2025-05-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-CA1691842106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-CA1691842106_UHD.jpg)|
-||*Copyright: Donkeys in a valley near Rhyolite, Nevada, United States (© Moelyn Photos/Getty Images)*
+|2025-05-10|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.Tulip25Fest_EN-CA8965169062_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Tulip25Fest_EN-CA8965169062_UHD.jpg)|
+||*Copyright: Canadian Tulip Festival in Ottawa (© Danielle Donders/Getty Images)*
 ||
 |||
-|2025-05-08|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-GB9400382526_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-GB9400382526_UHD.jpg)|
-||*Copyright: Donkeys in a valley near Rhyolite, Nevada, United States (© Moelyn Photos/Getty Images)*
+|2025-05-09|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CuteChameleon_EN-GB9532983166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuteChameleon_EN-GB9532983166_UHD.jpg)|
+||*Copyright: Common chameleon (© Photostock-Israel/SPL/Getty Images)*
 ||
 |||
-|2025-05-08|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_IT-IT8431105690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_IT-IT8431105690_UHD.jpg)|
-||*Copyright: Asini in una valle vicino a Rhyolite, Nevada, USA (© Moelyn Photos/Getty Images)*
+|2025-05-09|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GiroItalia_IT-IT8486738014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiroItalia_IT-IT8486738014_UHD.jpg)|
+||*Copyright: Comincia il Giro d'Italia, Durazzo, Albania (© Tim de Waele/Getty Images)*
 ||
 |||
-|2025-05-08|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_ES-ES0826770025_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_ES-ES0826770025_UHD.jpg)|
-||*Copyright: Burros en un valle cerca de Rhyolite, Nevada, EE.UU. (© Moelyn Photos/Getty Images)*
+|2025-05-09|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CuteChameleon_ES-ES0921973788_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuteChameleon_ES-ES0921973788_UHD.jpg)|
+||*Copyright: Camaleón común (© Photostock-Israel/SPL/Getty Images)*
 ||
 |||
-|2025-05-09|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_FR-CA4100487057_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_FR-CA4100487057_UHD.jpg)|
-||*Copyright: Ânes dans une vallée près de Rhyolite, Nevada, États-Unis (© Moelyn Photos/Getty Images)*
+|2025-05-10|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.Tulip25Fest_FR-CA1899692626_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Tulip25Fest_FR-CA1899692626_UHD.jpg)|
+||*Copyright: Festival Canadien des tulipes, Ottawa (© Danielle Donders/Getty Images)*
 ||
 |||
 
