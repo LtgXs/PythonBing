@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-10|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg)|
-||*Copyright: Common chameleon (© Photostock-Israel/SPL/Getty Images)*
+|2025-05-11|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg)|
+||*Copyright: Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)*
 ||
 |||
 |2025-05-10|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ミネソタ州会議事堂, 米国ミネソタ州 (© lavin photography/Getty Images)*
 ||
 |||
-|2025-05-09|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CuteChameleon_EN-IN3680584611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuteChameleon_EN-IN3680584611_UHD.jpg)|
-||*Copyright: Common chameleon (© Photostock-Israel/SPL/Getty Images)*
+|2025-05-10|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-IN5291862812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-IN5291862812_UHD.jpg)|
+||*Copyright: Minnesota State Capitol, St. Paul, Minnesota, United States (© lavin photography/Getty Images)*
 ||
 |||
-|2025-05-10|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FumacinhaBahia_PT-BR0440078650_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FumacinhaBahia_PT-BR0440078650_UHD.jpg)|
-||*Copyright: Cachoeira Fumacinha, Parque Nacional da Chapada Diamantina, Ibicoara, BA (© Pulsar Imagens/Alamy Stock Photo)*
+|2025-05-11|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_PT-BR2639700452_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_PT-BR2639700452_UHD.jpg)|
+||*Copyright: Capitólio do Estado de Minnesota, St. Paul, Minnesota, EUA (© lavin photography/Getty Images)*
 ||
 |||
-|2025-05-09|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CuteChameleon_FR-FR7690747856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuteChameleon_FR-FR7690747856_UHD.jpg)|
-||*Copyright: Caméléon commun (© Photostock-Israel/SPL/Getty Images)*
+|2025-05-10|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_UHD.jpg)|
+||*Copyright: Capitole de l'État du Minnesota, St. Paul, États-Unis (© lavin photography/Getty Images)*
 ||
 |||
-|2025-05-09|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CuteChameleon_DE-DE1145473262_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuteChameleon_DE-DE1145473262_UHD.jpg)|
-||*Copyright: Gewöhnliches Chamäleon (© Photostock-Israel/SPL/Getty Images)*
+|2025-05-10|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HeidelbergSpring_DE-DE1255336849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HeidelbergSpring_DE-DE1255336849_UHD.jpg)|
+||*Copyright: Blick auf Heidelberg und das Heidelberger Schloss im Frühling, Baden-Württemberg (© anyaivanova/Getty Images)*
 ||
 |||
-|2025-05-10|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Tulip25Fest_EN-CA8965169062_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Tulip25Fest_EN-CA8965169062_UHD.jpg)|
-||*Copyright: Canadian Tulip Festival in Ottawa (© Danielle Donders/Getty Images)*
+|2025-05-11|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-CA2092943439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-CA2092943439_UHD.jpg)|
+||*Copyright: Minnesota State Capitol, St. Paul, Minnesota, United States (© lavin photography/Getty Images)*
 ||
 |||
-|2025-05-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CuteChameleon_EN-GB9532983166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuteChameleon_EN-GB9532983166_UHD.jpg)|
-||*Copyright: Common chameleon (© Photostock-Israel/SPL/Getty Images)*
+|2025-05-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-GB8105337991_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-GB8105337991_UHD.jpg)|
+||*Copyright: Minnesota State Capitol, St Paul, Minnesota, United States (© lavin photography/Getty Images)*
 ||
 |||
-|2025-05-09|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GiroItalia_IT-IT8486738014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiroItalia_IT-IT8486738014_UHD.jpg)|
-||*Copyright: Comincia il Giro d'Italia, Durazzo, Albania (© Tim de Waele/Getty Images)*
+|2025-05-10|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_IT-IT5434409102_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_IT-IT5434409102_UHD.jpg)|
+||*Copyright: Campidoglio del Minnesota, St. Paul, Minnesota, USA (© lavin photography/Getty Images)*
 ||
 |||
-|2025-05-09|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CuteChameleon_ES-ES0921973788_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CuteChameleon_ES-ES0921973788_UHD.jpg)|
-||*Copyright: Camaleón común (© Photostock-Israel/SPL/Getty Images)*
+|2025-05-10|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_ES-ES1077273863_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_ES-ES1077273863_UHD.jpg)|
+||*Copyright: Capitolio del Estado de Minnesota, St. Paul, Minnesota, EE.UU. (© lavin photography/Getty Images)*
 ||
 |||
-|2025-05-10|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Tulip25Fest_FR-CA1899692626_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Tulip25Fest_FR-CA1899692626_UHD.jpg)|
-||*Copyright: Festival Canadien des tulipes, Ottawa (© Danielle Donders/Getty Images)*
+|2025-05-11|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-CA0618783883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-CA0618783883_UHD.jpg)|
+||*Copyright: Capitole de l'État du Minnesota, St. Paul, États-Unis (© lavin photography/Getty Images)*
 ||
 |||
 
