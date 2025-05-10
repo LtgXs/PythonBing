@@ -6,9 +6,9 @@
 ||*Copyright: Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)*
 ||
 |||
-|2025-05-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_JA-JP1387558437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_JA-JP1387558437_UHD.jpg)|
-||*Copyright: ミネソタ州会議事堂, 米国ミネソタ州 (© lavin photography/Getty Images)*
+|2025-05-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LeopardMother_JA-JP1562347472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardMother_JA-JP1562347472_UHD.jpg)|
+||*Copyright: ヒョウの母子, ボツワナ (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
 |2025-05-10|**Region: en-IN**||

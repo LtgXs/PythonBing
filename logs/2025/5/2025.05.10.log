@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:25] Picture infomations saved to  global/fr-CA/README.md
 [09:27:25] Picture infomations saved to global/fr-CA/history/2025/05/11_fr-CA.md
 Program exit at 09:27:25
+
+Program started at 16:14:31
+Operating System Name: Linux
+Operating System Version: #13~24.04.1-Ubuntu SMP Fri Mar 28 23:43:34 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1983-919
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:14:31] Start geting CN Bing Wallpaper
+[16:14:31] Successful get url: https://www.bing.com/th?id=OHR.LeopardMother_ZH-CN6134353524_UHD.jpg
+[16:14:32] Image saved to img/background.jpg
+[16:14:32] Info saved to README.md
+[16:14:32] Image saved to history/2025/05/11.md
+[16:14:32] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-10 12:14:32.120231-04:00
+[16:14:32] Successful get url: https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg
+[16:14:32] Picture infomations saved to  global/en-US/README.md
+[16:14:32] Picture infomations saved to global/en-US/history/2025/05/11_en-US.md
+[16:14:32] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-11 01:14:32.200157+09:00
+[16:14:32] Successful get url: https://www.bing.com/th?id=OHR.LeopardMother_JA-JP1562347472_UHD.jpg
+[16:14:32] Picture infomations saved to  global/ja-JP/README.md
+[16:14:32] Picture infomations saved to global/ja-JP/history/2025/05/11_ja-JP.md
+[16:14:32] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-10 21:44:32.282161+05:30
+[16:14:32] Successful get url: https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-IN5291862812_UHD.jpg
+[16:14:32] Picture infomations saved to  global/en-IN/README.md
+[16:14:32] Picture infomations saved to global/en-IN/history/2025/05/10_en-IN.md
+[16:14:32] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-10 13:14:32.359366-03:00
+[16:14:32] Successful get url: https://www.bing.com/th?id=OHR.MinnesotaRotunda_PT-BR2639700452_UHD.jpg
+[16:14:32] Picture infomations saved to  global/pt-BR/README.md
+[16:14:32] Picture infomations saved to global/pt-BR/history/2025/05/11_pt-BR.md
+[16:14:32] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-10 18:14:32.429878+02:00
+[16:14:32] Successful get url: https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_UHD.jpg
+[16:14:32] Picture infomations saved to  global/fr-FR/README.md
+[16:14:32] Picture infomations saved to global/fr-FR/history/2025/05/10_fr-FR.md
+[16:14:32] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-10 18:14:32.496724+02:00
+[16:14:32] Successful get url: https://www.bing.com/th?id=OHR.HeidelbergSpring_DE-DE1255336849_UHD.jpg
+[16:14:32] Picture infomations saved to  global/de-DE/README.md
+[16:14:32] Picture infomations saved to global/de-DE/history/2025/05/10_de-DE.md
+[16:14:32] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-10 12:14:32.585467-04:00
+[16:14:32] Successful get url: https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-CA2092943439_UHD.jpg
+[16:14:32] Picture infomations saved to  global/en-CA/README.md
+[16:14:32] Picture infomations saved to global/en-CA/history/2025/05/11_en-CA.md
+[16:14:32] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-10 17:14:32.721799+01:00
+[16:14:32] Successful get url: https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-GB8105337991_UHD.jpg
+[16:14:32] Picture infomations saved to  global/en-GB/README.md
+[16:14:32] Picture infomations saved to global/en-GB/history/2025/05/10_en-GB.md
+[16:14:32] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-10 18:14:32.795390+02:00
+[16:14:32] Successful get url: https://www.bing.com/th?id=OHR.MinnesotaRotunda_IT-IT5434409102_UHD.jpg
+[16:14:32] Picture infomations saved to  global/it-IT/README.md
+[16:14:32] Picture infomations saved to global/it-IT/history/2025/05/10_it-IT.md
+[16:14:32] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-10 18:14:32.911699+02:00
+[16:14:33] Successful get url: https://www.bing.com/th?id=OHR.MinnesotaRotunda_ES-ES1077273863_UHD.jpg
+[16:14:33] Picture infomations saved to  global/es-ES/README.md
+[16:14:33] Picture infomations saved to global/es-ES/history/2025/05/10_es-ES.md
+[16:14:33] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-10 12:14:33.104710-04:00
+[16:14:33] Successful get url: https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-CA0618783883_UHD.jpg
+[16:14:33] Picture infomations saved to  global/fr-CA/README.md
+[16:14:33] Picture infomations saved to global/fr-CA/history/2025/05/11_fr-CA.md
+Program exit at 16:14:33
