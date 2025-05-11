@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-11|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg)|
-||*Copyright: Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)*
+|2025-05-12|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg)|
+||*Copyright: Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
 |2025-05-11|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ヒョウの母子, ボツワナ (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2025-05-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-IN5291862812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-IN5291862812_UHD.jpg)|
-||*Copyright: Minnesota State Capitol, St. Paul, Minnesota, United States (© lavin photography/Getty Images)*
+|2025-05-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LeopardMother_EN-IN5457215640_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardMother_EN-IN5457215640_UHD.jpg)|
+||*Copyright: Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2025-05-11|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_PT-BR2639700452_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_PT-BR2639700452_UHD.jpg)|
-||*Copyright: Capitólio do Estado de Minnesota, St. Paul, Minnesota, EUA (© lavin photography/Getty Images)*
+|2025-05-12|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.LeopardMother_PT-BR3379909644_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardMother_PT-BR3379909644_UHD.jpg)|
+||*Copyright: Mãe leopardo com seu filhote, Jao Camp, Botsuana (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2025-05-10|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-FR7400861841_UHD.jpg)|
-||*Copyright: Capitole de l'État du Minnesota, St. Paul, États-Unis (© lavin photography/Getty Images)*
+|2025-05-11|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TorresChile_FR-FR7071695988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TorresChile_FR-FR7071695988_UHD.jpg)|
+||*Copyright: Parc national Torres del Paine, Patagonie, Chili (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2025-05-10|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.HeidelbergSpring_DE-DE1255336849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HeidelbergSpring_DE-DE1255336849_UHD.jpg)|
-||*Copyright: Blick auf Heidelberg und das Heidelberger Schloss im Frühling, Baden-Württemberg (© anyaivanova/Getty Images)*
+|2025-05-11|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LeopardMother_DE-DE4781516786_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardMother_DE-DE4781516786_UHD.jpg)|
+||*Copyright: Leopardin leckt ihr Junges, Jao Reservat, Botswana (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2025-05-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-CA2092943439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-CA2092943439_UHD.jpg)|
-||*Copyright: Minnesota State Capitol, St. Paul, Minnesota, United States (© lavin photography/Getty Images)*
+|2025-05-12|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LeopardMother_EN-CA2344528302_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardMother_EN-CA2344528302_UHD.jpg)|
+||*Copyright: Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2025-05-10|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-GB8105337991_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-GB8105337991_UHD.jpg)|
-||*Copyright: Minnesota State Capitol, St Paul, Minnesota, United States (© lavin photography/Getty Images)*
+|2025-05-11|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.YohoNP_EN-GB5512544828_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YohoNP_EN-GB5512544828_UHD.jpg)|
+||*Copyright: Yoho National Park, British Columbia, Canada (© Feng Wei Photography/Getty Images)*
 ||
 |||
-|2025-05-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_IT-IT5434409102_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_IT-IT5434409102_UHD.jpg)|
-||*Copyright: Campidoglio del Minnesota, St. Paul, Minnesota, USA (© lavin photography/Getty Images)*
+|2025-05-11|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.FestaDellaMammaCigni_IT-IT8623843601_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FestaDellaMammaCigni_IT-IT8623843601_UHD.jpg)|
+||*Copyright: Cigno reale con i suoi piccoli, Lago di Garda, Lombardia (© Marcus Siebert/imageBROKER)*
 ||
 |||
-|2025-05-10|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_ES-ES1077273863_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_ES-ES1077273863_UHD.jpg)|
-||*Copyright: Capitolio del Estado de Minnesota, St. Paul, Minnesota, EE.UU. (© lavin photography/Getty Images)*
+|2025-05-11|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LeopardMother_ES-ES1210066604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardMother_ES-ES1210066604_UHD.jpg)|
+||*Copyright: Madre leopardo acicalando a su cachorro, Reserva de Jao, Botsuana (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2025-05-11|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-CA0618783883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaRotunda_FR-CA0618783883_UHD.jpg)|
-||*Copyright: Capitole de l'État du Minnesota, St. Paul, États-Unis (© lavin photography/Getty Images)*
+|2025-05-12|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.LeopardMother_FR-CA0857002081_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardMother_FR-CA0857002081_UHD.jpg)|
+||*Copyright: Mère léopard qui toilette son petit, Réserve de Jao, Botswana (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
 
