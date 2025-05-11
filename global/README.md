@@ -6,9 +6,9 @@
 ||*Copyright: Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2025-05-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LeopardMother_JA-JP1562347472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardMother_JA-JP1562347472_UHD.jpg)|
-||*Copyright: ヒョウの母子, ボツワナ (© Suzi Eszterhas/Minden Pictures)*
+|2025-05-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IrisGarden_JA-JP1134821751_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_JA-JP1134821751_UHD.jpg)|
+||*Copyright: 菖蒲の花, 東京 (© M.Arai/Getty Images)*
 ||
 |||
 |2025-05-11|**Region: en-IN**||
