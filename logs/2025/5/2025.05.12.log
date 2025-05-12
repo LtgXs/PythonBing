@@ -1,0 +1,60 @@
+
+Program started at 09:32:18
+Operating System Name: Linux
+Operating System Version: #13~24.04.1-Ubuntu SMP Fri Mar 28 23:43:34 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1660-752
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[09:32:18] Start geting CN Bing Wallpaper
+[09:32:19] Successful get url: https://www.bing.com/th?id=OHR.IrisGarden_ZH-CN6226448882_UHD.jpg
+[09:32:19] Image saved to img/background.jpg
+[09:32:19] Info saved to README.md
+[09:32:19] Image saved to history/2025/05/12.md
+[09:32:19] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-12 05:32:19.107338-04:00
+[09:32:19] Successful get url: https://www.bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg
+[09:32:19] Picture infomations saved to  global/en-US/README.md
+[09:32:19] Picture infomations saved to global/en-US/history/2025/05/13_en-US.md
+[09:32:19] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-12 18:32:19.295695+09:00
+[09:32:19] Successful get url: https://www.bing.com/th?id=OHR.IrisGarden_JA-JP1134821751_UHD.jpg
+[09:32:19] Picture infomations saved to  global/ja-JP/README.md
+[09:32:19] Picture infomations saved to global/ja-JP/history/2025/05/12_ja-JP.md
+[09:32:19] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-12 15:02:19.424873+05:30
+[09:32:19] Successful get url: https://www.bing.com/th?id=OHR.IrisGarden_EN-IN5639971173_UHD.jpg
+[09:32:19] Picture infomations saved to  global/en-IN/README.md
+[09:32:19] Picture infomations saved to global/en-IN/history/2025/05/12_en-IN.md
+[09:32:19] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-12 06:32:19.538443-03:00
+[09:32:19] Successful get url: https://www.bing.com/th?id=OHR.IrisGarden_PT-BR4328394964_UHD.jpg
+[09:32:19] Picture infomations saved to  global/pt-BR/README.md
+[09:32:19] Picture infomations saved to global/pt-BR/history/2025/05/13_pt-BR.md
+[09:32:19] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-12 11:32:19.660924+02:00
+[09:32:19] Successful get url: https://www.bing.com/th?id=OHR.IrisGarden_FR-FR6726071094_UHD.jpg
+[09:32:19] Picture infomations saved to  global/fr-FR/README.md
+[09:32:19] Picture infomations saved to global/fr-FR/history/2025/05/12_fr-FR.md
+[09:32:19] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-12 11:32:19.821061+02:00
+[09:32:19] Successful get url: https://www.bing.com/th?id=OHR.IrisGarden_DE-DE8196648954_UHD.jpg
+[09:32:19] Picture infomations saved to  global/de-DE/README.md
+[09:32:19] Picture infomations saved to global/de-DE/history/2025/05/12_de-DE.md
+[09:32:19] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-12 05:32:19.979425-04:00
+[09:32:20] Successful get url: https://www.bing.com/th?id=OHR.IrisGarden_EN-CA2940751368_UHD.jpg
+[09:32:20] Picture infomations saved to  global/en-CA/README.md
+[09:32:20] Picture infomations saved to global/en-CA/history/2025/05/13_en-CA.md
+[09:32:20] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-12 10:32:20.087947+01:00
+[09:32:20] Successful get url: https://www.bing.com/th?id=OHR.IrisGarden_EN-GB5718894577_UHD.jpg
+[09:32:20] Picture infomations saved to  global/en-GB/README.md
+[09:32:20] Picture infomations saved to global/en-GB/history/2025/05/12_en-GB.md
+[09:32:20] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-12 11:32:20.223028+02:00
+[09:32:20] Successful get url: https://www.bing.com/th?id=OHR.IrisGarden_IT-IT5909103768_UHD.jpg
+[09:32:20] Picture infomations saved to  global/it-IT/README.md
+[09:32:20] Picture infomations saved to global/it-IT/history/2025/05/12_it-IT.md
+[09:32:20] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-12 11:32:20.310056+02:00
+[09:32:20] Successful get url: https://www.bing.com/th?id=OHR.IrisGarden_ES-ES1321322600_UHD.jpg
+[09:32:20] Picture infomations saved to  global/es-ES/README.md
+[09:32:20] Picture infomations saved to global/es-ES/history/2025/05/12_es-ES.md
+[09:32:20] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-12 05:32:20.527600-04:00
+[09:32:20] Successful get url: https://www.bing.com/th?id=OHR.IrisGarden_FR-CA1187000407_UHD.jpg
+[09:32:20] Picture infomations saved to  global/fr-CA/README.md
+[09:32:20] Picture infomations saved to global/fr-CA/history/2025/05/13_fr-CA.md
+Program exit at 09:32:20
