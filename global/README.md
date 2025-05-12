@@ -6,9 +6,9 @@
 ||*Copyright: An iris garden in Tokyo, Japan (© M.Arai/Getty Images)*
 ||
 |||
-|2025-05-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IrisGarden_JA-JP1134821751_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_JA-JP1134821751_UHD.jpg)|
-||*Copyright: 菖蒲の花, 東京 (© M.Arai/Getty Images)*
+|2025-05-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TorresChile_JA-JP1840046415_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TorresChile_JA-JP1840046415_UHD.jpg)|
+||*Copyright: トーレス・デル・パイネ国立公園, チリ (© Marco Bottigelli/Getty Images)*
 ||
 |||
 |2025-05-12|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2025-05-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.IrisGarden_IT-IT5909103768_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_IT-IT5909103768_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.IrisGarden_IT-IT1950091459_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_IT-IT1950091459_UHD.jpg)|
 ||*Copyright: Un giardino di iris a Tokyo, Giappone (© M.Arai/Getty Images)*
 ||
 |||
