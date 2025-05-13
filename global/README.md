@@ -6,9 +6,9 @@
 ||*Copyright: Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2025-05-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TorresChile_JA-JP1840046415_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TorresChile_JA-JP1840046415_UHD.jpg)|
-||*Copyright: トーレス・デル・パイネ国立公園, チリ (© Marco Bottigelli/Getty Images)*
+|2025-05-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SardiniaFlavia_JA-JP0105936575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardiniaFlavia_JA-JP0105936575_UHD.jpg)|
+||*Copyright: ポルト・フラビア, イタリア (© Francesco Riccardo Iacomino/Getty Images)*
 ||
 |||
 |2025-05-13|**Region: en-IN**||
