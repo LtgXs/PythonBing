@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg)|
-||*Copyright: An iris garden in Tokyo, Japan (© M.Arai/Getty Images)*
+|2025-05-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg)|
+||*Copyright: Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)*
 ||
 |||
 |2025-05-13|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: トーレス・デル・パイネ国立公園, チリ (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2025-05-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.IrisGarden_EN-IN5639971173_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_EN-IN5639971173_UHD.jpg)|
-||*Copyright: An iris garden in Tokyo, Japan (© M.Arai/Getty Images)*
+|2025-05-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TorresChile_EN-IN5990989233_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TorresChile_EN-IN5990989233_UHD.jpg)|
+||*Copyright: Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2025-05-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.IrisGarden_PT-BR4328394964_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_PT-BR4328394964_UHD.jpg)|
-||*Copyright: Jardim de íris em Tóquio, Japão (© M.Arai/Getty Images)*
+|2025-05-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TorresChile_PT-BR4534692189_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TorresChile_PT-BR4534692189_UHD.jpg)|
+||*Copyright: Parque Nacional Torres del Paine, Patagônia, Chile (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2025-05-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.IrisGarden_FR-FR6726071094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_FR-FR6726071094_UHD.jpg)|
-||*Copyright: Jardin d'iris à Tokyo, Japon (© M.Arai/Getty Images)*
+|2025-05-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CannesFilmFestival_FR-FR6520718255_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CannesFilmFestival_FR-FR6520718255_UHD.jpg)|
+||*Copyright: Baie de Cannes au crépuscule, Côte d'Azur (© Jean-Pierre Pieuchot/Getty Images)*
 ||
 |||
-|2025-05-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.IrisGarden_DE-DE8196648954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_DE-DE8196648954_UHD.jpg)|
-||*Copyright: Irisgarten in Tokio, Japan (© M.Arai/Getty Images)*
+|2025-05-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TorresChile_DE-DE8890780027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TorresChile_DE-DE8890780027_UHD.jpg)|
+||*Copyright: Nationalpark Torres del Paine, Patagonien, Chile (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2025-05-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.IrisGarden_EN-CA2940751368_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_EN-CA2940751368_UHD.jpg)|
-||*Copyright: An iris garden in Tokyo, Japan (© M.Arai/Getty Images)*
+|2025-05-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.YohoNP_EN-CA4325092437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YohoNP_EN-CA4325092437_UHD.jpg)|
+||*Copyright: Yoho National Park, British Columbia (© Feng Wei Photography/Getty Images)*
 ||
 |||
-|2025-05-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.IrisGarden_EN-GB5718894577_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_EN-GB5718894577_UHD.jpg)|
-||*Copyright: An iris garden in Tokyo, Japan (© M.Arai/Getty Images)*
+|2025-05-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TorresChile_EN-GB5907633390_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TorresChile_EN-GB5907633390_UHD.jpg)|
+||*Copyright: Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2025-05-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.IrisGarden_IT-IT1950091459_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_IT-IT1950091459_UHD.jpg)|
-||*Copyright: Un giardino di iris a Tokyo, Giappone (© M.Arai/Getty Images)*
+|2025-05-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TorresChile_IT-IT3039649288_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TorresChile_IT-IT3039649288_UHD.jpg)|
+||*Copyright: Parco Nazionale Torres del Paine, Patagonia, Cile (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2025-05-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.IrisGarden_ES-ES1321322600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_ES-ES1321322600_UHD.jpg)|
-||*Copyright: Un jardín de iris en Tokio, Japón (© M.Arai/Getty Images)*
+|2025-05-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TorresChile_ES-ES1426138638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TorresChile_ES-ES1426138638_UHD.jpg)|
+||*Copyright: Parque Nacional Torres del Paine, Patagonia, Chile (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2025-05-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.IrisGarden_FR-CA1187000407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisGarden_FR-CA1187000407_UHD.jpg)|
-||*Copyright: Jardin d'iris à Tokyo, Japon (© M.Arai/Getty Images)*
+|2025-05-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.YohoNP_FR-CA1947033491_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YohoNP_FR-CA1947033491_UHD.jpg)|
+||*Copyright: Mont Burgess et lac Emerald dans le parc national de Yoho, Colombie-Britannique (© Feng Wei Photography/Getty Images)*
 ||
 |||
 
