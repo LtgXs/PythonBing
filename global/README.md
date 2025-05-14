@@ -6,9 +6,9 @@
 ||*Copyright: Porto Flavia, Sardinia, Italy (© Francesco Riccardo Iacomino/Getty Images)*
 ||
 |||
-|2025-05-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SardiniaFlavia_JA-JP0105936575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardiniaFlavia_JA-JP0105936575_UHD.jpg)|
-||*Copyright: ポルト・フラビア, イタリア (© Francesco Riccardo Iacomino/Getty Images)*
+|2025-05-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LondonParliament_JA-JP1032400760_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LondonParliament_JA-JP1032400760_UHD.jpg)|
+||*Copyright: ウェストミンスター宮殿とビッグ・ベン, イギリス (© Puthipong Worasaran/Getty Images)*
 ||
 |||
 |2025-05-14|**Region: en-IN**||

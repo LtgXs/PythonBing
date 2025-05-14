@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:31:19] Picture infomations saved to  global/fr-CA/README.md
 [09:31:19] Picture infomations saved to global/fr-CA/history/2025/05/15_fr-CA.md
 Program exit at 09:31:19
+
+Program started at 16:16:50
+Operating System Name: Linux
+Operating System Version: #14~24.04.1-Ubuntu SMP Thu Apr 24 17:41:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az810-457
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:16:50] Start geting CN Bing Wallpaper
+[16:16:50] Successful get url: https://www.bing.com/th?id=OHR.LondonParliament_ZH-CN7089923691_UHD.jpg
+[16:16:51] Image saved to img/background.jpg
+[16:16:51] Info saved to README.md
+[16:16:51] Image saved to history/2025/05/15.md
+[16:16:51] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-14 12:16:51.047597-04:00
+[16:16:51] Successful get url: https://www.bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg
+[16:16:51] Picture infomations saved to  global/en-US/README.md
+[16:16:51] Picture infomations saved to global/en-US/history/2025/05/15_en-US.md
+[16:16:51] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-15 01:16:51.175744+09:00
+[16:16:51] Successful get url: https://www.bing.com/th?id=OHR.LondonParliament_JA-JP1032400760_UHD.jpg
+[16:16:51] Picture infomations saved to  global/ja-JP/README.md
+[16:16:51] Picture infomations saved to global/ja-JP/history/2025/05/15_ja-JP.md
+[16:16:51] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-14 21:46:51.329798+05:30
+[16:16:51] Successful get url: https://www.bing.com/th?id=OHR.SardiniaFlavia_EN-IN6165553665_UHD.jpg
+[16:16:51] Picture infomations saved to  global/en-IN/README.md
+[16:16:51] Picture infomations saved to global/en-IN/history/2025/05/14_en-IN.md
+[16:16:51] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-14 13:16:51.461758-03:00
+[16:16:51] Successful get url: https://www.bing.com/th?id=OHR.SardiniaFlavia_PT-BR4719192725_UHD.jpg
+[16:16:51] Picture infomations saved to  global/pt-BR/README.md
+[16:16:51] Picture infomations saved to global/pt-BR/history/2025/05/15_pt-BR.md
+[16:16:51] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-14 18:16:51.632501+02:00
+[16:16:51] Successful get url: https://www.bing.com/th?id=OHR.SardiniaFlavia_FR-FR6461309996_UHD.jpg
+[16:16:51] Picture infomations saved to  global/fr-FR/README.md
+[16:16:51] Picture infomations saved to global/fr-FR/history/2025/05/14_fr-FR.md
+[16:16:51] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-14 18:16:51.784591+02:00
+[16:16:51] Successful get url: https://www.bing.com/th?id=OHR.SardiniaFlavia_DE-DE3762608321_UHD.jpg
+[16:16:51] Picture infomations saved to  global/de-DE/README.md
+[16:16:51] Picture infomations saved to global/de-DE/history/2025/05/14_de-DE.md
+[16:16:51] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-14 12:16:51.924066-04:00
+[16:16:51] Successful get url: https://www.bing.com/th?id=OHR.SardiniaFlavia_EN-CA3349516488_UHD.jpg
+[16:16:52] Picture infomations saved to  global/en-CA/README.md
+[16:16:52] Picture infomations saved to global/en-CA/history/2025/05/15_en-CA.md
+[16:16:52] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-14 17:16:52.051471+01:00
+[16:16:52] Successful get url: https://www.bing.com/th?id=OHR.SardiniaFlavia_EN-GB6078302531_UHD.jpg
+[16:16:52] Picture infomations saved to  global/en-GB/README.md
+[16:16:52] Picture infomations saved to global/en-GB/history/2025/05/14_en-GB.md
+[16:16:52] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-14 18:16:52.156493+02:00
+[16:16:52] Successful get url: https://www.bing.com/th?id=OHR.SardiniaFlavia_IT-IT8830916850_UHD.jpg
+[16:16:52] Picture infomations saved to  global/it-IT/README.md
+[16:16:52] Picture infomations saved to global/it-IT/history/2025/05/14_it-IT.md
+[16:16:52] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-14 18:16:52.296214+02:00
+[16:16:52] Successful get url: https://www.bing.com/th?id=OHR.SardiniaFlavia_ES-ES1538171491_UHD.jpg
+[16:16:52] Picture infomations saved to  global/es-ES/README.md
+[16:16:52] Picture infomations saved to global/es-ES/history/2025/05/14_es-ES.md
+[16:16:52] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-14 12:16:52.456781-04:00
+[16:16:52] Successful get url: https://www.bing.com/th?id=OHR.SardiniaFlavia_FR-CA4957926816_UHD.jpg
+[16:16:52] Picture infomations saved to  global/fr-CA/README.md
+[16:16:52] Picture infomations saved to global/fr-CA/history/2025/05/15_fr-CA.md
+Program exit at 16:16:52
