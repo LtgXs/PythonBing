@@ -1,0 +1,60 @@
+
+Program started at 09:31:17
+Operating System Name: Linux
+Operating System Version: #14~24.04.1-Ubuntu SMP Thu Apr 24 17:41:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1692-962
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[09:31:18] Start geting CN Bing Wallpaper
+[09:31:18] Successful get url: https://www.bing.com/th?id=OHR.LondonParliament_ZH-CN7089923691_UHD.jpg
+[09:31:18] Image saved to img/background.jpg
+[09:31:18] Info saved to README.md
+[09:31:18] Image saved to history/2025/05/15.md
+[09:31:18] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-15 05:31:18.133147-04:00
+[09:31:18] Successful get url: https://www.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg
+[09:31:18] Picture infomations saved to  global/en-US/README.md
+[09:31:18] Picture infomations saved to global/en-US/history/2025/05/16_en-US.md
+[09:31:18] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-15 18:31:18.280896+09:00
+[09:31:18] Successful get url: https://www.bing.com/th?id=OHR.LondonParliament_JA-JP1032400760_UHD.jpg
+[09:31:18] Picture infomations saved to  global/ja-JP/README.md
+[09:31:18] Picture infomations saved to global/ja-JP/history/2025/05/15_ja-JP.md
+[09:31:18] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-15 15:01:18.422674+05:30
+[09:31:18] Successful get url: https://www.bing.com/th?id=OHR.LondonParliament_EN-IN4475440939_UHD.jpg
+[09:31:18] Picture infomations saved to  global/en-IN/README.md
+[09:31:18] Picture infomations saved to global/en-IN/history/2025/05/15_en-IN.md
+[09:31:18] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-15 06:31:18.545496-03:00
+[09:31:18] Successful get url: https://www.bing.com/th?id=OHR.LondonParliament_PT-BR5394020420_UHD.jpg
+[09:31:18] Picture infomations saved to  global/pt-BR/README.md
+[09:31:18] Picture infomations saved to global/pt-BR/history/2025/05/16_pt-BR.md
+[09:31:18] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-15 11:31:18.661400+02:00
+[09:31:18] Successful get url: https://www.bing.com/th?id=OHR.LondonParliament_FR-FR8667949776_UHD.jpg
+[09:31:18] Picture infomations saved to  global/fr-FR/README.md
+[09:31:18] Picture infomations saved to global/fr-FR/history/2025/05/15_fr-FR.md
+[09:31:18] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-15 11:31:18.776111+02:00
+[09:31:18] Successful get url: https://www.bing.com/th?id=OHR.LondonParliament_DE-DE1178909686_UHD.jpg
+[09:31:18] Picture infomations saved to  global/de-DE/README.md
+[09:31:18] Picture infomations saved to global/de-DE/history/2025/05/15_de-DE.md
+[09:31:18] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-15 05:31:18.888671-04:00
+[09:31:18] Successful get url: https://www.bing.com/th?id=OHR.LondonParliament_EN-CA6315282224_UHD.jpg
+[09:31:18] Picture infomations saved to  global/en-CA/README.md
+[09:31:18] Picture infomations saved to global/en-CA/history/2025/05/16_en-CA.md
+[09:31:18] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-15 10:31:18.994309+01:00
+[09:31:19] Successful get url: https://www.bing.com/th?id=OHR.LondonParliament_EN-GB2684954699_UHD.jpg
+[09:31:19] Picture infomations saved to  global/en-GB/README.md
+[09:31:19] Picture infomations saved to global/en-GB/history/2025/05/15_en-GB.md
+[09:31:19] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-15 11:31:19.127616+02:00
+[09:31:19] Successful get url: https://www.bing.com/th?id=OHR.LeopardMother_IT-IT3189476011_UHD.jpg
+[09:31:19] Picture infomations saved to  global/it-IT/README.md
+[09:31:19] Picture infomations saved to global/it-IT/history/2025/05/15_it-IT.md
+[09:31:19] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-15 11:31:19.278773+02:00
+[09:31:19] Successful get url: https://www.bing.com/th?id=OHR.SanIsidroMadrid_ES-ES1627425280_UHD.jpg
+[09:31:19] Picture infomations saved to  global/es-ES/README.md
+[09:31:19] Picture infomations saved to global/es-ES/history/2025/05/15_es-ES.md
+[09:31:19] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-15 05:31:19.393525-04:00
+[09:31:19] Successful get url: https://www.bing.com/th?id=OHR.LondonParliament_FR-CA5953075678_UHD.jpg
+[09:31:19] Picture infomations saved to  global/fr-CA/README.md
+[09:31:19] Picture infomations saved to global/fr-CA/history/2025/05/16_fr-CA.md
+Program exit at 09:31:19
