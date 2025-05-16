@@ -6,9 +6,9 @@
 ||*Copyright: Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-05-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Arashiyama2025_JA-JP6326802936_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Arashiyama2025_JA-JP6326802936_UHD.jpg)|
-||*Copyright: 保津川沿いに走るトロッコ列車, 京都 (© Alvin Huang/Getty Images)*
+|2025-05-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.VeniceLagoon_JA-JP6789116059_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceLagoon_JA-JP6789116059_UHD.jpg)|
+||*Copyright: ヴェネツィアの潟, イタリア (© Dimitri Weber/Amazing Aerial Agency)*
 ||
 |||
 |2025-05-16|**Region: en-IN**||
@@ -32,7 +32,7 @@
 ||
 |||
 |2025-05-17|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GreenMacaw_EN-CA2859650234_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenMacaw_EN-CA2859650234_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.GreenMacaw_EN-CA3107033751_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenMacaw_EN-CA3107033751_UHD.jpg)|
 ||*Copyright: Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
