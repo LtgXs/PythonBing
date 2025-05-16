@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg)|
-||*Copyright: Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)*
+|2025-05-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg)|
+||*Copyright: Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
 |2025-05-16|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 保津川沿いに走るトロッコ列車, 京都 (© Alvin Huang/Getty Images)*
 ||
 |||
-|2025-05-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LondonParliament_EN-IN4475440939_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LondonParliament_EN-IN4475440939_UHD.jpg)|
-||*Copyright: Big Ben and Parliament, Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)*
+|2025-05-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HawaMahalIN_EN-IN6116640436_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HawaMahalIN_EN-IN6116640436_UHD.jpg)|
+||*Copyright: Hawa Mahal, Jaipur, Rajasthan (© Travel Wild/Getty Images)*
 ||
 |||
-|2025-05-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LondonParliament_PT-BR5394020420_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LondonParliament_PT-BR5394020420_UHD.jpg)|
-||*Copyright: Big Ben e Parlamento, Palácio de Westminster, Londres, Inglaterra (© Puthipong Worasaran/Getty Images)*
+|2025-05-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GreenMacaw_PT-BR8455225327_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenMacaw_PT-BR8455225327_UHD.jpg)|
+||*Copyright: Arara-verde, México (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-05-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LondonParliament_FR-FR8667949776_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LondonParliament_FR-FR8667949776_UHD.jpg)|
-||*Copyright: Big Ben et le Parlement, Palais de Westminster, Londres, Angleterre (© Puthipong Worasaran/Getty Images)*
+|2025-05-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GreenMacaw_FR-FR5042488002_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenMacaw_FR-FR5042488002_UHD.jpg)|
+||*Copyright: Ara de Buffon, Mexique (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-05-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LondonParliament_DE-DE1178909686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LondonParliament_DE-DE1178909686_UHD.jpg)|
-||*Copyright: Big Ben und Westminster-Palast, London, England (© Puthipong Worasaran/Getty Images)*
+|2025-05-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GreenMacaw_DE-DE4297947779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenMacaw_DE-DE4297947779_UHD.jpg)|
+||*Copyright: Bechsteinara, Mexiko (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-05-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LondonParliament_EN-CA6315282224_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LondonParliament_EN-CA6315282224_UHD.jpg)|
-||*Copyright: Big Ben and Parliament, Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)*
+|2025-05-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GreenMacaw_EN-CA2859650234_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenMacaw_EN-CA2859650234_UHD.jpg)|
+||*Copyright: Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-05-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LondonParliament_EN-GB2684954699_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LondonParliament_EN-GB2684954699_UHD.jpg)|
-||*Copyright: Big Ben and Parliament, Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)*
+|2025-05-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GreenMacaw_EN-GB3705576652_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenMacaw_EN-GB3705576652_UHD.jpg)|
+||*Copyright: Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-05-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LeopardMother_IT-IT3189476011_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardMother_IT-IT3189476011_UHD.jpg)|
-||*Copyright: Madre leopardo con il suo cucciolo, Riserva di Jao, Botswana (© Suzi Eszterhas/Minden Pictures)*
+|2025-05-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.Arashiyama2025_IT-IT8185963195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Arashiyama2025_IT-IT8185963195_UHD.jpg)|
+||*Copyright: Un treno che corre lungo il fiume Hozugawa ad Arashiyama, Kyoto, Giappone (© Alvin Huang/Getty Images)*
 ||
 |||
-|2025-05-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SanIsidroMadrid_ES-ES1627425280_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanIsidroMadrid_ES-ES1627425280_UHD.jpg)|
-||*Copyright: Plaza Mayor de Madrid, España (© Songquan Deng/Shutterstock)*
+|2025-05-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenMacaw_ES-ES6043560768_UHD.jpg)|
+||*Copyright: Guacamayo verde, México (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-05-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LondonParliament_FR-CA5953075678_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LondonParliament_FR-CA5953075678_UHD.jpg)|
-||*Copyright: Big Ben et le Parlement, Palais de Westminster, Londres, Angleterre (© Puthipong Worasaran/Getty Images)*
+|2025-05-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GreenMacaw_FR-CA1774456551_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenMacaw_FR-CA1774456551_UHD.jpg)|
+||*Copyright: Ara de Buffon, Mexique (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
 
