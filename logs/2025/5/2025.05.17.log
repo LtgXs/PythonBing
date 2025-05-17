@@ -1,0 +1,60 @@
+
+Program started at 09:27:59
+Operating System Name: Linux
+Operating System Version: #14~24.04.1-Ubuntu SMP Thu Apr 24 17:41:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1689-488
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[09:27:59] Start geting CN Bing Wallpaper
+[09:27:59] Successful get url: https://www.bing.com/th?id=OHR.VeniceLagoon_ZH-CN3791408491_UHD.jpg
+[09:27:59] Image saved to img/background.jpg
+[09:27:59] Info saved to README.md
+[09:27:59] Image saved to history/2025/05/17.md
+[09:27:59] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-17 05:27:59.592310-04:00
+[09:27:59] Successful get url: https://www.bing.com/th?id=OHR.VeniceLagoon_EN-US3686079353_UHD.jpg
+[09:27:59] Picture infomations saved to  global/en-US/README.md
+[09:27:59] Picture infomations saved to global/en-US/history/2025/05/18_en-US.md
+[09:27:59] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-17 18:27:59.722945+09:00
+[09:27:59] Successful get url: https://www.bing.com/th?id=OHR.VeniceLagoon_JA-JP6789116059_UHD.jpg
+[09:27:59] Picture infomations saved to  global/ja-JP/README.md
+[09:27:59] Picture infomations saved to global/ja-JP/history/2025/05/17_ja-JP.md
+[09:27:59] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-17 14:57:59.859173+05:30
+[09:27:59] Successful get url: https://www.bing.com/th?id=OHR.VeniceLagoon_EN-IN7231112177_UHD.jpg
+[09:27:59] Picture infomations saved to  global/en-IN/README.md
+[09:27:59] Picture infomations saved to global/en-IN/history/2025/05/17_en-IN.md
+[09:27:59] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-17 06:27:59.964806-03:00
+[09:28:00] Successful get url: https://www.bing.com/th?id=OHR.VeniceLagoon_PT-BR8587771940_UHD.jpg
+[09:28:00] Picture infomations saved to  global/pt-BR/README.md
+[09:28:00] Picture infomations saved to global/pt-BR/history/2025/05/18_pt-BR.md
+[09:28:00] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-17 11:28:00.101216+02:00
+[09:28:00] Successful get url: https://www.bing.com/th?id=OHR.VeniceLagoon_FR-FR5243058604_UHD.jpg
+[09:28:00] Picture infomations saved to  global/fr-FR/README.md
+[09:28:00] Picture infomations saved to global/fr-FR/history/2025/05/17_fr-FR.md
+[09:28:00] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-17 11:28:00.230025+02:00
+[09:28:00] Successful get url: https://www.bing.com/th?id=OHR.VeniceLagoon_DE-DE3294862125_UHD.jpg
+[09:28:00] Picture infomations saved to  global/de-DE/README.md
+[09:28:00] Picture infomations saved to global/de-DE/history/2025/05/17_de-DE.md
+[09:28:00] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-17 05:28:00.335919-04:00
+[09:28:00] Successful get url: https://www.bing.com/th?id=OHR.VeniceLagoon_EN-CA3036108114_UHD.jpg
+[09:28:00] Picture infomations saved to  global/en-CA/README.md
+[09:28:00] Picture infomations saved to global/en-CA/history/2025/05/18_en-CA.md
+[09:28:00] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-17 10:28:00.475343+01:00
+[09:28:00] Successful get url: https://www.bing.com/th?id=OHR.VeniceLagoon_EN-GB1187666352_UHD.jpg
+[09:28:00] Picture infomations saved to  global/en-GB/README.md
+[09:28:00] Picture infomations saved to global/en-GB/history/2025/05/17_en-GB.md
+[09:28:00] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-17 11:28:00.564471+02:00
+[09:28:00] Successful get url: https://www.bing.com/th?id=OHR.VeniceLagoon_IT-IT7176917574_UHD.jpg
+[09:28:00] Picture infomations saved to  global/it-IT/README.md
+[09:28:00] Picture infomations saved to global/it-IT/history/2025/05/17_it-IT.md
+[09:28:00] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-17 11:28:00.800955+02:00
+[09:28:00] Successful get url: https://www.bing.com/th?id=OHR.LaGeriaLanzarote_ES-ES6158465086_UHD.jpg
+[09:28:00] Picture infomations saved to  global/es-ES/README.md
+[09:28:00] Picture infomations saved to global/es-ES/history/2025/05/17_es-ES.md
+[09:28:00] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-17 05:28:00.945610-04:00
+[09:28:00] Successful get url: https://www.bing.com/th?id=OHR.VeniceLagoon_FR-CA1959274931_UHD.jpg
+[09:28:01] Picture infomations saved to  global/fr-CA/README.md
+[09:28:01] Picture infomations saved to global/fr-CA/history/2025/05/18_fr-CA.md
+Program exit at 09:28:01
