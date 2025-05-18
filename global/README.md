@@ -6,9 +6,9 @@
 ||*Copyright: 'The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)*
 ||
 |||
-|2025-05-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DufyRoom_JA-JP7244878631_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DufyRoom_JA-JP7244878631_UHD.jpg)|
-||*Copyright: 巨大壁画 電気の精, フランス (© BERTRAND GUAY/AFP via Getty Images)*
+|2025-05-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MountHamilton_JA-JP7427709229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_JA-JP7427709229_UHD.jpg)|
+||*Copyright: ハミルトン山, 米国 カリフォルニア州 (© Jeffrey Lewis/TANDEM Stills + Motion)*
 ||
 |||
 |2025-05-18|**Region: en-IN**||
