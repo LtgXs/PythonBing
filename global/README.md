@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DufyRoom_EN-US3759763345_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DufyRoom_EN-US3759763345_UHD.jpg)|
-||*Copyright: 'The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)*
+|2025-05-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg)|
+||*Copyright: Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)*
 ||
 |||
 |2025-05-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ハミルトン山, 米国 カリフォルニア州 (© Jeffrey Lewis/TANDEM Stills + Motion)*
 ||
 |||
-|2025-05-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.DufyRoom_EN-IN8856962782_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DufyRoom_EN-IN8856962782_UHD.jpg)|
-||*Copyright: 'The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)*
+|2025-05-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MountHamilton_EN-IN9057650660_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_EN-IN9057650660_UHD.jpg)|
+||*Copyright: Mount Hamilton, San Francisco Bay Area, California, United States (© Jeffrey Lewis/TANDEM Stills + Motion)*
 ||
 |||
-|2025-05-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DufyRoom_PT-BR8646491338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DufyRoom_PT-BR8646491338_UHD.jpg)|
-||*Copyright: “A Fada da Eletricidade” por Raoul Dufy, Museu de Arte Moderna, Paris, França (© BERTRAND GUAY/AFP via Getty Images)*
+|2025-05-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TiradentesMinasGerais_PT-BR9045751128_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TiradentesMinasGerais_PT-BR9045751128_UHD.jpg)|
+||*Copyright: Vista aérea ao nascer do sol em Tiradentes, Minas Gerais (© Martinelli73/iStock/Getty Images Plus)*
 ||
 |||
-|2025-05-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DufyRoom_FR-FR5402586518_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DufyRoom_FR-FR5402586518_UHD.jpg)|
-||*Copyright: « La Fée Électricité » de Raoul Dufy, Musée d'art moderne, Paris (© Bertrand Guay/AFP via Getty Images)*
+|2025-05-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.RolandGarros_FR-FR5445830165_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RolandGarros_FR-FR5445830165_UHD.jpg)|
+||*Copyright: Faucon de Harris sur le court Suzanne-Lenglen, stade Roland-Garros, Paris (© Jacques Demarthon/Getty Images)*
 ||
 |||
-|2025-05-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BerlinHistoryMuseum_DE-DE3052163032_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerlinHistoryMuseum_DE-DE3052163032_UHD.jpg)|
-||*Copyright: Pei-Bau des Deutschen Historischen Museums in Berlin (© Westend61/Getty Images)*
+|2025-05-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MountHamilton_DE-DE9789117728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_DE-DE9789117728_UHD.jpg)|
+||*Copyright: Mount Hamilton, San Francisco Bay Area, Kalifornien, USA (© Jeffrey Lewis/TANDEM Stills + Motion)*
 ||
 |||
-|2025-05-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DufyRoom_EN-CA3157009683_UHD.jpg)|
-||*Copyright: 'The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)*
+|2025-05-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.Victoria25Day_EN-CA7366662879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Victoria25Day_EN-CA7366662879_UHD.jpg)|
+||*Copyright: British Columbia Parliament Buildings (© bluejayphoto/Getty Images)*
 ||
 |||
-|2025-05-18|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DufyRoom_EN-GB0919090410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DufyRoom_EN-GB0919090410_UHD.jpg)|
-||*Copyright: 'The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)*
+|2025-05-19|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MountHamilton_EN-GB1454932686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_EN-GB1454932686_UHD.jpg)|
+||*Copyright: Mount Hamilton, San Francisco Bay Area, California, United States (© Jeffrey Lewis/TANDEM Stills + Motion)*
 ||
 |||
-|2025-05-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DufyRoom_IT-IT9020627686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DufyRoom_IT-IT9020627686_UHD.jpg)|
-||*Copyright: "La Fata Elettricità" di Raoul Dufy, Museo d'Arte Moderna, Parigi, Francia (© BERTRAND GUAY/AFP via Getty Images)*
+|2025-05-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.OrecchioDiDionisoSiracusa_IT-IT7033157310_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrecchioDiDionisoSiracusa_IT-IT7033157310_UHD.jpg)|
+||*Copyright: Orecchio di Dionisio, Siracusa, Sicilia (© Jan Wlodarczyk/Alamy Stock Photo)*
 ||
 |||
-|2025-05-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.DufyRoom_ES-ES6280339322_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DufyRoom_ES-ES6280339322_UHD.jpg)|
-||*Copyright: 'The Spirit of Electricity' de Raoul Dufy, Museo de Arte Moderno, París, Francia (© BERTRAND GUAY/AFP via Getty Images)*
+|2025-05-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MountHamilton_ES-ES6396197692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_ES-ES6396197692_UHD.jpg)|
+||*Copyright: Monte Hamilton, Área de la Bahía de San Francisco, California, EE. UU. (© Jeffrey Lewis/TANDEM Stills + Motion)*
 ||
 |||
-|2025-05-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DufyRoom_FR-CA2079016869_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DufyRoom_FR-CA2079016869_UHD.jpg)|
-||*Copyright: « La Fée Électricité » de Raoul Dufy, Musée d'art moderne, Paris (© BERTRAND GUAY/AFP via Getty Images)*
+|2025-05-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.Victoria25Day_FR-CA2242242739_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Victoria25Day_FR-CA2242242739_UHD.jpg)|
+||*Copyright: Édifices du Parlement de la Colombie-Britannique, Victoria (© bluejayphoto/Getty Images)*
 ||
 |||
 
