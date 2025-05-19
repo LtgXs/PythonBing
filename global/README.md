@@ -6,9 +6,9 @@
 ||*Copyright: Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)*
 ||
 |||
-|2025-05-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MountHamilton_JA-JP7427709229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_JA-JP7427709229_UHD.jpg)|
-||*Copyright: ハミルトン山, 米国 カリフォルニア州 (© Jeffrey Lewis/TANDEM Stills + Motion)*
+|2025-05-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_JA-JP7794664698_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_JA-JP7794664698_UHD.jpg)|
+||*Copyright: ラベンダーの花にミツバチ (© Anthony Brown/Alamy)*
 ||
 |||
 |2025-05-19|**Region: en-IN**||
