@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-20|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg)|
-||*Copyright: Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)*
+|2025-05-21|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg)|
+||*Copyright: Honey bee on lavender flowers (© Anthony Brown/Alamy)*
 ||
 |||
 |2025-05-20|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ラベンダーの花にミツバチ (© Anthony Brown/Alamy)*
 ||
 |||
-|2025-05-19|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MountHamilton_EN-IN9057650660_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_EN-IN9057650660_UHD.jpg)|
-||*Copyright: Mount Hamilton, San Francisco Bay Area, California, United States (© Jeffrey Lewis/TANDEM Stills + Motion)*
+|2025-05-20|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-IN9271954892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-IN9271954892_UHD.jpg)|
+||*Copyright: Honey bee on lavender flowers (© Anthony Brown/Alamy Stock Photo)*
 ||
 |||
-|2025-05-20|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TiradentesMinasGerais_PT-BR9045751128_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TiradentesMinasGerais_PT-BR9045751128_UHD.jpg)|
-||*Copyright: Vista aérea ao nascer do sol em Tiradentes, Minas Gerais (© Martinelli73/iStock/Getty Images Plus)*
+|2025-05-21|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_PT-BR9232518610_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_PT-BR9232518610_UHD.jpg)|
+||*Copyright: Abelha sobre flores de lavanda (© Anthony Brown/Alamy)*
 ||
 |||
-|2025-05-19|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.RolandGarros_FR-FR5445830165_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RolandGarros_FR-FR5445830165_UHD.jpg)|
-||*Copyright: Faucon de Harris sur le court Suzanne-Lenglen, stade Roland-Garros, Paris (© Jacques Demarthon/Getty Images)*
+|2025-05-20|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_FR-FR5663317705_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_FR-FR5663317705_UHD.jpg)|
+||*Copyright: Abeille sur des fleurs de lavande (© Anthony Brown/Alamy)*
 ||
 |||
-|2025-05-19|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MountHamilton_DE-DE9789117728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_DE-DE9789117728_UHD.jpg)|
-||*Copyright: Mount Hamilton, San Francisco Bay Area, Kalifornien, USA (© Jeffrey Lewis/TANDEM Stills + Motion)*
+|2025-05-20|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_DE-DE5467752918_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_DE-DE5467752918_UHD.jpg)|
+||*Copyright: Honigbiene auf Lavendelblüte (© Anthony Brown/Alamy)*
 ||
 |||
-|2025-05-20|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Victoria25Day_EN-CA7366662879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Victoria25Day_EN-CA7366662879_UHD.jpg)|
-||*Copyright: British Columbia Parliament Buildings (© bluejayphoto/Getty Images)*
+|2025-05-21|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-CA3333432365_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-CA3333432365_UHD.jpg)|
+||*Copyright: Honey bee on lavender flowers (© Anthony Brown/Alamy Stock Photo)*
 ||
 |||
-|2025-05-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MountHamilton_EN-GB1454932686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_EN-GB1454932686_UHD.jpg)|
-||*Copyright: Mount Hamilton, San Francisco Bay Area, California, United States (© Jeffrey Lewis/TANDEM Stills + Motion)*
+|2025-05-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-GB1571293701_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-GB1571293701_UHD.jpg)|
+||*Copyright: Honey bee on lavender flowers (© Anthony Brown/Alamy Stock Photo)*
 ||
 |||
-|2025-05-19|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OrecchioDiDionisoSiracusa_IT-IT7033157310_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrecchioDiDionisoSiracusa_IT-IT7033157310_UHD.jpg)|
-||*Copyright: Orecchio di Dionisio, Siracusa, Sicilia (© Jan Wlodarczyk/Alamy Stock Photo)*
+|2025-05-20|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_IT-IT3599671311_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_IT-IT3599671311_UHD.jpg)|
+||*Copyright: Ape da miele su fiori di lavanda (© Anthony Brown/Alamy Stock Photo)*
 ||
 |||
-|2025-05-19|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MountHamilton_ES-ES6396197692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_ES-ES6396197692_UHD.jpg)|
-||*Copyright: Monte Hamilton, Área de la Bahía de San Francisco, California, EE. UU. (© Jeffrey Lewis/TANDEM Stills + Motion)*
+|2025-05-20|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_ES-ES6507436350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_ES-ES6507436350_UHD.jpg)|
+||*Copyright: Abeja melífera en flores de lavanda (© Anthony Brown/Alamy)*
 ||
 |||
-|2025-05-20|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Victoria25Day_FR-CA2242242739_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Victoria25Day_FR-CA2242242739_UHD.jpg)|
-||*Copyright: Édifices du Parlement de la Colombie-Britannique, Victoria (© bluejayphoto/Getty Images)*
+|2025-05-21|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_FR-CA2376203032_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_FR-CA2376203032_UHD.jpg)|
+||*Copyright: Abeille sur des fleurs de lavande (© Anthony Brown/Alamy)*
 ||
 |||
 
