@@ -6,9 +6,9 @@
 ||*Copyright: Honey bee on lavender flowers (© Anthony Brown/Alamy)*
 ||
 |||
-|2025-05-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_JA-JP7794664698_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_JA-JP7794664698_UHD.jpg)|
-||*Copyright: ラベンダーの花にミツバチ (© Anthony Brown/Alamy)*
+|2025-05-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_JA-JP8102249895_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_JA-JP8102249895_UHD.jpg)|
+||*Copyright: 楊家堂村の茶園, 中国 浙江省 (© feng xu/Getty Images)*
 ||
 |||
 |2025-05-20|**Region: en-IN**||

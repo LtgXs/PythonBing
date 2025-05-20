@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:32:00] Picture infomations saved to  global/fr-CA/README.md
 [09:32:00] Picture infomations saved to global/fr-CA/history/2025/05/21_fr-CA.md
 Program exit at 09:32:00
+
+Program started at 16:17:02
+Operating System Name: Linux
+Operating System Version: #14~24.04.1-Ubuntu SMP Thu Apr 24 17:41:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1718-125
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:17:02] Start geting CN Bing Wallpaper
+[16:17:02] Successful get url: https://www.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg
+[16:17:02] Image saved to img/background.jpg
+[16:17:02] Info saved to README.md
+[16:17:02] Image saved to history/2025/05/21.md
+[16:17:02] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-20 12:17:02.844512-04:00
+[16:17:02] Successful get url: https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg
+[16:17:02] Picture infomations saved to  global/en-US/README.md
+[16:17:02] Picture infomations saved to global/en-US/history/2025/05/21_en-US.md
+[16:17:02] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-21 01:17:03.020176+09:00
+[16:17:03] Successful get url: https://www.bing.com/th?id=OHR.SongyangTeaGarden_JA-JP8102249895_UHD.jpg
+[16:17:03] Picture infomations saved to  global/ja-JP/README.md
+[16:17:03] Picture infomations saved to global/ja-JP/history/2025/05/21_ja-JP.md
+[16:17:03] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-20 21:47:03.204031+05:30
+[16:17:03] Successful get url: https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-IN9271954892_UHD.jpg
+[16:17:03] Picture infomations saved to  global/en-IN/README.md
+[16:17:03] Picture infomations saved to global/en-IN/history/2025/05/20_en-IN.md
+[16:17:03] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-20 13:17:03.340534-03:00
+[16:17:03] Successful get url: https://www.bing.com/th?id=OHR.HoneyBeeLavender_PT-BR9232518610_UHD.jpg
+[16:17:03] Picture infomations saved to  global/pt-BR/README.md
+[16:17:03] Picture infomations saved to global/pt-BR/history/2025/05/21_pt-BR.md
+[16:17:03] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-20 18:17:03.467859+02:00
+[16:17:03] Successful get url: https://www.bing.com/th?id=OHR.HoneyBeeLavender_FR-FR5663317705_UHD.jpg
+[16:17:03] Picture infomations saved to  global/fr-FR/README.md
+[16:17:03] Picture infomations saved to global/fr-FR/history/2025/05/20_fr-FR.md
+[16:17:03] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-20 18:17:03.592449+02:00
+[16:17:03] Successful get url: https://www.bing.com/th?id=OHR.HoneyBeeLavender_DE-DE5467752918_UHD.jpg
+[16:17:03] Picture infomations saved to  global/de-DE/README.md
+[16:17:03] Picture infomations saved to global/de-DE/history/2025/05/20_de-DE.md
+[16:17:03] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-20 12:17:03.815920-04:00
+[16:17:03] Successful get url: https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-CA3333432365_UHD.jpg
+[16:17:03] Picture infomations saved to  global/en-CA/README.md
+[16:17:03] Picture infomations saved to global/en-CA/history/2025/05/21_en-CA.md
+[16:17:03] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-20 17:17:03.968438+01:00
+[16:17:03] Successful get url: https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-GB1571293701_UHD.jpg
+[16:17:04] Picture infomations saved to  global/en-GB/README.md
+[16:17:04] Picture infomations saved to global/en-GB/history/2025/05/20_en-GB.md
+[16:17:04] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-20 18:17:04.070520+02:00
+[16:17:04] Successful get url: https://www.bing.com/th?id=OHR.HoneyBeeLavender_IT-IT3599671311_UHD.jpg
+[16:17:04] Picture infomations saved to  global/it-IT/README.md
+[16:17:04] Picture infomations saved to global/it-IT/history/2025/05/20_it-IT.md
+[16:17:04] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-20 18:17:04.242487+02:00
+[16:17:04] Successful get url: https://www.bing.com/th?id=OHR.HoneyBeeLavender_ES-ES6507436350_UHD.jpg
+[16:17:04] Picture infomations saved to  global/es-ES/README.md
+[16:17:04] Picture infomations saved to global/es-ES/history/2025/05/20_es-ES.md
+[16:17:04] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-20 12:17:04.483419-04:00
+[16:17:04] Successful get url: https://www.bing.com/th?id=OHR.HoneyBeeLavender_FR-CA2376203032_UHD.jpg
+[16:17:04] Picture infomations saved to  global/fr-CA/README.md
+[16:17:04] Picture infomations saved to global/fr-CA/history/2025/05/21_fr-CA.md
+Program exit at 16:17:04
