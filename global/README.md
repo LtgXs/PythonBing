@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg)|
-||*Copyright: Honey bee on lavender flowers (© Anthony Brown/Alamy)*
+|2025-05-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg)|
+||*Copyright: Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)*
 ||
 |||
 |2025-05-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 楊家堂村の茶園, 中国 浙江省 (© feng xu/Getty Images)*
 ||
 |||
-|2025-05-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-IN9271954892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-IN9271954892_UHD.jpg)|
-||*Copyright: Honey bee on lavender flowers (© Anthony Brown/Alamy Stock Photo)*
+|2025-05-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-IN6965632313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-IN6965632313_UHD.jpg)|
+||*Copyright: Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)*
 ||
 |||
-|2025-05-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_PT-BR9232518610_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_PT-BR9232518610_UHD.jpg)|
-||*Copyright: Abelha sobre flores de lavanda (© Anthony Brown/Alamy)*
+|2025-05-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_PT-BR1905535535_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_PT-BR1905535535_UHD.jpg)|
+||*Copyright: Jardim de chá na Vila Yangjiatang, Condado de Songyang, China (© feng xu/Getty Images)*
 ||
 |||
-|2025-05-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_FR-FR5663317705_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_FR-FR5663317705_UHD.jpg)|
-||*Copyright: Abeille sur des fleurs de lavande (© Anthony Brown/Alamy)*
+|2025-05-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_FR-FR7139710446_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_FR-FR7139710446_UHD.jpg)|
+||*Copyright: Jardin de thé au village de Yangjiatang, comté de Songyang, Chine (© feng xu/Getty Images)*
 ||
 |||
-|2025-05-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_DE-DE5467752918_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_DE-DE5467752918_UHD.jpg)|
-||*Copyright: Honigbiene auf Lavendelblüte (© Anthony Brown/Alamy)*
+|2025-05-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_DE-DE9062718883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_DE-DE9062718883_UHD.jpg)|
+||*Copyright: Teegarten im Dorf Yangjiatang, Kreis Songyang, China (© feng xu/Getty Images)*
 ||
 |||
-|2025-05-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-CA3333432365_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-CA3333432365_UHD.jpg)|
-||*Copyright: Honey bee on lavender flowers (© Anthony Brown/Alamy Stock Photo)*
+|2025-05-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-CA2173988979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-CA2173988979_UHD.jpg)|
+||*Copyright: Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)*
 ||
 |||
-|2025-05-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-GB1571293701_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-GB1571293701_UHD.jpg)|
-||*Copyright: Honey bee on lavender flowers (© Anthony Brown/Alamy Stock Photo)*
+|2025-05-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-GB1249285284_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-GB1249285284_UHD.jpg)|
+||*Copyright: Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)*
 ||
 |||
-|2025-05-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_IT-IT3599671311_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_IT-IT3599671311_UHD.jpg)|
-||*Copyright: Ape da miele su fiori di lavanda (© Anthony Brown/Alamy Stock Photo)*
+|2025-05-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_IT-IT7668449954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_IT-IT7668449954_UHD.jpg)|
+||*Copyright: Giardino del tè nel villaggio di Yangjiatang, contea di Songyang, Cina (© feng xu/Getty Images)*
 ||
 |||
-|2025-05-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_ES-ES6507436350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_ES-ES6507436350_UHD.jpg)|
-||*Copyright: Abeja melífera en flores de lavanda (© Anthony Brown/Alamy)*
+|2025-05-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_ES-ES6785967738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_ES-ES6785967738_UHD.jpg)|
+||*Copyright: Jardín de té en la aldea de Yangjiatang, condado de Songyang, China (© feng xu/Getty Images)*
 ||
 |||
-|2025-05-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HoneyBeeLavender_FR-CA2376203032_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoneyBeeLavender_FR-CA2376203032_UHD.jpg)|
-||*Copyright: Abeille sur des fleurs de lavande (© Anthony Brown/Alamy)*
+|2025-05-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_FR-CA2527567665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_FR-CA2527567665_UHD.jpg)|
+||*Copyright: Jardin de thé au village de Yangjiatang, comté de Songyang, Chine (© feng xu/Getty Images)*
 ||
 |||
 
