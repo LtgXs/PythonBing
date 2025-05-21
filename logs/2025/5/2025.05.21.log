@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:32:15] Picture infomations saved to  global/fr-CA/README.md
 [09:32:15] Picture infomations saved to global/fr-CA/history/2025/05/22_fr-CA.md
 Program exit at 09:32:15
+
+Program started at 16:17:12
+Operating System Name: Linux
+Operating System Version: #14~24.04.1-Ubuntu SMP Thu Apr 24 17:41:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az2207-420
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:17:12] Start geting CN Bing Wallpaper
+[16:17:12] Successful get url: https://www.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg
+[16:17:12] Image saved to img/background.jpg
+[16:17:12] Info saved to README.md
+[16:17:12] Image saved to history/2025/05/22.md
+[16:17:12] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-21 12:17:12.486794-04:00
+[16:17:12] Successful get url: https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg
+[16:17:12] Picture infomations saved to  global/en-US/README.md
+[16:17:12] Picture infomations saved to global/en-US/history/2025/05/22_en-US.md
+[16:17:12] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-22 01:17:12.601435+09:00
+[16:17:12] Successful get url: https://www.bing.com/th?id=OHR.BaobabAvenue_JA-JP8303382337_UHD.jpg
+[16:17:12] Picture infomations saved to  global/ja-JP/README.md
+[16:17:12] Picture infomations saved to global/ja-JP/history/2025/05/22_ja-JP.md
+[16:17:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-21 21:47:12.818062+05:30
+[16:17:12] Successful get url: https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-IN6965632313_UHD.jpg
+[16:17:12] Picture infomations saved to  global/en-IN/README.md
+[16:17:12] Picture infomations saved to global/en-IN/history/2025/05/21_en-IN.md
+[16:17:12] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-21 13:17:12.932443-03:00
+[16:17:12] Successful get url: https://www.bing.com/th?id=OHR.SongyangTeaGarden_PT-BR1905535535_UHD.jpg
+[16:17:13] Picture infomations saved to  global/pt-BR/README.md
+[16:17:13] Picture infomations saved to global/pt-BR/history/2025/05/22_pt-BR.md
+[16:17:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-21 18:17:13.024665+02:00
+[16:17:13] Successful get url: https://www.bing.com/th?id=OHR.SongyangTeaGarden_FR-FR7139710446_UHD.jpg
+[16:17:13] Picture infomations saved to  global/fr-FR/README.md
+[16:17:13] Picture infomations saved to global/fr-FR/history/2025/05/21_fr-FR.md
+[16:17:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-21 18:17:13.444888+02:00
+[16:17:13] Successful get url: https://www.bing.com/th?id=OHR.SongyangTeaGarden_DE-DE9062718883_UHD.jpg
+[16:17:13] Picture infomations saved to  global/de-DE/README.md
+[16:17:13] Picture infomations saved to global/de-DE/history/2025/05/21_de-DE.md
+[16:17:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-21 12:17:13.808583-04:00
+[16:17:13] Successful get url: https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-CA2173988979_UHD.jpg
+[16:17:13] Picture infomations saved to  global/en-CA/README.md
+[16:17:13] Picture infomations saved to global/en-CA/history/2025/05/22_en-CA.md
+[16:17:13] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-21 17:17:13.995498+01:00
+[16:17:14] Successful get url: https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-GB1249285284_UHD.jpg
+[16:17:14] Picture infomations saved to  global/en-GB/README.md
+[16:17:14] Picture infomations saved to global/en-GB/history/2025/05/21_en-GB.md
+[16:17:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-21 18:17:14.286846+02:00
+[16:17:14] Successful get url: https://www.bing.com/th?id=OHR.SongyangTeaGarden_IT-IT7668449954_UHD.jpg
+[16:17:14] Picture infomations saved to  global/it-IT/README.md
+[16:17:14] Picture infomations saved to global/it-IT/history/2025/05/21_it-IT.md
+[16:17:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-21 18:17:14.695340+02:00
+[16:17:14] Successful get url: https://www.bing.com/th?id=OHR.SongyangTeaGarden_ES-ES6785967738_UHD.jpg
+[16:17:14] Picture infomations saved to  global/es-ES/README.md
+[16:17:14] Picture infomations saved to global/es-ES/history/2025/05/21_es-ES.md
+[16:17:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-21 12:17:14.857789-04:00
+[16:17:14] Successful get url: https://www.bing.com/th?id=OHR.SongyangTeaGarden_FR-CA2527567665_UHD.jpg
+[16:17:15] Picture infomations saved to  global/fr-CA/README.md
+[16:17:15] Picture infomations saved to global/fr-CA/history/2025/05/22_fr-CA.md
+Program exit at 16:17:15

@@ -6,9 +6,9 @@
 ||*Copyright: Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)*
 ||
 |||
-|2025-05-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_JA-JP8102249895_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_JA-JP8102249895_UHD.jpg)|
-||*Copyright: 楊家堂村の茶園, 中国 浙江省 (© feng xu/Getty Images)*
+|2025-05-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BaobabAvenue_JA-JP8303382337_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BaobabAvenue_JA-JP8303382337_UHD.jpg)|
+||*Copyright: バオバブの巨木, マダガスカル (© Framalicious/Shutterstock)*
 ||
 |||
 |2025-05-21|**Region: en-IN**||
