@@ -6,9 +6,9 @@
 ||*Copyright: Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)*
 ||
 |||
-|2025-05-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BaobabAvenue_JA-JP8303382337_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BaobabAvenue_JA-JP8303382337_UHD.jpg)|
-||*Copyright: バオバブの巨木, マダガスカル (© Framalicious/Shutterstock)*
+|2025-05-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ButterflyTurtle_JA-JP8547745457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyTurtle_JA-JP8547745457_UHD.jpg)|
+||*Copyright: モンキヨコクビガメ, エクアドル (© Westend61/Getty Images)*
 ||
 |||
 |2025-05-22|**Region: en-IN**||

@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:31:48] Picture infomations saved to  global/fr-CA/README.md
 [09:31:48] Picture infomations saved to global/fr-CA/history/2025/05/23_fr-CA.md
 Program exit at 09:31:48
+
+Program started at 16:17:08
+Operating System Name: Linux
+Operating System Version: #14~24.04.1-Ubuntu SMP Thu Apr 24 17:41:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az816-655
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:17:08] Start geting CN Bing Wallpaper
+[16:17:08] Successful get url: https://www.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg
+[16:17:08] Image saved to img/background.jpg
+[16:17:08] Info saved to README.md
+[16:17:08] Image saved to history/2025/05/23.md
+[16:17:08] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-22 12:17:08.607868-04:00
+[16:17:08] Successful get url: https://www.bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg
+[16:17:08] Picture infomations saved to  global/en-US/README.md
+[16:17:08] Picture infomations saved to global/en-US/history/2025/05/23_en-US.md
+[16:17:08] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-23 01:17:08.772610+09:00
+[16:17:08] Successful get url: https://www.bing.com/th?id=OHR.ButterflyTurtle_JA-JP8547745457_UHD.jpg
+[16:17:08] Picture infomations saved to  global/ja-JP/README.md
+[16:17:08] Picture infomations saved to global/ja-JP/history/2025/05/23_ja-JP.md
+[16:17:08] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-22 21:47:08.962559+05:30
+[16:17:08] Successful get url: https://www.bing.com/th?id=OHR.BaobabAvenue_EN-IN7222797871_UHD.jpg
+[16:17:09] Picture infomations saved to  global/en-IN/README.md
+[16:17:09] Picture infomations saved to global/en-IN/history/2025/05/22_en-IN.md
+[16:17:09] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-22 13:17:09.123344-03:00
+[16:17:09] Successful get url: https://www.bing.com/th?id=OHR.BaobabAvenue_PT-BR2482029960_UHD.jpg
+[16:17:09] Picture infomations saved to  global/pt-BR/README.md
+[16:17:09] Picture infomations saved to global/pt-BR/history/2025/05/23_pt-BR.md
+[16:17:09] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-22 18:17:09.302912+02:00
+[16:17:09] Successful get url: https://www.bing.com/th?id=OHR.BaobabAvenue_FR-FR7374715565_UHD.jpg
+[16:17:09] Picture infomations saved to  global/fr-FR/README.md
+[16:17:09] Picture infomations saved to global/fr-FR/history/2025/05/22_fr-FR.md
+[16:17:09] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-22 18:17:09.447590+02:00
+[16:17:09] Successful get url: https://www.bing.com/th?id=OHR.BaobabAvenue_DE-DE3139251925_UHD.jpg
+[16:17:09] Picture infomations saved to  global/de-DE/README.md
+[16:17:09] Picture infomations saved to global/de-DE/history/2025/05/22_de-DE.md
+[16:17:09] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-22 12:17:09.609485-04:00
+[16:17:09] Successful get url: https://www.bing.com/th?id=OHR.BaobabAvenue_EN-CA4109713138_UHD.jpg
+[16:17:09] Picture infomations saved to  global/en-CA/README.md
+[16:17:09] Picture infomations saved to global/en-CA/history/2025/05/23_en-CA.md
+[16:17:09] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-22 17:17:09.757259+01:00
+[16:17:09] Successful get url: https://www.bing.com/th?id=OHR.HayFestival2025_EN-GB4662242459_UHD.jpg
+[16:17:09] Picture infomations saved to  global/en-GB/README.md
+[16:17:09] Picture infomations saved to global/en-GB/history/2025/05/22_en-GB.md
+[16:17:09] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-22 18:17:09.917825+02:00
+[16:17:09] Successful get url: https://www.bing.com/th?id=OHR.BaobabAvenue_IT-IT7755407638_UHD.jpg
+[16:17:10] Picture infomations saved to  global/it-IT/README.md
+[16:17:10] Picture infomations saved to global/it-IT/history/2025/05/22_it-IT.md
+[16:17:10] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-22 18:17:10.111759+02:00
+[16:17:10] Successful get url: https://www.bing.com/th?id=OHR.BaobabAvenue_ES-ES6995432921_UHD.jpg
+[16:17:10] Picture infomations saved to  global/es-ES/README.md
+[16:17:10] Picture infomations saved to global/es-ES/history/2025/05/22_es-ES.md
+[16:17:10] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-22 12:17:10.236473-04:00
+[16:17:10] Successful get url: https://www.bing.com/th?id=OHR.BaobabAvenue_FR-CA2722897206_UHD.jpg
+[16:17:10] Picture infomations saved to  global/fr-CA/README.md
+[16:17:10] Picture infomations saved to global/fr-CA/history/2025/05/23_fr-CA.md
+Program exit at 16:17:10
