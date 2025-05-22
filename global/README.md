@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-22|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg)|
-||*Copyright: Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)*
+|2025-05-23|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg)|
+||*Copyright: Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)*
 ||
 |||
 |2025-05-22|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: バオバブの巨木, マダガスカル (© Framalicious/Shutterstock)*
 ||
 |||
-|2025-05-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-IN6965632313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-IN6965632313_UHD.jpg)|
-||*Copyright: Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)*
+|2025-05-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BaobabAvenue_EN-IN7222797871_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BaobabAvenue_EN-IN7222797871_UHD.jpg)|
+||*Copyright: Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)*
 ||
 |||
-|2025-05-22|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_PT-BR1905535535_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_PT-BR1905535535_UHD.jpg)|
-||*Copyright: Jardim de chá na Vila Yangjiatang, Condado de Songyang, China (© feng xu/Getty Images)*
+|2025-05-23|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BaobabAvenue_PT-BR2482029960_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BaobabAvenue_PT-BR2482029960_UHD.jpg)|
+||*Copyright: Baobás ao pôr-do-sol, Avenida dos Baobás, Madagascar (© Framalicious/Shutterstock)*
 ||
 |||
-|2025-05-21|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_FR-FR7139710446_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_FR-FR7139710446_UHD.jpg)|
-||*Copyright: Jardin de thé au village de Yangjiatang, comté de Songyang, Chine (© feng xu/Getty Images)*
+|2025-05-22|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BaobabAvenue_FR-FR7374715565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BaobabAvenue_FR-FR7374715565_UHD.jpg)|
+||*Copyright: Baobabs au coucher du soleil, allée des Baobabs, Madagascar (© Framalicious/Shutterstock)*
 ||
 |||
-|2025-05-21|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_DE-DE9062718883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_DE-DE9062718883_UHD.jpg)|
-||*Copyright: Teegarten im Dorf Yangjiatang, Kreis Songyang, China (© feng xu/Getty Images)*
+|2025-05-22|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BaobabAvenue_DE-DE3139251925_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BaobabAvenue_DE-DE3139251925_UHD.jpg)|
+||*Copyright: Affenbrotbäume bei Sonnenuntergang, Baobab-Allee, Madagaskar (© Framalicious/Shutterstock)*
 ||
 |||
-|2025-05-22|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-CA2173988979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-CA2173988979_UHD.jpg)|
-||*Copyright: Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)*
+|2025-05-23|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BaobabAvenue_EN-CA4109713138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BaobabAvenue_EN-CA4109713138_UHD.jpg)|
+||*Copyright: Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)*
 ||
 |||
-|2025-05-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-GB1249285284_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-GB1249285284_UHD.jpg)|
-||*Copyright: Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)*
+|2025-05-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HayFestival2025_EN-GB4662242459_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HayFestival2025_EN-GB4662242459_UHD.jpg)|
+||*Copyright: A bookshop in Hay-on-Wye, Wales, June 1997 (© Epics/Contributor/Hulton Archive/Getty Images)*
 ||
 |||
-|2025-05-21|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_IT-IT7668449954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_IT-IT7668449954_UHD.jpg)|
-||*Copyright: Giardino del tè nel villaggio di Yangjiatang, contea di Songyang, Cina (© feng xu/Getty Images)*
+|2025-05-22|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BaobabAvenue_IT-IT7755407638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BaobabAvenue_IT-IT7755407638_UHD.jpg)|
+||*Copyright: Alberi di baobab al tramonto, Viale dei Baobab, Madagascar (© Framalicious/Shutterstock)*
 ||
 |||
-|2025-05-21|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_ES-ES6785967738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_ES-ES6785967738_UHD.jpg)|
-||*Copyright: Jardín de té en la aldea de Yangjiatang, condado de Songyang, China (© feng xu/Getty Images)*
+|2025-05-22|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BaobabAvenue_ES-ES6995432921_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BaobabAvenue_ES-ES6995432921_UHD.jpg)|
+||*Copyright: Árboles baobab al atardecer, Avenida de los Baobabs, Madagascar (© Framalicious/Shutterstock)*
 ||
 |||
-|2025-05-22|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SongyangTeaGarden_FR-CA2527567665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SongyangTeaGarden_FR-CA2527567665_UHD.jpg)|
-||*Copyright: Jardin de thé au village de Yangjiatang, comté de Songyang, Chine (© feng xu/Getty Images)*
+|2025-05-23|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BaobabAvenue_FR-CA2722897206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BaobabAvenue_FR-CA2722897206_UHD.jpg)|
+||*Copyright: Baobabs au coucher du soleil, allée des Baobabs, Madagascar (© Framalicious/Shutterstock)*
 ||
 |||
 
