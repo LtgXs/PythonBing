@@ -6,9 +6,9 @@
 ||*Copyright: A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)*
 ||
 |||
-|2025-05-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ButterflyTurtle_JA-JP8547745457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyTurtle_JA-JP8547745457_UHD.jpg)|
-||*Copyright: モンキヨコクビガメ, エクアドル (© Westend61/Getty Images)*
+|2025-05-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IrisSanguinea2025_JA-JP5445202799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisSanguinea2025_JA-JP5445202799_UHD.jpg)|
+||*Copyright: 水郷佐原あやめパーク, 千葉県 香取市 (© MIXA/Getty Images)*
 ||
 |||
 |2025-05-23|**Region: en-IN**||
