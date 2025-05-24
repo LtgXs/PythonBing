@@ -1,0 +1,60 @@
+
+Program started at 09:27:34
+Operating System Name: Linux
+Operating System Version: #14~24.04.1-Ubuntu SMP Thu Apr 24 17:41:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1392-797
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[09:27:34] Start geting CN Bing Wallpaper
+[09:27:34] Successful get url: https://www.bing.com/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg
+[09:27:34] Image saved to img/background.jpg
+[09:27:34] Info saved to README.md
+[09:27:34] Image saved to history/2025/05/24.md
+[09:27:34] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-24 05:27:34.453554-04:00
+[09:27:34] Successful get url: https://www.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg
+[09:27:34] Picture infomations saved to  global/en-US/README.md
+[09:27:34] Picture infomations saved to global/en-US/history/2025/05/25_en-US.md
+[09:27:34] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-24 18:27:34.629423+09:00
+[09:27:34] Successful get url: https://www.bing.com/th?id=OHR.IrisSanguinea2025_JA-JP5445202799_UHD.jpg
+[09:27:34] Picture infomations saved to  global/ja-JP/README.md
+[09:27:34] Picture infomations saved to global/ja-JP/history/2025/05/24_ja-JP.md
+[09:27:34] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-24 14:57:34.757867+05:30
+[09:27:34] Successful get url: https://www.bing.com/th?id=OHR.JotunheimenPark_EN-IN7530347754_UHD.jpg
+[09:27:34] Picture infomations saved to  global/en-IN/README.md
+[09:27:34] Picture infomations saved to global/en-IN/history/2025/05/24_en-IN.md
+[09:27:34] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-24 06:27:34.922724-03:00
+[09:27:34] Successful get url: https://www.bing.com/th?id=OHR.JotunheimenPark_PT-BR4332808670_UHD.jpg
+[09:27:35] Picture infomations saved to  global/pt-BR/README.md
+[09:27:35] Picture infomations saved to global/pt-BR/history/2025/05/25_pt-BR.md
+[09:27:35] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-24 11:27:35.044550+02:00
+[09:27:35] Successful get url: https://www.bing.com/th?id=OHR.JotunheimenPark_FR-FR7711143719_UHD.jpg
+[09:27:35] Picture infomations saved to  global/fr-FR/README.md
+[09:27:35] Picture infomations saved to global/fr-FR/history/2025/05/24_fr-FR.md
+[09:27:35] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-24 11:27:35.174969+02:00
+[09:27:35] Successful get url: https://www.bing.com/th?id=OHR.JotunheimenPark_DE-DE8444693160_UHD.jpg
+[09:27:35] Picture infomations saved to  global/de-DE/README.md
+[09:27:35] Picture infomations saved to global/de-DE/history/2025/05/24_de-DE.md
+[09:27:35] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-24 05:27:35.304121-04:00
+[09:27:35] Successful get url: https://www.bing.com/th?id=OHR.JotunheimenPark_EN-CA6567383314_UHD.jpg
+[09:27:35] Picture infomations saved to  global/en-CA/README.md
+[09:27:35] Picture infomations saved to global/en-CA/history/2025/05/25_en-CA.md
+[09:27:35] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-24 10:27:35.447565+01:00
+[09:27:35] Successful get url: https://www.bing.com/th?id=OHR.JotunheimenPark_EN-GB2812229668_UHD.jpg
+[09:27:35] Picture infomations saved to  global/en-GB/README.md
+[09:27:35] Picture infomations saved to global/en-GB/history/2025/05/24_en-GB.md
+[09:27:35] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-24 11:27:35.558753+02:00
+[09:27:35] Successful get url: https://www.bing.com/th?id=OHR.JotunheimenPark_IT-IT9090188682_UHD.jpg
+[09:27:35] Picture infomations saved to  global/it-IT/README.md
+[09:27:35] Picture infomations saved to global/it-IT/history/2025/05/24_it-IT.md
+[09:27:35] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-24 11:27:35.664285+02:00
+[09:27:35] Successful get url: https://www.bing.com/th?id=OHR.CordobaFairMay_ES-ES7420260422_UHD.jpg
+[09:27:35] Picture infomations saved to  global/es-ES/README.md
+[09:27:35] Picture infomations saved to global/es-ES/history/2025/05/24_es-ES.md
+[09:27:35] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-24 05:27:35.775055-04:00
+[09:27:35] Successful get url: https://www.bing.com/th?id=OHR.JotunheimenPark_FR-CA0876606213_UHD.jpg
+[09:27:35] Picture infomations saved to  global/fr-CA/README.md
+[09:27:35] Picture infomations saved to global/fr-CA/history/2025/05/25_fr-CA.md
+Program exit at 09:27:35

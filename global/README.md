@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg)|
-||*Copyright: A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)*
+|2025-05-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg)|
+||*Copyright: Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)*
 ||
 |||
 |2025-05-24|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 水郷佐原あやめパーク, 千葉県 香取市 (© MIXA/Getty Images)*
 ||
 |||
-|2025-05-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ButterflyTurtle_EN-IN7378269591_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyTurtle_EN-IN7378269591_UHD.jpg)|
-||*Copyright: A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)*
+|2025-05-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.JotunheimenPark_EN-IN7530347754_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JotunheimenPark_EN-IN7530347754_UHD.jpg)|
+||*Copyright: Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)*
 ||
 |||
-|2025-05-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ButterflyTurtle_PT-BR4108571272_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyTurtle_PT-BR4108571272_UHD.jpg)|
-||*Copyright: Borboleta Julia no nariz de uma tartaruga de orelha amarela, Região Amazônica, Equador (© Westend61/Getty Images)*
+|2025-05-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.JotunheimenPark_PT-BR4332808670_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JotunheimenPark_PT-BR4332808670_UHD.jpg)|
+||*Copyright: Parque Nacional de Jotunheimen na Noruega (© Marisa Estivill/Shutterstock)*
 ||
 |||
-|2025-05-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ButterflyTurtle_FR-FR7508748446_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyTurtle_FR-FR7508748446_UHD.jpg)|
-||*Copyright: Tortue cistude avec un papillon flambeau sur le nez, Amazonie Équatorienne (© Westend61/Getty Images)*
+|2025-05-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.JotunheimenPark_FR-FR7711143719_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JotunheimenPark_FR-FR7711143719_UHD.jpg)|
+||*Copyright: Parc national de Jotunheimen, Norvège (© Marisa Estivill/Shutterstock)*
 ||
 |||
-|2025-05-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ButterflyTurtle_DE-DE3016646216_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyTurtle_DE-DE3016646216_UHD.jpg)|
-||*Copyright: Julia-Falter auf der Nase einer Terekay-Schienenschildkröte, Amazonasgebiet, Ecuador (© Westend61/Getty Images)*
+|2025-05-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.JotunheimenPark_DE-DE8444693160_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JotunheimenPark_DE-DE8444693160_UHD.jpg)|
+||*Copyright: Jotunheimen-Nationalpark in Norwegen (© Marisa Estivill/Shutterstock)*
 ||
 |||
-|2025-05-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ButterflyTurtle_EN-CA4244988896_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyTurtle_EN-CA4244988896_UHD.jpg)|
-||*Copyright: A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)*
+|2025-05-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.JotunheimenPark_EN-CA6567383314_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JotunheimenPark_EN-CA6567383314_UHD.jpg)|
+||*Copyright: Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)*
 ||
 |||
-|2025-05-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ButterflyTurtle_EN-GB1506456980_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyTurtle_EN-GB1506456980_UHD.jpg)|
-||*Copyright: A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)*
+|2025-05-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.JotunheimenPark_EN-GB2812229668_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JotunheimenPark_EN-GB2812229668_UHD.jpg)|
+||*Copyright: Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)*
 ||
 |||
-|2025-05-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ButterflyTurtle_IT-IT7843435777_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyTurtle_IT-IT7843435777_UHD.jpg)|
-||*Copyright: Una Farfalla Julia sul naso di una Tartaruga Amazzonica, Regione amazzonica, Ecuador (© Westend61/Getty Images)*
+|2025-05-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.JotunheimenPark_IT-IT9090188682_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JotunheimenPark_IT-IT9090188682_UHD.jpg)|
+||*Copyright: Parco Nazionale di Jotunheimen, Norvegia (© Marisa Estivill/Shutterstock)*
 ||
 |||
-|2025-05-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ButterflyTurtle_ES-ES7080957238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyTurtle_ES-ES7080957238_UHD.jpg)|
-||*Copyright: Una mariposa Julia en la nariz de una tortuga de río, Región Amazónica, Ecuador (© Westend61/Getty Images)*
+|2025-05-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CordobaFairMay_ES-ES7420260422_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaFairMay_ES-ES7420260422_UHD.jpg)|
+||*Copyright: Córdoba, Andalucía, España (© Jose Lucas/Alamy Stock Photo)*
 ||
 |||
-|2025-05-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ButterflyTurtle_FR-CA3115454913_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyTurtle_FR-CA3115454913_UHD.jpg)|
-||*Copyright: Tortue cistude avec un papillon flambeau sur le nez, Amazonie Équatorienne (© Westend61/Getty Images)*
+|2025-05-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.JotunheimenPark_FR-CA0876606213_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JotunheimenPark_FR-CA0876606213_UHD.jpg)|
+||*Copyright: Parc national de Jotunheimen, Norvège (© Marisa Estivill/Shutterstock)*
 ||
 |||
 
