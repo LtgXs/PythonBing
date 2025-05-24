@@ -6,9 +6,9 @@
 ||*Copyright: Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)*
 ||
 |||
-|2025-05-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IrisSanguinea2025_JA-JP5445202799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrisSanguinea2025_JA-JP5445202799_UHD.jpg)|
-||*Copyright: 水郷佐原あやめパーク, 千葉県 香取市 (© MIXA/Getty Images)*
+|2025-05-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ButchartFlowers_JA-JP0238801462_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButchartFlowers_JA-JP0238801462_UHD.jpg)|
+||*Copyright: ブッチャート・ガーデン,  カナダ ブリティッシュコロンビア州 (© 2009fotofriends/Shutterstock)*
 ||
 |||
 |2025-05-24|**Region: en-IN**||
