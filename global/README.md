@@ -6,9 +6,9 @@
 ||*Copyright: Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)*
 ||
 |||
-|2025-05-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ButchartFlowers_JA-JP0238801462_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButchartFlowers_JA-JP0238801462_UHD.jpg)|
-||*Copyright: ブッチャート・ガーデン,  カナダ ブリティッシュコロンビア州 (© 2009fotofriends/Shutterstock)*
+|2025-05-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.JotunheimenPark_JA-JP7956990214_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JotunheimenPark_JA-JP7956990214_UHD.jpg)|
+||*Copyright: ヨトゥンヘイメン国立公園, ノルウェー (© Marisa Estivill/Shutterstock)*
 ||
 |||
 |2025-05-25|**Region: en-IN**||
