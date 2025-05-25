@@ -1,0 +1,60 @@
+
+Program started at 09:27:32
+Operating System Name: Linux
+Operating System Version: #14~24.04.1-Ubuntu SMP Thu Apr 24 17:41:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1307-9
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[09:27:32] Start geting CN Bing Wallpaper
+[09:27:32] Successful get url: https://www.bing.com/th?id=OHR.ButchartFlowers_ZH-CN6692930571_UHD.jpg
+[09:27:32] Image saved to img/background.jpg
+[09:27:32] Info saved to README.md
+[09:27:32] Image saved to history/2025/05/25.md
+[09:27:32] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-25 05:27:32.926368-04:00
+[09:27:32] Successful get url: https://www.bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg
+[09:27:33] Picture infomations saved to  global/en-US/README.md
+[09:27:33] Picture infomations saved to global/en-US/history/2025/05/26_en-US.md
+[09:27:33] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-25 18:27:33.059068+09:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.ButchartFlowers_JA-JP0238801462_UHD.jpg
+[09:27:33] Picture infomations saved to  global/ja-JP/README.md
+[09:27:33] Picture infomations saved to global/ja-JP/history/2025/05/25_ja-JP.md
+[09:27:33] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-25 14:57:33.186675+05:30
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.ButchartFlowers_EN-IN7712993064_UHD.jpg
+[09:27:33] Picture infomations saved to  global/en-IN/README.md
+[09:27:33] Picture infomations saved to global/en-IN/history/2025/05/25_en-IN.md
+[09:27:33] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-25 06:27:33.300830-03:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.ButchartFlowers_PT-BR7345483854_UHD.jpg
+[09:27:33] Picture infomations saved to  global/pt-BR/README.md
+[09:27:33] Picture infomations saved to global/pt-BR/history/2025/05/26_pt-BR.md
+[09:27:33] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-25 11:27:33.423844+02:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.LeopardMother_FR-FR7857818680_UHD.jpg
+[09:27:33] Picture infomations saved to  global/fr-FR/README.md
+[09:27:33] Picture infomations saved to global/fr-FR/history/2025/05/25_fr-FR.md
+[09:27:33] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-25 11:27:33.665559+02:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.ButchartFlowers_DE-DE6034854764_UHD.jpg
+[09:27:33] Picture infomations saved to  global/de-DE/README.md
+[09:27:33] Picture infomations saved to global/de-DE/history/2025/05/25_de-DE.md
+[09:27:33] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-25 05:27:33.785587-04:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.ButchartFlowers_EN-CA3906895004_UHD.jpg
+[09:27:33] Picture infomations saved to  global/en-CA/README.md
+[09:27:33] Picture infomations saved to global/en-CA/history/2025/05/26_en-CA.md
+[09:27:33] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-25 10:27:33.900676+01:00
+[09:27:33] Successful get url: https://www.bing.com/th?id=OHR.ButchartFlowers_EN-GB2944886711_UHD.jpg
+[09:27:34] Picture infomations saved to  global/en-GB/README.md
+[09:27:34] Picture infomations saved to global/en-GB/history/2025/05/25_en-GB.md
+[09:27:34] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-25 11:27:34.006503+02:00
+[09:27:34] Successful get url: https://www.bing.com/th?id=OHR.ButchartFlowers_IT-IT9191711194_UHD.jpg
+[09:27:34] Picture infomations saved to  global/it-IT/README.md
+[09:27:34] Picture infomations saved to global/it-IT/history/2025/05/25_it-IT.md
+[09:27:34] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-25 11:27:34.124790+02:00
+[09:27:34] Successful get url: https://www.bing.com/th?id=OHR.ButchartFlowers_ES-ES7597902522_UHD.jpg
+[09:27:34] Picture infomations saved to  global/es-ES/README.md
+[09:27:34] Picture infomations saved to global/es-ES/history/2025/05/25_es-ES.md
+[09:27:34] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-25 05:27:34.244118-04:00
+[09:27:34] Successful get url: https://www.bing.com/th?id=OHR.ButchartFlowers_FR-CA3267568015_UHD.jpg
+[09:27:34] Picture infomations saved to  global/fr-CA/README.md
+[09:27:34] Picture infomations saved to global/fr-CA/history/2025/05/26_fr-CA.md
+Program exit at 09:27:34
