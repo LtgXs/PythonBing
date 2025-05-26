@@ -6,9 +6,9 @@
 ||*Copyright: Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)*
 ||
 |||
-|2025-05-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.JotunheimenPark_JA-JP7956990214_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JotunheimenPark_JA-JP7956990214_UHD.jpg)|
-||*Copyright: ヨトゥンヘイメン国立公園, ノルウェー (© Marisa Estivill/Shutterstock)*
+|2025-05-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MonaValePool_JA-JP0665807696_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_JA-JP0665807696_UHD.jpg)|
+||*Copyright: モナベール・ロックプール, オーストラリア (© jamenpercy/Getty Images)*
 ||
 |||
 |2025-05-26|**Region: en-IN**||

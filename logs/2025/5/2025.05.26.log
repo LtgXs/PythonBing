@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:53:45] Picture infomations saved to  global/fr-CA/README.md
 [09:53:45] Picture infomations saved to global/fr-CA/history/2025/05/27_fr-CA.md
 Program exit at 09:53:45
+
+Program started at 16:15:57
+Operating System Name: Linux
+Operating System Version: #14~24.04.1-Ubuntu SMP Thu Apr 24 17:41:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1696-845
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:15:57] Start geting CN Bing Wallpaper
+[16:15:57] Successful get url: https://www.bing.com/th?id=OHR.MonaValePool_ZH-CN7968271596_UHD.jpg
+[16:15:57] Image saved to img/background.jpg
+[16:15:57] Info saved to README.md
+[16:15:57] Image saved to history/2025/05/27.md
+[16:15:57] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-26 12:15:57.690176-04:00
+[16:15:57] Successful get url: https://www.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg
+[16:15:57] Picture infomations saved to  global/en-US/README.md
+[16:15:57] Picture infomations saved to global/en-US/history/2025/05/27_en-US.md
+[16:15:57] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-05-27 01:15:57.868678+09:00
+[16:15:57] Successful get url: https://www.bing.com/th?id=OHR.MonaValePool_JA-JP0665807696_UHD.jpg
+[16:15:58] Picture infomations saved to  global/ja-JP/README.md
+[16:15:58] Picture infomations saved to global/ja-JP/history/2025/05/27_ja-JP.md
+[16:15:58] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-26 21:45:58.029445+05:30
+[16:15:58] Successful get url: https://www.bing.com/th?id=OHR.AgrasenKiBaoli_EN-IN6234444944_UHD.jpg
+[16:15:58] Picture infomations saved to  global/en-IN/README.md
+[16:15:58] Picture infomations saved to global/en-IN/history/2025/05/26_en-IN.md
+[16:15:58] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-26 13:15:58.190295-03:00
+[16:15:58] Successful get url: https://www.bing.com/th?id=OHR.Arashiyama2025_PT-BR6176827383_UHD.jpg
+[16:15:58] Picture infomations saved to  global/pt-BR/README.md
+[16:15:58] Picture infomations saved to global/pt-BR/history/2025/05/27_pt-BR.md
+[16:15:58] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-26 18:15:58.352115+02:00
+[16:15:58] Successful get url: https://www.bing.com/th?id=OHR.StorksMeadow_FR-FR7891953780_UHD.jpg
+[16:15:58] Picture infomations saved to  global/fr-FR/README.md
+[16:15:58] Picture infomations saved to global/fr-FR/history/2025/05/26_fr-FR.md
+[16:15:58] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-26 18:15:58.521264+02:00
+[16:15:58] Successful get url: https://www.bing.com/th?id=OHR.Arashiyama2025_DE-DE6569977297_UHD.jpg
+[16:15:58] Picture infomations saved to  global/de-DE/README.md
+[16:15:58] Picture infomations saved to global/de-DE/history/2025/05/26_de-DE.md
+[16:15:58] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-26 12:15:58.757443-04:00
+[16:15:58] Successful get url: https://www.bing.com/th?id=OHR.MountHamilton_EN-CA6570980527_UHD.jpg
+[16:15:58] Picture infomations saved to  global/en-CA/README.md
+[16:15:58] Picture infomations saved to global/en-CA/history/2025/05/27_en-CA.md
+[16:15:58] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-26 17:15:58.936884+01:00
+[16:15:59] Successful get url: https://www.bing.com/th?id=OHR.BaobabAvenue_EN-GB3065370914_UHD.jpg
+[16:15:59] Picture infomations saved to  global/en-GB/README.md
+[16:15:59] Picture infomations saved to global/en-GB/history/2025/05/26_en-GB.md
+[16:15:59] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-26 18:15:59.108012+02:00
+[16:15:59] Successful get url: https://www.bing.com/th?id=OHR.MountHamilton_IT-IT9272623470_UHD.jpg
+[16:15:59] Picture infomations saved to  global/it-IT/README.md
+[16:15:59] Picture infomations saved to global/it-IT/history/2025/05/26_it-IT.md
+[16:15:59] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-26 18:15:59.262577+02:00
+[16:15:59] Successful get url: https://www.bing.com/th?id=OHR.Arashiyama2025_ES-ES7691145729_UHD.jpg
+[16:15:59] Picture infomations saved to  global/es-ES/README.md
+[16:15:59] Picture infomations saved to global/es-ES/history/2025/05/26_es-ES.md
+[16:15:59] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-26 12:15:59.438075-04:00
+[16:15:59] Successful get url: https://www.bing.com/th?id=OHR.Arashiyama2025_FR-CA3817610011_UHD.jpg
+[16:15:59] Picture infomations saved to  global/fr-CA/README.md
+[16:15:59] Picture infomations saved to global/fr-CA/history/2025/05/27_fr-CA.md
+Program exit at 16:15:59
