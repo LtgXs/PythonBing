@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-26|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg)|
-||*Copyright: Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)*
+|2025-05-27|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg)|
+||*Copyright: Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)*
 ||
 |||
 |2025-05-26|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ヨトゥンヘイメン国立公園, ノルウェー (© Marisa Estivill/Shutterstock)*
 ||
 |||
-|2025-05-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ButchartFlowers_EN-IN7712993064_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButchartFlowers_EN-IN7712993064_UHD.jpg)|
-||*Copyright: Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)*
+|2025-05-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AgrasenKiBaoli_EN-IN6234444944_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AgrasenKiBaoli_EN-IN6234444944_UHD.jpg)|
+||*Copyright: Agrasen Ki Baoli, Connaught Place, New Delhi (© Neha Gupta/Getty Images)*
 ||
 |||
-|2025-05-26|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ButchartFlowers_PT-BR7345483854_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButchartFlowers_PT-BR7345483854_UHD.jpg)|
-||*Copyright: Jardins de Butchart em Brentwood Bay, Colúmbia Britânica, Canadá (© 2009fotofriends/Shutterstock)*
+|2025-05-27|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Arashiyama2025_PT-BR6176827383_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Arashiyama2025_PT-BR6176827383_UHD.jpg)|
+||*Copyright: Trem ao longo do rio Hozugawa em Arashiyama, Quioto, Japão (© Alvin Huang/Getty Images)*
 ||
 |||
-|2025-05-25|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LeopardMother_FR-FR7857818680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardMother_FR-FR7857818680_UHD.jpg)|
-||*Copyright: Mère léopard qui toilette son petit, Réserve de Jao, Botswana (© Suzi Eszterhas/Minden Pictures)*
+|2025-05-26|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.StorksMeadow_FR-FR7891953780_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StorksMeadow_FR-FR7891953780_UHD.jpg)|
+||*Copyright: Cigognes blanches dans un champ de meules de foin (© Buchet Jean-marc/Wirestock/Adobe Stock)*
 ||
 |||
-|2025-05-25|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ButchartFlowers_DE-DE6034854764_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButchartFlowers_DE-DE6034854764_UHD.jpg)|
-||*Copyright: Butchart Gardens in Brentwood Bay, British Columbia, Kanada (© 2009fotofriends/Shutterstock)*
+|2025-05-26|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.Arashiyama2025_DE-DE6569977297_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Arashiyama2025_DE-DE6569977297_UHD.jpg)|
+||*Copyright: Ein Zug fährt entlang des Hozugawa-Flusses in Arashiyama, Kyoto, Japan (© Alvin Huang/Getty Images)*
 ||
 |||
-|2025-05-26|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ButchartFlowers_EN-CA3906895004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButchartFlowers_EN-CA3906895004_UHD.jpg)|
-||*Copyright: Butchart Gardens in Brentwood Bay, British Columbia (© 2009fotofriends/Shutterstock)*
+|2025-05-27|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MountHamilton_EN-CA6570980527_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_EN-CA6570980527_UHD.jpg)|
+||*Copyright: Mount Hamilton, San Francisco Bay Area, California, United States (© Jeffrey Lewis/TANDEM Stills + Motion)*
 ||
 |||
-|2025-05-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ButchartFlowers_EN-GB2944886711_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButchartFlowers_EN-GB2944886711_UHD.jpg)|
-||*Copyright: Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)*
+|2025-05-26|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BaobabAvenue_EN-GB3065370914_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BaobabAvenue_EN-GB3065370914_UHD.jpg)|
+||*Copyright: Baobab trees, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)*
 ||
 |||
-|2025-05-25|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ButchartFlowers_IT-IT9191711194_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButchartFlowers_IT-IT9191711194_UHD.jpg)|
-||*Copyright: Giardini Butchart a Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)*
+|2025-05-26|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MountHamilton_IT-IT9272623470_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountHamilton_IT-IT9272623470_UHD.jpg)|
+||*Copyright: Mount Hamilton, Baia di San Francisco, California, USA (© Jeffrey Lewis/TANDEM Stills + Motion)*
 ||
 |||
-|2025-05-25|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ButchartFlowers_ES-ES7597902522_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButchartFlowers_ES-ES7597902522_UHD.jpg)|
-||*Copyright: Los Jardines Butchart en Brentwood Bay, Columbia Británica, Canadá (© 2009fotofriends/Shutterstock)*
+|2025-05-26|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.Arashiyama2025_ES-ES7691145729_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Arashiyama2025_ES-ES7691145729_UHD.jpg)|
+||*Copyright: Un tren que circula a lo largo del río Hozugawa en Arashiyama, Kioto, Japón (© Alvin Huang/Getty Images)*
 ||
 |||
-|2025-05-26|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ButchartFlowers_FR-CA3267568015_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButchartFlowers_FR-CA3267568015_UHD.jpg)|
-||*Copyright: Jardins Butchart à Brentwood Bay, Colombie-Britannique (© 2009fotofriends/Shutterstock)*
+|2025-05-27|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.Arashiyama2025_FR-CA3817610011_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Arashiyama2025_FR-CA3817610011_UHD.jpg)|
+||*Copyright: Un train longeant la rivière Hozugawa à Arashiyama, Kyoto, Japon (© Alvin Huang/Getty Images)*
 ||
 |||
 
