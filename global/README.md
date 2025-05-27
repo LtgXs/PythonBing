@@ -6,9 +6,9 @@
 ||*Copyright: Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)*
 ||
 |||
-|2025-05-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MonaValePool_JA-JP0665807696_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_JA-JP0665807696_UHD.jpg)|
-||*Copyright: モナベール・ロックプール, オーストラリア (© jamenpercy/Getty Images)*
+|2025-05-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KelpOtter_JA-JP0838803999_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_JA-JP0838803999_UHD.jpg)|
+||*Copyright: 海藻に巻かれたラッコ, 米国 アラスカ州 (© Gerry Ellis/Minden Pictures)*
 ||
 |||
 |2025-05-27|**Region: en-IN**||
