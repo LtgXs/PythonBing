@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-28|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg)|
-||*Copyright: Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)*
+|2025-05-29|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg)|
+||*Copyright: Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)*
 ||
 |||
 |2025-05-28|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 海藻に巻かれたラッコ, 米国 アラスカ州 (© Gerry Ellis/Minden Pictures)*
 ||
 |||
-|2025-05-27|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MonaValePool_EN-IN8062779367_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_EN-IN8062779367_UHD.jpg)|
-||*Copyright: Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)*
+|2025-05-28|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KelpOtter_EN-IN0989850469_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_EN-IN0989850469_UHD.jpg)|
+||*Copyright: Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge, United States (© Gerry Ellis/Minden Pictures)*
 ||
 |||
-|2025-05-28|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DiaMataAtlantica2025_PT-BR6905728982_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiaMataAtlantica2025_PT-BR6905728982_UHD.jpg)|
-||*Copyright: Rio da Mata Atlântica em Pernambuco (© Pollyana Ventura/Getty Images)*
+|2025-05-29|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.KelpOtter_PT-BR7205269839_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_PT-BR7205269839_UHD.jpg)|
+||*Copyright: Lontra-marinha flutuando entre algas no Refúgio Nacional de Vida Selvagem Marinha do Alasca, EUA (© Gerry Ellis/Minden Pictures)*
 ||
 |||
-|2025-05-27|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MonaValePool_FR-FR8065557035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_FR-FR8065557035_UHD.jpg)|
-||*Copyright: Piscine naturelle de Mona Vale, Sidney, Nouvelle-Galles du Sud, Australie (© jamenpercy/Getty Images)*
+|2025-05-28|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.KelpOtter_FR-FR8247286249_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_FR-FR8247286249_UHD.jpg)|
+||*Copyright: Loutre de mer au milieu de varech, refuge faunique national maritime d'Alaska, États-Unis (© Gerry Ellis/Minden Pictures)*
 ||
 |||
-|2025-05-27|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MonaValePool_DE-DE2862421756_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_DE-DE2862421756_UHD.jpg)|
-||*Copyright: Mona Vale Ozean-Pool, Sydney, Australien (© jamenpercy/Getty Images)*
+|2025-05-28|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.KelpOtter_DE-DE1256617925_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_DE-DE1256617925_UHD.jpg)|
+||*Copyright: Seeotter in einem Seetangbett schwimmend im Alaska Maritime National Wildlife Refuge, USA (© Gerry Ellis/Minden Pictures)(© Gerry Ellis/Minden Pictures)*
 ||
 |||
-|2025-05-28|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MonaValePool_EN-CA6791615646_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_EN-CA6791615646_UHD.jpg)|
-||*Copyright: Mona Vale rockpool, Sydney, Australia (© jamenpercy/Getty Images)*
+|2025-05-29|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.KelpOtter_EN-CA6928733968_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_EN-CA6928733968_UHD.jpg)|
+||*Copyright: Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge, United States (© Gerry Ellis/Minden Pictures)*
 ||
 |||
-|2025-05-27|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MonaValePool_EN-GB2284881837_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_EN-GB2284881837_UHD.jpg)|
-||*Copyright: Mona Vale rockpool, Sydney, Australia (© jamenpercy/Getty Images)*
+|2025-05-28|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.KelpOtter_EN-GB3307429854_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_EN-GB3307429854_UHD.jpg)|
+||*Copyright: Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge, United States (© Gerry Ellis/Minden Pictures)*
 ||
 |||
-|2025-05-27|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OmbrelliMassa_IT-IT4285785207_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OmbrelliMassa_IT-IT4285785207_UHD.jpg)|
-||*Copyright: Ombrelloni simmetrici visti dall'alto, Massa, Toscana (© Abstract Aerial Art/DigitalVision)*
+|2025-05-28|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.KelpOtter_IT-IT4372349313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_IT-IT4372349313_UHD.jpg)|
+||*Copyright: Lontra marina nell'Alaska Maritime National Wildlife Refuge, USA (© Gerry Ellis/Minden Pictures)*
 ||
 |||
-|2025-05-27|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MonaValePool_ES-ES7840857605_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_ES-ES7840857605_UHD.jpg)|
-||*Copyright: Mona Vale rockpool, Sídney, Australia (© jamenpercy/Getty Images)*
+|2025-05-28|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.KelpOtter_ES-ES7948164932_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_ES-ES7948164932_UHD.jpg)|
+||*Copyright: Nutria marina flotando en un lecho de algas en el Refugio Nacional de Vida Silvestre Marítimo de Alaska, EE. UU. (© Gerry Ellis/Minden Pictures)*
 ||
 |||
-|2025-05-28|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MonaValePool_FR-CA3964374381_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_FR-CA3964374381_UHD.jpg)|
-||*Copyright: Piscine naturelle de Mona Vale, Sidney, Nouvelle-Galles du Sud, Australie (© jamenpercy/Getty Images)*
+|2025-05-29|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.KelpOtter_FR-CA4404074931_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_FR-CA4404074931_UHD.jpg)|
+||*Copyright: Loutre de mer au milieu de varech, refuge faunique national maritime d'Alaska, États-Unis (© Gerry Ellis/Minden Pictures)*
 ||
 |||
 
