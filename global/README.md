@@ -6,9 +6,9 @@
 ||*Copyright: Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-05-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MiravetSpain_JA-JP1110549507_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MiravetSpain_JA-JP1110549507_UHD.jpg)|
-||*Copyright: ミラベット, スペイン カタルーニャ州 (© Eloi_Omella/Getty Images)*
+|2025-05-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LittlePigeonRiver_JA-JP4939584633_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LittlePigeonRiver_JA-JP4939584633_UHD.jpg)|
+||*Copyright: グレート・スモーキー山脈国立公園, 米国 テネシー州 (© GreenStock/Getty Images)*
 ||
 |||
 |2025-05-29|**Region: en-IN**||
