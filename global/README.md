@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-05-29|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg)|
-||*Copyright: Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)*
+|2025-05-30|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg)|
+||*Copyright: Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)*
 ||
 |||
 |2025-05-29|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ミラベット, スペイン カタルーニャ州 (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-05-28|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.KelpOtter_EN-IN0989850469_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_EN-IN0989850469_UHD.jpg)|
-||*Copyright: Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge, United States (© Gerry Ellis/Minden Pictures)*
+|2025-05-29|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MiravetSpain_EN-IN8368542648_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MiravetSpain_EN-IN8368542648_UHD.jpg)|
+||*Copyright: Miravet on the Ebro river, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-05-29|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.KelpOtter_PT-BR7205269839_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_PT-BR7205269839_UHD.jpg)|
-||*Copyright: Lontra-marinha flutuando entre algas no Refúgio Nacional de Vida Selvagem Marinha do Alasca, EUA (© Gerry Ellis/Minden Pictures)*
+|2025-05-30|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MiravetSpain_PT-BR7483184425_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MiravetSpain_PT-BR7483184425_UHD.jpg)|
+||*Copyright: Miravet às margens do rio Ebro, Tarragona, Catalunha, Espanha (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-05-28|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.KelpOtter_FR-FR8247286249_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_FR-FR8247286249_UHD.jpg)|
-||*Copyright: Loutre de mer au milieu de varech, refuge faunique national maritime d'Alaska, États-Unis (© Gerry Ellis/Minden Pictures)*
+|2025-05-29|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MiravetSpain_FR-FR8451258933_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MiravetSpain_FR-FR8451258933_UHD.jpg)|
+||*Copyright: Miravet sur le fleuve Èbre, Tarragone, Catalogne, Espagne (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-05-28|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.KelpOtter_DE-DE1256617925_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_DE-DE1256617925_UHD.jpg)|
-||*Copyright: Seeotter in einem Seetangbett schwimmend im Alaska Maritime National Wildlife Refuge, USA (© Gerry Ellis/Minden Pictures)(© Gerry Ellis/Minden Pictures)*
+|2025-05-29|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GoetheSchiller_DE-DE0833691040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoetheSchiller_DE-DE0833691040_UHD.jpg)|
+||*Copyright: Goethe-Schiller-Denkmal in Weimar, Thüringen (© Robert Ruidl/iStock/Getty Images)*
 ||
 |||
-|2025-05-29|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.KelpOtter_EN-CA6928733968_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_EN-CA6928733968_UHD.jpg)|
-||*Copyright: Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge, United States (© Gerry Ellis/Minden Pictures)*
+|2025-05-30|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MiravetSpain_EN-CA7106086168_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MiravetSpain_EN-CA7106086168_UHD.jpg)|
+||*Copyright: Miravet on the Ebro river, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-05-28|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.KelpOtter_EN-GB3307429854_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_EN-GB3307429854_UHD.jpg)|
-||*Copyright: Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge, United States (© Gerry Ellis/Minden Pictures)*
+|2025-05-29|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MiravetSpain_EN-GB3438322242_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MiravetSpain_EN-GB3438322242_UHD.jpg)|
+||*Copyright: Miravet on the Ebro river, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-05-28|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.KelpOtter_IT-IT4372349313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_IT-IT4372349313_UHD.jpg)|
-||*Copyright: Lontra marina nell'Alaska Maritime National Wildlife Refuge, USA (© Gerry Ellis/Minden Pictures)*
+|2025-05-29|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MiravetSpain_IT-IT4503014691_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MiravetSpain_IT-IT4503014691_UHD.jpg)|
+||*Copyright: Miravet sul fiume Ebro, Tarragona, Catalogna, Spagna (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-05-28|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.KelpOtter_ES-ES7948164932_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_ES-ES7948164932_UHD.jpg)|
-||*Copyright: Nutria marina flotando en un lecho de algas en el Refugio Nacional de Vida Silvestre Marítimo de Alaska, EE. UU. (© Gerry Ellis/Minden Pictures)*
+|2025-05-29|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MiravetSpain_ES-ES8030054546_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MiravetSpain_ES-ES8030054546_UHD.jpg)|
+||*Copyright: Miravet en el río Ebro, Tarragona, Cataluña, España (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-05-29|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.KelpOtter_FR-CA4404074931_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KelpOtter_FR-CA4404074931_UHD.jpg)|
-||*Copyright: Loutre de mer au milieu de varech, refuge faunique national maritime d'Alaska, États-Unis (© Gerry Ellis/Minden Pictures)*
+|2025-05-30|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MiravetSpain_FR-CA4536791904_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MiravetSpain_FR-CA4536791904_UHD.jpg)|
+||*Copyright: Miravet sur le fleuve Èbre, Tarragone, Catalogne, Espagne (© Eloi_Omella/Getty Images)*
 ||
 |||
 
