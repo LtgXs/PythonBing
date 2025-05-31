@@ -1,0 +1,60 @@
+
+Program started at 16:14:29
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Thu May  1 02:52:08 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1720-906
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:14:29] Start geting CN Bing Wallpaper
+[16:14:29] Successful get url: https://www.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg
+[16:14:29] Image saved to img/background.jpg
+[16:14:29] Info saved to README.md
+[16:14:29] Image saved to history/2025/06/01.md
+[16:14:29] Start geting global Bing Wallpaper, region=en-US, local time is 2025-05-31 12:14:29.749292-04:00
+[16:14:29] Successful get url: https://www.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg
+[16:14:29] Picture infomations saved to  global/en-US/README.md
+[16:14:29] Picture infomations saved to global/en-US/history/2025/06/01_en-US.md
+[16:14:29] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-06-01 01:14:29.922899+09:00
+[16:14:29] Successful get url: https://www.bing.com/th?id=OHR.GrandeTerreReef_JA-JP5270810128_UHD.jpg
+[16:14:30] Picture infomations saved to  global/ja-JP/README.md
+[16:14:30] Picture infomations saved to global/ja-JP/history/2025/06/01_ja-JP.md
+[16:14:30] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-05-31 21:44:30.086719+05:30
+[16:14:30] Successful get url: https://www.bing.com/th?id=OHR.SwedenReserve_EN-IN3145271969_UHD.jpg
+[16:14:30] Picture infomations saved to  global/en-IN/README.md
+[16:14:30] Picture infomations saved to global/en-IN/history/2025/05/31_en-IN.md
+[16:14:30] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-05-31 13:14:30.222294-03:00
+[16:14:30] Successful get url: https://www.bing.com/th?id=OHR.SwedenReserve_PT-BR8224811231_UHD.jpg
+[16:14:30] Picture infomations saved to  global/pt-BR/README.md
+[16:14:30] Picture infomations saved to global/pt-BR/history/2025/06/01_pt-BR.md
+[16:14:30] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-05-31 18:14:30.433951+02:00
+[16:14:30] Successful get url: https://www.bing.com/th?id=OHR.SwedenReserve_FR-FR4947459912_UHD.jpg
+[16:14:30] Picture infomations saved to  global/fr-FR/README.md
+[16:14:30] Picture infomations saved to global/fr-FR/history/2025/05/31_fr-FR.md
+[16:14:30] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-05-31 18:14:30.605746+02:00
+[16:14:30] Successful get url: https://www.bing.com/th?id=OHR.SwedenReserve_DE-DE3687449792_UHD.jpg
+[16:14:30] Picture infomations saved to  global/de-DE/README.md
+[16:14:30] Picture infomations saved to global/de-DE/history/2025/05/31_de-DE.md
+[16:14:30] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-05-31 12:14:30.764542-04:00
+[16:14:30] Successful get url: https://www.bing.com/th?id=OHR.SwedenReserve_EN-CA7601065601_UHD.jpg
+[16:14:30] Picture infomations saved to  global/en-CA/README.md
+[16:14:30] Picture infomations saved to global/en-CA/history/2025/06/01_en-CA.md
+[16:14:30] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-05-31 17:14:30.879053+01:00
+[16:14:30] Successful get url: https://www.bing.com/th?id=OHR.SwedenReserve_EN-GB1236157967_UHD.jpg
+[16:14:31] Picture infomations saved to  global/en-GB/README.md
+[16:14:31] Picture infomations saved to global/en-GB/history/2025/05/31_en-GB.md
+[16:14:31] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-05-31 18:14:31.027956+02:00
+[16:14:31] Successful get url: https://www.bing.com/th?id=OHR.SwedenReserve_IT-IT1642458062_UHD.jpg
+[16:14:31] Picture infomations saved to  global/it-IT/README.md
+[16:14:31] Picture infomations saved to global/it-IT/history/2025/05/31_it-IT.md
+[16:14:31] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-05-31 18:14:31.295822+02:00
+[16:14:31] Successful get url: https://www.bing.com/th?id=OHR.SwedenReserve_ES-ES5600233708_UHD.jpg
+[16:14:31] Picture infomations saved to  global/es-ES/README.md
+[16:14:31] Picture infomations saved to global/es-ES/history/2025/05/31_es-ES.md
+[16:14:31] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-05-31 12:14:31.436900-04:00
+[16:14:31] Successful get url: https://www.bing.com/th?id=OHR.SwedenReserve_FR-CA5126483209_UHD.jpg
+[16:14:31] Picture infomations saved to  global/fr-CA/README.md
+[16:14:31] Picture infomations saved to global/fr-CA/history/2025/06/01_fr-CA.md
+Program exit at 16:14:31
