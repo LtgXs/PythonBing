@@ -6,9 +6,9 @@
 ||*Copyright: Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia (© Karsten Wrobel/Getty Images)*
 ||
 |||
-|2025-06-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GrandeTerreReef_JA-JP5270810128_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandeTerreReef_JA-JP5270810128_UHD.jpg)|
-||*Copyright: ニューカレドニア・バリア・リーフ, フランス (© Karsten Wrobel/Getty Images)*
+|2025-06-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YokohamaPort2025_JA-JP6222425156_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YokohamaPort2025_JA-JP6222425156_UHD.jpg)|
+||*Copyright: みなとみらい 21 地区, 神奈川県 横浜市 (© Shingo Tamura/Getty Images)*
 ||
 |||
 |2025-06-01|**Region: en-IN**||
