@@ -1,0 +1,60 @@
+
+Program started at 09:32:35
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Thu May  1 02:52:08 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1931-433
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[09:32:35] Start geting CN Bing Wallpaper
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg
+[09:32:35] Image saved to img/background.jpg
+[09:32:35] Info saved to README.md
+[09:32:35] Image saved to history/2025/06/02.md
+[09:32:35] Start geting global Bing Wallpaper, region=en-US, local time is 2025-06-02 05:32:35.519319-04:00
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg
+[09:32:35] Picture infomations saved to  global/en-US/README.md
+[09:32:35] Picture infomations saved to global/en-US/history/2025/06/03_en-US.md
+[09:32:35] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-06-02 18:32:35.603526+09:00
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.YokohamaPort2025_JA-JP6222425156_UHD.jpg
+[09:32:35] Picture infomations saved to  global/ja-JP/README.md
+[09:32:35] Picture infomations saved to global/ja-JP/history/2025/06/02_ja-JP.md
+[09:32:35] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-06-02 15:02:35.780940+05:30
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.NewSecretariat_EN-IN9926784114_UHD.jpg
+[09:32:35] Picture infomations saved to  global/en-IN/README.md
+[09:32:35] Picture infomations saved to global/en-IN/history/2025/06/02_en-IN.md
+[09:32:35] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-06-02 06:32:35.904109-03:00
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.EchinaceaButterfly_PT-BR8973487731_UHD.jpg
+[09:32:35] Picture infomations saved to  global/pt-BR/README.md
+[09:32:35] Picture infomations saved to global/pt-BR/history/2025/06/03_pt-BR.md
+[09:32:35] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-06-02 11:32:35.979022+02:00
+[09:32:36] Successful get url: https://www.bing.com/th?id=OHR.BloisBridge_FR-FR5822069151_UHD.jpg
+[09:32:36] Picture infomations saved to  global/fr-FR/README.md
+[09:32:36] Picture infomations saved to global/fr-FR/history/2025/06/02_fr-FR.md
+[09:32:36] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-06-02 11:32:36.056213+02:00
+[09:32:36] Successful get url: https://www.bing.com/th?id=OHR.ChickAhnepark_DE-DE9261263631_UHD.jpg
+[09:32:36] Picture infomations saved to  global/de-DE/README.md
+[09:32:36] Picture infomations saved to global/de-DE/history/2025/06/02_de-DE.md
+[09:32:36] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-06-02 05:32:36.206071-04:00
+[09:32:36] Successful get url: https://www.bing.com/th?id=OHR.Fogoisland_EN-CA7909293676_UHD.jpg
+[09:32:36] Picture infomations saved to  global/en-CA/README.md
+[09:32:36] Picture infomations saved to global/en-CA/history/2025/06/03_en-CA.md
+[09:32:36] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-06-02 10:32:36.312843+01:00
+[09:32:36] Successful get url: https://www.bing.com/th?id=OHR.EchinaceaButterfly_EN-GB1446569270_UHD.jpg
+[09:32:36] Picture infomations saved to  global/en-GB/README.md
+[09:32:36] Picture infomations saved to global/en-GB/history/2025/06/02_en-GB.md
+[09:32:36] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-06-02 11:32:36.449158+02:00
+[09:32:36] Successful get url: https://www.bing.com/th?id=OHR.RepubblicaGiugnoFesta_IT-IT6228684298_UHD.jpg
+[09:32:36] Picture infomations saved to  global/it-IT/README.md
+[09:32:36] Picture infomations saved to global/it-IT/history/2025/06/02_it-IT.md
+[09:32:36] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-06-02 11:32:36.588525+02:00
+[09:32:36] Successful get url: https://www.bing.com/th?id=OHR.EchinaceaButterfly_ES-ES6329084814_UHD.jpg
+[09:32:36] Picture infomations saved to  global/es-ES/README.md
+[09:32:36] Picture infomations saved to global/es-ES/history/2025/06/02_es-ES.md
+[09:32:36] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-06-02 05:32:36.668613-04:00
+[09:32:36] Successful get url: https://www.bing.com/th?id=OHR.Fogoisland_FR-CA5436745588_UHD.jpg
+[09:32:36] Picture infomations saved to  global/fr-CA/README.md
+[09:32:36] Picture infomations saved to global/fr-CA/history/2025/06/03_fr-CA.md
+Program exit at 09:32:36
