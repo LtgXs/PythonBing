@@ -6,9 +6,9 @@
 ||*Copyright: The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)*
 ||
 |||
-|2025-06-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CalaLuna_JA-JP5500735927_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalaLuna_JA-JP5500735927_UHD.jpg)|
-||*Copyright: カラルナビーチ, イタリア (© guenterguni/Getty Images)*
+|2025-06-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OlivaresMural_JA-JP5583290879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaresMural_JA-JP5583290879_UHD.jpg)|
+||*Copyright: ペットボトルキャップのモザイク画, ベネズエラ (© FEDERICO PARRA/AFP via Getty Images)*
 ||
 |||
 |2025-06-04|**Region: en-IN**||
