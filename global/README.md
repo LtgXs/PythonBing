@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-06-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg)|
-||*Copyright: Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)*
+|2025-06-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg)|
+||*Copyright: The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)*
 ||
 |||
 |2025-06-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: カラルナビーチ, イタリア (© guenterguni/Getty Images)*
 ||
 |||
-|2025-06-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BicyclesUtrecht_EN-IN7690250347_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BicyclesUtrecht_EN-IN7690250347_UHD.jpg)|
-||*Copyright: Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)*
+|2025-06-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CalaLuna_EN-IN7826704026_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalaLuna_EN-IN7826704026_UHD.jpg)|
+||*Copyright: Cala Luna beach, Sardinia, Italy (© guenterguni/Getty Images)*
 ||
 |||
-|2025-06-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BicyclesUtrecht_PT-BR9202088294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BicyclesUtrecht_PT-BR9202088294_UHD.jpg)|
-||*Copyright: Bicicletas em uma ponte em Utrecht, Países Baixos (© George Pachantouris/Getty Images)*
+|2025-06-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CalaLuna_PT-BR9479768286_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalaLuna_PT-BR9479768286_UHD.jpg)|
+||*Copyright: Praia Cala Luna, Sardenha, Itália (© guenterguni/Getty Images)*
 ||
 |||
-|2025-06-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BicyclesUtrecht_FR-FR5996200127_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BicyclesUtrecht_FR-FR5996200127_UHD.jpg)|
-||*Copyright: Vélos sur un pont à Utrecht, Pays-Bas (© George Pachantouris/Getty Images)*
+|2025-06-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CalaLuna_FR-FR6223009660_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalaLuna_FR-FR6223009660_UHD.jpg)|
+||*Copyright: Plage de Cala Luna, Sardaigne, Italie (© guenterguni/Getty Images)*
 ||
 |||
-|2025-06-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BicyclesUtrecht_DE-DE4256517633_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BicyclesUtrecht_DE-DE4256517633_UHD.jpg)|
-||*Copyright: Fahrräder auf einer Brücke in Utrecht, Niederlande (© George Pachantouris/Getty Images)*
+|2025-06-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CalaLuna_DE-DE8318114983_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalaLuna_DE-DE8318114983_UHD.jpg)|
+||*Copyright: Strand Cala Luna, Sardinien, Italien (© guenterguni/Getty Images)*
 ||
 |||
-|2025-06-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BicyclesUtrecht_EN-CA8084495077_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BicyclesUtrecht_EN-CA8084495077_UHD.jpg)|
-||*Copyright: Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)*
+|2025-06-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CalaLuna_EN-CA8214909306_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalaLuna_EN-CA8214909306_UHD.jpg)|
+||*Copyright: Cala Luna beach, Sardinia, Italy (© guenterguni/Getty Images)*
 ||
 |||
-|2025-06-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BicyclesUtrecht_EN-GB1571923554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BicyclesUtrecht_EN-GB1571923554_UHD.jpg)|
-||*Copyright: Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)*
+|2025-06-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CalaLuna_EN-GB1693826190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalaLuna_EN-GB1693826190_UHD.jpg)|
+||*Copyright: Cala Luna beach, Sardinia, Italy (© guenterguni/Getty Images)*
 ||
 |||
-|2025-06-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BicyclesUtrecht_IT-IT6327347879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BicyclesUtrecht_IT-IT6327347879_UHD.jpg)|
-||*Copyright: Biciclette su un ponte, Utrecht, Paesi Bassi (© George Pachantouris/Getty Images)*
+|2025-06-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_UHD.jpg)|
+||*Copyright: Cala Luna, Orosei, Sardegna (© guenterguni/Getty Images)*
 ||
 |||
-|2025-06-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BicyclesUtrecht_ES-ES6764492032_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BicyclesUtrecht_ES-ES6764492032_UHD.jpg)|
-||*Copyright: Bicicletas en un puente de Utrecht, Países Bajos (© George Pachantouris/Getty Images)*
+|2025-06-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CalaLuna_ES-ES6894495288_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalaLuna_ES-ES6894495288_UHD.jpg)|
+||*Copyright: Playa de Cala Luna, Cerdeña, Italia (© guenterguni/Getty Images)*
 ||
 |||
-|2025-06-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BicyclesUtrecht_FR-CA5597042150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BicyclesUtrecht_FR-CA5597042150_UHD.jpg)|
-||*Copyright: Vélos sur un pont à Utrecht, Pays-Bas (© George Pachantouris/Getty Images)*
+|2025-06-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CalaLuna_FR-CA5728835593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalaLuna_FR-CA5728835593_UHD.jpg)|
+||*Copyright: Plage de Cala Luna, Sardaigne, Italie (© guenterguni/Getty Images)*
 ||
 |||
 

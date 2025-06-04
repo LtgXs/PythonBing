@@ -1,0 +1,60 @@
+
+Program started at 09:32:35
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Thu May  1 02:52:08 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1701-996
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[09:32:35] Start geting CN Bing Wallpaper
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_UHD.jpg
+[09:32:35] Image saved to img/background.jpg
+[09:32:35] Info saved to README.md
+[09:32:35] Image saved to history/2025/06/04.md
+[09:32:35] Start geting global Bing Wallpaper, region=en-US, local time is 2025-06-04 05:32:35.350635-04:00
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg
+[09:32:35] Picture infomations saved to  global/en-US/README.md
+[09:32:35] Picture infomations saved to global/en-US/history/2025/06/05_en-US.md
+[09:32:35] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-06-04 18:32:35.438633+09:00
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.CalaLuna_JA-JP5500735927_UHD.jpg
+[09:32:35] Picture infomations saved to  global/ja-JP/README.md
+[09:32:35] Picture infomations saved to global/ja-JP/history/2025/06/04_ja-JP.md
+[09:32:35] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-06-04 15:02:35.525274+05:30
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.CalaLuna_EN-IN7826704026_UHD.jpg
+[09:32:35] Picture infomations saved to  global/en-IN/README.md
+[09:32:35] Picture infomations saved to global/en-IN/history/2025/06/04_en-IN.md
+[09:32:35] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-06-04 06:32:35.607168-03:00
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.CalaLuna_PT-BR9479768286_UHD.jpg
+[09:32:35] Picture infomations saved to  global/pt-BR/README.md
+[09:32:35] Picture infomations saved to global/pt-BR/history/2025/06/05_pt-BR.md
+[09:32:35] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-06-04 11:32:35.695794+02:00
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.CalaLuna_FR-FR6223009660_UHD.jpg
+[09:32:35] Picture infomations saved to  global/fr-FR/README.md
+[09:32:35] Picture infomations saved to global/fr-FR/history/2025/06/04_fr-FR.md
+[09:32:35] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-06-04 11:32:35.777952+02:00
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.CalaLuna_DE-DE8318114983_UHD.jpg
+[09:32:35] Picture infomations saved to  global/de-DE/README.md
+[09:32:35] Picture infomations saved to global/de-DE/history/2025/06/04_de-DE.md
+[09:32:35] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-06-04 05:32:35.863162-04:00
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.CalaLuna_EN-CA8214909306_UHD.jpg
+[09:32:35] Picture infomations saved to  global/en-CA/README.md
+[09:32:35] Picture infomations saved to global/en-CA/history/2025/06/05_en-CA.md
+[09:32:35] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-06-04 10:32:35.952762+01:00
+[09:32:35] Successful get url: https://www.bing.com/th?id=OHR.CalaLuna_EN-GB1693826190_UHD.jpg
+[09:32:36] Picture infomations saved to  global/en-GB/README.md
+[09:32:36] Picture infomations saved to global/en-GB/history/2025/06/04_en-GB.md
+[09:32:36] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-06-04 11:32:36.035834+02:00
+[09:32:36] Successful get url: https://www.bing.com/th?id=OHR.CalaLuna_IT-IT6388289498_UHD.jpg
+[09:32:36] Picture infomations saved to  global/it-IT/README.md
+[09:32:36] Picture infomations saved to global/it-IT/history/2025/06/04_it-IT.md
+[09:32:36] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-06-04 11:32:36.115122+02:00
+[09:32:36] Successful get url: https://www.bing.com/th?id=OHR.CalaLuna_ES-ES6894495288_UHD.jpg
+[09:32:36] Picture infomations saved to  global/es-ES/README.md
+[09:32:36] Picture infomations saved to global/es-ES/history/2025/06/04_es-ES.md
+[09:32:36] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-06-04 05:32:36.201687-04:00
+[09:32:36] Successful get url: https://www.bing.com/th?id=OHR.CalaLuna_FR-CA5728835593_UHD.jpg
+[09:32:36] Picture infomations saved to  global/fr-CA/README.md
+[09:32:36] Picture infomations saved to global/fr-CA/history/2025/06/05_fr-CA.md
+Program exit at 09:32:36
