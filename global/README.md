@@ -6,9 +6,9 @@
 ||*Copyright: Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)*
 ||
 |||
-|2025-06-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OlivaresMural_JA-JP5583290879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaresMural_JA-JP5583290879_UHD.jpg)|
-||*Copyright: ペットボトルキャップのモザイク画, ベネズエラ (© FEDERICO PARRA/AFP via Getty Images)*
+|2025-06-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FlamingosNamibia_JA-JP5652363702_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingosNamibia_JA-JP5652363702_UHD.jpg)|
+||*Copyright: オオフラミンゴ, ナミビア (© Karine Aigner/TANDEM Stills + Motion)*
 ||
 |||
 |2025-06-05|**Region: en-IN**||
