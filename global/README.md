@@ -6,9 +6,9 @@
 ||*Copyright: Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)*
 ||
 |||
-|2025-06-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FlamingosNamibia_JA-JP5652363702_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingosNamibia_JA-JP5652363702_UHD.jpg)|
-||*Copyright: オオフラミンゴ, ナミビア (© Karine Aigner/TANDEM Stills + Motion)*
+|2025-06-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PacificCrestTrail_JA-JP5723625676_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificCrestTrail_JA-JP5723625676_UHD.jpg)|
+||*Copyright: アンジェルス国有林, 米国 カリフォルニア州 (© Matthew Kuhns/TANDEM Stills + Motion)*
 ||
 |||
 |2025-06-06|**Region: en-IN**||
