@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-06-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg)|
-||*Copyright: Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)*
+|2025-06-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg)|
+||*Copyright: Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)*
 ||
 |||
 |2025-06-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: オオフラミンゴ, ナミビア (© Karine Aigner/TANDEM Stills + Motion)*
 ||
 |||
-|2025-06-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.OlivaresMural_EN-IN7947697438_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaresMural_EN-IN7947697438_UHD.jpg)|
-||*Copyright: Bottle cap mural by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)*
+|2025-06-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.NormandyBeach_EN-IN8071256992_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NormandyBeach_EN-IN8071256992_UHD.jpg)|
+||*Copyright: Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)*
 ||
 |||
-|2025-06-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.OlivaresMural_PT-BR9939913943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaresMural_PT-BR9939913943_UHD.jpg)|
-||*Copyright: Mural de tampinhas de garrafa por Oscar Olivares em Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)*
+|2025-06-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.NormandyBeach_PT-BR1029038127_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NormandyBeach_PT-BR1029038127_UHD.jpg)|
+||*Copyright: Arromanches-les-Bains na Normandia, França (© Horia Merla/Getty Images)*
 ||
 |||
-|2025-06-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.OlivaresMural_FR-FR6395710668_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaresMural_FR-FR6395710668_UHD.jpg)|
-||*Copyright: Fresque en bouchons de bouteilles réalisée par Oscar Olivares à Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)*
+|2025-06-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.NormandyBeach_FR-FR1019139404_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NormandyBeach_FR-FR1019139404_UHD.jpg)|
+||*Copyright: Plage du débarquement d’Arromanches-les-Bains, Normandie (© Horia Merla/Getty Images)*
 ||
 |||
-|2025-06-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.OlivaresMural_DE-DE8057580667_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaresMural_DE-DE8057580667_UHD.jpg)|
-||*Copyright: Flaschendeckel-Wandbild von Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)*
+|2025-06-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.DubrovnikTwilight_DE-DE7732789552_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DubrovnikTwilight_DE-DE7732789552_UHD.jpg)|
+||*Copyright: Altstadt von Dubrovnik in Dalmatien, Kroatien (© bluejayphoto/Getty Images)*
 ||
 |||
-|2025-06-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.OlivaresMural_EN-CA8344718178_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaresMural_EN-CA8344718178_UHD.jpg)|
-||*Copyright: Bottle cap mural by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)*
+|2025-06-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.NormandyBeach_EN-CA8706608973_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NormandyBeach_EN-CA8706608973_UHD.jpg)|
+||*Copyright: Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)*
 ||
 |||
-|2025-06-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.OlivaresMural_EN-GB1816556360_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaresMural_EN-GB1816556360_UHD.jpg)|
-||*Copyright: Bottle cap mural by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)*
+|2025-06-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.NormandyBeach_EN-GB1596892629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NormandyBeach_EN-GB1596892629_UHD.jpg)|
+||*Copyright: Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)*
 ||
 |||
-|2025-06-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OlivaresMural_IT-IT6465447947_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaresMural_IT-IT6465447947_UHD.jpg)|
-||*Copyright: Murale creato con tappi di bottiglia di Oscar Olivares a Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)*
+|2025-06-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.NormandyBeach_IT-IT6520932839_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NormandyBeach_IT-IT6520932839_UHD.jpg)|
+||*Copyright: Arromanches-les-Bains, Normandia, Francia (© Horia Merla/Getty Images)*
 ||
 |||
-|2025-06-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.OlivaresMural_ES-ES7218911366_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaresMural_ES-ES7218911366_UHD.jpg)|
-||*Copyright: Mural ecológico de Oscar Olivares en Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)*
+|2025-06-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.NormandyBeach_ES-ES2863292551_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NormandyBeach_ES-ES2863292551_UHD.jpg)|
+||*Copyright: Arromanches-les-Bains en Normandía, Francia (© Horia Merla/Getty Images)*
 ||
 |||
-|2025-06-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.OlivaresMural_FR-CA5875750621_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaresMural_FR-CA5875750621_UHD.jpg)|
-||*Copyright: Fresque en bouchons de bouteilles réalisée par Oscar Olivares à Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)*
+|2025-06-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.NormandyBeach_FR-CA6105817274_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NormandyBeach_FR-CA6105817274_UHD.jpg)|
+||*Copyright: Plage du débarquement d’Arromanches-les-Bains, Normandie (© Horia Merla/Getty Images)*
 ||
 |||
 
