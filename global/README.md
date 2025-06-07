@@ -6,9 +6,9 @@
 ||*Copyright: Summit of Pine Mountain, Angeles National Forest, California (© Matthew Kuhns/TANDEM Stills + Motion)*
 ||
 |||
-|2025-06-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PacificCrestTrail_JA-JP5723625676_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificCrestTrail_JA-JP5723625676_UHD.jpg)|
-||*Copyright: アンジェルス国有林, 米国 カリフォルニア州 (© Matthew Kuhns/TANDEM Stills + Motion)*
+|2025-06-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.StellarSeaLions_JA-JP5798122573_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StellarSeaLions_JA-JP5798122573_UHD.jpg)|
+||*Copyright: トドの群れ, カナダ ブリティッシュコロンビア州 (© Steve Woods Photography/Getty Images)*
 ||
 |||
 |2025-06-07|**Region: en-IN**||
