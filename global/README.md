@@ -6,9 +6,9 @@
 ||*Copyright: Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)*
 ||
 |||
-|2025-06-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.StellarSeaLions_JA-JP5798122573_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StellarSeaLions_JA-JP5798122573_UHD.jpg)|
-||*Copyright: トドの群れ, カナダ ブリティッシュコロンビア州 (© Steve Woods Photography/Getty Images)*
+|2025-06-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DubrovnikTwilight_JA-JP6048239722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DubrovnikTwilight_JA-JP6048239722_UHD.jpg)|
+||*Copyright: ドゥブロヴニク旧市街, クロアチア (© bluejayphoto/Getty Images)*
 ||
 |||
 |2025-06-08|**Region: en-IN**||
