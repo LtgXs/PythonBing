@@ -6,9 +6,9 @@
 ||*Copyright: Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)*
 ||
 |||
-|2025-06-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DubrovnikTwilight_JA-JP6048239722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DubrovnikTwilight_JA-JP6048239722_UHD.jpg)|
-||*Copyright: ドゥブロヴニク旧市街, クロアチア (© bluejayphoto/Getty Images)*
+|2025-06-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AerialEverglades_JA-JP6124375299_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AerialEverglades_JA-JP6124375299_UHD.jpg)|
+||*Copyright: エバーグレーズ国立公園, 米国 フロリダ州 (© Robert DelVecchio - OcuDrone/Getty Images)*
 ||
 |||
 |2025-06-09|**Region: en-IN**||
@@ -27,7 +27,7 @@
 ||
 |||
 |2025-06-09|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MillDetmold_DE-DE7498516874_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MillDetmold_DE-DE7498516874_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.MillDetmold_DE-DE6095177325_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MillDetmold_DE-DE6095177325_UHD.jpg)|
 ||*Copyright: Mühle im LWL-Freilichtmuseum Detmold, NRW (© ullstein bild/Getty Images)*
 ||
 |||
