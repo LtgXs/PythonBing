@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:32:42] Picture infomations saved to  global/fr-CA/README.md
 [09:32:42] Picture infomations saved to global/fr-CA/history/2025/06/11_fr-CA.md
 Program exit at 09:32:42
+
+Program started at 16:17:30
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Thu May  1 02:52:08 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1912-119
+Processor Type: x86_64
+Python Version: 3.12.10
+Python Interpreter Name: CPython
+[16:17:30] Start geting CN Bing Wallpaper
+[16:17:30] Successful get url: https://www.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg
+[16:17:30] Image saved to img/background.jpg
+[16:17:30] Info saved to README.md
+[16:17:30] Image saved to history/2025/06/11.md
+[16:17:30] Start geting global Bing Wallpaper, region=en-US, local time is 2025-06-10 12:17:30.330259-04:00
+[16:17:30] Successful get url: https://www.bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg
+[16:17:30] Picture infomations saved to  global/en-US/README.md
+[16:17:30] Picture infomations saved to global/en-US/history/2025/06/11_en-US.md
+[16:17:30] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-06-11 01:17:30.763529+09:00
+[16:17:30] Successful get url: https://www.bing.com/th?id=OHR.Hydrangea2025_JA-JP6293958044_UHD.jpg
+[16:17:30] Picture infomations saved to  global/ja-JP/README.md
+[16:17:30] Picture infomations saved to global/ja-JP/history/2025/06/11_ja-JP.md
+[16:17:30] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-06-10 21:47:30.883473+05:30
+[16:17:30] Successful get url: https://www.bing.com/th?id=OHR.AerialEverglades_EN-IN8448560441_UHD.jpg
+[16:17:31] Picture infomations saved to  global/en-IN/README.md
+[16:17:31] Picture infomations saved to global/en-IN/history/2025/06/10_en-IN.md
+[16:17:31] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-06-10 13:17:31.092234-03:00
+[16:17:31] Successful get url: https://www.bing.com/th?id=OHR.AerialEverglades_PT-BR5098908500_UHD.jpg
+[16:17:31] Picture infomations saved to  global/pt-BR/README.md
+[16:17:31] Picture infomations saved to global/pt-BR/history/2025/06/11_pt-BR.md
+[16:17:31] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-06-10 18:17:31.240412+02:00
+[16:17:31] Successful get url: https://www.bing.com/th?id=OHR.AerialEverglades_FR-FR3171066688_UHD.jpg
+[16:17:31] Picture infomations saved to  global/fr-FR/README.md
+[16:17:31] Picture infomations saved to global/fr-FR/history/2025/06/10_fr-FR.md
+[16:17:31] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-06-10 18:17:31.368577+02:00
+[16:17:31] Successful get url: https://www.bing.com/th?id=OHR.AerialEverglades_DE-DE7864298334_UHD.jpg
+[16:17:31] Picture infomations saved to  global/de-DE/README.md
+[16:17:31] Picture infomations saved to global/de-DE/history/2025/06/10_de-DE.md
+[16:17:31] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-06-10 12:17:31.488513-04:00
+[16:17:31] Successful get url: https://www.bing.com/th?id=OHR.AerialEverglades_EN-CA9574870148_UHD.jpg
+[16:17:31] Picture infomations saved to  global/en-CA/README.md
+[16:17:31] Picture infomations saved to global/en-CA/history/2025/06/11_en-CA.md
+[16:17:31] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-06-10 17:17:31.623879+01:00
+[16:17:31] Successful get url: https://www.bing.com/th?id=OHR.AerialEverglades_EN-GB2444503937_UHD.jpg
+[16:17:31] Picture infomations saved to  global/en-GB/README.md
+[16:17:31] Picture infomations saved to global/en-GB/history/2025/06/10_en-GB.md
+[16:17:31] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-06-10 18:17:31.832359+02:00
+[16:17:31] Successful get url: https://www.bing.com/th?id=OHR.AmalfiCampania_IT-IT5052027567_UHD.jpg
+[16:17:32] Picture infomations saved to  global/it-IT/README.md
+[16:17:32] Picture infomations saved to global/it-IT/history/2025/06/10_it-IT.md
+[16:17:32] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-06-10 18:17:32.143718+02:00
+[16:17:32] Successful get url: https://www.bing.com/th?id=OHR.AerialEverglades_ES-ES3571741863_UHD.jpg
+[16:17:32] Picture infomations saved to  global/es-ES/README.md
+[16:17:32] Picture infomations saved to global/es-ES/history/2025/06/10_es-ES.md
+[16:17:32] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-06-10 12:17:32.418147-04:00
+[16:17:32] Successful get url: https://www.bing.com/th?id=OHR.AerialEverglades_FR-CA7029790074_UHD.jpg
+[16:17:32] Picture infomations saved to  global/fr-CA/README.md
+[16:17:32] Picture infomations saved to global/fr-CA/history/2025/06/11_fr-CA.md
+Program exit at 16:17:32
