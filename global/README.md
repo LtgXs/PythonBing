@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-06-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg)|
-||*Copyright: Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)*
+|2025-06-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg)|
+||*Copyright: Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)*
 ||
 |||
 |2025-06-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ビッグ・ベンド国立公園, 米国 テキサス州 (© Dean Fikar/Getty Images)*
 ||
 |||
-|2025-06-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FlamingosNamibia_EN-IN8571629692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingosNamibia_EN-IN8571629692_UHD.jpg)|
-||*Copyright: Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)*
+|2025-06-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BigBendChisos_EN-IN8688758463_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendChisos_EN-IN8688758463_UHD.jpg)|
+||*Copyright: Chisos Mountains, Big Bend National Park, Texas, United States (© Dean Fikar/Getty Images)*
 ||
 |||
-|2025-06-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FlamingosNamibia_PT-BR5557739797_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingosNamibia_PT-BR5557739797_UHD.jpg)|
-||*Copyright: Flamingos-rosados em Lüderitz, Namíbia (© Karine Aigner/TANDEM Stills + Motion)  (© Karine Aigner/TANDEM Stills + Motion)*
+|2025-06-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DiaDosNamoradosMacaws_PT-BR5812210481_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiaDosNamoradosMacaws_PT-BR5812210481_UHD.jpg)|
+||*Copyright: Araras-vermelhas no Buraco das Araras, perto de Bonito, Mato Grosso do Sul, Brasil (© Schafer & Hill/Getty Images)*
 ||
 |||
-|2025-06-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FlamingosNamibia_FR-FR3406043223_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingosNamibia_FR-FR3406043223_UHD.jpg)|
-||*Copyright: Flamants roses, Lüderitz, Namibie (© Karine Aigner/TANDEM Stills + Motion)*
+|2025-06-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BigBendChisos_FR-FR3569892339_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendChisos_FR-FR3569892339_UHD.jpg)|
+||*Copyright: Chisos Mountains, Parc national de Big Bend, Texas, État-Unis (© Dean Fikar/Getty Images)*
 ||
 |||
-|2025-06-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FlamingosNamibia_DE-DE9012146004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingosNamibia_DE-DE9012146004_UHD.jpg)|
-||*Copyright: Rosaflamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)*
+|2025-06-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BigBendChisos_DE-DE8761208781_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendChisos_DE-DE8761208781_UHD.jpg)|
+||*Copyright: Chisos Mountains, Big-Bend-Nationalpark, Texas, USA (© Dean Fikar/Getty Images)*
 ||
 |||
-|2025-06-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FlamingosNamibia_EN-CA9758738139_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingosNamibia_EN-CA9758738139_UHD.jpg)|
-||*Copyright: Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)*
+|2025-06-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BigBendChisos_EN-CA9916478769_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendChisos_EN-CA9916478769_UHD.jpg)|
+||*Copyright: Chisos Mountains, Big Bend National Park, Texas, United States (© Dean Fikar/Getty Images)*
 ||
 |||
-|2025-06-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FlamingosNamibia_EN-GB2570147550_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingosNamibia_EN-GB2570147550_UHD.jpg)|
-||*Copyright: Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)*
+|2025-06-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BigBendChisos_EN-GB2685461627_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendChisos_EN-GB2685461627_UHD.jpg)|
+||*Copyright: Chisos Mountains, Big Bend National Park, Texas, United States (© Dean Fikar/Getty Images)*
 ||
 |||
-|2025-06-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FlamingosNamibia_IT-IT6908243385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingosNamibia_IT-IT6908243385_UHD.jpg)|
-||*Copyright: Fenicotteri maggiori, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)*
+|2025-06-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BigBendChisos_IT-IT7015361266_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendChisos_IT-IT7015361266_UHD.jpg)|
+||*Copyright: Monti Chisos, Parco Nazionale Big Bend, Texas, USA (© Dean Fikar/Getty Images)*
 ||
 |||
-|2025-06-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FlamingosNamibia_ES-ES3698280528_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingosNamibia_ES-ES3698280528_UHD.jpg)|
-||*Copyright: Flamencos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)*
+|2025-06-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BigBendChisos_ES-ES3904650593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendChisos_ES-ES3904650593_UHD.jpg)|
+||*Copyright: Montañas Chisos, Parque Nacional Big Bend, Texas, EE. UU. (© Dean Fikar/Getty Images)*
 ||
 |||
-|2025-06-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FlamingosNamibia_FR-CA7147241890_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingosNamibia_FR-CA7147241890_UHD.jpg)|
-||*Copyright: Flamants roses, Lüderitz, Namibie (© Karine Aigner/TANDEM Stills + Motion)*
+|2025-06-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BigBendChisos_FR-CA7282814155_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigBendChisos_FR-CA7282814155_UHD.jpg)|
+||*Copyright: Chisos Mountains, Parc national de Big Bend, Texas, État-Unis (© Dean Fikar/Getty Images)*
 ||
 |||
 
