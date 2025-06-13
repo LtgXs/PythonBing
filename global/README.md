@@ -6,9 +6,9 @@
 ||*Copyright: Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)*
 ||
 |||
-|2025-06-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SanMiguelAzores_JA-JP3142066706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanMiguelAzores_JA-JP3142066706_UHD.jpg)|
-||*Copyright: ヴィラ・フランカ・ド・カンポ島, ポルトガル (© ARoxo/Getty Images)*
+|2025-06-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NikkoToshoguShrine_JA-JP2939521159_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NikkoToshoguShrine_JA-JP2939521159_UHD.jpg)|
+||*Copyright: 日光東照宮, 栃木県 日光市 (© Pavel Nesvadba/shutterstock)*
 ||
 |||
 |2025-06-13|**Region: en-IN**||
