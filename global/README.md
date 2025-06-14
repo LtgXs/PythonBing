@@ -6,9 +6,9 @@
 ||*Copyright: Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)*
 ||
 |||
-|2025-06-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NikkoToshoguShrine_JA-JP2939521159_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NikkoToshoguShrine_JA-JP2939521159_UHD.jpg)|
-||*Copyright: 日光東照宮, 栃木県 日光市 (© Pavel Nesvadba/shutterstock)*
+|2025-06-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RheaDad_JA-JP7457572073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RheaDad_JA-JP7457572073_UHD.jpg)|
+||*Copyright: ダーウィンレアの父子, チリ (© Ignacio Yufera/Minden Pictures)*
 ||
 |||
 |2025-06-14|**Region: en-IN**||
