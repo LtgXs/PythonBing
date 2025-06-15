@@ -6,9 +6,9 @@
 ||*Copyright: Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)*
 ||
 |||
-|2025-06-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RheaDad_JA-JP7457572073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RheaDad_JA-JP7457572073_UHD.jpg)|
-||*Copyright: ダーウィンレアの父子, チリ (© Ignacio Yufera/Minden Pictures)*
+|2025-06-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SeaTurtleBrazil_JA-JP7521430958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SeaTurtleBrazil_JA-JP7521430958_UHD.jpg)|
+||*Copyright: 碧い海に舞うウミガメ, ブラジル (© João Vianna/Getty Images)*
 ||
 |||
 |2025-06-15|**Region: en-IN**||

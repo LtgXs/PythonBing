@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:29:16] Picture infomations saved to  global/fr-CA/README.md
 [09:29:16] Picture infomations saved to global/fr-CA/history/2025/06/16_fr-CA.md
 Program exit at 09:29:16
+
+Program started at 16:15:17
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Thu May  1 02:52:08 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1931-968
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:15:17] Start geting CN Bing Wallpaper
+[16:15:17] Successful get url: https://www.bing.com/th?id=OHR.SeaTurtleBrazil_ZH-CN6907161064_UHD.jpg
+[16:15:17] Image saved to img/background.jpg
+[16:15:17] Info saved to README.md
+[16:15:17] Image saved to history/2025/06/16.md
+[16:15:17] Start geting global Bing Wallpaper, region=en-US, local time is 2025-06-15 12:15:17.865335-04:00
+[16:15:17] Successful get url: https://www.bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg
+[16:15:18] Picture infomations saved to  global/en-US/README.md
+[16:15:18] Picture infomations saved to global/en-US/history/2025/06/16_en-US.md
+[16:15:18] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-06-16 01:15:18.063728+09:00
+[16:15:18] Successful get url: https://www.bing.com/th?id=OHR.SeaTurtleBrazil_JA-JP7521430958_UHD.jpg
+[16:15:18] Picture infomations saved to  global/ja-JP/README.md
+[16:15:18] Picture infomations saved to global/ja-JP/history/2025/06/16_ja-JP.md
+[16:15:18] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-06-15 21:45:18.209206+05:30
+[16:15:18] Successful get url: https://www.bing.com/th?id=OHR.RheaDad_EN-IN8515759531_UHD.jpg
+[16:15:18] Picture infomations saved to  global/en-IN/README.md
+[16:15:18] Picture infomations saved to global/en-IN/history/2025/06/15_en-IN.md
+[16:15:18] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-06-15 13:15:18.291321-03:00
+[16:15:18] Successful get url: https://www.bing.com/th?id=OHR.RheaDad_PT-BR0280530641_UHD.jpg
+[16:15:18] Picture infomations saved to  global/pt-BR/README.md
+[16:15:18] Picture infomations saved to global/pt-BR/history/2025/06/16_pt-BR.md
+[16:15:18] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-06-15 18:15:18.478586+02:00
+[16:15:18] Successful get url: https://www.bing.com/th?id=OHR.RheaDad_FR-FR4814094029_UHD.jpg
+[16:15:18] Picture infomations saved to  global/fr-FR/README.md
+[16:15:18] Picture infomations saved to global/fr-FR/history/2025/06/15_fr-FR.md
+[16:15:18] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-06-15 18:15:18.564645+02:00
+[16:15:18] Successful get url: https://www.bing.com/th?id=OHR.WatertowerMannheim_DE-DE8334179684_UHD.jpg
+[16:15:18] Picture infomations saved to  global/de-DE/README.md
+[16:15:18] Picture infomations saved to global/de-DE/history/2025/06/15_de-DE.md
+[16:15:18] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-06-15 12:15:18.646860-04:00
+[16:15:18] Successful get url: https://www.bing.com/th?id=OHR.RheaDad_EN-CA4283267159_UHD.jpg
+[16:15:18] Picture infomations saved to  global/en-CA/README.md
+[16:15:18] Picture infomations saved to global/en-CA/history/2025/06/16_en-CA.md
+[16:15:18] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-06-15 17:15:18.768920+01:00
+[16:15:18] Successful get url: https://www.bing.com/th?id=OHR.RheaDad_EN-GB7667641809_UHD.jpg
+[16:15:18] Picture infomations saved to  global/en-GB/README.md
+[16:15:18] Picture infomations saved to global/en-GB/history/2025/06/15_en-GB.md
+[16:15:18] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-06-15 18:15:18.869788+02:00
+[16:15:18] Successful get url: https://www.bing.com/th?id=OHR.RheaDad_IT-IT4866399219_UHD.jpg
+[16:15:18] Picture infomations saved to  global/it-IT/README.md
+[16:15:18] Picture infomations saved to global/it-IT/history/2025/06/15_it-IT.md
+[16:15:18] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-06-15 18:15:18.961305+02:00
+[16:15:18] Successful get url: https://www.bing.com/th?id=OHR.RheaDad_ES-ES9999398761_UHD.jpg
+[16:15:19] Picture infomations saved to  global/es-ES/README.md
+[16:15:19] Picture infomations saved to global/es-ES/history/2025/06/15_es-ES.md
+[16:15:19] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-06-15 12:15:19.154128-04:00
+[16:15:19] Successful get url: https://www.bing.com/th?id=OHR.RheaDad_FR-CA9162374279_UHD.jpg
+[16:15:19] Picture infomations saved to  global/fr-CA/README.md
+[16:15:19] Picture infomations saved to global/fr-CA/history/2025/06/16_fr-CA.md
+Program exit at 16:15:19
