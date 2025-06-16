@@ -6,9 +6,9 @@
 ||*Copyright: Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)*
 ||
 |||
-|2025-06-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SeaTurtleBrazil_JA-JP7521430958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SeaTurtleBrazil_JA-JP7521430958_UHD.jpg)|
-||*Copyright: 碧い海に舞うウミガメ, ブラジル (© João Vianna/Getty Images)*
+|2025-06-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CumberlandOaks_JA-JP7607865039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CumberlandOaks_JA-JP7607865039_UHD.jpg)|
+||*Copyright: カンバーランド島国立海岸, 米国 ジョージア州 (© Chris Moore/TANDEM Stills + Motion)*
 ||
 |||
 |2025-06-16|**Region: en-IN**||
