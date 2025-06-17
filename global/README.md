@@ -6,9 +6,9 @@
 ||*Copyright: Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)*
 ||
 |||
-|2025-06-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CumberlandOaks_JA-JP7607865039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CumberlandOaks_JA-JP7607865039_UHD.jpg)|
-||*Copyright: カンバーランド島国立海岸, 米国 ジョージア州 (© Chris Moore/TANDEM Stills + Motion)*
+|2025-06-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AsianSwallowtail_JA-JP7699354207_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsianSwallowtail_JA-JP7699354207_UHD.jpg)|
+||*Copyright: 彼岸花にナミアゲハ (© lzh/Getty Images)*
 ||
 |||
 |2025-06-17|**Region: en-IN**||
