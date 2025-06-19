@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-06-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg)|
-||*Copyright: Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)*
+|2025-06-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg)|
+||*Copyright: Texas State Capitol in Austin (© joe daniel price/Getty Images)*
 ||
 |||
 |2025-06-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ホタルが光る森, 岡山県 (© JGalione/Getty Images)*
 ||
 |||
-|2025-06-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-IN9285940259_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-IN9285940259_UHD.jpg)|
-||*Copyright: Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)*
+|2025-06-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-IN6391269206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-IN6391269206_UHD.jpg)|
+||*Copyright: Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)*
 ||
 |||
-|2025-06-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AsianSwallowtail_PT-BR4054073154_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsianSwallowtail_PT-BR4054073154_UHD.jpg)|
-||*Copyright: Borboleta sobre lírio-da-aranha-vermelha (© lzh/Getty Images)*
+|2025-06-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.IcelandSolstice_PT-BR2763816413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSolstice_PT-BR2763816413_UHD.jpg)|
+||*Copyright: Cascata de Seljalandsfoss ao entardecer, na Islândia (© Tom Mackie/AWL/plainpicture)*
 ||
 |||
-|2025-06-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AsianSwallowtail_FR-FR5577967148_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsianSwallowtail_FR-FR5577967148_UHD.jpg)|
-||*Copyright: Papillon machaon asiatique sur un lis araignée rouge (© lzh/Getty Images)*
+|2025-06-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.WinterBegins_FR-FR5821587665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterBegins_FR-FR5821587665_UHD.jpg)|
+||*Copyright: Plage à Santa Catarina, Brésil (© CaioCarvalhoPhotography/Getty Images)*
 ||
 |||
-|2025-06-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AsianSwallowtail_DE-DE9625151337_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsianSwallowtail_DE-DE9625151337_UHD.jpg)|
-||*Copyright: Japanischer Schwalbenschwanz auf einer Spinnenlilie (© lzh/Getty Images)*
+|2025-06-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.WinterBegins_DE-DE2019737039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterBegins_DE-DE2019737039_UHD.jpg)|
+||*Copyright: Strand in Santa Catarina, Brasilien (© CaioCarvalhoPhotography/Getty Images)*
 ||
 |||
-|2025-06-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-CA4695488605_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-CA4695488605_UHD.jpg)|
-||*Copyright: Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)*
+|2025-06-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SanMiguelAzores_EN-CA7375629918_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanMiguelAzores_EN-CA7375629918_UHD.jpg)|
+||*Copyright: Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)*
 ||
 |||
-|2025-06-18|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-GB8497991107_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-GB8497991107_UHD.jpg)|
-||*Copyright: Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)*
+|2025-06-19|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.DolomitiEstate_EN-GB8739058818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitiEstate_EN-GB8739058818_UHD.jpg)|
+||*Copyright: Cinque Torri, Dolomites, Italy (© usabin/Getty Images)*
 ||
 |||
-|2025-06-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AsianSwallowtail_IT-IT6116114113_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsianSwallowtail_IT-IT6116114113_UHD.jpg)|
-||*Copyright: Macaone asiatico su un Giglio del Ragno Rosso (© lzh/Getty Images)*
+|2025-06-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.WinterBegins_IT-IT6219104998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterBegins_IT-IT6219104998_UHD.jpg)|
+||*Copyright: Spiaggia a Santa Catarina, Brasile (© CaioCarvalhoPhotography/Getty Images)*
 ||
 |||
-|2025-06-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AsianSwallowtail_ES-ES0291489304_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsianSwallowtail_ES-ES0291489304_UHD.jpg)|
-||*Copyright: Mariposa cola de golondrina asiática en un lirio araña rojo (© lzh/Getty Images)*
+|2025-06-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.WinterBegins_ES-ES0401089663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterBegins_ES-ES0401089663_UHD.jpg)|
+||*Copyright: Playa en Santa Catarina, Brasil (© CaioCarvalhoPhotography/Getty Images)*
 ||
 |||
-|2025-06-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AsianSwallowtail_FR-CA9631764778_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AsianSwallowtail_FR-CA9631764778_UHD.jpg)|
-||*Copyright: Papillon machaon asiatique sur un lis araignée rouge (© lzh/Getty Images)*
+|2025-06-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SanMiguelAzores_FR-CA6483146395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanMiguelAzores_FR-CA6483146395_UHD.jpg)|
+||*Copyright: Îlot de Vila Franca do Campo, île de São Miguel, Açores, Portugal (© ARoxo/Getty Images)*
 ||
 |||
 
