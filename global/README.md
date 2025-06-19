@@ -6,9 +6,9 @@
 ||*Copyright: Texas State Capitol in Austin (© joe daniel price/Getty Images)*
 ||
 |||
-|2025-06-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FireflySeason2025_JA-JP3057846302_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireflySeason2025_JA-JP3057846302_UHD.jpg)|
-||*Copyright: ホタルが光る森, 岡山県 (© JGalione/Getty Images)*
+|2025-06-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IcelandSolstice_JA-JP9258082333_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSolstice_JA-JP9258082333_UHD.jpg)|
+||*Copyright: セリャラントスフォス, アイスランド  (© Tom Mackie/AWL/plainpicture)*
 ||
 |||
 |2025-06-19|**Region: en-IN**||
