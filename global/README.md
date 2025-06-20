@@ -6,9 +6,9 @@
 ||*Copyright: Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)*
 ||
 |||
-|2025-06-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IcelandSolstice_JA-JP9258082333_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSolstice_JA-JP9258082333_UHD.jpg)|
-||*Copyright: セリャラントスフォス, アイスランド  (© Tom Mackie/AWL/plainpicture)*
+|2025-06-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_JA-JP9470836014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SerengetiGiraffe_JA-JP9470836014_UHD.jpg)|
+||*Copyright: マサイキリンの母子, タンザニア (© Alberto Cassani/Getty Images)*
 ||
 |||
 |2025-06-20|**Region: en-IN**||
@@ -37,7 +37,7 @@
 ||
 |||
 |2025-06-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-GB8989082610_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-GB8989082610_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-GB0487583415_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-GB0487583415_UHD.jpg)|
 ||*Copyright: Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)*
 ||
 |||
