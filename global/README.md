@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-06-20|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg)|
-||*Copyright: Texas State Capitol in Austin (© joe daniel price/Getty Images)*
+|2025-06-21|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg)|
+||*Copyright: Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)*
 ||
 |||
 |2025-06-20|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: セリャラントスフォス, アイスランド  (© Tom Mackie/AWL/plainpicture)*
 ||
 |||
-|2025-06-19|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-IN6391269206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-IN6391269206_UHD.jpg)|
+|2025-06-20|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-IN9654538547_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-IN9654538547_UHD.jpg)|
+||*Copyright: Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)*
+||
+|||
+|2025-06-21|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.WinterBegins_PT-BR2647021709_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterBegins_PT-BR2647021709_UHD.jpg)|
+||*Copyright: Praia em Santa Catarina (© CaioCarvalhoPhotography/Getty Images)*
+||
+|||
+|2025-06-20|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_FR-FR9630201314_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SerengetiGiraffe_FR-FR9630201314_UHD.jpg)|
+||*Copyright: Girafe Masaï et son girafon, parc national du Serengeti, Tanzanie (© Alberto Cassani/Getty Images)*
+||
+|||
+|2025-06-20|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_DE-DE4851504112_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SerengetiGiraffe_DE-DE4851504112_UHD.jpg)|
+||*Copyright: Massai-Giraffenmutter pflegt ihr Kalb im Serengeti-Nationalpark, Tansania (© Alberto Cassani/Getty Images)*
+||
+|||
+|2025-06-21|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-CA5496259238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-CA5496259238_UHD.jpg)|
+||*Copyright: Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)*
+||
+|||
+|2025-06-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-GB8989082610_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-GB8989082610_UHD.jpg)|
 ||*Copyright: Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)*
 ||
 |||
-|2025-06-20|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.IcelandSolstice_PT-BR2763816413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSolstice_PT-BR2763816413_UHD.jpg)|
-||*Copyright: Cascata de Seljalandsfoss ao entardecer, na Islândia (© Tom Mackie/AWL/plainpicture)*
+|2025-06-20|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_UHD.jpg)|
+||*Copyright: Riserva Naturale Orientata Saline di Trapani e Paceco, Trapani, Sicilia (© RobertoGennaro/E+)*
 ||
 |||
-|2025-06-19|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WinterBegins_FR-FR5821587665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterBegins_FR-FR5821587665_UHD.jpg)|
-||*Copyright: Plage à Santa Catarina, Brésil (© CaioCarvalhoPhotography/Getty Images)*
+|2025-06-20|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.IcelandSolstice_ES-ES0482972208_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSolstice_ES-ES0482972208_UHD.jpg)|
+||*Copyright: Cascada de Seljalandsfoss al atardecer, Islandia (© Tom Mackie/AWL/plainpicture)*
 ||
 |||
-|2025-06-19|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WinterBegins_DE-DE2019737039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterBegins_DE-DE2019737039_UHD.jpg)|
-||*Copyright: Strand in Santa Catarina, Brasilien (© CaioCarvalhoPhotography/Getty Images)*
-||
-|||
-|2025-06-20|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SanMiguelAzores_EN-CA7375629918_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanMiguelAzores_EN-CA7375629918_UHD.jpg)|
-||*Copyright: Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)*
-||
-|||
-|2025-06-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DolomitiEstate_EN-GB8739058818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitiEstate_EN-GB8739058818_UHD.jpg)|
-||*Copyright: Cinque Torri, Dolomites, Italy (© usabin/Getty Images)*
-||
-|||
-|2025-06-19|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WinterBegins_IT-IT6219104998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterBegins_IT-IT6219104998_UHD.jpg)|
-||*Copyright: Spiaggia a Santa Catarina, Brasile (© CaioCarvalhoPhotography/Getty Images)*
-||
-|||
-|2025-06-19|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.WinterBegins_ES-ES0401089663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterBegins_ES-ES0401089663_UHD.jpg)|
-||*Copyright: Playa en Santa Catarina, Brasil (© CaioCarvalhoPhotography/Getty Images)*
-||
-|||
-|2025-06-20|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SanMiguelAzores_FR-CA6483146395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanMiguelAzores_FR-CA6483146395_UHD.jpg)|
-||*Copyright: Îlot de Vila Franca do Campo, île de São Miguel, Açores, Portugal (© ARoxo/Getty Images)*
+|2025-06-21|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.IcelandSolstice_FR-CA9981764329_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSolstice_FR-CA9981764329_UHD.jpg)|
+||*Copyright: Cascade de Seljalandsfoss au coucher du soleil, Islande (© Tom Mackie/AWL/plainpicture)*
 ||
 |||
 
