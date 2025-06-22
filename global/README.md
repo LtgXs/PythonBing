@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-06-22|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-US2127484447_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-US2127484447_UHD.jpg)|
-||*Copyright: Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)*
+|2025-06-23|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AmazonEcuador_EN-US2195278379_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonEcuador_EN-US2195278379_UHD.jpg)|
+||*Copyright: Amazon rainforest, Ecuador (© Mark Fox/Getty Images)*
 ||
 |||
 |2025-06-22|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アマゾン熱帯雨林, エクアドル (© Mark Fox/Getty Images)*
 ||
 |||
-|2025-06-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LakshmanJhula_EN-IN9788352654_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakshmanJhula_EN-IN9788352654_UHD.jpg)|
-||*Copyright: Lakshman Jhula, Rishikesh, Uttarakhand (© tscreationz/Shutterstock)*
+|2025-06-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AmazonEcuador_EN-IN0140083237_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonEcuador_EN-IN0140083237_UHD.jpg)|
+||*Copyright: Amazon rainforest, Ecuador (© Mark Fox/Getty Images)*
 ||
 |||
-|2025-06-22|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_PT-BR2390228127_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SerengetiGiraffe_PT-BR2390228127_UHD.jpg)|
-||*Copyright: Girafa-masai cuidando seu filhote no Serengeti, Tanzânia (© Alberto Cassani/Getty Images)*
+|2025-06-23|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AmazonEcuador_PT-BR8954239087_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonEcuador_PT-BR8954239087_UHD.jpg)|
+||*Copyright: Floresta Amazônica, Equador (© Mark Fox/Getty Images)*
 ||
 |||
-|2025-06-21|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AntibesMusic_FR-FR0026620746_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntibesMusic_FR-FR0026620746_UHD.jpg)|
-||*Copyright: Littoral de la Côte d’Azur à Antibes (© StockByM/Getty Images)*
+|2025-06-22|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AmazonEcuador_FR-FR0161902785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonEcuador_FR-FR0161902785_UHD.jpg)|
+||*Copyright: Forêt amazonienne, Équateur (© Mark Fox/Getty Images)*
 ||
 |||
-|2025-06-21|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.IcelandSolstice_DE-DE8326410119_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSolstice_DE-DE8326410119_UHD.jpg)|
-||*Copyright: Seljalandsfoss-Wasserfall bei Sonnenuntergang, Island (© Tom Mackie/AWL/plainpicture)*
+|2025-06-22|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AmazonEcuador_DE-DE0206747669_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonEcuador_DE-DE0206747669_UHD.jpg)|
+||*Copyright: Amazonas-Regenwald, Ecuador  (© Mark Fox/Getty Images)*
 ||
 |||
-|2025-06-22|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-CA5577558802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-CA5577558802_UHD.jpg)|
-||*Copyright: Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)*
+|2025-06-23|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AmazonEcuador_EN-CA0127990523_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonEcuador_EN-CA0127990523_UHD.jpg)|
+||*Copyright: Amazon rainforest, Ecuador (© Mark Fox/Getty Images)*
 ||
 |||
-|2025-06-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-GB9174447978_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-GB9174447978_UHD.jpg)|
-||*Copyright: Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)*
+|2025-06-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AmazonEcuador_EN-GB9331182171_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonEcuador_EN-GB9331182171_UHD.jpg)|
+||*Copyright: Amazon rainforest, Ecuador (© Mark Fox/Getty Images)*
 ||
 |||
-|2025-06-21|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.IcelandSolstice_IT-IT6375034077_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSolstice_IT-IT6375034077_UHD.jpg)|
-||*Copyright: Cascate di Seljalandsfoss al tramonto, Islanda (© Tom Mackie/AWL/plainpicture)*
+|2025-06-22|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AmazonEcuador_IT-IT6428077520_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonEcuador_IT-IT6428077520_UHD.jpg)|
+||*Copyright: Foresta Amazzonica, Ecuador (© Mark Fox/Getty Images)*
 ||
 |||
-|2025-06-21|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.WorldTriathlonMultisport_ES-ES0689492688_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WorldTriathlonMultisport_ES-ES0689492688_UHD.jpg)|
-||*Copyright: Playa de Portonovo en la Ría de Pontevedra, España (© Andres Garcia Martin/Shutterstock)*
+|2025-06-22|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AmazonEcuador_ES-ES0820958985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonEcuador_ES-ES0820958985_UHD.jpg)|
+||*Copyright: Selva amazónica, Ecuador (© Mark Fox/Getty Images)*
 ||
 |||
-|2025-06-22|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SerengetiGiraffe_FR-CA0126401878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SerengetiGiraffe_FR-CA0126401878_UHD.jpg)|
-||*Copyright: Une girafe Masaï et son girafon, parc national du Serengeti, Tanzanie (© Alberto Cassani/Getty Images)*
+|2025-06-23|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonEcuador_FR-CA0323191922_UHD.jpg)|
+||*Copyright: Forêt amazonienne, Équateur (© Mark Fox/Getty Images)*
 ||
 |||
 
