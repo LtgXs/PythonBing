@@ -6,9 +6,9 @@
 ||*Copyright: Amazon rainforest, Ecuador (© Mark Fox/Getty Images)*
 ||
 |||
-|2025-06-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AmazonEcuador_JA-JP9558319744_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmazonEcuador_JA-JP9558319744_UHD.jpg)|
-||*Copyright: アマゾン熱帯雨林, エクアドル (© Mark Fox/Getty Images)*
+|2025-06-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DresdenElbe_JA-JP9615629760_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DresdenElbe_JA-JP9615629760_UHD.jpg)|
+||*Copyright: ドレスデン, ドイツ (© Sean Pavone/Getty Images)*
 ||
 |||
 |2025-06-22|**Region: en-IN**||
