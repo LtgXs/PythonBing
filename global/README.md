@@ -6,9 +6,9 @@
 ||*Copyright: The Elbe in Dresden, Germany (© Sean Pavone/Getty Images)*
 ||
 |||
-|2025-06-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DresdenElbe_JA-JP9615629760_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DresdenElbe_JA-JP9615629760_UHD.jpg)|
-||*Copyright: ドレスデン, ドイツ (© Sean Pavone/Getty Images)*
+|2025-06-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DelicateArch_JA-JP9672362055_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DelicateArch_JA-JP9672362055_UHD.jpg)|
+||*Copyright: アーチーズ国立公園, 米国 ユタ州 (© mmac72/Getty Images)*
 ||
 |||
 |2025-06-23|**Region: en-IN**||
