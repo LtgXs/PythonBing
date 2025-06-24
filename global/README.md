@@ -6,9 +6,9 @@
 ||*Copyright: Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)*
 ||
 |||
-|2025-06-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DelicateArch_JA-JP9672362055_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DelicateArch_JA-JP9672362055_UHD.jpg)|
-||*Copyright: アーチーズ国立公園, 米国 ユタ州 (© mmac72/Getty Images)*
+|2025-06-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GlastonburyScenic_JA-JP9733045581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlastonburyScenic_JA-JP9733045581_UHD.jpg)|
+||*Copyright: グラストンベリー・トー, イングランド (© Gavin Hellier/Getty Images)*
 ||
 |||
 |2025-06-24|**Region: en-IN**||
