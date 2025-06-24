@@ -1,0 +1,60 @@
+
+Program started at 09:33:59
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Thu May  1 02:52:08 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1979-727
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:33:59] Start geting CN Bing Wallpaper
+[09:34:00] Successful get url: https://www.bing.com/th?id=OHR.DelicateArch_ZH-CN8971667580_UHD.jpg
+[09:34:00] Image saved to img/background.jpg
+[09:34:00] Info saved to README.md
+[09:34:00] Image saved to history/2025/06/24.md
+[09:34:00] Start geting global Bing Wallpaper, region=en-US, local time is 2025-06-24 05:34:00.046643-04:00
+[09:34:00] Successful get url: https://www.bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg
+[09:34:00] Picture infomations saved to  global/en-US/README.md
+[09:34:00] Picture infomations saved to global/en-US/history/2025/06/25_en-US.md
+[09:34:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-06-24 18:34:00.135788+09:00
+[09:34:00] Successful get url: https://www.bing.com/th?id=OHR.DelicateArch_JA-JP9672362055_UHD.jpg
+[09:34:00] Picture infomations saved to  global/ja-JP/README.md
+[09:34:00] Picture infomations saved to global/ja-JP/history/2025/06/24_ja-JP.md
+[09:34:00] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-06-24 15:04:00.230363+05:30
+[09:34:00] Successful get url: https://www.bing.com/th?id=OHR.DelicateArch_EN-IN0498341649_UHD.jpg
+[09:34:00] Picture infomations saved to  global/en-IN/README.md
+[09:34:00] Picture infomations saved to global/en-IN/history/2025/06/24_en-IN.md
+[09:34:00] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-06-24 06:34:00.311025-03:00
+[09:34:00] Successful get url: https://www.bing.com/th?id=OHR.Araraquara_PT-BR8567454542_UHD.jpg
+[09:34:00] Picture infomations saved to  global/pt-BR/README.md
+[09:34:00] Picture infomations saved to global/pt-BR/history/2025/06/25_pt-BR.md
+[09:34:00] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-06-24 11:34:00.411362+02:00
+[09:34:00] Successful get url: https://www.bing.com/th?id=OHR.BolozonViaduct_FR-FR0653638254_UHD.jpg
+[09:34:00] Picture infomations saved to  global/fr-FR/README.md
+[09:34:00] Picture infomations saved to global/fr-FR/history/2025/06/24_fr-FR.md
+[09:34:00] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-06-24 11:34:00.490456+02:00
+[09:34:00] Successful get url: https://www.bing.com/th?id=OHR.ScenicEibsee_DE-DE0418956156_UHD.jpg
+[09:34:00] Picture infomations saved to  global/de-DE/README.md
+[09:34:00] Picture infomations saved to global/de-DE/history/2025/06/24_de-DE.md
+[09:34:00] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-06-24 05:34:00.567968-04:00
+[09:34:00] Successful get url: https://www.bing.com/th?id=OHR.DelicateArch_EN-CA0482409056_UHD.jpg
+[09:34:00] Picture infomations saved to  global/en-CA/README.md
+[09:34:00] Picture infomations saved to global/en-CA/history/2025/06/25_en-CA.md
+[09:34:00] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-06-24 10:34:00.650341+01:00
+[09:34:00] Successful get url: https://www.bing.com/th?id=OHR.DelicateArch_EN-GB4483043956_UHD.jpg
+[09:34:00] Picture infomations saved to  global/en-GB/README.md
+[09:34:00] Picture infomations saved to global/en-GB/history/2025/06/24_en-GB.md
+[09:34:00] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-06-24 11:34:00.738200+02:00
+[09:34:00] Successful get url: https://www.bing.com/th?id=OHR.DelicateArch_IT-IT6581270768_UHD.jpg
+[09:34:00] Picture infomations saved to  global/it-IT/README.md
+[09:34:00] Picture infomations saved to global/it-IT/history/2025/06/24_it-IT.md
+[09:34:00] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-06-24 11:34:00.818803+02:00
+[09:34:00] Successful get url: https://www.bing.com/th?id=OHR.DelicateArch_ES-ES1233867011_UHD.jpg
+[09:34:00] Picture infomations saved to  global/es-ES/README.md
+[09:34:00] Picture infomations saved to global/es-ES/history/2025/06/24_es-ES.md
+[09:34:00] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-06-24 05:34:00.904593-04:00
+[09:34:00] Successful get url: https://www.bing.com/th?id=OHR.DelicateArch_FR-CA1133220926_UHD.jpg
+[09:34:00] Picture infomations saved to  global/fr-CA/README.md
+[09:34:00] Picture infomations saved to global/fr-CA/history/2025/06/25_fr-CA.md
+Program exit at 09:34:00

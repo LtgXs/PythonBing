@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-06-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg)|
-||*Copyright: The Elbe in Dresden, Germany (© Sean Pavone/Getty Images)*
+|2025-06-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg)|
+||*Copyright: Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)*
 ||
 |||
 |2025-06-24|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アーチーズ国立公園, 米国 ユタ州 (© mmac72/Getty Images)*
 ||
 |||
-|2025-06-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.DresdenElbe_EN-IN0311228485_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DresdenElbe_EN-IN0311228485_UHD.jpg)|
-||*Copyright: Elbe river in Dresden, Germany (© Sean Pavone/Getty Images)*
+|2025-06-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.DelicateArch_EN-IN0498341649_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DelicateArch_EN-IN0498341649_UHD.jpg)|
+||*Copyright: Delicate Arch, Arches National Park, Utah, United States (© mmac72/Getty Images)*
 ||
 |||
-|2025-06-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DresdenElbe_PT-BR8840681682_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DresdenElbe_PT-BR8840681682_UHD.jpg)|
-||*Copyright: Rio Elba em Dresden, Alemanha (© Sean Pavone/Getty Images)*
+|2025-06-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Araraquara_PT-BR8567454542_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Araraquara_PT-BR8567454542_UHD.jpg)|
+||*Copyright: Araraquara, São Paulo (© Dante Laurini Jr. Imagens/Getty Images)*
 ||
 |||
-|2025-06-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DresdenElbe_FR-FR0408515096_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DresdenElbe_FR-FR0408515096_UHD.jpg)|
-||*Copyright: Fleuve Elbe à Dresde, Allemagne (© Sean Pavone/Getty Images)*
+|2025-06-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BolozonViaduct_FR-FR0653638254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BolozonViaduct_FR-FR0653638254_UHD.jpg)|
+||*Copyright: Viaduc de Cize-Bolozon enjambant la rivière d’Ain, Auvergne-Rhône-Alpes (© Leonid Andronov/Getty Images)*
 ||
 |||
-|2025-06-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.DresdenElbe_DE-DE5406785601_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DresdenElbe_DE-DE5406785601_UHD.jpg)|
-||*Copyright: Elbe in Dresden, Sachsen (© Sean Pavone/Getty Images)*
+|2025-06-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ScenicEibsee_DE-DE0418956156_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScenicEibsee_DE-DE0418956156_UHD.jpg)|
+||*Copyright: Eibsee, Bayern (© NejauPhoto/Getty Images)*
 ||
 |||
-|2025-06-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DresdenElbe_EN-CA0313860830_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DresdenElbe_EN-CA0313860830_UHD.jpg)|
-||*Copyright: Elbe river in Dresden, Germany (© Sean Pavone/Getty Images)*
+|2025-06-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.DelicateArch_EN-CA0482409056_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DelicateArch_EN-CA0482409056_UHD.jpg)|
+||*Copyright: Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)*
 ||
 |||
-|2025-06-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DresdenElbe_EN-GB9622986558_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DresdenElbe_EN-GB9622986558_UHD.jpg)|
-||*Copyright: Elbe river in Dresden, Germany (© Sean Pavone/Getty Images)*
+|2025-06-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.DelicateArch_EN-GB4483043956_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DelicateArch_EN-GB4483043956_UHD.jpg)|
+||*Copyright: Delicate Arch, Arches National Park, Utah, United States (© mmac72/Getty Images)*
 ||
 |||
-|2025-06-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DresdenElbe_IT-IT6499150995_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DresdenElbe_IT-IT6499150995_UHD.jpg)|
-||*Copyright: Dresda, Fiume Elba, Sassonia, Germania (© Sean Pavone/Getty Images)*
+|2025-06-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DelicateArch_IT-IT6581270768_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DelicateArch_IT-IT6581270768_UHD.jpg)|
+||*Copyright: Delicate Arch, Parco Nazionale degli Arches, Utah, USA (© mmac72/Getty Images)*
 ||
 |||
-|2025-06-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CalaIbiza_ES-ES1129716294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalaIbiza_ES-ES1129716294_UHD.jpg)|
-||*Copyright: Bahía de Cala D'hort, Ibiza, España (© Juergen Sack/Getty Images)*
+|2025-06-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.DelicateArch_ES-ES1233867011_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DelicateArch_ES-ES1233867011_UHD.jpg)|
+||*Copyright: Delicate Arch, Parque nacional de los Arcos, Utah, EE. UU. (© mmac72/Getty Images)*
 ||
 |||
-|2025-06-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DresdenElbe_FR-CA0474923100_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DresdenElbe_FR-CA0474923100_UHD.jpg)|
-||*Copyright: Fleuve Elbe à Dresde, Allemagne (© Sean Pavone/Getty Images)*
+|2025-06-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.DelicateArch_FR-CA1133220926_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DelicateArch_FR-CA1133220926_UHD.jpg)|
+||*Copyright: Delicate Arch, parc national des Arches, Utah, États-Unis (© mmac72/Getty Images)*
 ||
 |||
 
