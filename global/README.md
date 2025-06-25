@@ -6,9 +6,9 @@
 ||*Copyright: St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)*
 ||
 |||
-|2025-06-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GlastonburyScenic_JA-JP9733045581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GlastonburyScenic_JA-JP9733045581_UHD.jpg)|
-||*Copyright: グラストンベリー・トー, イングランド (© Gavin Hellier/Getty Images)*
+|2025-06-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HorseheadRock_JA-JP9769020996_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseheadRock_JA-JP9769020996_UHD.jpg)|
+||*Copyright: ホースヘッド・ロック, オーストラリア ニューサウスウェールズ州 (© Philip Thurston/Getty Images)*
 ||
 |||
 |2025-06-25|**Region: en-IN**||
