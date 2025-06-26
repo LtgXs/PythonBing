@@ -6,9 +6,9 @@
 ||*Copyright: The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)*
 ||
 |||
-|2025-06-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HorseheadRock_JA-JP9769020996_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseheadRock_JA-JP9769020996_UHD.jpg)|
-||*Copyright: ホースヘッド・ロック, オーストラリア ニューサウスウェールズ州 (© Philip Thurston/Getty Images)*
+|2025-06-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ShetlandGannets_JA-JP3345232589_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShetlandGannets_JA-JP3345232589_UHD.jpg)|
+||*Copyright: 魚を狙うシロカツオドリ, スコットランド (© Richard Shucksmith/Minden Pictures)*
 ||
 |||
 |2025-06-26|**Region: en-IN**||
