@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-06-27|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg)|
-||*Copyright: The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)*
+|2025-06-28|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg)|
+||*Copyright: Splendid leaf frog (© Jan Stria/Shutterstock)*
 ||
 |||
 |2025-06-27|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 魚を狙うシロカツオドリ, スコットランド (© Richard Shucksmith/Minden Pictures)*
 ||
 |||
-|2025-06-26|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.HorseheadRock_EN-IN7173211843_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseheadRock_EN-IN7173211843_UHD.jpg)|
-||*Copyright: The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)*
+|2025-06-27|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SplendidFrog_EN-IN1765447694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SplendidFrog_EN-IN1765447694_UHD.jpg)|
+||*Copyright: Splendid leaf frog (© Jan Stria/Shutterstock)*
 ||
 |||
-|2025-06-27|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.HorseheadRock_PT-BR5419648033_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseheadRock_PT-BR5419648033_UHD.jpg)|
-||*Copyright: Via Láctea sobre a Horse Head Rock, Nova Gales do Sul, Austrália (© Philip Thurston/Getty Images)*
+|2025-06-28|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SplendidFrog_PT-BR2454660849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SplendidFrog_PT-BR2454660849_UHD.jpg)|
+||*Copyright: Cruziohyla calcarifer, rã arborícola (© Jan Stria/Shutterstock)*
 ||
 |||
-|2025-06-26|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HorseheadRock_FR-FR1124567196_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseheadRock_FR-FR1124567196_UHD.jpg)|
-||*Copyright: Voie lactée, Horse Head Rock, Nouvelle-Galles du Sud, Australie (© Philip Thurston/Getty Images)*
+|2025-06-27|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SplendidFrog_FR-FR6442943512_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SplendidFrog_FR-FR6442943512_UHD.jpg)|
+||*Copyright: Grenouille Cruziohyla calcarifer (© Jan Stria/Shutterstock)*
 ||
 |||
-|2025-06-26|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.HorseheadRock_DE-DE6717487152_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseheadRock_DE-DE6717487152_UHD.jpg)|
-||*Copyright: Die Milchstraße über Horse Head Rock, Neusüdwales, Australien (© Philip Thurston/Getty Images)*
+|2025-06-27|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SplendidFrog_DE-DE7801241876_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SplendidFrog_DE-DE7801241876_UHD.jpg)|
+||*Copyright: Prachtgreiffrosch (© Jan Stria/Shutterstock)*
 ||
 |||
-|2025-06-27|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HorseheadRock_EN-CA0845252877_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseheadRock_EN-CA0845252877_UHD.jpg)|
-||*Copyright: The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)*
+|2025-06-28|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SplendidFrog_EN-CA1521456248_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SplendidFrog_EN-CA1521456248_UHD.jpg)|
+||*Copyright: Splendid leaf frog (© Jan Stria/Shutterstock)*
 ||
 |||
-|2025-06-26|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.HorseheadRock_EN-GB7257455536_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseheadRock_EN-GB7257455536_UHD.jpg)|
-||*Copyright: The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)*
+|2025-06-27|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SplendidFrog_EN-GB1133553624_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SplendidFrog_EN-GB1133553624_UHD.jpg)|
+||*Copyright: Splendid leaf frog (© Jan Stria/Shutterstock)*
 ||
 |||
-|2025-06-26|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.HorseheadRock_IT-IT0871929651_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseheadRock_IT-IT0871929651_UHD.jpg)|
-||*Copyright: La Via Lattea sopra Horse Head Rock, Nuovo Galles del Sud, Australia (© Philip Thurston/Getty Images)*
+|2025-06-27|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MaroonClownfish_IT-IT1939766498_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaroonClownfish_IT-IT1939766498_UHD.jpg)|
+||*Copyright: Pesce pagliaccio, Milne Bay, Papua Nuova Guinea (© Fred Bavendam/Nature Picture Library)*
 ||
 |||
-|2025-06-26|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.HorseheadRock_ES-ES1398658009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseheadRock_ES-ES1398658009_UHD.jpg)|
-||*Copyright: La Vía Láctea sobre Horse Head Rock, Nueva Gales del Sur, Australia (© Philip Thurston/Getty Images)*
+|2025-06-27|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SplendidFrog_ES-ES0147065495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SplendidFrog_ES-ES0147065495_UHD.jpg)|
+||*Copyright: Rana de hoja espléndida (© Jan Stria/Shutterstock)*
 ||
 |||
-|2025-06-27|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HorseheadRock_FR-CA1420999474_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseheadRock_FR-CA1420999474_UHD.jpg)|
-||*Copyright: Voie lactée, Horse Head Rock, Nouvelle-Galles du Sud, Australie (© Philip Thurston/Getty Images)*
+|2025-06-28|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SplendidFrog_FR-CA1970475341_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SplendidFrog_FR-CA1970475341_UHD.jpg)|
+||*Copyright: Grenouille Cruziohyla calcarifer (© Jan Stria/Shutterstock)*
 ||
 |||
 
