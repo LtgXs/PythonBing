@@ -6,9 +6,9 @@
 ||*Copyright: Rainbow flags at New York Pride (© Alan Schein/Getty Images)*
 ||
 |||
-|2025-06-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PrideParade_JA-JP3577767759_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrideParade_JA-JP3577767759_UHD.jpg)|
-||*Copyright: 風になびくプライドフラッグ, 米国 ニューヨーク州 (© Alan Schein/Getty Images)*
+|2025-06-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BandaIsland_JA-JP3779837840_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandaIsland_JA-JP3779837840_UHD.jpg)|
+||*Copyright: 緑の森と青い海, インドネシア (© fabio lamanna/Alamy)*
 ||
 |||
 |2025-06-28|**Region: en-IN**||
