@@ -6,9 +6,9 @@
 ||*Copyright: Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)*
 ||
 |||
-|2025-06-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BandaIsland_JA-JP3779837840_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandaIsland_JA-JP3779837840_UHD.jpg)|
-||*Copyright: 緑の森と青い海, インドネシア (© fabio lamanna/Alamy)*
+|2025-06-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WolfeCrater_JA-JP6958421820_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WolfeCrater_JA-JP6958421820_UHD.jpg)|
+||*Copyright: ウルフクリーク・クレーター, オーストラリア (© Abstract Aerial Art/Getty Images)*
 ||
 |||
 |2025-06-29|**Region: en-IN**||
