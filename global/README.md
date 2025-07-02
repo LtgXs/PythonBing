@@ -6,9 +6,9 @@
 ||*Copyright: Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)*
 ||
 |||
-|2025-07-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MaroonClownfish_JA-JP7352602108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaroonClownfish_JA-JP7352602108_UHD.jpg)|
-||*Copyright: スパインチーク・アネモネフィッシュ, パプアニューギニア (© Fred Bavendam/Nature Picture Library)*
+|2025-07-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RainbowRiver_JA-JP7583183252_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainbowRiver_JA-JP7583183252_UHD.jpg)|
+||*Copyright: レインボー・スプリングス州立公園, 米国 フロリダ州 (© Michel Roggo/Minden Pictures)*
 ||
 |||
 |2025-07-02|**Region: en-IN**||
