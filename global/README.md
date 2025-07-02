@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-02|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg)|
-||*Copyright: Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)*
+|2025-07-03|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg)|
+||*Copyright: Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)*
 ||
 |||
 |2025-07-02|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: スパインチーク・アネモネフィッシュ, パプアニューギニア (© Fred Bavendam/Nature Picture Library)*
 ||
 |||
-|2025-07-01|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.KeralaHouseboats_EN-IN3537088049_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KeralaHouseboats_EN-IN3537088049_UHD.jpg)|
-||*Copyright: Houseboats on Vembanad lake, Kerala (© artherng/Getty Images)*
+|2025-07-02|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MaroonClownfish_EN-IN6113544568_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaroonClownfish_EN-IN6113544568_UHD.jpg)|
+||*Copyright: Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)*
 ||
 |||
-|2025-07-02|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CanadaDayFogo_PT-BR9552354869_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaDayFogo_PT-BR9552354869_UHD.jpg)|
-||*Copyright: Vila de pescadores de Tilting, Fogo Island, Terra Nova e Labrador, Canadá (© FedevPhoto/Getty Images)*
+|2025-07-03|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MaroonClownfish_PT-BR9242833832_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaroonClownfish_PT-BR9242833832_UHD.jpg)|
+||*Copyright: Peixe-palhaço cercado por anémona de ponta de bolha, Baía Milne, Papua-Nova Guiné (© Fred Bavendam/Nature Picture Library)*
 ||
 |||
-|2025-07-01|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ButterflyPurpleFlower_FR-FR7407948243_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyPurpleFlower_FR-FR7407948243_UHD.jpg)|
-||*Copyright: Papillon et abeille butinant délicatement une fleur aster (© Viviane Caballero/500px Viviane Caballero/500px/Getty Images)*
+|2025-07-02|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MaroonClownfish_FR-FR8871091841_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaroonClownfish_FR-FR8871091841_UHD.jpg)|
+||*Copyright: Poisson-clown à joues épineuses entouré d'une anémone à bouts renflés, baie de Milne, Papouasie-Nouvelle-Guinée (© Fred Bavendam/Nature Picture Library)*
 ||
 |||
-|2025-07-01|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CanadaDayFogo_DE-DE8180601933_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaDayFogo_DE-DE8180601933_UHD.jpg)|
-||*Copyright: Fischerdorf Tilting, Fogo Island, Neufundland und Labrador, Kanada (© FedevPhoto/Getty Images)*
+|2025-07-02|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CalwMarketsquare_DE-DE9027821635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CalwMarketsquare_DE-DE9027821635_UHD.jpg)|
+||*Copyright: Historische Fachwerkhäuser am Marktplatz, Calw, Baden-Württemberg (© imageBROKER/Getty Images)*
 ||
 |||
-|2025-07-02|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Canada25Day_EN-CA2287928069_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Canada25Day_EN-CA2287928069_UHD.jpg)|
-||*Copyright: Parliament Hill in Ottawa, Ontario (© f11photo/Shutterstock)*
+|2025-07-03|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MaroonClownfish_EN-CA2519665800_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaroonClownfish_EN-CA2519665800_UHD.jpg)|
+||*Copyright: Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)*
 ||
 |||
-|2025-07-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CanadaDayFogo_EN-GB1957442949_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaDayFogo_EN-GB1957442949_UHD.jpg)|
-||*Copyright: Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)*
+|2025-07-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MaroonClownfish_EN-GB2165136186_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaroonClownfish_EN-GB2165136186_UHD.jpg)|
+||*Copyright: Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)*
 ||
 |||
-|2025-07-01|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CanadaDayFogo_IT-IT2208843144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaDayFogo_IT-IT2208843144_UHD.jpg)|
-||*Copyright: Villaggio di pescatori di Tilting, Isola di Fogo, Terranova e Labrador, Canada (© FedevPhoto/Getty Images)*
+|2025-07-02|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PalioDiSiena_IT-IT2319808114_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalioDiSiena_IT-IT2319808114_UHD.jpg)|
+||*Copyright: Piazza del Campo, Siena, Toscana (© Aerial_Views/E+/Getty Images)*
 ||
 |||
-|2025-07-01|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CanadaDayFogo_ES-ES1121865641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaDayFogo_ES-ES1121865641_UHD.jpg)|
-||*Copyright: Pueblo pesquero de Tilting, isla de Fogo, Terranova y Labrador, Canadá (© FedevPhoto/Getty Images)*
+|2025-07-02|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TarragonaFireworks_ES-ES2035632810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TarragonaFireworks_ES-ES2035632810_UHD.jpg)|
+||*Copyright: Fuegos artificiales en Palamós, Gerona, Cataluña, España (© Nigel Perrin/Getty Images)*
 ||
 |||
-|2025-07-02|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CanadaDayFogo_FR-CA2667596304_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaDayFogo_FR-CA2667596304_UHD.jpg)|
-||*Copyright: Village de pêcheurs de Tilting, île Fogo, Terre-Neuve-et-Labrador (© FedevPhoto/Getty Images)*
+|2025-07-03|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MaroonClownfish_FR-CA2812323581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaroonClownfish_FR-CA2812323581_UHD.jpg)|
+||*Copyright: Poisson-clown à joues épineuses entouré d'une anémone à bouts renflés, baie de Milne, Papouasie-Nouvelle-Guinée (© Fred Bavendam/Nature Picture Library)*
 ||
 |||
 
