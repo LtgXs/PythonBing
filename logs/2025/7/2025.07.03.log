@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:33:51] Picture infomations saved to  global/fr-CA/README.md
 [09:33:51] Picture infomations saved to global/fr-CA/history/2025/07/04_fr-CA.md
 Program exit at 09:33:51
+
+Program started at 16:17:12
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Thu May  1 02:52:08 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az788-748
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:17:12] Start geting CN Bing Wallpaper
+[16:17:12] Successful get url: https://www.bing.com/th?id=OHR.OroseiSardegna_ZH-CN5789138034_UHD.jpg
+[16:17:12] Image saved to img/background.jpg
+[16:17:12] Info saved to README.md
+[16:17:12] Image saved to history/2025/07/04.md
+[16:17:12] Start geting global Bing Wallpaper, region=en-US, local time is 2025-07-03 12:17:12.364545-04:00
+[16:17:12] Successful get url: https://www.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg
+[16:17:12] Picture infomations saved to  global/en-US/README.md
+[16:17:12] Picture infomations saved to global/en-US/history/2025/07/04_en-US.md
+[16:17:12] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-07-04 01:17:12.486121+09:00
+[16:17:12] Successful get url: https://www.bing.com/th?id=OHR.SecedaPeak_JA-JP7772253981_UHD.jpg
+[16:17:12] Picture infomations saved to  global/ja-JP/README.md
+[16:17:12] Picture infomations saved to global/ja-JP/history/2025/07/04_ja-JP.md
+[16:17:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-07-03 21:47:12.642680+05:30
+[16:17:12] Successful get url: https://www.bing.com/th?id=OHR.RainbowRiver_EN-IN6286296662_UHD.jpg
+[16:17:12] Picture infomations saved to  global/en-IN/README.md
+[16:17:12] Picture infomations saved to global/en-IN/history/2025/07/03_en-IN.md
+[16:17:12] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-07-03 13:17:12.818028-03:00
+[16:17:12] Successful get url: https://www.bing.com/th?id=OHR.RainbowRiver_PT-BR7721810301_UHD.jpg
+[16:17:12] Picture infomations saved to  global/pt-BR/README.md
+[16:17:12] Picture infomations saved to global/pt-BR/history/2025/07/04_pt-BR.md
+[16:17:12] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-07-03 18:17:12.975293+02:00
+[16:17:13] Successful get url: https://www.bing.com/th?id=OHR.RainbowRiver_FR-FR9088497231_UHD.jpg
+[16:17:13] Picture infomations saved to  global/fr-FR/README.md
+[16:17:13] Picture infomations saved to global/fr-FR/history/2025/07/03_fr-FR.md
+[16:17:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-07-03 18:17:13.107758+02:00
+[16:17:13] Successful get url: https://www.bing.com/th?id=OHR.RainbowRiver_DE-DE1687862683_UHD.jpg
+[16:17:13] Picture infomations saved to  global/de-DE/README.md
+[16:17:13] Picture infomations saved to global/de-DE/history/2025/07/03_de-DE.md
+[16:17:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-07-03 12:17:13.273781-04:00
+[16:17:13] Successful get url: https://www.bing.com/th?id=OHR.RainbowRiver_EN-CA2699490403_UHD.jpg
+[16:17:13] Picture infomations saved to  global/en-CA/README.md
+[16:17:13] Picture infomations saved to global/en-CA/history/2025/07/04_en-CA.md
+[16:17:13] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-07-03 17:17:13.429399+01:00
+[16:17:13] Successful get url: https://www.bing.com/th?id=OHR.RainbowRiver_EN-GB2410657258_UHD.jpg
+[16:17:13] Picture infomations saved to  global/en-GB/README.md
+[16:17:13] Picture infomations saved to global/en-GB/history/2025/07/03_en-GB.md
+[16:17:13] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-07-03 18:17:13.601463+02:00
+[16:17:13] Successful get url: https://www.bing.com/th?id=OHR.RainbowRiver_IT-IT2380058164_UHD.jpg
+[16:17:13] Picture infomations saved to  global/it-IT/README.md
+[16:17:13] Picture infomations saved to global/it-IT/history/2025/07/03_it-IT.md
+[16:17:13] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-07-03 18:17:13.738906+02:00
+[16:17:13] Successful get url: https://www.bing.com/th?id=OHR.MaroonClownfish_ES-ES2159485386_UHD.jpg
+[16:17:13] Picture infomations saved to  global/es-ES/README.md
+[16:17:13] Picture infomations saved to global/es-ES/history/2025/07/03_es-ES.md
+[16:17:13] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-07-03 12:17:13.871285-04:00
+[16:17:13] Successful get url: https://www.bing.com/th?id=OHR.RainbowRiver_FR-CA2932903176_UHD.jpg
+[16:17:14] Picture infomations saved to  global/fr-CA/README.md
+[16:17:14] Picture infomations saved to global/fr-CA/history/2025/07/04_fr-CA.md
+Program exit at 16:17:14

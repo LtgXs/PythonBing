@@ -6,9 +6,9 @@
 ||*Copyright: Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)*
 ||
 |||
-|2025-07-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RainbowRiver_JA-JP7583183252_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainbowRiver_JA-JP7583183252_UHD.jpg)|
-||*Copyright: レインボー・スプリングス州立公園, 米国 フロリダ州 (© Michel Roggo/Minden Pictures)*
+|2025-07-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SecedaPeak_JA-JP7772253981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SecedaPeak_JA-JP7772253981_UHD.jpg)|
+||*Copyright: ドロミーティ, イタリア (© Kalyakan/Adobe Stock)*
 ||
 |||
 |2025-07-03|**Region: en-IN**||
