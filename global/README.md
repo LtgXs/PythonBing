@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg)|
-||*Copyright: Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)*
+|2025-07-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg)|
+||*Copyright: Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)*
 ||
 |||
 |2025-07-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ドロミーティ, イタリア (© Kalyakan/Adobe Stock)*
 ||
 |||
-|2025-07-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RainbowRiver_EN-IN6286296662_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainbowRiver_EN-IN6286296662_UHD.jpg)|
-||*Copyright: Rainbow River in Rainbow Springs State Park, Florida, United States (© Michel Roggo/Minden Pictures)*
+|2025-07-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.OroseiSardegna_EN-IN6533178952_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_EN-IN6533178952_UHD.jpg)|
+||*Copyright: Orosei, Sardinia, Italy (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-07-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.RainbowRiver_PT-BR7721810301_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainbowRiver_PT-BR7721810301_UHD.jpg)|
-||*Copyright: Rainbow River no Parque Estadual Rainbow Springs, Flórida, EUA (© Michel Roggo/Minden Pictures)*
+|2025-07-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.OroseiSardegna_PT-BR7332752018_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_PT-BR7332752018_UHD.jpg)|
+||*Copyright: Orosei, Sardenha, Itália (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-07-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.RainbowRiver_FR-FR9088497231_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainbowRiver_FR-FR9088497231_UHD.jpg)|
-||*Copyright: Rivière Rainbow, parc d'État de Rainbow Springs, États-Unis (© Michel Roggo/Minden Pictures)*
+|2025-07-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.OroseiSardegna_FR-FR4370872020_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_FR-FR4370872020_UHD.jpg)|
+||*Copyright: Orosei, Sardaigne, Italie (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-07-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.RainbowRiver_DE-DE1687862683_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainbowRiver_DE-DE1687862683_UHD.jpg)|
-||*Copyright: Rainbow River im Rainbow Springs State Park, Florida, USA (© Michel Roggo/Minden Pictures)*
+|2025-07-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.OroseiSardegna_DE-DE8440593584_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_DE-DE8440593584_UHD.jpg)|
+||*Copyright: Orosei, Sardinien, Italien (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-07-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.RainbowRiver_EN-CA2699490403_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainbowRiver_EN-CA2699490403_UHD.jpg)|
-||*Copyright: Rainbow River in Rainbow Springs State Park, Florida, United States (© Michel Roggo/Minden Pictures)*
+|2025-07-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.EchinaceaButterfly_EN-CA7402334180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchinaceaButterfly_EN-CA7402334180_UHD.jpg)|
+||*Copyright: Skipper butterfly on an Echinacea flower, Rockefeller State Park, New York (© Marianne A. Campolongo/Alamy)*
 ||
 |||
-|2025-07-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.RainbowRiver_EN-GB2410657258_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainbowRiver_EN-GB2410657258_UHD.jpg)|
-||*Copyright: Rainbow River in Rainbow Springs State Park, Florida, United States (© Michel Roggo/Minden Pictures)*
+|2025-07-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.OroseiSardegna_EN-GB2474653063_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_EN-GB2474653063_UHD.jpg)|
+||*Copyright: Orosei, Sardinia, Italy (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-07-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.RainbowRiver_IT-IT2380058164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainbowRiver_IT-IT2380058164_UHD.jpg)|
-||*Copyright: Fiume Rainbow nel Parco Statale di Rainbow Springs, Florida, USA (© Michel Roggo/Minden Pictures)*
+|2025-07-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.OroseiSardegna_IT-IT2532664756_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_IT-IT2532664756_UHD.jpg)|
+||*Copyright: Cala Luna, Orosei, Provincia di Nuoro, Sardegna (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-07-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MaroonClownfish_ES-ES2159485386_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaroonClownfish_ES-ES2159485386_UHD.jpg)|
-||*Copyright: Pez payaso marrón rodeado de anémonas, Bahía de Milne, Papúa Nueva Guinea (© Fred Bavendam/Nature Picture Library)*
+|2025-07-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.OroseiSardegna_ES-ES2424357191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_ES-ES2424357191_UHD.jpg)|
+||*Copyright: Cala Luna, Golfo de Orosei, Cerdeña, Italia (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-07-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.RainbowRiver_FR-CA2932903176_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RainbowRiver_FR-CA2932903176_UHD.jpg)|
-||*Copyright: Rivière Rainbow, parc d'État de Rainbow Springs, États-Unis (© Michel Roggo/Minden Pictures)*
+|2025-07-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.OroseiSardegna_FR-CA4632087069_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_FR-CA4632087069_UHD.jpg)|
+||*Copyright: Orosei, Sardaigne, Italie (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
 
