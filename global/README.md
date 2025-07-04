@@ -6,9 +6,9 @@
 ||*Copyright: Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)*
 ||
 |||
-|2025-07-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SecedaPeak_JA-JP7772253981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SecedaPeak_JA-JP7772253981_UHD.jpg)|
-||*Copyright: ドロミーティ, イタリア (© Kalyakan/Adobe Stock)*
+|2025-07-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TourCyclists_JA-JP7957952597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCyclists_JA-JP7957952597_UHD.jpg)|
+||*Copyright: ツールマレー峠を越えるサイクリストたち, フランス (© THOMAS SAMSON/AFP via Getty Images)*
 ||
 |||
 |2025-07-04|**Region: en-IN**||
