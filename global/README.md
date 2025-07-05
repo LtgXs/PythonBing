@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg)|
-||*Copyright: Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)*
+|2025-07-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg)|
+||*Copyright: Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)*
 ||
 |||
 |2025-07-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ツールマレー峠を越えるサイクリストたち, フランス (© THOMAS SAMSON/AFP via Getty Images)*
 ||
 |||
-|2025-07-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.OroseiSardegna_EN-IN6533178952_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_EN-IN6533178952_UHD.jpg)|
-||*Copyright: Orosei, Sardinia, Italy (© EyeEm Mobile GmbH/Getty Images)*
+|2025-07-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TourCyclists_EN-IN9256103238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCyclists_EN-IN9256103238_UHD.jpg)|
+||*Copyright: Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)*
 ||
 |||
-|2025-07-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.OroseiSardegna_PT-BR7332752018_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_PT-BR7332752018_UHD.jpg)|
-||*Copyright: Orosei, Sardenha, Itália (© EyeEm Mobile GmbH/Getty Images)*
+|2025-07-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TourCyclists_PT-BR7101662608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCyclists_PT-BR7101662608_UHD.jpg)|
+||*Copyright: Descendo o Col du Tourmalet nos Pirineus Franceses durante o Tour de France de 2021 (© THOMAS SAMSON/AFP via Getty Images)*
 ||
 |||
-|2025-07-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.OroseiSardegna_FR-FR4370872020_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_FR-FR4370872020_UHD.jpg)|
-||*Copyright: Orosei, Sardaigne, Italie (© EyeEm Mobile GmbH/Getty Images)*
+|2025-07-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TourCyclists_FR-FR4479097065_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCyclists_FR-FR4479097065_UHD.jpg)|
+||*Copyright: Descente du col du Tourmalet lors du Tour de France 2021 (© THOMAS SAMSON/AFP via Getty Images)*
 ||
 |||
-|2025-07-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.OroseiSardegna_DE-DE8440593584_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_DE-DE8440593584_UHD.jpg)|
-||*Copyright: Orosei, Sardinien, Italien (© EyeEm Mobile GmbH/Getty Images)*
+|2025-07-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TourCyclists_DE-DE8646205107_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCyclists_DE-DE8646205107_UHD.jpg)|
+||*Copyright: Abfahrt vom Col du Tourmalet in den französischen Pyrenäen während der Tour de France 2021 (© THOMAS SAMSON/AFP via Getty Images)*
 ||
 |||
-|2025-07-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.EchinaceaButterfly_EN-CA7402334180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchinaceaButterfly_EN-CA7402334180_UHD.jpg)|
-||*Copyright: Skipper butterfly on an Echinacea flower, Rockefeller State Park, New York (© Marianne A. Campolongo/Alamy)*
+|2025-07-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TourCyclists_EN-CA3150414596_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCyclists_EN-CA3150414596_UHD.jpg)|
+||*Copyright: Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)*
 ||
 |||
-|2025-07-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.OroseiSardegna_EN-GB2474653063_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_EN-GB2474653063_UHD.jpg)|
-||*Copyright: Orosei, Sardinia, Italy (© EyeEm Mobile GmbH/Getty Images)*
+|2025-07-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PrideInLondon2025_EN-GB3089444985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrideInLondon2025_EN-GB3089444985_UHD.jpg)|
+||*Copyright: Pride in London in 2016 (© Gail Orenstein/NurPhoto/Getty Images)*
 ||
 |||
-|2025-07-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OroseiSardegna_IT-IT2532664756_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_IT-IT2532664756_UHD.jpg)|
-||*Copyright: Cala Luna, Orosei, Provincia di Nuoro, Sardegna (© EyeEm Mobile GmbH/Getty Images)*
+|2025-07-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TourCyclists_IT-IT1688082798_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCyclists_IT-IT1688082798_UHD.jpg)|
+||*Copyright: Discesa dal Col du Tourmalet nei Pirenei francesi durante il Tour de France 2021 (© THOMAS SAMSON/AFP via Getty Images)*
 ||
 |||
-|2025-07-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.OroseiSardegna_ES-ES2424357191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_ES-ES2424357191_UHD.jpg)|
-||*Copyright: Cala Luna, Golfo de Orosei, Cerdeña, Italia (© EyeEm Mobile GmbH/Getty Images)*
+|2025-07-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TourCyclists_ES-ES2642482383_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCyclists_ES-ES2642482383_UHD.jpg)|
+||*Copyright: Descenso del Col du Tourmalet en los Pirineos franceses durante el Tour de Francia 2021 (© THOMAS SAMSON/AFP via Getty Images)*
 ||
 |||
-|2025-07-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.OroseiSardegna_FR-CA4632087069_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_FR-CA4632087069_UHD.jpg)|
-||*Copyright: Orosei, Sardaigne, Italie (© EyeEm Mobile GmbH/Getty Images)*
+|2025-07-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCyclists_FR-CA4748995324_UHD.jpg)|
+||*Copyright: Descente du col du Tourmalet lors du Tour de France 2021 (© THOMAS SAMSON/AFP via Getty Images)*
 ||
 |||
 
