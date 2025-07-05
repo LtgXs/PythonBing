@@ -6,9 +6,9 @@
 ||*Copyright: Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)*
 ||
 |||
-|2025-07-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TourCyclists_JA-JP7957952597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourCyclists_JA-JP7957952597_UHD.jpg)|
-||*Copyright: ツールマレー峠を越えるサイクリストたち, フランス (© THOMAS SAMSON/AFP via Getty Images)*
+|2025-07-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MesquiteFlats_JA-JP8164814192_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MesquiteFlats_JA-JP8164814192_UHD.jpg)|
+||*Copyright: デスバレー国立公園, 米国 カリフォルニア州 (© Bryan Jolley/TANDEM Stills + Motion)*
 ||
 |||
 |2025-07-05|**Region: en-IN**||
