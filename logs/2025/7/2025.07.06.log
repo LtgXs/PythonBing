@@ -1,0 +1,60 @@
+
+Program started at 09:29:10
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Thu May  1 02:52:08 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1692-676
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:29:10] Start geting CN Bing Wallpaper
+[09:29:10] Successful get url: https://www.bing.com/th?id=OHR.MesquiteFlats_ZH-CN7152959188_UHD.jpg
+[09:29:10] Image saved to img/background.jpg
+[09:29:10] Info saved to README.md
+[09:29:10] Image saved to history/2025/07/06.md
+[09:29:10] Start geting global Bing Wallpaper, region=en-US, local time is 2025-07-06 05:29:10.937979-04:00
+[09:29:10] Successful get url: https://www.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg
+[09:29:11] Picture infomations saved to  global/en-US/README.md
+[09:29:11] Picture infomations saved to global/en-US/history/2025/07/07_en-US.md
+[09:29:11] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-07-06 18:29:11.085105+09:00
+[09:29:11] Successful get url: https://www.bing.com/th?id=OHR.MesquiteFlats_JA-JP8164814192_UHD.jpg
+[09:29:11] Picture infomations saved to  global/ja-JP/README.md
+[09:29:11] Picture infomations saved to global/ja-JP/history/2025/07/06_ja-JP.md
+[09:29:11] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-07-06 14:59:11.180379+05:30
+[09:29:11] Successful get url: https://www.bing.com/th?id=OHR.MesquiteFlats_EN-IN9509549607_UHD.jpg
+[09:29:11] Picture infomations saved to  global/en-IN/README.md
+[09:29:11] Picture infomations saved to global/en-IN/history/2025/07/06_en-IN.md
+[09:29:11] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-07-06 06:29:11.347665-03:00
+[09:29:11] Successful get url: https://www.bing.com/th?id=OHR.LuzTrainStation_PT-BR2740667890_UHD.jpg
+[09:29:11] Picture infomations saved to  global/pt-BR/README.md
+[09:29:11] Picture infomations saved to global/pt-BR/history/2025/07/07_pt-BR.md
+[09:29:11] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-07-06 11:29:11.442443+02:00
+[09:29:11] Successful get url: https://www.bing.com/th?id=OHR.MesquiteFlats_FR-FR4877513752_UHD.jpg
+[09:29:11] Picture infomations saved to  global/fr-FR/README.md
+[09:29:11] Picture infomations saved to global/fr-FR/history/2025/07/06_fr-FR.md
+[09:29:11] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-07-06 11:29:11.551279+02:00
+[09:29:11] Successful get url: https://www.bing.com/th?id=OHR.MesquiteFlats_DE-DE8559445673_UHD.jpg
+[09:29:11] Picture infomations saved to  global/de-DE/README.md
+[09:29:11] Picture infomations saved to global/de-DE/history/2025/07/06_de-DE.md
+[09:29:11] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-07-06 05:29:11.689021-04:00
+[09:29:11] Successful get url: https://www.bing.com/th?id=OHR.MesquiteFlats_EN-CA9795288492_UHD.jpg
+[09:29:11] Picture infomations saved to  global/en-CA/README.md
+[09:29:11] Picture infomations saved to global/en-CA/history/2025/07/07_en-CA.md
+[09:29:11] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-07-06 10:29:11.770129+01:00
+[09:29:11] Successful get url: https://www.bing.com/th?id=OHR.TourCyclists_EN-GB3254018245_UHD.jpg
+[09:29:11] Picture infomations saved to  global/en-GB/README.md
+[09:29:11] Picture infomations saved to global/en-GB/history/2025/07/06_en-GB.md
+[09:29:11] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-07-06 11:29:11.882095+02:00
+[09:29:11] Successful get url: https://www.bing.com/th?id=OHR.MesquiteFlats_IT-IT2661681308_UHD.jpg
+[09:29:11] Picture infomations saved to  global/it-IT/README.md
+[09:29:11] Picture infomations saved to global/it-IT/history/2025/07/06_it-IT.md
+[09:29:11] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-07-06 11:29:11.977274+02:00
+[09:29:12] Successful get url: https://www.bing.com/th?id=OHR.MesquiteFlats_ES-ES2757827262_UHD.jpg
+[09:29:12] Picture infomations saved to  global/es-ES/README.md
+[09:29:12] Picture infomations saved to global/es-ES/history/2025/07/06_es-ES.md
+[09:29:12] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-07-06 05:29:12.115837-04:00
+[09:29:12] Successful get url: https://www.bing.com/th?id=OHR.MesquiteFlats_FR-CA4883989407_UHD.jpg
+[09:29:12] Picture infomations saved to  global/fr-CA/README.md
+[09:29:12] Picture infomations saved to global/fr-CA/history/2025/07/07_fr-CA.md
+Program exit at 09:29:12
