@@ -6,9 +6,9 @@
 ||*Copyright: Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)*
 ||
 |||
-|2025-07-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Tanabata2025_JA-JP0218360290_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Tanabata2025_JA-JP0218360290_UHD.jpg)|
-||*Copyright: 鴨川河川敷に灯る風鈴灯, 京都市 (© Kaoru Hayashi/Getty Images)*
+|2025-07-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WheatFields2025_JA-JP0694604988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WheatFields2025_JA-JP0694604988_UHD.jpg)|
+||*Copyright: パッチワークの路, 北海道 美瑛町 (© DoctorEgg/Getty Images)*
 ||
 |||
 |2025-07-07|**Region: en-IN**||
