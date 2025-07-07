@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-07-07
+## History Bing Wallpaper
+Wallpaper date: 2025-07-07
 ![](https://www.bing.com/th?id=OHR.ShetlandGannets_EN-GB3393360437_UHD.jpg&w=1000)Download: [Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)](https://www.bing.com/th?id=OHR.ShetlandGannets_EN-GB3393360437_UHD.jpg)
 
 Auto get programm by LtgX

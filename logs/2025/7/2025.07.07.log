@@ -1,0 +1,60 @@
+
+Program started at 09:35:19
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Thu May  1 02:52:08 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: fv-az1283-348
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:35:19] Start geting CN Bing Wallpaper
+[09:35:19] Successful get url: https://www.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg
+[09:35:19] Image saved to img/background.jpg
+[09:35:19] Info saved to README.md
+[09:35:19] Image saved to history/2025/07/07.md
+[09:35:19] Start geting global Bing Wallpaper, region=en-US, local time is 2025-07-07 05:35:19.598893-04:00
+[09:35:19] Successful get url: https://www.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg
+[09:35:19] Picture infomations saved to  global/en-US/README.md
+[09:35:19] Picture infomations saved to global/en-US/history/2025/07/08_en-US.md
+[09:35:19] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-07-07 18:35:19.789141+09:00
+[09:35:19] Successful get url: https://www.bing.com/th?id=OHR.Tanabata2025_JA-JP0218360290_UHD.jpg
+[09:35:19] Picture infomations saved to  global/ja-JP/README.md
+[09:35:19] Picture infomations saved to global/ja-JP/history/2025/07/07_ja-JP.md
+[09:35:19] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-07-07 15:05:19.962237+05:30
+[09:35:20] Successful get url: https://www.bing.com/th?id=OHR.ShetlandGannets_EN-IN9831916093_UHD.jpg
+[09:35:20] Picture infomations saved to  global/en-IN/README.md
+[09:35:20] Picture infomations saved to global/en-IN/history/2025/07/07_en-IN.md
+[09:35:20] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-07-07 06:35:20.127551-03:00
+[09:35:20] Successful get url: https://www.bing.com/th?id=OHR.ShetlandGannets_PT-BR6855447396_UHD.jpg
+[09:35:20] Picture infomations saved to  global/pt-BR/README.md
+[09:35:20] Picture infomations saved to global/pt-BR/history/2025/07/08_pt-BR.md
+[09:35:20] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-07-07 11:35:20.306114+02:00
+[09:35:20] Successful get url: https://www.bing.com/th?id=OHR.ShetlandGannets_FR-FR5293037699_UHD.jpg
+[09:35:20] Picture infomations saved to  global/fr-FR/README.md
+[09:35:20] Picture infomations saved to global/fr-FR/history/2025/07/07_fr-FR.md
+[09:35:20] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-07-07 11:35:20.471107+02:00
+[09:35:20] Successful get url: https://www.bing.com/th?id=OHR.ShetlandGannets_DE-DE8492203831_UHD.jpg
+[09:35:20] Picture infomations saved to  global/de-DE/README.md
+[09:35:20] Picture infomations saved to global/de-DE/history/2025/07/07_de-DE.md
+[09:35:20] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-07-07 05:35:20.643391-04:00
+[09:35:20] Successful get url: https://www.bing.com/th?id=OHR.ShetlandGannets_EN-CA3506391267_UHD.jpg
+[09:35:20] Picture infomations saved to  global/en-CA/README.md
+[09:35:20] Picture infomations saved to global/en-CA/history/2025/07/08_en-CA.md
+[09:35:20] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-07-07 10:35:20.810937+01:00
+[09:35:20] Successful get url: https://www.bing.com/th?id=OHR.ShetlandGannets_EN-GB3393360437_UHD.jpg
+[09:35:20] Picture infomations saved to  global/en-GB/README.md
+[09:35:20] Picture infomations saved to global/en-GB/history/2025/07/07_en-GB.md
+[09:35:20] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-07-07 11:35:20.986433+02:00
+[09:35:21] Successful get url: https://www.bing.com/th?id=OHR.ShetlandGannets_IT-IT2720152530_UHD.jpg
+[09:35:21] Picture infomations saved to  global/it-IT/README.md
+[09:35:21] Picture infomations saved to global/it-IT/history/2025/07/07_it-IT.md
+[09:35:21] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-07-07 11:35:21.159468+02:00
+[09:35:21] Successful get url: https://www.bing.com/th?id=OHR.ShetlandGannets_ES-ES2850528780_UHD.jpg
+[09:35:21] Picture infomations saved to  global/es-ES/README.md
+[09:35:21] Picture infomations saved to global/es-ES/history/2025/07/07_es-ES.md
+[09:35:21] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-07-07 05:35:21.351991-04:00
+[09:35:21] Successful get url: https://www.bing.com/th?id=OHR.ShetlandGannets_FR-CA5027328603_UHD.jpg
+[09:35:21] Picture infomations saved to  global/fr-CA/README.md
+[09:35:21] Picture infomations saved to global/fr-CA/history/2025/07/08_fr-CA.md
+Program exit at 09:35:21
