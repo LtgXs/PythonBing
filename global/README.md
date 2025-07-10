@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-10|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg)|
-||*Copyright: Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)*
+|2025-07-11|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg)|
+||*Copyright: Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)*
 ||
 |||
 |2025-07-10|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ターコイズブルーの海, バハマ (© BlueOrange Studio/Adobe Stock)*
 ||
 |||
-|2025-07-09|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ConstitucionStation_EN-IN1557564124_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConstitucionStation_EN-IN1557564124_UHD.jpg)|
-||*Copyright: Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)*
+|2025-07-10|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LordBuddha_EN-IN7435610826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LordBuddha_EN-IN7435610826_UHD.jpg)|
+||*Copyright: Buddha Statue, Hussain Sagar, Hyderabad, Telangana (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-07-10|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ConstitucionStation_PT-BR4627636298_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConstitucionStation_PT-BR4627636298_UHD.jpg)|
-||*Copyright: Estação ferroviária Constitución, Buenos Aires, Argentina (© Grafissimo/Getty Images)*
+|2025-07-11|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BahamaBlues_PT-BR4354630844_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_PT-BR4354630844_UHD.jpg)|
+||*Copyright: Águas turquesa das Bahamas (© BlueOrange Studio/Adobe Stock)*
 ||
 |||
-|2025-07-09|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ConstitucionStation_FR-FR8220857516_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConstitucionStation_FR-FR8220857516_UHD.jpg)|
-||*Copyright: Gare de Constitución, Buenos Aires, Argentine (© Grafissimo/Getty Images)*
+|2025-07-10|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BahamaBlues_FR-FR8439615037_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_FR-FR8439615037_UHD.jpg)|
+||*Copyright: Eaux turquoise des Bahamas (© BlueOrange Studio/Adobe Stock)*
 ||
 |||
-|2025-07-09|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ConstitucionStation_DE-DE6862611016_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConstitucionStation_DE-DE6862611016_UHD.jpg)|
-||*Copyright: Constitución-Bahnhof, Buenos Aires, Argentinien (© Grafissimo/Getty Images)*
+|2025-07-10|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BahamaBlues_DE-DE5750119392_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_DE-DE5750119392_UHD.jpg)|
+||*Copyright: Türkisfarbenes Wasser der Bahamas (© BlueOrange Studio/Adobe Stock)*
 ||
 |||
-|2025-07-10|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ConstitucionStation_EN-CA3916160090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConstitucionStation_EN-CA3916160090_UHD.jpg)|
-||*Copyright: Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)*
+|2025-07-11|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BahamaBlues_EN-CA4070961234_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_EN-CA4070961234_UHD.jpg)|
+||*Copyright: Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)*
 ||
 |||
-|2025-07-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ConstitucionStation_EN-GB3672762444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConstitucionStation_EN-GB3672762444_UHD.jpg)|
-||*Copyright: Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)*
+|2025-07-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_UHD.jpg)|
+||*Copyright: Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)*
 ||
 |||
-|2025-07-09|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ConstitucionStation_IT-IT2913035611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConstitucionStation_IT-IT2913035611_UHD.jpg)|
-||*Copyright: Stazione Ferroviaria di Constitución, Buenos Aires, Argentina (© Grafissimo/Getty Images)*
+|2025-07-10|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BahamaBlues_IT-IT2994052693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_IT-IT2994052693_UHD.jpg)|
+||*Copyright: Acque turchesi delle Bahamas (© BlueOrange Studio/Adobe Stock)*
 ||
 |||
-|2025-07-09|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ConstitucionStation_ES-ES3087797004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConstitucionStation_ES-ES3087797004_UHD.jpg)|
-||*Copyright: Estación de ferrocarril de Constitución, Buenos Aires, Argentina (© Grafissimo/Getty Images)*
+|2025-07-10|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BahamaBlues_ES-ES3186595692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_ES-ES3186595692_UHD.jpg)|
+||*Copyright: Aguas turquesas de las Bahamas (© BlueOrange Studio/Adobe Stock)*
 ||
 |||
-|2025-07-10|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ConstitucionStation_FR-CA5656612797_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConstitucionStation_FR-CA5656612797_UHD.jpg)|
-||*Copyright: Gare de Constitución, Buenos Aires, Argentine (© Grafissimo/Getty Images)*
+|2025-07-11|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BahamaBlues_FR-CA5790040878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_FR-CA5790040878_UHD.jpg)|
+||*Copyright: Eaux turquoise des Bahamas (© BlueOrange Studio/Adobe Stock)*
 ||
 |||
 
