@@ -6,9 +6,9 @@
 ||*Copyright: Tokyo at sunrise (© pongnathee kluaythong/Getty Images)*
 ||
 |||
-|2025-07-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TokyoSunrise_JA-JP8418771987_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSunrise_JA-JP8418771987_UHD.jpg)|
-||*Copyright: 1400 万の人口を抱える大都市, 東京 (© pongnathee kluaythong/Getty Images)*
+|2025-07-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ThomsonGazelle_JA-JP8883266814_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThomsonGazelle_JA-JP8883266814_UHD.jpg)|
+||*Copyright: マサイマラ国立保護区, ケニア (© Gallo Images/DanitaDelimont.com)*
 ||
 |||
 |2025-07-11|**Region: en-IN**||

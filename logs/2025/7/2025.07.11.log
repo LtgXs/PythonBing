@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:33:40] Picture infomations saved to  global/fr-CA/README.md
 [09:33:40] Picture infomations saved to global/fr-CA/history/2025/07/12_fr-CA.md
 Program exit at 09:33:40
+
+Program started at 16:17:23
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Thu May  1 02:52:08 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmfkh1xnbeme
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:17:23] Start geting CN Bing Wallpaper
+[16:17:23] Successful get url: https://www.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg
+[16:17:23] Image saved to img/background.jpg
+[16:17:23] Info saved to README.md
+[16:17:23] Image saved to history/2025/07/12.md
+[16:17:23] Start geting global Bing Wallpaper, region=en-US, local time is 2025-07-11 12:17:23.751448-04:00
+[16:17:23] Successful get url: https://www.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg
+[16:17:23] Picture infomations saved to  global/en-US/README.md
+[16:17:23] Picture infomations saved to global/en-US/history/2025/07/12_en-US.md
+[16:17:23] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-07-12 01:17:23.902121+09:00
+[16:17:23] Successful get url: https://www.bing.com/th?id=OHR.ThomsonGazelle_JA-JP8883266814_UHD.jpg
+[16:17:24] Picture infomations saved to  global/ja-JP/README.md
+[16:17:24] Picture infomations saved to global/ja-JP/history/2025/07/12_ja-JP.md
+[16:17:24] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-07-11 21:47:24.076881+05:30
+[16:17:24] Successful get url: https://www.bing.com/th?id=OHR.TokyoSunrise_EN-IN0638589694_UHD.jpg
+[16:17:24] Picture infomations saved to  global/en-IN/README.md
+[16:17:24] Picture infomations saved to global/en-IN/history/2025/07/11_en-IN.md
+[16:17:24] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-07-11 13:17:24.251458-03:00
+[16:17:24] Successful get url: https://www.bing.com/th?id=OHR.TokyoSunrise_PT-BR5890009803_UHD.jpg
+[16:17:24] Picture infomations saved to  global/pt-BR/README.md
+[16:17:24] Picture infomations saved to global/pt-BR/history/2025/07/12_pt-BR.md
+[16:17:24] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-07-11 18:17:24.440769+02:00
+[16:17:24] Successful get url: https://www.bing.com/th?id=OHR.TokyoSunrise_FR-FR0485662273_UHD.jpg
+[16:17:24] Picture infomations saved to  global/fr-FR/README.md
+[16:17:24] Picture infomations saved to global/fr-FR/history/2025/07/11_fr-FR.md
+[16:17:24] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-07-11 18:17:24.628585+02:00
+[16:17:24] Successful get url: https://www.bing.com/th?id=OHR.TokyoSunrise_DE-DE6224327686_UHD.jpg
+[16:17:24] Picture infomations saved to  global/de-DE/README.md
+[16:17:24] Picture infomations saved to global/de-DE/history/2025/07/11_de-DE.md
+[16:17:24] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-07-11 12:17:24.783303-04:00
+[16:17:24] Successful get url: https://www.bing.com/th?id=OHR.TokyoSunrise_EN-CA3623900157_UHD.jpg
+[16:17:24] Picture infomations saved to  global/en-CA/README.md
+[16:17:24] Picture infomations saved to global/en-CA/history/2025/07/12_en-CA.md
+[16:17:24] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-07-11 17:17:24.963232+01:00
+[16:17:25] Successful get url: https://www.bing.com/th?id=OHR.TokyoSunrise_EN-GB4800034136_UHD.jpg
+[16:17:25] Picture infomations saved to  global/en-GB/README.md
+[16:17:25] Picture infomations saved to global/en-GB/history/2025/07/11_en-GB.md
+[16:17:25] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-07-11 18:17:25.142688+02:00
+[16:17:25] Successful get url: https://www.bing.com/th?id=OHR.TokyoSunrise_IT-IT6877517307_UHD.jpg
+[16:17:25] Picture infomations saved to  global/it-IT/README.md
+[16:17:25] Picture infomations saved to global/it-IT/history/2025/07/11_it-IT.md
+[16:17:25] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-07-11 18:17:25.327587+02:00
+[16:17:25] Successful get url: https://www.bing.com/th?id=OHR.TokyoSunrise_ES-ES5285423958_UHD.jpg
+[16:17:25] Picture infomations saved to  global/es-ES/README.md
+[16:17:25] Picture infomations saved to global/es-ES/history/2025/07/11_es-ES.md
+[16:17:25] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-07-11 12:17:25.501877-04:00
+[16:17:25] Successful get url: https://www.bing.com/th?id=OHR.TokyoSunrise_FR-CA0169507494_UHD.jpg
+[16:17:25] Picture infomations saved to  global/fr-CA/README.md
+[16:17:25] Picture infomations saved to global/fr-CA/history/2025/07/12_fr-CA.md
+Program exit at 16:17:25
