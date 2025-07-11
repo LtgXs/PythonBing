@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-11|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg)|
-||*Copyright: Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)*
+|2025-07-12|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg)|
+||*Copyright: Tokyo at sunrise (© pongnathee kluaythong/Getty Images)*
 ||
 |||
 |2025-07-11|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 1400 万の人口を抱える大都市, 東京 (© pongnathee kluaythong/Getty Images)*
 ||
 |||
-|2025-07-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LordBuddha_EN-IN7435610826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LordBuddha_EN-IN7435610826_UHD.jpg)|
-||*Copyright: Buddha Statue, Hussain Sagar, Hyderabad, Telangana (© Amith Nag Photography/Getty Images)*
+|2025-07-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TokyoSunrise_EN-IN0638589694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSunrise_EN-IN0638589694_UHD.jpg)|
+||*Copyright: Tokyo at sunrise, Japan (© pongnathee kluaythong/Getty Images)*
 ||
 |||
-|2025-07-11|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BahamaBlues_PT-BR4354630844_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_PT-BR4354630844_UHD.jpg)|
-||*Copyright: Águas turquesa das Bahamas (© BlueOrange Studio/Adobe Stock)*
+|2025-07-12|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TokyoSunrise_PT-BR5890009803_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSunrise_PT-BR5890009803_UHD.jpg)|
+||*Copyright: Amanhecer em Tóquio, Japão (© pongnathee kluaythong/Getty Images)*
 ||
 |||
-|2025-07-10|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BahamaBlues_FR-FR8439615037_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_FR-FR8439615037_UHD.jpg)|
-||*Copyright: Eaux turquoise des Bahamas (© BlueOrange Studio/Adobe Stock)*
+|2025-07-11|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TokyoSunrise_FR-FR0485662273_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSunrise_FR-FR0485662273_UHD.jpg)|
+||*Copyright: Tokyo au lever du jour, Japon (© pongnathee kluaythong/Getty Images)*
 ||
 |||
-|2025-07-10|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BahamaBlues_DE-DE5750119392_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_DE-DE5750119392_UHD.jpg)|
-||*Copyright: Türkisfarbenes Wasser der Bahamas (© BlueOrange Studio/Adobe Stock)*
+|2025-07-11|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TokyoSunrise_DE-DE6224327686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSunrise_DE-DE6224327686_UHD.jpg)|
+||*Copyright: Tokio bei Sonnenaufgang, Japan (© pongnathee kluaythong/Getty Images)*
 ||
 |||
-|2025-07-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BahamaBlues_EN-CA4070961234_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_EN-CA4070961234_UHD.jpg)|
-||*Copyright: Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)*
+|2025-07-12|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TokyoSunrise_EN-CA3623900157_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSunrise_EN-CA3623900157_UHD.jpg)|
+||*Copyright: Tokyo at sunrise, Japan (© pongnathee kluaythong/Getty Images)*
 ||
 |||
-|2025-07-10|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_EN-GB3767867532_UHD.jpg)|
-||*Copyright: Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)*
+|2025-07-11|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TokyoSunrise_EN-GB4800034136_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSunrise_EN-GB4800034136_UHD.jpg)|
+||*Copyright: Tokyo at sunrise, Japan (© pongnathee kluaythong/Getty Images)*
 ||
 |||
-|2025-07-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BahamaBlues_IT-IT2994052693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_IT-IT2994052693_UHD.jpg)|
-||*Copyright: Acque turchesi delle Bahamas (© BlueOrange Studio/Adobe Stock)*
+|2025-07-11|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TokyoSunrise_IT-IT6877517307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSunrise_IT-IT6877517307_UHD.jpg)|
+||*Copyright: Tokyo all’alba, Giappone (© pongnathee kluaythong/Getty Images)*
 ||
 |||
-|2025-07-10|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BahamaBlues_ES-ES3186595692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_ES-ES3186595692_UHD.jpg)|
-||*Copyright: Aguas turquesas de las Bahamas (© BlueOrange Studio/Adobe Stock)*
+|2025-07-11|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TokyoSunrise_ES-ES5285423958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSunrise_ES-ES5285423958_UHD.jpg)|
+||*Copyright: Tokio al amanecer, Japón (© pongnathee kluaythong/Getty Images)*
 ||
 |||
-|2025-07-11|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BahamaBlues_FR-CA5790040878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_FR-CA5790040878_UHD.jpg)|
-||*Copyright: Eaux turquoise des Bahamas (© BlueOrange Studio/Adobe Stock)*
+|2025-07-12|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TokyoSunrise_FR-CA0169507494_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSunrise_FR-CA0169507494_UHD.jpg)|
+||*Copyright: Tokyo au lever du jour, Japon (© pongnathee kluaythong/Getty Images)*
 ||
 |||
 
