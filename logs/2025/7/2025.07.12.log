@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:04] Picture infomations saved to  global/fr-CA/README.md
 [09:30:04] Picture infomations saved to global/fr-CA/history/2025/07/13_fr-CA.md
 Program exit at 09:30:04
+
+Program started at 16:15:47
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmq0rgcvqdmg
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:15:48] Start geting CN Bing Wallpaper
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_UHD.jpg
+[16:15:48] Image saved to img/background.jpg
+[16:15:48] Info saved to README.md
+[16:15:48] Image saved to history/2025/07/13.md
+[16:15:48] Start geting global Bing Wallpaper, region=en-US, local time is 2025-07-12 12:15:48.175481-04:00
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg
+[16:15:48] Picture infomations saved to  global/en-US/README.md
+[16:15:48] Picture infomations saved to global/en-US/history/2025/07/13_en-US.md
+[16:15:48] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-07-13 01:15:48.260278+09:00
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.BasaltColumns_JA-JP9334958471_UHD.jpg
+[16:15:48] Picture infomations saved to  global/ja-JP/README.md
+[16:15:48] Picture infomations saved to global/ja-JP/history/2025/07/13_ja-JP.md
+[16:15:48] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-07-12 21:45:48.346084+05:30
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-IN8946995037_UHD.jpg
+[16:15:48] Picture infomations saved to  global/en-IN/README.md
+[16:15:48] Picture infomations saved to global/en-IN/history/2025/07/12_en-IN.md
+[16:15:48] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-07-12 13:15:48.423877-03:00
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.ThomsonGazelle_PT-BR6496352663_UHD.jpg
+[16:15:48] Picture infomations saved to  global/pt-BR/README.md
+[16:15:48] Picture infomations saved to global/pt-BR/history/2025/07/13_pt-BR.md
+[16:15:48] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-07-12 18:15:48.507607+02:00
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.ThomsonGazelle_FR-FR0750503899_UHD.jpg
+[16:15:48] Picture infomations saved to  global/fr-FR/README.md
+[16:15:48] Picture infomations saved to global/fr-FR/history/2025/07/12_fr-FR.md
+[16:15:48] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-07-12 18:15:48.583128+02:00
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.ThomsonGazelle_DE-DE6657498392_UHD.jpg
+[16:15:48] Picture infomations saved to  global/de-DE/README.md
+[16:15:48] Picture infomations saved to global/de-DE/history/2025/07/12_de-DE.md
+[16:15:48] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-07-12 12:15:48.663492-04:00
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-CA9696742012_UHD.jpg
+[16:15:48] Picture infomations saved to  global/en-CA/README.md
+[16:15:48] Picture infomations saved to global/en-CA/history/2025/07/13_en-CA.md
+[16:15:48] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-07-12 17:15:48.744881+01:00
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-GB4953743424_UHD.jpg
+[16:15:48] Picture infomations saved to  global/en-GB/README.md
+[16:15:48] Picture infomations saved to global/en-GB/history/2025/07/12_en-GB.md
+[16:15:48] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-07-12 18:15:48.821496+02:00
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.ThomsonGazelle_IT-IT0397264762_UHD.jpg
+[16:15:48] Picture infomations saved to  global/it-IT/README.md
+[16:15:48] Picture infomations saved to global/it-IT/history/2025/07/12_it-IT.md
+[16:15:48] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-07-12 18:15:48.908137+02:00
+[16:15:48] Successful get url: https://www.bing.com/th?id=OHR.RibadesellaSummer_ES-ES5366585834_UHD.jpg
+[16:15:48] Picture infomations saved to  global/es-ES/README.md
+[16:15:48] Picture infomations saved to global/es-ES/history/2025/07/12_es-ES.md
+[16:15:48] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-07-12 12:15:48.982702-04:00
+[16:15:49] Successful get url: https://www.bing.com/th?id=OHR.ThomsonGazelle_FR-CA0045421525_UHD.jpg
+[16:15:49] Picture infomations saved to  global/fr-CA/README.md
+[16:15:49] Picture infomations saved to global/fr-CA/history/2025/07/13_fr-CA.md
+Program exit at 16:15:49

@@ -6,9 +6,9 @@
 ||*Copyright: Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)*
 ||
 |||
-|2025-07-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ThomsonGazelle_JA-JP8883266814_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThomsonGazelle_JA-JP8883266814_UHD.jpg)|
-||*Copyright: マサイマラ国立保護区, ケニア (© Gallo Images/DanitaDelimont.com)*
+|2025-07-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BasaltColumns_JA-JP9334958471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_JA-JP9334958471_UHD.jpg)|
+||*Copyright: カールフザマルスヴィーク, アイスランド (© Arterra Picture Library/Alamy)*
 ||
 |||
 |2025-07-12|**Region: en-IN**||
