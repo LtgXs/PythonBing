@@ -6,9 +6,9 @@
 ||*Copyright: Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)*
 ||
 |||
-|2025-07-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BasaltColumns_JA-JP9334958471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_JA-JP9334958471_UHD.jpg)|
-||*Copyright: カールフザマルスヴィーク, アイスランド (© Arterra Picture Library/Alamy)*
+|2025-07-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YoungShark_JA-JP0204898221_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_JA-JP0204898221_UHD.jpg)|
+||*Copyright: ガリシア沖を泳ぐヨシキリザメ, スペイン (© Damocean/Getty Images)*
 ||
 |||
 |2025-07-13|**Region: en-IN**||
