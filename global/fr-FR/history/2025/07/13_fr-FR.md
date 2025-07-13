@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-07-13
+## History Bing Wallpaper
+Wallpaper date: 2025-07-13
 ![](https://www.bing.com/th?id=OHR.BasaltColumns_FR-FR0922377003_UHD.jpg&w=1000)Download: [Colonnes de basalte dans la crique de Kálfshamarsvík, Skagi, Islande (© Arterra Picture Library/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.BasaltColumns_FR-FR0922377003_UHD.jpg)
 
 Auto get programm by LtgX

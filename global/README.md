@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg)|
-||*Copyright: Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)*
+|2025-07-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg)|
+||*Copyright: Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)*
 ||
 |||
 |2025-07-13|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: カールフザマルスヴィーク, アイスランド (© Arterra Picture Library/Alamy)*
 ||
 |||
-|2025-07-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-IN8946995037_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-IN8946995037_UHD.jpg)|
-||*Copyright: Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)*
+|2025-07-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BasaltColumns_EN-IN1175538920_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_EN-IN1175538920_UHD.jpg)|
+||*Copyright: Basalt columns in Kálfshamarsvík cove, Skagi peninsula, Iceland (© Arterra Picture Library/Alamy Stock Photo)*
 ||
 |||
-|2025-07-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ThomsonGazelle_PT-BR6496352663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThomsonGazelle_PT-BR6496352663_UHD.jpg)|
-||*Copyright: Gazela-de-thomson mãe e filhote, Maasai Mara, Quênia (© Gallo Images/DanitaDelimont.com)*
+|2025-07-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BasaltColumns_PT-BR7052531189_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_PT-BR7052531189_UHD.jpg)|
+||*Copyright: Colunas de basalto na enseada de Kálfshamarsvík, península de Skagi, Islândia (© Arterra Picture Library/Alamy Stock Photo)*
 ||
 |||
-|2025-07-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ThomsonGazelle_FR-FR0750503899_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThomsonGazelle_FR-FR0750503899_UHD.jpg)|
-||*Copyright: Gazelle de Thomson, mère et faon, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)*
+|2025-07-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BasaltColumns_FR-FR0922377003_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_FR-FR0922377003_UHD.jpg)|
+||*Copyright: Colonnes de basalte dans la crique de Kálfshamarsvík, Skagi, Islande (© Arterra Picture Library/Alamy Stock Photo)*
 ||
 |||
-|2025-07-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ThomsonGazelle_DE-DE6657498392_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThomsonGazelle_DE-DE6657498392_UHD.jpg)|
-||*Copyright: Thomson-Gazelle, Mutter und Kitz, Maasai Mara, Kenia (© Gallo Images/DanitaDelimont.com)*
+|2025-07-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BasaltColumns_DE-DE6897663571_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_DE-DE6897663571_UHD.jpg)|
+||*Copyright: Basaltsäulen in der Bucht von Kálfshamarsvík, Halbinsel Skagi, Island (© Arterra Picture Library/Alamy)*
 ||
 |||
-|2025-07-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-CA9696742012_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-CA9696742012_UHD.jpg)|
-||*Copyright: Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)*
+|2025-07-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BasaltColumns_EN-CA4039785638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_EN-CA4039785638_UHD.jpg)|
+||*Copyright: Basalt columns in Kálfshamarsvík cove, Skagi peninsula, Iceland (© Arterra Picture Library/Alamy)*
 ||
 |||
-|2025-07-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-GB4953743424_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-GB4953743424_UHD.jpg)|
-||*Copyright: Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)*
+|2025-07-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BasaltColumns_EN-GB5254717473_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_EN-GB5254717473_UHD.jpg)|
+||*Copyright: Basalt columns in Kálfshamarsvík cove, Skagi peninsula, Iceland (© Arterra Picture Library/Alamy)*
 ||
 |||
-|2025-07-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ThomsonGazelle_IT-IT0397264762_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThomsonGazelle_IT-IT0397264762_UHD.jpg)|
-||*Copyright: Gazelle di Thomson, Madre con prole, Masai Mara, Kenya (© Gallo Images/DanitaDelimont.com)*
+|2025-07-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BasaltColumns_IT-IT0459542026_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_IT-IT0459542026_UHD.jpg)|
+||*Copyright: Colonne di basalto nell'insenatura di Kálfshamarsvík, penisola di Skagi, Islanda (© Arterra Picture Library/Alamy Stock Photo)*
 ||
 |||
-|2025-07-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.RibadesellaSummer_ES-ES5366585834_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RibadesellaSummer_ES-ES5366585834_UHD.jpg)|
-||*Copyright: Ribadesella, Asturias, España (© Agnieszka Glowala/iStock/Getty Images Plus)*
+|2025-07-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BasaltColumns_ES-ES5645735099_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_ES-ES5645735099_UHD.jpg)|
+||*Copyright: Columnas de basalto en la cala de Kálfshamarsvík, península de Skagi, Islandia (© Arterra Picture Library/Alamy)*
 ||
 |||
-|2025-07-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ThomsonGazelle_FR-CA0045421525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThomsonGazelle_FR-CA0045421525_UHD.jpg)|
-||*Copyright: Gazelle de Thomson, mère et faon, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)*
+|2025-07-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BasaltColumns_FR-CA9920967647_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_FR-CA9920967647_UHD.jpg)|
+||*Copyright: Colonnes de basalte dans la crique de Kálfshamarsvík, Skagi, Islande (© Arterra Picture Library/Alamy Stock Photo)*
 ||
 |||
 
