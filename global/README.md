@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-14|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg)|
-||*Copyright: Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)*
+|2025-07-15|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg)|
+||*Copyright: Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)*
 ||
 |||
 |2025-07-14|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ガリシア沖を泳ぐヨシキリザメ, スペイン (© Damocean/Getty Images)*
 ||
 |||
-|2025-07-13|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BasaltColumns_EN-IN1175538920_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_EN-IN1175538920_UHD.jpg)|
-||*Copyright: Basalt columns in Kálfshamarsvík cove, Skagi peninsula, Iceland (© Arterra Picture Library/Alamy Stock Photo)*
+|2025-07-14|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.YoungShark_EN-IN1362768509_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_EN-IN1362768509_UHD.jpg)|
+||*Copyright: Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)*
 ||
 |||
-|2025-07-14|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BasaltColumns_PT-BR7052531189_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_PT-BR7052531189_UHD.jpg)|
-||*Copyright: Colunas de basalto na enseada de Kálfshamarsvík, península de Skagi, Islândia (© Arterra Picture Library/Alamy Stock Photo)*
+|2025-07-15|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.YoungShark_PT-BR8738658851_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_PT-BR8738658851_UHD.jpg)|
+||*Copyright: Jovem tubarão-azul nadando na costa da Galícia, Espanha (© Damocean/Getty Images)*
 ||
 |||
-|2025-07-13|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BasaltColumns_FR-FR0922377003_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_FR-FR0922377003_UHD.jpg)|
-||*Copyright: Colonnes de basalte dans la crique de Kálfshamarsvík, Skagi, Islande (© Arterra Picture Library/Alamy Stock Photo)*
+|2025-07-14|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BastilleDayCelebration_FR-FR1452357775_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BastilleDayCelebration_FR-FR1452357775_UHD.jpg)|
+||*Copyright: Feu d'artifice du 14 juillet au-dessus de la citadelle de Sisteron au crépuscule, Provence (© francois-roux/Getty Images)*
 ||
 |||
-|2025-07-13|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BasaltColumns_DE-DE6897663571_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_DE-DE6897663571_UHD.jpg)|
-||*Copyright: Basaltsäulen in der Bucht von Kálfshamarsvík, Halbinsel Skagi, Island (© Arterra Picture Library/Alamy)*
+|2025-07-14|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.YoungShark_DE-DE7165248670_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_DE-DE7165248670_UHD.jpg)|
+||*Copyright: Junger Blauhai schwimmt vor der Küste Galiciens, Spanien (© Damocean/Getty Images)*
 ||
 |||
-|2025-07-14|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BasaltColumns_EN-CA4039785638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_EN-CA4039785638_UHD.jpg)|
-||*Copyright: Basalt columns in Kálfshamarsvík cove, Skagi peninsula, Iceland (© Arterra Picture Library/Alamy)*
+|2025-07-15|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.YoungShark_EN-CA4182495058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_EN-CA4182495058_UHD.jpg)|
+||*Copyright: Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)*
 ||
 |||
-|2025-07-13|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BasaltColumns_EN-GB5254717473_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_EN-GB5254717473_UHD.jpg)|
-||*Copyright: Basalt columns in Kálfshamarsvík cove, Skagi peninsula, Iceland (© Arterra Picture Library/Alamy)*
+|2025-07-14|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.YoungShark_EN-GB9221315811_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_EN-GB9221315811_UHD.jpg)|
+||*Copyright: Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)*
 ||
 |||
-|2025-07-13|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BasaltColumns_IT-IT0459542026_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_IT-IT0459542026_UHD.jpg)|
-||*Copyright: Colonne di basalto nell'insenatura di Kálfshamarsvík, penisola di Skagi, Islanda (© Arterra Picture Library/Alamy Stock Photo)*
+|2025-07-14|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CattedraleDiPalermo_IT-IT0519609819_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CattedraleDiPalermo_IT-IT0519609819_UHD.jpg)|
+||*Copyright: Cattedrale di Palermo, Palermo, Sicilia (© Sean Pavone/iStock/Getty Images Plus)*
 ||
 |||
-|2025-07-13|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BasaltColumns_ES-ES5645735099_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_ES-ES5645735099_UHD.jpg)|
-||*Copyright: Columnas de basalto en la cala de Kálfshamarsvík, península de Skagi, Islandia (© Arterra Picture Library/Alamy)*
+|2025-07-14|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.YoungShark_ES-ES5981151828_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_ES-ES5981151828_UHD.jpg)|
+||*Copyright: Joven tiburón azul nadando frente a la costa de Galicia, España (© Damocean/Getty Images)*
 ||
 |||
-|2025-07-14|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BasaltColumns_FR-CA9920967647_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BasaltColumns_FR-CA9920967647_UHD.jpg)|
-||*Copyright: Colonnes de basalte dans la crique de Kálfshamarsvík, Skagi, Islande (© Arterra Picture Library/Alamy Stock Photo)*
+|2025-07-15|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.YoungShark_FR-CA9574855149_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_FR-CA9574855149_UHD.jpg)|
+||*Copyright: Jeune requin bleu nageant au large des côtes de Galice, Espagne (© Damocean/Getty Images)*
 ||
 |||
 
