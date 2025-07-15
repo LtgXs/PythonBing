@@ -6,9 +6,9 @@
 ||*Copyright: Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)*
 ||
 |||
-|2025-07-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PerseidsPine_JA-JP0980673364_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_JA-JP0980673364_UHD.jpg)|
-||*Copyright: グレートベースン国立公園, 米国 ネバダ州 (© Wirestock Creators/Shutterstock)*
+|2025-07-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TemplePhilae_JA-JP1883182948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TemplePhilae_JA-JP1883182948_UHD.jpg)|
+||*Copyright: フィラエ神殿, エジプト (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
 |2025-07-15|**Region: en-IN**||
