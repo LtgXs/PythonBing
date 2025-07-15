@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg)|
-||*Copyright: Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)*
+|2025-07-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg)|
+||*Copyright: Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)*
 ||
 |||
 |2025-07-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: グレートベースン国立公園, 米国 ネバダ州 (© Wirestock Creators/Shutterstock)*
 ||
 |||
-|2025-07-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.YoungShark_EN-IN1362768509_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_EN-IN1362768509_UHD.jpg)|
-||*Copyright: Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)*
+|2025-07-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MuchalindaLake_EN-IN3808425098_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuchalindaLake_EN-IN3808425098_UHD.jpg)|
+||*Copyright: Muchalinda Sarovar, Bodh Gaya, Bihar (© Alexander Reshnya/Getty Images)*
 ||
 |||
-|2025-07-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.YoungShark_PT-BR8738658851_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_PT-BR8738658851_UHD.jpg)|
-||*Copyright: Jovem tubarão-azul nadando na costa da Galícia, Espanha (© Damocean/Getty Images)*
+|2025-07-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PerseidsPine_PT-BR0914394834_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_PT-BR0914394834_UHD.jpg)|
+||*Copyright: Chuva de meteoros Perseidas e um antigo pinheiro bristlecone, Parque Nacional Great Basin, Nevada, EUA (© Wirestock Creators/Shutterstock)*
 ||
 |||
-|2025-07-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BastilleDayCelebration_FR-FR1452357775_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BastilleDayCelebration_FR-FR1452357775_UHD.jpg)|
-||*Copyright: Feu d'artifice du 14 juillet au-dessus de la citadelle de Sisteron au crépuscule, Provence (© francois-roux/Getty Images)*
+|2025-07-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PerseidsPine_FR-FR2065918536_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_FR-FR2065918536_UHD.jpg)|
+||*Copyright: Étoiles filantes des Perséides et pin Bristlecone, parc national du Grand Bassin, États-Unis (© Wirestock Creators/Shutterstock)*
 ||
 |||
-|2025-07-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.YoungShark_DE-DE7165248670_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_DE-DE7165248670_UHD.jpg)|
-||*Copyright: Junger Blauhai schwimmt vor der Küste Galiciens, Spanien (© Damocean/Getty Images)*
+|2025-07-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PerseidsPine_DE-DE7245690852_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_DE-DE7245690852_UHD.jpg)|
+||*Copyright: Perseiden-Meteorschauer und eine alte Borstenkiefer, Great-Basin-Nationalpark, Nevada, USA (© Wirestock Creators/Shutterstock)*
 ||
 |||
-|2025-07-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.YoungShark_EN-CA4182495058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_EN-CA4182495058_UHD.jpg)|
-||*Copyright: Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)*
+|2025-07-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PerseidsPine_EN-CA4357451689_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_EN-CA4357451689_UHD.jpg)|
+||*Copyright: Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada, United States (© Wirestock Creators/Shutterstock)*
 ||
 |||
-|2025-07-14|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.YoungShark_EN-GB9221315811_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_EN-GB9221315811_UHD.jpg)|
-||*Copyright: Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)*
+|2025-07-15|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PerseidsPine_EN-GB9389582617_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_EN-GB9389582617_UHD.jpg)|
+||*Copyright: Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada, United States (© Wirestock Creators/Shutterstock)*
 ||
 |||
-|2025-07-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CattedraleDiPalermo_IT-IT0519609819_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CattedraleDiPalermo_IT-IT0519609819_UHD.jpg)|
-||*Copyright: Cattedrale di Palermo, Palermo, Sicilia (© Sean Pavone/iStock/Getty Images Plus)*
+|2025-07-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PerseidsPine_IT-IT7125588777_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_IT-IT7125588777_UHD.jpg)|
+||*Copyright: Pioggia di meteore delle Perseidi e un antico pino setoloso, Parco Nazionale del Great Basin, Nevada, USA (© Wirestock Creators/Shutterstock)*
 ||
 |||
-|2025-07-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.YoungShark_ES-ES5981151828_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_ES-ES5981151828_UHD.jpg)|
-||*Copyright: Joven tiburón azul nadando frente a la costa de Galicia, España (© Damocean/Getty Images)*
+|2025-07-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FranceLavender_ES-ES8017516672_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FranceLavender_ES-ES8017516672_UHD.jpg)|
+||*Copyright: Campos de lavanda en Plateau de Valensole, Francia (© zpagistock/Getty Images)*
 ||
 |||
-|2025-07-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.YoungShark_FR-CA9574855149_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_FR-CA9574855149_UHD.jpg)|
-||*Copyright: Jeune requin bleu nageant au large des côtes de Galice, Espagne (© Damocean/Getty Images)*
+|2025-07-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PerseidsPine_FR-CA9431536579_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_FR-CA9431536579_UHD.jpg)|
+||*Copyright: Étoiles filantes des Perséides et pin Bristlecone, parc national du Grand Bassin, États-Unis (© Wirestock Creators/Shutterstock)*
 ||
 |||
 
