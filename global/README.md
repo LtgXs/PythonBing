@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg)|
-||*Copyright: Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)*
+|2025-07-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg)|
+||*Copyright: Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
 |2025-07-16|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: フィラエ神殿, エジプト (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-07-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MuchalindaLake_EN-IN3808425098_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuchalindaLake_EN-IN3808425098_UHD.jpg)|
-||*Copyright: Muchalinda Sarovar, Bodh Gaya, Bihar (© Alexander Reshnya/Getty Images)*
+|2025-07-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TemplePhilae_EN-IN4820282952_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TemplePhilae_EN-IN4820282952_UHD.jpg)|
+||*Copyright: Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-07-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PerseidsPine_PT-BR0914394834_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_PT-BR0914394834_UHD.jpg)|
-||*Copyright: Chuva de meteoros Perseidas e um antigo pinheiro bristlecone, Parque Nacional Great Basin, Nevada, EUA (© Wirestock Creators/Shutterstock)*
+|2025-07-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TemplePhilae_PT-BR9175730450_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TemplePhilae_PT-BR9175730450_UHD.jpg)|
+||*Copyright: Templo de Filas (ou Templo de Ísis), Assuão, Egito (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-07-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PerseidsPine_FR-FR2065918536_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_FR-FR2065918536_UHD.jpg)|
-||*Copyright: Étoiles filantes des Perséides et pin Bristlecone, parc national du Grand Bassin, États-Unis (© Wirestock Creators/Shutterstock)*
+|2025-07-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TemplePhilae_FR-FR2354978280_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TemplePhilae_FR-FR2354978280_UHD.jpg)|
+||*Copyright: Temple d'Isis, Assouan, Égypte (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-07-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PerseidsPine_DE-DE7245690852_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_DE-DE7245690852_UHD.jpg)|
-||*Copyright: Perseiden-Meteorschauer und eine alte Borstenkiefer, Great-Basin-Nationalpark, Nevada, USA (© Wirestock Creators/Shutterstock)*
+|2025-07-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TemplePhilae_DE-DE7883088350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TemplePhilae_DE-DE7883088350_UHD.jpg)|
+||*Copyright: Tempel von Philae, Assuan, Ägypten (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-07-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PerseidsPine_EN-CA4357451689_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_EN-CA4357451689_UHD.jpg)|
-||*Copyright: Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada, United States (© Wirestock Creators/Shutterstock)*
+|2025-07-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TemplePhilae_EN-CA4518943728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TemplePhilae_EN-CA4518943728_UHD.jpg)|
+||*Copyright: Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-07-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PerseidsPine_EN-GB9389582617_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_EN-GB9389582617_UHD.jpg)|
-||*Copyright: Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada, United States (© Wirestock Creators/Shutterstock)*
+|2025-07-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TemplePhilae_EN-GB9547201805_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TemplePhilae_EN-GB9547201805_UHD.jpg)|
+||*Copyright: Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-07-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PerseidsPine_IT-IT7125588777_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_IT-IT7125588777_UHD.jpg)|
-||*Copyright: Pioggia di meteore delle Perseidi e un antico pino setoloso, Parco Nazionale del Great Basin, Nevada, USA (© Wirestock Creators/Shutterstock)*
+|2025-07-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TemplePhilae_IT-IT7785409392_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TemplePhilae_IT-IT7785409392_UHD.jpg)|
+||*Copyright: Tempio di Philae, Assuan, Egitto (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-07-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FranceLavender_ES-ES8017516672_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FranceLavender_ES-ES8017516672_UHD.jpg)|
-||*Copyright: Campos de lavanda en Plateau de Valensole, Francia (© zpagistock/Getty Images)*
+|2025-07-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TemplePhilae_ES-ES6627799153_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TemplePhilae_ES-ES6627799153_UHD.jpg)|
+||*Copyright: Templo de Isis, Asuán, Egipto (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-07-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PerseidsPine_FR-CA9431536579_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_FR-CA9431536579_UHD.jpg)|
-||*Copyright: Étoiles filantes des Perséides et pin Bristlecone, parc national du Grand Bassin, États-Unis (© Wirestock Creators/Shutterstock)*
+|2025-07-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TemplePhilae_FR-CA9223099268_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TemplePhilae_FR-CA9223099268_UHD.jpg)|
+||*Copyright: Temple d'Isis, Assouan, Égypte (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
 
