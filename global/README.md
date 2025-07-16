@@ -6,9 +6,9 @@
 ||*Copyright: Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)*
 ||
 |||
-|2025-07-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TemplePhilae_JA-JP1883182948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TemplePhilae_JA-JP1883182948_UHD.jpg)|
-||*Copyright: フィラエ神殿, エジプト (© Ratnakorn Piyasirisorost/Getty Images)*
+|2025-07-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FranceLavender_JA-JP2202328070_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FranceLavender_JA-JP2202328070_UHD.jpg)|
+||*Copyright: ヴァレンソール高原のラベンダー畑, フランス (© zpagistock/Getty Images)*
 ||
 |||
 |2025-07-16|**Region: en-IN**||
