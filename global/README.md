@@ -6,9 +6,9 @@
 ||*Copyright: Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)*
 ||
 |||
-|2025-07-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FranceLavender_JA-JP2202328070_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FranceLavender_JA-JP2202328070_UHD.jpg)|
-||*Copyright: ヴァレンソール高原のラベンダー畑, フランス (© zpagistock/Getty Images)*
+|2025-07-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DolomitiEstate_JA-JP1752445418_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitiEstate_JA-JP1752445418_UHD.jpg)|
+||*Copyright: ドロミーティのチンクェトッリ, イタリア (© usabin/Getty Images)*
 ||
 |||
 |2025-07-17|**Region: en-IN**||
@@ -27,8 +27,8 @@
 ||
 |||
 |2025-07-17|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LavenderWesterhever_DE-DE4832117412_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LavenderWesterhever_DE-DE4832117412_UHD.jpg)|
-||*Copyright: Blühender Lavendel und Leuchtturm Westerheversand in Westerhever, Nordfriesland, Schleswig-Holstein (© Sven-Erik Arndt/Arterra/Universal Images Group/Getty Images)*
+||![](https://www.bing.com/th?id=OHR.LavenderWesterhever_DE-DE1062458785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LavenderWesterhever_DE-DE1062458785_UHD.jpg)|
+||*Copyright: Blühender Strandflieder und Leuchtturm Westerheversand in Westerhever, Nordfriesland, Schleswig-Holstein (© Sven-Erik Arndt/Arterra/Universal Images Group/Getty Images)*
 ||
 |||
 |2025-07-18|**Region: en-CA**||
