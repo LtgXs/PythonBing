@@ -6,9 +6,9 @@
 ||*Copyright: Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2025-07-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DolomitiEstate_JA-JP1752445418_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitiEstate_JA-JP1752445418_UHD.jpg)|
-||*Copyright: ドロミーティのチンクェトッリ, イタリア (© usabin/Getty Images)*
+|2025-07-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.VaticanCity_JA-JP3107889250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VaticanCity_JA-JP3107889250_UHD.jpg)|
+||*Copyright: サン・ピエトロ大聖堂, バチカン市国 (© RudyBalasko/Getty Images)*
 ||
 |||
 |2025-07-18|**Region: en-IN**||
