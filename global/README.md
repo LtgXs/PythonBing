@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg)|
-||*Copyright: Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)*
+|2025-07-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg)|
+||*Copyright: Luna moth resting on cedar elm, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)*
 ||
 |||
 |2025-07-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: サン・ピエトロ大聖堂, バチカン市国 (© RudyBalasko/Getty Images)*
 ||
 |||
-|2025-07-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BahamaBlues_EN-IN1616548748_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BahamaBlues_EN-IN1616548748_UHD.jpg)|
-||*Copyright: Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)*
+|2025-07-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MothWeek_EN-IN7635547471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MothWeek_EN-IN7635547471_UHD.jpg)|
+||*Copyright: Luna moth resting on cedar elm, New Braunfels, Texas, United States (© Rolf Nussbaumer/Nature Picture Library)*
 ||
 |||
-|2025-07-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.HappySunflower_PT-BR8599256131_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HappySunflower_PT-BR8599256131_UHD.jpg)|
-||*Copyright: Girassóis florindo em um campo no verão (© Arsgera/Shutterstock)*
+|2025-07-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.NationalSoccerDay_PT-BR3956559362_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NationalSoccerDay_PT-BR3956559362_UHD.jpg)|
+||*Copyright: Partida da Copa das Confederações da FIFA Brasil 2013, Estádio Nacional, Brasília (© Clive Mason/Getty Images)*
 ||
 |||
-|2025-07-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.YoungShark_FR-FR2342809860_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungShark_FR-FR2342809860_UHD.jpg)|
-||*Copyright: Jeune requin bleu nageant au large des côtes de Galice, Espagne (© Damocean/Getty Images)*
+|2025-07-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Saumur_FR-FR4957130952_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saumur_FR-FR4957130952_UHD.jpg)|
+||*Copyright: Saumur et son château au crépuscule, Vallée de la Loire (© Hiroshi Higuchi/Getty Images)*
 ||
 |||
-|2025-07-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MiravetSpain_DE-DE1175039382_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MiravetSpain_DE-DE1175039382_UHD.jpg)|
-||*Copyright: Miravet am Fluss Ebro, Tarragona, Katalonien, Spanien (© Eloi_Omella/Getty Images)*
+|2025-07-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MothWeek_DE-DE7350997027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MothWeek_DE-DE7350997027_UHD.jpg)|
+||*Copyright: Luna-Motte auf einer Zedern-Ulme ruhend, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)*
 ||
 |||
-|2025-07-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.OroseiSardegna_EN-CA6517988362_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OroseiSardegna_EN-CA6517988362_UHD.jpg)|
-||*Copyright: Orosei, Sardinia, Italy (© EyeEm Mobile GmbH/Getty Images)*
+|2025-07-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SimcoeLighthouse_EN-CA4989806848_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SimcoeLighthouse_EN-CA4989806848_UHD.jpg)|
+||*Copyright: Jackson's Point Lighthouse on Lake Simcoe, Ontario (© AWSeebaran/E+/Getty Images)*
 ||
 |||
-|2025-07-18|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AcroporaReef_EN-GB6231237422_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AcroporaReef_EN-GB6231237422_UHD.jpg)|
-||*Copyright: Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)*
+|2025-07-19|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MothWeek_EN-GB9944593474_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MothWeek_EN-GB9944593474_UHD.jpg)|
+||*Copyright: Luna moth resting on cedar elm, New Braunfels, Texas, United States (© Rolf Nussbaumer/Nature Picture Library)*
 ||
 |||
-|2025-07-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MonaValePool_IT-IT0291843782_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_IT-IT0291843782_UHD.jpg)|
-||*Copyright: Piscina oceanica di Mona Vale, Sydney, Australia (© jamenpercy/Getty Images)*
+|2025-07-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MothWeek_IT-IT2222446823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MothWeek_IT-IT2222446823_UHD.jpg)|
+||*Copyright: Actias Luna, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)*
 ||
 |||
-|2025-07-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AshyWoodswallow_ES-ES2269692997_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AshyWoodswallow_ES-ES2269692997_UHD.jpg)|
-||*Copyright: Familia de artamo ceniciento posadas en una rama en Tailandia (© Captain Skyhigh/Getty Images)*
+|2025-07-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MothWeek_ES-ES7594362162_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MothWeek_ES-ES7594362162_UHD.jpg)|
+||*Copyright: Polilla de la luna descansando sobre olmo de cedro, New Braunfels, Texas, EE. UU. (© Rolf Nussbaumer/Nature Picture Library)*
 ||
 |||
-|2025-07-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MothWeek_FR-CA0504189694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MothWeek_FR-CA0504189694_UHD.jpg)|
-||*Copyright: Papillon lune posé sur un orme de cèdre, New Braunfels, Texas, États-Unis (© Rolf Nussbaumer/Nature Picture Library)*
+|2025-07-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SimcoeLighthouse_FR-CA8079606831_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SimcoeLighthouse_FR-CA8079606831_UHD.jpg)|
+||*Copyright: Phare de Jackson's Point sur le lac Simcoe, Ontario (© AWSeebaran/E+/Getty Images)*
 ||
 |||
 
