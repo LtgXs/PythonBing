@@ -6,9 +6,9 @@
 ||*Copyright: Luna moth resting on cedar elm, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)*
 ||
 |||
-|2025-07-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.VaticanCity_JA-JP3107889250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VaticanCity_JA-JP3107889250_UHD.jpg)|
-||*Copyright: サン・ピエトロ大聖堂, バチカン市国 (© RudyBalasko/Getty Images)*
+|2025-07-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_UHD.jpg)|
+||*Copyright: 観測機器で撮影された月 (© Sergey Kuznetsov/Getty Images)*
 ||
 |||
 |2025-07-19|**Region: en-IN**||
