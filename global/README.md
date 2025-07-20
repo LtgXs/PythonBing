@@ -6,9 +6,9 @@
 ||*Copyright: The moon's surface photographed through a telescope (© Sergey Kuznetsov/Getty Images)*
 ||
 |||
-|2025-07-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_UHD.jpg)|
-||*Copyright: 観測機器で撮影された月 (© Sergey Kuznetsov/Getty Images)*
+|2025-07-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MarineDay2025_JA-JP8195760967_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MarineDay2025_JA-JP8195760967_UHD.jpg)|
+||*Copyright: 青い海に浮かぶ種子島の無人島, 鹿児島県 (© Ippei Naoi/Getty Images)*
 ||
 |||
 |2025-07-20|**Region: en-IN**||
