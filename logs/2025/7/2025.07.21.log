@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:40:25] Picture infomations saved to  global/fr-CA/README.md
 [09:40:25] Picture infomations saved to global/fr-CA/history/2025/07/22_fr-CA.md
 Program exit at 09:40:25
+
+Program started at 16:18:05
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmq0rgcvqdmg
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:18:05] Start geting CN Bing Wallpaper
+[16:18:05] Successful get url: https://www.bing.com/th?id=OHR.GreatHeatY25_ZH-CN8252122347_UHD.jpg
+[16:18:05] Image saved to img/background.jpg
+[16:18:05] Info saved to README.md
+[16:18:05] Image saved to history/2025/07/22.md
+[16:18:05] Start geting global Bing Wallpaper, region=en-US, local time is 2025-07-21 12:18:05.606306-04:00
+[16:18:05] Successful get url: https://www.bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg
+[16:18:05] Picture infomations saved to  global/en-US/README.md
+[16:18:05] Picture infomations saved to global/en-US/history/2025/07/22_en-US.md
+[16:18:05] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-07-22 01:18:05.988209+09:00
+[16:18:06] Successful get url: https://www.bing.com/th?id=OHR.BadlandsSunset_JA-JP4206808892_UHD.jpg
+[16:18:06] Picture infomations saved to  global/ja-JP/README.md
+[16:18:06] Picture infomations saved to global/ja-JP/history/2025/07/22_ja-JP.md
+[16:18:06] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-07-21 21:48:06.352917+05:30
+[16:18:06] Successful get url: https://www.bing.com/th?id=OHR.AcroporaReef_EN-IN7935562509_UHD.jpg
+[16:18:06] Picture infomations saved to  global/en-IN/README.md
+[16:18:06] Picture infomations saved to global/en-IN/history/2025/07/21_en-IN.md
+[16:18:06] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-07-21 13:18:06.699617-03:00
+[16:18:06] Successful get url: https://www.bing.com/th?id=OHR.AcroporaReef_PT-BR8456645465_UHD.jpg
+[16:18:07] Picture infomations saved to  global/pt-BR/README.md
+[16:18:07] Picture infomations saved to global/pt-BR/history/2025/07/22_pt-BR.md
+[16:18:07] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-07-21 18:18:07.402854+02:00
+[16:18:07] Successful get url: https://www.bing.com/th?id=OHR.AcroporaReef_FR-FR5200865280_UHD.jpg
+[16:18:07] Picture infomations saved to  global/fr-FR/README.md
+[16:18:07] Picture infomations saved to global/fr-FR/history/2025/07/21_fr-FR.md
+[16:18:07] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-07-21 18:18:07.735660+02:00
+[16:18:07] Successful get url: https://www.bing.com/th?id=OHR.AcroporaReef_DE-DE6392050074_UHD.jpg
+[16:18:08] Picture infomations saved to  global/de-DE/README.md
+[16:18:08] Picture infomations saved to global/de-DE/history/2025/07/21_de-DE.md
+[16:18:08] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-07-21 12:18:08.108706-04:00
+[16:18:08] Successful get url: https://www.bing.com/th?id=OHR.AcroporaReef_EN-CA5414923469_UHD.jpg
+[16:18:08] Picture infomations saved to  global/en-CA/README.md
+[16:18:08] Picture infomations saved to global/en-CA/history/2025/07/22_en-CA.md
+[16:18:08] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-07-21 17:18:08.417223+01:00
+[16:18:08] Successful get url: https://www.bing.com/th?id=OHR.BuckinghamPalaceOpening2025_EN-GB0680195600_UHD.jpg
+[16:18:09] Picture infomations saved to  global/en-GB/README.md
+[16:18:09] Picture infomations saved to global/en-GB/history/2025/07/21_en-GB.md
+[16:18:09] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-07-21 18:18:09.508385+02:00
+[16:18:09] Successful get url: https://www.bing.com/th?id=OHR.AcroporaReef_IT-IT2371984871_UHD.jpg
+[16:18:09] Picture infomations saved to  global/it-IT/README.md
+[16:18:09] Picture infomations saved to global/it-IT/history/2025/07/21_it-IT.md
+[16:18:09] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-07-21 18:18:09.923070+02:00
+[16:18:09] Successful get url: https://www.bing.com/th?id=OHR.AcroporaReef_ES-ES7878732690_UHD.jpg
+[16:18:10] Picture infomations saved to  global/es-ES/README.md
+[16:18:10] Picture infomations saved to global/es-ES/history/2025/07/21_es-ES.md
+[16:18:10] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-07-21 12:18:10.293813-04:00
+[16:18:10] Successful get url: https://www.bing.com/th?id=OHR.AcroporaReef_FR-CA7721467193_UHD.jpg
+[16:18:10] Picture infomations saved to  global/fr-CA/README.md
+[16:18:10] Picture infomations saved to global/fr-CA/history/2025/07/22_fr-CA.md
+Program exit at 16:18:10
