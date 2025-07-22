@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-22|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg)|
-||*Copyright: Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)*
+|2025-07-23|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg)|
+||*Copyright: Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)*
 ||
 |||
 |2025-07-22|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: バッドランズ国立公園, 米国 サウスダコタ州 (© Petr Bednarik/Danita Delimont/Alamy)*
 ||
 |||
-|2025-07-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AcroporaReef_EN-IN7935562509_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AcroporaReef_EN-IN7935562509_UHD.jpg)|
-||*Copyright: Staghorn coral in shallow ocean (© blue-sea.cz/Shutterstock)*
+|2025-07-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BadlandsSunset_EN-IN8164722915_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BadlandsSunset_EN-IN8164722915_UHD.jpg)|
+||*Copyright: Sunset over Badlands National Park, South Dakota, United States (© Petr Bednarik/Danita Delimont/Alamy Stock Photo)*
 ||
 |||
-|2025-07-22|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AcroporaReef_PT-BR8456645465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AcroporaReef_PT-BR8456645465_UHD.jpg)|
-||*Copyright: Coral chifre-de-veado em Bonaire, Caribe Neerlandês (© blue-sea.cz/Shutterstock)*
+|2025-07-23|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.EucaliptoSC_PT-BR8170247706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucaliptoSC_PT-BR8170247706_UHD.jpg)|
+||*Copyright: Reflorestamento de eucaliptos em Santa Catarina (© YES BRASIL/Getty Images)*
 ||
 |||
-|2025-07-21|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AcroporaReef_FR-FR5200865280_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AcroporaReef_FR-FR5200865280_UHD.jpg)|
-||*Copyright: Corail corne de cerf dans une mer peu profonde (© blue-sea.cz/Shutterstock)*
+|2025-07-22|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BadlandsSunset_FR-FR5355431035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BadlandsSunset_FR-FR5355431035_UHD.jpg)|
+||*Copyright: Coucher de soleil sur le parc national des Badlands, Dakota du Sud, États-Unis (© Petr Bednarik/Danita Delimont/Alamy Stock Photo)*
 ||
 |||
-|2025-07-21|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AcroporaReef_DE-DE6392050074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AcroporaReef_DE-DE6392050074_UHD.jpg)|
-||*Copyright: Hirschhorn-Koralle im seichten Ozean (© blue-sea.cz/Shutterstock)*
+|2025-07-22|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BadlandsSunset_DE-DE6485321128_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BadlandsSunset_DE-DE6485321128_UHD.jpg)|
+||*Copyright: Sonnenuntergang über dem Badlands-Nationalpark, South Dakota, USA (© Petr Bednarik/Danita Delimont/Alamy)*
 ||
 |||
-|2025-07-22|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AcroporaReef_EN-CA5414923469_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AcroporaReef_EN-CA5414923469_UHD.jpg)|
-||*Copyright: Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)*
+|2025-07-23|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BadlandsSunset_EN-CA5588224292_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BadlandsSunset_EN-CA5588224292_UHD.jpg)|
+||*Copyright: Sunset over Badlands National Park, South Dakota, United States (© Petr Bednarik/Danita Delimont/Alamy Stock Photo)*
 ||
 |||
-|2025-07-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BuckinghamPalaceOpening2025_EN-GB0680195600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BuckinghamPalaceOpening2025_EN-GB0680195600_UHD.jpg)|
-||*Copyright: Buckingham Palace, London (© Leonid Andronov/Shutterstock)*
+|2025-07-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BadlandsSunset_EN-GB0865631210_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BadlandsSunset_EN-GB0865631210_UHD.jpg)|
+||*Copyright: Sunset over Badlands National Park, South Dakota, United States (© Petr Bednarik/Danita Delimont/Alamy Stock Photo)*
 ||
 |||
-|2025-07-21|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AcroporaReef_IT-IT2371984871_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AcroporaReef_IT-IT2371984871_UHD.jpg)|
-||*Copyright: Corallo Staghorn, Isola di Bonaire, Caraibi olandesi (© blue-sea.cz/Shutterstock)*
+|2025-07-22|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BadlandsSunset_IT-IT3807784060_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BadlandsSunset_IT-IT3807784060_UHD.jpg)|
+||*Copyright: Tramonto sul Parco Nazionale di Badlands, South Dakota, USA (© Petr Bednarik/Danita Delimont/Alamy Stock Photo)*
 ||
 |||
-|2025-07-21|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AcroporaReef_ES-ES7878732690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AcroporaReef_ES-ES7878732690_UHD.jpg)|
-||*Copyright: Coral cuerno de ciervo en el Caribe Neerlandés (© blue-sea.cz/Shutterstock)*
+|2025-07-22|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ThomsonGazelle_ES-ES5485485713_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThomsonGazelle_ES-ES5485485713_UHD.jpg)|
+||*Copyright: Madre y gazapillo de gacela de Thomson, Maasai Mara, Kenia (© Gallo Images/DanitaDelimont.com)*
 ||
 |||
-|2025-07-22|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AcroporaReef_FR-CA7721467193_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AcroporaReef_FR-CA7721467193_UHD.jpg)|
-||*Copyright: Corail corne de cerf dans une mer peu profonde (© blue-sea.cz/Shutterstock)*
+|2025-07-23|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BadlandsSunset_FR-CA7616067476_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BadlandsSunset_FR-CA7616067476_UHD.jpg)|
+||*Copyright: Coucher de soleil sur le parc national des Badlands, Dakota du Sud, États-Unis (© Petr Bednarik/Danita Delimont/Alamy Stock Photo)*
 ||
 |||
 
