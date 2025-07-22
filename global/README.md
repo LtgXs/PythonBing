@@ -6,9 +6,9 @@
 ||*Copyright: Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)*
 ||
 |||
-|2025-07-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BadlandsSunset_JA-JP4206808892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BadlandsSunset_JA-JP4206808892_UHD.jpg)|
-||*Copyright: バッドランズ国立公園, 米国 サウスダコタ州 (© Petr Bednarik/Danita Delimont/Alamy)*
+|2025-07-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GionFestival2025_JA-JP8597633874_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GionFestival2025_JA-JP8597633874_UHD.jpg)|
+||*Copyright: 提灯の灯りに照らされた南観音山, 京都市 (© Route16/Adobe Stock)*
 ||
 |||
 |2025-07-22|**Region: en-IN**||
