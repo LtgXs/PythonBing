@@ -6,9 +6,9 @@
 ||*Copyright: Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)*
 ||
 |||
-|2025-07-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GionFestival2025_JA-JP8597633874_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GionFestival2025_JA-JP8597633874_UHD.jpg)|
-||*Copyright: 提灯の灯りに照らされた南観音山, 京都市 (© Route16/Adobe Stock)*
+|2025-07-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AshyWoodswallow_JA-JP4870541560_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AshyWoodswallow_JA-JP4870541560_UHD.jpg)|
+||*Copyright: 枝にとまるハイイロモリツバメ (© Captain Skyhigh/Getty Images)*
 ||
 |||
 |2025-07-23|**Region: en-IN**||
