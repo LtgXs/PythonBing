@@ -1,0 +1,60 @@
+
+Program started at 09:36:36
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmpptgkbjq6m
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:36:36] Start geting CN Bing Wallpaper
+[09:36:36] Successful get url: https://www.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_UHD.jpg
+[09:36:36] Image saved to img/background.jpg
+[09:36:36] Info saved to README.md
+[09:36:36] Image saved to history/2025/07/24.md
+[09:36:36] Start geting global Bing Wallpaper, region=en-US, local time is 2025-07-24 05:36:36.680021-04:00
+[09:36:36] Successful get url: https://www.bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg
+[09:36:36] Picture infomations saved to  global/en-US/README.md
+[09:36:36] Picture infomations saved to global/en-US/history/2025/07/25_en-US.md
+[09:36:36] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-07-24 18:36:36.823440+09:00
+[09:36:36] Successful get url: https://www.bing.com/th?id=OHR.AshyWoodswallow_JA-JP4870541560_UHD.jpg
+[09:36:36] Picture infomations saved to  global/ja-JP/README.md
+[09:36:36] Picture infomations saved to global/ja-JP/history/2025/07/24_ja-JP.md
+[09:36:36] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-07-24 15:06:36.993791+05:30
+[09:36:37] Successful get url: https://www.bing.com/th?id=OHR.AdalajStepwell_EN-IN5898657988_UHD.jpg
+[09:36:37] Picture infomations saved to  global/en-IN/README.md
+[09:36:37] Picture infomations saved to global/en-IN/history/2025/07/24_en-IN.md
+[09:36:37] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-07-24 06:36:37.095716-03:00
+[09:36:37] Successful get url: https://www.bing.com/th?id=OHR.AshyWoodswallow_PT-BR6492437124_UHD.jpg
+[09:36:37] Picture infomations saved to  global/pt-BR/README.md
+[09:36:37] Picture infomations saved to global/pt-BR/history/2025/07/25_pt-BR.md
+[09:36:37] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-07-24 11:36:37.213706+02:00
+[09:36:37] Successful get url: https://www.bing.com/th?id=OHR.AshyWoodswallow_FR-FR6064394705_UHD.jpg
+[09:36:37] Picture infomations saved to  global/fr-FR/README.md
+[09:36:37] Picture infomations saved to global/fr-FR/history/2025/07/24_fr-FR.md
+[09:36:37] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-07-24 11:36:37.364129+02:00
+[09:36:37] Successful get url: https://www.bing.com/th?id=OHR.BayreuthTheatre_DE-DE1209418300_UHD.jpg
+[09:36:37] Picture infomations saved to  global/de-DE/README.md
+[09:36:37] Picture infomations saved to global/de-DE/history/2025/07/24_de-DE.md
+[09:36:37] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-07-24 05:36:37.511811-04:00
+[09:36:37] Successful get url: https://www.bing.com/th?id=OHR.AshyWoodswallow_EN-CA5890367905_UHD.jpg
+[09:36:37] Picture infomations saved to  global/en-CA/README.md
+[09:36:37] Picture infomations saved to global/en-CA/history/2025/07/25_en-CA.md
+[09:36:37] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-07-24 10:36:37.667293+01:00
+[09:36:37] Successful get url: https://www.bing.com/th?id=OHR.AshyWoodswallow_EN-GB1919369910_UHD.jpg
+[09:36:37] Picture infomations saved to  global/en-GB/README.md
+[09:36:37] Picture infomations saved to global/en-GB/history/2025/07/24_en-GB.md
+[09:36:37] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-07-24 11:36:37.818712+02:00
+[09:36:37] Successful get url: https://www.bing.com/th?id=OHR.AshyWoodswallow_IT-IT3849663666_UHD.jpg
+[09:36:37] Picture infomations saved to  global/it-IT/README.md
+[09:36:37] Picture infomations saved to global/it-IT/history/2025/07/24_it-IT.md
+[09:36:37] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-07-24 11:36:37.926725+02:00
+[09:36:37] Successful get url: https://www.bing.com/th?id=OHR.PerseidsPine_ES-ES6515069919_UHD.jpg
+[09:36:38] Picture infomations saved to  global/es-ES/README.md
+[09:36:38] Picture infomations saved to global/es-ES/history/2025/07/24_es-ES.md
+[09:36:38] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-07-24 05:36:38.032263-04:00
+[09:36:38] Successful get url: https://www.bing.com/th?id=OHR.AshyWoodswallow_FR-CA7138752559_UHD.jpg
+[09:36:38] Picture infomations saved to  global/fr-CA/README.md
+[09:36:38] Picture infomations saved to global/fr-CA/history/2025/07/25_fr-CA.md
+Program exit at 09:36:38
