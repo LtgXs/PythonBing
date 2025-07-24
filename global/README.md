@@ -6,9 +6,9 @@
 ||*Copyright: Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)*
 ||
 |||
-|2025-07-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AshyWoodswallow_JA-JP4870541560_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AshyWoodswallow_JA-JP4870541560_UHD.jpg)|
-||*Copyright: 枝にとまるハイイロモリツバメ (© Captain Skyhigh/Getty Images)*
+|2025-07-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LasPalmas_JA-JP9180112071_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasPalmas_JA-JP9180112071_UHD.jpg)|
+||*Copyright: ラス・パルマス・デ・グラン・カナリア, スペイン (© Marco Bottigelli/Getty Images)*
 ||
 |||
 |2025-07-24|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2025-07-24|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AshyWoodswallow_IT-IT3849663666_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AshyWoodswallow_IT-IT3849663666_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.AshyWoodswallow_IT-IT1611565241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AshyWoodswallow_IT-IT1611565241_UHD.jpg)|
 ||*Copyright: Famiglia di rondini boscherecce su un ramo, Thailandia (© Captain Skyhigh/Getty Images)*
 ||
 |||
