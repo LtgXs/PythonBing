@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2025-07-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LasPalmas_JA-JP9180112071_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasPalmas_JA-JP9180112071_UHD.jpg)|
-||*Copyright: ラス・パルマス・デ・グラン・カナリア, スペイン (© Marco Bottigelli/Getty Images)*
+|2025-07-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MangroveTwilight_JA-JP9462938836_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_JA-JP9462938836_UHD.jpg)|
+||*Copyright: マングローブのシルエットと夕陽, インドネシア (© Boonchet Ch./Getty Images)*
 ||
 |||
 |2025-07-25|**Region: en-IN**||
