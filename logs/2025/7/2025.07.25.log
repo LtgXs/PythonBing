@@ -1,0 +1,60 @@
+
+Program started at 09:37:40
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmpptgkbjq6m
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:37:40] Start geting CN Bing Wallpaper
+[09:37:40] Successful get url: https://www.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_UHD.jpg
+[09:37:40] Image saved to img/background.jpg
+[09:37:40] Info saved to README.md
+[09:37:40] Image saved to history/2025/07/25.md
+[09:37:40] Start geting global Bing Wallpaper, region=en-US, local time is 2025-07-25 05:37:40.433320-04:00
+[09:37:40] Successful get url: https://www.bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg
+[09:37:40] Picture infomations saved to  global/en-US/README.md
+[09:37:40] Picture infomations saved to global/en-US/history/2025/07/26_en-US.md
+[09:37:40] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-07-25 18:37:40.598782+09:00
+[09:37:40] Successful get url: https://www.bing.com/th?id=OHR.LasPalmas_JA-JP9180112071_UHD.jpg
+[09:37:40] Picture infomations saved to  global/ja-JP/README.md
+[09:37:40] Picture infomations saved to global/ja-JP/history/2025/07/25_ja-JP.md
+[09:37:40] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-07-25 15:07:40.722546+05:30
+[09:37:40] Successful get url: https://www.bing.com/th?id=OHR.LasPalmas_EN-IN7081028129_UHD.jpg
+[09:37:40] Picture infomations saved to  global/en-IN/README.md
+[09:37:40] Picture infomations saved to global/en-IN/history/2025/07/25_en-IN.md
+[09:37:40] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-07-25 06:37:40.838888-03:00
+[09:37:40] Successful get url: https://www.bing.com/th?id=OHR.LasPalmas_PT-BR7218640401_UHD.jpg
+[09:37:40] Picture infomations saved to  global/pt-BR/README.md
+[09:37:40] Picture infomations saved to global/pt-BR/history/2025/07/26_pt-BR.md
+[09:37:40] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-07-25 11:37:40.948742+02:00
+[09:37:40] Successful get url: https://www.bing.com/th?id=OHR.BlackfinBarracuda_FR-FR4425436788_UHD.jpg
+[09:37:41] Picture infomations saved to  global/fr-FR/README.md
+[09:37:41] Picture infomations saved to global/fr-FR/history/2025/07/25_fr-FR.md
+[09:37:41] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-07-25 11:37:41.065363+02:00
+[09:37:41] Successful get url: https://www.bing.com/th?id=OHR.LasPalmas_DE-DE5219971738_UHD.jpg
+[09:37:41] Picture infomations saved to  global/de-DE/README.md
+[09:37:41] Picture infomations saved to global/de-DE/history/2025/07/25_de-DE.md
+[09:37:41] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-07-25 05:37:41.191408-04:00
+[09:37:41] Successful get url: https://www.bing.com/th?id=OHR.LasPalmas_EN-CA3268304328_UHD.jpg
+[09:37:41] Picture infomations saved to  global/en-CA/README.md
+[09:37:41] Picture infomations saved to global/en-CA/history/2025/07/26_en-CA.md
+[09:37:41] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-07-25 10:37:41.304017+01:00
+[09:37:41] Successful get url: https://www.bing.com/th?id=OHR.LasPalmas_EN-GB9088334179_UHD.jpg
+[09:37:41] Picture infomations saved to  global/en-GB/README.md
+[09:37:41] Picture infomations saved to global/en-GB/history/2025/07/25_en-GB.md
+[09:37:41] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-07-25 11:37:41.409399+02:00
+[09:37:41] Successful get url: https://www.bing.com/th?id=OHR.LasPalmas_IT-IT1381176116_UHD.jpg
+[09:37:41] Picture infomations saved to  global/it-IT/README.md
+[09:37:41] Picture infomations saved to global/it-IT/history/2025/07/25_it-IT.md
+[09:37:41] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-07-25 11:37:41.519880+02:00
+[09:37:41] Successful get url: https://www.bing.com/th?id=OHR.GaliciaDay_ES-ES2507386877_UHD.jpg
+[09:37:41] Picture infomations saved to  global/es-ES/README.md
+[09:37:41] Picture infomations saved to global/es-ES/history/2025/07/25_es-ES.md
+[09:37:41] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-07-25 05:37:41.634071-04:00
+[09:37:41] Successful get url: https://www.bing.com/th?id=OHR.LasPalmas_FR-CA3298447065_UHD.jpg
+[09:37:41] Picture infomations saved to  global/fr-CA/README.md
+[09:37:41] Picture infomations saved to global/fr-CA/history/2025/07/26_fr-CA.md
+Program exit at 09:37:41
