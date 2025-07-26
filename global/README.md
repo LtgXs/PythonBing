@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-26|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg)|
-||*Copyright: Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)*
+|2025-07-27|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg)|
+||*Copyright: Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)*
 ||
 |||
 |2025-07-26|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: マングローブのシルエットと夕陽, インドネシア (© Boonchet Ch./Getty Images)*
 ||
 |||
-|2025-07-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LasPalmas_EN-IN7081028129_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasPalmas_EN-IN7081028129_UHD.jpg)|
-||*Copyright: Aerial view of colourful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)*
+|2025-07-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-IN7237460897_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-IN7237460897_UHD.jpg)|
+||*Copyright: Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)*
 ||
 |||
-|2025-07-26|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LasPalmas_PT-BR7218640401_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasPalmas_PT-BR7218640401_UHD.jpg)|
-||*Copyright: Vista aérea das casas coloridas em Palmas da Grã-Canária, Espanha (© Marco Bottigelli/Getty Images)*
+|2025-07-27|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MangroveTwilight_PT-BR1374948765_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_PT-BR1374948765_UHD.jpg)|
+||*Copyright: Manguezais ao entardecer, Praia de Walakiri, ilha de Sumba, Indonésia (© Boonchet Ch./Getty Images)*
 ||
 |||
-|2025-07-25|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BlackfinBarracuda_FR-FR4425436788_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackfinBarracuda_FR-FR4425436788_UHD.jpg)|
-||*Copyright: Banc de barracudas chevrons, Shark Reef, parc national de Ras Mohammed, péninsule du Sinaï, Égypte (© Alex Mustard/Nature Picture Library)*
+|2025-07-26|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MangroveTwilight_FR-FR3644459674_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_FR-FR3644459674_UHD.jpg)|
+||*Copyright: Mangroves au crépuscule, plage de Walakiri, île de Sumba, Indonésie (© Boonchet Ch./Getty Images)*
 ||
 |||
-|2025-07-25|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LasPalmas_DE-DE5219971738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasPalmas_DE-DE5219971738_UHD.jpg)|
-||*Copyright: Luftaufnahme von bunten Häusern, Las Palmas de Gran Canaria, Spanien (© Marco Bottigelli/Getty Images)*
+|2025-07-26|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MangroveTwilight_DE-DE5475424156_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_DE-DE5475424156_UHD.jpg)|
+||*Copyright: Mangrovenbäume bei Dämmerung, Walakiri Beach auf der Insel Sumba, Indonesien (© Boonchet Ch./Getty Images)*
 ||
 |||
-|2025-07-26|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LasPalmas_EN-CA3268304328_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasPalmas_EN-CA3268304328_UHD.jpg)|
-||*Copyright: Aerial view of colourful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)*
+|2025-07-27|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-CA3445258233_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-CA3445258233_UHD.jpg)|
+||*Copyright: Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)*
 ||
 |||
-|2025-07-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LasPalmas_EN-GB9088334179_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasPalmas_EN-GB9088334179_UHD.jpg)|
-||*Copyright: Aerial view of colourful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)*
+|2025-07-26|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-GB9365511986_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-GB9365511986_UHD.jpg)|
+||*Copyright: Mangrove trees, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)*
 ||
 |||
-|2025-07-25|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LasPalmas_IT-IT1381176116_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasPalmas_IT-IT1381176116_UHD.jpg)|
-||*Copyright: Vista aerea case colorate, Las Palmas de Gran Canaria, Spagna (© Marco Bottigelli/Getty Images)*
+|2025-07-26|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MangroveTwilight_IT-IT8283933203_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_IT-IT8283933203_UHD.jpg)|
+||*Copyright: Mangrovie al tramonto, Spiaggia di Walakiri, Isola di Sumba, Indonesia (© Boonchet Ch./Getty Images)*
 ||
 |||
-|2025-07-25|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GaliciaDay_ES-ES2507386877_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaliciaDay_ES-ES2507386877_UHD.jpg)|
-||*Copyright: Faro en Vigo, Galicia, España (© Adrian Abelleira Rodriguez/iStock/Getty Images Plus)*
+|2025-07-26|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LasPalmas_ES-ES3269515440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasPalmas_ES-ES3269515440_UHD.jpg)|
+||*Copyright: Vista aérea de casas coloridas, Las Palmas de Gran Canaria, España (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2025-07-26|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LasPalmas_FR-CA3298447065_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasPalmas_FR-CA3298447065_UHD.jpg)|
-||*Copyright: Vue aérienne des maisons colorées, Las Palmas de Gran Canaria, Espagne (© Marco Bottigelli/Getty Images)*
+|2025-07-27|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MangroveTwilight_FR-CA3446891760_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_FR-CA3446891760_UHD.jpg)|
+||*Copyright: Mangroves au crépuscule, plage de Walakiri, île de Sumba, Indonésie (© Boonchet Ch./Getty Images)*
 ||
 |||
 
