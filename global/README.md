@@ -6,9 +6,9 @@
 ||*Copyright: Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)*
 ||
 |||
-|2025-07-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MangroveTwilight_JA-JP9462938836_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_JA-JP9462938836_UHD.jpg)|
-||*Copyright: マングローブのシルエットと夕陽, インドネシア (© Boonchet Ch./Getty Images)*
+|2025-07-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BlackfinBarracuda_JA-JP9849559763_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackfinBarracuda_JA-JP9849559763_UHD.jpg)|
+||*Copyright: ラスムハンマド国立公園, エジプト (© Alex Mustard/Nature Picture Library)*
 ||
 |||
 |2025-07-26|**Region: en-IN**||
