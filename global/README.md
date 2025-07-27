@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-27|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg)|
-||*Copyright: Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)*
+|2025-07-28|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BlackfinBarracuda_EN-US1227116811_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackfinBarracuda_EN-US1227116811_UHD.jpg)|
+||*Copyright: School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt (© Alex Mustard/Nature Picture Library)*
 ||
 |||
 |2025-07-27|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ラスムハンマド国立公園, エジプト (© Alex Mustard/Nature Picture Library)*
 ||
 |||
-|2025-07-26|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-IN7237460897_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-IN7237460897_UHD.jpg)|
-||*Copyright: Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)*
+|2025-07-27|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BlackfinBarracuda_EN-IN7426359144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackfinBarracuda_EN-IN7426359144_UHD.jpg)|
+||*Copyright: School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt (© Alex Mustard/Nature Picture Library)*
 ||
 |||
-|2025-07-27|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MangroveTwilight_PT-BR1374948765_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_PT-BR1374948765_UHD.jpg)|
-||*Copyright: Manguezais ao entardecer, Praia de Walakiri, ilha de Sumba, Indonésia (© Boonchet Ch./Getty Images)*
+|2025-07-28|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BlackfinBarracuda_PT-BR7423945711_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackfinBarracuda_PT-BR7423945711_UHD.jpg)|
+||*Copyright: Cardume de barracudas-de-barbatana-preta, Shark Reef, Parque Nacional Ras Mohammed, Península do Sinai, Egito (© Alex Mustard/Nature Picture Library)*
 ||
 |||
-|2025-07-26|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MangroveTwilight_FR-FR3644459674_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_FR-FR3644459674_UHD.jpg)|
-||*Copyright: Mangroves au crépuscule, plage de Walakiri, île de Sumba, Indonésie (© Boonchet Ch./Getty Images)*
+|2025-07-27|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TourFrance_FR-FR5942543577_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TourFrance_FR-FR5942543577_UHD.jpg)|
+||*Copyright: Le peloton du Tour de France 2019, Arc de Triomphe du Tour de France, Paris (© Kiran Ridley/Getty Images)*
 ||
 |||
-|2025-07-26|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MangroveTwilight_DE-DE5475424156_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_DE-DE5475424156_UHD.jpg)|
-||*Copyright: Mangrovenbäume bei Dämmerung, Walakiri Beach auf der Insel Sumba, Indonesien (© Boonchet Ch./Getty Images)*
+|2025-07-27|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BlackfinBarracuda_DE-DE5710611584_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackfinBarracuda_DE-DE5710611584_UHD.jpg)|
+||*Copyright: Dunkelflossen-Barrakuda-Schwarm, Haifisch-Riff, Ras-Mohammed-Nationalpark, Sinai-Halbinsel, Ägypten (© Alex Mustard/Nature Picture Library)*
 ||
 |||
-|2025-07-27|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-CA3445258233_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-CA3445258233_UHD.jpg)|
-||*Copyright: Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)*
+|2025-07-28|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BlackfinBarracuda_EN-CA3621644676_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackfinBarracuda_EN-CA3621644676_UHD.jpg)|
+||*Copyright: School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt (© Alex Mustard/Nature Picture Library)*
 ||
 |||
-|2025-07-26|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-GB9365511986_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-GB9365511986_UHD.jpg)|
-||*Copyright: Mangrove trees, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)*
+|2025-07-27|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BlackfinBarracuda_EN-GB9543158920_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackfinBarracuda_EN-GB9543158920_UHD.jpg)|
+||*Copyright: School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt (© Alex Mustard/Nature Picture Library)*
 ||
 |||
-|2025-07-26|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MangroveTwilight_IT-IT8283933203_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_IT-IT8283933203_UHD.jpg)|
-||*Copyright: Mangrovie al tramonto, Spiaggia di Walakiri, Isola di Sumba, Indonesia (© Boonchet Ch./Getty Images)*
+|2025-07-27|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CaltagironeSicilia_IT-IT1493069823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaltagironeSicilia_IT-IT1493069823_UHD.jpg)|
+||*Copyright: Cattedrale di San Giuliano, Caltagirone, Catania, Sicilia (© Javier Cosio/iStock)*
 ||
 |||
-|2025-07-26|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LasPalmas_ES-ES3269515440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LasPalmas_ES-ES3269515440_UHD.jpg)|
-||*Copyright: Vista aérea de casas coloridas, Las Palmas de Gran Canaria, España (© Marco Bottigelli/Getty Images)*
+|2025-07-27|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BlackfinBarracuda_ES-ES3397140891_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackfinBarracuda_ES-ES3397140891_UHD.jpg)|
+||*Copyright: Cardumen de barracudas, Parque Nacional Ras Mohammed, Península del Sinaí, Egipto (© Alex Mustard/Nature Picture Library)*
 ||
 |||
-|2025-07-27|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MangroveTwilight_FR-CA3446891760_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MangroveTwilight_FR-CA3446891760_UHD.jpg)|
-||*Copyright: Mangroves au crépuscule, plage de Walakiri, île de Sumba, Indonésie (© Boonchet Ch./Getty Images)*
+|2025-07-28|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BlackfinBarracuda_FR-CA4757779277_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackfinBarracuda_FR-CA4757779277_UHD.jpg)|
+||*Copyright: Banc de barracudas chevrons, Shark Reef, parc national de Ras Mohammed, péninsule du Sinaï, Égypte (© Alex Mustard/Nature Picture Library)*
 ||
 |||
 
