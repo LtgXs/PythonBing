@@ -6,9 +6,9 @@
 ||*Copyright: School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt (© Alex Mustard/Nature Picture Library)*
 ||
 |||
-|2025-07-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BlackfinBarracuda_JA-JP9849559763_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackfinBarracuda_JA-JP9849559763_UHD.jpg)|
-||*Copyright: ラスムハンマド国立公園, エジプト (© Alex Mustard/Nature Picture Library)*
+|2025-07-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MongoliaYurts_JA-JP0052773408_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MongoliaYurts_JA-JP0052773408_UHD.jpg)|
+||*Copyright: 大草原に佇むゲル,  モンゴル国 (© Michel Arnault/Shutterstock)*
 ||
 |||
 |2025-07-27|**Region: en-IN**||
