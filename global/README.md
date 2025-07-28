@@ -6,9 +6,9 @@
 ||*Copyright: Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)*
 ||
 |||
-|2025-07-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MongoliaYurts_JA-JP0052773408_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MongoliaYurts_JA-JP0052773408_UHD.jpg)|
-||*Copyright: 大草原に佇むゲル,  モンゴル国 (© Michel Arnault/Shutterstock)*
+|2025-07-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TigerDay_JA-JP0300467728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TigerDay_JA-JP0300467728_UHD.jpg)|
+||*Copyright: ベンガルトラのメス, インド (© Axel Gomille/Nature Picture Library)*
 ||
 |||
 |2025-07-28|**Region: en-IN**||
