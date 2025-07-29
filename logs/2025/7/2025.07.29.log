@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:38:55] Picture infomations saved to  global/fr-CA/README.md
 [09:38:55] Picture infomations saved to global/fr-CA/history/2025/07/30_fr-CA.md
 Program exit at 09:38:55
+
+Program started at 16:17:44
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmpptgkbjq6m
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:17:44] Start geting CN Bing Wallpaper
+[16:17:44] Successful get url: https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_UHD.jpg
+[16:17:44] Image saved to img/background.jpg
+[16:17:44] Info saved to README.md
+[16:17:44] Image saved to history/2025/07/30.md
+[16:17:44] Start geting global Bing Wallpaper, region=en-US, local time is 2025-07-29 12:17:44.819071-04:00
+[16:17:44] Successful get url: https://www.bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg
+[16:17:45] Picture infomations saved to  global/en-US/README.md
+[16:17:45] Picture infomations saved to global/en-US/history/2025/07/30_en-US.md
+[16:17:45] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-07-30 01:17:45.015912+09:00
+[16:17:45] Successful get url: https://www.bing.com/th?id=OHR.SaypeDubai_JA-JP1584990235_UHD.jpg
+[16:17:45] Picture infomations saved to  global/ja-JP/README.md
+[16:17:45] Picture infomations saved to global/ja-JP/history/2025/07/30_ja-JP.md
+[16:17:45] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-07-29 21:47:45.309873+05:30
+[16:17:45] Successful get url: https://www.bing.com/th?id=OHR.TigerDay_EN-IN7892479996_UHD.jpg
+[16:17:45] Picture infomations saved to  global/en-IN/README.md
+[16:17:45] Picture infomations saved to global/en-IN/history/2025/07/29_en-IN.md
+[16:17:45] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-07-29 13:17:45.502779-03:00
+[16:17:45] Successful get url: https://www.bing.com/th?id=OHR.TigerDay_PT-BR9994663817_UHD.jpg
+[16:17:45] Picture infomations saved to  global/pt-BR/README.md
+[16:17:45] Picture infomations saved to global/pt-BR/history/2025/07/30_pt-BR.md
+[16:17:45] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-07-29 18:17:45.736077+02:00
+[16:17:45] Successful get url: https://www.bing.com/th?id=OHR.TigerDay_FR-FR7212434732_UHD.jpg
+[16:17:46] Picture infomations saved to  global/fr-FR/README.md
+[16:17:46] Picture infomations saved to global/fr-FR/history/2025/07/29_fr-FR.md
+[16:17:46] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-07-29 18:17:46.618041+02:00
+[16:17:46] Successful get url: https://www.bing.com/th?id=OHR.TigerDay_DE-DE7296947889_UHD.jpg
+[16:17:46] Picture infomations saved to  global/de-DE/README.md
+[16:17:46] Picture infomations saved to global/de-DE/history/2025/07/29_de-DE.md
+[16:17:46] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-07-29 12:17:46.802040-04:00
+[16:17:46] Successful get url: https://www.bing.com/th?id=OHR.TigerDay_EN-CA3989953116_UHD.jpg
+[16:17:47] Picture infomations saved to  global/en-CA/README.md
+[16:17:47] Picture infomations saved to global/en-CA/history/2025/07/30_en-CA.md
+[16:17:47] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-07-29 17:17:47.089177+01:00
+[16:17:47] Successful get url: https://www.bing.com/th?id=OHR.TigerDay_EN-GB9986390995_UHD.jpg
+[16:17:47] Picture infomations saved to  global/en-GB/README.md
+[16:17:47] Picture infomations saved to global/en-GB/history/2025/07/29_en-GB.md
+[16:17:47] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-07-29 18:17:47.315902+02:00
+[16:17:47] Successful get url: https://www.bing.com/th?id=OHR.TigerDay_IT-IT8572184729_UHD.jpg
+[16:17:47] Picture infomations saved to  global/it-IT/README.md
+[16:17:47] Picture infomations saved to global/it-IT/history/2025/07/29_it-IT.md
+[16:17:47] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-07-29 18:17:47.587691+02:00
+[16:17:47] Successful get url: https://www.bing.com/th?id=OHR.TigerDay_ES-ES3628698464_UHD.jpg
+[16:17:47] Picture infomations saved to  global/es-ES/README.md
+[16:17:47] Picture infomations saved to global/es-ES/history/2025/07/29_es-ES.md
+[16:17:47] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-07-29 12:17:47.801251-04:00
+[16:17:47] Successful get url: https://www.bing.com/th?id=OHR.TigerDay_FR-CA7359763781_UHD.jpg
+[16:17:48] Picture infomations saved to  global/fr-CA/README.md
+[16:17:48] Picture infomations saved to global/fr-CA/history/2025/07/30_fr-CA.md
+Program exit at 16:17:48

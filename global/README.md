@@ -6,9 +6,9 @@
 ||*Copyright: Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture Library)*
 ||
 |||
-|2025-07-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TigerDay_JA-JP0300467728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TigerDay_JA-JP0300467728_UHD.jpg)|
-||*Copyright: ベンガルトラのメス, インド (© Axel Gomille/Nature Picture Library)*
+|2025-07-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SaypeDubai_JA-JP1584990235_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeDubai_JA-JP1584990235_UHD.jpg)|
+||*Copyright: Saype による地上絵, アラブ首長国連邦 (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
 ||
 |||
 |2025-07-29|**Region: en-IN**||
