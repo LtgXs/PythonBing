@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-07-30
+## History Bing Wallpaper
+Wallpaper date: 2025-07-30
 ![](https://www.bing.com/th?id=OHR.SaypeDubai_FR-FR8249612257_UHD.jpg&w=1000)Download: [Fresque Beyond Walls de Saype à l’Expo 2020 de Dubaï, Émirats arabes unis (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://www.bing.com/th?id=OHR.SaypeDubai_FR-FR8249612257_UHD.jpg)
 
 Auto get programm by LtgX
