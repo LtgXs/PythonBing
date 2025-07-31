@@ -6,9 +6,9 @@
 ||*Copyright: Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)*
 ||
 |||
-|2025-07-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NaPaliKauai_JA-JP1764842674_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaPaliKauai_JA-JP1764842674_UHD.jpg)|
-||*Copyright: ナ・パリ・コースト, 米国 ハワイ州 (© Russ Bishop/DanitaDelimont.com)*
+|2025-08-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.EdinburghFringe_JA-JP2026368495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EdinburghFringe_JA-JP2026368495_UHD.jpg)|
+||*Copyright: エディンバラの旧市街, スコットランド (© MEDITERRANEAN/Getty Images)*
 ||
 |||
 |2025-07-31|**Region: en-IN**||
