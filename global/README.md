@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-07-31|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg)|
-||*Copyright: 'Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2025-08-01|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BabyLemur_EN-US9264861498_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabyLemur_EN-US9264861498_UHD.jpg)|
+||*Copyright: Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)*
 ||
 |||
 |2025-07-31|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ナ・パリ・コースト, 米国 ハワイ州 (© Russ Bishop/DanitaDelimont.com)*
 ||
 |||
-|2025-07-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AgraFortInside_EN-IN8393128269_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AgraFortInside_EN-IN8393128269_UHD.jpg)|
-||*Copyright: Inside Agra Fort, Agra, Uttar Pradesh (© Luke Mackenzie/Getty Images)*
+|2025-07-31|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.NaPaliKauai_EN-IN8581936308_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaPaliKauai_EN-IN8581936308_UHD.jpg)|
+||*Copyright: Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii, United States (© Russ Bishop/DanitaDelimont.com)*
 ||
 |||
-|2025-07-31|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SaypeDubai_PT-BR3110184128_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeDubai_PT-BR3110184128_UHD.jpg)|
-||*Copyright: Instalação de arte "Beyond Walls", de Saype, na Expo 2020 Dubai, Emirados Árabes Unidos (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2025-08-01|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.NaPaliKauai_PT-BR1647941765_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaPaliKauai_PT-BR1647941765_UHD.jpg)|
+||*Copyright: Praia de Kalalau na Costa Nā Pali, Kauai, Havaí, EUA (© Russ Bishop/DanitaDelimont.com)*
 ||
 |||
-|2025-07-30|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SaypeDubai_FR-FR8249612257_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeDubai_FR-FR8249612257_UHD.jpg)|
-||*Copyright: Fresque Beyond Walls de Saype à l’Expo 2020 de Dubaï, Émirats arabes unis (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2025-07-31|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.NaPaliKauai_FR-FR8653157618_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaPaliKauai_FR-FR8653157618_UHD.jpg)|
+||*Copyright: Plage de Kalalau sur la côte Nā Pali, Kauai, Hawaï, États-Unis (© Russ Bishop/DanitaDelimont.com)*
 ||
 |||
-|2025-07-30|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SaypeDubai_DE-DE6760709663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeDubai_DE-DE6760709663_UHD.jpg)|
-||*Copyright: Monumentales Kunstwerk »Beyond Walls« von Saype auf der Expo 2020 Dubai, Vereinigte Arabische Emirate (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2025-07-31|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.NaPaliKauai_DE-DE7014828359_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaPaliKauai_DE-DE7014828359_UHD.jpg)|
+||*Copyright: Kalalau Beach an der Nā Pali Küste, Kauai, Hawaii, USA (© Russ Bishop/DanitaDelimont.com)*
 ||
 |||
-|2025-07-31|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SaypeDubai_EN-CA4155504073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeDubai_EN-CA4155504073_UHD.jpg)|
-||*Copyright: 'Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2025-08-01|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.NaPaliKauai_EN-CA4334699303_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaPaliKauai_EN-CA4334699303_UHD.jpg)|
+||*Copyright: Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii, United States (© Russ Bishop/DanitaDelimont.com)*
 ||
 |||
-|2025-07-30|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SaypeDubai_EN-GB0166964258_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeDubai_EN-GB0166964258_UHD.jpg)|
-||*Copyright: 'Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2025-07-31|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.NaPaliKauai_EN-GB0416524547_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaPaliKauai_EN-GB0416524547_UHD.jpg)|
+||*Copyright: Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii, United States (© Russ Bishop/DanitaDelimont.com)*
 ||
 |||
-|2025-07-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SaypeDubai_IT-IT8691118780_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeDubai_IT-IT8691118780_UHD.jpg)|
-||*Copyright: Installazione di land-art "Beyond Walls" di Saype a Expo 2020 Dubai, Emirati Arabi Uniti (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2025-07-31|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.NaPaliKauai_IT-IT1557569434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaPaliKauai_IT-IT1557569434_UHD.jpg)|
+||*Copyright: Spiaggia di Kalalau sulla costa di Nā Pali, Kauai, Hawaii, USA (© Russ Bishop/DanitaDelimont.com)*
 ||
 |||
-|2025-07-30|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SaypeDubai_ES-ES3758779799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeDubai_ES-ES3758779799_UHD.jpg)|
-||*Copyright: Proyecto Beyond Walls de Saype en la Expo 2020 Dubai, Emiratos Árabes Unidos (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2025-07-31|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.NaPaliKauai_ES-ES3845188228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaPaliKauai_ES-ES3845188228_UHD.jpg)|
+||*Copyright: Playa de Kalalau en la costa de Nā Pali, Kauai, Hawái, EE. UU. (© Russ Bishop/DanitaDelimont.com)*
 ||
 |||
-|2025-07-31|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SaypeDubai_FR-CA7685243127_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeDubai_FR-CA7685243127_UHD.jpg)|
-||*Copyright: Fresque Beyond Walls de Saype à l’Expo 2020 de Dubaï, Émirats arabes unis (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)*
+|2025-08-01|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.NaPaliKauai_FR-CA8816000360_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaPaliKauai_FR-CA8816000360_UHD.jpg)|
+||*Copyright: Plage de Kalalau sur la côte Nā Pali, Kauai, Hawaï, États-Unis (© Russ Bishop/DanitaDelimont.com)*
 ||
 |||
 
