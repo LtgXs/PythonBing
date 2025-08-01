@@ -6,9 +6,9 @@
 ||*Copyright: Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)*
 ||
 |||
-|2025-08-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EdinburghFringe_JA-JP2026368495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EdinburghFringe_JA-JP2026368495_UHD.jpg)|
-||*Copyright: エディンバラの旧市街, スコットランド (© MEDITERRANEAN/Getty Images)*
+|2025-08-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FruitaPetroglyphs_JA-JP2199593329_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FruitaPetroglyphs_JA-JP2199593329_UHD.jpg)|
+||*Copyright: キャピトル・リーフ国立公園, 米国 ユタ州 (© Nicolas VINCENT/Adobe Stock)*
 ||
 |||
 |2025-08-01|**Region: en-IN**||
