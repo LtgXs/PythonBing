@@ -1,0 +1,60 @@
+
+Program started at 09:33:48
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmjbmru5nbw0
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:33:48] Start geting CN Bing Wallpaper
+[09:33:48] Successful get url: https://www.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_UHD.jpg
+[09:33:48] Image saved to img/background.jpg
+[09:33:48] Info saved to README.md
+[09:33:48] Image saved to history/2025/08/02.md
+[09:33:48] Start geting global Bing Wallpaper, region=en-US, local time is 2025-08-02 05:33:48.428722-04:00
+[09:33:48] Successful get url: https://www.bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg
+[09:33:48] Picture infomations saved to  global/en-US/README.md
+[09:33:48] Picture infomations saved to global/en-US/history/2025/08/03_en-US.md
+[09:33:48] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-08-02 18:33:48.758157+09:00
+[09:33:48] Successful get url: https://www.bing.com/th?id=OHR.FruitaPetroglyphs_JA-JP2199593329_UHD.jpg
+[09:33:49] Picture infomations saved to  global/ja-JP/README.md
+[09:33:49] Picture infomations saved to global/ja-JP/history/2025/08/02_ja-JP.md
+[09:33:49] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-08-02 15:03:49.063346+05:30
+[09:33:49] Successful get url: https://www.bing.com/th?id=OHR.FruitaPetroglyphs_EN-IN8959176933_UHD.jpg
+[09:33:49] Picture infomations saved to  global/en-IN/README.md
+[09:33:49] Picture infomations saved to global/en-IN/history/2025/08/02_en-IN.md
+[09:33:49] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-08-02 06:33:49.399251-03:00
+[09:33:49] Successful get url: https://www.bing.com/th?id=OHR.RotatoriaLetras_PT-BR3269837053_UHD.jpg
+[09:33:49] Picture infomations saved to  global/pt-BR/README.md
+[09:33:49] Picture infomations saved to global/pt-BR/history/2025/08/03_pt-BR.md
+[09:33:49] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-08-02 11:33:49.744950+02:00
+[09:33:49] Successful get url: https://www.bing.com/th?id=OHR.FruitaPetroglyphs_FR-FR1575375079_UHD.jpg
+[09:33:50] Picture infomations saved to  global/fr-FR/README.md
+[09:33:50] Picture infomations saved to global/fr-FR/history/2025/08/02_fr-FR.md
+[09:33:50] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-08-02 11:33:50.076684+02:00
+[09:33:50] Successful get url: https://www.bing.com/th?id=OHR.HerrenhaeuserHannover_DE-DE9700830017_UHD.jpg
+[09:33:50] Picture infomations saved to  global/de-DE/README.md
+[09:33:50] Picture infomations saved to global/de-DE/history/2025/08/02_de-DE.md
+[09:33:50] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-08-02 05:33:50.372204-04:00
+[09:33:50] Successful get url: https://www.bing.com/th?id=OHR.FruitaPetroglyphs_EN-CA4731117661_UHD.jpg
+[09:33:50] Picture infomations saved to  global/en-CA/README.md
+[09:33:50] Picture infomations saved to global/en-CA/history/2025/08/03_en-CA.md
+[09:33:50] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-08-02 10:33:50.862617+01:00
+[09:33:50] Successful get url: https://www.bing.com/th?id=OHR.CowesWeek2025_EN-GB0990993509_UHD.jpg
+[09:33:51] Picture infomations saved to  global/en-GB/README.md
+[09:33:51] Picture infomations saved to global/en-GB/history/2025/08/02_en-GB.md
+[09:33:51] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-08-02 11:33:51.190634+02:00
+[09:33:51] Successful get url: https://www.bing.com/th?id=OHR.FruitaPetroglyphs_IT-IT1255778593_UHD.jpg
+[09:33:51] Picture infomations saved to  global/it-IT/README.md
+[09:33:51] Picture infomations saved to global/it-IT/history/2025/08/02_it-IT.md
+[09:33:51] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-08-02 11:33:51.484943+02:00
+[09:33:51] Successful get url: https://www.bing.com/th?id=OHR.MallorcaSumerYacht_ES-ES6937239924_UHD.jpg
+[09:33:51] Picture infomations saved to  global/es-ES/README.md
+[09:33:51] Picture infomations saved to global/es-ES/history/2025/08/02_es-ES.md
+[09:33:51] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-08-02 05:33:51.782259-04:00
+[09:33:51] Successful get url: https://www.bing.com/th?id=OHR.FruitaPetroglyphs_FR-CA1725199381_UHD.jpg
+[09:33:52] Picture infomations saved to  global/fr-CA/README.md
+[09:33:52] Picture infomations saved to global/fr-CA/history/2025/08/03_fr-CA.md
+Program exit at 09:33:52
