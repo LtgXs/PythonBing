@@ -6,9 +6,9 @@
 ||*Copyright: Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)*
 ||
 |||
-|2025-08-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FruitaPetroglyphs_JA-JP2199593329_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FruitaPetroglyphs_JA-JP2199593329_UHD.jpg)|
-||*Copyright: キャピトル・リーフ国立公園, 米国 ユタ州 (© Nicolas VINCENT/Adobe Stock)*
+|2025-08-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HirosakiNeputaFestival2025_JA-JP2869487998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HirosakiNeputaFestival2025_JA-JP2869487998_UHD.jpg)|
+||*Copyright: 優美な扇ねぷた, 青森県 弘前市 (© John S Lander/寄稿者/Getty Images)*
 ||
 |||
 |2025-08-02|**Region: en-IN**||
