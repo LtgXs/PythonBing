@@ -6,9 +6,9 @@
 ||*Copyright: Sunflowers in a field in summer (© Arsgera/Shutterstock)*
 ||
 |||
-|2025-08-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HirosakiNeputaFestival2025_JA-JP2869487998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HirosakiNeputaFestival2025_JA-JP2869487998_UHD.jpg)|
-||*Copyright: 優美な扇ねぷた, 青森県 弘前市 (© John S Lander/寄稿者/Getty Images)*
+|2025-08-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LaplandOwl_JA-JP2701506191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaplandOwl_JA-JP2701506191_UHD.jpg)|
+||*Copyright: カラフトフクロウのペア, フィンランド (© imageBROKER.com/Alamy)*
 ||
 |||
 |2025-08-03|**Region: en-IN**||
