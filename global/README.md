@@ -6,9 +6,9 @@
 ||*Copyright: Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)*
 ||
 |||
-|2025-08-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LaplandOwl_JA-JP2701506191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaplandOwl_JA-JP2701506191_UHD.jpg)|
-||*Copyright: カラフトフクロウのペア, フィンランド (© imageBROKER.com/Alamy)*
+|2025-08-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_JA-JP3202345029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_JA-JP3202345029_UHD.jpg)|
+||*Copyright: ラホヤの引き潮, 米国 カリフォルニア州 (© Andrew Shoemaker/DanitaDelimont.com)*
 ||
 |||
 |2025-08-04|**Region: en-IN**||
