@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-08-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg)|
-||*Copyright: Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)*
+|2025-08-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg)|
+||*Copyright: Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)*
 ||
 |||
 |2025-08-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ラホヤの引き潮, 米国 カリフォルニア州 (© Andrew Shoemaker/DanitaDelimont.com)*
 ||
 |||
-|2025-08-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LaplandOwl_EN-IN9373838176_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaplandOwl_EN-IN9373838176_UHD.jpg)|
-||*Copyright: Great grey owls in their nest, Finland (© imageBROKER.com/Alamy Stock Photo)*
+|2025-08-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-IN9579127212_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-IN9579127212_UHD.jpg)|
+||*Copyright: Tide pools in La Jolla, California, United States (© Andrew Shoemaker/DanitaDelimont.com)*
 ||
 |||
-|2025-08-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LaplandOwl_PT-BR9387648835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaplandOwl_PT-BR9387648835_UHD.jpg)|
-||*Copyright: Corujas-lapónicas em seu ninho, Finlândia (© imageBROKER.com/Alamy)*
+|2025-08-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_PT-BR9575263840_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_PT-BR9575263840_UHD.jpg)|
+||*Copyright: Piscinas naturais em La Jolla, Califórnia, EUA (© Andrew Shoemaker/DanitaDelimont.com)*
 ||
 |||
-|2025-08-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LaplandOwl_FR-FR0808851184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaplandOwl_FR-FR0808851184_UHD.jpg)|
-||*Copyright: Chouettes lapones dans leur nid, Finlande (© imageBROKER.com/Alamy Stock Photo)*
+|2025-08-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_FR-FR1277403036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_FR-FR1277403036_UHD.jpg)|
+||*Copyright: Bassins de marée à La Jolla, Californie, États-Unis (© Andrew Shoemaker/DanitaDelimont.com)*
 ||
 |||
-|2025-08-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LaplandOwl_DE-DE9006060436_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaplandOwl_DE-DE9006060436_UHD.jpg)|
-||*Copyright: Bartkäuze im Nest, Finnland (© imageBROKER.com/Alamy)*
+|2025-08-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PoppyfieldAdelschlag_DE-DE8788732067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PoppyfieldAdelschlag_DE-DE8788732067_UHD.jpg)|
+||*Copyright: Mohnfelder, Adelschlag, Bayern (© Michael Rucker/Getty Images)*
 ||
 |||
-|2025-08-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LaplandOwl_EN-CA0382767904_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaplandOwl_EN-CA0382767904_UHD.jpg)|
-||*Copyright: Great grey owls in their nest, Finland (© imageBROKER.com/Alamy Stock Photo)*
+|2025-08-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-CA5246785571_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-CA5246785571_UHD.jpg)|
+||*Copyright: Tide pools in La Jolla, California, United States (© Andrew Shoemaker/DanitaDelimont.com)*
 ||
 |||
-|2025-08-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LaplandOwl_EN-GB1293018198_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaplandOwl_EN-GB1293018198_UHD.jpg)|
-||*Copyright: Great grey owls in their nest, Finland (© imageBROKER.com/Alamy Stock Photo)*
+|2025-08-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-GB1490855103_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-GB1490855103_UHD.jpg)|
+||*Copyright: Tide pools in La Jolla, California, United States (© Andrew Shoemaker/DanitaDelimont.com)*
 ||
 |||
-|2025-08-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BlackfinBarracuda_IT-IT1143705457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackfinBarracuda_IT-IT1143705457_UHD.jpg)|
-||*Copyright: Barracuda a Shark Reef, Parco Nazionale di Ras Mohammed, Penisola del Sinai, Egitto (© Alex Mustard/Nature Picture Library)*
+|2025-08-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_IT-IT9185950611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_IT-IT9185950611_UHD.jpg)|
+||*Copyright: Pozze di marea, La Jolla, California, USA (© Andrew Shoemaker/DanitaDelimont.com)*
 ||
 |||
-|2025-08-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LaplandOwl_ES-ES4200843569_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaplandOwl_ES-ES4200843569_UHD.jpg)|
-||*Copyright: Búhos grises en su nido, Finlandia (© imageBROKER.com/Alamy)*
+|2025-08-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_ES-ES4288360628_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_ES-ES4288360628_UHD.jpg)|
+||*Copyright: Pozas de marea en La Jolla, California, EE. UU. (© Andrew Shoemaker/DanitaDelimont.com)*
 ||
 |||
-|2025-08-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LaplandOwl_FR-CA0987806680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaplandOwl_FR-CA0987806680_UHD.jpg)|
-||*Copyright: Chouettes lapones dans leur nid, Finlande (© imageBROKER.com/Alamy Stock Photo)*
+|2025-08-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_FR-CA1946235706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_FR-CA1946235706_UHD.jpg)|
+||*Copyright: Bassins de marée à La Jolla, Californie, États-Unis (© Andrew Shoemaker/DanitaDelimont.com)*
 ||
 |||
 
