@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-08-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg)|
-||*Copyright: Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)*
+|2025-08-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg)|
+||*Copyright: Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)*
 ||
 |||
 |2025-08-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 平和のピースキャンドル, 長崎県 長崎市 (© NurPhoto/寄稿者/Getty Images)*
 ||
 |||
-|2025-08-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-IN9579127212_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-IN9579127212_UHD.jpg)|
-||*Copyright: Tide pools in La Jolla, California, United States (© Andrew Shoemaker/DanitaDelimont.com)*
+|2025-08-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BabyLemur_EN-IN9896992547_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabyLemur_EN-IN9896992547_UHD.jpg)|
+||*Copyright: Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)*
 ||
 |||
-|2025-08-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_PT-BR9575263840_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_PT-BR9575263840_UHD.jpg)|
-||*Copyright: Piscinas naturais em La Jolla, Califórnia, EUA (© Andrew Shoemaker/DanitaDelimont.com)*
+|2025-08-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BabyLemur_PT-BR1048379663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabyLemur_PT-BR1048379663_UHD.jpg)|
+||*Copyright: Filhote de lêmure-de-cauda-anelada brincando com sua cauda, Madagascar (© Andy Rouse/Nature Picture Library)*
 ||
 |||
-|2025-08-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_FR-FR1277403036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_FR-FR1277403036_UHD.jpg)|
-||*Copyright: Bassins de marée à La Jolla, Californie, États-Unis (© Andrew Shoemaker/DanitaDelimont.com)*
+|2025-08-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BabyLemur_FR-FR2344999545_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabyLemur_FR-FR2344999545_UHD.jpg)|
+||*Copyright: Un jeune Lemur catta qui joue avec sa queue, Madagascar (© Andy Rouse/Nature Picture Library)*
 ||
 |||
-|2025-08-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PoppyfieldAdelschlag_DE-DE8788732067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PoppyfieldAdelschlag_DE-DE8788732067_UHD.jpg)|
-||*Copyright: Mohnfelder, Adelschlag, Bayern (© Michael Rucker/Getty Images)*
+|2025-08-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BabyLemur_DE-DE7888318090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabyLemur_DE-DE7888318090_UHD.jpg)|
+||*Copyright: Katta-Junges spielt mit seinem Schwanz, Madagaskar (© Andy Rouse/Nature Picture Library)*
 ||
 |||
-|2025-08-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-CA5246785571_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-CA5246785571_UHD.jpg)|
-||*Copyright: Tide pools in La Jolla, California, United States (© Andrew Shoemaker/DanitaDelimont.com)*
+|2025-08-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BabyLemur_EN-CA5435344938_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabyLemur_EN-CA5435344938_UHD.jpg)|
+||*Copyright: Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)*
 ||
 |||
-|2025-08-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-GB1490855103_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-GB1490855103_UHD.jpg)|
-||*Copyright: Tide pools in La Jolla, California, United States (© Andrew Shoemaker/DanitaDelimont.com)*
+|2025-08-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BabyLemur_EN-GB1704041505_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabyLemur_EN-GB1704041505_UHD.jpg)|
+||*Copyright: Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)*
 ||
 |||
-|2025-08-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_IT-IT9185950611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_IT-IT9185950611_UHD.jpg)|
-||*Copyright: Pozze di marea, La Jolla, California, USA (© Andrew Shoemaker/DanitaDelimont.com)*
+|2025-08-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.RuotaRimini_IT-IT1297102060_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RuotaRimini_IT-IT1297102060_UHD.jpg)|
+||*Copyright: Ruota Panoramica, Rimini, Emilia-Romagna (© nantonov/iStock/Getty Images Plus)*
 ||
 |||
-|2025-08-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_ES-ES4288360628_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_ES-ES4288360628_UHD.jpg)|
-||*Copyright: Pozas de marea en La Jolla, California, EE. UU. (© Andrew Shoemaker/DanitaDelimont.com)*
+|2025-08-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BabyLemur_ES-ES4465039868_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabyLemur_ES-ES4465039868_UHD.jpg)|
+||*Copyright: Bebé de lémur de cola anillada jugando con su propia cola, Madagascar (© Andy Rouse/Nature Picture Library)*
 ||
 |||
-|2025-08-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CaliforniaTidepool_FR-CA1946235706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CaliforniaTidepool_FR-CA1946235706_UHD.jpg)|
-||*Copyright: Bassins de marée à La Jolla, Californie, États-Unis (© Andrew Shoemaker/DanitaDelimont.com)*
+|2025-08-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BabyLemur_FR-CA2192147292_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabyLemur_FR-CA2192147292_UHD.jpg)|
+||*Copyright: Un jeune Lemur catta qui joue avec sa queue, Madagascar (© Andy Rouse/Nature Picture Library)*
 ||
 |||
 
