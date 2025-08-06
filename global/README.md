@@ -6,9 +6,9 @@
 ||*Copyright: Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)*
 ||
 |||
-|2025-08-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HiroshimaPeace2025_JA-JP3351733972_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HiroshimaPeace2025_JA-JP3351733972_UHD.jpg)|
-||*Copyright: 平和のピースキャンドル, 長崎県 長崎市 (© NurPhoto/寄稿者/Getty Images)*
+|2025-08-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BabyLemur_JA-JP3588561100_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabyLemur_JA-JP3588561100_UHD.jpg)|
+||*Copyright: ワオキツネザル, マダガスカル (© Andy Rouse/Nature Picture Library)*
 ||
 |||
 |2025-08-06|**Region: en-IN**||
