@@ -1,0 +1,60 @@
+
+Program started at 09:38:40
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmjbmru5nbw0
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:38:40] Start geting CN Bing Wallpaper
+[09:38:40] Successful get url: https://www.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg
+[09:38:41] Image saved to img/background.jpg
+[09:38:41] Info saved to README.md
+[09:38:41] Image saved to history/2025/08/07.md
+[09:38:41] Start geting global Bing Wallpaper, region=en-US, local time is 2025-08-07 05:38:41.272711-04:00
+[09:38:41] Successful get url: https://www.bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg
+[09:38:41] Picture infomations saved to  global/en-US/README.md
+[09:38:41] Picture infomations saved to global/en-US/history/2025/08/08_en-US.md
+[09:38:41] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-08-07 18:38:41.589393+09:00
+[09:38:41] Successful get url: https://www.bing.com/th?id=OHR.BabyLemur_JA-JP3588561100_UHD.jpg
+[09:38:41] Picture infomations saved to  global/ja-JP/README.md
+[09:38:41] Picture infomations saved to global/ja-JP/history/2025/08/07_ja-JP.md
+[09:38:41] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-08-07 15:08:42.007583+05:30
+[09:38:42] Successful get url: https://www.bing.com/th?id=OHR.MalshejGhat_EN-IN3001069579_UHD.jpg
+[09:38:42] Picture infomations saved to  global/en-IN/README.md
+[09:38:42] Picture infomations saved to global/en-IN/history/2025/08/07_en-IN.md
+[09:38:42] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-08-07 06:38:42.323902-03:00
+[09:38:42] Successful get url: https://www.bing.com/th?id=OHR.GasparillaLight_PT-BR0335671188_UHD.jpg
+[09:38:42] Picture infomations saved to  global/pt-BR/README.md
+[09:38:42] Picture infomations saved to global/pt-BR/history/2025/08/08_pt-BR.md
+[09:38:42] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-08-07 11:38:42.614468+02:00
+[09:38:42] Successful get url: https://www.bing.com/th?id=OHR.GasparillaLight_FR-FR2514071877_UHD.jpg
+[09:38:42] Picture infomations saved to  global/fr-FR/README.md
+[09:38:42] Picture infomations saved to global/fr-FR/history/2025/08/07_fr-FR.md
+[09:38:42] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-08-07 11:38:42.946568+02:00
+[09:38:42] Successful get url: https://www.bing.com/th?id=OHR.GasparillaLight_DE-DE5398633166_UHD.jpg
+[09:38:43] Picture infomations saved to  global/de-DE/README.md
+[09:38:43] Picture infomations saved to global/de-DE/history/2025/08/07_de-DE.md
+[09:38:43] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-08-07 05:38:43.264835-04:00
+[09:38:43] Successful get url: https://www.bing.com/th?id=OHR.MinganWonders_EN-CA5648384478_UHD.jpg
+[09:38:43] Picture infomations saved to  global/en-CA/README.md
+[09:38:43] Picture infomations saved to global/en-CA/history/2025/08/08_en-CA.md
+[09:38:43] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-08-07 10:38:43.585156+01:00
+[09:38:43] Successful get url: https://www.bing.com/th?id=OHR.SweetheartAbbey2025_EN-GB2068922474_UHD.jpg
+[09:38:44] Picture infomations saved to  global/en-GB/README.md
+[09:38:44] Picture infomations saved to global/en-GB/history/2025/08/07_en-GB.md
+[09:38:44] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-08-07 11:38:44.119987+02:00
+[09:38:44] Successful get url: https://www.bing.com/th?id=OHR.GasparillaLight_IT-IT1390366319_UHD.jpg
+[09:38:44] Picture infomations saved to  global/it-IT/README.md
+[09:38:44] Picture infomations saved to global/it-IT/history/2025/08/07_it-IT.md
+[09:38:44] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-08-07 11:38:44.469578+02:00
+[09:38:44] Successful get url: https://www.bing.com/th?id=OHR.GasparillaLight_ES-ES4564834622_UHD.jpg
+[09:38:44] Picture infomations saved to  global/es-ES/README.md
+[09:38:44] Picture infomations saved to global/es-ES/history/2025/08/07_es-ES.md
+[09:38:44] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-08-07 05:38:44.770849-04:00
+[09:38:44] Successful get url: https://www.bing.com/th?id=OHR.MinganWonders_FR-CA3034674973_UHD.jpg
+[09:38:45] Picture infomations saved to  global/fr-CA/README.md
+[09:38:45] Picture infomations saved to global/fr-CA/history/2025/08/08_fr-CA.md
+Program exit at 09:38:45
