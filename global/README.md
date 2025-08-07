@@ -6,9 +6,9 @@
 ||*Copyright: Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)*
 ||
 |||
-|2025-08-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BabyLemur_JA-JP3588561100_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabyLemur_JA-JP3588561100_UHD.jpg)|
-||*Copyright: ワオキツネザル, マダガスカル (© Andy Rouse/Nature Picture Library)*
+|2025-08-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IguazuArgentina_JA-JP1040777979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IguazuArgentina_JA-JP1040777979_UHD.jpg)|
+||*Copyright: イグアスの滝, アルゼンチン (© Mark Meredith/Getty Images)*
 ||
 |||
 |2025-08-07|**Region: en-IN**||
