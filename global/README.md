@@ -6,9 +6,9 @@
 ||*Copyright: Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)*
 ||
 |||
-|2025-08-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IguazuArgentina_JA-JP1040777979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IguazuArgentina_JA-JP1040777979_UHD.jpg)|
-||*Copyright: イグアスの滝, アルゼンチン (© Mark Meredith/Getty Images)*
+|2025-08-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MaoriRock_JA-JP1260630406_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoriRock_JA-JP1260630406_UHD.jpg)|
+||*Copyright: マオリの彫刻, ニュージーランド (© Joppi/Getty Images)*
 ||
 |||
 |2025-08-08|**Region: en-IN**||
