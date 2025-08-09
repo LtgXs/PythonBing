@@ -6,9 +6,9 @@
 ||*Copyright: Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)*
 ||
 |||
-|2025-08-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MaoriRock_JA-JP1260630406_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoriRock_JA-JP1260630406_UHD.jpg)|
-||*Copyright: マオリの彫刻, ニュージーランド (© Joppi/Getty Images)*
+|2025-08-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LionessKenya_JA-JP1487330341_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionessKenya_JA-JP1487330341_UHD.jpg)|
+||*Copyright: マサイマラ国立保護区のライオン, ケニア (© Tandem Stock/Adobe Stock)*
 ||
 |||
 |2025-08-09|**Region: en-IN**||
