@@ -6,9 +6,9 @@
 ||*Copyright: Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)*
 ||
 |||
-|2025-08-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LionessKenya_JA-JP1487330341_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LionessKenya_JA-JP1487330341_UHD.jpg)|
-||*Copyright: マサイマラ国立保護区のライオン, ケニア (© Tandem Stock/Adobe Stock)*
+|2025-08-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MountainDay2025_JA-JP4443243001_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainDay2025_JA-JP4443243001_UHD.jpg)|
+||*Copyright: 中部山岳国立公園の上高地, 長野県 松本市 (© Poca Wander/Getty Images)*
 ||
 |||
 |2025-08-10|**Region: en-IN**||
