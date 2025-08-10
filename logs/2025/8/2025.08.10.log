@@ -1,0 +1,60 @@
+
+Program started at 09:30:47
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmsl9tci6h6u
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:30:47] Start geting CN Bing Wallpaper
+[09:30:47] Successful get url: https://www.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg
+[09:30:47] Image saved to img/background.jpg
+[09:30:47] Info saved to README.md
+[09:30:47] Image saved to history/2025/08/10.md
+[09:30:47] Start geting global Bing Wallpaper, region=en-US, local time is 2025-08-10 05:30:47.934564-04:00
+[09:30:47] Successful get url: https://www.bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg
+[09:30:48] Picture infomations saved to  global/en-US/README.md
+[09:30:48] Picture infomations saved to global/en-US/history/2025/08/11_en-US.md
+[09:30:48] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-08-10 18:30:48.048210+09:00
+[09:30:48] Successful get url: https://www.bing.com/th?id=OHR.LionessKenya_JA-JP1487330341_UHD.jpg
+[09:30:48] Picture infomations saved to  global/ja-JP/README.md
+[09:30:48] Picture infomations saved to global/ja-JP/history/2025/08/10_ja-JP.md
+[09:30:48] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-08-10 15:00:48.201342+05:30
+[09:30:48] Successful get url: https://www.bing.com/th?id=OHR.LionessKenya_EN-IN3681659136_UHD.jpg
+[09:30:48] Picture infomations saved to  global/en-IN/README.md
+[09:30:48] Picture infomations saved to global/en-IN/history/2025/08/10_en-IN.md
+[09:30:48] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-08-10 06:30:48.334785-03:00
+[09:30:48] Successful get url: https://www.bing.com/th?id=OHR.DiaPais_PT-BR3238446689_UHD.jpg
+[09:30:48] Picture infomations saved to  global/pt-BR/README.md
+[09:30:48] Picture infomations saved to global/pt-BR/history/2025/08/11_pt-BR.md
+[09:30:48] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-08-10 11:30:48.439620+02:00
+[09:30:48] Successful get url: https://www.bing.com/th?id=OHR.LionessKenya_FR-FR4950254472_UHD.jpg
+[09:30:48] Picture infomations saved to  global/fr-FR/README.md
+[09:30:48] Picture infomations saved to global/fr-FR/history/2025/08/10_fr-FR.md
+[09:30:48] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-08-10 11:30:48.617538+02:00
+[09:30:48] Successful get url: https://www.bing.com/th?id=OHR.LionessKenya_DE-DE2649439524_UHD.jpg
+[09:30:48] Picture infomations saved to  global/de-DE/README.md
+[09:30:48] Picture infomations saved to global/de-DE/history/2025/08/10_de-DE.md
+[09:30:48] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-08-10 05:30:48.769004-04:00
+[09:30:48] Successful get url: https://www.bing.com/th?id=OHR.LionessKenya_EN-CA6611934793_UHD.jpg
+[09:30:48] Picture infomations saved to  global/en-CA/README.md
+[09:30:48] Picture infomations saved to global/en-CA/history/2025/08/11_en-CA.md
+[09:30:48] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-08-10 10:30:48.856748+01:00
+[09:30:48] Successful get url: https://www.bing.com/th?id=OHR.LionessKenya_EN-GB9427782960_UHD.jpg
+[09:30:48] Picture infomations saved to  global/en-GB/README.md
+[09:30:48] Picture infomations saved to global/en-GB/history/2025/08/10_en-GB.md
+[09:30:48] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-08-10 11:30:48.990157+02:00
+[09:30:49] Successful get url: https://www.bing.com/th?id=OHR.LionessKenya_IT-IT2680402991_UHD.jpg
+[09:30:49] Picture infomations saved to  global/it-IT/README.md
+[09:30:49] Picture infomations saved to global/it-IT/history/2025/08/10_it-IT.md
+[09:30:49] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-08-10 11:30:49.072191+02:00
+[09:30:49] Successful get url: https://www.bing.com/th?id=OHR.LionessKenya_ES-ES3481015675_UHD.jpg
+[09:30:49] Picture infomations saved to  global/es-ES/README.md
+[09:30:49] Picture infomations saved to global/es-ES/history/2025/08/10_es-ES.md
+[09:30:49] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-08-10 05:30:49.214552-04:00
+[09:30:49] Successful get url: https://www.bing.com/th?id=OHR.LionessKenya_FR-CA5236345175_UHD.jpg
+[09:30:49] Picture infomations saved to  global/fr-CA/README.md
+[09:30:49] Picture infomations saved to global/fr-CA/history/2025/08/11_fr-CA.md
+Program exit at 09:30:49
