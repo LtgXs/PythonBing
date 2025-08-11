@@ -6,9 +6,9 @@
 ||*Copyright: Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)*
 ||
 |||
-|2025-08-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MountainDay2025_JA-JP4443243001_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainDay2025_JA-JP4443243001_UHD.jpg)|
-||*Copyright: 中部山岳国立公園の上高地, 長野県 松本市 (© Poca Wander/Getty Images)*
+|2025-08-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KenyaElephants_JA-JP2052759218_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KenyaElephants_JA-JP2052759218_UHD.jpg)|
+||*Copyright: アフリカゾウの群れ, ケニア (© Chase Dekker/Minden Pictures)*
 ||
 |||
 |2025-08-11|**Region: en-IN**||
