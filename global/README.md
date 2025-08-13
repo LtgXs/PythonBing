@@ -6,9 +6,9 @@
 ||*Copyright: A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
-|2025-08-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CoronaArch_JA-JP2223848865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoronaArch_JA-JP2223848865_UHD.jpg)|
-||*Copyright: コロナ・アーチ, 米国 ユタ州 (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-08-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PizNairPeak_JA-JP2425115607_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PizNairPeak_JA-JP2425115607_UHD.jpg)|
+||*Copyright: ピッツ・ネイル, スイス (© Roberto Moiola/Alamy)*
 ||
 |||
 |2025-08-13|**Region: en-IN**||
