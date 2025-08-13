@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-08-13
+## History Bing Wallpaper
+Wallpaper date: 2025-08-13
 ![](https://www.bing.com/th?id=OHR.CoronaArch_EN-GB9558906767_UHD.jpg&w=1000)Download: [A man rappels off Corona Arch near Moab, Utah, United States (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.CoronaArch_EN-GB9558906767_UHD.jpg)
 
 Auto get programm by LtgX
