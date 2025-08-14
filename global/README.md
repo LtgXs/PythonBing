@@ -6,9 +6,9 @@
 ||*Copyright: Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)*
 ||
 |||
-|2025-08-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PizNairPeak_JA-JP2425115607_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PizNairPeak_JA-JP2425115607_UHD.jpg)|
-||*Copyright: ピッツ・ネイル, スイス (© Roberto Moiola/Alamy)*
+|2025-08-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SpottedEagleRay_JA-JP3008170568_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedEagleRay_JA-JP3008170568_UHD.jpg)|
+||*Copyright: マダラトビエイ, エクアドル (© Tui De Roy/Minden Pictures)*
 ||
 |||
 |2025-08-14|**Region: en-IN**||
