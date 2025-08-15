@@ -6,9 +6,9 @@
 ||*Copyright: Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2025-08-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SpottedEagleRay_JA-JP3008170568_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedEagleRay_JA-JP3008170568_UHD.jpg)|
-||*Copyright: マダラトビエイ, エクアドル (© Tui De Roy/Minden Pictures)*
+|2025-08-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Okuribi2025_JA-JP4621795615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Okuribi2025_JA-JP4621795615_UHD.jpg)|
+||*Copyright: 大の字の中心・金尾の火床, 京都府 京都市 (© kumikomini/Getty Images)*
 ||
 |||
 |2025-08-15|**Region: en-IN**||
