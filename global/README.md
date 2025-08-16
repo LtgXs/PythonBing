@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-08-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg)|
-||*Copyright: Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)*
+|2025-08-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg)|
+||*Copyright: Colorful beehives in Italy (© Roberto Caucino/Shutterstock)*
 ||
 |||
 |2025-08-16|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 大の字の中心・金尾の火床, 京都府 京都市 (© kumikomini/Getty Images)*
 ||
 |||
-|2025-08-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RefFort2025_EN-IN3018612282_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RefFort2025_EN-IN3018612282_UHD.jpg)|
-||*Copyright: Red Fort, Delhi (© MadhoG/Getty Images)*
+|2025-08-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ColorfulBeehives_EN-IN5686651222_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulBeehives_EN-IN5686651222_UHD.jpg)|
+||*Copyright: Colourful beehives, Italy (© Roberto Caucino/Shutterstock)*
 ||
 |||
-|2025-08-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SpottedEagleRay_PT-BR1035439304_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedEagleRay_PT-BR1035439304_UHD.jpg)|
-||*Copyright: Raia-pintada, Ilha San Cristóbal, Galápagos, Equador (© Tui De Roy/Minden Pictures)*
+|2025-08-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ColorfulBeehives_PT-BR1350605096_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulBeehives_PT-BR1350605096_UHD.jpg)|
+||*Copyright: Colmeias coloridas, Itália (© Roberto Caucino/Shutterstock)*
 ||
 |||
-|2025-08-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SpottedEagleRay_FR-FR5066753247_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedEagleRay_FR-FR5066753247_UHD.jpg)|
-||*Copyright: Raies léopards, île San Cristóbal, archipel des Galápagos, Équateur (© Tui De Roy/Minden Pictures)*
+|2025-08-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.KiteFrejus_FR-FR4833953629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KiteFrejus_FR-FR4833953629_UHD.jpg)|
+||*Copyright: Cerfs-volants dans le ciel de Fréjus, Var, Provence-Alpes-Côte d’Azur (© ICHAUVEL/Getty Images)*
 ||
 |||
-|2025-08-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SpottedEagleRay_DE-DE1512505039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedEagleRay_DE-DE1512505039_UHD.jpg)|
-||*Copyright: Gefleckte Adlerrochen, Insel San Cristóbal, Galapagosinseln, Ecuador (© Tui De Roy/Minden Pictures)*
+|2025-08-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ColorfulBeehives_DE-DE0790331743_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulBeehives_DE-DE0790331743_UHD.jpg)|
+||*Copyright: Bunte Bienenstöcke, Italien (© Roberto Caucino/Shutterstock)*
 ||
 |||
-|2025-08-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CNExhibit_EN-CA7387294969_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CNExhibit_EN-CA7387294969_UHD.jpg)|
-||*Copyright: The Orbitor ride at the Canadian National Exhibition, Toronto (© James Hackland/Alamy Stock Photo)*
+|2025-08-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ColorfulBeehives_EN-CA7943336590_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulBeehives_EN-CA7943336590_UHD.jpg)|
+||*Copyright: Colourful beehives, Italy (© Roberto Caucino/Shutterstock)*
 ||
 |||
-|2025-08-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-GB2531931284_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-GB2531931284_UHD.jpg)|
-||*Copyright: Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)*
+|2025-08-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GarlicFestival2025_EN-GB2919536930_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GarlicFestival2025_EN-GB2919536930_UHD.jpg)|
+||*Copyright: Wild garlic, Greatwood Copse, Isle of Wight, England (© Available Light Photography/Alamy Stock Photo)*
 ||
 |||
-|2025-08-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LaMaddalenaSardegna_IT-IT3035454950_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaMaddalenaSardegna_IT-IT3035454950_UHD.jpg)|
-||*Copyright: Parco Nazionale dell’Arcipelago di La Maddalena, Gallura Nord-Est Sardegna, Sardegna (© Travel Wild/iStock)*
+|2025-08-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ColorfulBeehives_IT-IT3102989336_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulBeehives_IT-IT3102989336_UHD.jpg)|
+||*Copyright: Alveari colorati, Italia (© Roberto Caucino/Shutterstock)*
 ||
 |||
-|2025-08-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SpottedEagleRay_ES-ES4665305758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedEagleRay_ES-ES4665305758_UHD.jpg)|
-||*Copyright: Rayas águila moteadas, Isla San Cristóbal, Islas Galápagos, Ecuador (© Tui De Roy/Minden Pictures)*
+|2025-08-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ColorfulBeehives_ES-ES4737812847_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulBeehives_ES-ES4737812847_UHD.jpg)|
+||*Copyright: Colmenas de colores, Italia (© Roberto Caucino/Shutterstock)*
 ||
 |||
-|2025-08-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CNExhibit_FR-CA1821188983_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CNExhibit_FR-CA1821188983_UHD.jpg)|
-||*Copyright: L’attraction Orbitor à l’Exposition nationale canadienne, Toronto (© James Hackland/Alamy Stock Photo)*
+|2025-08-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ColorfulBeehives_FR-CA6306812917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulBeehives_FR-CA6306812917_UHD.jpg)|
+||*Copyright: Ruches colorées, Italie (© Roberto Caucino/Shutterstock)*
 ||
 |||
 
