@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:29:27] Picture infomations saved to  global/fr-CA/README.md
 [09:29:27] Picture infomations saved to global/fr-CA/history/2025/08/18_fr-CA.md
 Program exit at 09:29:27
+
+Program started at 16:15:31
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmubgrv54qmi
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:15:31] Start geting CN Bing Wallpaper
+[16:15:31] Successful get url: https://www.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083_UHD.jpg
+[16:15:31] Image saved to img/background.jpg
+[16:15:31] Info saved to README.md
+[16:15:31] Image saved to history/2025/08/18.md
+[16:15:31] Start geting global Bing Wallpaper, region=en-US, local time is 2025-08-17 12:15:31.872485-04:00
+[16:15:31] Successful get url: https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg
+[16:15:31] Picture infomations saved to  global/en-US/README.md
+[16:15:31] Picture infomations saved to global/en-US/history/2025/08/18_en-US.md
+[16:15:31] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-08-18 01:15:31.994814+09:00
+[16:15:32] Successful get url: https://www.bing.com/th?id=OHR.AvalancheLake_JA-JP3739900372_UHD.jpg
+[16:15:32] Picture infomations saved to  global/ja-JP/README.md
+[16:15:32] Picture infomations saved to global/ja-JP/history/2025/08/18_ja-JP.md
+[16:15:32] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-08-17 21:45:32.103687+05:30
+[16:15:32] Successful get url: https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-IN6166731437_UHD.jpg
+[16:15:32] Picture infomations saved to  global/en-IN/README.md
+[16:15:32] Picture infomations saved to global/en-IN/history/2025/08/17_en-IN.md
+[16:15:32] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-08-17 13:15:32.197461-03:00
+[16:15:32] Successful get url: https://www.bing.com/th?id=OHR.Jeribeach_PT-BR3080165878_UHD.jpg
+[16:15:32] Picture infomations saved to  global/pt-BR/README.md
+[16:15:32] Picture infomations saved to global/pt-BR/history/2025/08/18_pt-BR.md
+[16:15:32] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-08-17 18:15:32.270637+02:00
+[16:15:32] Successful get url: https://www.bing.com/th?id=OHR.LyngvigLighthouse_FR-FR5388600592_UHD.jpg
+[16:15:32] Picture infomations saved to  global/fr-FR/README.md
+[16:15:32] Picture infomations saved to global/fr-FR/history/2025/08/17_fr-FR.md
+[16:15:32] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-08-17 18:15:32.362372+02:00
+[16:15:32] Successful get url: https://www.bing.com/th?id=OHR.LyngvigLighthouse_DE-DE8062219926_UHD.jpg
+[16:15:32] Picture infomations saved to  global/de-DE/README.md
+[16:15:32] Picture infomations saved to global/de-DE/history/2025/08/17_de-DE.md
+[16:15:32] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-08-17 12:15:32.447938-04:00
+[16:15:32] Successful get url: https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-CA8074234624_UHD.jpg
+[16:15:32] Picture infomations saved to  global/en-CA/README.md
+[16:15:32] Picture infomations saved to global/en-CA/history/2025/08/18_en-CA.md
+[16:15:32] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-08-17 17:15:32.525448+01:00
+[16:15:32] Successful get url: https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-GB3070055068_UHD.jpg
+[16:15:32] Picture infomations saved to  global/en-GB/README.md
+[16:15:32] Picture infomations saved to global/en-GB/history/2025/08/17_en-GB.md
+[16:15:32] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-08-17 18:15:32.620943+02:00
+[16:15:32] Successful get url: https://www.bing.com/th?id=OHR.LyngvigLighthouse_IT-IT3166242120_UHD.jpg
+[16:15:32] Picture infomations saved to  global/it-IT/README.md
+[16:15:32] Picture infomations saved to global/it-IT/history/2025/08/17_it-IT.md
+[16:15:32] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-08-17 18:15:32.694985+02:00
+[16:15:32] Successful get url: https://www.bing.com/th?id=OHR.LyngvigLighthouse_ES-ES4833286329_UHD.jpg
+[16:15:32] Picture infomations saved to  global/es-ES/README.md
+[16:15:32] Picture infomations saved to global/es-ES/history/2025/08/17_es-ES.md
+[16:15:32] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-08-17 12:15:32.793254-04:00
+[16:15:32] Successful get url: https://www.bing.com/th?id=OHR.LyngvigLighthouse_FR-CA6450462994_UHD.jpg
+[16:15:32] Picture infomations saved to  global/fr-CA/README.md
+[16:15:32] Picture infomations saved to global/fr-CA/history/2025/08/18_fr-CA.md
+Program exit at 16:15:32

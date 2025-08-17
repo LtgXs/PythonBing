@@ -6,9 +6,9 @@
 ||*Copyright: Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)*
 ||
 |||
-|2025-08-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LyngvigLighthouse_JA-JP3502925142_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyngvigLighthouse_JA-JP3502925142_UHD.jpg)|
-||*Copyright: リングヴィグ灯台, デンマーク (© Caroline Brundle Bugge/Getty Images)*
+|2025-08-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AvalancheLake_JA-JP3739900372_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_JA-JP3739900372_UHD.jpg)|
+||*Copyright: アヴァランチ湖, 米国 ニューヨーク州 (© Posnov/Getty Images)*
 ||
 |||
 |2025-08-17|**Region: en-IN**||
