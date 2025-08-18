@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-08-18|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg)|
-||*Copyright: Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)*
+|2025-08-19|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg)|
+||*Copyright: Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)*
 ||
 |||
 |2025-08-18|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アヴァランチ湖, 米国 ニューヨーク州 (© Posnov/Getty Images)*
 ||
 |||
-|2025-08-17|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-IN6166731437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-IN6166731437_UHD.jpg)|
-||*Copyright: Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)*
+|2025-08-18|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AvalancheLake_EN-IN2042962209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_EN-IN2042962209_UHD.jpg)|
+||*Copyright: Avalanche Lake trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images)*
 ||
 |||
-|2025-08-18|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Jeribeach_PT-BR3080165878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Jeribeach_PT-BR3080165878_UHD.jpg)|
-||*Copyright: Vista aérea de praia em Jericoacoara, no Ceará (© AmazingAerialAgency/Adobe Stock)*
+|2025-08-19|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AvalancheLake_PT-BR3490746058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_PT-BR3490746058_UHD.jpg)|
+||*Copyright: Trilha do Avalanche Lake nas Montanhas Adirondack, Nova York, EUA (© Posnov/Getty Images)*
 ||
 |||
-|2025-08-17|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LyngvigLighthouse_FR-FR5388600592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyngvigLighthouse_FR-FR5388600592_UHD.jpg)|
-||*Copyright: Phare de Lyngvig, Hvide Sande, Danemark (© Caroline Brundle Bugge/Getty Images)*
+|2025-08-18|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ColorfulBeehives_FR-FR5685260580_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulBeehives_FR-FR5685260580_UHD.jpg)|
+||*Copyright: Ruches colorées, Italie (© Roberto Caucino/Shutterstock)*
 ||
 |||
-|2025-08-17|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LyngvigLighthouse_DE-DE8062219926_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyngvigLighthouse_DE-DE8062219926_UHD.jpg)|
-||*Copyright: Lyngvig Leuchtturm, Hvide Sande, Dänemark (© Caroline Brundle Bugge/Getty Images)*
+|2025-08-18|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GermanyHiker_DE-DE4106707068_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GermanyHiker_DE-DE4106707068_UHD.jpg)|
+||*Copyright: Wanderer bei Sonnenaufgang auf einem Bergkamm, Nationalpark Gesäuse, Steiermark, Österreich (© AscentXmedia/Getty Images)*
 ||
 |||
-|2025-08-18|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-CA8074234624_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-CA8074234624_UHD.jpg)|
-||*Copyright: Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)*
+|2025-08-19|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AvalancheLake_EN-CA8229303307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_EN-CA8229303307_UHD.jpg)|
+||*Copyright: Avalanche Lake Trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images)*
 ||
 |||
-|2025-08-17|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-GB3070055068_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-GB3070055068_UHD.jpg)|
-||*Copyright: Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)*
+|2025-08-18|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AvalancheLake_EN-GB3210830707_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_EN-GB3210830707_UHD.jpg)|
+||*Copyright: Avalanche Lake Trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images)*
 ||
 |||
-|2025-08-17|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LyngvigLighthouse_IT-IT3166242120_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyngvigLighthouse_IT-IT3166242120_UHD.jpg)|
-||*Copyright: Faro di Lyngvig, Hvide Sande, Danimarca (© Caroline Brundle Bugge/Getty Images)*
+|2025-08-18|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AvalancheLake_IT-IT9962796758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_IT-IT9962796758_UHD.jpg)|
+||*Copyright: Lago Avalanche sulle Adirondack High Peaks, New York, USA (© Posnov/Getty Images)*
 ||
 |||
-|2025-08-17|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LyngvigLighthouse_ES-ES4833286329_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyngvigLighthouse_ES-ES4833286329_UHD.jpg)|
-||*Copyright: Faro de Lyngvig, Hvide Sande, Dinamarca (© Caroline Brundle Bugge/Getty Images)*
+|2025-08-18|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AvalancheLake_ES-ES4962588895_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_ES-ES4962588895_UHD.jpg)|
+||*Copyright: Sendero al lago Avalanche en las montañas de Adirondack, Nueva York, EE. UU. (© Posnov/Getty Images)*
 ||
 |||
-|2025-08-18|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LyngvigLighthouse_FR-CA6450462994_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyngvigLighthouse_FR-CA6450462994_UHD.jpg)|
-||*Copyright: Phare de Lyngvig, Hvide Sande, Danemark (© Caroline Brundle Bugge/Getty Images)*
+|2025-08-19|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AvalancheLake_FR-CA6587047706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_FR-CA6587047706_UHD.jpg)|
+||*Copyright: Sentier du lac Avalanche, Adirondacks High Peaks, États-Unis (© Posnov/Getty Images)*
 ||
 |||
 

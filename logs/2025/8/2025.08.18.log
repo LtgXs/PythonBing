@@ -1,0 +1,60 @@
+
+Program started at 09:36:52
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmubgrv54qmi
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:36:52] Start geting CN Bing Wallpaper
+[09:36:52] Successful get url: https://www.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083_UHD.jpg
+[09:36:52] Image saved to img/background.jpg
+[09:36:52] Info saved to README.md
+[09:36:52] Image saved to history/2025/08/18.md
+[09:36:52] Start geting global Bing Wallpaper, region=en-US, local time is 2025-08-18 05:36:52.999215-04:00
+[09:36:54] Successful get url: https://www.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg
+[09:36:54] Picture infomations saved to  global/en-US/README.md
+[09:36:54] Picture infomations saved to global/en-US/history/2025/08/19_en-US.md
+[09:36:54] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-08-18 18:36:54.155699+09:00
+[09:36:54] Successful get url: https://www.bing.com/th?id=OHR.AvalancheLake_JA-JP3739900372_UHD.jpg
+[09:36:54] Picture infomations saved to  global/ja-JP/README.md
+[09:36:54] Picture infomations saved to global/ja-JP/history/2025/08/18_ja-JP.md
+[09:36:54] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-08-18 15:06:54.267438+05:30
+[09:36:54] Successful get url: https://www.bing.com/th?id=OHR.AvalancheLake_EN-IN2042962209_UHD.jpg
+[09:36:54] Picture infomations saved to  global/en-IN/README.md
+[09:36:54] Picture infomations saved to global/en-IN/history/2025/08/18_en-IN.md
+[09:36:54] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-08-18 06:36:54.372485-03:00
+[09:36:54] Successful get url: https://www.bing.com/th?id=OHR.AvalancheLake_PT-BR3490746058_UHD.jpg
+[09:36:54] Picture infomations saved to  global/pt-BR/README.md
+[09:36:54] Picture infomations saved to global/pt-BR/history/2025/08/19_pt-BR.md
+[09:36:54] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-08-18 11:36:54.848222+02:00
+[09:36:54] Successful get url: https://www.bing.com/th?id=OHR.ColorfulBeehives_FR-FR5685260580_UHD.jpg
+[09:36:54] Picture infomations saved to  global/fr-FR/README.md
+[09:36:54] Picture infomations saved to global/fr-FR/history/2025/08/18_fr-FR.md
+[09:36:54] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-08-18 11:36:54.945734+02:00
+[09:36:54] Successful get url: https://www.bing.com/th?id=OHR.GermanyHiker_DE-DE4106707068_UHD.jpg
+[09:36:55] Picture infomations saved to  global/de-DE/README.md
+[09:36:55] Picture infomations saved to global/de-DE/history/2025/08/18_de-DE.md
+[09:36:55] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-08-18 05:36:55.088140-04:00
+[09:36:55] Successful get url: https://www.bing.com/th?id=OHR.AvalancheLake_EN-CA8229303307_UHD.jpg
+[09:36:55] Picture infomations saved to  global/en-CA/README.md
+[09:36:55] Picture infomations saved to global/en-CA/history/2025/08/19_en-CA.md
+[09:36:55] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-08-18 10:36:55.547726+01:00
+[09:36:55] Successful get url: https://www.bing.com/th?id=OHR.AvalancheLake_EN-GB3210830707_UHD.jpg
+[09:36:55] Picture infomations saved to  global/en-GB/README.md
+[09:36:55] Picture infomations saved to global/en-GB/history/2025/08/18_en-GB.md
+[09:36:55] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-08-18 11:36:55.649700+02:00
+[09:36:55] Successful get url: https://www.bing.com/th?id=OHR.AvalancheLake_IT-IT9962796758_UHD.jpg
+[09:36:55] Picture infomations saved to  global/it-IT/README.md
+[09:36:55] Picture infomations saved to global/it-IT/history/2025/08/18_it-IT.md
+[09:36:55] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-08-18 11:36:55.747812+02:00
+[09:36:55] Successful get url: https://www.bing.com/th?id=OHR.AvalancheLake_ES-ES4962588895_UHD.jpg
+[09:36:55] Picture infomations saved to  global/es-ES/README.md
+[09:36:55] Picture infomations saved to global/es-ES/history/2025/08/18_es-ES.md
+[09:36:55] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-08-18 05:36:55.830828-04:00
+[09:36:55] Successful get url: https://www.bing.com/th?id=OHR.AvalancheLake_FR-CA6587047706_UHD.jpg
+[09:36:56] Picture infomations saved to  global/fr-CA/README.md
+[09:36:56] Picture infomations saved to global/fr-CA/history/2025/08/19_fr-CA.md
+Program exit at 09:36:56
