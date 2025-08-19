@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-08-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg)|
-||*Copyright: Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)*
+|2025-08-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg)|
+||*Copyright: Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)*
 ||
 |||
 |2025-08-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: サンタ・マッダレーナ, イタリア (© Sakrapee Nopparat/Getty Images)*
 ||
 |||
-|2025-08-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AvalancheLake_EN-IN2042962209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_EN-IN2042962209_UHD.jpg)|
-||*Copyright: Avalanche Lake trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images)*
+|2025-08-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN2313408086_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN2313408086_UHD.jpg)|
+||*Copyright: Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
-|2025-08-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AvalancheLake_PT-BR3490746058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_PT-BR3490746058_UHD.jpg)|
-||*Copyright: Trilha do Avalanche Lake nas Montanhas Adirondack, Nova York, EUA (© Posnov/Getty Images)*
+|2025-08-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GipuzcoaSummer_PT-BR3784755779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GipuzcoaSummer_PT-BR3784755779_UHD.jpg)|
+||*Copyright: Camadas de flysch em Zumaia, País Basco, Espanha (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-08-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ColorfulBeehives_FR-FR5685260580_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulBeehives_FR-FR5685260580_UHD.jpg)|
-||*Copyright: Ruches colorées, Italie (© Roberto Caucino/Shutterstock)*
+|2025-08-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GipuzcoaSummer_FR-FR5838334376_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GipuzcoaSummer_FR-FR5838334376_UHD.jpg)|
+||*Copyright: Couches de flysch à Zumaia, Pays basque, Espagne (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-08-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GermanyHiker_DE-DE4106707068_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GermanyHiker_DE-DE4106707068_UHD.jpg)|
-||*Copyright: Wanderer bei Sonnenaufgang auf einem Bergkamm, Nationalpark Gesäuse, Steiermark, Österreich (© AscentXmedia/Getty Images)*
+|2025-08-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GipuzcoaSummer_DE-DE5130461802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GipuzcoaSummer_DE-DE5130461802_UHD.jpg)|
+||*Copyright: Flysch-Felsformationen in Zumaia, Baskenland, Spanien (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-08-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AvalancheLake_EN-CA8229303307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_EN-CA8229303307_UHD.jpg)|
-||*Copyright: Avalanche Lake Trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images)*
+|2025-08-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.VanIsland_EN-CA8465545166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VanIsland_EN-CA8465545166_UHD.jpg)|
+||*Copyright: Aerial view of Vancouver Island, British Columbia (© edb3_16/Getty Images)*
 ||
 |||
-|2025-08-18|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AvalancheLake_EN-GB3210830707_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_EN-GB3210830707_UHD.jpg)|
-||*Copyright: Avalanche Lake Trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images)*
+|2025-08-19|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.IguazuArgentina_EN-GB3342065594_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IguazuArgentina_EN-GB3342065594_UHD.jpg)|
+||*Copyright: The Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)*
 ||
 |||
-|2025-08-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AvalancheLake_IT-IT9962796758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_IT-IT9962796758_UHD.jpg)|
-||*Copyright: Lago Avalanche sulle Adirondack High Peaks, New York, USA (© Posnov/Getty Images)*
+|2025-08-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GipuzcoaSummer_IT-IT3301652373_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GipuzcoaSummer_IT-IT3301652373_UHD.jpg)|
+||*Copyright: Strati di flysch a Zumaia, Paesi Baschi, Spagna (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-08-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AvalancheLake_ES-ES4962588895_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_ES-ES4962588895_UHD.jpg)|
-||*Copyright: Sendero al lago Avalanche en las montañas de Adirondack, Nueva York, EE. UU. (© Posnov/Getty Images)*
+|2025-08-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GipuzcoaSummer_ES-ES6183424688_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GipuzcoaSummer_ES-ES6183424688_UHD.jpg)|
+||*Copyright: Capas de flysch en Zumaia, Guipúzcoa, País Vasco, España (© Eloi_Omella/Getty Images)*
 ||
 |||
-|2025-08-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AvalancheLake_FR-CA6587047706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AvalancheLake_FR-CA6587047706_UHD.jpg)|
-||*Copyright: Sentier du lac Avalanche, Adirondacks High Peaks, États-Unis (© Posnov/Getty Images)*
+|2025-08-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.VanIsland_FR-CA6726898164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VanIsland_FR-CA6726898164_UHD.jpg)|
+||*Copyright: Vue aérienne de l’île de Vancouver, Colombie-Britannique (© edb3_16/Getty Images)*
 ||
 |||
 
