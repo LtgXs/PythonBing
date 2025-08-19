@@ -6,13 +6,13 @@
 ||*Copyright: Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)*
 ||
 |||
-|2025-08-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SantaMaddalena_JA-JP3939499195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaMaddalena_JA-JP3939499195_UHD.jpg)|
-||*Copyright: サンタ・マッダレーナ, イタリア (© Sakrapee Nopparat/Getty Images)*
+|2025-08-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CitadelBonifacio_JA-JP4122292062_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CitadelBonifacio_JA-JP4122292062_UHD.jpg)|
+||*Copyright: ボニファシオの城塞, フランス (© Marc Dozier/Getty Images)*
 ||
 |||
 |2025-08-19|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN2313408086_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN2313408086_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN9432285920_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN9432285920_UHD.jpg)|
 ||*Copyright: Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)*
 ||
 |||
