@@ -6,13 +6,13 @@
 ||*Copyright: The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)*
 ||
 |||
-|2025-08-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CitadelBonifacio_JA-JP4122292062_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CitadelBonifacio_JA-JP4122292062_UHD.jpg)|
-||*Copyright: ボニファシオの城塞, フランス (© Marc Dozier/Getty Images)*
+|2025-08-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WheatearBird_JA-JP4532304114_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WheatearBird_JA-JP4532304114_UHD.jpg)|
+||*Copyright: ピーク・ディストリクト国立公園, イングランド (© Ben Hall/Nature Picture Library)*
 ||
 |||
 |2025-08-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-IN2658303132_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-IN2658303132_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-IN3918402322_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-IN3918402322_UHD.jpg)|
 ||*Copyright: The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)*
 ||
 |||

@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:31:25] Picture infomations saved to  global/fr-CA/README.md
 [09:31:25] Picture infomations saved to global/fr-CA/history/2025/08/21_fr-CA.md
 Program exit at 09:31:25
+
+Program started at 16:16:52
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmubgrv54qmi
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:16:52] Start geting CN Bing Wallpaper
+[16:16:52] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_UHD.jpg
+[16:16:52] Image saved to img/background.jpg
+[16:16:52] Info saved to README.md
+[16:16:52] Image saved to history/2025/08/21.md
+[16:16:52] Start geting global Bing Wallpaper, region=en-US, local time is 2025-08-20 12:16:52.727020-04:00
+[16:16:52] Successful get url: https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg
+[16:16:53] Picture infomations saved to  global/en-US/README.md
+[16:16:53] Picture infomations saved to global/en-US/history/2025/08/21_en-US.md
+[16:16:53] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-08-21 01:16:53.273413+09:00
+[16:16:53] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_JA-JP4532304114_UHD.jpg
+[16:16:53] Picture infomations saved to  global/ja-JP/README.md
+[16:16:53] Picture infomations saved to global/ja-JP/history/2025/08/21_ja-JP.md
+[16:16:53] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-08-20 21:46:53.730432+05:30
+[16:16:54] Successful get url: https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-IN3918402322_UHD.jpg
+[16:16:55] Picture infomations saved to  global/en-IN/README.md
+[16:16:55] Picture infomations saved to global/en-IN/history/2025/08/20_en-IN.md
+[16:16:55] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-08-20 13:16:55.066536-03:00
+[16:16:55] Successful get url: https://www.bing.com/th?id=OHR.CitadelBonifacio_PT-BR4689124587_UHD.jpg
+[16:16:55] Picture infomations saved to  global/pt-BR/README.md
+[16:16:55] Picture infomations saved to global/pt-BR/history/2025/08/21_pt-BR.md
+[16:16:55] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-08-20 18:16:55.578155+02:00
+[16:16:55] Successful get url: https://www.bing.com/th?id=OHR.CitadelBonifacio_FR-FR5988147766_UHD.jpg
+[16:16:56] Picture infomations saved to  global/fr-FR/README.md
+[16:16:56] Picture infomations saved to global/fr-FR/history/2025/08/20_fr-FR.md
+[16:16:56] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-08-20 18:16:56.186468+02:00
+[16:16:56] Successful get url: https://www.bing.com/th?id=OHR.CitadelBonifacio_DE-DE9194010566_UHD.jpg
+[16:16:56] Picture infomations saved to  global/de-DE/README.md
+[16:16:56] Picture infomations saved to global/de-DE/history/2025/08/20_de-DE.md
+[16:16:56] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-08-20 12:16:56.731480-04:00
+[16:16:56] Successful get url: https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-CA8702640374_UHD.jpg
+[16:16:57] Picture infomations saved to  global/en-CA/README.md
+[16:16:57] Picture infomations saved to global/en-CA/history/2025/08/21_en-CA.md
+[16:16:57] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-08-20 17:16:57.023289+01:00
+[16:16:57] Successful get url: https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-GB3535307178_UHD.jpg
+[16:16:57] Picture infomations saved to  global/en-GB/README.md
+[16:16:57] Picture infomations saved to global/en-GB/history/2025/08/20_en-GB.md
+[16:16:57] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-08-20 18:16:57.524476+02:00
+[16:16:57] Successful get url: https://www.bing.com/th?id=OHR.CitadelBonifacio_IT-IT3373229957_UHD.jpg
+[16:16:58] Picture infomations saved to  global/it-IT/README.md
+[16:16:58] Picture infomations saved to global/it-IT/history/2025/08/20_it-IT.md
+[16:16:58] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-08-20 18:16:58.112879+02:00
+[16:16:58] Successful get url: https://www.bing.com/th?id=OHR.CitadelBonifacio_ES-ES5188387736_UHD.jpg
+[16:16:58] Picture infomations saved to  global/es-ES/README.md
+[16:16:58] Picture infomations saved to global/es-ES/history/2025/08/20_es-ES.md
+[16:16:58] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-08-20 12:16:58.643724-04:00
+[16:16:58] Successful get url: https://www.bing.com/th?id=OHR.CitadelBonifacio_FR-CA7298120070_UHD.jpg
+[16:16:59] Picture infomations saved to  global/fr-CA/README.md
+[16:16:59] Picture infomations saved to global/fr-CA/history/2025/08/21_fr-CA.md
+Program exit at 16:16:59
