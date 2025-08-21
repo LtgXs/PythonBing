@@ -6,9 +6,9 @@
 ||*Copyright: Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)*
 ||
 |||
-|2025-08-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WheatearBird_JA-JP4532304114_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WheatearBird_JA-JP4532304114_UHD.jpg)|
-||*Copyright: ピーク・ディストリクト国立公園, イングランド (© Ben Hall/Nature Picture Library)*
+|2025-08-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PalouseWA_JA-JP5363056424_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalouseWA_JA-JP5363056424_UHD.jpg)|
+||*Copyright: パルース丘陵, 米国 ワシントン州 (© svetlana57/Getty Images)*
 ||
 |||
 |2025-08-21|**Region: en-IN**||
