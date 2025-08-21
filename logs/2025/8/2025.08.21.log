@@ -1,0 +1,60 @@
+
+Program started at 09:31:59
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmqc4gcfdwos
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:31:59] Start geting CN Bing Wallpaper
+[09:32:00] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_ZH-CN3286472001_UHD.jpg
+[09:32:00] Image saved to img/background.jpg
+[09:32:00] Info saved to README.md
+[09:32:00] Image saved to history/2025/08/21.md
+[09:32:00] Start geting global Bing Wallpaper, region=en-US, local time is 2025-08-21 05:32:00.389298-04:00
+[09:32:00] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg
+[09:32:00] Picture infomations saved to  global/en-US/README.md
+[09:32:00] Picture infomations saved to global/en-US/history/2025/08/22_en-US.md
+[09:32:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-08-21 18:32:00.565801+09:00
+[09:32:00] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_JA-JP4532304114_UHD.jpg
+[09:32:00] Picture infomations saved to  global/ja-JP/README.md
+[09:32:00] Picture infomations saved to global/ja-JP/history/2025/08/21_ja-JP.md
+[09:32:00] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-08-21 15:02:00.724091+05:30
+[09:32:00] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_EN-IN2858155891_UHD.jpg
+[09:32:00] Picture infomations saved to  global/en-IN/README.md
+[09:32:00] Picture infomations saved to global/en-IN/history/2025/08/21_en-IN.md
+[09:32:00] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-08-21 06:32:00.874246-03:00
+[09:32:00] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_PT-BR5430723539_UHD.jpg
+[09:32:01] Picture infomations saved to  global/pt-BR/README.md
+[09:32:01] Picture infomations saved to global/pt-BR/history/2025/08/22_pt-BR.md
+[09:32:01] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-08-21 11:32:01.010809+02:00
+[09:32:01] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_FR-FR6118377367_UHD.jpg
+[09:32:01] Picture infomations saved to  global/fr-FR/README.md
+[09:32:01] Picture infomations saved to global/fr-FR/history/2025/08/21_fr-FR.md
+[09:32:01] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-08-21 11:32:01.155640+02:00
+[09:32:01] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_DE-DE8545255513_UHD.jpg
+[09:32:01] Picture infomations saved to  global/de-DE/README.md
+[09:32:01] Picture infomations saved to global/de-DE/history/2025/08/21_de-DE.md
+[09:32:01] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-08-21 05:32:01.299044-04:00
+[09:32:01] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_EN-CA8907713777_UHD.jpg
+[09:32:01] Picture infomations saved to  global/en-CA/README.md
+[09:32:01] Picture infomations saved to global/en-CA/history/2025/08/22_en-CA.md
+[09:32:01] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-08-21 10:32:01.453331+01:00
+[09:32:01] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_EN-GB3697571059_UHD.jpg
+[09:32:01] Picture infomations saved to  global/en-GB/README.md
+[09:32:01] Picture infomations saved to global/en-GB/history/2025/08/21_en-GB.md
+[09:32:01] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-08-21 11:32:01.607307+02:00
+[09:32:01] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_IT-IT3442241392_UHD.jpg
+[09:32:01] Picture infomations saved to  global/it-IT/README.md
+[09:32:01] Picture infomations saved to global/it-IT/history/2025/08/21_it-IT.md
+[09:32:01] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-08-21 11:32:01.771034+02:00
+[09:32:01] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_ES-ES5268602791_UHD.jpg
+[09:32:01] Picture infomations saved to  global/es-ES/README.md
+[09:32:01] Picture infomations saved to global/es-ES/history/2025/08/21_es-ES.md
+[09:32:01] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-08-21 05:32:01.933052-04:00
+[09:32:01] Successful get url: https://www.bing.com/th?id=OHR.WheatearBird_FR-CA7419271130_UHD.jpg
+[09:32:02] Picture infomations saved to  global/fr-CA/README.md
+[09:32:02] Picture infomations saved to global/fr-CA/history/2025/08/22_fr-CA.md
+Program exit at 09:32:02
