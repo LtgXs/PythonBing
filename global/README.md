@@ -6,9 +6,9 @@
 ||*Copyright: Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)*
 ||
 |||
-|2025-08-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PalouseWA_JA-JP5363056424_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalouseWA_JA-JP5363056424_UHD.jpg)|
-||*Copyright: パルース丘陵, 米国 ワシントン州 (© svetlana57/Getty Images)*
+|2025-08-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Morningglory2025_JA-JP5429610056_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Morningglory2025_JA-JP5429610056_UHD.jpg)|
+||*Copyright: 早朝に開花する美しいアサガオ (© borchee/Getty Images)*
 ||
 |||
 |2025-08-22|**Region: en-IN**||
@@ -42,8 +42,8 @@
 ||
 |||
 |2025-08-22|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PalouseWA_IT-IT0107533820_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalouseWA_IT-IT0107533820_UHD.jpg)|
-||*Copyright: Praterie ondulate del Palouse, Washington, USA (© svetlana57/Getty Images)*
+||![](https://www.bing.com/th?id=OHR.PalouseWA_IT-IT4357870693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalouseWA_IT-IT4357870693_UHD.jpg)|
+||*Copyright: Praterie ondulate della Palouse, Washington, USA (© svetlana57/Getty Images)*
 ||
 |||
 |2025-08-22|**Region: es-ES**||
