@@ -6,9 +6,9 @@
 ||*Copyright: St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)*
 ||
 |||
-|2025-08-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Morningglory2025_JA-JP5429610056_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Morningglory2025_JA-JP5429610056_UHD.jpg)|
-||*Copyright: 早朝に開花する美しいアサガオ (© borchee/Getty Images)*
+|2025-08-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CervusDama_JA-JP5457977522_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_JA-JP5457977522_UHD.jpg)|
+||*Copyright: ダマジカ, イギリス (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
 |2025-08-23|**Region: en-IN**||

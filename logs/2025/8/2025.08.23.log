@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:27:39] Picture infomations saved to  global/fr-CA/README.md
 [09:27:39] Picture infomations saved to global/fr-CA/history/2025/08/24_fr-CA.md
 Program exit at 09:27:39
+
+Program started at 16:13:59
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmqc4gcfdwos
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:13:59] Start geting CN Bing Wallpaper
+[16:13:59] Successful get url: https://www.bing.com/th?id=OHR.CervusDama_ZH-CN3603505811_UHD.jpg
+[16:14:00] Image saved to img/background.jpg
+[16:14:00] Info saved to README.md
+[16:14:00] Image saved to history/2025/08/24.md
+[16:14:00] Start geting global Bing Wallpaper, region=en-US, local time is 2025-08-23 12:14:00.298115-04:00
+[16:14:00] Successful get url: https://www.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg
+[16:14:00] Picture infomations saved to  global/en-US/README.md
+[16:14:00] Picture infomations saved to global/en-US/history/2025/08/24_en-US.md
+[16:14:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-08-24 01:14:00.756743+09:00
+[16:14:00] Successful get url: https://www.bing.com/th?id=OHR.CervusDama_JA-JP5457977522_UHD.jpg
+[16:14:01] Picture infomations saved to  global/ja-JP/README.md
+[16:14:01] Picture infomations saved to global/ja-JP/history/2025/08/24_ja-JP.md
+[16:14:01] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-08-23 21:44:01.115166+05:30
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.SaintBarbaras_EN-IN1181237590_UHD.jpg
+[16:14:01] Picture infomations saved to  global/en-IN/README.md
+[16:14:01] Picture infomations saved to global/en-IN/history/2025/08/23_en-IN.md
+[16:14:01] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-08-23 13:14:01.683006-03:00
+[16:14:01] Successful get url: https://www.bing.com/th?id=OHR.SaintBarbaras_PT-BR9908756704_UHD.jpg
+[16:14:02] Picture infomations saved to  global/pt-BR/README.md
+[16:14:02] Picture infomations saved to global/pt-BR/history/2025/08/24_pt-BR.md
+[16:14:02] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-08-23 18:14:02.057341+02:00
+[16:14:02] Successful get url: https://www.bing.com/th?id=OHR.SaintBarbaras_FR-FR4490815569_UHD.jpg
+[16:14:02] Picture infomations saved to  global/fr-FR/README.md
+[16:14:02] Picture infomations saved to global/fr-FR/history/2025/08/23_fr-FR.md
+[16:14:02] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-08-23 18:14:02.565148+02:00
+[16:14:02] Successful get url: https://www.bing.com/th?id=OHR.SaintBarbaras_DE-DE2329773530_UHD.jpg
+[16:14:03] Picture infomations saved to  global/de-DE/README.md
+[16:14:03] Picture infomations saved to global/de-DE/history/2025/08/23_de-DE.md
+[16:14:03] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-08-23 12:14:03.018302-04:00
+[16:14:03] Successful get url: https://www.bing.com/th?id=OHR.SaintBarbaras_EN-CA1578716793_UHD.jpg
+[16:14:03] Picture infomations saved to  global/en-CA/README.md
+[16:14:03] Picture infomations saved to global/en-CA/history/2025/08/24_en-CA.md
+[16:14:03] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-08-23 17:14:03.499872+01:00
+[16:14:03] Successful get url: https://www.bing.com/th?id=OHR.CervusDama_EN-GB8518055482_UHD.jpg
+[16:14:03] Picture infomations saved to  global/en-GB/README.md
+[16:14:03] Picture infomations saved to global/en-GB/history/2025/08/23_en-GB.md
+[16:14:03] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-08-23 18:14:03.749844+02:00
+[16:14:03] Successful get url: https://www.bing.com/th?id=OHR.SaintBarbaras_IT-IT0267106236_UHD.jpg
+[16:14:04] Picture infomations saved to  global/it-IT/README.md
+[16:14:04] Picture infomations saved to global/it-IT/history/2025/08/23_it-IT.md
+[16:14:04] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-08-23 18:14:04.202116+02:00
+[16:14:04] Successful get url: https://www.bing.com/th?id=OHR.SaintBarbaras_ES-ES8198258908_UHD.jpg
+[16:14:04] Picture infomations saved to  global/es-ES/README.md
+[16:14:04] Picture infomations saved to global/es-ES/history/2025/08/23_es-ES.md
+[16:14:04] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-08-23 12:14:04.649669-04:00
+[16:14:04] Successful get url: https://www.bing.com/th?id=OHR.SaintBarbaras_FR-CA8370632237_UHD.jpg
+[16:14:04] Picture infomations saved to  global/fr-CA/README.md
+[16:14:04] Picture infomations saved to global/fr-CA/history/2025/08/24_fr-CA.md
+Program exit at 16:14:04
