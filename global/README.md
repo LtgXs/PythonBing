@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-08-23|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg)|
-||*Copyright: Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)*
+|2025-08-24|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg)|
+||*Copyright: St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)*
 ||
 |||
 |2025-08-23|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 早朝に開花する美しいアサガオ (© borchee/Getty Images)*
 ||
 |||
-|2025-08-22|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PalouseWA_EN-IN0988598456_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalouseWA_EN-IN0988598456_UHD.jpg)|
-||*Copyright: Rolling hills of the Palouse, Washington, United States (© svetlana57/Getty Images)*
+|2025-08-23|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-IN1181237590_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-IN1181237590_UHD.jpg)|
+||*Copyright: St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)*
 ||
 |||
-|2025-08-23|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DiaFolk_PT-BR5591184698_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiaFolk_PT-BR5591184698_UHD.jpg)|
-||*Copyright: Mamulengos em Olinda, Pernambuco (© Paula Montenegro/iStock/Getty Images Plus)*
+|2025-08-24|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SaintBarbaras_PT-BR9908756704_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_PT-BR9908756704_UHD.jpg)|
+||*Copyright: Catedral de Santa Bárbara, Kutná Hora, Tchéquia (© Castka/Getty Images)*
 ||
 |||
-|2025-08-22|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.RockSeine_FR-FR5220728990_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RockSeine_FR-FR5220728990_UHD.jpg)|
-||*Copyright: Domaine national de Saint-Cloud, Grande Cascade, Île de France (© GUIZIOU Franck/hemis.fr)*
+|2025-08-23|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SaintBarbaras_FR-FR4490815569_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_FR-FR4490815569_UHD.jpg)|
+||*Copyright: Cathédrale Sainte-Barbe, Kutná Hora, Tchéquie (© Castka/Getty Images)*
 ||
 |||
-|2025-08-22|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FieldKaiserstuhl_DE-DE8624743800_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FieldKaiserstuhl_DE-DE8624743800_UHD.jpg)|
-||*Copyright: Ansicht eines landwirtschaftlichen Feldes, Kaiserstuhl, Baden-Württemberg (© EyeEM Mobile GmbH/Getty Images)*
+|2025-08-23|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SaintBarbaras_DE-DE2329773530_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_DE-DE2329773530_UHD.jpg)|
+||*Copyright: Barbaradom, Kuttenberg, Tschechien (© Castka/Getty Images)*
 ||
 |||
-|2025-08-23|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PalouseWA_EN-CA1378669276_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalouseWA_EN-CA1378669276_UHD.jpg)|
-||*Copyright: Rolling hills of the Palouse, Washington, United States (© svetlana57/Getty Images)*
+|2025-08-24|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-CA1578716793_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-CA1578716793_UHD.jpg)|
+||*Copyright: St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)*
 ||
 |||
-|2025-08-22|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PalouseWA_EN-GB8343692034_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalouseWA_EN-GB8343692034_UHD.jpg)|
-||*Copyright: Rolling hills of the Palouse, Washington, United States (© svetlana57/Getty Images)*
+|2025-08-23|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CervusDama_EN-GB8518055482_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_EN-GB8518055482_UHD.jpg)|
+||*Copyright: European fallow deer, England (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-08-22|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PalouseWA_IT-IT4357870693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalouseWA_IT-IT4357870693_UHD.jpg)|
-||*Copyright: Praterie ondulate della Palouse, Washington, USA (© svetlana57/Getty Images)*
+|2025-08-23|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SaintBarbaras_IT-IT0267106236_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_IT-IT0267106236_UHD.jpg)|
+||*Copyright: Cattedrale di Santa Barbara, Kutná Hora, Repubblica Ceca (© Castka/Getty Images)*
 ||
 |||
-|2025-08-22|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PalouseWA_ES-ES8103118141_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalouseWA_ES-ES8103118141_UHD.jpg)|
-||*Copyright: Colinas onduladas de Palouse, Washington, EE. UU. (© svetlana57/Getty Images)*
+|2025-08-23|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SaintBarbaras_ES-ES8198258908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_ES-ES8198258908_UHD.jpg)|
+||*Copyright: Catedral de Santa Bárbara, Kutná Hora, Chequia (© Castka/Getty Images)*
 ||
 |||
-|2025-08-23|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PalouseWA_FR-CA7470157507_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalouseWA_FR-CA7470157507_UHD.jpg)|
-||*Copyright: Collines ondulantes de la Palouse, Washington, États-Unis (© svetlana57/Getty Images)*
+|2025-08-24|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SaintBarbaras_FR-CA8370632237_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_FR-CA8370632237_UHD.jpg)|
+||*Copyright: Cathédrale Sainte-Barbe, Kutná Hora, Tchéquie (© Castka/Getty Images)*
 ||
 |||
 
