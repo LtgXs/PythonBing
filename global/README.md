@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-08-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg)|
-||*Copyright: St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)*
+|2025-08-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg)|
+||*Copyright: European fallow deer, England (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
 |2025-08-24|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ダマジカ, イギリス (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-08-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-IN1181237590_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-IN1181237590_UHD.jpg)|
-||*Copyright: St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)*
-||
-|||
-|2025-08-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SaintBarbaras_PT-BR9908756704_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_PT-BR9908756704_UHD.jpg)|
-||*Copyright: Catedral de Santa Bárbara, Kutná Hora, Tchéquia (© Castka/Getty Images)*
-||
-|||
-|2025-08-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SaintBarbaras_FR-FR4490815569_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_FR-FR4490815569_UHD.jpg)|
-||*Copyright: Cathédrale Sainte-Barbe, Kutná Hora, Tchéquie (© Castka/Getty Images)*
-||
-|||
-|2025-08-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SaintBarbaras_DE-DE2329773530_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_DE-DE2329773530_UHD.jpg)|
-||*Copyright: Barbaradom, Kuttenberg, Tschechien (© Castka/Getty Images)*
-||
-|||
-|2025-08-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-CA1578716793_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-CA1578716793_UHD.jpg)|
-||*Copyright: St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)*
-||
-|||
-|2025-08-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CervusDama_EN-GB8518055482_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_EN-GB8518055482_UHD.jpg)|
+|2025-08-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CervusDama_EN-IN1330796053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_EN-IN1330796053_UHD.jpg)|
 ||*Copyright: European fallow deer, England (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-08-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SaintBarbaras_IT-IT0267106236_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_IT-IT0267106236_UHD.jpg)|
-||*Copyright: Cattedrale di Santa Barbara, Kutná Hora, Repubblica Ceca (© Castka/Getty Images)*
+|2025-08-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Pepalantus_PT-BR6960217232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Pepalantus_PT-BR6960217232_UHD.jpg)|
+||*Copyright: Chuveirinhos ao nascer do sol na Chapada dos Veadeiros, Goiás (© Cavan Images/Getty Images)*
 ||
 |||
-|2025-08-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SaintBarbaras_ES-ES8198258908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_ES-ES8198258908_UHD.jpg)|
-||*Copyright: Catedral de Santa Bárbara, Kutná Hora, Chequia (© Castka/Getty Images)*
+|2025-08-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CervusDama_FR-FR7245916785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_FR-FR7245916785_UHD.jpg)|
+||*Copyright: Daim européen, Angleterre (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-08-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SaintBarbaras_FR-CA8370632237_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_FR-CA8370632237_UHD.jpg)|
-||*Copyright: Cathédrale Sainte-Barbe, Kutná Hora, Tchéquie (© Castka/Getty Images)*
+|2025-08-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CervusDama_DE-DE7228900180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_DE-DE7228900180_UHD.jpg)|
+||*Copyright: Europäischer Damhirsch, England (© Enrique Aguirre Aves/Getty Images)*
+||
+|||
+|2025-08-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CervusDama_EN-CA1743001514_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_EN-CA1743001514_UHD.jpg)|
+||*Copyright: European fallow deer, England (© Enrique Aguirre Aves/Getty Images)*
+||
+|||
+|2025-08-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.NottingHillCarnival2025_EN-GB8998798603_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NottingHillCarnival2025_EN-GB8998798603_UHD.jpg)|
+||*Copyright: Notting Hill Carnival wall mural, London (© BRIAN ANTHONY/Alamy Stock Photo)*
+||
+|||
+|2025-08-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CervusDama_IT-IT0307979007_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_IT-IT0307979007_UHD.jpg)|
+||*Copyright: Daini, Inghilterra (© Enrique Aguirre Aves/Getty Images)*
+||
+|||
+|2025-08-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CervusDama_ES-ES8412556845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_ES-ES8412556845_UHD.jpg)|
+||*Copyright: Gamo europeo, Inglaterra (© Enrique Aguirre Aves/Getty Images)*
+||
+|||
+|2025-08-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CervusDama_FR-CA0373208041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_FR-CA0373208041_UHD.jpg)|
+||*Copyright: Daim européen, Angleterre (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
 
