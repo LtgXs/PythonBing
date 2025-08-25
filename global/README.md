@@ -6,9 +6,9 @@
 ||*Copyright: Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)*
 ||
 |||
-|2025-08-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_JA-JP5485264478_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_JA-JP5485264478_UHD.jpg)|
-||*Copyright: イエローストーン国立公園, 米国 ワイオミング州 (© Rebecca L. Latson/Getty Images)*
+|2025-08-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TrulliHouses_JA-JP5521004094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_JA-JP5521004094_UHD.jpg)|
+||*Copyright: アルベロベッロ, イタリア (© Feng Wei Photography/Getty Images)*
 ||
 |||
 |2025-08-25|**Region: en-IN**||
