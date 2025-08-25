@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-08-25|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg)|
-||*Copyright: European fallow deer, England (© Enrique Aguirre Aves/Getty Images)*
+|2025-08-26|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg)|
+||*Copyright: Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)*
 ||
 |||
 |2025-08-25|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: イエローストーン国立公園, 米国 ワイオミング州 (© Rebecca L. Latson/Getty Images)*
 ||
 |||
-|2025-08-24|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CervusDama_EN-IN1330796053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_EN-IN1330796053_UHD.jpg)|
-||*Copyright: European fallow deer, England (© Enrique Aguirre Aves/Getty Images)*
+|2025-08-25|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-IN1865488770_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-IN1865488770_UHD.jpg)|
+||*Copyright: Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming, United States (© Rebecca L. Latson/Getty Images)*
 ||
 |||
-|2025-08-25|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Pepalantus_PT-BR6960217232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Pepalantus_PT-BR6960217232_UHD.jpg)|
-||*Copyright: Chuveirinhos ao nascer do sol na Chapada dos Veadeiros, Goiás (© Cavan Images/Getty Images)*
+|2025-08-26|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_PT-BR9693937277_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_PT-BR9693937277_UHD.jpg)|
+||*Copyright: Mirante de Calcite Springs e Rio Yellowstone, Parque Nacional de Yellowstone, Wyoming, EUA (© Rebecca L. Latson/Getty Images)*
 ||
 |||
-|2025-08-24|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CervusDama_FR-FR7245916785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_FR-FR7245916785_UHD.jpg)|
-||*Copyright: Daim européen, Angleterre (© Enrique Aguirre Aves/Getty Images)*
+|2025-08-25|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_FR-FR8460083088_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_FR-FR8460083088_UHD.jpg)|
+||*Copyright: Observatoire de Calcite Springs et rivière Yellowstone, parc national de Yellowstone, Wyoming, États-Unis (© Rebecca L. Latson/Getty Images)*
 ||
 |||
-|2025-08-24|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CervusDama_DE-DE7228900180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_DE-DE7228900180_UHD.jpg)|
-||*Copyright: Europäischer Damhirsch, England (© Enrique Aguirre Aves/Getty Images)*
+|2025-08-25|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_DE-DE2550082704_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_DE-DE2550082704_UHD.jpg)|
+||*Copyright: Aussichtspunkt Calcite Springs und Yellowstone River, Yellowstone-Nationalpark, Wyoming, USA (© Rebecca L. Latson/Getty Images)*
 ||
 |||
-|2025-08-25|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CervusDama_EN-CA1743001514_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_EN-CA1743001514_UHD.jpg)|
-||*Copyright: European fallow deer, England (© Enrique Aguirre Aves/Getty Images)*
+|2025-08-26|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.Gannets_EN-CA1938110347_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Gannets_EN-CA1938110347_UHD.jpg)|
+||*Copyright: Colony of northern gannets, Quebec (© Vladone/Getty Images)*
 ||
 |||
-|2025-08-24|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.NottingHillCarnival2025_EN-GB8998798603_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NottingHillCarnival2025_EN-GB8998798603_UHD.jpg)|
-||*Copyright: Notting Hill Carnival wall mural, London (© BRIAN ANTHONY/Alamy Stock Photo)*
+|2025-08-25|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-GB9172526741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-GB9172526741_UHD.jpg)|
+||*Copyright: Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming, United States (© Rebecca L. Latson/Getty Images)*
 ||
 |||
-|2025-08-24|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CervusDama_IT-IT0307979007_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_IT-IT0307979007_UHD.jpg)|
-||*Copyright: Daini, Inghilterra (© Enrique Aguirre Aves/Getty Images)*
+|2025-08-25|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_IT-IT7237441471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_IT-IT7237441471_UHD.jpg)|
+||*Copyright: Sorgenti di calcite e fiume Yellowstone, Parco Nazionale di Yellowstone, Wyoming, USA (© Rebecca L. Latson/Getty Images)*
 ||
 |||
-|2025-08-24|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CervusDama_ES-ES8412556845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_ES-ES8412556845_UHD.jpg)|
-||*Copyright: Gamo europeo, Inglaterra (© Enrique Aguirre Aves/Getty Images)*
+|2025-08-25|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_ES-ES8502138865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_ES-ES8502138865_UHD.jpg)|
+||*Copyright: Mirador de Calcite Springs y río Yellowstone, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© Rebecca L. Latson/Getty Images)*
 ||
 |||
-|2025-08-25|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CervusDama_FR-CA0373208041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CervusDama_FR-CA0373208041_UHD.jpg)|
-||*Copyright: Daim européen, Angleterre (© Enrique Aguirre Aves/Getty Images)*
+|2025-08-26|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.Gannets_FR-CA0668588396_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Gannets_FR-CA0668588396_UHD.jpg)|
+||*Copyright: Colonie de fous de Bassan, Québec (© Vladone/Getty Images)*
 ||
 |||
 
