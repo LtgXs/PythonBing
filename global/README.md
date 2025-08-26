@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-08-26|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg)|
-||*Copyright: Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)*
+|2025-08-27|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg)|
+||*Copyright: Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)*
 ||
 |||
 |2025-08-26|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アルベロベッロ, イタリア (© Feng Wei Photography/Getty Images)*
 ||
 |||
-|2025-08-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-IN1865488770_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-IN1865488770_UHD.jpg)|
-||*Copyright: Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming, United States (© Rebecca L. Latson/Getty Images)*
+|2025-08-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.FaroeLake_EN-IN3134235766_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_EN-IN3134235766_UHD.jpg)|
+||*Copyright: Sørvágsvatn lake, island of Vágar, Faroe Islands (© Anton Petrus/Getty Images)*
 ||
 |||
-|2025-08-26|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_PT-BR9693937277_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_PT-BR9693937277_UHD.jpg)|
-||*Copyright: Mirante de Calcite Springs e Rio Yellowstone, Parque Nacional de Yellowstone, Wyoming, EUA (© Rebecca L. Latson/Getty Images)*
+|2025-08-27|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TrulliHouses_PT-BR9475692206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_PT-BR9475692206_UHD.jpg)|
+||*Copyright: Casas trulli em Alberobello, Apúlia, Itália (© Feng Wei Photography/Getty Images)*
 ||
 |||
-|2025-08-25|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_FR-FR8460083088_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_FR-FR8460083088_UHD.jpg)|
-||*Copyright: Observatoire de Calcite Springs et rivière Yellowstone, parc national de Yellowstone, Wyoming, États-Unis (© Rebecca L. Latson/Getty Images)*
+|2025-08-26|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TrulliHouses_FR-FR8920368293_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_FR-FR8920368293_UHD.jpg)|
+||*Copyright: Les maisons trulli d’Alberobello, Pouilles, Italie (© Feng Wei Photography/Getty Images)*
 ||
 |||
-|2025-08-25|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_DE-DE2550082704_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_DE-DE2550082704_UHD.jpg)|
-||*Copyright: Aussichtspunkt Calcite Springs und Yellowstone River, Yellowstone-Nationalpark, Wyoming, USA (© Rebecca L. Latson/Getty Images)*
+|2025-08-26|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.KitesurferGermany_DE-DE6337370430_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KitesurferGermany_DE-DE6337370430_UHD.jpg)|
+||*Copyright: Silhouette eines springenden Kitesurfers bei Sonnenuntergang im baltischen Meer (© Jens Breuer/Getty Images)*
 ||
 |||
-|2025-08-26|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Gannets_EN-CA1938110347_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Gannets_EN-CA1938110347_UHD.jpg)|
-||*Copyright: Colony of northern gannets, Quebec (© Vladone/Getty Images)*
+|2025-08-27|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TrulliHouses_EN-CA2142617397_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_EN-CA2142617397_UHD.jpg)|
+||*Copyright: Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)*
 ||
 |||
-|2025-08-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-GB9172526741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-GB9172526741_UHD.jpg)|
-||*Copyright: Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming, United States (© Rebecca L. Latson/Getty Images)*
+|2025-08-26|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TrulliHouses_EN-GB9384999011_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_EN-GB9384999011_UHD.jpg)|
+||*Copyright: Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)*
 ||
 |||
-|2025-08-25|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_IT-IT7237441471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_IT-IT7237441471_UHD.jpg)|
-||*Copyright: Sorgenti di calcite e fiume Yellowstone, Parco Nazionale di Yellowstone, Wyoming, USA (© Rebecca L. Latson/Getty Images)*
+|2025-08-26|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.FaroeLake_IT-IT9674052822_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_IT-IT9674052822_UHD.jpg)|
+||*Copyright: Lago Sørvágsvatn, Isola di Vágar, Fær Øer (© Anton Petrus/Getty Images)*
 ||
 |||
-|2025-08-25|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_ES-ES8502138865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_ES-ES8502138865_UHD.jpg)|
-||*Copyright: Mirador de Calcite Springs y río Yellowstone, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© Rebecca L. Latson/Getty Images)*
+|2025-08-26|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TrulliHouses_ES-ES8633260965_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_ES-ES8633260965_UHD.jpg)|
+||*Copyright: Los trulli de Alberobello, Apulia, Italia (© Feng Wei Photography/Getty Images)*
 ||
 |||
-|2025-08-26|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Gannets_FR-CA0668588396_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Gannets_FR-CA0668588396_UHD.jpg)|
-||*Copyright: Colonie de fous de Bassan, Québec (© Vladone/Getty Images)*
+|2025-08-27|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TrulliHouses_FR-CA1043617057_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_FR-CA1043617057_UHD.jpg)|
+||*Copyright: Les maisons trulli d’Alberobello, Pouilles, Italie (© Feng Wei Photography/Getty Images)*
 ||
 |||
 
