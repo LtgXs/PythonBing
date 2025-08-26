@@ -6,9 +6,9 @@
 ||*Copyright: Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)*
 ||
 |||
-|2025-08-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TrulliHouses_JA-JP5521004094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_JA-JP5521004094_UHD.jpg)|
-||*Copyright: アルベロベッロ, イタリア (© Feng Wei Photography/Getty Images)*
+|2025-08-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FaroeLake_JA-JP5563873968_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_JA-JP5563873968_UHD.jpg)|
+||*Copyright: ソールヴァグスヴァトン湖, デンマーク (© Anton Petrus/Getty Images)*
 ||
 |||
 |2025-08-26|**Region: en-IN**||

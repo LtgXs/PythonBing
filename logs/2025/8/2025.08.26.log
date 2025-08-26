@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:32:35] Picture infomations saved to  global/fr-CA/README.md
 [09:32:35] Picture infomations saved to global/fr-CA/history/2025/08/27_fr-CA.md
 Program exit at 09:32:35
+
+Program started at 16:16:20
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmqc4gcfdwos
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:16:20] Start geting CN Bing Wallpaper
+[16:16:20] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg
+[16:16:21] Image saved to img/background.jpg
+[16:16:21] Info saved to README.md
+[16:16:21] Image saved to history/2025/08/27.md
+[16:16:21] Start geting global Bing Wallpaper, region=en-US, local time is 2025-08-26 12:16:21.015083-04:00
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg
+[16:16:21] Picture infomations saved to  global/en-US/README.md
+[16:16:21] Picture infomations saved to global/en-US/history/2025/08/27_en-US.md
+[16:16:21] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-08-27 01:16:21.170739+09:00
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_JA-JP5563873968_UHD.jpg
+[16:16:21] Picture infomations saved to  global/ja-JP/README.md
+[16:16:21] Picture infomations saved to global/ja-JP/history/2025/08/27_ja-JP.md
+[16:16:21] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-08-26 21:46:21.367434+05:30
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_EN-IN3134235766_UHD.jpg
+[16:16:21] Picture infomations saved to  global/en-IN/README.md
+[16:16:21] Picture infomations saved to global/en-IN/history/2025/08/26_en-IN.md
+[16:16:21] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-08-26 13:16:21.590479-03:00
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.TrulliHouses_PT-BR9475692206_UHD.jpg
+[16:16:21] Picture infomations saved to  global/pt-BR/README.md
+[16:16:21] Picture infomations saved to global/pt-BR/history/2025/08/27_pt-BR.md
+[16:16:21] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-08-26 18:16:21.760063+02:00
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.TrulliHouses_FR-FR8920368293_UHD.jpg
+[16:16:21] Picture infomations saved to  global/fr-FR/README.md
+[16:16:21] Picture infomations saved to global/fr-FR/history/2025/08/26_fr-FR.md
+[16:16:21] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-08-26 18:16:21.923921+02:00
+[16:16:21] Successful get url: https://www.bing.com/th?id=OHR.KitesurferGermany_DE-DE6337370430_UHD.jpg
+[16:16:22] Picture infomations saved to  global/de-DE/README.md
+[16:16:22] Picture infomations saved to global/de-DE/history/2025/08/26_de-DE.md
+[16:16:22] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-08-26 12:16:22.119068-04:00
+[16:16:22] Successful get url: https://www.bing.com/th?id=OHR.TrulliHouses_EN-CA2142617397_UHD.jpg
+[16:16:22] Picture infomations saved to  global/en-CA/README.md
+[16:16:22] Picture infomations saved to global/en-CA/history/2025/08/27_en-CA.md
+[16:16:22] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-08-26 17:16:22.266950+01:00
+[16:16:22] Successful get url: https://www.bing.com/th?id=OHR.TrulliHouses_EN-GB9384999011_UHD.jpg
+[16:16:22] Picture infomations saved to  global/en-GB/README.md
+[16:16:22] Picture infomations saved to global/en-GB/history/2025/08/26_en-GB.md
+[16:16:22] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-08-26 18:16:22.427799+02:00
+[16:16:22] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_IT-IT9674052822_UHD.jpg
+[16:16:22] Picture infomations saved to  global/it-IT/README.md
+[16:16:22] Picture infomations saved to global/it-IT/history/2025/08/26_it-IT.md
+[16:16:22] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-08-26 18:16:22.579041+02:00
+[16:16:22] Successful get url: https://www.bing.com/th?id=OHR.TrulliHouses_ES-ES8633260965_UHD.jpg
+[16:16:22] Picture infomations saved to  global/es-ES/README.md
+[16:16:22] Picture infomations saved to global/es-ES/history/2025/08/26_es-ES.md
+[16:16:22] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-08-26 12:16:22.734913-04:00
+[16:16:22] Successful get url: https://www.bing.com/th?id=OHR.TrulliHouses_FR-CA1043617057_UHD.jpg
+[16:16:22] Picture infomations saved to  global/fr-CA/README.md
+[16:16:22] Picture infomations saved to global/fr-CA/history/2025/08/27_fr-CA.md
+Program exit at 16:16:22
