@@ -6,9 +6,9 @@
 ||*Copyright: Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)*
 ||
 |||
-|2025-08-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FaroeLake_JA-JP5563873968_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_JA-JP5563873968_UHD.jpg)|
-||*Copyright: ソールヴァグスヴァトン湖, デンマーク (© Anton Petrus/Getty Images)*
+|2025-08-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WhiteEgret_JA-JP5628214526_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteEgret_JA-JP5628214526_UHD.jpg)|
+||*Copyright: ダイサギ, ハンガリー  (© Markus Varesvuo/Nature Picture Library)*
 ||
 |||
 |2025-08-27|**Region: en-IN**||
