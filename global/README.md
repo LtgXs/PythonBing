@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-08-27|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg)|
-||*Copyright: Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)*
+|2025-08-28|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg)|
+||*Copyright: Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)*
 ||
 |||
 |2025-08-27|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ソールヴァグスヴァトン湖, デンマーク (© Anton Petrus/Getty Images)*
 ||
 |||
-|2025-08-26|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FaroeLake_EN-IN3134235766_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_EN-IN3134235766_UHD.jpg)|
+|2025-08-27|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ClayGanesha_EN-IN3970807588_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ClayGanesha_EN-IN3970807588_UHD.jpg)|
+||*Copyright: Clay-idol of Ganesha at a temple near Bengaluru (© Amith Nag Photography/Getty Images)*
+||
+|||
+|2025-08-28|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.FaroeLake_PT-BR9196671345_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_PT-BR9196671345_UHD.jpg)|
+||*Copyright: Lago Sørvágsvatn, ilha de Vágar, Ilhas Faroe, Dinamarca (© Anton Petrus/Getty Images)*
+||
+|||
+|2025-08-27|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.FaroeLake_FR-FR9783963301_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_FR-FR9783963301_UHD.jpg)|
+||*Copyright: Lac Sørvágsvatn, île de Vágar, Îles Féroé (© Anton Petrus/Getty Images)*
+||
+|||
+|2025-08-27|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.FaroeLake_DE-DE3217982226_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_DE-DE3217982226_UHD.jpg)|
+||*Copyright: Sørvágsvatn-See, Insel Vágar, Färöer-Inseln (© Anton Petrus/Getty Images)*
+||
+|||
+|2025-08-28|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.FaroeLake_EN-CA2287447037_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_EN-CA2287447037_UHD.jpg)|
 ||*Copyright: Sørvágsvatn lake, island of Vágar, Faroe Islands (© Anton Petrus/Getty Images)*
 ||
 |||
-|2025-08-27|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TrulliHouses_PT-BR9475692206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_PT-BR9475692206_UHD.jpg)|
-||*Copyright: Casas trulli em Alberobello, Apúlia, Itália (© Feng Wei Photography/Getty Images)*
+|2025-08-27|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.FaroeLake_EN-GB9601686603_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_EN-GB9601686603_UHD.jpg)|
+||*Copyright: Sørvágsvatn lake, island of Vágar, Faroe Islands (© Anton Petrus/Getty Images)*
 ||
 |||
-|2025-08-26|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TrulliHouses_FR-FR8920368293_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_FR-FR8920368293_UHD.jpg)|
-||*Copyright: Les maisons trulli d’Alberobello, Pouilles, Italie (© Feng Wei Photography/Getty Images)*
+|2025-08-27|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.FestivalVenezia_IT-IT9738242817_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FestivalVenezia_IT-IT9738242817_UHD.jpg)|
+||*Copyright: Vista aerea delle case colorate dell'isola di Burano, Laguna di Venezia, Veneto (© Pol Albarrán/Moment)*
 ||
 |||
-|2025-08-26|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.KitesurferGermany_DE-DE6337370430_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KitesurferGermany_DE-DE6337370430_UHD.jpg)|
-||*Copyright: Silhouette eines springenden Kitesurfers bei Sonnenuntergang im baltischen Meer (© Jens Breuer/Getty Images)*
+|2025-08-27|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FaroeLake_ES-ES8719950614_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_ES-ES8719950614_UHD.jpg)|
+||*Copyright: Lago Sørvágsvatn, Isla de Vágar, Islas Feroe, Reino de Dinamarca (© Anton Petrus/Getty Images)*
 ||
 |||
-|2025-08-27|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TrulliHouses_EN-CA2142617397_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_EN-CA2142617397_UHD.jpg)|
-||*Copyright: Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)*
-||
-|||
-|2025-08-26|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TrulliHouses_EN-GB9384999011_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_EN-GB9384999011_UHD.jpg)|
-||*Copyright: Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)*
-||
-|||
-|2025-08-26|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FaroeLake_IT-IT9674052822_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_IT-IT9674052822_UHD.jpg)|
-||*Copyright: Lago Sørvágsvatn, Isola di Vágar, Fær Øer (© Anton Petrus/Getty Images)*
-||
-|||
-|2025-08-26|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TrulliHouses_ES-ES8633260965_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_ES-ES8633260965_UHD.jpg)|
-||*Copyright: Los trulli de Alberobello, Apulia, Italia (© Feng Wei Photography/Getty Images)*
-||
-|||
-|2025-08-27|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TrulliHouses_FR-CA1043617057_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_FR-CA1043617057_UHD.jpg)|
-||*Copyright: Les maisons trulli d’Alberobello, Pouilles, Italie (© Feng Wei Photography/Getty Images)*
+|2025-08-28|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.FaroeLake_FR-CA0076733437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaroeLake_FR-CA0076733437_UHD.jpg)|
+||*Copyright: Lac Sørvágsvatn, île de Vágar, Îles Féroé (© Anton Petrus/Getty Images)*
 ||
 |||
 

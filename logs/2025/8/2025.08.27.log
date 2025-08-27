@@ -1,0 +1,60 @@
+
+Program started at 09:30:17
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: pkrvmqc4gcfdwos
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:30:17] Start geting CN Bing Wallpaper
+[09:30:17] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg
+[09:30:17] Image saved to img/background.jpg
+[09:30:17] Info saved to README.md
+[09:30:17] Image saved to history/2025/08/27.md
+[09:30:17] Start geting global Bing Wallpaper, region=en-US, local time is 2025-08-27 05:30:17.526979-04:00
+[09:30:17] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg
+[09:30:17] Picture infomations saved to  global/en-US/README.md
+[09:30:17] Picture infomations saved to global/en-US/history/2025/08/28_en-US.md
+[09:30:17] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-08-27 18:30:17.663567+09:00
+[09:30:17] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_JA-JP5563873968_UHD.jpg
+[09:30:17] Picture infomations saved to  global/ja-JP/README.md
+[09:30:17] Picture infomations saved to global/ja-JP/history/2025/08/27_ja-JP.md
+[09:30:17] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-08-27 15:00:17.898288+05:30
+[09:30:17] Successful get url: https://www.bing.com/th?id=OHR.ClayGanesha_EN-IN3970807588_UHD.jpg
+[09:30:18] Picture infomations saved to  global/en-IN/README.md
+[09:30:18] Picture infomations saved to global/en-IN/history/2025/08/27_en-IN.md
+[09:30:18] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-08-27 06:30:18.101871-03:00
+[09:30:18] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_PT-BR9196671345_UHD.jpg
+[09:30:18] Picture infomations saved to  global/pt-BR/README.md
+[09:30:18] Picture infomations saved to global/pt-BR/history/2025/08/28_pt-BR.md
+[09:30:18] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-08-27 11:30:18.232827+02:00
+[09:30:18] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_FR-FR9783963301_UHD.jpg
+[09:30:18] Picture infomations saved to  global/fr-FR/README.md
+[09:30:18] Picture infomations saved to global/fr-FR/history/2025/08/27_fr-FR.md
+[09:30:18] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-08-27 11:30:18.397766+02:00
+[09:30:18] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_DE-DE3217982226_UHD.jpg
+[09:30:18] Picture infomations saved to  global/de-DE/README.md
+[09:30:18] Picture infomations saved to global/de-DE/history/2025/08/27_de-DE.md
+[09:30:18] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-08-27 05:30:18.554558-04:00
+[09:30:18] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_EN-CA2287447037_UHD.jpg
+[09:30:18] Picture infomations saved to  global/en-CA/README.md
+[09:30:18] Picture infomations saved to global/en-CA/history/2025/08/28_en-CA.md
+[09:30:18] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-08-27 10:30:18.678821+01:00
+[09:30:18] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_EN-GB9601686603_UHD.jpg
+[09:30:18] Picture infomations saved to  global/en-GB/README.md
+[09:30:18] Picture infomations saved to global/en-GB/history/2025/08/27_en-GB.md
+[09:30:18] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-08-27 11:30:18.958797+02:00
+[09:30:19] Successful get url: https://www.bing.com/th?id=OHR.FestivalVenezia_IT-IT9738242817_UHD.jpg
+[09:30:19] Picture infomations saved to  global/it-IT/README.md
+[09:30:19] Picture infomations saved to global/it-IT/history/2025/08/27_it-IT.md
+[09:30:19] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-08-27 11:30:19.082818+02:00
+[09:30:19] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_ES-ES8719950614_UHD.jpg
+[09:30:19] Picture infomations saved to  global/es-ES/README.md
+[09:30:19] Picture infomations saved to global/es-ES/history/2025/08/27_es-ES.md
+[09:30:19] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-08-27 05:30:19.246584-04:00
+[09:30:19] Successful get url: https://www.bing.com/th?id=OHR.FaroeLake_FR-CA0076733437_UHD.jpg
+[09:30:19] Picture infomations saved to  global/fr-CA/README.md
+[09:30:19] Picture infomations saved to global/fr-CA/history/2025/08/28_fr-CA.md
+Program exit at 09:30:19
