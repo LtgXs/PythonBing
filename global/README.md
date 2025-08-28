@@ -6,9 +6,9 @@
 ||*Copyright: Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)*
 ||
 |||
-|2025-08-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WhiteEgret_JA-JP5628214526_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteEgret_JA-JP5628214526_UHD.jpg)|
-||*Copyright: ダイサギ, ハンガリー  (© Markus Varesvuo/Nature Picture Library)*
+|2025-08-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PlazaMayor_JA-JP5661212297_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlazaMayor_JA-JP5661212297_UHD.jpg)|
+||*Copyright: マヨール広場, スペイン (© AirPano LLC/Amazing Aerial Agency)*
 ||
 |||
 |2025-08-28|**Region: en-IN**||
