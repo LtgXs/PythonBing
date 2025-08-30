@@ -6,9 +6,9 @@
 ||*Copyright: Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)*
 ||
 |||
-|2025-08-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OmagariFireworks2025_JA-JP5692415884_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OmagariFireworks2025_JA-JP5692415884_UHD.jpg)|
-||*Copyright: 全国花火競技大会, 秋田県, 大仙市 (© Toru Hanai/寄稿者/Getty Images)*
+|2025-08-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ScottsBluff_JA-JP5785584590_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottsBluff_JA-JP5785584590_UHD.jpg)|
+||*Copyright: スコッツブラフ国定記念物, 米国 ネブラスカ州 (© Hawk Buckman/Getty Images)*
 ||
 |||
 |2025-08-30|**Region: en-IN**||
