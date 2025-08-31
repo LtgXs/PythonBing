@@ -6,9 +6,9 @@
 ||*Copyright: Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)*
 ||
 |||
-|2025-08-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ScottsBluff_JA-JP5785584590_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottsBluff_JA-JP5785584590_UHD.jpg)|
-||*Copyright: スコッツブラフ国定記念物, 米国 ネブラスカ州 (© Hawk Buckman/Getty Images)*
+|2025-09-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SaintBarbaras_JA-JP5804029970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_JA-JP5804029970_UHD.jpg)|
+||*Copyright: 聖バルボラ教会, チェコ共和国 (© Castka/Getty Images)*
 ||
 |||
 |2025-08-31|**Region: en-IN**||
