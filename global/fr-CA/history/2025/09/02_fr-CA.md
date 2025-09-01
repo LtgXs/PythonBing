@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-09-02
+## History Bing Wallpaper
+Wallpaper date: 2025-09-02
 ![](https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-CA2747659631_UHD.jpg&w=1000)Download: [Zone sauvage des Boundary Waters Canoe Area, Minnesota, États-Unis (© s.tomas/Shutterstock)](https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-CA2747659631_UHD.jpg)
 
 Auto get programm by LtgX
