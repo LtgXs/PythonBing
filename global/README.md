@@ -6,9 +6,9 @@
 ||*Copyright: Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)*
 ||
 |||
-|2025-09-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SaintBarbaras_JA-JP5804029970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaintBarbaras_JA-JP5804029970_UHD.jpg)|
-||*Copyright: 聖バルボラ教会, チェコ共和国 (© Castka/Getty Images)*
+|2025-09-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DeadvleiTrees_JA-JP5847596989_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeadvleiTrees_JA-JP5847596989_UHD.jpg)|
+||*Copyright: ナミブ＝ナウクルフト国立公園, ナミビア (© Inge Johnsson/Alamy)*
 ||
 |||
 |2025-09-01|**Region: en-IN**||
