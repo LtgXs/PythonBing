@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-09-02|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg)|
-||*Copyright: Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)*
+|2025-09-03|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg)|
+||*Copyright: Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)*
 ||
 |||
 |2025-09-02|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ナミブ＝ナウクルフト国立公園, ナミビア (© Inge Johnsson/Alamy)*
 ||
 |||
-|2025-09-01|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PerseidsPine_EN-IN9650707879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidsPine_EN-IN9650707879_UHD.jpg)|
-||*Copyright: An ancient bristlecone pine, Great Basin National Park, Nevada, United States (© Wirestock Creators/Shutterstock)*
+|2025-09-02|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-IN4217239314_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-IN4217239314_UHD.jpg)|
+||*Copyright: Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy Stock Photo)*
 ||
 |||
-|2025-09-02|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PalouseWA_PT-BR8269290462_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalouseWA_PT-BR8269290462_UHD.jpg)|
-||*Copyright: Colinas onduladas de Palouse, Washington, EUA (© svetlana57/Getty Images)*
+|2025-09-03|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DeadvleiTrees_PT-BR2241595565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeadvleiTrees_PT-BR2241595565_UHD.jpg)|
+||*Copyright: Árvores espinho-de-camelo, Deadvlei, Parque Namib-Naukluft, Namíbia (© Inge Johnsson/Alamy Stock Photo)*
 ||
 |||
-|2025-09-01|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-FR7608099826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-FR7608099826_UHD.jpg)|
-||*Copyright: Zone sauvage des Boundary Waters Canoe Area, Minnesota, États-Unis (© s.tomas/Shutterstock)*
+|2025-09-02|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.DeadvleiTrees_FR-FR9220930229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeadvleiTrees_FR-FR9220930229_UHD.jpg)|
+||*Copyright: Acacias à girafe, Deadvlei, parc Namib-Naukluft, Namibie (© Inge Johnsson/Alamy)*
 ||
 |||
-|2025-09-01|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TrulliHouses_DE-DE2753356790_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_DE-DE2753356790_UHD.jpg)|
-||*Copyright: Trulli in Alberobello, Apulien, Italien (© Feng Wei Photography/Getty Images)*
+|2025-09-02|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.DeadvleiTrees_DE-DE6613331232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeadvleiTrees_DE-DE6613331232_UHD.jpg)|
+||*Copyright: Kameldornbäume, Deadvlei, Namib-Naukluft-Park, Namibia (© Inge Johnsson/Alamy)*
 ||
 |||
-|2025-09-02|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-CA9627036432_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-CA9627036432_UHD.jpg)|
-||*Copyright: Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)*
+|2025-09-03|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-CA3439734849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-CA3439734849_UHD.jpg)|
+||*Copyright: Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy Stock Photo)*
 ||
 |||
-|2025-09-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_UHD.jpg)|
-||*Copyright: Rock layers in Zumaia, Basque Country, Spain (© Eloi_Omella/Getty Images)*
+|2025-09-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-GB0679166785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-GB0679166785_UHD.jpg)|
+||*Copyright: Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy Stock Photo)*
 ||
 |||
-|2025-09-01|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TrulliHouses_IT-IT0120917493_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrulliHouses_IT-IT0120917493_UHD.jpg)|
-||*Copyright: Trulli ad Alberobello, Bari, Puglia (© Feng Wei Photography/Getty Images)*
+|2025-09-02|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DeadvleiTrees_IT-IT9675346789_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeadvleiTrees_IT-IT9675346789_UHD.jpg)|
+||*Copyright: Acacie delle giraffe, Deadvlei, Parco Namib-Naukluft, Namibia (© Inge Johnsson/Alamy Stock Photo)*
 ||
 |||
-|2025-09-01|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ScottsBluff_ES-ES9472248274_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ScottsBluff_ES-ES9472248274_UHD.jpg)|
-||*Copyright: Monumento Nacional Scotts Bluff en Gering, Nebraska, EE. UU. (© Hawk Buckman/Getty Images)*
+|2025-09-02|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.DeadvleiTrees_ES-ES0322345638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeadvleiTrees_ES-ES0322345638_UHD.jpg)|
+||*Copyright: Árboles espina de camello, Deadvlei, Parque Namib-Naukluft, Namibia (© Inge Johnsson/Alamy)*
 ||
 |||
-|2025-09-02|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-CA2747659631_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-CA2747659631_UHD.jpg)|
-||*Copyright: Zone sauvage des Boundary Waters Canoe Area, Minnesota, États-Unis (© s.tomas/Shutterstock)*
+|2025-09-03|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.DeadvleiTrees_FR-CA3437510349_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeadvleiTrees_FR-CA3437510349_UHD.jpg)|
+||*Copyright: Acacias à girafe, Deadvlei, parc Namib-Naukluft, Namibie (© Inge Johnsson/Alamy)*
 ||
 |||
 
