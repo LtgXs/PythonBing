@@ -6,9 +6,9 @@
 ||*Copyright: Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)*
 ||
 |||
-|2025-09-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DeadvleiTrees_JA-JP5847596989_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeadvleiTrees_JA-JP5847596989_UHD.jpg)|
-||*Copyright: ナミブ＝ナウクルフト国立公園, ナミビア (© Inge Johnsson/Alamy)*
+|2025-09-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MinnesotaWaters_JA-JP5876109313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaWaters_JA-JP5876109313_UHD.jpg)|
+||*Copyright: バウンダリー・ウォーターズ・カヌー・エリア・ウィルダネス, 米国 ミネソタ州 (© s.tomas/Shutterstock)*
 ||
 |||
 |2025-09-02|**Region: en-IN**||
