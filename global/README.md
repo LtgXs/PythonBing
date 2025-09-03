@@ -6,9 +6,9 @@
 ||*Copyright: Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)*
 ||
 |||
-|2025-09-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MinnesotaWaters_JA-JP5876109313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MinnesotaWaters_JA-JP5876109313_UHD.jpg)|
-||*Copyright: バウンダリー・ウォーターズ・カヌー・エリア・ウィルダネス, 米国 ミネソタ州 (© s.tomas/Shutterstock)*
+|2025-09-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YohoNP_JA-JP5965096200_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YohoNP_JA-JP5965096200_UHD.jpg)|
+||*Copyright: ヨーホー国立公園, カナダ (© Feng Wei Photography/Getty Images)*
 ||
 |||
 |2025-09-03|**Region: en-IN**||
