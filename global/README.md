@@ -6,9 +6,9 @@
 ||*Copyright: Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)*
 ||
 |||
-|2025-09-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YohoNP_JA-JP5965096200_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YohoNP_JA-JP5965096200_UHD.jpg)|
-||*Copyright: ヨーホー国立公園, カナダ (© Feng Wei Photography/Getty Images)*
+|2025-09-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SunsetPier_JA-JP6277978338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPier_JA-JP6277978338_UHD.jpg)|
+||*Copyright: パシフィック・パーク, 米国 カリフォルニア州 (© EXTREME-PHOTOGRAPHER/Getty Images)*
 ||
 |||
 |2025-09-04|**Region: en-IN**||
