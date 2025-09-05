@@ -6,9 +6,9 @@
 ||*Copyright: Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)*
 ||
 |||
-|2025-09-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SunsetPier_JA-JP6277978338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPier_JA-JP6277978338_UHD.jpg)|
-||*Copyright: パシフィック・パーク, 米国 カリフォルニア州 (© EXTREME-PHOTOGRAPHER/Getty Images)*
+|2025-09-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RufousHummer_JA-JP7090993703_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RufousHummer_JA-JP7090993703_UHD.jpg)|
+||*Copyright: アカフトオハチドリ, 米国 カリフォルニア州 (© jeremyborkat/Getty Images)*
 ||
 |||
 |2025-09-05|**Region: en-IN**||
