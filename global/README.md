@@ -6,9 +6,9 @@
 ||*Copyright: Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)*
 ||
 |||
-|2025-09-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RufousHummer_JA-JP7090993703_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RufousHummer_JA-JP7090993703_UHD.jpg)|
-||*Copyright: アカフトオハチドリ, 米国 カリフォルニア州 (© jeremyborkat/Getty Images)*
+|2025-09-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BlueGdansk_JA-JP0907344323_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueGdansk_JA-JP0907344323_UHD.jpg)|
+||*Copyright: グダニスク, ポーランド (© Oscar Dominguez/TANDEM Stills + Motion)*
 ||
 |||
 |2025-09-06|**Region: en-IN**||
