@@ -6,9 +6,9 @@
 ||*Copyright: Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)*
 ||
 |||
-|2025-09-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BlueGdansk_JA-JP0907344323_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueGdansk_JA-JP0907344323_UHD.jpg)|
-||*Copyright: グダニスク, ポーランド (© Oscar Dominguez/TANDEM Stills + Motion)*
+|2025-09-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OrchardLibrary_JA-JP1251489199_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrchardLibrary_JA-JP1251489199_UHD.jpg)|
+||*Copyright: ライブラリー＠オーチャード, シンガポール (© Darwin Fan/Getty Images)*
 ||
 |||
 |2025-09-07|**Region: en-IN**||
