@@ -6,9 +6,9 @@
 ||*Copyright: Library@orchard, Singapore (© Darwin Fan/Getty Images)*
 ||
 |||
-|2025-09-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OrchardLibrary_JA-JP1251489199_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrchardLibrary_JA-JP1251489199_UHD.jpg)|
-||*Copyright: ライブラリー＠オーチャード, シンガポール (© Darwin Fan/Getty Images)*
+|2025-09-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SwissSquirrel_JA-JP3789357030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwissSquirrel_JA-JP3789357030_UHD.jpg)|
+||*Copyright: 苔を運ぶキタリス, スイス (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
 ||
 |||
 |2025-09-08|**Region: en-IN**||
