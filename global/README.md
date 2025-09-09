@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-09-09|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg)|
-||*Copyright: Library@orchard, Singapore (© Darwin Fan/Getty Images)*
+|2025-09-10|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_UHD.jpg)|
+||*Copyright: A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
 ||
 |||
 |2025-09-09|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 苔を運ぶキタリス, スイス (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
 ||
 |||
-|2025-09-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.OrchardLibrary_EN-IN9883780906_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrchardLibrary_EN-IN9883780906_UHD.jpg)|
-||*Copyright: Library@orchard, Singapore (© Darwin Fan/Getty Images)*
+|2025-09-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SwissSquirrel_EN-IN0066763187_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwissSquirrel_EN-IN0066763187_UHD.jpg)|
+||*Copyright: A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
 ||
 |||
-|2025-09-09|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.OrchardLibrary_PT-BR6559924297_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrchardLibrary_PT-BR6559924297_UHD.jpg)|
-||*Copyright: Library@orchard, Singapura (© Darwin Fan/Getty Images)*
+|2025-09-10|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SwissSquirrel_PT-BR6801984629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwissSquirrel_PT-BR6801984629_UHD.jpg)|
+||*Copyright: Fêmea de esquilo-vermelho-eurasiático carregando musgo, Suíça (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
 ||
 |||
-|2025-09-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.OrchardLibrary_FR-FR3660186396_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrchardLibrary_FR-FR3660186396_UHD.jpg)|
-||*Copyright: Bibliothèque library@orchard, Singapour (© Darwin Fan/Getty Images)*
+|2025-09-09|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_UHD.jpg)|
+||*Copyright: Femelle écureuil roux avec de la mousse, Suisse (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
 ||
 |||
-|2025-09-08|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.OrchardLibrary_DE-DE1336292524_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrchardLibrary_DE-DE1336292524_UHD.jpg)|
-||*Copyright: library@orchard, Singapur (© Darwin Fan/Getty Images)*
+|2025-09-09|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SwissSquirrel_DE-DE3902212654_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwissSquirrel_DE-DE3902212654_UHD.jpg)|
+||*Copyright: Ein Eurasisches Eichhörnchen trägt Moos, Schweiz (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
 ||
 |||
-|2025-09-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.OrchardLibrary_EN-CA5905828145_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrchardLibrary_EN-CA5905828145_UHD.jpg)|
-||*Copyright: Library@orchard, Singapore (© Darwin Fan/Getty Images)*
+|2025-09-10|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SwissSquirrel_EN-CA6118791565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwissSquirrel_EN-CA6118791565_UHD.jpg)|
+||*Copyright: A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
 ||
 |||
-|2025-09-08|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.OrchardLibrary_EN-GB8853232632_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrchardLibrary_EN-GB8853232632_UHD.jpg)|
-||*Copyright: Library@orchard, Singapore (© Darwin Fan/Getty Images)*
+|2025-09-09|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SwissSquirrel_EN-GB9077607879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwissSquirrel_EN-GB9077607879_UHD.jpg)|
+||*Copyright: A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
 ||
 |||
-|2025-09-08|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OrchardLibrary_IT-IT9071511638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrchardLibrary_IT-IT9071511638_UHD.jpg)|
-||*Copyright: library@orchard, Singapore (© Darwin Fan/Getty Images)*
+|2025-09-09|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DunquinIreland_IT-IT9116681695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_IT-IT9116681695_UHD.jpg)|
+||*Copyright: Scala a chiocciola del molo di Dún Chaoin, Contea di Kerry, Irlanda (© Hugh O'Connor/Getty Images)*
 ||
 |||
-|2025-09-08|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LaJayaAsturiasDay_ES-ES0574508384_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LaJayaAsturiasDay_ES-ES0574508384_UHD.jpg)|
-||*Copyright: Puente de la Jaya, Rio Cares, Picos de Europa, Asturias, España (© Joana Kruse/Alamy Images)*
+|2025-09-09|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SwissSquirrel_ES-ES7836274977_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwissSquirrel_ES-ES7836274977_UHD.jpg)|
+||*Copyright: Una ardilla roja euroasiática hembra que lleva musgo, Suiza (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
 ||
 |||
-|2025-09-09|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.OrchardLibrary_FR-CA9778304920_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OrchardLibrary_FR-CA9778304920_UHD.jpg)|
-||*Copyright: Bibliothèque library@orchard, Singapour (© Darwin Fan/Getty Images)*
+|2025-09-10|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SwissSquirrel_FR-CA9311123273_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwissSquirrel_FR-CA9311123273_UHD.jpg)|
+||*Copyright: Femelle écureuil roux avec de la mousse, Suisse (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
 ||
 |||
 
