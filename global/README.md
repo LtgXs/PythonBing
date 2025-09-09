@@ -6,9 +6,9 @@
 ||*Copyright: A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
 ||
 |||
-|2025-09-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SwissSquirrel_JA-JP3789357030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwissSquirrel_JA-JP3789357030_UHD.jpg)|
-||*Copyright: 苔を運ぶキタリス, スイス (© Jean-Luc and Francoise Ziegler/Minden Pictures)*
+|2025-09-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YorkshireHay_JA-JP4491584308_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YorkshireHay_JA-JP4491584308_UHD.jpg)|
+||*Copyright: ヨークの農場, イングランド (© Nick Brundle Photography/Getty Images)*
 ||
 |||
 |2025-09-09|**Region: en-IN**||
