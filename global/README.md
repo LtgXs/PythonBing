@@ -6,9 +6,9 @@
 ||*Copyright: Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2025-09-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YorkshireHay_JA-JP4491584308_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YorkshireHay_JA-JP4491584308_UHD.jpg)|
-||*Copyright: ヨークの農場, イングランド (© Nick Brundle Photography/Getty Images)*
+|2025-09-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ExtremaduraJamon_JA-JP6016561282_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExtremaduraJamon_JA-JP6016561282_UHD.jpg)|
+||*Copyright: モンフラグエ国立公園にあるペニャ・ファルコン岩, スペイン (© Daniel Viñé Garcia/Getty Images)*
 ||
 |||
 |2025-09-10|**Region: en-IN**||
