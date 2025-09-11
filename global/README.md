@@ -6,9 +6,9 @@
 ||*Copyright: Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)*
 ||
 |||
-|2025-09-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ExtremaduraJamon_JA-JP6016561282_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExtremaduraJamon_JA-JP6016561282_UHD.jpg)|
-||*Copyright: モンフラグエ国立公園にあるペニャ・ファルコン岩, スペイン (© Daniel Viñé Garcia/Getty Images)*
+|2025-09-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SpaceDay2025_JA-JP8112086826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceDay2025_JA-JP8112086826_UHD.jpg)|
+||*Copyright: 種子島宇宙センター, 鹿児島県 (© norinori303/Adobe Stock)*
 ||
 |||
 |2025-09-11|**Region: en-IN**||
