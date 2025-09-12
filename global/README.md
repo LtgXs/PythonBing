@@ -6,9 +6,9 @@
 ||*Copyright: Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)*
 ||
 |||
-|2025-09-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SpaceDay2025_JA-JP8112086826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceDay2025_JA-JP8112086826_UHD.jpg)|
-||*Copyright: 種子島宇宙センター, 鹿児島県 (© norinori303/Adobe Stock)*
+|2025-09-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PointReyesSeashore_JA-JP7685899201_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyesSeashore_JA-JP7685899201_UHD.jpg)|
+||*Copyright: ポイント・レイズ国定海岸, 米国 カリフォルニア州 (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
 |2025-09-12|**Region: en-IN**||
