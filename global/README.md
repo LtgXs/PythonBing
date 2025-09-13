@@ -6,9 +6,9 @@
 ||*Copyright: Chimney Rock, Point Reyes National Seashore, California (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-09-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PointReyesSeashore_JA-JP7685899201_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyesSeashore_JA-JP7685899201_UHD.jpg)|
-||*Copyright: ポイント・レイズ国定海岸, 米国 カリフォルニア州 (© Enrique Aguirre Aves/Getty Images)*
+|2025-09-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HohWaterfall_JA-JP8707934931_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HohWaterfall_JA-JP8707934931_UHD.jpg)|
+||*Copyright: オリンピック国立公園, 米国 ワシントン州 (© Chris Moore/TANDEM Stills + Motion)*
 ||
 |||
 |2025-09-13|**Region: en-IN**||
