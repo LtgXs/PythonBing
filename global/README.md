@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-09-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg)|
-||*Copyright: Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)*
+|2025-09-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-US8949381326_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-US8949381326_UHD.jpg)|
+||*Copyright: Chimney Rock, Point Reyes National Seashore, California (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
 |2025-09-13|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ポイント・レイズ国定海岸, 米国 カリフォルニア州 (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-09-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-IN0873508505_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-IN0873508505_UHD.jpg)|
-||*Copyright: Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)*
+|2025-09-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-IN1229615007_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-IN1229615007_UHD.jpg)|
+||*Copyright: Chimney Rock, Point Reyes National Seashore, California, United States (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-09-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SpinnerDolphins_PT-BR7075724083_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpinnerDolphins_PT-BR7075724083_UHD.jpg)|
-||*Copyright: Grupo de golfinhos-rotadores no Mar Vermelho, Marsa Alam, Egito (© Franco Banfi/Nature Picture Library)*
+|2025-09-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PointReyesSeashore_PT-BR6646395434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyesSeashore_PT-BR6646395434_UHD.jpg)|
+||*Copyright: Chimney Rock, Point Reyes National Seashore, Califórnia, EUA (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-09-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SpinnerDolphins_FR-FR4369584175_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpinnerDolphins_FR-FR4369584175_UHD.jpg)|
-||*Copyright: Groupe de dauphins à long bec dans la mer Rouge, Marsa Alam, Égypte (© Franco Banfi/Nature Picture Library)*
+|2025-09-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PointReyesSeashore_FR-FR5791711233_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyesSeashore_FR-FR5791711233_UHD.jpg)|
+||*Copyright: Chimney Rock, Point Reyes National Seashore, Californie, États-Unis (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-09-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SpinnerDolphins_DE-DE4891196756_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpinnerDolphins_DE-DE4891196756_UHD.jpg)|
-||*Copyright: Gruppe von Spinnerdelfinen im Roten Meer bei Marsa Alam, Ägypten (© Franco Banfi/Nature Picture Library)*
+|2025-09-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PointReyesSeashore_DE-DE5164774211_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyesSeashore_DE-DE5164774211_UHD.jpg)|
+||*Copyright: Chimney Rock, Point Reyes National Seashore, Kalifornien, USA (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-09-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-CA6671326546_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-CA6671326546_UHD.jpg)|
-||*Copyright: Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)*
+|2025-09-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-CA6892620661_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-CA6892620661_UHD.jpg)|
+||*Copyright: Chimney Rock, Point Reyes National Seashore, California, United States (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-09-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-GB1386231173_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-GB1386231173_UHD.jpg)|
-||*Copyright: Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)*
+|2025-09-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PromsNight2025_EN-GB2154998430_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PromsNight2025_EN-GB2154998430_UHD.jpg)|
+||*Copyright: Royal Albert Hall, South Kensington, London (© Gonzalo Azumendi/Stone/Getty Images)*
 ||
 |||
-|2025-09-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SpinnerDolphins_IT-IT5393623378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpinnerDolphins_IT-IT5393623378_UHD.jpg)|
-||*Copyright: Branco di delfini stenella striata nel Mar Rosso, Marsa Alam, Egitto (© Franco Banfi/Nature Picture Library)*
+|2025-09-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PointReyesSeashore_IT-IT5474043109_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyesSeashore_IT-IT5474043109_UHD.jpg)|
+||*Copyright: Chimney Rock, Point Reyes National Seashore, California, USA (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-09-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SpinnerDolphins_ES-ES8128013547_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpinnerDolphins_ES-ES8128013547_UHD.jpg)|
-||*Copyright: Manada de delfines giradores en el Mar Rojo, Marsa Alam, Egipto (© Franco Banfi/Nature Picture Library)*
+|2025-09-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PointReyesSeashore_ES-ES8209669177_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyesSeashore_ES-ES8209669177_UHD.jpg)|
+||*Copyright: Chimney Rock, Costa Nacional de Point Reyes, California, EE. UU. (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
-|2025-09-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SpinnerDolphins_FR-CA8668368271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpinnerDolphins_FR-CA8668368271_UHD.jpg)|
-||*Copyright: Groupe de dauphins à long bec dans la mer Rouge, Marsa Alam, Égypte (© Franco Banfi/Nature Picture Library)*
+|2025-09-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PointReyesSeashore_FR-CA7871532058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyesSeashore_FR-CA7871532058_UHD.jpg)|
+||*Copyright: Chimney Rock, Point Reyes National Seashore, Californie, États-Unis (© Enrique Aguirre Aves/Getty Images)*
 ||
 |||
 
