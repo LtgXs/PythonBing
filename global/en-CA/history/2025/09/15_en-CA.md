@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-09-15
+## History Bing Wallpaper
+Wallpaper date: 2025-09-15
 ![](https://www.bing.com/th?id=OHR.HohWaterfall_EN-CA7082475802_UHD.jpg&w=1000)Download: [A waterfall in Olympic National Park, Washington, United States (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.HohWaterfall_EN-CA7082475802_UHD.jpg)
 
 Auto get programm by LtgX
