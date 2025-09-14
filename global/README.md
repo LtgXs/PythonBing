@@ -6,9 +6,9 @@
 ||*Copyright: A waterfall in Olympic National Park, Washington (© Chris Moore/TANDEM Stills + Motion)*
 ||
 |||
-|2025-09-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HohWaterfall_JA-JP8707934931_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HohWaterfall_JA-JP8707934931_UHD.jpg)|
-||*Copyright: オリンピック国立公園, 米国 ワシントン州 (© Chris Moore/TANDEM Stills + Motion)*
+|2025-09-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AgedDay2025_JA-JP9424136979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AgedDay2025_JA-JP9424136979_UHD.jpg)|
+||*Copyright: アメリカワシミミズク (© Scott Suriano/Getty Images)*
 ||
 |||
 |2025-09-14|**Region: en-IN**||
