@@ -6,9 +6,9 @@
 ||*Copyright: Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)*
 ||
 |||
-|2025-09-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AgedDay2025_JA-JP9424136979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AgedDay2025_JA-JP9424136979_UHD.jpg)|
-||*Copyright: アメリカワシミミズク (© Scott Suriano/Getty Images)*
+|2025-09-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OzoneEarth_JA-JP1432094253_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OzoneEarth_JA-JP1432094253_UHD.jpg)|
+||*Copyright: 高度約 360km から撮影したガルフコースト (© Stocktrek Images/Getty Images)*
 ||
 |||
 |2025-09-15|**Region: en-IN**||
