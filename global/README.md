@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-09-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_UHD.jpg)|
-||*Copyright: Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)*
+|2025-09-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg)|
+||*Copyright: Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)*
 ||
 |||
 |2025-09-16|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 高度約 360km から撮影したガルフコースト (© Stocktrek Images/Getty Images)*
 ||
 |||
-|2025-09-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Echasse_EN-IN1542383073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Echasse_EN-IN1542383073_UHD.jpg)|
-||*Copyright: Black-winged stilts, France (© Antonio Sementa/500px/Getty Images)*
+|2025-09-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.OzoneEarth_EN-IN1801873889_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OzoneEarth_EN-IN1801873889_UHD.jpg)|
+||*Copyright: A nighttime view of the Gulf Coast states from 350 kilometres above Earth (© Stocktrek Images/Getty Images)*
 ||
 |||
-|2025-09-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Echasse_PT-BR5689846497_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Echasse_PT-BR5689846497_UHD.jpg)|
-||*Copyright: Dupla de aves pernilongo na França (© Antonio Sementa/500px/Getty Images)*
+|2025-09-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.OzoneEarth_PT-BR3466489488_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OzoneEarth_PT-BR3466489488_UHD.jpg)|
+||*Copyright: Vista noturna da Golfo do México, 362 quilômetros acima da Terra (© Stocktrek Images/Getty Images)*
 ||
 |||
-|2025-09-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.Echasse_FR-FR6104514472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Echasse_FR-FR6104514472_UHD.jpg)|
-||*Copyright: Échasses blanches, France (© Antonio Sementa/500px/Getty Images)*
+|2025-09-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.OzoneEarth_FR-FR6213796059_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OzoneEarth_FR-FR6213796059_UHD.jpg)|
+||*Copyright: Vue nocturne des États américains bordant le golfe du Mexique, depuis 360 kilomètres au-dessus de la Terre (© Stocktrek Images/Getty Images)*
 ||
 |||
-|2025-09-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.Echasse_DE-DE5356832083_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Echasse_DE-DE5356832083_UHD.jpg)|
-||*Copyright: Stelzenläufer, Frankreich (© Antonio Sementa/500px/Getty Images)*
+|2025-09-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.OzoneEarth_DE-DE2800551844_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OzoneEarth_DE-DE2800551844_UHD.jpg)|
+||*Copyright: Nachtansicht der Golfküstenstaaten aus 362 Kilometern Höhe über der Erde (© Stocktrek Images/Getty Images)*
 ||
 |||
-|2025-09-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_UHD.jpg)|
-||*Copyright: Coastline at Cape Breton Highlands National Park, Nova Scotia (© Tiago_Fernandez/Getty Images)*
+|2025-09-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.OzoneEarth_EN-CA7588653763_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OzoneEarth_EN-CA7588653763_UHD.jpg)|
+||*Copyright: A nighttime view of the Gulf Coast states from 362 kilometres above Earth (© Stocktrek Images/Getty Images)*
 ||
 |||
-|2025-09-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-GB2522924402_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-GB2522924402_UHD.jpg)|
-||*Copyright: Chimney Rock, Point Reyes National Seashore, California, United States (© Enrique Aguirre Aves/Getty Images)*
+|2025-09-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.OzoneEarth_EN-GB2737742012_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OzoneEarth_EN-GB2737742012_UHD.jpg)|
+||*Copyright: A nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)*
 ||
 |||
-|2025-09-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.Echasse_IT-IT5616266756_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Echasse_IT-IT5616266756_UHD.jpg)|
-||*Copyright: Cavalieri d’Italia, Francia (© Antonio Sementa/500px/Getty Images)*
+|2025-09-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_UHD.jpg)|
+||*Copyright: Vista notturna degli Stati della costa del Golfo dallo Spazio (© Stocktrek Images/Getty Images)*
 ||
 |||
-|2025-09-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.Echasse_ES-ES8443490175_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Echasse_ES-ES8443490175_UHD.jpg)|
-||*Copyright: Cigüeñuelas de alas negras, Francia (© Antonio Sementa/500px/Getty Images)*
+|2025-09-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.OzoneEarth_ES-ES8514798418_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OzoneEarth_ES-ES8514798418_UHD.jpg)|
+||*Copyright: Vista nocturna del sur de Estados Unidos a unos 360 kilómetros sobre la Tierra (© Stocktrek Images/Getty Images)*
 ||
 |||
-|2025-09-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BrentonHighlandsNP_FR-CA0634942410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrentonHighlandsNP_FR-CA0634942410_UHD.jpg)|
-||*Copyright: Littoral du parc national des Hautes-Terres-du-Cap-Breton, Nouvelle-Écosse (© Tiago_Fernandez/Getty Images)*
+|2025-09-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.OzoneEarth_FR-CA7415892367_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OzoneEarth_FR-CA7415892367_UHD.jpg)|
+||*Copyright: Vue nocturne des États américains bordant le golfe du Mexique, depuis 360 kilomètres au-dessus de la Terre (© Stocktrek Images/Getty Images)*
 ||
 |||
 
