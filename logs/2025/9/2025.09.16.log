@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:17] Picture infomations saved to  global/fr-CA/README.md
 [09:30:17] Picture infomations saved to global/fr-CA/history/2025/09/17_fr-CA.md
 Program exit at 09:30:17
+
+Program started at 16:16:49
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmf4ws1
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:16:49] Start geting CN Bing Wallpaper
+[16:16:49] Successful get url: https://www.bing.com/th?id=OHR.YoungMoose_ZH-CN4639410217_UHD.jpg
+[16:16:49] Image saved to img/background.jpg
+[16:16:49] Info saved to README.md
+[16:16:49] Image saved to history/2025/09/17.md
+[16:16:49] Start geting global Bing Wallpaper, region=en-US, local time is 2025-09-16 12:16:49.544243-04:00
+[16:16:49] Successful get url: https://www.bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg
+[16:16:49] Picture infomations saved to  global/en-US/README.md
+[16:16:49] Picture infomations saved to global/en-US/history/2025/09/17_en-US.md
+[16:16:49] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-09-17 01:16:49.813910+09:00
+[16:16:49] Successful get url: https://www.bing.com/th?id=OHR.YoungMoose_JA-JP2388659996_UHD.jpg
+[16:16:50] Picture infomations saved to  global/ja-JP/README.md
+[16:16:50] Picture infomations saved to global/ja-JP/history/2025/09/17_ja-JP.md
+[16:16:50] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-09-16 21:46:50.136971+05:30
+[16:16:50] Successful get url: https://www.bing.com/th?id=OHR.OzoneEarth_EN-IN1801873889_UHD.jpg
+[16:16:50] Picture infomations saved to  global/en-IN/README.md
+[16:16:50] Picture infomations saved to global/en-IN/history/2025/09/16_en-IN.md
+[16:16:50] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-09-16 13:16:50.442335-03:00
+[16:16:50] Successful get url: https://www.bing.com/th?id=OHR.OzoneEarth_PT-BR3466489488_UHD.jpg
+[16:16:50] Picture infomations saved to  global/pt-BR/README.md
+[16:16:50] Picture infomations saved to global/pt-BR/history/2025/09/17_pt-BR.md
+[16:16:50] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-09-16 18:16:50.684408+02:00
+[16:16:50] Successful get url: https://www.bing.com/th?id=OHR.OzoneEarth_FR-FR6213796059_UHD.jpg
+[16:16:50] Picture infomations saved to  global/fr-FR/README.md
+[16:16:50] Picture infomations saved to global/fr-FR/history/2025/09/16_fr-FR.md
+[16:16:50] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-09-16 18:16:50.919098+02:00
+[16:16:51] Successful get url: https://www.bing.com/th?id=OHR.OzoneEarth_DE-DE2800551844_UHD.jpg
+[16:16:51] Picture infomations saved to  global/de-DE/README.md
+[16:16:51] Picture infomations saved to global/de-DE/history/2025/09/16_de-DE.md
+[16:16:51] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-09-16 12:16:51.136462-04:00
+[16:16:51] Successful get url: https://www.bing.com/th?id=OHR.OzoneEarth_EN-CA7588653763_UHD.jpg
+[16:16:51] Picture infomations saved to  global/en-CA/README.md
+[16:16:51] Picture infomations saved to global/en-CA/history/2025/09/17_en-CA.md
+[16:16:51] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-09-16 17:16:51.507065+01:00
+[16:16:51] Successful get url: https://www.bing.com/th?id=OHR.OzoneEarth_EN-GB2737742012_UHD.jpg
+[16:16:51] Picture infomations saved to  global/en-GB/README.md
+[16:16:51] Picture infomations saved to global/en-GB/history/2025/09/16_en-GB.md
+[16:16:51] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-09-16 18:16:51.737326+02:00
+[16:16:51] Successful get url: https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_UHD.jpg
+[16:16:51] Picture infomations saved to  global/it-IT/README.md
+[16:16:51] Picture infomations saved to global/it-IT/history/2025/09/16_it-IT.md
+[16:16:51] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-09-16 18:16:51.973849+02:00
+[16:16:52] Successful get url: https://www.bing.com/th?id=OHR.OzoneEarth_ES-ES8514798418_UHD.jpg
+[16:16:52] Picture infomations saved to  global/es-ES/README.md
+[16:16:52] Picture infomations saved to global/es-ES/history/2025/09/16_es-ES.md
+[16:16:52] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-09-16 12:16:52.392686-04:00
+[16:16:52] Successful get url: https://www.bing.com/th?id=OHR.OzoneEarth_FR-CA7415892367_UHD.jpg
+[16:16:52] Picture infomations saved to  global/fr-CA/README.md
+[16:16:52] Picture infomations saved to global/fr-CA/history/2025/09/17_fr-CA.md
+Program exit at 16:16:52

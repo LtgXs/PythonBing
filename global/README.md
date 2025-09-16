@@ -6,9 +6,9 @@
 ||*Copyright: Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)*
 ||
 |||
-|2025-09-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OzoneEarth_JA-JP1432094253_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OzoneEarth_JA-JP1432094253_UHD.jpg)|
-||*Copyright: 高度約 360km から撮影したガルフコースト (© Stocktrek Images/Getty Images)*
+|2025-09-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YoungMoose_JA-JP2388659996_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungMoose_JA-JP2388659996_UHD.jpg)|
+||*Copyright: 若いオスのヘラジカ, 米国 アラスカ州 (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
 |2025-09-16|**Region: en-IN**||
