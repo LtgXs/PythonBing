@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-09-18
+## History Bing Wallpaper
+Wallpaper date: 2025-09-18
 ![](https://www.bing.com/th?id=OHR.YoungMoose_EN-CA9323513470_UHD.jpg&w=1000)Download: [A young bull moose in Denali National Park, Alaska, United States (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.YoungMoose_EN-CA9323513470_UHD.jpg)
 
 Auto get programm by LtgX
