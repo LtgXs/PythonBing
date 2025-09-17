@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:29:19] Picture infomations saved to  global/fr-CA/README.md
 [09:29:19] Picture infomations saved to global/fr-CA/history/2025/09/18_fr-CA.md
 Program exit at 09:29:19
+
+Program started at 16:16:42
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmf4ws1
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:16:42] Start geting CN Bing Wallpaper
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_UHD.jpg
+[16:16:42] Image saved to img/background.jpg
+[16:16:42] Info saved to README.md
+[16:16:42] Image saved to history/2025/09/18.md
+[16:16:42] Start geting global Bing Wallpaper, region=en-US, local time is 2025-09-17 12:16:42.935475-04:00
+[16:16:43] Successful get url: https://www.bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg
+[16:16:43] Picture infomations saved to  global/en-US/README.md
+[16:16:43] Picture infomations saved to global/en-US/history/2025/09/18_en-US.md
+[16:16:43] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-09-18 01:16:43.105041+09:00
+[16:16:43] Successful get url: https://www.bing.com/th?id=OHR.DunquinIreland_JA-JP7345541610_UHD.jpg
+[16:16:43] Picture infomations saved to  global/ja-JP/README.md
+[16:16:43] Picture infomations saved to global/ja-JP/history/2025/09/18_ja-JP.md
+[16:16:43] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-09-17 21:46:43.279580+05:30
+[16:16:43] Successful get url: https://www.bing.com/th?id=OHR.YoungMoose_EN-IN1905120338_UHD.jpg
+[16:16:43] Picture infomations saved to  global/en-IN/README.md
+[16:16:43] Picture infomations saved to global/en-IN/history/2025/09/17_en-IN.md
+[16:16:43] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-09-17 13:16:43.435450-03:00
+[16:16:43] Successful get url: https://www.bing.com/th?id=OHR.ArpoadorRJ_PT-BR5341950627_UHD.jpg
+[16:16:43] Picture infomations saved to  global/pt-BR/README.md
+[16:16:43] Picture infomations saved to global/pt-BR/history/2025/09/18_pt-BR.md
+[16:16:43] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-09-17 18:16:43.612084+02:00
+[16:16:43] Successful get url: https://www.bing.com/th?id=OHR.YoungMoose_FR-FR2257077158_UHD.jpg
+[16:16:43] Picture infomations saved to  global/fr-FR/README.md
+[16:16:43] Picture infomations saved to global/fr-FR/history/2025/09/17_fr-FR.md
+[16:16:43] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-09-17 18:16:43.758057+02:00
+[16:16:43] Successful get url: https://www.bing.com/th?id=OHR.YoungMoose_DE-DE0761999333_UHD.jpg
+[16:16:43] Picture infomations saved to  global/de-DE/README.md
+[16:16:43] Picture infomations saved to global/de-DE/history/2025/09/17_de-DE.md
+[16:16:43] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-09-17 12:16:43.912510-04:00
+[16:16:43] Successful get url: https://www.bing.com/th?id=OHR.YoungMoose_EN-CA9323513470_UHD.jpg
+[16:16:44] Picture infomations saved to  global/en-CA/README.md
+[16:16:44] Picture infomations saved to global/en-CA/history/2025/09/18_en-CA.md
+[16:16:44] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-09-17 17:16:44.061667+01:00
+[16:16:44] Successful get url: https://www.bing.com/th?id=OHR.YoungMoose_EN-GB3146356133_UHD.jpg
+[16:16:44] Picture infomations saved to  global/en-GB/README.md
+[16:16:44] Picture infomations saved to global/en-GB/history/2025/09/17_en-GB.md
+[16:16:44] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-09-17 18:16:44.217997+02:00
+[16:16:44] Successful get url: https://www.bing.com/th?id=OHR.YoungMoose_IT-IT1966102379_UHD.jpg
+[16:16:44] Picture infomations saved to  global/it-IT/README.md
+[16:16:44] Picture infomations saved to global/it-IT/history/2025/09/17_it-IT.md
+[16:16:44] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-09-17 18:16:44.383613+02:00
+[16:16:44] Successful get url: https://www.bing.com/th?id=OHR.YoungMoose_ES-ES6683972972_UHD.jpg
+[16:16:44] Picture infomations saved to  global/es-ES/README.md
+[16:16:44] Picture infomations saved to global/es-ES/history/2025/09/17_es-ES.md
+[16:16:44] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-09-17 12:16:44.540241-04:00
+[16:16:44] Successful get url: https://www.bing.com/th?id=OHR.YoungMoose_FR-CA2358122126_UHD.jpg
+[16:16:44] Picture infomations saved to  global/fr-CA/README.md
+[16:16:44] Picture infomations saved to global/fr-CA/history/2025/09/18_fr-CA.md
+Program exit at 16:16:44
