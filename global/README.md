@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-09-18|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg)|
-||*Copyright: Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-09-19|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg)|
+||*Copyright: Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)*
 ||
 |||
 |2025-09-18|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ダンキンの船着き場, アイルランド (© Hugh O'Connor/Getty Images)*
 ||
 |||
-|2025-09-17|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.YoungMoose_EN-IN1905120338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungMoose_EN-IN1905120338_UHD.jpg)|
-||*Copyright: A young bull moose in Denali National Park, Alaska, United States (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-09-18|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.DunquinIreland_EN-IN2211431419_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_EN-IN2211431419_UHD.jpg)|
+||*Copyright: Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)*
 ||
 |||
-|2025-09-18|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ArpoadorRJ_PT-BR5341950627_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArpoadorRJ_PT-BR5341950627_UHD.jpg)|
-||*Copyright: Praia do Arpoador, Rio de Janeiro (© marchello74/Getty Images)*
+|2025-09-19|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DunquinIreland_PT-BR6766126699_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_PT-BR6766126699_UHD.jpg)|
+||*Copyright: Escadaria serpenteante do Cais de Dunquin, Condado de Kerry, Irlanda (© Hugh O'Connor/Getty Images)*
 ||
 |||
-|2025-09-17|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.YoungMoose_FR-FR2257077158_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungMoose_FR-FR2257077158_UHD.jpg)|
-||*Copyright: Jeune élan mâle, parc national de Denali, Alaska, États-Unis (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-09-18|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.DunquinIreland_FR-FR6571793587_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_FR-FR6571793587_UHD.jpg)|
+||*Copyright: Escalier sinueux de Dunquin Pier, comté de Kerry, Irlande (© Hugh O'Connor/Getty Images)*
 ||
 |||
-|2025-09-17|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.YoungMoose_DE-DE0761999333_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungMoose_DE-DE0761999333_UHD.jpg)|
-||*Copyright: Ein junger Elchbulle im Denali-Nationalpark, Alaska, USA (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-09-18|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.DunquinIreland_DE-DE4797885512_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_DE-DE4797885512_UHD.jpg)|
+||*Copyright: Serpentinenartiger Pfad, Dunquin Pier, County Kerry, Irland (© Hugh O'Connor/Getty Images)*
 ||
 |||
-|2025-09-18|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.YoungMoose_EN-CA9323513470_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungMoose_EN-CA9323513470_UHD.jpg)|
-||*Copyright: A young bull moose in Denali National Park, Alaska, United States (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-09-19|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.DunquinIreland_EN-CA7995972934_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_EN-CA7995972934_UHD.jpg)|
+||*Copyright: Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)*
 ||
 |||
-|2025-09-17|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.YoungMoose_EN-GB3146356133_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungMoose_EN-GB3146356133_UHD.jpg)|
-||*Copyright: A young bull moose in Denali National Park, Alaska, United States (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-09-18|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.DunquinIreland_EN-GB3162997633_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_EN-GB3162997633_UHD.jpg)|
+||*Copyright: Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)*
 ||
 |||
-|2025-09-17|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.YoungMoose_IT-IT1966102379_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungMoose_IT-IT1966102379_UHD.jpg)|
-||*Copyright: Giovane alce maschio nel Parco Nazionale di Denali, Alaska, USA (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-09-18|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GenovaPorto_IT-IT9490275029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GenovaPorto_IT-IT9490275029_UHD.jpg)|
+||*Copyright: Vista sul Porto di Genova, Genova, Liguria (© Luca Reina Mafaraci/Getty Images)*
 ||
 |||
-|2025-09-17|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.YoungMoose_ES-ES6683972972_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungMoose_ES-ES6683972972_UHD.jpg)|
-||*Copyright: Un joven alce macho en el Parque Nacional Denali, Alaska, EE. UU. (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-09-18|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.DunquinIreland_ES-ES8742460168_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_ES-ES8742460168_UHD.jpg)|
+||*Copyright: Escaleras serpenteantes del muelle de Dunquin, condado de Kerry, Irlanda (© Hugh O'Connor/Getty Images)*
 ||
 |||
-|2025-09-18|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.YoungMoose_FR-CA2358122126_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YoungMoose_FR-CA2358122126_UHD.jpg)|
-||*Copyright: Jeune élan mâle, parc national de Denali, Alaska, États-Unis (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-09-19|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.DunquinIreland_FR-CA7189832107_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_FR-CA7189832107_UHD.jpg)|
+||*Copyright: Escalier sinueux de Dunquin Pier, comté de Kerry, Irlande (© Hugh O'Connor/Getty Images)*
 ||
 |||
 
