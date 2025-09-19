@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-09-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg)|
-||*Copyright: Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)*
+|2025-09-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg)|
+||*Copyright: Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)*
 ||
 |||
 |2025-09-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: サウザンド諸島 (© benedek/Getty Images)*
 ||
 |||
-|2025-09-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.DunquinIreland_EN-IN2211431419_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_EN-IN2211431419_UHD.jpg)|
-||*Copyright: Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)*
+|2025-09-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ThousandIslands_EN-IN6967814594_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThousandIslands_EN-IN6967814594_UHD.jpg)|
+||*Copyright: Thousand Islands region, St. Lawrence River, USA-Canada border (© benedek/Getty Images)*
 ||
 |||
-|2025-09-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DunquinIreland_PT-BR6766126699_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_PT-BR6766126699_UHD.jpg)|
-||*Copyright: Escadaria serpenteante do Cais de Dunquin, Condado de Kerry, Irlanda (© Hugh O'Connor/Getty Images)*
+|2025-09-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ThousandIslands_PT-BR6464136258_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThousandIslands_PT-BR6464136258_UHD.jpg)|
+||*Copyright: Arquipélago das Mil Ilhas, Rio São Lourenço, fronteira EUA-Canadá (© benedek/Getty Images)*
 ||
 |||
-|2025-09-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DunquinIreland_FR-FR6571793587_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_FR-FR6571793587_UHD.jpg)|
-||*Copyright: Escalier sinueux de Dunquin Pier, comté de Kerry, Irlande (© Hugh O'Connor/Getty Images)*
+|2025-09-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BolDor_FR-FR4058003205_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BolDor_FR-FR4058003205_UHD.jpg)|
+||*Copyright: Vue aérienne du circuit Paul Ricard, Le Castellet (© Sami Sarkis/Getty Images)*
 ||
 |||
-|2025-09-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.DunquinIreland_DE-DE4797885512_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_DE-DE4797885512_UHD.jpg)|
-||*Copyright: Serpentinenartiger Pfad, Dunquin Pier, County Kerry, Irland (© Hugh O'Connor/Getty Images)*
+|2025-09-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE2717714260_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE2717714260_UHD.jpg)|
+||*Copyright: Thousand Islands, Sankt-Lorenz-Strom, Grenze zwischen den USA und Kanada (© benedek/Getty Images)*
 ||
 |||
-|2025-09-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DunquinIreland_EN-CA7995972934_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_EN-CA7995972934_UHD.jpg)|
-||*Copyright: Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)*
+|2025-09-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ThousandIslands_EN-CA4060601894_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThousandIslands_EN-CA4060601894_UHD.jpg)|
+||*Copyright: Thousand Islands region, St. Lawrence River, USA-Canada border (© benedek/Getty Images)*
 ||
 |||
-|2025-09-18|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DunquinIreland_EN-GB3162997633_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_EN-GB3162997633_UHD.jpg)|
-||*Copyright: Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)*
+|2025-09-19|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ThousandIslands_EN-GB1501665871_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThousandIslands_EN-GB1501665871_UHD.jpg)|
+||*Copyright: Thousand Islands region, St Lawrence River, USA-Canada border (© benedek/Getty Images)*
 ||
 |||
-|2025-09-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GenovaPorto_IT-IT9490275029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GenovaPorto_IT-IT9490275029_UHD.jpg)|
-||*Copyright: Vista sul Porto di Genova, Genova, Liguria (© Luca Reina Mafaraci/Getty Images)*
+|2025-09-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ThousandIslands_IT-IT3559325500_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThousandIslands_IT-IT3559325500_UHD.jpg)|
+||*Copyright: Thousand Islands, fiume San Lorenzo, confine tra Canada e USA (© benedek/Getty Images)*
 ||
 |||
-|2025-09-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.DunquinIreland_ES-ES8742460168_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_ES-ES8742460168_UHD.jpg)|
-||*Copyright: Escaleras serpenteantes del muelle de Dunquin, condado de Kerry, Irlanda (© Hugh O'Connor/Getty Images)*
+|2025-09-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ThousandIslands_ES-ES0457398976_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThousandIslands_ES-ES0457398976_UHD.jpg)|
+||*Copyright: Región de las Mil Islas, río San Lorenzo, frontera entre EE. UU. y Canadá (© benedek/Getty Images)*
 ||
 |||
-|2025-09-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DunquinIreland_FR-CA7189832107_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunquinIreland_FR-CA7189832107_UHD.jpg)|
-||*Copyright: Escalier sinueux de Dunquin Pier, comté de Kerry, Irlande (© Hugh O'Connor/Getty Images)*
+|2025-09-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ThousandIslands_FR-CA2696855753_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThousandIslands_FR-CA2696855753_UHD.jpg)|
+||*Copyright: Région des Mille-Îles, Saint-Laurent, frontière canado-américaine (© benedek/Getty Images)*
 ||
 |||
 
