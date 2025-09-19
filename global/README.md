@@ -6,9 +6,9 @@
 ||*Copyright: Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)*
 ||
 |||
-|2025-09-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ThousandIslands_JA-JP7633482914_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThousandIslands_JA-JP7633482914_UHD.jpg)|
-||*Copyright: サウザンド諸島 (© benedek/Getty Images)*
+|2025-09-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OktoberfestSwing_JA-JP7932270954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OktoberfestSwing_JA-JP7932270954_UHD.jpg)|
+||*Copyright: テレーゼンヴィーゼの回転ブランコ, ドイツ (© LOOK-foto/Alamy)*
 ||
 |||
 |2025-09-19|**Region: en-IN**||
@@ -27,7 +27,7 @@
 ||
 |||
 |2025-09-19|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE2717714260_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE2717714260_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE0677147681_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThousandIslands_DE-DE0677147681_UHD.jpg)|
 ||*Copyright: Thousand Islands, Sankt-Lorenz-Strom, Grenze zwischen den USA und Kanada (© benedek/Getty Images)*
 ||
 |||
