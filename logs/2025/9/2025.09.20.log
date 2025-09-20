@@ -1,0 +1,60 @@
+
+Program started at 09:26:18
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmf4ws1
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:26:18] Start geting CN Bing Wallpaper
+[09:26:18] Successful get url: https://www.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_UHD.jpg
+[09:26:18] Image saved to img/background.jpg
+[09:26:18] Info saved to README.md
+[09:26:18] Image saved to history/2025/09/20.md
+[09:26:18] Start geting global Bing Wallpaper, region=en-US, local time is 2025-09-20 05:26:18.767125-04:00
+[09:26:18] Successful get url: https://www.bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg
+[09:26:18] Picture infomations saved to  global/en-US/README.md
+[09:26:18] Picture infomations saved to global/en-US/history/2025/09/21_en-US.md
+[09:26:18] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-09-20 18:26:18.982701+09:00
+[09:26:19] Successful get url: https://www.bing.com/th?id=OHR.OktoberfestSwing_JA-JP7932270954_UHD.jpg
+[09:26:19] Picture infomations saved to  global/ja-JP/README.md
+[09:26:19] Picture infomations saved to global/ja-JP/history/2025/09/20_ja-JP.md
+[09:26:19] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-09-20 14:56:19.145458+05:30
+[09:26:19] Successful get url: https://www.bing.com/th?id=OHR.OktoberfestSwing_EN-IN7246404187_UHD.jpg
+[09:26:19] Picture infomations saved to  global/en-IN/README.md
+[09:26:19] Picture infomations saved to global/en-IN/history/2025/09/20_en-IN.md
+[09:26:19] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-09-20 06:26:19.296875-03:00
+[09:26:19] Successful get url: https://www.bing.com/th?id=OHR.OktoberfestSwing_PT-BR6824532260_UHD.jpg
+[09:26:19] Picture infomations saved to  global/pt-BR/README.md
+[09:26:19] Picture infomations saved to global/pt-BR/history/2025/09/21_pt-BR.md
+[09:26:19] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-09-20 11:26:19.696874+02:00
+[09:26:19] Successful get url: https://www.bing.com/th?id=OHR.OktoberfestSwing_FR-FR4212024061_UHD.jpg
+[09:26:19] Picture infomations saved to  global/fr-FR/README.md
+[09:26:19] Picture infomations saved to global/fr-FR/history/2025/09/20_fr-FR.md
+[09:26:19] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-09-20 11:26:19.967629+02:00
+[09:26:20] Successful get url: https://www.bing.com/th?id=OHR.OktoberfestHackerFestzelt_DE-DE2583035265_UHD.jpg
+[09:26:20] Picture infomations saved to  global/de-DE/README.md
+[09:26:20] Picture infomations saved to global/de-DE/history/2025/09/20_de-DE.md
+[09:26:20] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-09-20 05:26:20.153778-04:00
+[09:26:20] Successful get url: https://www.bing.com/th?id=OHR.OktoberfestSwing_EN-CA4280103942_UHD.jpg
+[09:26:20] Picture infomations saved to  global/en-CA/README.md
+[09:26:20] Picture infomations saved to global/en-CA/history/2025/09/21_en-CA.md
+[09:26:20] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-09-20 10:26:20.283079+01:00
+[09:26:20] Successful get url: https://www.bing.com/th?id=OHR.OktoberfestSwing_EN-GB1846284671_UHD.jpg
+[09:26:20] Picture infomations saved to  global/en-GB/README.md
+[09:26:20] Picture infomations saved to global/en-GB/history/2025/09/20_en-GB.md
+[09:26:20] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-09-20 11:26:20.445231+02:00
+[09:26:20] Successful get url: https://www.bing.com/th?id=OHR.OktoberfestSwing_IT-IT3600717607_UHD.jpg
+[09:26:20] Picture infomations saved to  global/it-IT/README.md
+[09:26:20] Picture infomations saved to global/it-IT/history/2025/09/20_it-IT.md
+[09:26:20] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-09-20 11:26:20.575262+02:00
+[09:26:20] Successful get url: https://www.bing.com/th?id=OHR.PaellaDay_ES-ES0490054669_UHD.jpg
+[09:26:20] Picture infomations saved to  global/es-ES/README.md
+[09:26:20] Picture infomations saved to global/es-ES/history/2025/09/20_es-ES.md
+[09:26:20] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-09-20 05:26:20.765820-04:00
+[09:26:20] Successful get url: https://www.bing.com/th?id=OHR.OktoberfestSwing_FR-CA3046435338_UHD.jpg
+[09:26:20] Picture infomations saved to  global/fr-CA/README.md
+[09:26:20] Picture infomations saved to global/fr-CA/history/2025/09/21_fr-CA.md
+Program exit at 09:26:20
