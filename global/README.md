@@ -6,9 +6,9 @@
 ||*Copyright: Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)*
 ||
 |||
-|2025-09-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IceOtters_JA-JP8317371641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceOtters_JA-JP8317371641_UHD.jpg)|
-||*Copyright: プリンス・ウィリアム湾, 米国 アラスカ州 (© Gerald Corsi/Getty Images)*
+|2025-09-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ToucanForest_JA-JP8804759807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToucanForest_JA-JP8804759807_UHD.jpg)|
+||*Copyright: サンショクキムネオオハシ, コスタリカ (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
 |2025-09-21|**Region: en-IN**||
