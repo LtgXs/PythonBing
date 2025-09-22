@@ -6,9 +6,9 @@
 ||*Copyright: Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)*
 ||
 |||
-|2025-09-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ToucanForest_JA-JP8804759807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToucanForest_JA-JP8804759807_UHD.jpg)|
-||*Copyright: サンショクキムネオオハシ, コスタリカ (© Juan Carlos Vindas/Getty Images)*
+|2025-09-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AutumnEquinox2025_JA-JP9152081751_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnEquinox2025_JA-JP9152081751_UHD.jpg)|
+||*Copyright: 秋の七草 ハギ (© kororokerokero/Getty Images)*
 ||
 |||
 |2025-09-22|**Region: en-IN**||
