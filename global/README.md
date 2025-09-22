@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-09-22|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg)|
-||*Copyright: Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)*
+|2025-09-23|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg)|
+||*Copyright: Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)*
 ||
 |||
 |2025-09-22|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: サンショクキムネオオハシ, コスタリカ (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
-|2025-09-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.IceOtters_EN-IN7472097384_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceOtters_EN-IN7472097384_UHD.jpg)|
-||*Copyright: Sea otters, Prince William Sound, Alaska, United States (© Gerald Corsi/Getty Images)*
+|2025-09-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AspenEquinox_EN-IN2120497410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_EN-IN2120497410_UHD.jpg)|
+||*Copyright: Aspen trees during autumn Fishlake National Forest, Utah, United States (© Danita Delimont/Getty Images)*
 ||
 |||
-|2025-09-22|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.IceOtters_PT-BR7598435461_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceOtters_PT-BR7598435461_UHD.jpg)|
-||*Copyright: Lontras-marinhas em Prince William Sound, Alasca, EUA (© Gerald Corsi/Getty Images)*
+|2025-09-23|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Primavera25_PT-BR8233875845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Primavera25_PT-BR8233875845_UHD.jpg)|
+||*Copyright: Árvore de ipê-amarelo em floração (© Wilton mitsuo miwa/Getty Images)*
 ||
 |||
-|2025-09-21|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.EtretatBeach_FR-FR4685460454_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EtretatBeach_FR-FR4685460454_UHD.jpg)|
-||*Copyright: L’aiguille et la Porte d’Aval, falaises d’Étretat, Normandie (© Luis Henrique Boucault/Getty Images)*
+|2025-09-22|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AspenEquinox_FR-FR4843698159_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_FR-FR4843698159_UHD.jpg)|
+||*Copyright: Peupliers faux-trembles en automne, forêt nationale de Fishlake, Utah, États-Unis (© Danita Delimont/Getty Images)*
 ||
 |||
-|2025-09-21|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.IceOtters_DE-DE0331090947_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceOtters_DE-DE0331090947_UHD.jpg)|
-||*Copyright: Seeotter, Prinz-William-Sund, Alaska, USA (© Gerald Corsi/Getty Images)*
+|2025-09-22|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AspenEquinox_DE-DE0417309231_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_DE-DE0417309231_UHD.jpg)|
+||*Copyright: Espenbäume im Herbst, Fishlake National Forest, Utah, USA (© Danita Delimont/Getty Images)*
 ||
 |||
-|2025-09-22|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.IceOtters_EN-CA4744258157_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceOtters_EN-CA4744258157_UHD.jpg)|
-||*Copyright: Sea otters, Prince William Sound, Alaska, United States (© Gerald Corsi/Getty Images)*
+|2025-09-23|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AspenEquinox_EN-CA5015758865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_EN-CA5015758865_UHD.jpg)|
+||*Copyright: Aspen trees during fall, Fishlake National Forest, Utah, United States (© Danita Delimont/Getty Images)*
 ||
 |||
-|2025-09-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.IceOtters_EN-GB2135978576_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceOtters_EN-GB2135978576_UHD.jpg)|
-||*Copyright: Sea otters, Prince William Sound, Alaska, United States (© Gerald Corsi/Getty Images)*
+|2025-09-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AspenEquinox_EN-GB2838380564_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_EN-GB2838380564_UHD.jpg)|
+||*Copyright: Aspen trees during autumn, Fishlake National Forest, Utah, United States (© Danita Delimont/Getty Images)*
 ||
 |||
-|2025-09-21|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TenutaPiemonte_IT-IT3634009863_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TenutaPiemonte_IT-IT3634009863_UHD.jpg)|
-||*Copyright: Viale alberato, Pinerolo, Torino, Piemonte (© Diana Robinson Photography/Moment)*
+|2025-09-22|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AspenEquinox_IT-IT3698686278_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_IT-IT3698686278_UHD.jpg)|
+||*Copyright: Pini tremuli in autunno, Fishlake National Forest, Utah, USA (© Danita Delimont/Getty Images)*
 ||
 |||
-|2025-09-21|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.IceOtters_ES-ES0527606822_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceOtters_ES-ES0527606822_UHD.jpg)|
-||*Copyright: Nutrias marinas, Prince William Sound, Alaska, EE. UU. (© Gerald Corsi/Getty Images)*
+|2025-09-22|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AspenEquinox_ES-ES0554126679_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_ES-ES0554126679_UHD.jpg)|
+||*Copyright: Álamos durante el otoño, Bosque Nacional Fishlake, Utah, EE. UU. (© Danita Delimont/Getty Images)*
 ||
 |||
-|2025-09-22|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.IceOtters_FR-CA3170319106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceOtters_FR-CA3170319106_UHD.jpg)|
-||*Copyright: Loutres de mer, Baie du Prince-William, Alaska, États-Unis (© Gerald Corsi/Getty Images)*
+|2025-09-23|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AspenEquinox_FR-CA3336828121_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_FR-CA3336828121_UHD.jpg)|
+||*Copyright: Peupliers faux-trembles en automne, forêt nationale de Fishlake, Utah, États-Unis (© Danita Delimont/Getty Images)*
 ||
 |||
 
