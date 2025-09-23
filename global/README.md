@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-09-23|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg)|
-||*Copyright: Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)*
+|2025-09-24|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg)|
+||*Copyright: Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
 |2025-09-23|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 秋の七草 ハギ (© kororokerokero/Getty Images)*
 ||
 |||
-|2025-09-22|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AspenEquinox_EN-IN2120497410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_EN-IN2120497410_UHD.jpg)|
-||*Copyright: Aspen trees during autumn Fishlake National Forest, Utah, United States (© Danita Delimont/Getty Images)*
+|2025-09-23|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ToucanForest_EN-IN2300582458_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToucanForest_EN-IN2300582458_UHD.jpg)|
+||*Copyright: Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
-|2025-09-23|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Primavera25_PT-BR8233875845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Primavera25_PT-BR8233875845_UHD.jpg)|
-||*Copyright: Árvore de ipê-amarelo em floração (© Wilton mitsuo miwa/Getty Images)*
+|2025-09-24|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ToucanForest_PT-BR8747698753_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToucanForest_PT-BR8747698753_UHD.jpg)|
+||*Copyright: Tucano-de-peito-amarelo na Costa Rica (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
-|2025-09-22|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AspenEquinox_FR-FR4843698159_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_FR-FR4843698159_UHD.jpg)|
-||*Copyright: Peupliers faux-trembles en automne, forêt nationale de Fishlake, Utah, États-Unis (© Danita Delimont/Getty Images)*
+|2025-09-23|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ToucanForest_FR-FR5096547078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToucanForest_FR-FR5096547078_UHD.jpg)|
+||*Copyright: Toucan à carène, Costa Rica (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
-|2025-09-22|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AspenEquinox_DE-DE0417309231_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_DE-DE0417309231_UHD.jpg)|
-||*Copyright: Espenbäume im Herbst, Fishlake National Forest, Utah, USA (© Danita Delimont/Getty Images)*
+|2025-09-23|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ToucanForest_DE-DE0467627234_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToucanForest_DE-DE0467627234_UHD.jpg)|
+||*Copyright: Fischertukan in Costa Rica (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
-|2025-09-23|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AspenEquinox_EN-CA5015758865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_EN-CA5015758865_UHD.jpg)|
-||*Copyright: Aspen trees during fall, Fishlake National Forest, Utah, United States (© Danita Delimont/Getty Images)*
+|2025-09-24|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ToucanForest_EN-CA5712281059_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToucanForest_EN-CA5712281059_UHD.jpg)|
+||*Copyright: Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
-|2025-09-22|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AspenEquinox_EN-GB2838380564_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_EN-GB2838380564_UHD.jpg)|
-||*Copyright: Aspen trees during autumn, Fishlake National Forest, Utah, United States (© Danita Delimont/Getty Images)*
+|2025-09-23|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ToucanForest_EN-GB8333466039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToucanForest_EN-GB8333466039_UHD.jpg)|
+||*Copyright: Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
-|2025-09-22|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AspenEquinox_IT-IT3698686278_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_IT-IT3698686278_UHD.jpg)|
-||*Copyright: Pini tremuli in autunno, Fishlake National Forest, Utah, USA (© Danita Delimont/Getty Images)*
+|2025-09-23|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ToucanForest_IT-IT3771106703_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToucanForest_IT-IT3771106703_UHD.jpg)|
+||*Copyright: Tucano carenato, Costa Rica (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
-|2025-09-22|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AspenEquinox_ES-ES0554126679_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_ES-ES0554126679_UHD.jpg)|
-||*Copyright: Álamos durante el otoño, Bosque Nacional Fishlake, Utah, EE. UU. (© Danita Delimont/Getty Images)*
+|2025-09-23|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SportWeekTeide_ES-ES0590010437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SportWeekTeide_ES-ES0590010437_UHD.jpg)|
+||*Copyright: Parapente sobre el Parque Nacional del Teide, Tenerife, Islas Canarias, España (© Rafal Michal Gadomski/ShutterStock)*
 ||
 |||
-|2025-09-23|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AspenEquinox_FR-CA3336828121_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AspenEquinox_FR-CA3336828121_UHD.jpg)|
-||*Copyright: Peupliers faux-trembles en automne, forêt nationale de Fishlake, Utah, États-Unis (© Danita Delimont/Getty Images)*
+|2025-09-24|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ToucanForest_FR-CA3495026765_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToucanForest_FR-CA3495026765_UHD.jpg)|
+||*Copyright: Toucan à carène, Costa Rica (© Juan Carlos Vindas/Getty Images)*
 ||
 |||
 
