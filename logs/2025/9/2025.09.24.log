@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:29:54] Picture infomations saved to  global/fr-CA/README.md
 [09:29:54] Picture infomations saved to global/fr-CA/history/2025/09/25_fr-CA.md
 Program exit at 09:29:54
+
+Program started at 16:16:44
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmf4ws1
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:16:44] Start geting CN Bing Wallpaper
+[16:16:44] Successful get url: https://www.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg
+[16:16:45] Image saved to img/background.jpg
+[16:16:45] Info saved to README.md
+[16:16:45] Image saved to history/2025/09/25.md
+[16:16:45] Start geting global Bing Wallpaper, region=en-US, local time is 2025-09-24 12:16:45.116047-04:00
+[16:16:45] Successful get url: https://www.bing.com/th?id=OHR.BearLodge_EN-US9061134971_UHD.jpg
+[16:16:45] Picture infomations saved to  global/en-US/README.md
+[16:16:45] Picture infomations saved to global/en-US/history/2025/09/25_en-US.md
+[16:16:45] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-09-25 01:16:45.300675+09:00
+[16:16:45] Successful get url: https://www.bing.com/th?id=OHR.FortChittorgarh_JA-JP1975287268_UHD.jpg
+[16:16:45] Picture infomations saved to  global/ja-JP/README.md
+[16:16:45] Picture infomations saved to global/ja-JP/history/2025/09/25_ja-JP.md
+[16:16:45] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-09-24 21:46:45.535002+05:30
+[16:16:45] Successful get url: https://www.bing.com/th?id=OHR.BearLodge_EN-IN2528556725_UHD.jpg
+[16:16:45] Picture infomations saved to  global/en-IN/README.md
+[16:16:45] Picture infomations saved to global/en-IN/history/2025/09/24_en-IN.md
+[16:16:45] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-09-24 13:16:45.769959-03:00
+[16:16:45] Successful get url: https://www.bing.com/th?id=OHR.BearLodge_PT-BR9369560385_UHD.jpg
+[16:16:46] Picture infomations saved to  global/pt-BR/README.md
+[16:16:46] Picture infomations saved to global/pt-BR/history/2025/09/25_pt-BR.md
+[16:16:46] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-09-24 18:16:46.223266+02:00
+[16:16:46] Successful get url: https://www.bing.com/th?id=OHR.BearLodge_FR-FR5273744579_UHD.jpg
+[16:16:46] Picture infomations saved to  global/fr-FR/README.md
+[16:16:46] Picture infomations saved to global/fr-FR/history/2025/09/24_fr-FR.md
+[16:16:46] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-09-24 18:16:46.383387+02:00
+[16:16:46] Successful get url: https://www.bing.com/th?id=OHR.BearLodge_DE-DE0621021956_UHD.jpg
+[16:16:46] Picture infomations saved to  global/de-DE/README.md
+[16:16:46] Picture infomations saved to global/de-DE/history/2025/09/24_de-DE.md
+[16:16:46] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-09-24 12:16:46.576484-04:00
+[16:16:46] Successful get url: https://www.bing.com/th?id=OHR.BearLodge_EN-CA5941138960_UHD.jpg
+[16:16:46] Picture infomations saved to  global/en-CA/README.md
+[16:16:46] Picture infomations saved to global/en-CA/history/2025/09/25_en-CA.md
+[16:16:46] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-09-24 17:16:46.771618+01:00
+[16:16:46] Successful get url: https://www.bing.com/th?id=OHR.BearLodge_EN-GB8627501672_UHD.jpg
+[16:16:46] Picture infomations saved to  global/en-GB/README.md
+[16:16:46] Picture infomations saved to global/en-GB/history/2025/09/24_en-GB.md
+[16:16:46] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-09-24 18:16:46.953115+02:00
+[16:16:47] Successful get url: https://www.bing.com/th?id=OHR.BearLodge_IT-IT3838142385_UHD.jpg
+[16:16:47] Picture infomations saved to  global/it-IT/README.md
+[16:16:47] Picture infomations saved to global/it-IT/history/2025/09/24_it-IT.md
+[16:16:47] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-09-24 18:16:47.185416+02:00
+[16:16:47] Successful get url: https://www.bing.com/th?id=OHR.BearLodge_ES-ES0617575565_UHD.jpg
+[16:16:47] Picture infomations saved to  global/es-ES/README.md
+[16:16:47] Picture infomations saved to global/es-ES/history/2025/09/24_es-ES.md
+[16:16:47] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-09-24 12:16:47.724684-04:00
+[16:16:47] Successful get url: https://www.bing.com/th?id=OHR.BearLodge_FR-CA3663920698_UHD.jpg
+[16:16:47] Picture infomations saved to  global/fr-CA/README.md
+[16:16:47] Picture infomations saved to global/fr-CA/history/2025/09/25_fr-CA.md
+Program exit at 16:16:47

@@ -6,9 +6,9 @@
 ||*Copyright: Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)*
 ||
 |||
-|2025-09-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BearLodge_JA-JP0426816004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BearLodge_JA-JP0426816004_UHD.jpg)|
-||*Copyright: デビルスタワー, 米国 ワイオミング州 (© Laura Hedien/Getty Images)*
+|2025-09-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FortChittorgarh_JA-JP1975287268_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FortChittorgarh_JA-JP1975287268_UHD.jpg)|
+||*Copyright: チットールガル城, インド (© chetansoni/Shutterstock)*
 ||
 |||
 |2025-09-24|**Region: en-IN**||
