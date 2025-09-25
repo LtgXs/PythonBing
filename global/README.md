@@ -6,9 +6,9 @@
 ||*Copyright: Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)*
 ||
 |||
-|2025-09-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FortChittorgarh_JA-JP1975287268_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FortChittorgarh_JA-JP1975287268_UHD.jpg)|
-||*Copyright: チットールガル城, インド (© chetansoni/Shutterstock)*
+|2025-09-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AutumnChipmunk_JA-JP1455684810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnChipmunk_JA-JP1455684810_UHD.jpg)|
+||*Copyright: チビシマリス, 米国 モンタナ州 (© Donald M. Jones/Minden Pictures)*
 ||
 |||
 |2025-09-25|**Region: en-IN**||
@@ -37,7 +37,7 @@
 ||
 |||
 |2025-09-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FortChittorgarh_EN-GB8794173369_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FortChittorgarh_EN-GB8794173369_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.FortChittorgarh_EN-GB9713877836_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FortChittorgarh_EN-GB9713877836_UHD.jpg)|
 ||*Copyright: Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)*
 ||
 |||
