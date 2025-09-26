@@ -1,0 +1,60 @@
+
+Program started at 09:29:42
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3ublj
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:29:42] Start geting CN Bing Wallpaper
+[09:29:42] Successful get url: https://www.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_UHD.jpg
+[09:29:42] Image saved to img/background.jpg
+[09:29:42] Info saved to README.md
+[09:29:42] Image saved to history/2025/09/26.md
+[09:29:42] Start geting global Bing Wallpaper, region=en-US, local time is 2025-09-26 05:29:42.952262-04:00
+[09:29:43] Successful get url: https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg
+[09:29:43] Picture infomations saved to  global/en-US/README.md
+[09:29:43] Picture infomations saved to global/en-US/history/2025/09/27_en-US.md
+[09:29:43] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-09-26 18:29:43.122114+09:00
+[09:29:43] Successful get url: https://www.bing.com/th?id=OHR.AutumnChipmunk_JA-JP1455684810_UHD.jpg
+[09:29:43] Picture infomations saved to  global/ja-JP/README.md
+[09:29:43] Picture infomations saved to global/ja-JP/history/2025/09/26_ja-JP.md
+[09:29:43] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-09-26 14:59:43.274524+05:30
+[09:29:43] Successful get url: https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-IN2843120599_UHD.jpg
+[09:29:43] Picture infomations saved to  global/en-IN/README.md
+[09:29:43] Picture infomations saved to global/en-IN/history/2025/09/26_en-IN.md
+[09:29:43] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-09-26 06:29:43.425963-03:00
+[09:29:43] Successful get url: https://www.bing.com/th?id=OHR.AutumnChipmunk_PT-BR7323455735_UHD.jpg
+[09:29:43] Picture infomations saved to  global/pt-BR/README.md
+[09:29:43] Picture infomations saved to global/pt-BR/history/2025/09/27_pt-BR.md
+[09:29:43] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-09-26 11:29:43.584081+02:00
+[09:29:43] Successful get url: https://www.bing.com/th?id=OHR.AutumnChipmunk_FR-FR1635534631_UHD.jpg
+[09:29:43] Picture infomations saved to  global/fr-FR/README.md
+[09:29:43] Picture infomations saved to global/fr-FR/history/2025/09/26_fr-FR.md
+[09:29:43] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-09-26 11:29:43.731362+02:00
+[09:29:43] Successful get url: https://www.bing.com/th?id=OHR.AutumnChipmunk_DE-DE0842640974_UHD.jpg
+[09:29:43] Picture infomations saved to  global/de-DE/README.md
+[09:29:43] Picture infomations saved to global/de-DE/history/2025/09/26_de-DE.md
+[09:29:43] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-09-26 05:29:43.881552-04:00
+[09:29:43] Successful get url: https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-CA7669023856_UHD.jpg
+[09:29:44] Picture infomations saved to  global/en-CA/README.md
+[09:29:44] Picture infomations saved to global/en-CA/history/2025/09/27_en-CA.md
+[09:29:44] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-09-26 10:29:44.040785+01:00
+[09:29:44] Successful get url: https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-GB9058636428_UHD.jpg
+[09:29:44] Picture infomations saved to  global/en-GB/README.md
+[09:29:44] Picture infomations saved to global/en-GB/history/2025/09/26_en-GB.md
+[09:29:44] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-09-26 11:29:44.210634+02:00
+[09:29:44] Successful get url: https://www.bing.com/th?id=OHR.AutumnChipmunk_IT-IT3950595643_UHD.jpg
+[09:29:44] Picture infomations saved to  global/it-IT/README.md
+[09:29:44] Picture infomations saved to global/it-IT/history/2025/09/26_it-IT.md
+[09:29:44] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-09-26 11:29:44.365090+02:00
+[09:29:44] Successful get url: https://www.bing.com/th?id=OHR.AutumnChipmunk_ES-ES0673938292_UHD.jpg
+[09:29:44] Picture infomations saved to  global/es-ES/README.md
+[09:29:44] Picture infomations saved to global/es-ES/history/2025/09/26_es-ES.md
+[09:29:44] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-09-26 05:29:44.514885-04:00
+[09:29:44] Successful get url: https://www.bing.com/th?id=OHR.AutumnChipmunk_FR-CA4393122356_UHD.jpg
+[09:29:44] Picture infomations saved to  global/fr-CA/README.md
+[09:29:44] Picture infomations saved to global/fr-CA/history/2025/09/27_fr-CA.md
+Program exit at 09:29:44
