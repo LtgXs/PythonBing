@@ -6,9 +6,9 @@
 ||*Copyright: Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)*
 ||
 |||
-|2025-09-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AutumnChipmunk_JA-JP1455684810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnChipmunk_JA-JP1455684810_UHD.jpg)|
-||*Copyright: チビシマリス, 米国 モンタナ州 (© Donald M. Jones/Minden Pictures)*
+|2025-09-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TankLakes_JA-JP1667519475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TankLakes_JA-JP1667519475_UHD.jpg)|
+||*Copyright: タンク・レイクス, 米国 ワシントン州 (© Austin Trigg/TANDEM Stills + Motion)*
 ||
 |||
 |2025-09-26|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2025-09-26|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AutumnChipmunk_IT-IT3950595643_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnChipmunk_IT-IT3950595643_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.AutumnChipmunk_IT-IT8837145822_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnChipmunk_IT-IT8837145822_UHD.jpg)|
 ||*Copyright: Scoiattolo minore, Foresta Nazionale di Kootenai, Montana, USA (© Donald M. Jones/Minden Pictures)*
 ||
 |||
