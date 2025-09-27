@@ -6,9 +6,9 @@
 ||*Copyright: Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)*
 ||
 |||
-|2025-09-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TankLakes_JA-JP1667519475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TankLakes_JA-JP1667519475_UHD.jpg)|
-||*Copyright: タンク・レイクス, 米国 ワシントン州 (© Austin Trigg/TANDEM Stills + Motion)*
+|2025-09-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PienzaItaly_JA-JP1964382138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PienzaItaly_JA-JP1964382138_UHD.jpg)|
+||*Copyright: ピエンツァ, イタリア (© zpagistock/Getty Images)*
 ||
 |||
 |2025-09-27|**Region: en-IN**||
