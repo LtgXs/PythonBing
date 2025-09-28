@@ -6,9 +6,9 @@
 ||*Copyright: Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)*
 ||
 |||
-|2025-09-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PienzaItaly_JA-JP1964382138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PienzaItaly_JA-JP1964382138_UHD.jpg)|
-||*Copyright: ピエンツァ, イタリア (© zpagistock/Getty Images)*
+|2025-09-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ManekiNeko_JA-JP6063646197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManekiNeko_JA-JP6063646197_UHD.jpg)|
+||*Copyright: 豪徳寺の招き猫, 東京都 (© Maria S./Alamy Stock Photo)*
 ||
 |||
 |2025-09-28|**Region: en-IN**||
