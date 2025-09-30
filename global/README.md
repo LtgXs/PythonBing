@@ -6,9 +6,9 @@
 ||*Copyright: Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
 ||
 |||
-|2025-09-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_JA-JP6385601679_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_JA-JP6385601679_UHD.jpg)|
-||*Copyright: コアラ, オーストラリア (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
+|2025-10-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YosemiteClark_JA-JP6457719277_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteClark_JA-JP6457719277_UHD.jpg)|
+||*Copyright: クラーク山脈, 米国 カリフォルニア州 (© Robb Hirsch/TANDEM Stills + Motion)*
 ||
 |||
 |2025-09-30|**Region: en-IN**||
