@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-09-30|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg)|
-||*Copyright: The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)*
+|2025-10-01|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg)|
+||*Copyright: Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
 ||
 |||
 |2025-09-30|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: コアラ, オーストラリア (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
 ||
 |||
-|2025-09-29|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.HoutenHouses_EN-IN3573740286_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoutenHouses_EN-IN3573740286_UHD.jpg)|
-||*Copyright: Rainbow houses in the town of Houten, Netherlands (© George Pachantouris/Getty Images)*
+|2025-09-30|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-IN3734256942_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-IN3734256942_UHD.jpg)|
+||*Copyright: Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
 ||
 |||
-|2025-09-30|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.HoutenHouses_PT-BR1748801440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoutenHouses_PT-BR1748801440_UHD.jpg)|
-||*Copyright: Casas Arco-Íris na cidade de Houten, Países Baixos (© George Pachantouris/Getty Images)*
+|2025-10-01|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_PT-BR2049021569_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_PT-BR2049021569_UHD.jpg)|
+||*Copyright: Coala em uma árvore de eucalipto, Parque Nacional Great Otway, Austrália (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
 ||
 |||
-|2025-09-29|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HoutenHouses_FR-FR2130005193_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoutenHouses_FR-FR2130005193_UHD.jpg)|
-||*Copyright: Maisons arc-en-ciel dans la ville de Houten, Pays-Bas (© George Pachantouris/Getty Images)*
+|2025-09-30|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_FR-FR2271596623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_FR-FR2271596623_UHD.jpg)|
+||*Copyright: Koala dans un eucalyptus, parc national de Great Otway, Australie (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
 ||
 |||
-|2025-09-29|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.HoutenHouses_DE-DE0958725859_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoutenHouses_DE-DE0958725859_UHD.jpg)|
-||*Copyright: Regenbogenhäuser in der Stadt Houten, Niederlande (© George Pachantouris/Getty Images)*
+|2025-09-30|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_DE-DE1090162276_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_DE-DE1090162276_UHD.jpg)|
+||*Copyright: Koala in einem Eukalyptusbaum, Great-Otway-Nationalpark, Australien (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
 ||
 |||
-|2025-09-30|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HoutenHouses_EN-CA8693710238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoutenHouses_EN-CA8693710238_UHD.jpg)|
-||*Copyright: Rainbow houses in the town of Houten, Netherlands (© George Pachantouris/Getty Images)*
+|2025-10-01|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-CA8939050680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-CA8939050680_UHD.jpg)|
+||*Copyright: Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
 ||
 |||
-|2025-09-29|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.HoutenHouses_EN-GB0083761278_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoutenHouses_EN-GB0083761278_UHD.jpg)|
-||*Copyright: Rainbow houses in the town of Houten, Netherlands (© George Pachantouris/Getty Images)*
+|2025-09-30|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-GB0256529335_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-GB0256529335_UHD.jpg)|
+||*Copyright: Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
 ||
 |||
-|2025-09-29|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.HoutenHouses_IT-IT9070932054_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoutenHouses_IT-IT9070932054_UHD.jpg)|
-||*Copyright: Case arcobaleno nella città di Houten, Paesi Bassi (© George Pachantouris/Getty Images)*
+|2025-09-30|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_IT-IT9137756909_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_IT-IT9137756909_UHD.jpg)|
+||*Copyright: Koala su un albero di eucalipto, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
 ||
 |||
-|2025-09-29|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.HoutenHouses_ES-ES0772668707_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoutenHouses_ES-ES0772668707_UHD.jpg)|
-||*Copyright: Casas arcoíris en la ciudad de Houten, Países Bajos (© George Pachantouris/Getty Images)*
+|2025-09-30|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_ES-ES0797719606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_ES-ES0797719606_UHD.jpg)|
+||*Copyright: Koala en un eucalipto, Parque Nacional Great Otway, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
 ||
 |||
-|2025-09-30|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HoutenHouses_FR-CA6391833145_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoutenHouses_FR-CA6391833145_UHD.jpg)|
-||*Copyright: Maisons arc-en-ciel dans la ville de Houten, Pays-Bas (© George Pachantouris/Getty Images)*
+|2025-10-01|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_FR-CA6615119470_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_FR-CA6615119470_UHD.jpg)|
+||*Copyright: Koala dans un eucalyptus, parc national de Great Otway, Australie (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
 ||
 |||
 
