@@ -6,9 +6,9 @@
 ||*Copyright: Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)*
 ||
 |||
-|2025-10-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YosemiteClark_JA-JP6457719277_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteClark_JA-JP6457719277_UHD.jpg)|
-||*Copyright: クラーク山脈, 米国 カリフォルニア州 (© Robb Hirsch/TANDEM Stills + Motion)*
+|2025-10-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OxbowBend_JA-JP6534968552_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OxbowBend_JA-JP6534968552_UHD.jpg)|
+||*Copyright: オックスボウ・ベンド, 米国 ワイオミング州 (© DanitaDelimont.com/AWL Images/SuperStock)*
 ||
 |||
 |2025-10-01|**Region: en-IN**||
