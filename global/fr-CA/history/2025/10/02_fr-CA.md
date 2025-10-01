@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-10-02
+## History Bing Wallpaper
+Wallpaper date: 2025-10-02
 ![](https://www.bing.com/th?id=OHR.YosemiteClark_FR-CA6784551281_UHD.jpg&w=1000)Download: [Clark Range, Sierra Nevada, Parc National de Yosemite, Californie, États-Unis (© Robb Hirsch/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.YosemiteClark_FR-CA6784551281_UHD.jpg)
 
 Auto get programm by LtgX

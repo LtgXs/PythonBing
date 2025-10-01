@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-10-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg)|
-||*Copyright: Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
+|2025-10-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg)|
+||*Copyright: Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)*
 ||
 |||
 |2025-10-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: クラーク山脈, 米国 カリフォルニア州 (© Robb Hirsch/TANDEM Stills + Motion)*
 ||
 |||
-|2025-09-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-IN3734256942_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-IN3734256942_UHD.jpg)|
-||*Copyright: Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
+|2025-10-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GoddessDurga2025_EN-IN4254679403_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoddessDurga2025_EN-IN4254679403_UHD.jpg)|
+||*Copyright: Goddess Durga idol at a puja pandal in Kolkata, West Bengal (© Arnav Pratap Singh/Getty Images)*
 ||
 |||
-|2025-10-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_PT-BR2049021569_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_PT-BR2049021569_UHD.jpg)|
-||*Copyright: Coala em uma árvore de eucalipto, Parque Nacional Great Otway, Austrália (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
+|2025-10-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PraiaPortoGalinhas_PT-BR2218477838_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PraiaPortoGalinhas_PT-BR2218477838_UHD.jpg)|
+||*Copyright: Praia de Porto de Galinhas, Pernambuco (© Ildo Frazao/Getty Images)*
 ||
 |||
-|2025-09-30|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_FR-FR2271596623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_FR-FR2271596623_UHD.jpg)|
-||*Copyright: Koala dans un eucalyptus, parc national de Great Otway, Australie (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
+|2025-10-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.YosemiteClark_FR-FR2430625241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteClark_FR-FR2430625241_UHD.jpg)|
+||*Copyright: Clark Range, Sierra Nevada, parc national de Yosemite, Californie, États-Unis (© Robb Hirsch/TANDEM Stills + Motion)*
 ||
 |||
-|2025-09-30|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_DE-DE1090162276_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_DE-DE1090162276_UHD.jpg)|
-||*Copyright: Koala in einem Eukalyptusbaum, Great-Otway-Nationalpark, Australien (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
+|2025-10-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.YosemiteClark_DE-DE1037605908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteClark_DE-DE1037605908_UHD.jpg)|
+||*Copyright: Clark Range, Sierra Nevada, Yosemite-Nationalpark, Kalifornien, USA (© Robb Hirsch/TANDEM Stills + Motion)*
 ||
 |||
-|2025-10-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-CA8939050680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-CA8939050680_UHD.jpg)|
-||*Copyright: Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
+|2025-10-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.YosemiteClark_EN-CA9187443856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteClark_EN-CA9187443856_UHD.jpg)|
+||*Copyright: Clark Range, Sierra Nevada, Yosemite National Park, California, United States (© Robb Hirsch/TANDEM Stills + Motion)*
 ||
 |||
-|2025-09-30|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-GB0256529335_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-GB0256529335_UHD.jpg)|
-||*Copyright: Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
+|2025-10-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BlackMonthUK2025_EN-GB0715842244_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackMonthUK2025_EN-GB0715842244_UHD.jpg)|
+||*Copyright: Silhouette of former South African President Nelson Mandela, 26 Leake Street, London, 2019 (© Leon Neal/Getty Images)*
 ||
 |||
-|2025-09-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_IT-IT9137756909_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_IT-IT9137756909_UHD.jpg)|
-||*Copyright: Koala su un albero di eucalipto, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
+|2025-10-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.YosemiteClark_IT-IT9290949114_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteClark_IT-IT9290949114_UHD.jpg)|
+||*Copyright: Catena montuosa Clark, Sierra Nevada, Parco Nazionale di Yosemite, California, USA (© Robb Hirsch/TANDEM Stills + Motion)*
 ||
 |||
-|2025-09-30|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_ES-ES0797719606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_ES-ES0797719606_UHD.jpg)|
-||*Copyright: Koala en un eucalipto, Parque Nacional Great Otway, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
+|2025-10-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.YosemiteClark_ES-ES0823562766_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteClark_ES-ES0823562766_UHD.jpg)|
+||*Copyright: Cordillera Clark, Sierra Nevada, Parque Nacional de Yosemite, California, EE. UU. (© Robb Hirsch/TANDEM Stills + Motion)*
 ||
 |||
-|2025-10-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.EucalyptusKoala_FR-CA6615119470_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EucalyptusKoala_FR-CA6615119470_UHD.jpg)|
-||*Copyright: Koala dans un eucalyptus, parc national de Great Otway, Australie (© Jamie Lamb - elusive-images.co.uk/Getty Images)*
+|2025-10-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.YosemiteClark_FR-CA6784551281_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteClark_FR-CA6784551281_UHD.jpg)|
+||*Copyright: Clark Range, Sierra Nevada, Parc National de Yosemite, Californie, États-Unis (© Robb Hirsch/TANDEM Stills + Motion)*
 ||
 |||
 
