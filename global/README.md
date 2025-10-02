@@ -6,9 +6,9 @@
 ||*Copyright: Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDelimont.com/AWL Images/SuperStock)*
 ||
 |||
-|2025-10-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OxbowBend_JA-JP6534968552_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OxbowBend_JA-JP6534968552_UHD.jpg)|
-||*Copyright: オックスボウ・ベンド, 米国 ワイオミング州 (© DanitaDelimont.com/AWL Images/SuperStock)*
+|2025-10-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SkyeHeather_JA-JP7561347402_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkyeHeather_JA-JP7561347402_UHD.jpg)|
+||*Copyright: グレン・ブリトル, スコットランド (© Adam Mowery/TANDEM Stills + Motion)*
 ||
 |||
 |2025-10-02|**Region: en-IN**||
