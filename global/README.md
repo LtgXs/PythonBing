@@ -6,9 +6,9 @@
 ||*Copyright: Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)*
 ||
 |||
-|2025-10-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SkyeHeather_JA-JP7561347402_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkyeHeather_JA-JP7561347402_UHD.jpg)|
-||*Copyright: グレン・ブリトル, スコットランド (© Adam Mowery/TANDEM Stills + Motion)*
+|2025-10-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DragonEndeavour_JA-JP7626531843_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonEndeavour_JA-JP7626531843_UHD.jpg)|
+||*Copyright: エンデバーから見た ISS のソーラーパネル (© NASA)*
 ||
 |||
 |2025-10-03|**Region: en-IN**||
