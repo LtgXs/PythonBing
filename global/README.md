@@ -6,9 +6,9 @@
 ||*Copyright: ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)*
 ||
 |||
-|2025-10-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DragonEndeavour_JA-JP7626531843_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonEndeavour_JA-JP7626531843_UHD.jpg)|
-||*Copyright: エンデバーから見た ISS のソーラーパネル (© NASA)*
+|2025-10-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TeacherOwl_JA-JP7686022274_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_JA-JP7686022274_UHD.jpg)|
+||*Copyright: 森に佇むキンメフクロウ (© Ondrej Prosicky/Alamy)*
 ||
 |||
 |2025-10-04|**Region: en-IN**||
