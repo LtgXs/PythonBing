@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-10-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg)|
-||*Copyright: ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)*
+|2025-10-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg)|
+||*Copyright: Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)*
 ||
 |||
 |2025-10-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 森に佇むキンメフクロウ (© Ondrej Prosicky/Alamy)*
 ||
 |||
-|2025-10-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.DragonEndeavour_EN-IN9334573576_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonEndeavour_EN-IN9334573576_UHD.jpg)|
-||*Copyright: ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)*
+|2025-10-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.JahangirMahal_EN-IN7628563681_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JahangirMahal_EN-IN7628563681_UHD.jpg)|
+||*Copyright: Jahangir Mahal, Orchha, Madhya Pradesh (© Alf/Getty Images)*
 ||
 |||
-|2025-10-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DragonEndeavour_PT-BR6949241146_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonEndeavour_PT-BR6949241146_UHD.jpg)|
-||*Copyright: Painéis solares da ISS vistos a partir da cápsula Crew Dragon Endeavour da SpaceX (© NASA)*
+|2025-10-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TeacherOwl_PT-BR6486384324_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_PT-BR6486384324_UHD.jpg)|
+||*Copyright: Mocho-funéreo em uma floresta na Europa Central (© Ondrej Prosicky/Alamy)*
 ||
 |||
-|2025-10-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CamagueHorses_FR-FR8949135937_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CamagueHorses_FR-FR8949135937_UHD.jpg)|
-||*Copyright: Chevaux de Camargue, Aigues-Mortes, Occitanie (© Francesco Riccardo Lacomino/Getty Images)*
+|2025-10-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TeacherOwl_FR-FR0719163215_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_FR-FR0719163215_UHD.jpg)|
+||*Copyright: Chouette boréale dans une forêt d’Europe centrale (© Ondrej Prosicky/Alamy)*
 ||
 |||
-|2025-10-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.DragonEndeavour_DE-DE7375931305_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonEndeavour_DE-DE7375931305_UHD.jpg)|
-||*Copyright: Die Hauptsolaranlagen der ISS, gesehen von der SpaceX Crew Dragon Endeavour (© NASA)  (© NASA)*
+|2025-10-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TeacherOwl_DE-DE2816959094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_DE-DE2816959094_UHD.jpg)|
+||*Copyright: Raufußkauz in einem Wald in Mitteleuropa (© Ondrej Prosicky/Alamy)*
 ||
 |||
-|2025-10-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.InsideOutNB_EN-CA6818912564_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.InsideOutNB_EN-CA6818912564_UHD.jpg)|
-||*Copyright: 'Inside Out' by JR at the Nathan Phillips Square, Nuit Blanche 2015, Toronto (© Melissa Renwick/Contributor/Getty Images)*
+|2025-10-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TeacherOwl_EN-CA7173344502_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_EN-CA7173344502_UHD.jpg)|
+||*Copyright: Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)*
 ||
 |||
-|2025-10-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DragonEndeavour_EN-GB3820575849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonEndeavour_EN-GB3820575849_UHD.jpg)|
-||*Copyright: ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)*
+|2025-10-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TeacherOwl_EN-GB4585864931_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_EN-GB4585864931_UHD.jpg)|
+||*Copyright: Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)*
 ||
 |||
-|2025-10-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DragonEndeavour_IT-IT7184624651_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonEndeavour_IT-IT7184624651_UHD.jpg)|
-||*Copyright: Pannelli solari della ISS visti dalla SpaceX Crew Dragon Endeavour (© NASA)*
+|2025-10-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TeacherOwl_IT-IT7269776472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_IT-IT7269776472_UHD.jpg)|
+||*Copyright: Civetta capogrosso in una foresta dell'Europa centrale (© Ondrej Prosicky/Alamy)*
 ||
 |||
-|2025-10-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.DragonEndeavour_ES-ES0464086432_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonEndeavour_ES-ES0464086432_UHD.jpg)|
-||*Copyright: Paneles solares principales de la ISS vistos desde SpaceX Crew Dragon Endeavour (© NASA)*
+|2025-10-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_UHD.jpg)|
+||*Copyright: Catedral basílica de Nuestra Señora del Pilar, Zaragoza, España (© Botond Horvath/Shutterstock)*
 ||
 |||
-|2025-10-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.InsideOutNB_FR-CA5265996893_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.InsideOutNB_FR-CA5265996893_UHD.jpg)|
-||*Copyright: « Inside Out » par JR, place Nathan Phillips, Nuit Blanche 2015, Toronto (© Melissa Renwick/Contributor/Getty Images)*
+|2025-10-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TeacherOwl_FR-CA5450813824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_FR-CA5450813824_UHD.jpg)|
+||*Copyright: Chouette boréale dans une forêt d’Europe centrale (© Ondrej Prosicky/Alamy)*
 ||
 |||
 

@@ -1,0 +1,60 @@
+
+Program started at 09:25:05
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwhb2z
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:25:05] Start geting CN Bing Wallpaper
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg
+[09:25:06] Image saved to img/background.jpg
+[09:25:06] Info saved to README.md
+[09:25:06] Image saved to history/2025/10/05.md
+[09:25:06] Start geting global Bing Wallpaper, region=en-US, local time is 2025-10-05 05:25:06.325042-04:00
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg
+[09:25:06] Picture infomations saved to  global/en-US/README.md
+[09:25:06] Picture infomations saved to global/en-US/history/2025/10/06_en-US.md
+[09:25:06] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-10-05 18:25:06.695861+09:00
+[09:25:06] Successful get url: https://www.bing.com/th?id=OHR.TeacherOwl_JA-JP7686022274_UHD.jpg
+[09:25:07] Picture infomations saved to  global/ja-JP/README.md
+[09:25:07] Picture infomations saved to global/ja-JP/history/2025/10/05_ja-JP.md
+[09:25:07] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-10-05 14:55:07.047330+05:30
+[09:25:07] Successful get url: https://www.bing.com/th?id=OHR.JahangirMahal_EN-IN7628563681_UHD.jpg
+[09:25:07] Picture infomations saved to  global/en-IN/README.md
+[09:25:07] Picture infomations saved to global/en-IN/history/2025/10/05_en-IN.md
+[09:25:07] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-10-05 06:25:07.333925-03:00
+[09:25:07] Successful get url: https://www.bing.com/th?id=OHR.TeacherOwl_PT-BR6486384324_UHD.jpg
+[09:25:07] Picture infomations saved to  global/pt-BR/README.md
+[09:25:07] Picture infomations saved to global/pt-BR/history/2025/10/06_pt-BR.md
+[09:25:07] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-10-05 11:25:07.686097+02:00
+[09:25:07] Successful get url: https://www.bing.com/th?id=OHR.TeacherOwl_FR-FR0719163215_UHD.jpg
+[09:25:08] Picture infomations saved to  global/fr-FR/README.md
+[09:25:08] Picture infomations saved to global/fr-FR/history/2025/10/05_fr-FR.md
+[09:25:08] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-10-05 11:25:08.035590+02:00
+[09:25:08] Successful get url: https://www.bing.com/th?id=OHR.TeacherOwl_DE-DE2816959094_UHD.jpg
+[09:25:08] Picture infomations saved to  global/de-DE/README.md
+[09:25:08] Picture infomations saved to global/de-DE/history/2025/10/05_de-DE.md
+[09:25:08] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-10-05 05:25:08.315034-04:00
+[09:25:08] Successful get url: https://www.bing.com/th?id=OHR.TeacherOwl_EN-CA7173344502_UHD.jpg
+[09:25:08] Picture infomations saved to  global/en-CA/README.md
+[09:25:08] Picture infomations saved to global/en-CA/history/2025/10/06_en-CA.md
+[09:25:08] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-10-05 10:25:08.646986+01:00
+[09:25:08] Successful get url: https://www.bing.com/th?id=OHR.TeacherOwl_EN-GB4585864931_UHD.jpg
+[09:25:08] Picture infomations saved to  global/en-GB/README.md
+[09:25:08] Picture infomations saved to global/en-GB/history/2025/10/05_en-GB.md
+[09:25:08] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-10-05 11:25:08.881993+02:00
+[09:25:08] Successful get url: https://www.bing.com/th?id=OHR.TeacherOwl_IT-IT7269776472_UHD.jpg
+[09:25:09] Picture infomations saved to  global/it-IT/README.md
+[09:25:09] Picture infomations saved to global/it-IT/history/2025/10/05_it-IT.md
+[09:25:09] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-10-05 11:25:09.224547+02:00
+[09:25:09] Successful get url: https://www.bing.com/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_UHD.jpg
+[09:25:09] Picture infomations saved to  global/es-ES/README.md
+[09:25:09] Picture infomations saved to global/es-ES/history/2025/10/05_es-ES.md
+[09:25:09] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-10-05 05:25:09.601580-04:00
+[09:25:09] Successful get url: https://www.bing.com/th?id=OHR.TeacherOwl_FR-CA5450813824_UHD.jpg
+[09:25:09] Picture infomations saved to  global/fr-CA/README.md
+[09:25:09] Picture infomations saved to global/fr-CA/history/2025/10/06_fr-CA.md
+Program exit at 09:25:09
