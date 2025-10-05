@@ -6,9 +6,9 @@
 ||*Copyright: Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)*
 ||
 |||
-|2025-10-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TeacherOwl_JA-JP7686022274_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_JA-JP7686022274_UHD.jpg)|
-||*Copyright: 森に佇むキンメフクロウ (© Ondrej Prosicky/Alamy)*
+|2025-10-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AnshunBridge_JA-JP7739273331_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnshunBridge_JA-JP7739273331_UHD.jpg)|
+||*Copyright: 錦江に映える安順橋と満月, 中国 (© Philippe LEJEANVRE/Getty Images)*
 ||
 |||
 |2025-10-05|**Region: en-IN**||
