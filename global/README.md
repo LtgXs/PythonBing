@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-10-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg)|
-||*Copyright: Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)*
+|2025-10-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg)|
+||*Copyright: Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)*
 ||
 |||
 |2025-10-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 錦江に映える安順橋と満月, 中国 (© Philippe LEJEANVRE/Getty Images)*
 ||
 |||
-|2025-10-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.JahangirMahal_EN-IN7628563681_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JahangirMahal_EN-IN7628563681_UHD.jpg)|
-||*Copyright: Jahangir Mahal, Orchha, Madhya Pradesh (© Alf/Getty Images)*
+|2025-10-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AnshunBridge_EN-IN9593478408_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnshunBridge_EN-IN9593478408_UHD.jpg)|
+||*Copyright: Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)*
 ||
 |||
-|2025-10-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TeacherOwl_PT-BR6486384324_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_PT-BR6486384324_UHD.jpg)|
-||*Copyright: Mocho-funéreo em uma floresta na Europa Central (© Ondrej Prosicky/Alamy)*
+|2025-10-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AnshunBridge_PT-BR6404226352_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnshunBridge_PT-BR6404226352_UHD.jpg)|
+||*Copyright: Anshun Bridge iluminada para o Festival da Lua em Chengdu, China (© Philippe LEJEANVRE/Getty Images)*
 ||
 |||
-|2025-10-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TeacherOwl_FR-FR0719163215_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_FR-FR0719163215_UHD.jpg)|
-||*Copyright: Chouette boréale dans une forêt d’Europe centrale (© Ondrej Prosicky/Alamy)*
+|2025-10-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AnshunBridge_FR-FR1659622087_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnshunBridge_FR-FR1659622087_UHD.jpg)|
+||*Copyright: Pont Anshun illuminé pour la fête de la mi-automne, Chengdu, Chine (© Philippe LEJEANVRE/Getty Images)*
 ||
 |||
-|2025-10-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TeacherOwl_DE-DE2816959094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_DE-DE2816959094_UHD.jpg)|
-||*Copyright: Raufußkauz in einem Wald in Mitteleuropa (© Ondrej Prosicky/Alamy)*
+|2025-10-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AnshunBridge_DE-DE2900249010_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnshunBridge_DE-DE2900249010_UHD.jpg)|
+||*Copyright: Anshun-Brücke, beleuchtet zum Mondfest, Chengdu, China (© Philippe LEJEANVRE/Getty Images)*
 ||
 |||
-|2025-10-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TeacherOwl_EN-CA7173344502_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_EN-CA7173344502_UHD.jpg)|
-||*Copyright: Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)*
+|2025-10-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AnshunBridge_EN-CA7553942511_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnshunBridge_EN-CA7553942511_UHD.jpg)|
+||*Copyright: Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)*
 ||
 |||
-|2025-10-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TeacherOwl_EN-GB4585864931_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_EN-GB4585864931_UHD.jpg)|
-||*Copyright: Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)*
+|2025-10-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AnshunBridge_EN-GB4728597345_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnshunBridge_EN-GB4728597345_UHD.jpg)|
+||*Copyright: Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)*
 ||
 |||
-|2025-10-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TeacherOwl_IT-IT7269776472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_IT-IT7269776472_UHD.jpg)|
-||*Copyright: Civetta capogrosso in una foresta dell'Europa centrale (© Ondrej Prosicky/Alamy)*
+|2025-10-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AmethystLaccaria_IT-IT7329865927_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmethystLaccaria_IT-IT7329865927_UHD.jpg)|
+||*Copyright: Funghi agarici ametistini, Seabeck, Washington, USA (© Danita Delimont/Shutterstock)*
 ||
 |||
-|2025-10-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_UHD.jpg)|
-||*Copyright: Catedral basílica de Nuestra Señora del Pilar, Zaragoza, España (© Botond Horvath/Shutterstock)*
+|2025-10-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AnshunBridge_ES-ES0720553853_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnshunBridge_ES-ES0720553853_UHD.jpg)|
+||*Copyright: Puente Anshun iluminado para el Fiesta del Medio Otoño, Chengdu, China (© Philippe LEJEANVRE/Getty Images)*
 ||
 |||
-|2025-10-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TeacherOwl_FR-CA5450813824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeacherOwl_FR-CA5450813824_UHD.jpg)|
-||*Copyright: Chouette boréale dans une forêt d’Europe centrale (© Ondrej Prosicky/Alamy)*
+|2025-10-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AnshunBridge_FR-CA5523096910_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnshunBridge_FR-CA5523096910_UHD.jpg)|
+||*Copyright: Pont Anshun illuminé pour la fête de la mi-automne, Chengdu, Chine (© Philippe LEJEANVRE/Getty Images)*
 ||
 |||
 

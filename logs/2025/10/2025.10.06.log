@@ -1,0 +1,60 @@
+
+Program started at 09:31:43
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwhb2z
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[09:31:43] Start geting CN Bing Wallpaper
+[09:31:43] Successful get url: https://www.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg
+[09:31:43] Image saved to img/background.jpg
+[09:31:43] Info saved to README.md
+[09:31:43] Image saved to history/2025/10/06.md
+[09:31:43] Start geting global Bing Wallpaper, region=en-US, local time is 2025-10-06 05:31:43.534692-04:00
+[09:31:43] Successful get url: https://www.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg
+[09:31:43] Picture infomations saved to  global/en-US/README.md
+[09:31:43] Picture infomations saved to global/en-US/history/2025/10/07_en-US.md
+[09:31:43] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-10-06 18:31:43.853148+09:00
+[09:31:43] Successful get url: https://www.bing.com/th?id=OHR.AnshunBridge_JA-JP7739273331_UHD.jpg
+[09:31:44] Picture infomations saved to  global/ja-JP/README.md
+[09:31:44] Picture infomations saved to global/ja-JP/history/2025/10/06_ja-JP.md
+[09:31:44] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-10-06 15:01:44.190273+05:30
+[09:31:44] Successful get url: https://www.bing.com/th?id=OHR.AnshunBridge_EN-IN9593478408_UHD.jpg
+[09:31:44] Picture infomations saved to  global/en-IN/README.md
+[09:31:44] Picture infomations saved to global/en-IN/history/2025/10/06_en-IN.md
+[09:31:44] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-10-06 06:31:44.491596-03:00
+[09:31:44] Successful get url: https://www.bing.com/th?id=OHR.AnshunBridge_PT-BR6404226352_UHD.jpg
+[09:31:44] Picture infomations saved to  global/pt-BR/README.md
+[09:31:44] Picture infomations saved to global/pt-BR/history/2025/10/07_pt-BR.md
+[09:31:44] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-10-06 11:31:44.805088+02:00
+[09:31:44] Successful get url: https://www.bing.com/th?id=OHR.AnshunBridge_FR-FR1659622087_UHD.jpg
+[09:31:45] Picture infomations saved to  global/fr-FR/README.md
+[09:31:45] Picture infomations saved to global/fr-FR/history/2025/10/06_fr-FR.md
+[09:31:45] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-10-06 11:31:45.113571+02:00
+[09:31:45] Successful get url: https://www.bing.com/th?id=OHR.AnshunBridge_DE-DE2900249010_UHD.jpg
+[09:31:45] Picture infomations saved to  global/de-DE/README.md
+[09:31:45] Picture infomations saved to global/de-DE/history/2025/10/06_de-DE.md
+[09:31:45] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-10-06 05:31:45.425110-04:00
+[09:31:45] Successful get url: https://www.bing.com/th?id=OHR.AnshunBridge_EN-CA7553942511_UHD.jpg
+[09:31:45] Picture infomations saved to  global/en-CA/README.md
+[09:31:45] Picture infomations saved to global/en-CA/history/2025/10/07_en-CA.md
+[09:31:45] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-10-06 10:31:45.726363+01:00
+[09:31:45] Successful get url: https://www.bing.com/th?id=OHR.AnshunBridge_EN-GB4728597345_UHD.jpg
+[09:31:46] Picture infomations saved to  global/en-GB/README.md
+[09:31:46] Picture infomations saved to global/en-GB/history/2025/10/06_en-GB.md
+[09:31:46] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-10-06 11:31:46.059252+02:00
+[09:31:46] Successful get url: https://www.bing.com/th?id=OHR.AmethystLaccaria_IT-IT7329865927_UHD.jpg
+[09:31:46] Picture infomations saved to  global/it-IT/README.md
+[09:31:46] Picture infomations saved to global/it-IT/history/2025/10/06_it-IT.md
+[09:31:46] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-10-06 11:31:46.356257+02:00
+[09:31:46] Successful get url: https://www.bing.com/th?id=OHR.AnshunBridge_ES-ES0720553853_UHD.jpg
+[09:31:46] Picture infomations saved to  global/es-ES/README.md
+[09:31:46] Picture infomations saved to global/es-ES/history/2025/10/06_es-ES.md
+[09:31:46] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-10-06 05:31:46.653504-04:00
+[09:31:46] Successful get url: https://www.bing.com/th?id=OHR.AnshunBridge_FR-CA5523096910_UHD.jpg
+[09:31:46] Picture infomations saved to  global/fr-CA/README.md
+[09:31:46] Picture infomations saved to global/fr-CA/history/2025/10/07_fr-CA.md
+Program exit at 09:31:46
