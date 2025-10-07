@@ -6,9 +6,9 @@
 ||*Copyright: Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
-|2025-10-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RidgwayAspens_JA-JP7797192109_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RidgwayAspens_JA-JP7797192109_UHD.jpg)|
-||*Copyright: スネフェルス山, 米国 コロラド州 (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-10-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Ryuzufalls2025_JA-JP6418303608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Ryuzufalls2025_JA-JP6418303608_UHD.jpg)|
+||*Copyright: 竜頭の滝, 栃木県 日光市 (© kecl/Getty images)*
 ||
 |||
 |2025-10-07|**Region: en-IN**||

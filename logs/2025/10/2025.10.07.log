@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:05] Picture infomations saved to  global/fr-CA/README.md
 [09:30:05] Picture infomations saved to global/fr-CA/history/2025/10/08_fr-CA.md
 Program exit at 09:30:05
+
+Program started at 16:16:24
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwhb2z
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:16:24] Start geting CN Bing Wallpaper
+[16:16:24] Successful get url: https://www.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg
+[16:16:24] Image saved to img/background.jpg
+[16:16:24] Info saved to README.md
+[16:16:24] Image saved to history/2025/10/08.md
+[16:16:24] Start geting global Bing Wallpaper, region=en-US, local time is 2025-10-07 12:16:24.923609-04:00
+[16:16:24] Successful get url: https://www.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg
+[16:16:25] Picture infomations saved to  global/en-US/README.md
+[16:16:25] Picture infomations saved to global/en-US/history/2025/10/08_en-US.md
+[16:16:25] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-10-08 01:16:25.054751+09:00
+[16:16:25] Successful get url: https://www.bing.com/th?id=OHR.Ryuzufalls2025_JA-JP6418303608_UHD.jpg
+[16:16:25] Picture infomations saved to  global/ja-JP/README.md
+[16:16:25] Picture infomations saved to global/ja-JP/history/2025/10/08_ja-JP.md
+[16:16:25] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-10-07 21:46:25.243445+05:30
+[16:16:25] Successful get url: https://www.bing.com/th?id=OHR.RidgwayAspens_EN-IN9829823825_UHD.jpg
+[16:16:25] Picture infomations saved to  global/en-IN/README.md
+[16:16:25] Picture infomations saved to global/en-IN/history/2025/10/07_en-IN.md
+[16:16:25] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-10-07 13:16:25.412933-03:00
+[16:16:25] Successful get url: https://www.bing.com/th?id=OHR.SaoMiguel_PT-BR6587333283_UHD.jpg
+[16:16:25] Picture infomations saved to  global/pt-BR/README.md
+[16:16:25] Picture infomations saved to global/pt-BR/history/2025/10/08_pt-BR.md
+[16:16:25] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-10-07 18:16:25.689548+02:00
+[16:16:25] Successful get url: https://www.bing.com/th?id=OHR.CapAntibes_FR-FR2066318600_UHD.jpg
+[16:16:25] Picture infomations saved to  global/fr-FR/README.md
+[16:16:25] Picture infomations saved to global/fr-FR/history/2025/10/07_fr-FR.md
+[16:16:25] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-10-07 18:16:25.893917+02:00
+[16:16:25] Successful get url: https://www.bing.com/th?id=OHR.RidgwayAspens_DE-DE7371815159_UHD.jpg
+[16:16:26] Picture infomations saved to  global/de-DE/README.md
+[16:16:26] Picture infomations saved to global/de-DE/history/2025/10/07_de-DE.md
+[16:16:26] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-10-07 12:16:26.086620-04:00
+[16:16:26] Successful get url: https://www.bing.com/th?id=OHR.RidgwayAspens_EN-CA7717329977_UHD.jpg
+[16:16:26] Picture infomations saved to  global/en-CA/README.md
+[16:16:26] Picture infomations saved to global/en-CA/history/2025/10/08_en-CA.md
+[16:16:26] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-10-07 17:16:26.393503+01:00
+[16:16:26] Successful get url: https://www.bing.com/th?id=OHR.RidgwayAspens_EN-GB4884464302_UHD.jpg
+[16:16:26] Picture infomations saved to  global/en-GB/README.md
+[16:16:26] Picture infomations saved to global/en-GB/history/2025/10/07_en-GB.md
+[16:16:26] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-10-07 18:16:26.646786+02:00
+[16:16:26] Successful get url: https://www.bing.com/th?id=OHR.RidgwayAspens_IT-IT7479755416_UHD.jpg
+[16:16:26] Picture infomations saved to  global/it-IT/README.md
+[16:16:26] Picture infomations saved to global/it-IT/history/2025/10/07_it-IT.md
+[16:16:26] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-10-07 18:16:26.824290+02:00
+[16:16:26] Successful get url: https://www.bing.com/th?id=OHR.SaranacLake_ES-ES0795608317_UHD.jpg
+[16:16:27] Picture infomations saved to  global/es-ES/README.md
+[16:16:27] Picture infomations saved to global/es-ES/history/2025/10/07_es-ES.md
+[16:16:27] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-10-07 12:16:27.006547-04:00
+[16:16:27] Successful get url: https://www.bing.com/th?id=OHR.RidgwayAspens_FR-CA5613578369_UHD.jpg
+[16:16:27] Picture infomations saved to  global/fr-CA/README.md
+[16:16:27] Picture infomations saved to global/fr-CA/history/2025/10/08_fr-CA.md
+Program exit at 16:16:27
