@@ -6,9 +6,9 @@
 ||*Copyright: Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)*
 ||
 |||
-|2025-10-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Ryuzufalls2025_JA-JP6418303608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Ryuzufalls2025_JA-JP6418303608_UHD.jpg)|
-||*Copyright: 竜頭の滝, 栃木県 日光市 (© kecl/Getty images)*
+|2025-10-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_UHD.jpg)|
+||*Copyright: ジェームズ・ウェッブ宇宙望遠鏡が撮影した創造の柱 (© NASA)*
 ||
 |||
 |2025-10-08|**Region: en-IN**||
