@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-10-11
+## History Bing Wallpaper
+Wallpaper date: 2025-10-11
 ![](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg&w=1000)Download: [Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg)
 
 Auto get programm by LtgX
