@@ -6,9 +6,9 @@
 ||*Copyright: Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)*
 ||
 |||
-|2025-10-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MonurikiFiji_JA-JP7889877935_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonurikiFiji_JA-JP7889877935_UHD.jpg)|
-||*Copyright: モンリキ島, フィジー (© David Wall/SuperStock)*
+|2025-10-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WoodDuckHen_JA-JP7933266501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WoodDuckHen_JA-JP7933266501_UHD.jpg)|
+||*Copyright: メスのアメリカオシ, 米国 (© ps50ace/iStock/Getty Images)*
 ||
 |||
 |2025-10-10|**Region: en-IN**||

@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:23] Picture infomations saved to  global/fr-CA/README.md
 [09:30:23] Picture infomations saved to global/fr-CA/history/2025/10/11_fr-CA.md
 Program exit at 09:30:23
+
+Program started at 16:16:11
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwhb2z
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:16:11] Start geting CN Bing Wallpaper
+[16:16:11] Successful get url: https://www.bing.com/th?id=OHR.WoodDuckHen_ZH-CN9558916773_UHD.jpg
+[16:16:12] Image saved to img/background.jpg
+[16:16:12] Info saved to README.md
+[16:16:12] Image saved to history/2025/10/11.md
+[16:16:12] Start geting global Bing Wallpaper, region=en-US, local time is 2025-10-10 12:16:12.190443-04:00
+[16:16:12] Successful get url: https://www.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg
+[16:16:12] Picture infomations saved to  global/en-US/README.md
+[16:16:12] Picture infomations saved to global/en-US/history/2025/10/11_en-US.md
+[16:16:12] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-10-11 01:16:12.528116+09:00
+[16:16:12] Successful get url: https://www.bing.com/th?id=OHR.WoodDuckHen_JA-JP7933266501_UHD.jpg
+[16:16:12] Picture infomations saved to  global/ja-JP/README.md
+[16:16:12] Picture infomations saved to global/ja-JP/history/2025/10/11_ja-JP.md
+[16:16:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-10-10 21:46:12.858652+05:30
+[16:16:12] Successful get url: https://www.bing.com/th?id=OHR.MonurikiFiji_EN-IN0435648198_UHD.jpg
+[16:16:13] Picture infomations saved to  global/en-IN/README.md
+[16:16:13] Picture infomations saved to global/en-IN/history/2025/10/10_en-IN.md
+[16:16:13] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-10-10 13:16:13.230896-03:00
+[16:16:13] Successful get url: https://www.bing.com/th?id=OHR.MonurikiFiji_PT-BR5100753810_UHD.jpg
+[16:16:13] Picture infomations saved to  global/pt-BR/README.md
+[16:16:13] Picture infomations saved to global/pt-BR/history/2025/10/11_pt-BR.md
+[16:16:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-10-10 18:16:13.575151+02:00
+[16:16:13] Successful get url: https://www.bing.com/th?id=OHR.MonurikiFiji_FR-FR1965594259_UHD.jpg
+[16:16:13] Picture infomations saved to  global/fr-FR/README.md
+[16:16:13] Picture infomations saved to global/fr-FR/history/2025/10/10_fr-FR.md
+[16:16:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-10-10 18:16:13.897728+02:00
+[16:16:13] Successful get url: https://www.bing.com/th?id=OHR.MonurikiFiji_DE-DE3464420542_UHD.jpg
+[16:16:14] Picture infomations saved to  global/de-DE/README.md
+[16:16:14] Picture infomations saved to global/de-DE/history/2025/10/10_de-DE.md
+[16:16:14] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-10-10 12:16:14.203958-04:00
+[16:16:14] Successful get url: https://www.bing.com/th?id=OHR.MonurikiFiji_EN-CA8167749404_UHD.jpg
+[16:16:14] Picture infomations saved to  global/en-CA/README.md
+[16:16:14] Picture infomations saved to global/en-CA/history/2025/10/11_en-CA.md
+[16:16:14] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-10-10 17:16:14.522388+01:00
+[16:16:14] Successful get url: https://www.bing.com/th?id=OHR.MonurikiFiji_EN-GB5307318194_UHD.jpg
+[16:16:14] Picture infomations saved to  global/en-GB/README.md
+[16:16:14] Picture infomations saved to global/en-GB/history/2025/10/10_en-GB.md
+[16:16:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-10-10 18:16:14.828801+02:00
+[16:16:14] Successful get url: https://www.bing.com/th?id=OHR.MonurikiFiji_IT-IT0760985138_UHD.jpg
+[16:16:15] Picture infomations saved to  global/it-IT/README.md
+[16:16:15] Picture infomations saved to global/it-IT/history/2025/10/10_it-IT.md
+[16:16:15] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-10-10 18:16:15.152897+02:00
+[16:16:15] Successful get url: https://www.bing.com/th?id=OHR.MonurikiFiji_ES-ES0990792283_UHD.jpg
+[16:16:15] Picture infomations saved to  global/es-ES/README.md
+[16:16:15] Picture infomations saved to global/es-ES/history/2025/10/10_es-ES.md
+[16:16:15] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-10-10 12:16:15.466697-04:00
+[16:16:15] Successful get url: https://www.bing.com/th?id=OHR.MonurikiFiji_FR-CA5819012564_UHD.jpg
+[16:16:15] Picture infomations saved to  global/fr-CA/README.md
+[16:16:15] Picture infomations saved to global/fr-CA/history/2025/10/11_fr-CA.md
+Program exit at 16:16:15
