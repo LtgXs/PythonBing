@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-10-11|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg)|
-||*Copyright: Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)*
+|2025-10-12|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg)|
+||*Copyright: Wood duck hen (© ps50ace/iStock/Getty Images)*
 ||
 |||
 |2025-10-11|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: メスのアメリカオシ, 米国 (© ps50ace/iStock/Getty Images)*
 ||
 |||
-|2025-10-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-IN0435648198_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-IN0435648198_UHD.jpg)|
-||*Copyright: Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)*
+|2025-10-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.WoodDuckHen_EN-IN0584855660_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WoodDuckHen_EN-IN0584855660_UHD.jpg)|
+||*Copyright: Wood duck hen, United States (© ps50ace/iStock/Getty Images)*
 ||
 |||
-|2025-10-11|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MonurikiFiji_PT-BR5100753810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonurikiFiji_PT-BR5100753810_UHD.jpg)|
-||*Copyright: Recife de coral ao redor de Monuriki, Ilhas Mamanuca, Fiji (© David Wall/SuperStock)*
+|2025-10-12|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.WoodDuckHen_PT-BR4872632595_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WoodDuckHen_PT-BR4872632595_UHD.jpg)|
+||*Copyright: Fêmea de pato-carolino, Estados Unidos (© ps50ace/iStock/Getty Images)*
 ||
 |||
-|2025-10-10|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MonurikiFiji_FR-FR1965594259_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonurikiFiji_FR-FR1965594259_UHD.jpg)|
-||*Copyright: Récif corallien entourant l’île de Monuriki, archipel des Mamanuca, Fidji (© David Wall/SuperStock)*
+|2025-10-11|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.WoodDuckHen_FR-FR2128757864_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WoodDuckHen_FR-FR2128757864_UHD.jpg)|
+||*Copyright: Cane branchu, États-Unis (© ps50ace/iStock/Getty Images)*
 ||
 |||
-|2025-10-10|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MonurikiFiji_DE-DE3464420542_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonurikiFiji_DE-DE3464420542_UHD.jpg)|
-||*Copyright: Korallenriff rund um die Insel Monuriki, Mamanuca-Inseln, Fidschi (© David Wall/SuperStock)*
+|2025-10-11|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.WoodDuckHen_DE-DE3532721036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WoodDuckHen_DE-DE3532721036_UHD.jpg)|
+||*Copyright: Brautente (Weibchen), USA (© ps50ace/iStock/Getty Images)*
 ||
 |||
-|2025-10-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-CA8167749404_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-CA8167749404_UHD.jpg)|
-||*Copyright: Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)*
+|2025-10-12|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.WoodDuckHen_EN-CA8442966636_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WoodDuckHen_EN-CA8442966636_UHD.jpg)|
+||*Copyright: Wood duck hen, United States (© ps50ace/iStock/Getty Images)*
 ||
 |||
-|2025-10-10|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-GB5307318194_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-GB5307318194_UHD.jpg)|
-||*Copyright: Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)*
+|2025-10-11|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.WoodDuckHen_EN-GB5445479640_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WoodDuckHen_EN-GB5445479640_UHD.jpg)|
+||*Copyright: Wood duck hen, United States (© ps50ace/iStock/Getty Images)*
 ||
 |||
-|2025-10-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MonurikiFiji_IT-IT0760985138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonurikiFiji_IT-IT0760985138_UHD.jpg)|
-||*Copyright: Barriera corallina, Isola di Monuriki, Isole Mamanuca, Figi (© David Wall/SuperStock)*
+|2025-10-11|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LagoLagazuolo_IT-IT9428871019_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LagoLagazuolo_IT-IT9428871019_UHD.jpg)|
+||*Copyright: Lago Lagazzuolo, Valmalenco, Valle Valtellina, Lombardia (© Francesco Bergamaschi/Getty Images)*
 ||
 |||
-|2025-10-10|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MonurikiFiji_ES-ES0990792283_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonurikiFiji_ES-ES0990792283_UHD.jpg)|
-||*Copyright: Arrecife de coral que rodea la isla de Monuriki, Islas Mamanuca, Fiyi (© David Wall/SuperStock)*
+|2025-10-11|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.WoodDuckHen_ES-ES1058654365_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WoodDuckHen_ES-ES1058654365_UHD.jpg)|
+||*Copyright: El pato joyuyo, EE. UU. (© ps50ace/iStock/Getty Images)*
 ||
 |||
-|2025-10-11|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MonurikiFiji_FR-CA5819012564_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonurikiFiji_FR-CA5819012564_UHD.jpg)|
-||*Copyright: Récif corallien entourant l’île de Monuriki, archipel des Mamanuca, Fidji (© David Wall/SuperStock)*
+|2025-10-12|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.WoodDuckHen_FR-CA5874866623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WoodDuckHen_FR-CA5874866623_UHD.jpg)|
+||*Copyright: Cane branchu, États-Unis (© ps50ace/iStock/Getty Images)*
 ||
 |||
 
