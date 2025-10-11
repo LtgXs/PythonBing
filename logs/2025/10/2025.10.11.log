@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:26:05] Picture infomations saved to  global/fr-CA/README.md
 [09:26:05] Picture infomations saved to global/fr-CA/history/2025/10/12_fr-CA.md
 Program exit at 09:26:05
+
+Program started at 16:13:48
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwhb2z
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:13:48] Start geting CN Bing Wallpaper
+[16:13:48] Successful get url: https://www.bing.com/th?id=OHR.SaranacLake_ZH-CN0224689397_UHD.jpg
+[16:13:48] Image saved to img/background.jpg
+[16:13:48] Info saved to README.md
+[16:13:48] Image saved to history/2025/10/12.md
+[16:13:48] Start geting global Bing Wallpaper, region=en-US, local time is 2025-10-11 12:13:48.892550-04:00
+[16:13:49] Successful get url: https://www.bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg
+[16:13:49] Picture infomations saved to  global/en-US/README.md
+[16:13:49] Picture infomations saved to global/en-US/history/2025/10/12_en-US.md
+[16:13:49] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-10-12 01:13:49.203029+09:00
+[16:13:49] Successful get url: https://www.bing.com/th?id=OHR.SaranacLake_JA-JP8002477019_UHD.jpg
+[16:13:49] Picture infomations saved to  global/ja-JP/README.md
+[16:13:49] Picture infomations saved to global/ja-JP/history/2025/10/12_ja-JP.md
+[16:13:49] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-10-11 21:43:49.419873+05:30
+[16:13:49] Successful get url: https://www.bing.com/th?id=OHR.WoodDuckHen_EN-IN0584855660_UHD.jpg
+[16:13:49] Picture infomations saved to  global/en-IN/README.md
+[16:13:49] Picture infomations saved to global/en-IN/history/2025/10/11_en-IN.md
+[16:13:49] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-10-11 13:13:49.752939-03:00
+[16:13:49] Successful get url: https://www.bing.com/th?id=OHR.WoodDuckHen_PT-BR4872632595_UHD.jpg
+[16:13:49] Picture infomations saved to  global/pt-BR/README.md
+[16:13:49] Picture infomations saved to global/pt-BR/history/2025/10/12_pt-BR.md
+[16:13:49] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-10-11 18:13:49.999895+02:00
+[16:13:50] Successful get url: https://www.bing.com/th?id=OHR.WoodDuckHen_FR-FR2128757864_UHD.jpg
+[16:13:50] Picture infomations saved to  global/fr-FR/README.md
+[16:13:50] Picture infomations saved to global/fr-FR/history/2025/10/11_fr-FR.md
+[16:13:50] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-10-11 18:13:50.180835+02:00
+[16:13:50] Successful get url: https://www.bing.com/th?id=OHR.WoodDuckHen_DE-DE3532721036_UHD.jpg
+[16:13:50] Picture infomations saved to  global/de-DE/README.md
+[16:13:50] Picture infomations saved to global/de-DE/history/2025/10/11_de-DE.md
+[16:13:50] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-10-11 12:13:50.379953-04:00
+[16:13:50] Successful get url: https://www.bing.com/th?id=OHR.WoodDuckHen_EN-CA8442966636_UHD.jpg
+[16:13:50] Picture infomations saved to  global/en-CA/README.md
+[16:13:50] Picture infomations saved to global/en-CA/history/2025/10/12_en-CA.md
+[16:13:50] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-10-11 17:13:50.560612+01:00
+[16:13:50] Successful get url: https://www.bing.com/th?id=OHR.WoodDuckHen_EN-GB5445479640_UHD.jpg
+[16:13:50] Picture infomations saved to  global/en-GB/README.md
+[16:13:50] Picture infomations saved to global/en-GB/history/2025/10/11_en-GB.md
+[16:13:50] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-10-11 18:13:50.746619+02:00
+[16:13:50] Successful get url: https://www.bing.com/th?id=OHR.LagoLagazuolo_IT-IT9428871019_UHD.jpg
+[16:13:51] Picture infomations saved to  global/it-IT/README.md
+[16:13:51] Picture infomations saved to global/it-IT/history/2025/10/11_it-IT.md
+[16:13:51] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-10-11 18:13:51.100361+02:00
+[16:13:51] Successful get url: https://www.bing.com/th?id=OHR.WoodDuckHen_ES-ES1058654365_UHD.jpg
+[16:13:51] Picture infomations saved to  global/es-ES/README.md
+[16:13:51] Picture infomations saved to global/es-ES/history/2025/10/11_es-ES.md
+[16:13:51] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-10-11 12:13:51.283914-04:00
+[16:13:51] Successful get url: https://www.bing.com/th?id=OHR.WoodDuckHen_FR-CA5874866623_UHD.jpg
+[16:13:51] Picture infomations saved to  global/fr-CA/README.md
+[16:13:51] Picture infomations saved to global/fr-CA/history/2025/10/12_fr-CA.md
+Program exit at 16:13:51
