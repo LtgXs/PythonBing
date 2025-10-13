@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:33:35] Picture infomations saved to  global/fr-CA/README.md
 [09:33:35] Picture infomations saved to global/fr-CA/history/2025/10/14_fr-CA.md
 Program exit at 09:33:35
+
+Program started at 16:16:11
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwhb2z
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:16:11] Start geting CN Bing Wallpaper
+[16:16:11] Successful get url: https://www.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_UHD.jpg
+[16:16:11] Image saved to img/background.jpg
+[16:16:11] Info saved to README.md
+[16:16:11] Image saved to history/2025/10/14.md
+[16:16:11] Start geting global Bing Wallpaper, region=en-US, local time is 2025-10-13 12:16:11.830644-04:00
+[16:16:11] Successful get url: https://www.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg
+[16:16:12] Picture infomations saved to  global/en-US/README.md
+[16:16:12] Picture infomations saved to global/en-US/history/2025/10/14_en-US.md
+[16:16:12] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-10-14 01:16:12.082142+09:00
+[16:16:12] Successful get url: https://www.bing.com/th?id=OHR.RailwayDay2025_JA-JP0346908442_UHD.jpg
+[16:16:12] Picture infomations saved to  global/ja-JP/README.md
+[16:16:12] Picture infomations saved to global/ja-JP/history/2025/10/14_ja-JP.md
+[16:16:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-10-13 21:46:12.306167+05:30
+[16:16:12] Successful get url: https://www.bing.com/th?id=OHR.MamallapuramBoat_EN-IN7710066435_UHD.jpg
+[16:16:12] Picture infomations saved to  global/en-IN/README.md
+[16:16:12] Picture infomations saved to global/en-IN/history/2025/10/13_en-IN.md
+[16:16:12] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-10-13 13:16:12.477246-03:00
+[16:16:12] Successful get url: https://www.bing.com/th?id=OHR.HinterseeWaterfall_PT-BR2829623135_UHD.jpg
+[16:16:12] Picture infomations saved to  global/pt-BR/README.md
+[16:16:12] Picture infomations saved to global/pt-BR/history/2025/10/14_pt-BR.md
+[16:16:12] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-10-13 18:16:12.604651+02:00
+[16:16:12] Successful get url: https://www.bing.com/th?id=OHR.HinterseeWaterfall_FR-FR3043490046_UHD.jpg
+[16:16:12] Picture infomations saved to  global/fr-FR/README.md
+[16:16:12] Picture infomations saved to global/fr-FR/history/2025/10/13_fr-FR.md
+[16:16:12] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-10-13 18:16:12.763773+02:00
+[16:16:12] Successful get url: https://www.bing.com/th?id=OHR.HinterseeWaterfall_DE-DE9807935907_UHD.jpg
+[16:16:12] Picture infomations saved to  global/de-DE/README.md
+[16:16:12] Picture infomations saved to global/de-DE/history/2025/10/13_de-DE.md
+[16:16:12] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-10-13 12:16:12.941974-04:00
+[16:16:12] Successful get url: https://www.bing.com/th?id=OHR.AlgonParkOnt_EN-CA8810326454_UHD.jpg
+[16:16:13] Picture infomations saved to  global/en-CA/README.md
+[16:16:13] Picture infomations saved to global/en-CA/history/2025/10/14_en-CA.md
+[16:16:13] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-10-13 17:16:13.115090+01:00
+[16:16:13] Successful get url: https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-GB5939254897_UHD.jpg
+[16:16:13] Picture infomations saved to  global/en-GB/README.md
+[16:16:13] Picture infomations saved to global/en-GB/history/2025/10/13_en-GB.md
+[16:16:13] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-10-13 18:16:13.244366+02:00
+[16:16:13] Successful get url: https://www.bing.com/th?id=OHR.HinterseeWaterfall_IT-IT9638907457_UHD.jpg
+[16:16:13] Picture infomations saved to  global/it-IT/README.md
+[16:16:13] Picture infomations saved to global/it-IT/history/2025/10/13_it-IT.md
+[16:16:13] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-10-13 18:16:13.447238+02:00
+[16:16:13] Successful get url: https://www.bing.com/th?id=OHR.HinterseeWaterfall_ES-ES0526830866_UHD.jpg
+[16:16:13] Picture infomations saved to  global/es-ES/README.md
+[16:16:13] Picture infomations saved to global/es-ES/history/2025/10/13_es-ES.md
+[16:16:13] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-10-13 12:16:13.613854-04:00
+[16:16:13] Successful get url: https://www.bing.com/th?id=OHR.AlgonParkOnt_FR-CA7190465944_UHD.jpg
+[16:16:13] Picture infomations saved to  global/fr-CA/README.md
+[16:16:13] Picture infomations saved to global/fr-CA/history/2025/10/14_fr-CA.md
+Program exit at 16:16:13

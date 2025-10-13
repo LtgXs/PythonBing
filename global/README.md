@@ -6,9 +6,9 @@
 ||*Copyright: House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)*
 ||
 |||
-|2025-10-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OiaSantorini_JA-JP8051360298_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OiaSantorini_JA-JP8051360298_UHD.jpg)|
-||*Copyright: イア村, グリース (© f9photos/Getty Images)*
+|2025-10-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RailwayDay2025_JA-JP0346908442_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RailwayDay2025_JA-JP0346908442_UHD.jpg)|
+||*Copyright: 第一只見川橋梁, 福島県 大沼郡 (© Doctor Egg/Getty Images)*
 ||
 |||
 |2025-10-13|**Region: en-IN**||
