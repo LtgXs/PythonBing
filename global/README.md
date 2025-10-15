@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-10-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_UHD.jpg)|
-||*Copyright: Village of Oia, Santorini, Greece (© f9photos/Getty Images)*
+|2025-10-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg)|
+||*Copyright: Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)*
 ||
 |||
 |2025-10-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ハウテン町, オランダ (© George Pachantouris/Getty Images)*
 ||
 |||
-|2025-10-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.OiaSantorini_EN-IN1120659407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OiaSantorini_EN-IN1120659407_UHD.jpg)|
-||*Copyright: Village of Oia, Santorini, Greece (© f9photos/Getty Images)*
+|2025-10-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-IN1327848044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-IN1327848044_UHD.jpg)|
+||*Copyright: Amethyst laccaria mushrooms, Seabeck, Washington, United States (© Danita Delimont/Shutterstock)*
 ||
 |||
-|2025-10-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.OiaSantorini_PT-BR4517893806_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OiaSantorini_PT-BR4517893806_UHD.jpg)|
-||*Copyright: Vilarejo de Oia, Santorini, Grécia (© f9photos/Getty Images)*
+|2025-10-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AmethystLaccaria_PT-BR2131819157_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmethystLaccaria_PT-BR2131819157_UHD.jpg)|
+||*Copyright: Cogumelos laccaria amethystina em Seabeck, Washington, EUA (©  Danita Delimont/Shutterstock)*
 ||
 |||
-|2025-10-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.OiaSantorini_FR-FR2366635460_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OiaSantorini_FR-FR2366635460_UHD.jpg)|
-||*Copyright: Village d’Oia, Santorin, Grèce (© f9photos/Getty Images)*
+|2025-10-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AmethystLaccaria_FR-FR2437866835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmethystLaccaria_FR-FR2437866835_UHD.jpg)|
+||*Copyright: Champignon laccaria amethystina, Seabeck, Washington, États-Unis (© Danita Delimont/Shutterstock)*
 ||
 |||
-|2025-10-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.OiaSantorini_DE-DE3882296731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OiaSantorini_DE-DE3882296731_UHD.jpg)|
-||*Copyright: Oia, Santorin, Griechenland (© f9photos/Getty Images)*
+|2025-10-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AmethystLaccaria_DE-DE4085236718_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmethystLaccaria_DE-DE4085236718_UHD.jpg)|
+||*Copyright: Violette Lacktrichterlinge, Seabeck, Washington, USA (© Danita Delimont/Shutterstock)*
 ||
 |||
-|2025-10-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.OiaSantorini_EN-CA2309047812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OiaSantorini_EN-CA2309047812_UHD.jpg)|
-||*Copyright: Village of Oia, Santorini, Greece (© f9photos/Getty Images)*
+|2025-10-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-CA2561600829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-CA2561600829_UHD.jpg)|
+||*Copyright: Amethyst laccaria mushrooms, Seabeck, Washington, United States (© Danita Delimont/Shutterstock)*
 ||
 |||
-|2025-10-14|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.OiaSantorini_EN-GB8058945435_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OiaSantorini_EN-GB8058945435_UHD.jpg)|
-||*Copyright: Village of Oia, Santorini, Greece (© f9photos/Getty Images)*
+|2025-10-15|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-GB8262001695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-GB8262001695_UHD.jpg)|
+||*Copyright: Amethyst laccaria mushrooms, Seabeck, Washington, United States (© Danita Delimont/Shutterstock)*
 ||
 |||
-|2025-10-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OiaSantorini_IT-IT9704470316_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OiaSantorini_IT-IT9704470316_UHD.jpg)|
-||*Copyright: Villaggio di Oia, Santorini, Grecia (© f9photos/Getty Images)*
+|2025-10-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.FontanaDiTrevi_IT-IT9781844919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FontanaDiTrevi_IT-IT9781844919_UHD.jpg)|
+||*Copyright: Fontana di Trevi, Piazza di Trevi, Roma (© RilindH/RooM)*
 ||
 |||
-|2025-10-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.OiaSantorini_ES-ES1170312678_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OiaSantorini_ES-ES1170312678_UHD.jpg)|
-||*Copyright: Pueblo de Oia, Santorini, Grecia (© f9photos/Getty Images)*
+|2025-10-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AmethystLaccaria_ES-ES1228402064_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmethystLaccaria_ES-ES1228402064_UHD.jpg)|
+||*Copyright: Hongos laccaria de amatista, Seabeck, Washington, EE. UU. (© Danita Delimont/Shutterstock)*
 ||
 |||
-|2025-10-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.OiaSantorini_FR-CA5934910466_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OiaSantorini_FR-CA5934910466_UHD.jpg)|
-||*Copyright: Village d’Oia, Santorin, Grèce (© f9photos/Getty Images)*
+|2025-10-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AmethystLaccaria_FR-CA5987509321_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmethystLaccaria_FR-CA5987509321_UHD.jpg)|
+||*Copyright: Champignon Laccaria amethystina, Seabeck, Washington, États-Unis (© Danita Delimont/Shutterstock)*
 ||
 |||
 
