@@ -6,9 +6,9 @@
 ||*Copyright: Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)*
 ||
 |||
-|2025-10-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HoutenHouses_JA-JP0762629111_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoutenHouses_JA-JP0762629111_UHD.jpg)|
-||*Copyright: ハウテン町, オランダ (© George Pachantouris/Getty Images)*
+|2025-10-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SiberianLynx_JA-JP8122329970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SiberianLynx_JA-JP8122329970_UHD.jpg)|
+||*Copyright: シベリアオオヤマネコ, シベリア (© Mario Plechaty Photograph/Shutterstock)*
 ||
 |||
 |2025-10-15|**Region: en-IN**||
