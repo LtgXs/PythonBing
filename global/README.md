@@ -6,9 +6,9 @@
 ||*Copyright: Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)*
 ||
 |||
-|2025-10-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SiberianLynx_JA-JP8122329970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SiberianLynx_JA-JP8122329970_UHD.jpg)|
-||*Copyright: シベリアオオヤマネコ, シベリア (© Mario Plechaty Photograph/Shutterstock)*
+|2025-10-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RockRiverFalls_JA-JP0295221799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RockRiverFalls_JA-JP0295221799_UHD.jpg)|
+||*Copyright: ロック・リバー・フォールズ, 米国 ミシガン州 (© Matt Anderson Photography/Getty Images)*
 ||
 |||
 |2025-10-16|**Region: en-IN**||
