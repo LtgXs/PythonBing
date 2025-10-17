@@ -6,9 +6,9 @@
 ||*Copyright: Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)*
 ||
 |||
-|2025-10-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RockRiverFalls_JA-JP0295221799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RockRiverFalls_JA-JP0295221799_UHD.jpg)|
-||*Copyright: ロック・リバー・フォールズ, 米国 ミシガン州 (© Matt Anderson Photography/Getty Images)*
+|2025-10-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SilburyHill_JA-JP0577938785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SilburyHill_JA-JP0577938785_UHD.jpg)|
+||*Copyright: シルベリー・ヒル, イングランド (© dbstockphoto/Getty Images)*
 ||
 |||
 |2025-10-17|**Region: en-IN**||
