@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-10-18|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg)|
-||*Copyright: Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)*
+|2025-10-19|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg)|
+||*Copyright: Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)*
 ||
 |||
 |2025-10-18|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: シルベリー・ヒル, イングランド (© dbstockphoto/Getty Images)*
 ||
 |||
-|2025-10-17|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RockRiverFalls_EN-IN5207367591_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RockRiverFalls_EN-IN5207367591_UHD.jpg)|
-||*Copyright: Rock River Falls, Upper Peninsula, Michigan, United States (© Matt Anderson Photography/Getty Images)*
+|2025-10-18|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SilburyHill_EN-IN5389984982_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SilburyHill_EN-IN5389984982_UHD.jpg)|
+||*Copyright: Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)*
 ||
 |||
-|2025-10-18|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.RockRiverFalls_PT-BR6243828889_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RockRiverFalls_PT-BR6243828889_UHD.jpg)|
-||*Copyright: Rock River Falls, Península Superior, Michigan, EUA (© Matt Anderson Photography/Getty Images)*
+|2025-10-19|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SilburyHill_PT-BR5871845476_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SilburyHill_PT-BR5871845476_UHD.jpg)|
+||*Copyright: Sítio neolítico de Silbury Hill em Tilshead, Wiltshire, Inglaterra (© dbstockphoto/Getty Images)*
 ||
 |||
-|2025-10-17|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CorsicaSunshine_FR-FR8649215960_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorsicaSunshine_FR-FR8649215960_UHD.jpg)|
-||*Copyright: Lumière du soir sur le village de Speloncato, Corse (© joningall/Getty Images)*
+|2025-10-18|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SilburyHill_FR-FR0576051334_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SilburyHill_FR-FR0576051334_UHD.jpg)|
+||*Copyright: Site néolithique de la colline de Silbury, Tilshead, Wiltshire, Angleterre (© dbstockphoto/Getty Images)*
 ||
 |||
-|2025-10-17|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MettlachAutumn_DE-DE9026182741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MettlachAutumn_DE-DE9026182741_UHD.jpg)|
-||*Copyright: Blick auf die Saar im Herbst, Saarschleife, Mettlach, Saarland (© Sus Bogaerts/Getty Images)*
+|2025-10-18|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SilburyHill_DE-DE8918422000_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SilburyHill_DE-DE8918422000_UHD.jpg)|
+||*Copyright: Neolithische Stätte Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)*
 ||
 |||
-|2025-10-18|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.JasperFestival_EN-CA8017450155_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JasperFestival_EN-CA8017450155_UHD.jpg)|
-||*Copyright: Northern lights over Patricia Lake in Jasper National Park, Alberta (© Daniel Viñé Garcia/Getty Images)*
+|2025-10-19|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SilburyHill_EN-CA8140895314_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SilburyHill_EN-CA8140895314_UHD.jpg)|
+||*Copyright: Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)*
 ||
 |||
-|2025-10-17|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.RockRiverFalls_EN-GB1931975271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RockRiverFalls_EN-GB1931975271_UHD.jpg)|
-||*Copyright: Rock River Falls, Upper Peninsula, Michigan, United States (© Matt Anderson Photography/Getty Images)*
+|2025-10-18|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SilburyHill_EN-GB2103957342_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SilburyHill_EN-GB2103957342_UHD.jpg)|
+||*Copyright: Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)*
 ||
 |||
-|2025-10-17|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.RockRiverFalls_IT-IT4967817075_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RockRiverFalls_IT-IT4967817075_UHD.jpg)|
-||*Copyright: Rock River Falls, Penisola Superiore, Michigan, USA (© Matt Anderson Photography/Getty Images)*
+|2025-10-18|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SilburyHill_IT-IT5036622504_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SilburyHill_IT-IT5036622504_UHD.jpg)|
+||*Copyright: Sito neolitico di Silbury Hill, Tilshead, Wiltshire, Inghilterra (© dbstockphoto/Getty Images)*
 ||
 |||
-|2025-10-17|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.RockRiverFalls_ES-ES6474484835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RockRiverFalls_ES-ES6474484835_UHD.jpg)|
-||*Copyright: Rock River Canyon Wilderness, Península superior de Míchigan, EE. UU. (© Matt Anderson Photography/Getty Images)*
+|2025-10-18|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SilburyHill_ES-ES9628182073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SilburyHill_ES-ES9628182073_UHD.jpg)|
+||*Copyright: Colina de Silbury, Avebury, Wiltshire, Inglaterra (© dbstockphoto/Getty Images)*
 ||
 |||
-|2025-10-18|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.JasperFestival_FR-CA3527865015_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JasperFestival_FR-CA3527865015_UHD.jpg)|
-||*Copyright: Aurores boréales au-dessus du lac Patricia, parc national de Jasper, Alberta (© Daniel Viñé Garcia/Getty Images)*
+|2025-10-19|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SilburyHill_FR-CA4132362264_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SilburyHill_FR-CA4132362264_UHD.jpg)|
+||*Copyright: Site néolithique de la coline de Silbury, Tilshead, Wiltshire, Angleterre (© dbstockphoto/Getty Images)*
 ||
 |||
 
