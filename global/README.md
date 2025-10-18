@@ -6,9 +6,9 @@
 ||*Copyright: Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)*
 ||
 |||
-|2025-10-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SilburyHill_JA-JP0577938785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SilburyHill_JA-JP0577938785_UHD.jpg)|
-||*Copyright: シルベリー・ヒル, イングランド (© dbstockphoto/Getty Images)*
+|2025-10-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AppleHarvest_JA-JP0862857490_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AppleHarvest_JA-JP0862857490_UHD.jpg)|
+||*Copyright: 収穫時期を迎えたリンゴ, 米国 ミネソタ州 (© Tammi Mild/Getty Images)*
 ||
 |||
 |2025-10-18|**Region: en-IN**||
