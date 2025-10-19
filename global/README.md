@@ -6,9 +6,9 @@
 ||*Copyright: Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)*
 ||
 |||
-|2025-10-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AppleHarvest_JA-JP0862857490_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AppleHarvest_JA-JP0862857490_UHD.jpg)|
-||*Copyright: 収穫時期を迎えたリンゴ, 米国 ミネソタ州 (© Tammi Mild/Getty Images)*
+|2025-10-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HoffmansSloth_JA-JP1255329003_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoffmansSloth_JA-JP1255329003_UHD.jpg)|
+||*Copyright: ホフマンナマケモノ, エクアドル (© Murray Cooper/Minden Pictures)*
 ||
 |||
 |2025-10-19|**Region: en-IN**||

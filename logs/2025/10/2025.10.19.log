@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:26:11] Picture infomations saved to  global/fr-CA/README.md
 [09:26:11] Picture infomations saved to global/fr-CA/history/2025/10/20_fr-CA.md
 Program exit at 09:26:11
+
+Program started at 16:14:26
+Operating System Name: Linux
+Operating System Version: #12~24.04.1-Ubuntu SMP Tue Sep  9 19:01:23 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmzdgdc
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:14:26] Start geting CN Bing Wallpaper
+[16:14:26] Successful get url: https://www.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg
+[16:14:26] Image saved to img/background.jpg
+[16:14:26] Info saved to README.md
+[16:14:26] Image saved to history/2025/10/20.md
+[16:14:26] Start geting global Bing Wallpaper, region=en-US, local time is 2025-10-19 12:14:26.518943-04:00
+[16:14:26] Successful get url: https://www.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg
+[16:14:26] Picture infomations saved to  global/en-US/README.md
+[16:14:26] Picture infomations saved to global/en-US/history/2025/10/20_en-US.md
+[16:14:26] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-10-20 01:14:26.919583+09:00
+[16:14:26] Successful get url: https://www.bing.com/th?id=OHR.HoffmansSloth_JA-JP1255329003_UHD.jpg
+[16:14:27] Picture infomations saved to  global/ja-JP/README.md
+[16:14:27] Picture infomations saved to global/ja-JP/history/2025/10/20_ja-JP.md
+[16:14:27] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-10-19 21:44:27.248379+05:30
+[16:14:27] Successful get url: https://www.bing.com/th?id=OHR.AppleHarvest_EN-IN5534604736_UHD.jpg
+[16:14:27] Picture infomations saved to  global/en-IN/README.md
+[16:14:27] Picture infomations saved to global/en-IN/history/2025/10/19_en-IN.md
+[16:14:27] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-10-19 13:14:27.606976-03:00
+[16:14:27] Successful get url: https://www.bing.com/th?id=OHR.AppleHarvest_PT-BR5524058975_UHD.jpg
+[16:14:27] Picture infomations saved to  global/pt-BR/README.md
+[16:14:27] Picture infomations saved to global/pt-BR/history/2025/10/20_pt-BR.md
+[16:14:27] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-10-19 18:14:27.916093+02:00
+[16:14:27] Successful get url: https://www.bing.com/th?id=OHR.AppleHarvest_FR-FR3383399730_UHD.jpg
+[16:14:28] Picture infomations saved to  global/fr-FR/README.md
+[16:14:28] Picture infomations saved to global/fr-FR/history/2025/10/19_fr-FR.md
+[16:14:28] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-10-19 18:14:28.251033+02:00
+[16:14:28] Successful get url: https://www.bing.com/th?id=OHR.AppleHarvest_DE-DE2705439483_UHD.jpg
+[16:14:28] Picture infomations saved to  global/de-DE/README.md
+[16:14:28] Picture infomations saved to global/de-DE/history/2025/10/19_de-DE.md
+[16:14:28] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-10-19 12:14:28.702750-04:00
+[16:14:28] Successful get url: https://www.bing.com/th?id=OHR.AppleHarvest_EN-CA8300580215_UHD.jpg
+[16:14:29] Picture infomations saved to  global/en-CA/README.md
+[16:14:29] Picture infomations saved to global/en-CA/history/2025/10/20_en-CA.md
+[16:14:29] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-10-19 17:14:29.010207+01:00
+[16:14:29] Successful get url: https://www.bing.com/th?id=OHR.AppleHarvest_EN-GB2257227722_UHD.jpg
+[16:14:29] Picture infomations saved to  global/en-GB/README.md
+[16:14:29] Picture infomations saved to global/en-GB/history/2025/10/19_en-GB.md
+[16:14:29] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-10-19 18:14:29.363357+02:00
+[16:14:29] Successful get url: https://www.bing.com/th?id=OHR.AppleHarvest_IT-IT5097872134_UHD.jpg
+[16:14:29] Picture infomations saved to  global/it-IT/README.md
+[16:14:29] Picture infomations saved to global/it-IT/history/2025/10/19_it-IT.md
+[16:14:29] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-10-19 18:14:29.763568+02:00
+[16:14:29] Successful get url: https://www.bing.com/th?id=OHR.JaenCathedral_ES-ES4511407655_UHD.jpg
+[16:14:30] Picture infomations saved to  global/es-ES/README.md
+[16:14:30] Picture infomations saved to global/es-ES/history/2025/10/19_es-ES.md
+[16:14:30] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-10-19 12:14:30.077828-04:00
+[16:14:30] Successful get url: https://www.bing.com/th?id=OHR.AppleHarvest_FR-CA4246985686_UHD.jpg
+[16:14:30] Picture infomations saved to  global/fr-CA/README.md
+[16:14:30] Picture infomations saved to global/fr-CA/history/2025/10/20_fr-CA.md
+Program exit at 16:14:30
