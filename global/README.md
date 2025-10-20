@@ -6,9 +6,9 @@
 ||*Copyright: A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)*
 ||
 |||
-|2025-10-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HoffmansSloth_JA-JP1255329003_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoffmansSloth_JA-JP1255329003_UHD.jpg)|
-||*Copyright: ホフマンナマケモノ, エクアドル (© Murray Cooper/Minden Pictures)*
+|2025-10-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DiyaDiwali_JA-JP1552911829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiyaDiwali_JA-JP1552911829_UHD.jpg)|
+||*Copyright: ハリマンディル・サーヒブ, インド (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
 |2025-10-20|**Region: en-IN**||
