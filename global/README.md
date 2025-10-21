@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-10-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg)|
-||*Copyright: A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)*
+|2025-10-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg)|
+||*Copyright: A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
 |2025-10-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ハリマンディル・サーヒブ, インド (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-10-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-IN5791944610_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-IN5791944610_UHD.jpg)|
-||*Copyright: Hoffmann's two-toed sloth, Ecuador (© Murray Cooper/Minden Pictures)*
+|2025-10-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.OilLamps_EN-IN0305267650_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OilLamps_EN-IN0305267650_UHD.jpg)|
+||*Copyright: Oil lamps lit during Diwali (© phive2015/Getty Images)*
 ||
 |||
-|2025-10-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.HoffmansSloth_PT-BR5106074004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoffmansSloth_PT-BR5106074004_UHD.jpg)|
-||*Copyright: Preguiça-de-hoffmann, Equador (© Murray Cooper/Minden Pictures)*
+|2025-10-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DiyaDiwali_PT-BR3829249285_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiyaDiwali_PT-BR3829249285_UHD.jpg)|
+||*Copyright: Lamparina no Templo Dourado durante o Diwali, Amritsar, Índia (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-10-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HoffmansSloth_FR-FR9921272661_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoffmansSloth_FR-FR9921272661_UHD.jpg)|
-||*Copyright: Paresseux d’Hoffmann, Équateur (© Murray Cooper/Minden Pictures)*
+|2025-10-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.DiyaDiwali_FR-FR5342496143_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiyaDiwali_FR-FR5342496143_UHD.jpg)|
+||*Copyright: Une diya au Temple d'Or pendant Diwali, Amritsar, Inde (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-10-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.HoffmansSloth_DE-DE8974751665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoffmansSloth_DE-DE8974751665_UHD.jpg)|
-||*Copyright: Hoffmann-Zweifingerfaultier, Ecuador (© Murray Cooper/Minden Pictures)*
+|2025-10-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.DiyaDiwali_DE-DE9030345451_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiyaDiwali_DE-DE9030345451_UHD.jpg)|
+||*Copyright: Eine Diya im Harmandir Sahib (Goldener Tempel) während Diwali, Amritsar, Indien (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-10-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-CA8355906230_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-CA8355906230_UHD.jpg)|
-||*Copyright: Hoffmann's two-toed sloth, Ecuador (© Murray Cooper/Minden Pictures)*
+|2025-10-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.DiyaDiwali_EN-CA8413413710_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiyaDiwali_EN-CA8413413710_UHD.jpg)|
+||*Copyright: A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-10-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-GB2702154812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-GB2702154812_UHD.jpg)|
-||*Copyright: Hoffmann's two-toed sloth, Ecuador (© Murray Cooper/Minden Pictures)*
+|2025-10-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.DiyaDiwali_EN-GB3120748109_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiyaDiwali_EN-GB3120748109_UHD.jpg)|
+||*Copyright: A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-10-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MonteVelino_IT-IT3560922998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonteVelino_IT-IT3560922998_UHD.jpg)|
-||*Copyright: Monte Sirente, L’Aquila, Appennino abruzzese, Abruzzo (© ValerioMei/iStock/Getty Images Plus)*
+|2025-10-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DiyaDiwali_IT-IT5153375559_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiyaDiwali_IT-IT5153375559_UHD.jpg)|
+||*Copyright: Una diya al Tempio d'Oro durante la Dīpāvalī, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-10-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.HoffmansSloth_ES-ES9765798870_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoffmansSloth_ES-ES9765798870_UHD.jpg)|
-||*Copyright: El perezoso didáctilo de Hoffmann, Ecuador (© Murray Cooper/Minden Pictures)*
+|2025-10-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.DiyaDiwali_ES-ES9858455543_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiyaDiwali_ES-ES9858455543_UHD.jpg)|
+||*Copyright: Una diya en el Templo Dorado durante el Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-10-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HoffmansSloth_FR-CA4450136469_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HoffmansSloth_FR-CA4450136469_UHD.jpg)|
-||*Copyright: Paresseux d’Hoffmann, Équateur (© Murray Cooper/Minden Pictures)*
+|2025-10-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.DiyaDiwali_FR-CA4627677118_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiyaDiwali_FR-CA4627677118_UHD.jpg)|
+||*Copyright: Une diya au Temple d'Or pendant Diwali, Amritsar, Inde (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
 
