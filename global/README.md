@@ -6,9 +6,9 @@
 ||*Copyright: A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-10-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DiyaDiwali_JA-JP1552911829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiyaDiwali_JA-JP1552911829_UHD.jpg)|
-||*Copyright: ハリマンディル・サーヒブ, インド (© EyeEm Mobile GmbH/Getty Images)*
+|2025-10-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HeianDay2025_JA-JP1910457007_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HeianDay2025_JA-JP1910457007_UHD.jpg)|
+||*Copyright: 平安神宮の泰平閣, 京都府 京都市 (© Trevor Chriss/Alamy)*
 ||
 |||
 |2025-10-21|**Region: en-IN**||
