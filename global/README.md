@@ -6,9 +6,9 @@
 ||*Copyright: Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)*
 ||
 |||
-|2025-10-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HeianDay2025_JA-JP1910457007_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HeianDay2025_JA-JP1910457007_UHD.jpg)|
-||*Copyright: 平安神宮の泰平閣, 京都府 京都市 (© Trevor Chriss/Alamy)*
+|2025-10-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AomoriAutumn2025_JA-JP3668853549_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AomoriAutumn2025_JA-JP3668853549_UHD.jpg)|
+||*Copyright: 八甲田山の紅葉, 青森県青森市 (© Mekdet/Getty images)*
 ||
 |||
 |2025-10-22|**Region: en-IN**||

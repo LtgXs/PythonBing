@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:33:32] Picture infomations saved to  global/fr-CA/README.md
 [09:33:32] Picture infomations saved to global/fr-CA/history/2025/10/23_fr-CA.md
 Program exit at 09:33:32
+
+Program started at 16:17:39
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwhb2z
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:17:39] Start geting CN Bing Wallpaper
+[16:17:39] Successful get url: https://www.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg
+[16:17:39] Image saved to img/background.jpg
+[16:17:39] Info saved to README.md
+[16:17:39] Image saved to history/2025/10/23.md
+[16:17:39] Start geting global Bing Wallpaper, region=en-US, local time is 2025-10-22 12:17:39.610558-04:00
+[16:17:39] Successful get url: https://www.bing.com/th?id=OHR.BulgariaRocks_EN-US3184562282_UHD.jpg
+[16:17:39] Picture infomations saved to  global/en-US/README.md
+[16:17:39] Picture infomations saved to global/en-US/history/2025/10/23_en-US.md
+[16:17:39] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-10-23 01:17:39.832061+09:00
+[16:17:39] Successful get url: https://www.bing.com/th?id=OHR.AomoriAutumn2025_JA-JP3668853549_UHD.jpg
+[16:17:40] Picture infomations saved to  global/ja-JP/README.md
+[16:17:40] Picture infomations saved to global/ja-JP/history/2025/10/23_ja-JP.md
+[16:17:40] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-10-22 21:47:40.031871+05:30
+[16:17:40] Successful get url: https://www.bing.com/th?id=OHR.BulgariaRocks_EN-IN6060043894_UHD.jpg
+[16:17:40] Picture infomations saved to  global/en-IN/README.md
+[16:17:40] Picture infomations saved to global/en-IN/history/2025/10/22_en-IN.md
+[16:17:40] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-10-22 13:17:40.207910-03:00
+[16:17:40] Successful get url: https://www.bing.com/th?id=OHR.BulgariaRocks_PT-BR2901045290_UHD.jpg
+[16:17:40] Picture infomations saved to  global/pt-BR/README.md
+[16:17:40] Picture infomations saved to global/pt-BR/history/2025/10/23_pt-BR.md
+[16:17:40] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-10-22 18:17:40.377168+02:00
+[16:17:40] Successful get url: https://www.bing.com/th?id=OHR.BulgariaRocks_FR-FR6124284800_UHD.jpg
+[16:17:40] Picture infomations saved to  global/fr-FR/README.md
+[16:17:40] Picture infomations saved to global/fr-FR/history/2025/10/22_fr-FR.md
+[16:17:40] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-10-22 18:17:40.539795+02:00
+[16:17:40] Successful get url: https://www.bing.com/th?id=OHR.BulgariaRocks_DE-DE9798723831_UHD.jpg
+[16:17:40] Picture infomations saved to  global/de-DE/README.md
+[16:17:40] Picture infomations saved to global/de-DE/history/2025/10/22_de-DE.md
+[16:17:40] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-10-22 12:17:40.712999-04:00
+[16:17:40] Successful get url: https://www.bing.com/th?id=OHR.BulgariaRocks_EN-CA8455831888_UHD.jpg
+[16:17:40] Picture infomations saved to  global/en-CA/README.md
+[16:17:40] Picture infomations saved to global/en-CA/history/2025/10/23_en-CA.md
+[16:17:40] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-10-22 17:17:40.882040+01:00
+[16:17:40] Successful get url: https://www.bing.com/th?id=OHR.BulgariaRocks_EN-GB3300175834_UHD.jpg
+[16:17:41] Picture infomations saved to  global/en-GB/README.md
+[16:17:41] Picture infomations saved to global/en-GB/history/2025/10/22_en-GB.md
+[16:17:41] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-10-22 18:17:41.049885+02:00
+[16:17:41] Successful get url: https://www.bing.com/th?id=OHR.BulgariaRocks_IT-IT4526713367_UHD.jpg
+[16:17:41] Picture infomations saved to  global/it-IT/README.md
+[16:17:41] Picture infomations saved to global/it-IT/history/2025/10/22_it-IT.md
+[16:17:41] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-10-22 18:17:41.174198+02:00
+[16:17:41] Successful get url: https://www.bing.com/th?id=OHR.BulgariaRocks_ES-ES9951900468_UHD.jpg
+[16:17:41] Picture infomations saved to  global/es-ES/README.md
+[16:17:41] Picture infomations saved to global/es-ES/history/2025/10/22_es-ES.md
+[16:17:41] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-10-22 12:17:41.333893-04:00
+[16:17:41] Successful get url: https://www.bing.com/th?id=OHR.BulgariaRocks_FR-CA4764793857_UHD.jpg
+[16:17:41] Picture infomations saved to  global/fr-CA/README.md
+[16:17:41] Picture infomations saved to global/fr-CA/history/2025/10/23_fr-CA.md
+Program exit at 16:17:41
