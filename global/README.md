@@ -6,9 +6,9 @@
 ||*Copyright: Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)*
 ||
 |||
-|2025-10-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AomoriAutumn2025_JA-JP3668853549_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AomoriAutumn2025_JA-JP3668853549_UHD.jpg)|
-||*Copyright: 八甲田山の紅葉, 青森県青森市 (© Mekdet/Getty images)*
+|2025-10-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.QueenMary_JA-JP3893109028_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_JA-JP3893109028_UHD.jpg)|
+||*Copyright: クイーン・メリー, 米国 カリフォルニア州 (© Kit Leong/Shutterstock)*
 ||
 |||
 |2025-10-23|**Region: en-IN**||

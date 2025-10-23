@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:31:52] Picture infomations saved to  global/fr-CA/README.md
 [09:31:52] Picture infomations saved to global/fr-CA/history/2025/10/24_fr-CA.md
 Program exit at 09:31:52
+
+Program started at 16:16:52
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwhb2z
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:16:53] Start geting CN Bing Wallpaper
+[16:16:53] Successful get url: https://www.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg
+[16:16:53] Image saved to img/background.jpg
+[16:16:53] Info saved to README.md
+[16:16:53] Image saved to history/2025/10/24.md
+[16:16:53] Start geting global Bing Wallpaper, region=en-US, local time is 2025-10-23 12:16:53.315562-04:00
+[16:16:53] Successful get url: https://www.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg
+[16:16:53] Picture infomations saved to  global/en-US/README.md
+[16:16:53] Picture infomations saved to global/en-US/history/2025/10/24_en-US.md
+[16:16:53] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-10-24 01:16:53.496180+09:00
+[16:16:53] Successful get url: https://www.bing.com/th?id=OHR.QueenMary_JA-JP3893109028_UHD.jpg
+[16:16:53] Picture infomations saved to  global/ja-JP/README.md
+[16:16:53] Picture infomations saved to global/ja-JP/history/2025/10/24_ja-JP.md
+[16:16:53] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-10-23 21:46:53.724691+05:30
+[16:16:53] Successful get url: https://www.bing.com/th?id=OHR.SnowLeopard_EN-IN6193206285_UHD.jpg
+[16:16:53] Picture infomations saved to  global/en-IN/README.md
+[16:16:53] Picture infomations saved to global/en-IN/history/2025/10/23_en-IN.md
+[16:16:53] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-10-23 13:16:53.913779-03:00
+[16:16:53] Successful get url: https://www.bing.com/th?id=OHR.PondCave_PT-BR4920189612_UHD.jpg
+[16:16:54] Picture infomations saved to  global/pt-BR/README.md
+[16:16:54] Picture infomations saved to global/pt-BR/history/2025/10/24_pt-BR.md
+[16:16:54] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-10-23 18:16:54.092527+02:00
+[16:16:54] Successful get url: https://www.bing.com/th?id=OHR.SnowLeopard_FR-FR6410501585_UHD.jpg
+[16:16:54] Picture infomations saved to  global/fr-FR/README.md
+[16:16:54] Picture infomations saved to global/fr-FR/history/2025/10/23_fr-FR.md
+[16:16:54] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-10-23 18:16:54.276340+02:00
+[16:16:54] Successful get url: https://www.bing.com/th?id=OHR.SnowLeopard_DE-DE9074654183_UHD.jpg
+[16:16:54] Picture infomations saved to  global/de-DE/README.md
+[16:16:54] Picture infomations saved to global/de-DE/history/2025/10/23_de-DE.md
+[16:16:54] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-10-23 12:16:54.500450-04:00
+[16:16:54] Successful get url: https://www.bing.com/th?id=OHR.SnowLeopard_EN-CA8504425279_UHD.jpg
+[16:16:54] Picture infomations saved to  global/en-CA/README.md
+[16:16:54] Picture infomations saved to global/en-CA/history/2025/10/24_en-CA.md
+[16:16:54] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-10-23 17:16:54.667435+01:00
+[16:16:54] Successful get url: https://www.bing.com/th?id=OHR.SnowLeopard_EN-GB3426907402_UHD.jpg
+[16:16:54] Picture infomations saved to  global/en-GB/README.md
+[16:16:54] Picture infomations saved to global/en-GB/history/2025/10/23_en-GB.md
+[16:16:54] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-10-23 18:16:54.816279+02:00
+[16:16:54] Successful get url: https://www.bing.com/th?id=OHR.SnowLeopard_IT-IT6712728115_UHD.jpg
+[16:16:55] Picture infomations saved to  global/it-IT/README.md
+[16:16:55] Picture infomations saved to global/it-IT/history/2025/10/23_it-IT.md
+[16:16:55] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-10-23 18:16:55.007080+02:00
+[16:16:55] Successful get url: https://www.bing.com/th?id=OHR.SnowLeopard_ES-ES0046977195_UHD.jpg
+[16:16:55] Picture infomations saved to  global/es-ES/README.md
+[16:16:55] Picture infomations saved to global/es-ES/history/2025/10/23_es-ES.md
+[16:16:55] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-10-23 12:16:55.261279-04:00
+[16:16:55] Successful get url: https://www.bing.com/th?id=OHR.SnowLeopard_FR-CA4982978167_UHD.jpg
+[16:16:55] Picture infomations saved to  global/fr-CA/README.md
+[16:16:55] Picture infomations saved to global/fr-CA/history/2025/10/24_fr-CA.md
+Program exit at 16:16:55
