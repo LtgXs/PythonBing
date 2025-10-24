@@ -6,9 +6,9 @@
 ||*Copyright: Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)*
 ||
 |||
-|2025-10-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.QueenMary_JA-JP3893109028_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_JA-JP3893109028_UHD.jpg)|
-||*Copyright: クイーン・メリー, 米国 カリフォルニア州 (© Kit Leong/Shutterstock)*
+|2025-10-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_JA-JP4112991986_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_JA-JP4112991986_UHD.jpg)|
+||*Copyright: マルティモアパの泥炭地, フィンランド (© romikatarina/Shutterstock)*
 ||
 |||
 |2025-10-24|**Region: en-IN**||
