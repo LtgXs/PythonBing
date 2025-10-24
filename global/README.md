@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-10-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg)|
-||*Copyright: Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)*
+|2025-10-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg)|
+||*Copyright: Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)*
 ||
 |||
 |2025-10-24|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: クイーン・メリー, 米国 カリフォルニア州 (© Kit Leong/Shutterstock)*
 ||
 |||
-|2025-10-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SnowLeopard_EN-IN6193206285_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowLeopard_EN-IN6193206285_UHD.jpg)|
-||*Copyright: Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)*
+|2025-10-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.QueenMary_EN-IN6335003575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_EN-IN6335003575_UHD.jpg)|
+||*Copyright: Night view of the RMS Queen Mary, Long Beach, California, United States (© Kit Leong/Shutterstock)*
 ||
 |||
-|2025-10-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PondCave_PT-BR4920189612_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCave_PT-BR4920189612_UHD.jpg)|
-||*Copyright: Parque Nacional da Chapada Diamantina, Bahia (© Marcio Dufranc/Stock)*
+|2025-10-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.QueenMary_PT-BR2038443007_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_PT-BR2038443007_UHD.jpg)|
+||*Copyright: Vista noturna do RMS Queen Mary em Long Beach, Califórnia, EUA (© Kit Leong/Shutterstock)*
 ||
 |||
-|2025-10-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SnowLeopard_FR-FR6410501585_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowLeopard_FR-FR6410501585_UHD.jpg)|
-||*Copyright: Léopard des neiges avec ses petits, réserve de la biosphère du désert froid, Inde (© Oriol Alamany/naturepl.com)*
+|2025-10-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.QueenMary_FR-FR8887233581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_FR-FR8887233581_UHD.jpg)|
+||*Copyright: Vue nocturne du paquebot Queen Mary, Long Beach, Californie, États-Unis (© Kit Leong/Shutterstock)*
 ||
 |||
-|2025-10-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SnowLeopard_DE-DE9074654183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowLeopard_DE-DE9074654183_UHD.jpg)|
-||*Copyright: Schneeleopardin mit ihren Jungen, Spitital, Cold Desert Biosphere Reserve, Indien (© Oriol Alamany/naturepl.com)*
+|2025-10-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.StMangLibrary_DE-DE0881251342_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMangLibrary_DE-DE0881251342_UHD.jpg)|
+||*Copyright: Alte Bibliothek, Kloster Sankt Mang, Füssen, Bayern (© marcobriviophoto/Shutterstock)*
 ||
 |||
-|2025-10-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SnowLeopard_EN-CA8504425279_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowLeopard_EN-CA8504425279_UHD.jpg)|
-||*Copyright: Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)*
+|2025-10-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.QueenMary_EN-CA8541079316_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_EN-CA8541079316_UHD.jpg)|
+||*Copyright: Night view of the RMS Queen Mary, Long Beach, California, United States (© Kit Leong/Shutterstock)*
 ||
 |||
-|2025-10-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SnowLeopard_EN-GB3426907402_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowLeopard_EN-GB3426907402_UHD.jpg)|
-||*Copyright: Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)*
+|2025-10-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.QueenMary_EN-GB3607133063_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_EN-GB3607133063_UHD.jpg)|
+||*Copyright: Night view of the RMS Queen Mary, Long Beach, California, United States (© Kit Leong/Shutterstock)*
 ||
 |||
-|2025-10-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SnowLeopard_IT-IT6712728115_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowLeopard_IT-IT6712728115_UHD.jpg)|
-||*Copyright: Leopardo delle nevi con cuccioli, Valle dello Spiti, India (© Oriol Alamany/naturepl.com)*
+|2025-10-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PumpkinFarm_IT-IT9478392413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PumpkinFarm_IT-IT9478392413_UHD.jpg)|
+||*Copyright: Zucche in azienda agricola, Carolina del Nord, USA (© Matthew H Irvin/Getty Images)*
 ||
 |||
-|2025-10-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SnowLeopard_ES-ES0046977195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowLeopard_ES-ES0046977195_UHD.jpg)|
-||*Copyright: Leopardo de las nieves, Spiti, valle del norte de Himachal Pradesh, Cordillera del Himalaya, India (© Oriol Alamany/naturepl.com)*
+|2025-10-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.QueenMary_ES-ES3516526290_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_ES-ES3516526290_UHD.jpg)|
+||*Copyright: El transatlántico británico “RMS Queen Mary” en Long Beach, California, EE. UU. (© Kit Leong/Shutterstock)*
 ||
 |||
-|2025-10-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SnowLeopard_FR-CA4982978167_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowLeopard_FR-CA4982978167_UHD.jpg)|
-||*Copyright: Léopard des neiges avec ses petits, réserve biosphère du désert froid, Inde (© Oriol Alamany/naturepl.com)*
+|2025-10-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.QueenMary_FR-CA5150794228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_FR-CA5150794228_UHD.jpg)|
+||*Copyright: Vue nocturne du paquebot Queen Mary, Long Beach, Californie, États-Unis (© Kit Leong/Shutterstock)*
 ||
 |||
 
