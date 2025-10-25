@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-10-25|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg)|
-||*Copyright: Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)*
+|2025-10-26|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg)|
+||*Copyright: Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)*
 ||
 |||
 |2025-10-25|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: マルティモアパの泥炭地, フィンランド (© romikatarina/Shutterstock)*
 ||
 |||
-|2025-10-24|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.QueenMary_EN-IN6335003575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_EN-IN6335003575_UHD.jpg)|
-||*Copyright: Night view of the RMS Queen Mary, Long Beach, California, United States (© Kit Leong/Shutterstock)*
+|2025-10-25|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-IN6497772710_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-IN6497772710_UHD.jpg)|
+||*Copyright: Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)*
 ||
 |||
-|2025-10-25|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.QueenMary_PT-BR2038443007_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_PT-BR2038443007_UHD.jpg)|
-||*Copyright: Vista noturna do RMS Queen Mary em Long Beach, Califórnia, EUA (© Kit Leong/Shutterstock)*
+|2025-10-26|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_PT-BR1421304664_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_PT-BR1421304664_UHD.jpg)|
+||*Copyright: Vista aérea de turfeira na Reserva de Martimoaapa, Finlândia (© romikatarina/Shutterstock)*
 ||
 |||
-|2025-10-24|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.QueenMary_FR-FR8887233581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_FR-FR8887233581_UHD.jpg)|
-||*Copyright: Vue nocturne du paquebot Queen Mary, Long Beach, Californie, États-Unis (© Kit Leong/Shutterstock)*
+|2025-10-25|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_FR-FR9588990995_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_FR-FR9588990995_UHD.jpg)|
+||*Copyright: Vue aérienne de la tourbière, réserve de Martimoaapa, Finlande (© romikatarina/Shutterstock)*
 ||
 |||
-|2025-10-24|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.StMangLibrary_DE-DE0881251342_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMangLibrary_DE-DE0881251342_UHD.jpg)|
-||*Copyright: Alte Bibliothek, Kloster Sankt Mang, Füssen, Bayern (© marcobriviophoto/Shutterstock)*
+|2025-10-25|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_DE-DE0136132064_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_DE-DE0136132064_UHD.jpg)|
+||*Copyright: Luftaufnahme des Moorgebiets im Martimoaapa-Moorreservat, Finnland (© romikatarina/Shutterstock)*
 ||
 |||
-|2025-10-25|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.QueenMary_EN-CA8541079316_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_EN-CA8541079316_UHD.jpg)|
-||*Copyright: Night view of the RMS Queen Mary, Long Beach, California, United States (© Kit Leong/Shutterstock)*
+|2025-10-26|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-CA8581468611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-CA8581468611_UHD.jpg)|
+||*Copyright: Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)*
 ||
 |||
-|2025-10-24|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.QueenMary_EN-GB3607133063_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_EN-GB3607133063_UHD.jpg)|
-||*Copyright: Night view of the RMS Queen Mary, Long Beach, California, United States (© Kit Leong/Shutterstock)*
+|2025-10-25|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-GB3880674254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-GB3880674254_UHD.jpg)|
+||*Copyright: Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)*
 ||
 |||
-|2025-10-24|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PumpkinFarm_IT-IT9478392413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PumpkinFarm_IT-IT9478392413_UHD.jpg)|
-||*Copyright: Zucche in azienda agricola, Carolina del Nord, USA (© Matthew H Irvin/Getty Images)*
+|2025-10-25|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_IT-IT0794218844_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_IT-IT0794218844_UHD.jpg)|
+||*Copyright: Vista aerea della torbiera nella riserva naturale di Martimoaapa Mire, Finlandia (© romikatarina/Shutterstock)*
 ||
 |||
-|2025-10-24|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.QueenMary_ES-ES3516526290_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_ES-ES3516526290_UHD.jpg)|
-||*Copyright: El transatlántico británico “RMS Queen Mary” en Long Beach, California, EE. UU. (© Kit Leong/Shutterstock)*
+|2025-10-25|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PaisVascoDay_ES-ES6776223688_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PaisVascoDay_ES-ES6776223688_UHD.jpg)|
+||*Copyright: Río Oca, Mundaka, Vizcaya, País Vasco, España (© Tuul and Bruno Morandi/Alamy)*
 ||
 |||
-|2025-10-25|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.QueenMary_FR-CA5150794228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenMary_FR-CA5150794228_UHD.jpg)|
-||*Copyright: Vue nocturne du paquebot Queen Mary, Long Beach, Californie, États-Unis (© Kit Leong/Shutterstock)*
+|2025-10-26|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_FR-CA5308818561_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_FR-CA5308818561_UHD.jpg)|
+||*Copyright: Vue aérienne de la tourbière, réserve de Martimoaapa, Finlande (© romikatarina/Shutterstock)*
 ||
 |||
 
