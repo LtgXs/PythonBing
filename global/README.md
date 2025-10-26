@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-10-26|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg)|
-||*Copyright: Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)*
+|2025-10-27|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg)|
+||*Copyright: Pumpkin farm in North Carolina (© Matthew H Irvin/Getty Images)*
 ||
 |||
 |2025-10-26|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: カボチャ農園, 米国 ノースカロライナ州 (© Matthew H Irvin/Getty Images)*
 ||
 |||
-|2025-10-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-IN6497772710_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-IN6497772710_UHD.jpg)|
-||*Copyright: Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)*
+|2025-10-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AfricanRaven_EN-IN6796929078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AfricanRaven_EN-IN6796929078_UHD.jpg)|
+||*Copyright: Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)*
 ||
 |||
-|2025-10-26|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_PT-BR1421304664_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_PT-BR1421304664_UHD.jpg)|
-||*Copyright: Vista aérea de turfeira na Reserva de Martimoaapa, Finlândia (© romikatarina/Shutterstock)*
+|2025-10-27|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PumpkinFarm_PT-BR8901400722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PumpkinFarm_PT-BR8901400722_UHD.jpg)|
+||*Copyright: Fazenda de abóboras na Carolina do Norte, EUA (© Matthew H Irvin/Getty Images)*
 ||
 |||
-|2025-10-25|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_FR-FR9588990995_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_FR-FR9588990995_UHD.jpg)|
-||*Copyright: Vue aérienne de la tourbière, réserve de Martimoaapa, Finlande (© romikatarina/Shutterstock)*
+|2025-10-26|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PumpkinFarm_FR-FR7536561457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PumpkinFarm_FR-FR7536561457_UHD.jpg)|
+||*Copyright: Ferme de citrouilles en Caroline du Nord, États-Unis (© Matthew H Irvin/Getty Images)*
 ||
 |||
-|2025-10-25|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_DE-DE0136132064_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_DE-DE0136132064_UHD.jpg)|
-||*Copyright: Luftaufnahme des Moorgebiets im Martimoaapa-Moorreservat, Finnland (© romikatarina/Shutterstock)*
+|2025-10-26|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PumpkinFarm_DE-DE1674202755_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PumpkinFarm_DE-DE1674202755_UHD.jpg)|
+||*Copyright: Kürbisfarm in North Carolina, USA (© Matthew H Irvin/Getty Images)*
 ||
 |||
-|2025-10-26|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-CA8581468611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-CA8581468611_UHD.jpg)|
-||*Copyright: Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)*
+|2025-10-27|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PumpkinFarm_EN-CA8630828267_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PumpkinFarm_EN-CA8630828267_UHD.jpg)|
+||*Copyright: Pumpkin farm in North Carolina, United States (© Matthew H Irvin/Getty Images)*
 ||
 |||
-|2025-10-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-GB3880674254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-GB3880674254_UHD.jpg)|
-||*Copyright: Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)*
+|2025-10-27|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.DSTEnds2025_EN-GB3762675856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DSTEnds2025_EN-GB3762675856_UHD.jpg)|
+||*Copyright: Clock tower of Emmanuel College, University of Cambridge, England (© Geography Photos/Universal Images Group/Getty Images)*
 ||
 |||
-|2025-10-25|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_IT-IT0794218844_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_IT-IT0794218844_UHD.jpg)|
-||*Copyright: Vista aerea della torbiera nella riserva naturale di Martimoaapa Mire, Finlandia (© romikatarina/Shutterstock)*
+|2025-10-26|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ItalyClock_IT-IT0847273649_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyClock_IT-IT0847273649_UHD.jpg)|
+||*Copyright: Torre dell'Orologio di San Marco, Venezia, Veneto (© scaliger/Getty Images)*
 ||
 |||
-|2025-10-25|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PaisVascoDay_ES-ES6776223688_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PaisVascoDay_ES-ES6776223688_UHD.jpg)|
-||*Copyright: Río Oca, Mundaka, Vizcaya, País Vasco, España (© Tuul and Bruno Morandi/Alamy)*
+|2025-10-26|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_ES-ES0251068328_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_ES-ES0251068328_UHD.jpg)|
+||*Copyright: Vista aérea de las turberas en la Reserva Martimoaapa Mire, Finlandia (© romikatarina/Shutterstock)*
 ||
 |||
-|2025-10-26|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MartimoaapaFinland_FR-CA5308818561_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MartimoaapaFinland_FR-CA5308818561_UHD.jpg)|
-||*Copyright: Vue aérienne de la tourbière, réserve de Martimoaapa, Finlande (© romikatarina/Shutterstock)*
+|2025-10-27|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PumpkinFarm_FR-CA5403887507_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PumpkinFarm_FR-CA5403887507_UHD.jpg)|
+||*Copyright: Ferme de citrouilles en Caroline du Nord, États-Unis (© Matthew H Irvin/Getty Images)*
 ||
 |||
 
