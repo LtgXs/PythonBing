@@ -6,9 +6,9 @@
 ||*Copyright: Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)*
 ||
 |||
-|2025-10-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AfricanRaven_JA-JP4581712736_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AfricanRaven_JA-JP4581712736_UHD.jpg)|
-||*Copyright: オオハシガラス, エチオピア (© Ignacio Yufera/FLPA/Minden Pictures)*
+|2025-10-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TepliceRocks_JA-JP4817805390_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TepliceRocks_JA-JP4817805390_UHD.jpg)|
+||*Copyright: アドルシュパフ=テプリツェ奇岩群, チェコ共和国 (© Kseniya_Milner/Getty Images)*
 ||
 |||
 |2025-10-27|**Region: en-IN**||
