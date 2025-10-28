@@ -6,9 +6,9 @@
 ||*Copyright: The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)*
 ||
 |||
-|2025-10-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TepliceRocks_JA-JP4817805390_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TepliceRocks_JA-JP4817805390_UHD.jpg)|
-||*Copyright: アドルシュパフ=テプリツェ奇岩群, チェコ共和国 (© Kseniya_Milner/Getty Images)*
+|2025-10-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FanalForest_JA-JP5058622515_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanalForest_JA-JP5058622515_UHD.jpg)|
+||*Copyright: マデイラ島のファナルの森, ポルトガル (© Lukas Jonaitis/Shutterstock)*
 ||
 |||
 |2025-10-28|**Region: en-IN**||

@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:31:28] Picture infomations saved to  global/fr-CA/README.md
 [09:31:28] Picture infomations saved to global/fr-CA/history/2025/10/29_fr-CA.md
 Program exit at 09:31:28
+
+Program started at 16:18:01
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwhb2z
+Processor Type: x86_64
+Python Version: 3.12.11
+Python Interpreter Name: CPython
+[16:18:01] Start geting CN Bing Wallpaper
+[16:18:01] Successful get url: https://www.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg
+[16:18:01] Image saved to img/background.jpg
+[16:18:01] Info saved to README.md
+[16:18:01] Image saved to history/2025/10/29.md
+[16:18:01] Start geting global Bing Wallpaper, region=en-US, local time is 2025-10-28 12:18:01.570939-04:00
+[16:18:01] Successful get url: https://www.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg
+[16:18:01] Picture infomations saved to  global/en-US/README.md
+[16:18:01] Picture infomations saved to global/en-US/history/2025/10/29_en-US.md
+[16:18:01] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-10-29 01:18:01.717228+09:00
+[16:18:01] Successful get url: https://www.bing.com/th?id=OHR.FanalForest_JA-JP5058622515_UHD.jpg
+[16:18:01] Picture infomations saved to  global/ja-JP/README.md
+[16:18:01] Picture infomations saved to global/ja-JP/history/2025/10/29_ja-JP.md
+[16:18:01] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-10-28 21:48:01.825674+05:30
+[16:18:01] Successful get url: https://www.bing.com/th?id=OHR.TepliceRocks_EN-IN6945703275_UHD.jpg
+[16:18:01] Picture infomations saved to  global/en-IN/README.md
+[16:18:01] Picture infomations saved to global/en-IN/history/2025/10/28_en-IN.md
+[16:18:01] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-10-28 13:18:01.938759-03:00
+[16:18:01] Successful get url: https://www.bing.com/th?id=OHR.PublicServ_PT-BR4483210857_UHD.jpg
+[16:18:02] Picture infomations saved to  global/pt-BR/README.md
+[16:18:02] Picture infomations saved to global/pt-BR/history/2025/10/29_pt-BR.md
+[16:18:02] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-10-28 17:18:02.039894+01:00
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.TepliceRocks_FR-FR0275962088_UHD.jpg
+[16:18:02] Picture infomations saved to  global/fr-FR/README.md
+[16:18:02] Picture infomations saved to global/fr-FR/history/2025/10/28_fr-FR.md
+[16:18:02] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-10-28 17:18:02.161955+01:00
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.TepliceRocks_DE-DE1966832338_UHD.jpg
+[16:18:02] Picture infomations saved to  global/de-DE/README.md
+[16:18:02] Picture infomations saved to global/de-DE/history/2025/10/28_de-DE.md
+[16:18:02] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-10-28 12:18:02.271076-04:00
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.TepliceRocks_EN-CA8722965195_UHD.jpg
+[16:18:02] Picture infomations saved to  global/en-CA/README.md
+[16:18:02] Picture infomations saved to global/en-CA/history/2025/10/29_en-CA.md
+[16:18:02] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-10-28 16:18:02.377821+00:00
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.TepliceRocks_EN-GB3818536107_UHD.jpg
+[16:18:02] Picture infomations saved to  global/en-GB/README.md
+[16:18:02] Picture infomations saved to global/en-GB/history/2025/10/29_en-GB.md
+[16:18:02] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-10-28 17:18:02.492389+01:00
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.TepliceRocks_IT-IT0944419526_UHD.jpg
+[16:18:02] Picture infomations saved to  global/it-IT/README.md
+[16:18:02] Picture infomations saved to global/it-IT/history/2025/10/28_it-IT.md
+[16:18:02] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-10-28 17:18:02.637312+01:00
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.TepliceRocks_ES-ES0482796188_UHD.jpg
+[16:18:02] Picture infomations saved to  global/es-ES/README.md
+[16:18:02] Picture infomations saved to global/es-ES/history/2025/10/28_es-ES.md
+[16:18:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-10-28 12:18:02.731236-04:00
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.TepliceRocks_FR-CA5818772698_UHD.jpg
+[16:18:02] Picture infomations saved to  global/fr-CA/README.md
+[16:18:02] Picture infomations saved to global/fr-CA/history/2025/10/29_fr-CA.md
+Program exit at 16:18:02
