@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-10-28|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg)|
-||*Copyright: Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)*
+|2025-10-29|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg)|
+||*Copyright: The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)*
 ||
 |||
 |2025-10-28|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アドルシュパフ=テプリツェ奇岩群, チェコ共和国 (© Kseniya_Milner/Getty Images)*
 ||
 |||
-|2025-10-27|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ChhathPuja_EN-IN6737950149_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChhathPuja_EN-IN6737950149_UHD.jpg)|
-||*Copyright: People worshipping the sun on Chhath, at Juhu Beach, Mumbai, Maharashtra (© Dinodia Photo/Getty Images)*
+|2025-10-28|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TepliceRocks_EN-IN6945703275_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TepliceRocks_EN-IN6945703275_UHD.jpg)|
+||*Copyright: The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)*
 ||
 |||
-|2025-10-28|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AfricanRaven_PT-BR7550569316_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AfricanRaven_PT-BR7550569316_UHD.jpg)|
-||*Copyright: Corvo-de-bico-grosso, Montanhas Simien, Etiópia (© Ignacio Yufera/FLPA/Minden Pictures)*
+|2025-10-29|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PublicServ_PT-BR4483210857_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PublicServ_PT-BR4483210857_UHD.jpg)|
+||*Copyright: Congresso Nacional ao pôr do sol, Brasília, Distrito Federal (© Diego Grandi/Shutterstock)*
 ||
 |||
-|2025-10-27|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ChampagneDay_FR-FR1389141387_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChampagneDay_FR-FR1389141387_UHD.jpg)|
-||*Copyright: Grappe de raisins noirs, vignoble de Champagne (© Daniele SCHNEIDER/Photononstop/Alamy Stock Photo)*
+|2025-10-28|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TepliceRocks_FR-FR0275962088_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TepliceRocks_FR-FR0275962088_UHD.jpg)|
+||*Copyright: Porte gothique, rochers d'Adršpach-Teplice, Tchéquie (© Kseniya_Milner/Getty Images)*
 ||
 |||
-|2025-10-27|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AfricanRaven_DE-DE9134207646_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AfricanRaven_DE-DE9134207646_UHD.jpg)|
-||*Copyright: Erzrabe, Simien-Nationalpark, Äthiopien (© Ignacio Yufera/FLPA/Minden Pictures)*
+|2025-10-28|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TepliceRocks_DE-DE1966832338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TepliceRocks_DE-DE1966832338_UHD.jpg)|
+||*Copyright: Das Gotische Tor in den Adršpach-Teplice-Felsen, Tschechien (© Kseniya_Milner/Getty Images)*
 ||
 |||
-|2025-10-28|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AfricanRaven_EN-CA8669356398_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AfricanRaven_EN-CA8669356398_UHD.jpg)|
-||*Copyright: Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)*
+|2025-10-29|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TepliceRocks_EN-CA8722965195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TepliceRocks_EN-CA8722965195_UHD.jpg)|
+||*Copyright: The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)*
 ||
 |||
-|2025-10-28|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AfricanRaven_EN-GB3785387714_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AfricanRaven_EN-GB3785387714_UHD.jpg)|
-||*Copyright: Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)*
+|2025-10-29|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TepliceRocks_EN-GB3818536107_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TepliceRocks_EN-GB3818536107_UHD.jpg)|
+||*Copyright: The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)*
 ||
 |||
-|2025-10-27|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AfricanRaven_IT-IT9701842647_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AfricanRaven_IT-IT9701842647_UHD.jpg)|
-||*Copyright: Corvus crassirostris, Monti Simien, Etiopia (© Ignacio Yufera/FLPA/Minden Pictures)*
+|2025-10-28|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TepliceRocks_IT-IT0944419526_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TepliceRocks_IT-IT0944419526_UHD.jpg)|
+||*Copyright: La Porta Gotica, Rocce di Adršpach-Teplice, Repubblica Ceca (© Kseniya_Milner/Getty Images)*
 ||
 |||
-|2025-10-27|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AfricanRaven_ES-ES0390865860_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AfricanRaven_ES-ES0390865860_UHD.jpg)|
-||*Copyright: El cuervo picogordo, Montañas Simien, Etiopía (© Ignacio Yufera/FLPA/Minden Pictures)*
+|2025-10-28|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TepliceRocks_ES-ES0482796188_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TepliceRocks_ES-ES0482796188_UHD.jpg)|
+||*Copyright: Puerta gótica en las rocas de Adršpach-Teplice, Bohemia, República Checa (© Kseniya_Milner/Getty Images)*
 ||
 |||
-|2025-10-28|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AfricanRaven_FR-CA5487866311_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AfricanRaven_FR-CA5487866311_UHD.jpg)|
-||*Copyright: Corbeau corbivau, Montagnes Simien, Éthiopie (© Ignacio Yufera/FLPA/Minden Pictures)*
+|2025-10-29|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TepliceRocks_FR-CA5818772698_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TepliceRocks_FR-CA5818772698_UHD.jpg)|
+||*Copyright: Porte gothique, rochers d'Adršpach-Teplice, Tchéquie (© Kseniya_Milner/Getty Images)*
 ||
 |||
 
