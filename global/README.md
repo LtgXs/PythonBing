@@ -6,9 +6,9 @@
 ||*Copyright: Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)*
 ||
 |||
-|2025-10-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FanalForest_JA-JP5058622515_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanalForest_JA-JP5058622515_UHD.jpg)|
-||*Copyright: マデイラ島のファナルの森, ポルトガル (© Lukas Jonaitis/Shutterstock)*
+|2025-10-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PushkarFair_JA-JP5237549354_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarFair_JA-JP5237549354_UHD.jpg)|
+||*Copyright: 砂漠を歩くラクダたち, インド ラージャスターン州 (© f9photos/Getty Images)*
 ||
 |||
 |2025-10-29|**Region: en-IN**||
