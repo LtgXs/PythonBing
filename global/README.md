@@ -6,9 +6,9 @@
 ||*Copyright: Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)*
 ||
 |||
-|2025-10-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PushkarFair_JA-JP5237549354_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarFair_JA-JP5237549354_UHD.jpg)|
-||*Copyright: 砂漠を歩くラクダたち, インド ラージャスターン州 (© f9photos/Getty Images)*
+|2025-10-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BranCastle_JA-JP1493249630_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BranCastle_JA-JP1493249630_UHD.jpg)|
+||*Copyright: ブラン城, ルーマニア (© blue sky in my pocket/Getty Images)*
 ||
 |||
 |2025-10-30|**Region: en-IN**||
