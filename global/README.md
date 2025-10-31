@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-10-31|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg)|
-||*Copyright: Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)*
+|2025-11-01|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg)|
+||*Copyright: Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)*
 ||
 |||
 |2025-10-31|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ブラン城, ルーマニア (© blue sky in my pocket/Getty Images)*
 ||
 |||
-|2025-10-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PushkarFair_EN-IN7248040171_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarFair_EN-IN7248040171_UHD.jpg)|
-||*Copyright: Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)*
+|2025-10-31|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BranCastle_EN-IN0933024345_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BranCastle_EN-IN0933024345_UHD.jpg)|
+||*Copyright: Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)*
 ||
 |||
-|2025-10-31|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PushkarFair_PT-BR6477108877_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarFair_PT-BR6477108877_UHD.jpg)|
-||*Copyright: Camelos em Jaisalmer, Rajastão, Índia (© f9photos/Getty Images)*
+|2025-11-01|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BranCastle_PT-BR1477730083_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BranCastle_PT-BR1477730083_UHD.jpg)|
+||*Copyright: Entrada do Castelo de Bran em Brașov, Romênia (© blue sky in my  pocket/Getty Images)*
 ||
 |||
-|2025-10-30|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PushkarFair_FR-FR0781642371_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarFair_FR-FR0781642371_UHD.jpg)|
-||*Copyright: Chameaux d’Arabie à Jaisalmer, Rajasthan, Inde (© f9photos/Getty Images)*
+|2025-10-31|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BranCastle_FR-FR2815069618_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BranCastle_FR-FR2815069618_UHD.jpg)|
+||*Copyright: Entrée du château de Bran, Brașov, Roumanie (© blue sky in my pocket/Getty Images) Caption URL:*
 ||
 |||
-|2025-10-30|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PushkarFair_DE-DE2030410858_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarFair_DE-DE2030410858_UHD.jpg)|
-||*Copyright: Kamele in Jaisalmer, Rajasthan, Indien (© f9photos/Getty Images)*
+|2025-10-31|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BranCastle_DE-DE1129139069_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BranCastle_DE-DE1129139069_UHD.jpg)|
+||*Copyright: Eingang zum Schloss Bran, Brașov, Rumänien (© blue sky in my pocket/Getty Images)*
 ||
 |||
-|2025-10-31|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PushkarFair_EN-CA8887755695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarFair_EN-CA8887755695_UHD.jpg)|
-||*Copyright: Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)*
+|2025-11-01|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096_UHD.jpg)|
+||*Copyright: Different kinds of pumpkins and gourds (© davidfillion/Getty Images)*
 ||
 |||
-|2025-10-31|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PushkarFair_EN-GB3870790222_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarFair_EN-GB3870790222_UHD.jpg)|
-||*Copyright: Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)*
+|2025-11-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BranCastle_EN-GB2930979213_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BranCastle_EN-GB2930979213_UHD.jpg)|
+||*Copyright: Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)*
 ||
 |||
-|2025-10-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PushkarFair_IT-IT9959541344_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarFair_IT-IT9959541344_UHD.jpg)|
-||*Copyright: Cammelli a Jaisalmer, Rajasthan, India (© f9photos/Getty Images)*
+|2025-10-31|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BranCastle_IT-IT4029236084_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BranCastle_IT-IT4029236084_UHD.jpg)|
+||*Copyright: Ingresso del Castello di Bran a Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)*
 ||
 |||
-|2025-10-30|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PushkarFair_ES-ES0743477785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarFair_ES-ES0743477785_UHD.jpg)|
-||*Copyright: Dromedarios en Jaisalmer, Rajasthan, India (© f9photos/Getty Images)*
+|2025-10-31|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BranCastle_ES-ES0559707677_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BranCastle_ES-ES0559707677_UHD.jpg)|
+||*Copyright: Entrada al castillo de Bran en Bran, Brașov, Rumania (© blue sky in my pocket/Getty Images)*
 ||
 |||
-|2025-10-31|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PushkarFair_FR-CA6109143818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PushkarFair_FR-CA6109143818_UHD.jpg)|
-||*Copyright: Chameaux d’Arabie à Jaisalmer, Rajasthan, Inde (© f9photos/Getty Images)*
+|2025-11-01|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PumpkinHalloween_FR-CA4476250622_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PumpkinHalloween_FR-CA4476250622_UHD.jpg)|
+||*Copyright: Différentes variétés de citrouilles et de courges (© davidfillion/Getty Images)*
 ||
 |||
 
