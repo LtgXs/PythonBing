@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:31:29] Picture infomations saved to  global/fr-CA/README.md
 [09:31:29] Picture infomations saved to global/fr-CA/history/2025/11/01_fr-CA.md
 Program exit at 09:31:29
+
+Program started at 16:16:40
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmf2e7y
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:16:40] Start geting CN Bing Wallpaper
+[16:16:40] Successful get url: https://www.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg
+[16:16:41] Image saved to img/background.jpg
+[16:16:41] Info saved to README.md
+[16:16:41] Image saved to history/2025/11/01.md
+[16:16:41] Start geting global Bing Wallpaper, region=en-US, local time is 2025-10-31 12:16:41.195440-04:00
+[16:16:41] Successful get url: https://www.bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg
+[16:16:41] Picture infomations saved to  global/en-US/README.md
+[16:16:41] Picture infomations saved to global/en-US/history/2025/11/01_en-US.md
+[16:16:41] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-11-01 01:16:41.356552+09:00
+[16:16:41] Successful get url: https://www.bing.com/th?id=OHR.BisonSprings_JA-JP2014731306_UHD.jpg
+[16:16:41] Picture infomations saved to  global/ja-JP/README.md
+[16:16:41] Picture infomations saved to global/ja-JP/history/2025/11/01_ja-JP.md
+[16:16:41] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-10-31 21:46:41.583250+05:30
+[16:16:41] Successful get url: https://www.bing.com/th?id=OHR.BranCastle_EN-IN0933024345_UHD.jpg
+[16:16:41] Picture infomations saved to  global/en-IN/README.md
+[16:16:41] Picture infomations saved to global/en-IN/history/2025/10/31_en-IN.md
+[16:16:41] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-10-31 13:16:41.782949-03:00
+[16:16:41] Successful get url: https://www.bing.com/th?id=OHR.BranCastle_PT-BR1477730083_UHD.jpg
+[16:16:41] Picture infomations saved to  global/pt-BR/README.md
+[16:16:41] Picture infomations saved to global/pt-BR/history/2025/11/01_pt-BR.md
+[16:16:41] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-10-31 17:16:41.949858+01:00
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.BranCastle_FR-FR2815069618_UHD.jpg
+[16:16:42] Picture infomations saved to  global/fr-FR/README.md
+[16:16:42] Picture infomations saved to global/fr-FR/history/2025/10/31_fr-FR.md
+[16:16:42] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-10-31 17:16:42.101823+01:00
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.BranCastle_DE-DE1129139069_UHD.jpg
+[16:16:42] Picture infomations saved to  global/de-DE/README.md
+[16:16:42] Picture infomations saved to global/de-DE/history/2025/10/31_de-DE.md
+[16:16:42] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-10-31 12:16:42.280644-04:00
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096_UHD.jpg
+[16:16:42] Picture infomations saved to  global/en-CA/README.md
+[16:16:42] Picture infomations saved to global/en-CA/history/2025/11/01_en-CA.md
+[16:16:42] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-10-31 16:16:42.436924+00:00
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.BranCastle_EN-GB2930979213_UHD.jpg
+[16:16:42] Picture infomations saved to  global/en-GB/README.md
+[16:16:42] Picture infomations saved to global/en-GB/history/2025/11/01_en-GB.md
+[16:16:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-10-31 17:16:42.660419+01:00
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.BranCastle_IT-IT4029236084_UHD.jpg
+[16:16:42] Picture infomations saved to  global/it-IT/README.md
+[16:16:42] Picture infomations saved to global/it-IT/history/2025/10/31_it-IT.md
+[16:16:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-10-31 17:16:42.848032+01:00
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.BranCastle_ES-ES0559707677_UHD.jpg
+[16:16:43] Picture infomations saved to  global/es-ES/README.md
+[16:16:43] Picture infomations saved to global/es-ES/history/2025/10/31_es-ES.md
+[16:16:43] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-10-31 12:16:43.000345-04:00
+[16:16:43] Successful get url: https://www.bing.com/th?id=OHR.PumpkinHalloween_FR-CA4476250622_UHD.jpg
+[16:16:43] Picture infomations saved to  global/fr-CA/README.md
+[16:16:43] Picture infomations saved to global/fr-CA/history/2025/11/01_fr-CA.md
+Program exit at 16:16:43

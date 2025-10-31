@@ -6,9 +6,9 @@
 ||*Copyright: Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)*
 ||
 |||
-|2025-10-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BranCastle_JA-JP1493249630_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BranCastle_JA-JP1493249630_UHD.jpg)|
-||*Copyright: ブラン城, ルーマニア (© blue sky in my pocket/Getty Images)*
+|2025-11-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BisonSprings_JA-JP2014731306_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonSprings_JA-JP2014731306_UHD.jpg)|
+||*Copyright: イエローストーン国立公園, 米国 (© Cheryl Ramalho/Getty Images)*
 ||
 |||
 |2025-10-31|**Region: en-IN**||
