@@ -6,9 +6,9 @@
 ||*Copyright: Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)*
 ||
 |||
-|2025-11-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KyotoMaple_JA-JP9092721776_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KyotoMaple_JA-JP9092721776_UHD.jpg)|
-||*Copyright: 嵐山の竹林, 京都府 京都市 (© DoctorEgg/Getty Images)*
+|2025-11-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HinterseeWaterfall_JA-JP9416603910_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HinterseeWaterfall_JA-JP9416603910_UHD.jpg)|
+||*Copyright: ウィンバッハ峡谷, ドイツ (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
 |2025-11-02|**Region: en-IN**||
