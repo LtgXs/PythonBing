@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-03|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg)|
-||*Copyright: Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)*
+|2025-11-04|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg)|
+||*Copyright: Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)*
 ||
 |||
 |2025-11-03|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ウィンバッハ峡谷, ドイツ (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2025-11-02|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.KyotoMaple_EN-IN1389354305_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KyotoMaple_EN-IN1389354305_UHD.jpg)|
-||*Copyright: Colourful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)*
+|2025-11-03|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MexicoJelly_EN-IN1631723405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_EN-IN1631723405_UHD.jpg)|
+||*Copyright: Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-03|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.KyotoMaple_PT-BR7332494643_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KyotoMaple_PT-BR7332494643_UHD.jpg)|
-||*Copyright: Folhas coloridas de bordo e floresta de bambu em Arashiyama, Quioto, Japão (© DoctorEgg/Getty Images)*
+|2025-11-04|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MexicoJelly_PT-BR1868095241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_PT-BR1868095241_UHD.jpg)|
+||*Copyright: Água-viva nadando no Pacífico, Guerrero, México (© Christian  Vizl/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-02|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.KyotoMaple_FR-FR3189675625_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KyotoMaple_FR-FR3189675625_UHD.jpg)|
-||*Copyright: Feuilles d’érable et forêt de bambous à Arashiyama, Kyoto, Japon (© DoctorEgg/Getty Images)*
+|2025-11-03|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MexicoJelly_FR-FR3982419293_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_FR-FR3982419293_UHD.jpg)|
+||*Copyright: Méduses dans le Pacifique, Guerrero, Mexique (© Christian Vizl/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-02|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.KyotoMaple_DE-DE4984114115_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KyotoMaple_DE-DE4984114115_UHD.jpg)|
-||*Copyright: Bunte Ahornblätter und Bambuswald in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)*
+|2025-11-03|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MexicoJelly_DE-DE5340526951_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_DE-DE5340526951_UHD.jpg)|
+||*Copyright: Qualle schwimmt im Pazifik, Guerrero, Mexiko (© Christian Vizl/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-03|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.KyotoMaple_EN-CA3068038101_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KyotoMaple_EN-CA3068038101_UHD.jpg)|
-||*Copyright: Colourful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)*
+|2025-11-04|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MexicoJelly_EN-CA4031651067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_EN-CA4031651067_UHD.jpg)|
+||*Copyright: Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.KyotoMaple_EN-GB3352646141_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KyotoMaple_EN-GB3352646141_UHD.jpg)|
-||*Copyright: Colourful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)*
+|2025-11-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MexicoJelly_EN-GB3540800984_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_EN-GB3540800984_UHD.jpg)|
+||*Copyright: Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-02|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.KyotoMaple_IT-IT4372784609_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KyotoMaple_IT-IT4372784609_UHD.jpg)|
-||*Copyright: Foglie di acero colorate e foresta di bambù ad Arashiyama, Kyoto, Giappone (© DoctorEgg/Getty Images)*
+|2025-11-03|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MexicoJelly_IT-IT5253292214_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_IT-IT5253292214_UHD.jpg)|
+||*Copyright: Medusa nell’Oceano Pacifico, Guerrero, Messico (© Christian Vizl/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-02|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BisonSprings_ES-ES3027945894_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BisonSprings_ES-ES3027945894_UHD.jpg)|
-||*Copyright: Bisontes pastando en aguas termales, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© Cheryl Ramalho/Getty Images)*
+|2025-11-03|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MexicoJelly_ES-ES0847480755_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_ES-ES0847480755_UHD.jpg)|
+||*Copyright: Medusas nadando en el Pacífico, Guerrero, México (© Christian Vizl/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-03|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.KyotoMaple_FR-CA4615731048_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KyotoMaple_FR-CA4615731048_UHD.jpg)|
-||*Copyright: Feuilles d’érable et forêt de bambous à Arashiyama, Kyoto, Japon (© DoctorEgg/Getty Images)*
+|2025-11-04|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MexicoJelly_FR-CA4822308838_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_FR-CA4822308838_UHD.jpg)|
+||*Copyright: Méduses dans le Pacifique, Guerrero, Mexique (© Christian Vizl/TANDEM Stills + Motion)*
 ||
 |||
 
