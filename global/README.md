@@ -6,9 +6,9 @@
 ||*Copyright: Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HinterseeWaterfall_JA-JP9416603910_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HinterseeWaterfall_JA-JP9416603910_UHD.jpg)|
-||*Copyright: ウィンバッハ峡谷, ドイツ (© EyeEm Mobile GmbH/Getty Images)*
+|2025-11-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TowerBridgeUK_JA-JP9811775783_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TowerBridgeUK_JA-JP9811775783_UHD.jpg)|
+||*Copyright: タワーブリッジ, イングランド (© Nick Brundle Photography/Getty Images)*
 ||
 |||
 |2025-11-03|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2025-11-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MexicoJelly_IT-IT5253292214_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_IT-IT5253292214_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.MexicoJelly_IT-IT9520443495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_IT-IT9520443495_UHD.jpg)|
 ||*Copyright: Medusa nell’Oceano Pacifico, Guerrero, Messico (© Christian Vizl/TANDEM Stills + Motion)*
 ||
 |||
