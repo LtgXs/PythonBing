@@ -6,9 +6,9 @@
 ||*Copyright: Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2025-11-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TowerBridgeUK_JA-JP9811775783_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TowerBridgeUK_JA-JP9811775783_UHD.jpg)|
-||*Copyright: タワーブリッジ, イングランド (© Nick Brundle Photography/Getty Images)*
+|2025-11-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MoncayoAutumn_JA-JP0004840781_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoncayoAutumn_JA-JP0004840781_UHD.jpg)|
+||*Copyright: ペーニャ・ロヤのブナ林, スペイン (© David Santiago Garcia/DEEPOL by plainpicture)*
 ||
 |||
 |2025-11-04|**Region: en-IN**||
