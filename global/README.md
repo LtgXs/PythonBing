@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg)|
-||*Copyright: Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)*
+|2025-11-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg)|
+||*Copyright: Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)*
 ||
 |||
 |2025-11-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: タワーブリッジ, イングランド (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2025-11-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MexicoJelly_EN-IN1631723405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_EN-IN1631723405_UHD.jpg)|
-||*Copyright: Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)*
+|2025-11-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-IN1788130859_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-IN1788130859_UHD.jpg)|
+||*Copyright: Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2025-11-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MexicoJelly_PT-BR1868095241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_PT-BR1868095241_UHD.jpg)|
-||*Copyright: Água-viva nadando no Pacífico, Guerrero, México (© Christian  Vizl/TANDEM Stills + Motion)*
+|2025-11-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TowerBridgeUK_PT-BR2443250615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TowerBridgeUK_PT-BR2443250615_UHD.jpg)|
+||*Copyright: Tower Bridge, Londres, Inglaterra (© Nick Brundle  Photography/Getty Images)*
 ||
 |||
-|2025-11-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MexicoJelly_FR-FR3982419293_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_FR-FR3982419293_UHD.jpg)|
-||*Copyright: Méduses dans le Pacifique, Guerrero, Mexique (© Christian Vizl/TANDEM Stills + Motion)*
+|2025-11-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TowerBridgeUK_FR-FR4381465243_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TowerBridgeUK_FR-FR4381465243_UHD.jpg)|
+||*Copyright: Tower Bridge, Londres, Angleterre (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2025-11-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MexicoJelly_DE-DE5340526951_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_DE-DE5340526951_UHD.jpg)|
-||*Copyright: Qualle schwimmt im Pazifik, Guerrero, Mexiko (© Christian Vizl/TANDEM Stills + Motion)*
+|2025-11-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TowerBridgeUK_DE-DE5591169923_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TowerBridgeUK_DE-DE5591169923_UHD.jpg)|
+||*Copyright: Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2025-11-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MexicoJelly_EN-CA4031651067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_EN-CA4031651067_UHD.jpg)|
-||*Copyright: Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)*
+|2025-11-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-CA4869370320_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-CA4869370320_UHD.jpg)|
+||*Copyright: Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2025-11-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MexicoJelly_EN-GB3540800984_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_EN-GB3540800984_UHD.jpg)|
-||*Copyright: Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)*
+|2025-11-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-GB3663300679_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-GB3663300679_UHD.jpg)|
+||*Copyright: Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2025-11-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MexicoJelly_IT-IT9520443495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_IT-IT9520443495_UHD.jpg)|
-||*Copyright: Medusa nell’Oceano Pacifico, Guerrero, Messico (© Christian Vizl/TANDEM Stills + Motion)*
+|2025-11-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ForzeArmate_IT-IT4457176272_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ForzeArmate_IT-IT4457176272_UHD.jpg)|
+||*Copyright: Esibizione Frecce Tricolori a Palermo, Sicilia (© ph.antonio pulizzi/Getty Images)*
 ||
 |||
-|2025-11-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MexicoJelly_ES-ES0847480755_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_ES-ES0847480755_UHD.jpg)|
-||*Copyright: Medusas nadando en el Pacífico, Guerrero, México (© Christian Vizl/TANDEM Stills + Motion)*
+|2025-11-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TowerBridgeUK_ES-ES3109579970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TowerBridgeUK_ES-ES3109579970_UHD.jpg)|
+||*Copyright: Tower Bridge, Londres, Inglaterra (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2025-11-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MexicoJelly_FR-CA4822308838_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MexicoJelly_FR-CA4822308838_UHD.jpg)|
-||*Copyright: Méduses dans le Pacifique, Guerrero, Mexique (© Christian Vizl/TANDEM Stills + Motion)*
+|2025-11-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TowerBridgeUK_FR-CA4980014459_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TowerBridgeUK_FR-CA4980014459_UHD.jpg)|
+||*Copyright: Tower Bridge, Londres, Angleterre (© Nick Brundle Photography/Getty Images)*
 ||
 |||
 

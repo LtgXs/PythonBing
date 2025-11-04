@@ -1,0 +1,60 @@
+
+Program started at 09:33:46
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmf2e7y
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:33:46] Start geting CN Bing Wallpaper
+[09:33:46] Successful get url: https://www.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_UHD.jpg
+[09:33:46] Image saved to img/background.jpg
+[09:33:46] Info saved to README.md
+[09:33:46] Image saved to history/2025/11/04.md
+[09:33:46] Start geting global Bing Wallpaper, region=en-US, local time is 2025-11-04 04:33:46.931565-05:00
+[09:33:47] Successful get url: https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg
+[09:33:47] Picture infomations saved to  global/en-US/README.md
+[09:33:47] Picture infomations saved to global/en-US/history/2025/11/05_en-US.md
+[09:33:47] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-11-04 18:33:47.331415+09:00
+[09:33:47] Successful get url: https://www.bing.com/th?id=OHR.TowerBridgeUK_JA-JP9811775783_UHD.jpg
+[09:33:47] Picture infomations saved to  global/ja-JP/README.md
+[09:33:47] Picture infomations saved to global/ja-JP/history/2025/11/04_ja-JP.md
+[09:33:47] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-11-04 15:03:47.592386+05:30
+[09:33:47] Successful get url: https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-IN1788130859_UHD.jpg
+[09:33:47] Picture infomations saved to  global/en-IN/README.md
+[09:33:47] Picture infomations saved to global/en-IN/history/2025/11/04_en-IN.md
+[09:33:47] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-11-04 06:33:47.933835-03:00
+[09:33:48] Successful get url: https://www.bing.com/th?id=OHR.TowerBridgeUK_PT-BR2443250615_UHD.jpg
+[09:33:48] Picture infomations saved to  global/pt-BR/README.md
+[09:33:48] Picture infomations saved to global/pt-BR/history/2025/11/05_pt-BR.md
+[09:33:48] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-11-04 10:33:48.473856+01:00
+[09:33:48] Successful get url: https://www.bing.com/th?id=OHR.TowerBridgeUK_FR-FR4381465243_UHD.jpg
+[09:33:48] Picture infomations saved to  global/fr-FR/README.md
+[09:33:48] Picture infomations saved to global/fr-FR/history/2025/11/04_fr-FR.md
+[09:33:48] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-11-04 10:33:48.808697+01:00
+[09:33:48] Successful get url: https://www.bing.com/th?id=OHR.TowerBridgeUK_DE-DE5591169923_UHD.jpg
+[09:33:49] Picture infomations saved to  global/de-DE/README.md
+[09:33:49] Picture infomations saved to global/de-DE/history/2025/11/04_de-DE.md
+[09:33:49] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-11-04 04:33:49.080278-05:00
+[09:33:49] Successful get url: https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-CA4869370320_UHD.jpg
+[09:33:49] Picture infomations saved to  global/en-CA/README.md
+[09:33:49] Picture infomations saved to global/en-CA/history/2025/11/05_en-CA.md
+[09:33:49] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-11-04 09:33:49.582529+00:00
+[09:33:49] Successful get url: https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-GB3663300679_UHD.jpg
+[09:33:49] Picture infomations saved to  global/en-GB/README.md
+[09:33:49] Picture infomations saved to global/en-GB/history/2025/11/05_en-GB.md
+[09:33:49] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-11-04 10:33:49.923795+01:00
+[09:33:49] Successful get url: https://www.bing.com/th?id=OHR.ForzeArmate_IT-IT4457176272_UHD.jpg
+[09:33:50] Picture infomations saved to  global/it-IT/README.md
+[09:33:50] Picture infomations saved to global/it-IT/history/2025/11/04_it-IT.md
+[09:33:50] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-11-04 10:33:50.295126+01:00
+[09:33:50] Successful get url: https://www.bing.com/th?id=OHR.TowerBridgeUK_ES-ES3109579970_UHD.jpg
+[09:33:50] Picture infomations saved to  global/es-ES/README.md
+[09:33:50] Picture infomations saved to global/es-ES/history/2025/11/04_es-ES.md
+[09:33:50] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-11-04 04:33:50.716091-05:00
+[09:33:50] Successful get url: https://www.bing.com/th?id=OHR.TowerBridgeUK_FR-CA4980014459_UHD.jpg
+[09:33:50] Picture infomations saved to  global/fr-CA/README.md
+[09:33:50] Picture infomations saved to global/fr-CA/history/2025/11/05_fr-CA.md
+Program exit at 09:33:50
