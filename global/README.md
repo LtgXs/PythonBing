@@ -6,9 +6,9 @@
 ||*Copyright: Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)*
 ||
 |||
-|2025-11-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MoncayoAutumn_JA-JP0004840781_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MoncayoAutumn_JA-JP0004840781_UHD.jpg)|
-||*Copyright: ペーニャ・ロヤのブナ林, スペイン (© David Santiago Garcia/DEEPOL by plainpicture)*
+|2025-11-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LanternsThailand_JA-JP0402404581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LanternsThailand_JA-JP0402404581_UHD.jpg)|
+||*Copyright: ワット・プラタートハリプンチャイ寺院, タイ (© MR. ANUJAK JAIMOOK/Getty Images)*
 ||
 |||
 |2025-11-05|**Region: en-IN**||
