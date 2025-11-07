@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:30:53] Picture infomations saved to  global/fr-CA/README.md
 [09:30:53] Picture infomations saved to global/fr-CA/history/2025/11/08_fr-CA.md
 Program exit at 09:30:53
+
+Program started at 16:14:45
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmw9dnm
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:14:46] Start geting CN Bing Wallpaper
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_UHD.jpg
+[16:14:46] Image saved to img/background.jpg
+[16:14:46] Info saved to README.md
+[16:14:46] Image saved to history/2025/11/08.md
+[16:14:46] Start geting global Bing Wallpaper, region=en-US, local time is 2025-11-07 11:14:46.246248-05:00
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg
+[16:14:46] Picture infomations saved to  global/en-US/README.md
+[16:14:46] Picture infomations saved to global/en-US/history/2025/11/08_en-US.md
+[16:14:46] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-11-08 01:14:46.426046+09:00
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.BandonBeach_JA-JP1159899135_UHD.jpg
+[16:14:46] Picture infomations saved to  global/ja-JP/README.md
+[16:14:46] Picture infomations saved to global/ja-JP/history/2025/11/08_ja-JP.md
+[16:14:46] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-11-07 21:44:46.591251+05:30
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.WillowBear_EN-IN2726159563_UHD.jpg
+[16:14:46] Picture infomations saved to  global/en-IN/README.md
+[16:14:46] Picture infomations saved to global/en-IN/history/2025/11/07_en-IN.md
+[16:14:46] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-11-07 13:14:46.829366-03:00
+[16:14:46] Successful get url: https://www.bing.com/th?id=OHR.ChurchMG_PT-BR3242997817_UHD.jpg
+[16:14:46] Picture infomations saved to  global/pt-BR/README.md
+[16:14:46] Picture infomations saved to global/pt-BR/history/2025/11/08_pt-BR.md
+[16:14:46] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-11-07 17:14:46.988233+01:00
+[16:14:47] Successful get url: https://www.bing.com/th?id=OHR.WillowBear_FR-FR5230824319_UHD.jpg
+[16:14:47] Picture infomations saved to  global/fr-FR/README.md
+[16:14:47] Picture infomations saved to global/fr-FR/history/2025/11/07_fr-FR.md
+[16:14:47] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-11-07 17:14:47.218792+01:00
+[16:14:47] Successful get url: https://www.bing.com/th?id=OHR.WillowBear_DE-DE7018032776_UHD.jpg
+[16:14:47] Picture infomations saved to  global/de-DE/README.md
+[16:14:47] Picture infomations saved to global/de-DE/history/2025/11/07_de-DE.md
+[16:14:47] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-11-07 11:14:47.671410-05:00
+[16:14:47] Successful get url: https://www.bing.com/th?id=OHR.WillowBear_EN-CA6004529006_UHD.jpg
+[16:14:47] Picture infomations saved to  global/en-CA/README.md
+[16:14:47] Picture infomations saved to global/en-CA/history/2025/11/08_en-CA.md
+[16:14:47] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-11-07 16:14:47.844699+00:00
+[16:14:47] Successful get url: https://www.bing.com/th?id=OHR.WillowBear_EN-GB7735486202_UHD.jpg
+[16:14:48] Picture infomations saved to  global/en-GB/README.md
+[16:14:48] Picture infomations saved to global/en-GB/history/2025/11/08_en-GB.md
+[16:14:48] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-11-07 17:14:48.179105+01:00
+[16:14:48] Successful get url: https://www.bing.com/th?id=OHR.WillowBear_IT-IT4740478745_UHD.jpg
+[16:14:48] Picture infomations saved to  global/it-IT/README.md
+[16:14:48] Picture infomations saved to global/it-IT/history/2025/11/07_it-IT.md
+[16:14:48] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-11-07 17:14:48.341842+01:00
+[16:14:48] Successful get url: https://www.bing.com/th?id=OHR.WillowBear_ES-ES1378157368_UHD.jpg
+[16:14:48] Picture infomations saved to  global/es-ES/README.md
+[16:14:48] Picture infomations saved to global/es-ES/history/2025/11/07_es-ES.md
+[16:14:48] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-11-07 11:14:48.556005-05:00
+[16:14:48] Successful get url: https://www.bing.com/th?id=OHR.WillowBear_FR-CA5617207363_UHD.jpg
+[16:14:48] Picture infomations saved to  global/fr-CA/README.md
+[16:14:48] Picture infomations saved to global/fr-CA/history/2025/11/08_fr-CA.md
+Program exit at 16:14:48

@@ -6,9 +6,9 @@
 ||*Copyright: Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)*
 ||
 |||
-|2025-11-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Lidong2025_JA-JP0788996940_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Lidong2025_JA-JP0788996940_UHD.jpg)|
-||*Copyright: エナガ, 日本 (© feathercollector/Shutterstock)*
+|2025-11-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BandonBeach_JA-JP1159899135_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_JA-JP1159899135_UHD.jpg)|
+||*Copyright: バンドンビーチの海蝕岩, 米国 オレゴン州 (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
 |2025-11-07|**Region: en-IN**||
