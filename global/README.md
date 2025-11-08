@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-08|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg)|
-||*Copyright: Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)*
+|2025-11-09|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg)|
+||*Copyright: Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
 |2025-11-08|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: バンドンビーチの海蝕岩, 米国 オレゴン州 (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-07|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WillowBear_EN-IN2726159563_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowBear_EN-IN2726159563_UHD.jpg)|
-||*Copyright: Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)*
+|2025-11-08|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BandonBeach_EN-IN2889570717_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_EN-IN2889570717_UHD.jpg)|
+||*Copyright: Sea stacks of Bandon Beach in Bandon, Oregon, United States (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-08|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ChurchMG_PT-BR3242997817_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChurchMG_PT-BR3242997817_UHD.jpg)|
-||*Copyright: Antiga igreja barroca em Ouro Preto, Minas Gerais (©  Fred_Pinheiro/iStock/Getty Images Plus)*
+|2025-11-09|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BandonBeach_PT-BR3802198914_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_PT-BR3802198914_UHD.jpg)|
+||*Copyright: Formações rochosas costeiras da Praia de Bandon, Oregon, EUA  (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-07|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WillowBear_FR-FR5230824319_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowBear_FR-FR5230824319_UHD.jpg)|
-||*Copyright: Ours polaire à Churchill, Manitoba, Canada (© karen crewe/Getty Images)*
+|2025-11-08|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BandonBeach_FR-FR5359077798_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_FR-FR5359077798_UHD.jpg)|
+||*Copyright: Pitons rocheux de la plage de Bandon, Oregon, États-Unis (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-07|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WillowBear_DE-DE7018032776_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowBear_DE-DE7018032776_UHD.jpg)|
-||*Copyright: Eisbär in Churchill, Manitoba, Kanada (© karen crewe/Getty Images)*
+|2025-11-08|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BandonBeach_DE-DE8120585985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_DE-DE8120585985_UHD.jpg)|
+||*Copyright: Felsformationen am Bandon Beach in Bandon, Oregon, USA (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-08|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WillowBear_EN-CA6004529006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowBear_EN-CA6004529006_UHD.jpg)|
-||*Copyright: Polar bear in Churchill, Manitoba (© karen crewe/Getty Images)*
+|2025-11-09|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BandonBeach_EN-CA6449115484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_EN-CA6449115484_UHD.jpg)|
+||*Copyright: Sea stacks of Bandon Beach in Bandon, Oregon, United States (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-08|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.WillowBear_EN-GB7735486202_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowBear_EN-GB7735486202_UHD.jpg)|
-||*Copyright: Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)*
+|2025-11-09|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BandonBeach_EN-GB7955007948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_EN-GB7955007948_UHD.jpg)|
+||*Copyright: Sea stacks of Bandon Beach in Bandon, Oregon, United States (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-07|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WillowBear_IT-IT4740478745_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowBear_IT-IT4740478745_UHD.jpg)|
-||*Copyright: Orso Polare, Churchill, Manitoba, Canada (© karen crewe/Getty Images)*
+|2025-11-08|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BandonBeach_IT-IT4850548090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_IT-IT4850548090_UHD.jpg)|
+||*Copyright: Faraglioni di Bandon Beach, Bandon, Oregon, USA (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-07|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.WillowBear_ES-ES1378157368_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowBear_ES-ES1378157368_UHD.jpg)|
-||*Copyright: Oso polar en Churchill, Manitoba, Canadá (© karen crewe/Getty Images)*
+|2025-11-08|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_ES-ES1694019342_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_ES-ES1694019342_UHD.jpg)|
+||*Copyright: Complejo megalítico: Externsteine en el Bosque de Teutoburgo, Alemania (© Michael Sroka/Getty Images)*
 ||
 |||
-|2025-11-08|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WillowBear_FR-CA5617207363_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowBear_FR-CA5617207363_UHD.jpg)|
-||*Copyright: Ours polaire à Churchill, Manitoba, Canada (© karen crewe/Getty Images)*
+|2025-11-09|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BandonBeach_FR-CA6716981338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_FR-CA6716981338_UHD.jpg)|
+||*Copyright: Pitons rocheux de la plage de Bandon, Oregon, États-Unis (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
 
