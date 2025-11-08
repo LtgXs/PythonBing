@@ -6,9 +6,9 @@
 ||*Copyright: Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BandonBeach_JA-JP1159899135_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_JA-JP1159899135_UHD.jpg)|
-||*Copyright: バンドンビーチの海蝕岩, 米国 オレゴン州 (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-11-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_UHD.jpg)|
+||*Copyright: ハッブル宇宙望遠鏡が撮影したラグーン星雲の星間雲 (© ESA/NASA)*
 ||
 |||
 |2025-11-08|**Region: en-IN**||
