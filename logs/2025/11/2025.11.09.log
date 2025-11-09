@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:26:53] Picture infomations saved to  global/fr-CA/README.md
 [09:26:53] Picture infomations saved to global/fr-CA/history/2025/11/10_fr-CA.md
 Program exit at 09:26:53
+
+Program started at 16:14:41
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmw9dnm
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:14:41] Start geting CN Bing Wallpaper
+[16:14:41] Successful get url: https://www.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg
+[16:14:41] Image saved to img/background.jpg
+[16:14:41] Info saved to README.md
+[16:14:41] Image saved to history/2025/11/10.md
+[16:14:41] Start geting global Bing Wallpaper, region=en-US, local time is 2025-11-09 11:14:41.996143-05:00
+[16:14:42] Successful get url: https://www.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg
+[16:14:42] Picture infomations saved to  global/en-US/README.md
+[16:14:42] Picture infomations saved to global/en-US/history/2025/11/10_en-US.md
+[16:14:42] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-11-10 01:14:42.304999+09:00
+[16:14:42] Successful get url: https://www.bing.com/th?id=OHR.MatsumotoCastleDay2025_JA-JP3896283133_UHD.jpg
+[16:14:42] Picture infomations saved to  global/ja-JP/README.md
+[16:14:42] Picture infomations saved to global/ja-JP/history/2025/11/10_ja-JP.md
+[16:14:42] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-11-09 21:44:42.674710+05:30
+[16:14:42] Successful get url: https://www.bing.com/th?id=OHR.LagoonNebula_EN-IN3202220398_UHD.jpg
+[16:14:43] Picture infomations saved to  global/en-IN/README.md
+[16:14:43] Picture infomations saved to global/en-IN/history/2025/11/09_en-IN.md
+[16:14:43] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-11-09 13:14:43.051264-03:00
+[16:14:43] Successful get url: https://www.bing.com/th?id=OHR.LagoonNebula_PT-BR4213803811_UHD.jpg
+[16:14:43] Picture infomations saved to  global/pt-BR/README.md
+[16:14:43] Picture infomations saved to global/pt-BR/history/2025/11/10_pt-BR.md
+[16:14:43] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-11-09 17:14:43.471658+01:00
+[16:14:43] Successful get url: https://www.bing.com/th?id=OHR.LagoonNebula_FR-FR5468322424_UHD.jpg
+[16:14:43] Picture infomations saved to  global/fr-FR/README.md
+[16:14:43] Picture infomations saved to global/fr-FR/history/2025/11/09_fr-FR.md
+[16:14:43] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-11-09 17:14:43.776720+01:00
+[16:14:43] Successful get url: https://www.bing.com/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_UHD.jpg
+[16:14:44] Picture infomations saved to  global/de-DE/README.md
+[16:14:44] Picture infomations saved to global/de-DE/history/2025/11/09_de-DE.md
+[16:14:44] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-11-09 11:14:44.072352-05:00
+[16:14:44] Successful get url: https://www.bing.com/th?id=OHR.LagoonNebula_EN-CA7834189845_UHD.jpg
+[16:14:44] Picture infomations saved to  global/en-CA/README.md
+[16:14:44] Picture infomations saved to global/en-CA/history/2025/11/10_en-CA.md
+[16:14:44] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-11-09 16:14:44.430428+00:00
+[16:14:44] Successful get url: https://www.bing.com/th?id=OHR.RemembranceSunday2025_EN-GB8493824308_UHD.jpg
+[16:14:44] Picture infomations saved to  global/en-GB/README.md
+[16:14:44] Picture infomations saved to global/en-GB/history/2025/11/10_en-GB.md
+[16:14:44] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-11-09 17:14:44.736528+01:00
+[16:14:44] Successful get url: https://www.bing.com/th?id=OHR.LagoonNebula_IT-IT3250116323_UHD.jpg
+[16:14:45] Picture infomations saved to  global/it-IT/README.md
+[16:14:45] Picture infomations saved to global/it-IT/history/2025/11/09_it-IT.md
+[16:14:45] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-11-09 17:14:45.120494+01:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_UHD.jpg
+[16:14:45] Picture infomations saved to  global/es-ES/README.md
+[16:14:45] Picture infomations saved to global/es-ES/history/2025/11/09_es-ES.md
+[16:14:45] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-11-09 11:14:45.425838-05:00
+[16:14:45] Successful get url: https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_UHD.jpg
+[16:14:45] Picture infomations saved to  global/fr-CA/README.md
+[16:14:45] Picture infomations saved to global/fr-CA/history/2025/11/10_fr-CA.md
+Program exit at 16:14:45

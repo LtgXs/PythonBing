@@ -6,9 +6,9 @@
 ||*Copyright: Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)*
 ||
 |||
-|2025-11-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_UHD.jpg)|
-||*Copyright: ハッブル宇宙望遠鏡が撮影したラグーン星雲の星間雲 (© ESA/NASA)*
+|2025-11-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MatsumotoCastleDay2025_JA-JP3896283133_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MatsumotoCastleDay2025_JA-JP3896283133_UHD.jpg)|
+||*Copyright: 松本城, 長野県 松本市 (© Sangchai Olanrittinunt/Shutterstock)*
 ||
 |||
 |2025-11-09|**Region: en-IN**||
