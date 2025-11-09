@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-09|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg)|
-||*Copyright: Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-11-10|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg)|
+||*Copyright: Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)*
 ||
 |||
 |2025-11-09|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ハッブル宇宙望遠鏡が撮影したラグーン星雲の星間雲 (© ESA/NASA)*
 ||
 |||
-|2025-11-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BandonBeach_EN-IN2889570717_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_EN-IN2889570717_UHD.jpg)|
-||*Copyright: Sea stacks of Bandon Beach in Bandon, Oregon, United States (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-11-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LagoonNebula_EN-IN3202220398_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LagoonNebula_EN-IN3202220398_UHD.jpg)|
+||*Copyright: Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)*
 ||
 |||
-|2025-11-09|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BandonBeach_PT-BR3802198914_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_PT-BR3802198914_UHD.jpg)|
-||*Copyright: Formações rochosas costeiras da Praia de Bandon, Oregon, EUA  (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-11-10|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.LagoonNebula_PT-BR4213803811_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LagoonNebula_PT-BR4213803811_UHD.jpg)|
+||*Copyright: Nuvens interestelares na Nebulosa da Lagoa, capturadas pelo Telescópio Espacial Hubble (© ESA/NASA)*
 ||
 |||
-|2025-11-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BandonBeach_FR-FR5359077798_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_FR-FR5359077798_UHD.jpg)|
-||*Copyright: Pitons rocheux de la plage de Bandon, Oregon, États-Unis (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-11-09|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LagoonNebula_FR-FR5468322424_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LagoonNebula_FR-FR5468322424_UHD.jpg)|
+||*Copyright: Nuages interstellaires dans la nébuleuse de la Lagune, capturés par le télescope spatial Hubble (© ESA/NASA)*
 ||
 |||
-|2025-11-08|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BandonBeach_DE-DE8120585985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_DE-DE8120585985_UHD.jpg)|
-||*Copyright: Felsformationen am Bandon Beach in Bandon, Oregon, USA (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-11-09|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_UHD.jpg)|
+||*Copyright: Herzen auf den Türmen der Oberbaumbrücke, Berlin (© fhm/Getty Images)*
 ||
 |||
-|2025-11-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BandonBeach_EN-CA6449115484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_EN-CA6449115484_UHD.jpg)|
-||*Copyright: Sea stacks of Bandon Beach in Bandon, Oregon, United States (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-11-10|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LagoonNebula_EN-CA7834189845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LagoonNebula_EN-CA7834189845_UHD.jpg)|
+||*Copyright: Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)*
 ||
 |||
-|2025-11-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BandonBeach_EN-GB7955007948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_EN-GB7955007948_UHD.jpg)|
-||*Copyright: Sea stacks of Bandon Beach in Bandon, Oregon, United States (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-11-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.RemembranceSunday2025_EN-GB8493824308_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RemembranceSunday2025_EN-GB8493824308_UHD.jpg)|
+||*Copyright: Poppy field (© Howard Double/iStock/Getty Images)*
 ||
 |||
-|2025-11-08|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BandonBeach_IT-IT4850548090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_IT-IT4850548090_UHD.jpg)|
-||*Copyright: Faraglioni di Bandon Beach, Bandon, Oregon, USA (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-11-09|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LagoonNebula_IT-IT3250116323_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LagoonNebula_IT-IT3250116323_UHD.jpg)|
+||*Copyright: Nubi interstellari nella Nebulosa Laguna, catturate dal telescopio spaziale Hubble (© ESA/NASA)*
 ||
 |||
-|2025-11-08|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_ES-ES1694019342_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_ES-ES1694019342_UHD.jpg)|
-||*Copyright: Complejo megalítico: Externsteine en el Bosque de Teutoburgo, Alemania (© Michael Sroka/Getty Images)*
+|2025-11-09|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_UHD.jpg)|
+||*Copyright: Nubes interestelares en la Nebulosa de la Laguna, capturadas por el Telescopio Espacial Hubble (© ESA/NASA)*
 ||
 |||
-|2025-11-09|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BandonBeach_FR-CA6716981338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BandonBeach_FR-CA6716981338_UHD.jpg)|
-||*Copyright: Pitons rocheux de la plage de Bandon, Oregon, États-Unis (© Grant Ordelheide/TANDEM Stills + Motion)*
+|2025-11-10|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LagoonNebula_FR-CA6861057946_UHD.jpg)|
+||*Copyright: Nuages interstellaires dans la nébuleuse de la Lagune, capturés par le télescope spatial Hubble (© ESA/NASA)*
 ||
 |||
 
