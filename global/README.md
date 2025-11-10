@@ -6,9 +6,9 @@
 ||*Copyright: Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)*
 ||
 |||
-|2025-11-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MatsumotoCastleDay2025_JA-JP3896283133_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MatsumotoCastleDay2025_JA-JP3896283133_UHD.jpg)|
-||*Copyright: 松本城, 長野県 松本市 (© Sangchai Olanrittinunt/Shutterstock)*
+|2025-11-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BulgariaRocks_JA-JP2963566999_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaRocks_JA-JP2963566999_UHD.jpg)|
+||*Copyright: ベログラトチク岩, ブルガリア (© EvaL Miko/Shutterstock)*
 ||
 |||
 |2025-11-10|**Region: en-IN**||
