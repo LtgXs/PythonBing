@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-11|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg)|
-||*Copyright: Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)*
+|2025-11-12|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg)|
+||*Copyright: Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)*
 ||
 |||
 |2025-11-11|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ベログラトチク岩, ブルガリア (© EvaL Miko/Shutterstock)*
 ||
 |||
-|2025-11-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-IN3372426738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-IN3372426738_UHD.jpg)|
-||*Copyright: Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota, United States (© Greg Vaughn/Getty Images)*
+|2025-11-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-IN3574516917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-IN3574516917_UHD.jpg)|
+||*Copyright: The Externsteine rock formation in the Teutoburg Forest, North Rhine-Westphalia, Germany (© Michael Sroka/Getty Images)*
 ||
 |||
-|2025-11-11|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PrairieDogTown_PT-BR5550124039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrairieDogTown_PT-BR5550124039_UHD.jpg)|
-||*Copyright: Cães-da-pradaria no Parque Nacional das Badlands, Dakota do Sul, EUA (© Greg Vaughn/Getty Images)*
+|2025-11-12|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_PT-BR2037253677_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_PT-BR2037253677_UHD.jpg)|
+||*Copyright: Formação rochosa Externsteine na Floresta de Teutoburgo, Alemanha (© Michael Sroka/Getty Images)*
 ||
 |||
-|2025-11-10|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PrairieDogTown_FR-FR5690606254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrairieDogTown_FR-FR5690606254_UHD.jpg)|
-||*Copyright: Chiens de prairie à queue noire, Parc National des Badlands, Dakota du Sud, États-Unis (© Greg Vaughn/Getty Images)*
+|2025-11-11|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Armistice_FR-FR5922039911_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Armistice_FR-FR5922039911_UHD.jpg)|
+||*Copyright: Tombe du soldat inconnu sous l’Arc de Triomphe à Paris lors des commémorations du 11 novembre (© Ludovic Marin/Getty Images)*
 ||
 |||
-|2025-11-10|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PrairieDogTown_DE-DE5557386085_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrairieDogTown_DE-DE5557386085_UHD.jpg)|
-||*Copyright: Schwarzschwanz-Präriehunde in der Roberts Prairie Dog Town, Badlands-Nationalpark, South Dakota, USA (© Greg Vaughn/Getty Images)*
+|2025-11-11|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_UHD.jpg)|
+||*Copyright: Ansicht der Felsen gegen den Himmel während des Sonnenuntergangs, Externsteine, Teutoburger Wald, Nordrhein-Westfalen (© Michael Sroka/Getty Images)*
 ||
 |||
-|2025-11-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-CA8014660733_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-CA8014660733_UHD.jpg)|
-||*Copyright: Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota, United States (© Greg Vaughn/Getty Images)*
+|2025-11-12|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-CA9316195338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-CA9316195338_UHD.jpg)|
+||*Copyright: Quiver trees at night with the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
 ||
 |||
-|2025-11-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-GB8796991019_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-GB8796991019_UHD.jpg)|
-||*Copyright: Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota, USA (© Greg Vaughn/Getty Images)*
+|2025-11-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-GB9984773372_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-GB9984773372_UHD.jpg)|
+||*Copyright: The Externsteine rock formation in the Teutoburg Forest, North Rhine-Westphalia, Germany (© Michael Sroka/Getty Images)*
 ||
 |||
-|2025-11-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CastleAbruzzo_IT-IT5062952309_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastleAbruzzo_IT-IT5062952309_UHD.jpg)|
-||*Copyright: Castello di Rocca Calascio, Parco Nazionale del Gran Sasso e dei Monti della Laga, Abruzzo (© carlo alberto conti/Getty Images)*
+|2025-11-11|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_IT-IT5120455636_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_IT-IT5120455636_UHD.jpg)|
+||*Copyright: Complesso megalitico Externsteine, Foresta di Teutoburgo, Germania (© Michael Sroka/Getty Images)*
 ||
 |||
-|2025-11-10|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.KiteFuerteventura_ES-ES1949854266_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KiteFuerteventura_ES-ES1949854266_UHD.jpg)|
-||*Copyright: Festival Internacional de Cometas de Corralejo, La Oliva, Fuerteventura, Las Palmas, Canarias, España (© Tamara Kulikova/ShutterStock)*
+|2025-11-11|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PrairieDogTown_ES-ES2126702018_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrairieDogTown_ES-ES2126702018_UHD.jpg)|
+||*Copyright: Perritos de la pradera de cola negra en Roberts Prairie Dog Town, Parque Nacional Badlands, Dakota del Sur, EE. UU. (© Greg Vaughn/Getty Images)*
 ||
 |||
-|2025-11-11|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PrairieDogTown_FR-CA7052620296_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrairieDogTown_FR-CA7052620296_UHD.jpg)|
-||*Copyright: Chiens de prairie à queue noire, Parc National des Badlands, Dakota du Sud, États-Unis (© Greg Vaughn/Getty Images)*
+|2025-11-12|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AloeDichotoma_FR-CA7297056424_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_FR-CA7297056424_UHD.jpg)|
+||*Copyright: Arbres carquois sous la Voie lactée, Keetmanshoop, Namibie (© Wim van den Heever/naturepl.com)*
 ||
 |||
 
