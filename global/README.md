@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
-|2025-11-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ColosseumRome_JA-JP4396797747_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_JA-JP4396797747_UHD.jpg)|
-||*Copyright: コロッセオ, イタリア (© Nico De Pasquale Photography/Getty Images)*
+|2025-11-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AloeDichotoma_JA-JP4764495415_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_JA-JP4764495415_UHD.jpg)|
+||*Copyright: クイバーツリーの森, ナミビア (© Wim van den Heever/naturepl.com)*
 ||
 |||
 |2025-11-12|**Region: en-IN**||
