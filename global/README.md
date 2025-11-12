@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg)|
-||*Copyright: Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)*
+|2025-11-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg)|
+||*Copyright: Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
 |2025-11-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: コロッセオ, イタリア (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
-|2025-11-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-IN3574516917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-IN3574516917_UHD.jpg)|
-||*Copyright: The Externsteine rock formation in the Teutoburg Forest, North Rhine-Westphalia, Germany (© Michael Sroka/Getty Images)*
+|2025-11-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ColosseumRome_EN-IN3858080583_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_EN-IN3858080583_UHD.jpg)|
+||*Copyright: Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
-|2025-11-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_PT-BR2037253677_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_PT-BR2037253677_UHD.jpg)|
-||*Copyright: Formação rochosa Externsteine na Floresta de Teutoburgo, Alemanha (© Michael Sroka/Getty Images)*
+|2025-11-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DiaPantanal_PT-BR4333976346_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiaPantanal_PT-BR4333976346_UHD.jpg)|
+||*Copyright: Jacaré-do-pantanal com uma borboleta pousada em  seu focinho, Pantanal (© Angelo Gandolfi/NPL)*
 ||
 |||
-|2025-11-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.Armistice_FR-FR5922039911_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Armistice_FR-FR5922039911_UHD.jpg)|
-||*Copyright: Tombe du soldat inconnu sous l’Arc de Triomphe à Paris lors des commémorations du 11 novembre (© Ludovic Marin/Getty Images)*
+|2025-11-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ColosseumRome_FR-FR6041377541_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_FR-FR6041377541_UHD.jpg)|
+||*Copyright: Vue aérienne du Colisée, Rome, Italie (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
-|2025-11-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_UHD.jpg)|
-||*Copyright: Ansicht der Felsen gegen den Himmel während des Sonnenuntergangs, Externsteine, Teutoburger Wald, Nordrhein-Westfalen (© Michael Sroka/Getty Images)*
+|2025-11-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ColosseumRome_DE-DE9770926344_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_DE-DE9770926344_UHD.jpg)|
+||*Copyright: Luftaufnahme des Kolosseums, Rom, Italien (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
-|2025-11-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-CA9316195338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-CA9316195338_UHD.jpg)|
-||*Copyright: Quiver trees at night with the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
+|2025-11-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ColosseumRome_EN-CA9601372901_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_EN-CA9601372901_UHD.jpg)|
+||*Copyright: Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
-|2025-11-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-GB9984773372_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-GB9984773372_UHD.jpg)|
-||*Copyright: The Externsteine rock formation in the Teutoburg Forest, North Rhine-Westphalia, Germany (© Michael Sroka/Getty Images)*
+|2025-11-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ColosseumRome_EN-GB0175580100_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_EN-GB0175580100_UHD.jpg)|
+||*Copyright: Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
-|2025-11-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_IT-IT5120455636_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_IT-IT5120455636_UHD.jpg)|
-||*Copyright: Complesso megalitico Externsteine, Foresta di Teutoburgo, Germania (© Michael Sroka/Getty Images)*
+|2025-11-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ColosseumRome_IT-IT5258156974_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_IT-IT5258156974_UHD.jpg)|
+||*Copyright: Colosseo, Roma, Lazio (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
-|2025-11-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PrairieDogTown_ES-ES2126702018_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrairieDogTown_ES-ES2126702018_UHD.jpg)|
-||*Copyright: Perritos de la pradera de cola negra en Roberts Prairie Dog Town, Parque Nacional Badlands, Dakota del Sur, EE. UU. (© Greg Vaughn/Getty Images)*
+|2025-11-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ColosseumRome_ES-ES3360998875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_ES-ES3360998875_UHD.jpg)|
+||*Copyright: Vista aérea del Coliseo, Roma, Italia (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
-|2025-11-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AloeDichotoma_FR-CA7297056424_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_FR-CA7297056424_UHD.jpg)|
-||*Copyright: Arbres carquois sous la Voie lactée, Keetmanshoop, Namibie (© Wim van den Heever/naturepl.com)*
+|2025-11-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ColosseumRome_FR-CA7163136635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_FR-CA7163136635_UHD.jpg)|
+||*Copyright: Vue aérienne du Colisée, Rome, Italie (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
 
