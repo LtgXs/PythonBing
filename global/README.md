@@ -6,9 +6,9 @@
 ||*Copyright: Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
 ||
 |||
-|2025-11-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AloeDichotoma_JA-JP4764495415_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_JA-JP4764495415_UHD.jpg)|
-||*Copyright: クイバーツリーの森, ナミビア (© Wim van den Heever/naturepl.com)*
+|2025-11-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ManateeBaby_JA-JP3549645655_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeBaby_JA-JP3549645655_UHD.jpg)|
+||*Copyright: マナティー, 米国 フロリダ州 (© Gregory Sweeney/Getty Images)*
 ||
 |||
 |2025-11-13|**Region: en-IN**||
