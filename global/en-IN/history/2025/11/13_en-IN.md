@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-11-13
+## History Bing Wallpaper
+Wallpaper date: 2025-11-13
 ![](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-IN4060736869_UHD.jpg&w=1000)Download: [Quiver trees at night with the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-IN4060736869_UHD.jpg)
 
 Auto get programm by LtgX

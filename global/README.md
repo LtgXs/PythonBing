@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg)|
-||*Copyright: Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)*
+|2025-11-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg)|
+||*Copyright: Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
 ||
 |||
 |2025-11-13|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: クイバーツリーの森, ナミビア (© Wim van den Heever/naturepl.com)*
 ||
 |||
-|2025-11-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ColosseumRome_EN-IN3858080583_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_EN-IN3858080583_UHD.jpg)|
-||*Copyright: Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)*
+|2025-11-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-IN4060736869_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-IN4060736869_UHD.jpg)|
+||*Copyright: Quiver trees at night with the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
 ||
 |||
-|2025-11-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DiaPantanal_PT-BR4333976346_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiaPantanal_PT-BR4333976346_UHD.jpg)|
-||*Copyright: Jacaré-do-pantanal com uma borboleta pousada em  seu focinho, Pantanal (© Angelo Gandolfi/NPL)*
+|2025-11-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AloeDichotoma_PT-BR2329488017_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_PT-BR2329488017_UHD.jpg)|
+||*Copyright: Aloé-aljava à noite contra a Via Láctea, Keetmanshoop, Namíbia (© Wim van den Heever/naturepl.com)*
 ||
 |||
-|2025-11-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ColosseumRome_FR-FR6041377541_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_FR-FR6041377541_UHD.jpg)|
-||*Copyright: Vue aérienne du Colisée, Rome, Italie (© Nico De Pasquale Photography/Getty Images)*
+|2025-11-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ParisAnniversary_FR-FR6127144121_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisAnniversary_FR-FR6127144121_UHD.jpg)|
+||*Copyright: Mémorial éphémère en hommage aux victimes des attentats de Paris, Vieux-Port, Marseille (© Anne-Christine Poujoulat/Getty Images)*
 ||
 |||
-|2025-11-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ColosseumRome_DE-DE9770926344_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_DE-DE9770926344_UHD.jpg)|
-||*Copyright: Luftaufnahme des Kolosseums, Rom, Italien (© Nico De Pasquale Photography/Getty Images)*
+|2025-11-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AloeDichotoma_DE-DE9983425456_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_DE-DE9983425456_UHD.jpg)|
+||*Copyright: Köcherbäume bei Nacht mit der Milchstraße, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
 ||
 |||
-|2025-11-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ColosseumRome_EN-CA9601372901_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_EN-CA9601372901_UHD.jpg)|
-||*Copyright: Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)*
+|2025-11-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TntChrisMkt_EN-CA8094529209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TntChrisMkt_EN-CA8094529209_UHD.jpg)|
+||*Copyright: The 2020 Distillery Winter Village, Toronto (© Steve Russell/Toronto Star via Getty Images)*
 ||
 |||
-|2025-11-13|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ColosseumRome_EN-GB0175580100_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_EN-GB0175580100_UHD.jpg)|
-||*Copyright: Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)*
+|2025-11-14|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-GB0294703921_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-GB0294703921_UHD.jpg)|
+||*Copyright: Quiver trees at night with the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
 ||
 |||
-|2025-11-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ColosseumRome_IT-IT5258156974_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_IT-IT5258156974_UHD.jpg)|
-||*Copyright: Colosseo, Roma, Lazio (© Nico De Pasquale Photography/Getty Images)*
+|2025-11-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AloeDichotoma_IT-IT5307684987_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_IT-IT5307684987_UHD.jpg)|
+||*Copyright: Alberi faretra di notte con la Via Lattea, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
 ||
 |||
-|2025-11-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ColosseumRome_ES-ES3360998875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_ES-ES3360998875_UHD.jpg)|
-||*Copyright: Vista aérea del Coliseo, Roma, Italia (© Nico De Pasquale Photography/Getty Images)*
+|2025-11-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AloeDichotoma_ES-ES2317019212_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_ES-ES2317019212_UHD.jpg)|
+||*Copyright: Árboles Quiver por la noche con la Vía Láctea, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
 ||
 |||
-|2025-11-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ColosseumRome_FR-CA7163136635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColosseumRome_FR-CA7163136635_UHD.jpg)|
-||*Copyright: Vue aérienne du Colisée, Rome, Italie (© Nico De Pasquale Photography/Getty Images)*
+|2025-11-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_UHD.jpg)|
+||*Copyright: Village d’hiver de la Distillerie 2020, Toronto (© Steve Russell/Toronto Star via Getty Images)*
 ||
 |||
 
