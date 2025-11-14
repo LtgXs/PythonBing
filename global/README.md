@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-14|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg)|
-||*Copyright: Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
+|2025-11-15|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg)|
+||*Copyright: Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)*
 ||
 |||
 |2025-11-14|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: マナティー, 米国 フロリダ州 (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2025-11-13|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-IN4060736869_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-IN4060736869_UHD.jpg)|
-||*Copyright: Quiver trees at night with the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
+|2025-11-14|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-IN7312721048_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-IN7312721048_UHD.jpg)|
+||*Copyright: Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)*
 ||
 |||
-|2025-11-14|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AloeDichotoma_PT-BR2329488017_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_PT-BR2329488017_UHD.jpg)|
-||*Copyright: Aloé-aljava à noite contra a Via Láctea, Keetmanshoop, Namíbia (© Wim van den Heever/naturepl.com)*
+|2025-11-15|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ManateeBaby_PT-BR6922634130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeBaby_PT-BR6922634130_UHD.jpg)|
+||*Copyright: Peixe-boi-marinho e filhote, Crystal River, Flórida, EUA (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2025-11-13|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ParisAnniversary_FR-FR6127144121_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisAnniversary_FR-FR6127144121_UHD.jpg)|
-||*Copyright: Mémorial éphémère en hommage aux victimes des attentats de Paris, Vieux-Port, Marseille (© Anne-Christine Poujoulat/Getty Images)*
+|2025-11-14|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ManateeBaby_FR-FR9856124004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeBaby_FR-FR9856124004_UHD.jpg)|
+||*Copyright: Lamantin femelle et son petit, Crystal River, Floride, États-Unis (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2025-11-13|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AloeDichotoma_DE-DE9983425456_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_DE-DE9983425456_UHD.jpg)|
-||*Copyright: Köcherbäume bei Nacht mit der Milchstraße, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
+|2025-11-14|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ManateeBaby_DE-DE5900789035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeBaby_DE-DE5900789035_UHD.jpg)|
+||*Copyright: Rundschwanzseekuh mit Kalb, Crystal River, Florida, USA (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2025-11-14|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TntChrisMkt_EN-CA8094529209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TntChrisMkt_EN-CA8094529209_UHD.jpg)|
-||*Copyright: The 2020 Distillery Winter Village, Toronto (© Steve Russell/Toronto Star via Getty Images)*
+|2025-11-15|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ManateeBaby_EN-CA3337819945_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeBaby_EN-CA3337819945_UHD.jpg)|
+||*Copyright: Mother manatee and calf, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2025-11-14|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-GB0294703921_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-GB0294703921_UHD.jpg)|
-||*Copyright: Quiver trees at night with the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
+|2025-11-15|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ManateeBaby_EN-GB2783659253_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeBaby_EN-GB2783659253_UHD.jpg)|
+||*Copyright: Mother manatee and calf, Crystal River, Florida, United States    (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2025-11-13|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AloeDichotoma_IT-IT5307684987_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_IT-IT5307684987_UHD.jpg)|
-||*Copyright: Alberi faretra di notte con la Via Lattea, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
+|2025-11-14|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PerugiaStreet_IT-IT9685190845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerugiaStreet_IT-IT9685190845_UHD.jpg)|
+||*Copyright: Percorso dell'acquedotto medievale, Perugia, Umbria (© Sean Pavone/iStock/Getty Images Plus)*
 ||
 |||
-|2025-11-13|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AloeDichotoma_ES-ES2317019212_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AloeDichotoma_ES-ES2317019212_UHD.jpg)|
-||*Copyright: Árboles Quiver por la noche con la Vía Láctea, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)*
+|2025-11-14|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ManateeBaby_ES-ES4491348488_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeBaby_ES-ES4491348488_UHD.jpg)|
+||*Copyright: Madre manatí y cría, Crystal River, Florida, EE. UU. (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2025-11-14|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TntChrisMkt_FR-CA7518325254_UHD.jpg)|
-||*Copyright: Village d’hiver de la Distillerie 2020, Toronto (© Steve Russell/Toronto Star via Getty Images)*
+|2025-11-15|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ManateeBaby_FR-CA4816280060_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeBaby_FR-CA4816280060_UHD.jpg)|
+||*Copyright: Lamantin femelle et son petit, Crystal River, Floride, États-Unis (© Gregory Sweeney/Getty Images)*
 ||
 |||
 
