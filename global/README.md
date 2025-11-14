@@ -6,9 +6,9 @@
 ||*Copyright: Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2025-11-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ManateeBaby_JA-JP3549645655_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeBaby_JA-JP3549645655_UHD.jpg)|
-||*Copyright: マナティー, 米国 フロリダ州 (© Gregory Sweeney/Getty Images)*
+|2025-11-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IrohazakaAutumn_JA-JP9540132956_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrohazakaAutumn_JA-JP9540132956_UHD.jpg)|
+||*Copyright: いろは坂, 栃木県 日光市 (© oneinchpunch/Shutterstock)*
 ||
 |||
 |2025-11-14|**Region: en-IN**||
