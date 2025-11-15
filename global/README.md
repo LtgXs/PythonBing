@@ -6,9 +6,9 @@
 ||*Copyright: Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)*
 ||
 |||
-|2025-11-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IrohazakaAutumn_JA-JP9540132956_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IrohazakaAutumn_JA-JP9540132956_UHD.jpg)|
-||*Copyright: いろは坂, 栃木県 日光市 (© oneinchpunch/Shutterstock)*
+|2025-11-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LyonTraboules_JA-JP9477523078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyonTraboules_JA-JP9477523078_UHD.jpg)|
+||*Copyright: リヨンにあるトラブール, フランス (© TPopova/Getty Images)*
 ||
 |||
 |2025-11-15|**Region: en-IN**||
