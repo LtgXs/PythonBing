@@ -6,9 +6,9 @@
 ||*Copyright: A traboule in Lyon, France (© TPopova/Getty Images)*
 ||
 |||
-|2025-11-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LyonTraboules_JA-JP9477523078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyonTraboules_JA-JP9477523078_UHD.jpg)|
-||*Copyright: リヨンにあるトラブール, フランス (© TPopova/Getty Images)*
+|2025-11-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ShenandoahTrail_JA-JP4220647370_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahTrail_JA-JP4220647370_UHD.jpg)|
+||*Copyright: シェナンドー国立公園, 米国 バージニア州 (© Michael Ver Sprill/Getty Images)*
 ||
 |||
 |2025-11-16|**Region: en-IN**||
