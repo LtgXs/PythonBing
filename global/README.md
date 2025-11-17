@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-17|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg)|
-||*Copyright: A traboule in Lyon, France (© TPopova/Getty Images)*
+|2025-11-18|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg)|
+||*Copyright: Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)*
 ||
 |||
 |2025-11-17|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: シェナンドー国立公園, 米国 バージニア州 (© Michael Ver Sprill/Getty Images)*
 ||
 |||
-|2025-11-16|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LyonTraboules_EN-IN1252380209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyonTraboules_EN-IN1252380209_UHD.jpg)|
-||*Copyright: A traboule in Lyon, France (© TPopova/Getty Images)*
+|2025-11-17|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-IN3789880572_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-IN3789880572_UHD.jpg)|
+||*Copyright: Autumn colours in Shenandoah National Park, Virginia, United States (© Michael Ver Sprill/Getty Images)*
 ||
 |||
-|2025-11-17|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LyonTraboules_PT-BR0512740637_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyonTraboules_PT-BR0512740637_UHD.jpg)|
-||*Copyright: Passagens secretas em Lyon, França (© TPopova/Getty Images)*
+|2025-11-18|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ShenandoahTrail_PT-BR5028507460_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahTrail_PT-BR5028507460_UHD.jpg)|
+||*Copyright: Cores do outono no Parque Nacional de Shenandoah, Virgínia, EUA (© Michael Ver Sprill/Getty Images)*
 ||
 |||
-|2025-11-16|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LyonTraboules_FR-FR4995518705_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyonTraboules_FR-FR4995518705_UHD.jpg)|
-||*Copyright: Traboules du Vieux Lyon, Auvergne-Rhône-Alpes (© TPopova/Getty Images)*
+|2025-11-17|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AlpesAutumn_FR-FR0334744208_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpesAutumn_FR-FR0334744208_UHD.jpg)|
+||*Copyright: Forêt de mélèzes dorés, Alpes (© Jose Manuel Perez/Getty Images)*
 ||
 |||
-|2025-11-16|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LyonTraboules_DE-DE6267505829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyonTraboules_DE-DE6267505829_UHD.jpg)|
-||*Copyright: Eine Traboule in Lyon, Frankreich (© TPopova/Getty Images)*
+|2025-11-17|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GermanyOwl_DE-DE5134865756_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GermanyOwl_DE-DE5134865756_UHD.jpg)|
+||*Copyright: Europäischer Uhu auf einem herbstlichen Baumstamm, Deutschland (© Ondrej Prosicky/Shutterstock)*
 ||
 |||
-|2025-11-17|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LyonTraboules_EN-CA6119878322_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyonTraboules_EN-CA6119878322_UHD.jpg)|
-||*Copyright: A traboule in Lyon, France (© TPopova/Getty Images)*
+|2025-11-18|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_UHD.jpg)|
+||*Copyright: Red fox, Canada (© RT-Images/Getty Images)*
 ||
 |||
-|2025-11-17|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LyonTraboules_EN-GB3858376593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyonTraboules_EN-GB3858376593_UHD.jpg)|
-||*Copyright: A traboule in Lyon, France (© TPopova/Getty Images)*
+|2025-11-18|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-GB3177635991_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-GB3177635991_UHD.jpg)|
+||*Copyright: Autumn colours in Shenandoah National Park, Virginia, United States (© Michael Ver Sprill/Getty Images)*
 ||
 |||
-|2025-11-16|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LyonTraboules_IT-IT5997023386_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyonTraboules_IT-IT5997023386_UHD.jpg)|
-||*Copyright: Un traboule a Lione, Francia (© TPopova/Getty Images)*
+|2025-11-17|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_UHD.jpg)|
+||*Copyright: Parco Nazionale Shenandoah, Virginia, USA (© Michael Ver Sprill/Getty Images)*
 ||
 |||
-|2025-11-16|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FlamencoDay_ES-ES7190621326_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamencoDay_ES-ES7190621326_UHD.jpg)|
-||*Copyright: Bailaoras de Flamenco, España (© pepitoko/Getty Images)*
+|2025-11-17|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ShenandoahTrail_ES-ES5113798571_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahTrail_ES-ES5113798571_UHD.jpg)|
+||*Copyright: Colores otoñales en el Parque Nacional Shenandoah, Virginia, EE. UU. (© Michael Ver Sprill/Getty Images)*
 ||
 |||
-|2025-11-17|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LyonTraboules_FR-CA2893861678_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LyonTraboules_FR-CA2893861678_UHD.jpg)|
-||*Copyright: Traboule du Vieux Lyon, France (© TPopova/Getty Images)*
+|2025-11-18|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.RedFoxVulpes_FR-CA6139062460_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedFoxVulpes_FR-CA6139062460_UHD.jpg)|
+||*Copyright: Renard roux, Canada (© RT-Images/Getty Images)*
 ||
 |||
 
