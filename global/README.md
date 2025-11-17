@@ -6,9 +6,9 @@
 ||*Copyright: Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)*
 ||
 |||
-|2025-11-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ShenandoahTrail_JA-JP4220647370_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahTrail_JA-JP4220647370_UHD.jpg)|
-||*Copyright: シェナンドー国立公園, 米国 バージニア州 (© Michael Ver Sprill/Getty Images)*
+|2025-11-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AutumnMerganser_JA-JP4454078554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnMerganser_JA-JP4454078554_UHD.jpg)|
+||*Copyright: オスのオウギアイサ, 米国 オレゴン州 (© Eric Vogt/TANDEM Stills + Motion)*
 ||
 |||
 |2025-11-17|**Region: en-IN**||
