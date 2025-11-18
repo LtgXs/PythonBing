@@ -6,9 +6,9 @@
 ||*Copyright: Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)*
 ||
 |||
-|2025-11-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AutumnMerganser_JA-JP4454078554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnMerganser_JA-JP4454078554_UHD.jpg)|
-||*Copyright: オスのオウギアイサ, 米国 オレゴン州 (© Eric Vogt/TANDEM Stills + Motion)*
+|2025-11-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BudapestParliament_JA-JP4965401234_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BudapestParliament_JA-JP4965401234_UHD.jpg)|
+||*Copyright: 国会議事堂, ハンガリー (© Alexander Spatari/Getty Images)*
 ||
 |||
 |2025-11-18|**Region: en-IN**||
