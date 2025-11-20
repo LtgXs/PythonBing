@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:32:17] Picture infomations saved to  global/fr-CA/README.md
 [09:32:17] Picture infomations saved to global/fr-CA/history/2025/11/21_fr-CA.md
 Program exit at 09:32:17
+
+Program started at 16:18:01
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmg1sw1
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:18:01] Start geting CN Bing Wallpaper
+[16:18:01] Successful get url: https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg
+[16:18:01] Image saved to img/background.jpg
+[16:18:01] Info saved to README.md
+[16:18:01] Image saved to history/2025/11/21.md
+[16:18:01] Start geting global Bing Wallpaper, region=en-US, local time is 2025-11-20 11:18:01.691490-05:00
+[16:18:01] Successful get url: https://www.bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg
+[16:18:01] Picture infomations saved to  global/en-US/README.md
+[16:18:01] Picture infomations saved to global/en-US/history/2025/11/21_en-US.md
+[16:18:01] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-11-21 01:18:01.832314+09:00
+[16:18:01] Successful get url: https://www.bing.com/th?id=OHR.SealWaving_JA-JP5482157523_UHD.jpg
+[16:18:02] Picture infomations saved to  global/ja-JP/README.md
+[16:18:02] Picture infomations saved to global/ja-JP/history/2025/11/21_ja-JP.md
+[16:18:02] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-11-20 21:48:02.058196+05:30
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.ManateeBaby_EN-IN4061513303_UHD.jpg
+[16:18:02] Picture infomations saved to  global/en-IN/README.md
+[16:18:02] Picture infomations saved to global/en-IN/history/2025/11/20_en-IN.md
+[16:18:02] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-11-20 13:18:02.201854-03:00
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.SaypeGeneva_PT-BR1234031890_UHD.jpg
+[16:18:02] Picture infomations saved to  global/pt-BR/README.md
+[16:18:02] Picture infomations saved to global/pt-BR/history/2025/11/21_pt-BR.md
+[16:18:02] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-11-20 17:18:02.375123+01:00
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.SaypeGeneva_FR-FR0826071049_UHD.jpg
+[16:18:02] Picture infomations saved to  global/fr-FR/README.md
+[16:18:02] Picture infomations saved to global/fr-FR/history/2025/11/20_fr-FR.md
+[16:18:02] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-11-20 17:18:02.667388+01:00
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.SaypeGeneva_DE-DE4230006358_UHD.jpg
+[16:18:02] Picture infomations saved to  global/de-DE/README.md
+[16:18:02] Picture infomations saved to global/de-DE/history/2025/11/20_de-DE.md
+[16:18:02] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-11-20 11:18:02.800803-05:00
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.SaypeGeneva_EN-CA4761579611_UHD.jpg
+[16:18:02] Picture infomations saved to  global/en-CA/README.md
+[16:18:02] Picture infomations saved to global/en-CA/history/2025/11/21_en-CA.md
+[16:18:02] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-11-20 16:18:02.924996+00:00
+[16:18:02] Successful get url: https://www.bing.com/th?id=OHR.SaypeGeneva_EN-GB3688069566_UHD.jpg
+[16:18:03] Picture infomations saved to  global/en-GB/README.md
+[16:18:03] Picture infomations saved to global/en-GB/history/2025/11/21_en-GB.md
+[16:18:03] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-11-20 17:18:03.173997+01:00
+[16:18:03] Successful get url: https://www.bing.com/th?id=OHR.SaypeGeneva_IT-IT0227683943_UHD.jpg
+[16:18:03] Picture infomations saved to  global/it-IT/README.md
+[16:18:03] Picture infomations saved to global/it-IT/history/2025/11/20_it-IT.md
+[16:18:03] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-11-20 17:18:03.373320+01:00
+[16:18:03] Successful get url: https://www.bing.com/th?id=OHR.SaypeGeneva_ES-ES5813016129_UHD.jpg
+[16:18:03] Picture infomations saved to  global/es-ES/README.md
+[16:18:03] Picture infomations saved to global/es-ES/history/2025/11/20_es-ES.md
+[16:18:03] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-11-20 11:18:03.497533-05:00
+[16:18:03] Successful get url: https://www.bing.com/th?id=OHR.SaypeGeneva_FR-CA0264200097_UHD.jpg
+[16:18:03] Picture infomations saved to  global/fr-CA/README.md
+[16:18:03] Picture infomations saved to global/fr-CA/history/2025/11/21_fr-CA.md
+Program exit at 16:18:03

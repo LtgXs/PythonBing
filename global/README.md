@@ -6,9 +6,9 @@
 ||*Copyright: Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)*
 ||
 |||
-|2025-11-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SaypeGeneva_JA-JP5293768953_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeGeneva_JA-JP5293768953_UHD.jpg)|
-||*Copyright: Saype によるランドアート「World in progress」, スイス (© Valentin Flauraud/EPA-EFE/Shutterstock)*
+|2025-11-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SealWaving_JA-JP5482157523_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_JA-JP5482157523_UHD.jpg)|
+||*Copyright: ゼニガタアザラシ, 米国 ニューヨーク州 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
 |2025-11-20|**Region: en-IN**||
