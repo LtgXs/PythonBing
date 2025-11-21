@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg)|
-||*Copyright: Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)*
+|2025-11-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg)|
+||*Copyright: Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
 |2025-11-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ゼニガタアザラシ, 米国 ニューヨーク州 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
-|2025-11-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ManateeBaby_EN-IN4061513303_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeBaby_EN-IN4061513303_UHD.jpg)|
-||*Copyright: Mother manatee and calf, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)*
+|2025-11-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928_UHD.jpg)|
+||*Copyright: Small island with a building near Ezhikkara, Kerala (© gulfu photography/Moment/Getty Images)*
 ||
 |||
-|2025-11-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SaypeGeneva_PT-BR1234031890_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeGeneva_PT-BR1234031890_UHD.jpg)|
-||*Copyright: Arte de Saype na sede da ONU, Genebra, Suíça (© Valentin Flauraud/EPA-EFE/Shutterstock)*
+|2025-11-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SealWaving_PT-BR1657752159_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_PT-BR1657752159_UHD.jpg)|
+||*Copyright: Focas-comuns no Parque Estadual Robert Moses, Long Island, Nova York, EUA (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
-|2025-11-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SaypeGeneva_FR-FR0826071049_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeGeneva_FR-FR0826071049_UHD.jpg)|
-||*Copyright: L’artiste Saype avec son œuvre de land art au siège de l’ONU, Genève, Suisse (© Valentin Flauraud/EPA-EFE/Shutterstock)*
+|2025-11-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SealWaving_FR-FR2764783394_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_FR-FR2764783394_UHD.jpg)|
+||*Copyright: Phoques gris, parc d'État Robert Moses, Long Island, New York, États-Unis (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
-|2025-11-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SaypeGeneva_DE-DE4230006358_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeGeneva_DE-DE4230006358_UHD.jpg)|
-||*Copyright: Land-Art-Gemälde von Saype, Hauptsitz der Vereinten Nationen in Genf, Schweiz (© Valentin Flauraud/EPA-EFE/Shutterstock)*
+|2025-11-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SealWaving_DE-DE3822094080_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_DE-DE3822094080_UHD.jpg)|
+||*Copyright: Seehunde im Robert Moses State Park, Long Island, New York, USA (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
-|2025-11-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-CA4761579611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-CA4761579611_UHD.jpg)|
-||*Copyright: Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)*
+|2025-11-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SealWaving_EN-CA4973524052_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_EN-CA4973524052_UHD.jpg)|
+||*Copyright: Harbour seals at Robert Moses State Park, Long Island, New York, United States (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
-|2025-11-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-GB3688069566_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-GB3688069566_UHD.jpg)|
-||*Copyright: Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)*
+|2025-11-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SealWaving_EN-GB3833403260_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_EN-GB3833403260_UHD.jpg)|
+||*Copyright: Harbour seals at Robert Moses State Park, Long Island, New York, United States (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
-|2025-11-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SaypeGeneva_IT-IT0227683943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeGeneva_IT-IT0227683943_UHD.jpg)|
-||*Copyright: Dipinto di Saype, sede delle Nazioni Unite, Ginevra, Svizzera (© Valentin Flauraud/EPA-EFE/Shutterstock)*
+|2025-11-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.FestaAlbero_IT-IT0339248009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FestaAlbero_IT-IT0339248009_UHD.jpg)|
+||*Copyright: Pino Loricato Fossilizzato del Pollino sulla Serra di Crispo, Calabria e Basilicata (© Renzi Tommaso tommyre00@hotmail.it/Moment)*
 ||
 |||
-|2025-11-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SaypeGeneva_ES-ES5813016129_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeGeneva_ES-ES5813016129_UHD.jpg)|
-||*Copyright: El artista Saype posa con su obra "World in Progress" en la sede de la ONU, Ginebra, Suiza (© Valentin Flauraud/EPA-EFE/Shutterstock)*
+|2025-11-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SealWaving_ES-ES5901823197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_ES-ES5901823197_UHD.jpg)|
+||*Copyright: Focas comunes en el Parque Estatal Robert Moses, Long Island, Nueva York, EE. UU. (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
-|2025-11-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SaypeGeneva_FR-CA0264200097_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaypeGeneva_FR-CA0264200097_UHD.jpg)|
-||*Copyright: L’artiste Saype avec son œuvre de land art au siège de l’ONU, Genève, Suisse (© Valentin Flauraud/EPA-EFE/Shutterstock)*
+|2025-11-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SealWaving_FR-CA1167721812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_FR-CA1167721812_UHD.jpg)|
+||*Copyright: Phoques gris, parc d'État Robert Moses, Long Island, New York, États-Unis (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
 

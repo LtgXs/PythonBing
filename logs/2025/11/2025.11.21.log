@@ -1,0 +1,60 @@
+
+Program started at 09:31:39
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmg1sw1
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:31:39] Start geting CN Bing Wallpaper
+[09:31:39] Successful get url: https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg
+[09:31:39] Image saved to img/background.jpg
+[09:31:39] Info saved to README.md
+[09:31:39] Image saved to history/2025/11/21.md
+[09:31:39] Start geting global Bing Wallpaper, region=en-US, local time is 2025-11-21 04:31:39.783539-05:00
+[09:31:39] Successful get url: https://www.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg
+[09:31:40] Picture infomations saved to  global/en-US/README.md
+[09:31:40] Picture infomations saved to global/en-US/history/2025/11/22_en-US.md
+[09:31:40] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-11-21 18:31:40.021729+09:00
+[09:31:40] Successful get url: https://www.bing.com/th?id=OHR.SealWaving_JA-JP5482157523_UHD.jpg
+[09:31:40] Picture infomations saved to  global/ja-JP/README.md
+[09:31:40] Picture infomations saved to global/ja-JP/history/2025/11/21_ja-JP.md
+[09:31:40] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-11-21 15:01:40.253974+05:30
+[09:31:40] Successful get url: https://www.bing.com/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928_UHD.jpg
+[09:31:40] Picture infomations saved to  global/en-IN/README.md
+[09:31:40] Picture infomations saved to global/en-IN/history/2025/11/21_en-IN.md
+[09:31:40] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-11-21 06:31:40.475905-03:00
+[09:31:40] Successful get url: https://www.bing.com/th?id=OHR.SealWaving_PT-BR1657752159_UHD.jpg
+[09:31:40] Picture infomations saved to  global/pt-BR/README.md
+[09:31:40] Picture infomations saved to global/pt-BR/history/2025/11/22_pt-BR.md
+[09:31:40] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-11-21 10:31:40.706453+01:00
+[09:31:40] Successful get url: https://www.bing.com/th?id=OHR.SealWaving_FR-FR2764783394_UHD.jpg
+[09:31:40] Picture infomations saved to  global/fr-FR/README.md
+[09:31:40] Picture infomations saved to global/fr-FR/history/2025/11/21_fr-FR.md
+[09:31:40] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-11-21 10:31:40.930326+01:00
+[09:31:41] Successful get url: https://www.bing.com/th?id=OHR.SealWaving_DE-DE3822094080_UHD.jpg
+[09:31:41] Picture infomations saved to  global/de-DE/README.md
+[09:31:41] Picture infomations saved to global/de-DE/history/2025/11/21_de-DE.md
+[09:31:41] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-11-21 04:31:41.153056-05:00
+[09:31:41] Successful get url: https://www.bing.com/th?id=OHR.SealWaving_EN-CA4973524052_UHD.jpg
+[09:31:41] Picture infomations saved to  global/en-CA/README.md
+[09:31:41] Picture infomations saved to global/en-CA/history/2025/11/22_en-CA.md
+[09:31:41] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-11-21 09:31:41.374146+00:00
+[09:31:41] Successful get url: https://www.bing.com/th?id=OHR.SealWaving_EN-GB3833403260_UHD.jpg
+[09:31:41] Picture infomations saved to  global/en-GB/README.md
+[09:31:41] Picture infomations saved to global/en-GB/history/2025/11/22_en-GB.md
+[09:31:41] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-11-21 10:31:41.589386+01:00
+[09:31:41] Successful get url: https://www.bing.com/th?id=OHR.FestaAlbero_IT-IT0339248009_UHD.jpg
+[09:31:41] Picture infomations saved to  global/it-IT/README.md
+[09:31:41] Picture infomations saved to global/it-IT/history/2025/11/21_it-IT.md
+[09:31:41] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-11-21 10:31:41.809681+01:00
+[09:31:41] Successful get url: https://www.bing.com/th?id=OHR.SealWaving_ES-ES5901823197_UHD.jpg
+[09:31:42] Picture infomations saved to  global/es-ES/README.md
+[09:31:42] Picture infomations saved to global/es-ES/history/2025/11/21_es-ES.md
+[09:31:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-11-21 04:31:42.024332-05:00
+[09:31:42] Successful get url: https://www.bing.com/th?id=OHR.SealWaving_FR-CA1167721812_UHD.jpg
+[09:31:42] Picture infomations saved to  global/fr-CA/README.md
+[09:31:42] Picture infomations saved to global/fr-CA/history/2025/11/22_fr-CA.md
+Program exit at 09:31:42
