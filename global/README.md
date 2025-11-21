@@ -6,9 +6,9 @@
 ||*Copyright: Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
 ||
 |||
-|2025-11-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SealWaving_JA-JP5482157523_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_JA-JP5482157523_UHD.jpg)|
-||*Copyright: ゼニガタアザラシ, 米国 ニューヨーク州 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-11-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Kenrokuen2025_JA-JP5771782879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kenrokuen2025_JA-JP5771782879_UHD.jpg)|
+||*Copyright: 兼六園, 石川県 金沢市 (© Darby Sawchuk/Alamy)*
 ||
 |||
 |2025-11-21|**Region: en-IN**||
