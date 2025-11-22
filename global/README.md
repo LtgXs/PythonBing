@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-22|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg)|
-||*Copyright: Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-11-23|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg)|
+||*Copyright: Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)*
 ||
 |||
 |2025-11-22|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 兼六園, 石川県 金沢市 (© Darby Sawchuk/Alamy)*
 ||
 |||
-|2025-11-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928_UHD.jpg)|
-||*Copyright: Small island with a building near Ezhikkara, Kerala (© gulfu photography/Moment/Getty Images)*
+|2025-11-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-IN4570955988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-IN4570955988_UHD.jpg)|
+||*Copyright: Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)*
 ||
 |||
-|2025-11-22|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SealWaving_PT-BR1657752159_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_PT-BR1657752159_UHD.jpg)|
-||*Copyright: Focas-comuns no Parque Estadual Robert Moses, Long Island, Nova York, EUA (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-11-23|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.LeshanBuddha_PT-BR1954445961_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeshanBuddha_PT-BR1954445961_UHD.jpg)|
+||*Copyright: Grande Buda de Leshan, Sujuão, China (© www.anotherdayattheoffice.org/Getty Images)*
 ||
 |||
-|2025-11-21|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SealWaving_FR-FR2764783394_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_FR-FR2764783394_UHD.jpg)|
-||*Copyright: Phoques gris, parc d'État Robert Moses, Long Island, New York, États-Unis (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-11-22|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LeshanBuddha_FR-FR2911490694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeshanBuddha_FR-FR2911490694_UHD.jpg)|
+||*Copyright: Grand Bouddha de Leshan, Sichuan, Chine (© www.anotherdayattheoffice.org/Getty Images)*
 ||
 |||
-|2025-11-21|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SealWaving_DE-DE3822094080_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_DE-DE3822094080_UHD.jpg)|
-||*Copyright: Seehunde im Robert Moses State Park, Long Island, New York, USA (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-11-22|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LeshanBuddha_DE-DE9705133589_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeshanBuddha_DE-DE9705133589_UHD.jpg)|
+||*Copyright: Großer Buddha von Leshan, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)*
 ||
 |||
-|2025-11-22|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SealWaving_EN-CA4973524052_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_EN-CA4973524052_UHD.jpg)|
-||*Copyright: Harbour seals at Robert Moses State Park, Long Island, New York, United States (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-11-23|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-CA5160256399_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-CA5160256399_UHD.jpg)|
+||*Copyright: Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)*
 ||
 |||
-|2025-11-22|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SealWaving_EN-GB3833403260_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_EN-GB3833403260_UHD.jpg)|
-||*Copyright: Harbour seals at Robert Moses State Park, Long Island, New York, United States (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-11-23|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-GB3999315510_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-GB3999315510_UHD.jpg)|
+||*Copyright: Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)*
 ||
 |||
-|2025-11-21|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FestaAlbero_IT-IT0339248009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FestaAlbero_IT-IT0339248009_UHD.jpg)|
-||*Copyright: Pino Loricato Fossilizzato del Pollino sulla Serra di Crispo, Calabria e Basilicata (© Renzi Tommaso tommyre00@hotmail.it/Moment)*
+|2025-11-22|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LeshanBuddha_IT-IT0412372089_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeshanBuddha_IT-IT0412372089_UHD.jpg)|
+||*Copyright: Buddha gigante di Leshan, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)*
 ||
 |||
-|2025-11-21|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SealWaving_ES-ES5901823197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_ES-ES5901823197_UHD.jpg)|
-||*Copyright: Focas comunes en el Parque Estatal Robert Moses, Long Island, Nueva York, EE. UU. (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-11-22|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LeshanBuddha_ES-ES8164485271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeshanBuddha_ES-ES8164485271_UHD.jpg)|
+||*Copyright: Gran Buda de Leshan, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)*
 ||
 |||
-|2025-11-22|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SealWaving_FR-CA1167721812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SealWaving_FR-CA1167721812_UHD.jpg)|
-||*Copyright: Phoques gris, parc d'État Robert Moses, Long Island, New York, États-Unis (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)*
+|2025-11-23|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.LeshanBuddha_FR-CA1397041954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeshanBuddha_FR-CA1397041954_UHD.jpg)|
+||*Copyright: Grand Bouddha de Leshan, Sichuan, Chine (© www.anotherdayattheoffice.org/Getty Images)*
 ||
 |||
 
