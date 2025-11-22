@@ -6,9 +6,9 @@
 ||*Copyright: Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)*
 ||
 |||
-|2025-11-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Kenrokuen2025_JA-JP5771782879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kenrokuen2025_JA-JP5771782879_UHD.jpg)|
-||*Copyright: 兼六園, 石川県 金沢市 (© Darby Sawchuk/Alamy)*
+|2025-11-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MadgascarAmmonite_JA-JP9626898982_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadgascarAmmonite_JA-JP9626898982_UHD.jpg)|
+||*Copyright: アンモナイトの化石, マダガスカル (© ThomasLENNE/Shutterstock)*
 ||
 |||
 |2025-11-22|**Region: en-IN**||
