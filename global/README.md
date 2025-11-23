@@ -6,9 +6,9 @@
 ||*Copyright: Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)*
 ||
 |||
-|2025-11-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MadgascarAmmonite_JA-JP9626898982_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadgascarAmmonite_JA-JP9626898982_UHD.jpg)|
-||*Copyright: アンモナイトの化石, マダガスカル (© ThomasLENNE/Shutterstock)*
+|2025-11-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GwailorFort_JA-JP6608183418_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GwailorFort_JA-JP6608183418_UHD.jpg)|
+||*Copyright: グワーリヤル城, インド マディヤ・プラデーシュ州 (© ImagesofIndia/Shutterstock)*
 ||
 |||
 |2025-11-23|**Region: en-IN**||
