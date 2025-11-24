@@ -6,9 +6,9 @@
 ||*Copyright: Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)*
 ||
 |||
-|2025-11-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GwailorFort_JA-JP6608183418_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GwailorFort_JA-JP6608183418_UHD.jpg)|
-||*Copyright: グワーリヤル城, インド マディヤ・プラデーシュ州 (© ImagesofIndia/Shutterstock)*
+|2025-11-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TreviFountain_JA-JP7108167891_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TreviFountain_JA-JP7108167891_UHD.jpg)|
+||*Copyright: トレヴィの泉, イタリア (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
 |2025-11-24|**Region: en-IN**||

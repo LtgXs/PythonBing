@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:36:52] Picture infomations saved to  global/fr-CA/README.md
 [09:36:52] Picture infomations saved to global/fr-CA/history/2025/11/25_fr-CA.md
 Program exit at 09:36:52
+
+Program started at 16:15:43
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmg1sw1
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:15:43] Start geting CN Bing Wallpaper
+[16:15:44] Successful get url: https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg
+[16:15:44] Image saved to img/background.jpg
+[16:15:44] Info saved to README.md
+[16:15:44] Image saved to history/2025/11/25.md
+[16:15:44] Start geting global Bing Wallpaper, region=en-US, local time is 2025-11-24 11:15:44.369495-05:00
+[16:15:44] Successful get url: https://www.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg
+[16:15:44] Picture infomations saved to  global/en-US/README.md
+[16:15:44] Picture infomations saved to global/en-US/history/2025/11/25_en-US.md
+[16:15:44] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-11-25 01:15:44.631539+09:00
+[16:15:44] Successful get url: https://www.bing.com/th?id=OHR.TreviFountain_JA-JP7108167891_UHD.jpg
+[16:15:44] Picture infomations saved to  global/ja-JP/README.md
+[16:15:44] Picture infomations saved to global/ja-JP/history/2025/11/25_ja-JP.md
+[16:15:44] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-11-24 21:45:44.883243+05:30
+[16:15:44] Successful get url: https://www.bing.com/th?id=OHR.GwailorFort_EN-IN5085312905_UHD.jpg
+[16:15:45] Picture infomations saved to  global/en-IN/README.md
+[16:15:45] Picture infomations saved to global/en-IN/history/2025/11/24_en-IN.md
+[16:15:45] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-11-24 13:15:45.179505-03:00
+[16:15:45] Successful get url: https://www.bing.com/th?id=OHR.GwailorFort_PT-BR2755555056_UHD.jpg
+[16:15:45] Picture infomations saved to  global/pt-BR/README.md
+[16:15:45] Picture infomations saved to global/pt-BR/history/2025/11/25_pt-BR.md
+[16:15:45] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-11-24 17:15:45.457103+01:00
+[16:15:45] Successful get url: https://www.bing.com/th?id=OHR.GwailorFort_FR-FR3152904130_UHD.jpg
+[16:15:45] Picture infomations saved to  global/fr-FR/README.md
+[16:15:45] Picture infomations saved to global/fr-FR/history/2025/11/24_fr-FR.md
+[16:15:45] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-11-24 17:15:45.708237+01:00
+[16:15:45] Successful get url: https://www.bing.com/th?id=OHR.GwailorFort_DE-DE8713840866_UHD.jpg
+[16:15:46] Picture infomations saved to  global/de-DE/README.md
+[16:15:46] Picture infomations saved to global/de-DE/history/2025/11/24_de-DE.md
+[16:15:46] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-11-24 11:15:46.422737-05:00
+[16:15:46] Successful get url: https://www.bing.com/th?id=OHR.GwailorFort_EN-CA5496022053_UHD.jpg
+[16:15:46] Picture infomations saved to  global/en-CA/README.md
+[16:15:46] Picture infomations saved to global/en-CA/history/2025/11/25_en-CA.md
+[16:15:46] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-11-24 16:15:46.684156+00:00
+[16:15:46] Successful get url: https://www.bing.com/th?id=OHR.GwailorFort_EN-GB4326585718_UHD.jpg
+[16:15:46] Picture infomations saved to  global/en-GB/README.md
+[16:15:46] Picture infomations saved to global/en-GB/history/2025/11/25_en-GB.md
+[16:15:46] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-11-24 17:15:46.920558+01:00
+[16:15:47] Successful get url: https://www.bing.com/th?id=OHR.GwailorFort_IT-IT0586993308_UHD.jpg
+[16:15:47] Picture infomations saved to  global/it-IT/README.md
+[16:15:47] Picture infomations saved to global/it-IT/history/2025/11/24_it-IT.md
+[16:15:47] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-11-24 17:15:47.156477+01:00
+[16:15:47] Successful get url: https://www.bing.com/th?id=OHR.GwailorFort_ES-ES8433830967_UHD.jpg
+[16:15:47] Picture infomations saved to  global/es-ES/README.md
+[16:15:47] Picture infomations saved to global/es-ES/history/2025/11/24_es-ES.md
+[16:15:47] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-11-24 11:15:47.432928-05:00
+[16:15:47] Successful get url: https://www.bing.com/th?id=OHR.GwailorFort_FR-CA1771383386_UHD.jpg
+[16:15:47] Picture infomations saved to  global/fr-CA/README.md
+[16:15:47] Picture infomations saved to global/fr-CA/history/2025/11/25_fr-CA.md
+Program exit at 16:15:47
