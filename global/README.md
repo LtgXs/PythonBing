@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg)|
-||*Copyright: Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)*
+|2025-11-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg)|
+||*Copyright: Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)*
 ||
 |||
 |2025-11-24|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: グワーリヤル城, インド マディヤ・プラデーシュ州 (© ImagesofIndia/Shutterstock)*
 ||
 |||
-|2025-11-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_UHD.jpg)|
-||*Copyright: Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)*
+|2025-11-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GwailorFort_EN-IN5085312905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GwailorFort_EN-IN5085312905_UHD.jpg)|
+||*Copyright: Gwalior Fort, Madhya Pradesh (© ImagesofIndia/Shutterstock)*
 ||
 |||
-|2025-11-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MadgascarAmmonite_PT-BR2501719258_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadgascarAmmonite_PT-BR2501719258_UHD.jpg)|
-||*Copyright: Fóssil de amonite, Madagascar (© ThomasLENNE/Shutterstock)*
+|2025-11-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GwailorFort_PT-BR2755555056_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GwailorFort_PT-BR2755555056_UHD.jpg)|
+||*Copyright: Forte de Gwalior, Madhya Pradesh, Índia (© ImagesofIndia/Shutterstock)*
 ||
 |||
-|2025-11-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-FR3013777807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-FR3013777807_UHD.jpg)|
-||*Copyright: Fossile d’ammonite de Madagascar (© ThomasLENNE/Shutterstock)*
+|2025-11-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GwailorFort_FR-FR3152904130_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GwailorFort_FR-FR3152904130_UHD.jpg)|
+||*Copyright: Fort de Gwalior, Madhya Pradesh, Inde (© ImagesofIndia/Shutterstock)*
 ||
 |||
-|2025-11-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MadgascarAmmonite_DE-DE9513617798_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadgascarAmmonite_DE-DE9513617798_UHD.jpg)|
-||*Copyright: Ammonitenfossil aus Madagaskar (© ThomasLENNE/Shutterstock)*
+|2025-11-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GwailorFort_DE-DE8713840866_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GwailorFort_DE-DE8713840866_UHD.jpg)|
+||*Copyright: Gwalior-Fort, Madhya Pradesh, Indien (© ImagesofIndia/Shutterstock)*
 ||
 |||
-|2025-11-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-CA5347392572_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-CA5347392572_UHD.jpg)|
-||*Copyright: Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)*
+|2025-11-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GwailorFort_EN-CA5496022053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GwailorFort_EN-CA5496022053_UHD.jpg)|
+||*Copyright: Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)*
 ||
 |||
-|2025-11-24|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-GB4141687555_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-GB4141687555_UHD.jpg)|
-||*Copyright: Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)*
+|2025-11-25|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GwailorFort_EN-GB4326585718_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GwailorFort_EN-GB4326585718_UHD.jpg)|
+||*Copyright: Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)*
 ||
 |||
-|2025-11-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MadgascarAmmonite_IT-IT0517415518_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadgascarAmmonite_IT-IT0517415518_UHD.jpg)|
-||*Copyright: Fossile di ammonite del Madagascar (© ThomasLENNE/Shutterstock)*
+|2025-11-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GwailorFort_IT-IT0586993308_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GwailorFort_IT-IT0586993308_UHD.jpg)|
+||*Copyright: Forte di Gwalior, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)*
 ||
 |||
-|2025-11-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MadgascarAmmonite_ES-ES6952842200_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadgascarAmmonite_ES-ES6952842200_UHD.jpg)|
-||*Copyright: Fósil de amonita de Madagascar (© ThomasLENNE/Shutterstock)*
+|2025-11-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GwailorFort_ES-ES8433830967_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GwailorFort_ES-ES8433830967_UHD.jpg)|
+||*Copyright: Fortaleza de Gwalior, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)*
 ||
 |||
-|2025-11-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-CA1488835472_UHD.jpg)|
-||*Copyright: Fossile d’ammonite de Madagascar (© ThomasLENNE/Shutterstock)*
+|2025-11-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GwailorFort_FR-CA1771383386_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GwailorFort_FR-CA1771383386_UHD.jpg)|
+||*Copyright: Fort de Gwalior, Madhya Pradesh, Inde (© ImagesofIndia/Shutterstock)*
 ||
 |||
 
