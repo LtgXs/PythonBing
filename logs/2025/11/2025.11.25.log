@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:35:05] Picture infomations saved to  global/fr-CA/README.md
 [09:35:05] Picture infomations saved to global/fr-CA/history/2025/11/26_fr-CA.md
 Program exit at 09:35:05
+
+Program started at 16:19:05
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmg1sw1
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:19:05] Start geting CN Bing Wallpaper
+[16:19:05] Successful get url: https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg
+[16:19:05] Image saved to img/background.jpg
+[16:19:05] Info saved to README.md
+[16:19:05] Image saved to history/2025/11/26.md
+[16:19:05] Start geting global Bing Wallpaper, region=en-US, local time is 2025-11-25 11:19:05.430936-05:00
+[16:19:05] Successful get url: https://www.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg
+[16:19:05] Picture infomations saved to  global/en-US/README.md
+[16:19:05] Picture infomations saved to global/en-US/history/2025/11/26_en-US.md
+[16:19:05] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-11-26 01:19:05.598260+09:00
+[16:19:05] Successful get url: https://www.bing.com/th?id=OHR.TamagawaHotspring2025_JA-JP7774958074_UHD.jpg
+[16:19:05] Picture infomations saved to  global/ja-JP/README.md
+[16:19:05] Picture infomations saved to global/ja-JP/history/2025/11/26_ja-JP.md
+[16:19:05] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-11-25 21:49:05.728332+05:30
+[16:19:05] Successful get url: https://www.bing.com/th?id=OHR.TreviFountain_EN-IN5220218283_UHD.jpg
+[16:19:05] Picture infomations saved to  global/en-IN/README.md
+[16:19:05] Picture infomations saved to global/en-IN/history/2025/11/25_en-IN.md
+[16:19:05] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-11-25 13:19:05.844472-03:00
+[16:19:05] Successful get url: https://www.bing.com/th?id=OHR.TreviFountain_PT-BR3096421017_UHD.jpg
+[16:19:05] Picture infomations saved to  global/pt-BR/README.md
+[16:19:05] Picture infomations saved to global/pt-BR/history/2025/11/26_pt-BR.md
+[16:19:05] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-11-25 17:19:05.971066+01:00
+[16:19:06] Successful get url: https://www.bing.com/th?id=OHR.TreviFountain_FR-FR3611871379_UHD.jpg
+[16:19:06] Picture infomations saved to  global/fr-FR/README.md
+[16:19:06] Picture infomations saved to global/fr-FR/history/2025/11/25_fr-FR.md
+[16:19:06] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-11-25 17:19:06.096041+01:00
+[16:19:06] Successful get url: https://www.bing.com/th?id=OHR.ErfurtChristmas_DE-DE4066993799_UHD.jpg
+[16:19:06] Picture infomations saved to  global/de-DE/README.md
+[16:19:06] Picture infomations saved to global/de-DE/history/2025/11/25_de-DE.md
+[16:19:06] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-11-25 11:19:06.229260-05:00
+[16:19:06] Successful get url: https://www.bing.com/th?id=OHR.TreviFountain_EN-CA4220899649_UHD.jpg
+[16:19:06] Picture infomations saved to  global/en-CA/README.md
+[16:19:06] Picture infomations saved to global/en-CA/history/2025/11/26_en-CA.md
+[16:19:06] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-11-25 16:19:06.421313+00:00
+[16:19:06] Successful get url: https://www.bing.com/th?id=OHR.TreviFountain_EN-GB4495201299_UHD.jpg
+[16:19:06] Picture infomations saved to  global/en-GB/README.md
+[16:19:06] Picture infomations saved to global/en-GB/history/2025/11/26_en-GB.md
+[16:19:06] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-11-25 17:19:06.630849+01:00
+[16:19:06] Successful get url: https://www.bing.com/th?id=OHR.TreviFountain_IT-IT4333845146_UHD.jpg
+[16:19:06] Picture infomations saved to  global/it-IT/README.md
+[16:19:06] Picture infomations saved to global/it-IT/history/2025/11/25_it-IT.md
+[16:19:06] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-11-25 17:19:06.932358+01:00
+[16:19:06] Successful get url: https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_UHD.jpg
+[16:19:07] Picture infomations saved to  global/es-ES/README.md
+[16:19:07] Picture infomations saved to global/es-ES/history/2025/11/25_es-ES.md
+[16:19:07] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-11-25 11:19:07.045816-05:00
+[16:19:07] Successful get url: https://www.bing.com/th?id=OHR.TreviFountain_FR-CA1921739186_UHD.jpg
+[16:19:07] Picture infomations saved to  global/fr-CA/README.md
+[16:19:07] Picture infomations saved to global/fr-CA/history/2025/11/26_fr-CA.md
+Program exit at 16:19:07

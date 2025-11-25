@@ -6,9 +6,9 @@
 ||*Copyright: The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)*
 ||
 |||
-|2025-11-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TreviFountain_JA-JP7108167891_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TreviFountain_JA-JP7108167891_UHD.jpg)|
-||*Copyright: トレヴィの泉, イタリア (© Nico De Pasquale Photography/Getty Images)*
+|2025-11-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TamagawaHotspring2025_JA-JP7774958074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TamagawaHotspring2025_JA-JP7774958074_UHD.jpg)|
+||*Copyright: 玉川温泉, 秋田県 仙北市 (© jiraphoto/Shutterstock)*
 ||
 |||
 |2025-11-25|**Region: en-IN**||
