@@ -6,9 +6,9 @@
 ||*Copyright: Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)*
 ||
 |||
-|2025-11-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TamagawaHotspring2025_JA-JP7774958074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TamagawaHotspring2025_JA-JP7774958074_UHD.jpg)|
-||*Copyright: 玉川温泉, 秋田県 仙北市 (© jiraphoto/Shutterstock)*
+|2025-11-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LeshanBuddha_JA-JP7625382649_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeshanBuddha_JA-JP7625382649_UHD.jpg)|
+||*Copyright: 楽山大仏, 中国 四川省 (© www.anotherdayattheoffice.org/Getty Images)*
 ||
 |||
 |2025-11-26|**Region: en-IN**||
