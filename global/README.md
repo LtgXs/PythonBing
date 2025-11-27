@@ -6,9 +6,9 @@
 ||*Copyright: Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)*
 ||
 |||
-|2025-11-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LeshanBuddha_JA-JP7625382649_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeshanBuddha_JA-JP7625382649_UHD.jpg)|
-||*Copyright: 楽山大仏, 中国 四川省 (© www.anotherdayattheoffice.org/Getty Images)*
+|2025-11-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_JA-JP3886406072_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_JA-JP3886406072_UHD.jpg)|
+||*Copyright: イーストボーン・ピア, イングランド (© Tolga_TEZCAN/Getty Images)*
 ||
 |||
 |2025-11-27|**Region: en-IN**||
