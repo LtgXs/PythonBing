@@ -6,9 +6,9 @@
 ||*Copyright: Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)*
 ||
 |||
-|2025-11-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_JA-JP3886406072_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_JA-JP3886406072_UHD.jpg)|
-||*Copyright: イーストボーン・ピア, イングランド (© Tolga_TEZCAN/Getty Images)*
+|2025-11-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DeerVeluwe_JA-JP4126519808_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerVeluwe_JA-JP4126519808_UHD.jpg)|
+||*Copyright: アカシカ, オランダ (© CreativeNature_nl/Getty Images)*
 ||
 |||
 |2025-11-28|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2025-11-28|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.InvernoItalia_IT-IT2625376488_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.InvernoItalia_IT-IT2625376488_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.InvernoItalia_IT-IT1654726815_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.InvernoItalia_IT-IT1654726815_UHD.jpg)|
 ||*Copyright: Val Brandet, Córteno Golgi, Brescia, Lombardia (© ClickAlps/Alamy)*
 ||
 |||

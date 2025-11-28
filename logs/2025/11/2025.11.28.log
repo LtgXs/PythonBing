@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:31:52] Picture infomations saved to  global/fr-CA/README.md
 [09:31:52] Picture infomations saved to global/fr-CA/history/2025/11/29_fr-CA.md
 Program exit at 09:31:52
+
+Program started at 16:17:14
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmg1sw1
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:17:14] Start geting CN Bing Wallpaper
+[16:17:14] Successful get url: https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg
+[16:17:14] Image saved to img/background.jpg
+[16:17:14] Info saved to README.md
+[16:17:14] Image saved to history/2025/11/29.md
+[16:17:14] Start geting global Bing Wallpaper, region=en-US, local time is 2025-11-28 11:17:14.951569-05:00
+[16:17:15] Successful get url: https://www.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg
+[16:17:15] Picture infomations saved to  global/en-US/README.md
+[16:17:15] Picture infomations saved to global/en-US/history/2025/11/29_en-US.md
+[16:17:15] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-11-29 01:17:15.407934+09:00
+[16:17:15] Successful get url: https://www.bing.com/th?id=OHR.DeerVeluwe_JA-JP4126519808_UHD.jpg
+[16:17:15] Picture infomations saved to  global/ja-JP/README.md
+[16:17:15] Picture infomations saved to global/ja-JP/history/2025/11/29_ja-JP.md
+[16:17:15] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-11-28 21:47:15.773339+05:30
+[16:17:15] Successful get url: https://www.bing.com/th?id=OHR.InvernoItalia_EN-IN9669133941_UHD.jpg
+[16:17:16] Picture infomations saved to  global/en-IN/README.md
+[16:17:16] Picture infomations saved to global/en-IN/history/2025/11/28_en-IN.md
+[16:17:16] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-11-28 13:17:16.114815-03:00
+[16:17:16] Successful get url: https://www.bing.com/th?id=OHR.PraiaFloripa_PT-BR9500409157_UHD.jpg
+[16:17:16] Picture infomations saved to  global/pt-BR/README.md
+[16:17:16] Picture infomations saved to global/pt-BR/history/2025/11/29_pt-BR.md
+[16:17:16] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-11-28 17:17:16.415333+01:00
+[16:17:16] Successful get url: https://www.bing.com/th?id=OHR.InvernoItalia_FR-FR6593189563_UHD.jpg
+[16:17:16] Picture infomations saved to  global/fr-FR/README.md
+[16:17:16] Picture infomations saved to global/fr-FR/history/2025/11/28_fr-FR.md
+[16:17:16] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-11-28 17:17:16.752291+01:00
+[16:17:16] Successful get url: https://www.bing.com/th?id=OHR.InvernoItalia_DE-DE4758348051_UHD.jpg
+[16:17:17] Picture infomations saved to  global/de-DE/README.md
+[16:17:17] Picture infomations saved to global/de-DE/history/2025/11/28_de-DE.md
+[16:17:17] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-11-28 11:17:17.059075-05:00
+[16:17:17] Successful get url: https://www.bing.com/th?id=OHR.InvernoItalia_EN-CA2895961852_UHD.jpg
+[16:17:17] Picture infomations saved to  global/en-CA/README.md
+[16:17:17] Picture infomations saved to global/en-CA/history/2025/11/29_en-CA.md
+[16:17:17] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-11-28 16:17:17.363643+00:00
+[16:17:17] Successful get url: https://www.bing.com/th?id=OHR.InvernoItalia_EN-GB2140380754_UHD.jpg
+[16:17:17] Picture infomations saved to  global/en-GB/README.md
+[16:17:17] Picture infomations saved to global/en-GB/history/2025/11/29_en-GB.md
+[16:17:17] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-11-28 17:17:17.703615+01:00
+[16:17:17] Successful get url: https://www.bing.com/th?id=OHR.InvernoItalia_IT-IT1654726815_UHD.jpg
+[16:17:17] Picture infomations saved to  global/it-IT/README.md
+[16:17:17] Picture infomations saved to global/it-IT/history/2025/11/28_it-IT.md
+[16:17:17] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-11-28 17:17:17.995039+01:00
+[16:17:18] Successful get url: https://www.bing.com/th?id=OHR.InvernoItalia_ES-ES0870485112_UHD.jpg
+[16:17:18] Picture infomations saved to  global/es-ES/README.md
+[16:17:18] Picture infomations saved to global/es-ES/history/2025/11/28_es-ES.md
+[16:17:18] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-11-28 11:17:18.280213-05:00
+[16:17:18] Successful get url: https://www.bing.com/th?id=OHR.InvernoItalia_FR-CA3854695072_UHD.jpg
+[16:17:18] Picture infomations saved to  global/fr-CA/README.md
+[16:17:18] Picture infomations saved to global/fr-CA/history/2025/11/29_fr-CA.md
+Program exit at 16:17:18
