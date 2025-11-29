@@ -6,9 +6,9 @@
 ||*Copyright: Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)*
 ||
 |||
-|2025-11-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DeerVeluwe_JA-JP4126519808_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerVeluwe_JA-JP4126519808_UHD.jpg)|
-||*Copyright: アカシカ, オランダ (© CreativeNature_nl/Getty Images)*
+|2025-11-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LeipzigMarket_JA-JP4635398784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_JA-JP4635398784_UHD.jpg)|
+||*Copyright: ライプツィヒ・クリスマスマーケット, ドイツ (© Krzysztof Baranowski/Getty Images)*
 ||
 |||
 |2025-11-29|**Region: en-IN**||
