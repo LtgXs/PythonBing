@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-11-30|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg)|
-||*Copyright: Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)*
+|2025-12-01|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg)|
+||*Copyright: Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)*
 ||
 |||
 |2025-11-30|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ライプツィヒ・クリスマスマーケット, ドイツ (© Krzysztof Baranowski/Getty Images)*
 ||
 |||
-|2025-11-29|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-IN0058666460_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-IN0058666460_UHD.jpg)|
-||*Copyright: Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)*
+|2025-11-30|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-IN0234720576_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-IN0234720576_UHD.jpg)|
+||*Copyright: Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)*
 ||
 |||
-|2025-11-30|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DeerVeluwe_PT-BR9808049674_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerVeluwe_PT-BR9808049674_UHD.jpg)|
-||*Copyright: Veado-vermelho no Parque Nacional De Hoge Veluwe, Países Baixos (© CreativeNature_nl/Getty Images)*
+|2025-12-01|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.LeipzigMarket_PT-BR0321672309_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_PT-BR0321672309_UHD.jpg)|
+||*Copyright: Mercado de Natal em Leipzig, Alemanha (© Krzysztof Baranowski/Getty Images)*
 ||
 |||
-|2025-11-29|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DeerVeluwe_FR-FR6754870424_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerVeluwe_FR-FR6754870424_UHD.jpg)|
-||*Copyright: Cerf élaphe dans le parc national De Hoge Veluwe, Pays-Bas (© CreativeNature_nl/Getty Images)*
+|2025-11-30|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LeipzigMarket_FR-FR6920337470_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_FR-FR6920337470_UHD.jpg)|
+||*Copyright: Marché de Noël à Leipzig, Allemagne (© Krzysztof Baranowski/Getty Images)*
 ||
 |||
-|2025-11-29|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.DeerVeluwe_DE-DE5044539873_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerVeluwe_DE-DE5044539873_UHD.jpg)|
-||*Copyright: Rothirsch im Nationalpark De Hoge Veluwe, Niederlande (© CreativeNature_nl/Getty Images)*
+|2025-11-30|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LeipzigMarket_DE-DE5264146684_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_DE-DE5264146684_UHD.jpg)|
+||*Copyright: Weihnachtsmarkt in Leipzig, Sachsen (© Krzysztof Baranowski/Getty Images)*
 ||
 |||
-|2025-11-30|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-CA0538816629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-CA0538816629_UHD.jpg)|
-||*Copyright: Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)*
+|2025-12-01|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-CA1551508229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-CA1551508229_UHD.jpg)|
+||*Copyright: Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)*
 ||
 |||
-|2025-11-30|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-GB4885545035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-GB4885545035_UHD.jpg)|
-||*Copyright: Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)*
+|2025-12-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.StAndrewsDay2025_EN-GB5442155816_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StAndrewsDay2025_EN-GB5442155816_UHD.jpg)|
+||*Copyright: Fireworks over Edinburgh seen from Calton Hill, Scotland (© georgeclerk/E+/Getty Images)*
 ||
 |||
-|2025-11-29|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DeerVeluwe_IT-IT1796855659_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerVeluwe_IT-IT1796855659_UHD.jpg)|
-||*Copyright: Cervo rosso, Parco Nazionale De Hoge Veluwe, Paesi Bassi (© CreativeNature_nl/Getty Images)*
+|2025-11-30|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LeipzigMarket_IT-IT2166339294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_IT-IT2166339294_UHD.jpg)|
+||*Copyright: Mercatino di Natale, Lipsia, Sassonia, Germania (© Krzysztof Baranowski/Getty Images)*
 ||
 |||
-|2025-11-29|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.DeerVeluwe_ES-ES0975453330_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerVeluwe_ES-ES0975453330_UHD.jpg)|
-||*Copyright: Ciervo rojo en el Parque Nacional De Hoge Veluwe, Países Bajos (© CreativeNature_nl/Getty Images)*
+|2025-11-30|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_UHD.jpg)|
+||*Copyright: Mercado navideño en Leipzig, Alemania (© Krzysztof Baranowski/Getty Images)*
 ||
 |||
-|2025-11-30|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DeerVeluwe_FR-CA3976157259_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerVeluwe_FR-CA3976157259_UHD.jpg)|
-||*Copyright: Cerf élaphe dans le parc national De Hoge Veluwe, Pays-Bas (© CreativeNature_nl/Getty Images)*
+|2025-12-01|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.LeipzigMarket_FR-CA4112876740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_FR-CA4112876740_UHD.jpg)|
+||*Copyright: Marché de Noël à Leipzig, Allemagne (© Krzysztof Baranowski/Getty Images)*
 ||
 |||
 

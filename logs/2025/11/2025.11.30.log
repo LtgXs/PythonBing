@@ -1,0 +1,60 @@
+
+Program started at 09:28:37
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmg1sw1
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:28:37] Start geting CN Bing Wallpaper
+[09:28:37] Successful get url: https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg
+[09:28:37] Image saved to img/background.jpg
+[09:28:37] Info saved to README.md
+[09:28:37] Image saved to history/2025/11/30.md
+[09:28:37] Start geting global Bing Wallpaper, region=en-US, local time is 2025-11-30 04:28:37.498993-05:00
+[09:28:37] Successful get url: https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg
+[09:28:37] Picture infomations saved to  global/en-US/README.md
+[09:28:37] Picture infomations saved to global/en-US/history/2025/12/01_en-US.md
+[09:28:37] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-11-30 18:28:37.625331+09:00
+[09:28:37] Successful get url: https://www.bing.com/th?id=OHR.LeipzigMarket_JA-JP4635398784_UHD.jpg
+[09:28:37] Picture infomations saved to  global/ja-JP/README.md
+[09:28:37] Picture infomations saved to global/ja-JP/history/2025/11/30_ja-JP.md
+[09:28:37] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-11-30 14:58:37.761778+05:30
+[09:28:37] Successful get url: https://www.bing.com/th?id=OHR.LeipzigMarket_EN-IN0234720576_UHD.jpg
+[09:28:37] Picture infomations saved to  global/en-IN/README.md
+[09:28:37] Picture infomations saved to global/en-IN/history/2025/11/30_en-IN.md
+[09:28:37] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-11-30 06:28:37.882339-03:00
+[09:28:37] Successful get url: https://www.bing.com/th?id=OHR.LeipzigMarket_PT-BR0321672309_UHD.jpg
+[09:28:38] Picture infomations saved to  global/pt-BR/README.md
+[09:28:38] Picture infomations saved to global/pt-BR/history/2025/12/01_pt-BR.md
+[09:28:38] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-11-30 10:28:38.006163+01:00
+[09:28:38] Successful get url: https://www.bing.com/th?id=OHR.LeipzigMarket_FR-FR6920337470_UHD.jpg
+[09:28:38] Picture infomations saved to  global/fr-FR/README.md
+[09:28:38] Picture infomations saved to global/fr-FR/history/2025/11/30_fr-FR.md
+[09:28:38] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-11-30 10:28:38.132486+01:00
+[09:28:38] Successful get url: https://www.bing.com/th?id=OHR.LeipzigMarket_DE-DE5264146684_UHD.jpg
+[09:28:38] Picture infomations saved to  global/de-DE/README.md
+[09:28:38] Picture infomations saved to global/de-DE/history/2025/11/30_de-DE.md
+[09:28:38] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-11-30 04:28:38.259145-05:00
+[09:28:38] Successful get url: https://www.bing.com/th?id=OHR.LeipzigMarket_EN-CA1551508229_UHD.jpg
+[09:28:38] Picture infomations saved to  global/en-CA/README.md
+[09:28:38] Picture infomations saved to global/en-CA/history/2025/12/01_en-CA.md
+[09:28:38] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-11-30 09:28:38.423876+00:00
+[09:28:38] Successful get url: https://www.bing.com/th?id=OHR.StAndrewsDay2025_EN-GB5442155816_UHD.jpg
+[09:28:38] Picture infomations saved to  global/en-GB/README.md
+[09:28:38] Picture infomations saved to global/en-GB/history/2025/12/01_en-GB.md
+[09:28:38] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-11-30 10:28:38.656384+01:00
+[09:28:38] Successful get url: https://www.bing.com/th?id=OHR.LeipzigMarket_IT-IT2166339294_UHD.jpg
+[09:28:38] Picture infomations saved to  global/it-IT/README.md
+[09:28:38] Picture infomations saved to global/it-IT/history/2025/11/30_it-IT.md
+[09:28:38] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-11-30 10:28:38.795576+01:00
+[09:28:38] Successful get url: https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_UHD.jpg
+[09:28:38] Picture infomations saved to  global/es-ES/README.md
+[09:28:38] Picture infomations saved to global/es-ES/history/2025/11/30_es-ES.md
+[09:28:38] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-11-30 04:28:38.976236-05:00
+[09:28:39] Successful get url: https://www.bing.com/th?id=OHR.LeipzigMarket_FR-CA4112876740_UHD.jpg
+[09:28:39] Picture infomations saved to  global/fr-CA/README.md
+[09:28:39] Picture infomations saved to global/fr-CA/history/2025/12/01_fr-CA.md
+Program exit at 09:28:39

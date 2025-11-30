@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-12-01
+## History Bing Wallpaper
+Wallpaper date: 2025-12-01
 ![](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-CA1551508229_UHD.jpg&w=1000)Download: [Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-CA1551508229_UHD.jpg)
 
 Auto get programm by LtgX
