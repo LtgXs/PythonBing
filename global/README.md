@@ -6,9 +6,9 @@
 ||*Copyright: Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)*
 ||
 |||
-|2025-11-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LeipzigMarket_JA-JP4635398784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_JA-JP4635398784_UHD.jpg)|
-||*Copyright: ライプツィヒ・クリスマスマーケット, ドイツ (© Krzysztof Baranowski/Getty Images)*
+|2025-12-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_UHD.jpg)|
+||*Copyright: 南極の氷山に刻まれた天然のアーチ, 南極大陸 (© Gabrielle/Adobe Stock)*
 ||
 |||
 |2025-11-30|**Region: en-IN**||
