@@ -6,9 +6,9 @@
 ||*Copyright: Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)*
 ||
 |||
-|2025-12-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_UHD.jpg)|
-||*Copyright: 南極の氷山に刻まれた天然のアーチ, 南極大陸 (© Gabrielle/Adobe Stock)*
+|2025-12-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WillowLake_JA-JP5149786689_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowLake_JA-JP5149786689_UHD.jpg)|
+||*Copyright: ウィロー湖とブラックバーン山, 米国 アラスカ州 (© Patrick J. Endres/Getty Images)*
 ||
 |||
 |2025-12-01|**Region: en-IN**||
