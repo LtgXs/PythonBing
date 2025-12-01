@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-12-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg)|
-||*Copyright: Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)*
+|2025-12-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg)|
+||*Copyright: Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)*
 ||
 |||
 |2025-12-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 南極の氷山に刻まれた天然のアーチ, 南極大陸 (© Gabrielle/Adobe Stock)*
 ||
 |||
-|2025-11-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-IN0234720576_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-IN0234720576_UHD.jpg)|
-||*Copyright: Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)*
+|2025-12-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AntarcticArch_EN-IN0373340419_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntarcticArch_EN-IN0373340419_UHD.jpg)|
+||*Copyright: Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)*
 ||
 |||
-|2025-12-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LeipzigMarket_PT-BR0321672309_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_PT-BR0321672309_UHD.jpg)|
-||*Copyright: Mercado de Natal em Leipzig, Alemanha (© Krzysztof Baranowski/Getty Images)*
+|2025-12-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AntarcticArch_PT-BR0722727107_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntarcticArch_PT-BR0722727107_UHD.jpg)|
+||*Copyright: Arco natural esculpido em um iceberg, Antártida (© Gabrielle/Adobe Stock)*
 ||
 |||
-|2025-11-30|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LeipzigMarket_FR-FR6920337470_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_FR-FR6920337470_UHD.jpg)|
-||*Copyright: Marché de Noël à Leipzig, Allemagne (© Krzysztof Baranowski/Getty Images)*
+|2025-12-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AntarcticArch_FR-FR7424154136_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntarcticArch_FR-FR7424154136_UHD.jpg)|
+||*Copyright: Arche naturelle sculptée dans un iceberg, Antarctique (© Gabrielle/Adobe Stock)*
 ||
 |||
-|2025-11-30|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LeipzigMarket_DE-DE5264146684_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_DE-DE5264146684_UHD.jpg)|
-||*Copyright: Weihnachtsmarkt in Leipzig, Sachsen (© Krzysztof Baranowski/Getty Images)*
+|2025-12-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AdventcalendarGermany_DE-DE4536925565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AdventcalendarGermany_DE-DE4536925565_UHD.jpg)|
+||*Copyright: Adventskalendersäckchen mit süßen Überraschungen (© wideonet/Getty Images)*
 ||
 |||
-|2025-12-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-CA1551508229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-CA1551508229_UHD.jpg)|
-||*Copyright: Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)*
+|2025-12-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AntarcticArch_EN-CA2247302167_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntarcticArch_EN-CA2247302167_UHD.jpg)|
+||*Copyright: Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)*
 ||
 |||
-|2025-12-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.StAndrewsDay2025_EN-GB5442155816_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StAndrewsDay2025_EN-GB5442155816_UHD.jpg)|
-||*Copyright: Fireworks over Edinburgh seen from Calton Hill, Scotland (© georgeclerk/E+/Getty Images)*
+|2025-12-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AntarcticArch_EN-GB5572434301_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntarcticArch_EN-GB5572434301_UHD.jpg)|
+||*Copyright: Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)*
 ||
 |||
-|2025-11-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LeipzigMarket_IT-IT2166339294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_IT-IT2166339294_UHD.jpg)|
-||*Copyright: Mercatino di Natale, Lipsia, Sassonia, Germania (© Krzysztof Baranowski/Getty Images)*
+|2025-12-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AntarcticArch_IT-IT2245369400_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntarcticArch_IT-IT2245369400_UHD.jpg)|
+||*Copyright: Arco naturale scolpito in un iceberg, Antartide (© Gabrielle/Adobe Stock)*
 ||
 |||
-|2025-11-30|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_UHD.jpg)|
-||*Copyright: Mercado navideño en Leipzig, Alemania (© Krzysztof Baranowski/Getty Images)*
+|2025-12-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AntarcticArch_ES-ES0463895614_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntarcticArch_ES-ES0463895614_UHD.jpg)|
+||*Copyright: Arco natural tallado en un iceberg, Antártida (© Gabrielle/Adobe Stock)*
 ||
 |||
-|2025-12-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LeipzigMarket_FR-CA4112876740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_FR-CA4112876740_UHD.jpg)|
-||*Copyright: Marché de Noël à Leipzig, Allemagne (© Krzysztof Baranowski/Getty Images)*
+|2025-12-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AntarcticArch_FR-CA4392510917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AntarcticArch_FR-CA4392510917_UHD.jpg)|
+||*Copyright: Arche naturelle sculptée dans un iceberg, Antarctique (© Gabrielle/Adobe Stock)*
 ||
 |||
 

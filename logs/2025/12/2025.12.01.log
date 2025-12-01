@@ -1,0 +1,60 @@
+
+Program started at 09:41:37
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmg1sw1
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:41:37] Start geting CN Bing Wallpaper
+[09:41:37] Successful get url: https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg
+[09:41:37] Image saved to img/background.jpg
+[09:41:37] Info saved to README.md
+[09:41:37] Image saved to history/2025/12/01.md
+[09:41:37] Start geting global Bing Wallpaper, region=en-US, local time is 2025-12-01 04:41:37.997947-05:00
+[09:41:38] Successful get url: https://www.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg
+[09:41:38] Picture infomations saved to  global/en-US/README.md
+[09:41:38] Picture infomations saved to global/en-US/history/2025/12/02_en-US.md
+[09:41:38] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-12-01 18:41:38.125310+09:00
+[09:41:38] Successful get url: https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_UHD.jpg
+[09:41:38] Picture infomations saved to  global/ja-JP/README.md
+[09:41:38] Picture infomations saved to global/ja-JP/history/2025/12/01_ja-JP.md
+[09:41:38] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-12-01 15:11:38.231631+05:30
+[09:41:38] Successful get url: https://www.bing.com/th?id=OHR.AntarcticArch_EN-IN0373340419_UHD.jpg
+[09:41:38] Picture infomations saved to  global/en-IN/README.md
+[09:41:38] Picture infomations saved to global/en-IN/history/2025/12/01_en-IN.md
+[09:41:38] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-12-01 06:41:38.343643-03:00
+[09:41:38] Successful get url: https://www.bing.com/th?id=OHR.AntarcticArch_PT-BR0722727107_UHD.jpg
+[09:41:38] Picture infomations saved to  global/pt-BR/README.md
+[09:41:38] Picture infomations saved to global/pt-BR/history/2025/12/02_pt-BR.md
+[09:41:38] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-12-01 10:41:38.480908+01:00
+[09:41:38] Successful get url: https://www.bing.com/th?id=OHR.AntarcticArch_FR-FR7424154136_UHD.jpg
+[09:41:38] Picture infomations saved to  global/fr-FR/README.md
+[09:41:38] Picture infomations saved to global/fr-FR/history/2025/12/01_fr-FR.md
+[09:41:38] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-12-01 10:41:38.596927+01:00
+[09:41:38] Successful get url: https://www.bing.com/th?id=OHR.AdventcalendarGermany_DE-DE4536925565_UHD.jpg
+[09:41:38] Picture infomations saved to  global/de-DE/README.md
+[09:41:38] Picture infomations saved to global/de-DE/history/2025/12/01_de-DE.md
+[09:41:38] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-12-01 04:41:38.707893-05:00
+[09:41:38] Successful get url: https://www.bing.com/th?id=OHR.AntarcticArch_EN-CA2247302167_UHD.jpg
+[09:41:38] Picture infomations saved to  global/en-CA/README.md
+[09:41:38] Picture infomations saved to global/en-CA/history/2025/12/02_en-CA.md
+[09:41:38] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-12-01 09:41:38.864745+00:00
+[09:41:38] Successful get url: https://www.bing.com/th?id=OHR.AntarcticArch_EN-GB5572434301_UHD.jpg
+[09:41:38] Picture infomations saved to  global/en-GB/README.md
+[09:41:38] Picture infomations saved to global/en-GB/history/2025/12/02_en-GB.md
+[09:41:38] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-12-01 10:41:38.978831+01:00
+[09:41:39] Successful get url: https://www.bing.com/th?id=OHR.AntarcticArch_IT-IT2245369400_UHD.jpg
+[09:41:39] Picture infomations saved to  global/it-IT/README.md
+[09:41:39] Picture infomations saved to global/it-IT/history/2025/12/01_it-IT.md
+[09:41:39] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-12-01 10:41:39.089047+01:00
+[09:41:39] Successful get url: https://www.bing.com/th?id=OHR.AntarcticArch_ES-ES0463895614_UHD.jpg
+[09:41:39] Picture infomations saved to  global/es-ES/README.md
+[09:41:39] Picture infomations saved to global/es-ES/history/2025/12/01_es-ES.md
+[09:41:39] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-12-01 04:41:39.242777-05:00
+[09:41:39] Successful get url: https://www.bing.com/th?id=OHR.AntarcticArch_FR-CA4392510917_UHD.jpg
+[09:41:39] Picture infomations saved to  global/fr-CA/README.md
+[09:41:39] Picture infomations saved to global/fr-CA/history/2025/12/02_fr-CA.md
+Program exit at 09:41:39
