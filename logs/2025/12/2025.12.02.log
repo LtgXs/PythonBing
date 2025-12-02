@@ -1,0 +1,60 @@
+
+Program started at 09:38:01
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmg1sw1
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:38:01] Start geting CN Bing Wallpaper
+[09:38:01] Successful get url: https://www.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg
+[09:38:01] Image saved to img/background.jpg
+[09:38:01] Info saved to README.md
+[09:38:01] Image saved to history/2025/12/02.md
+[09:38:01] Start geting global Bing Wallpaper, region=en-US, local time is 2025-12-02 04:38:01.850224-05:00
+[09:38:01] Successful get url: https://www.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg
+[09:38:01] Picture infomations saved to  global/en-US/README.md
+[09:38:01] Picture infomations saved to global/en-US/history/2025/12/03_en-US.md
+[09:38:01] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-12-02 18:38:01.990901+09:00
+[09:38:02] Successful get url: https://www.bing.com/th?id=OHR.WillowLake_JA-JP5149786689_UHD.jpg
+[09:38:02] Picture infomations saved to  global/ja-JP/README.md
+[09:38:02] Picture infomations saved to global/ja-JP/history/2025/12/02_ja-JP.md
+[09:38:02] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-12-02 15:08:02.130814+05:30
+[09:38:02] Successful get url: https://www.bing.com/th?id=OHR.WillowLake_EN-IN0569791558_UHD.jpg
+[09:38:02] Picture infomations saved to  global/en-IN/README.md
+[09:38:02] Picture infomations saved to global/en-IN/history/2025/12/02_en-IN.md
+[09:38:02] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-12-02 06:38:02.351313-03:00
+[09:38:02] Successful get url: https://www.bing.com/th?id=OHR.SambaDay_PT-BR0875547071_UHD.jpg
+[09:38:02] Picture infomations saved to  global/pt-BR/README.md
+[09:38:02] Picture infomations saved to global/pt-BR/history/2025/12/03_pt-BR.md
+[09:38:02] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-12-02 10:38:02.491174+01:00
+[09:38:02] Successful get url: https://www.bing.com/th?id=OHR.WillowLake_FR-FR7610126878_UHD.jpg
+[09:38:02] Picture infomations saved to  global/fr-FR/README.md
+[09:38:02] Picture infomations saved to global/fr-FR/history/2025/12/02_fr-FR.md
+[09:38:02] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-12-02 10:38:02.635747+01:00
+[09:38:02] Successful get url: https://www.bing.com/th?id=OHR.WillowLake_DE-DE5594196403_UHD.jpg
+[09:38:02] Picture infomations saved to  global/de-DE/README.md
+[09:38:02] Picture infomations saved to global/de-DE/history/2025/12/02_de-DE.md
+[09:38:02] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-12-02 04:38:02.805580-05:00
+[09:38:02] Successful get url: https://www.bing.com/th?id=OHR.WhistlerVillage_EN-CA2405537581_UHD.jpg
+[09:38:02] Picture infomations saved to  global/en-CA/README.md
+[09:38:02] Picture infomations saved to global/en-CA/history/2025/12/03_en-CA.md
+[09:38:02] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-12-02 09:38:02.923944+00:00
+[09:38:02] Successful get url: https://www.bing.com/th?id=OHR.LeipzigMarket_EN-GB5720057959_UHD.jpg
+[09:38:03] Picture infomations saved to  global/en-GB/README.md
+[09:38:03] Picture infomations saved to global/en-GB/history/2025/12/03_en-GB.md
+[09:38:03] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-12-02 10:38:03.053356+01:00
+[09:38:03] Successful get url: https://www.bing.com/th?id=OHR.WillowLake_IT-IT2902290451_UHD.jpg
+[09:38:03] Picture infomations saved to  global/it-IT/README.md
+[09:38:03] Picture infomations saved to global/it-IT/history/2025/12/02_it-IT.md
+[09:38:03] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-12-02 10:38:03.337552+01:00
+[09:38:03] Successful get url: https://www.bing.com/th?id=OHR.BosqueCranes_ES-ES1308288145_UHD.jpg
+[09:38:03] Picture infomations saved to  global/es-ES/README.md
+[09:38:03] Picture infomations saved to global/es-ES/history/2025/12/02_es-ES.md
+[09:38:03] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-12-02 04:38:03.481370-05:00
+[09:38:03] Successful get url: https://www.bing.com/th?id=OHR.WhistlerVillage_FR-CA5329145922_UHD.jpg
+[09:38:03] Picture infomations saved to  global/fr-CA/README.md
+[09:38:03] Picture infomations saved to global/fr-CA/history/2025/12/03_fr-CA.md
+Program exit at 09:38:03
