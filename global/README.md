@@ -6,9 +6,9 @@
 ||*Copyright: Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)*
 ||
 |||
-|2025-12-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ChichibuNightFestival2025_JA-JP8715169093_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChichibuNightFestival2025_JA-JP8715169093_UHD.jpg)|
-||*Copyright: 秩父夜祭の屋台, 埼玉県 秩父市 (© Joshua Hawley/Alamy)*
+|2025-12-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CheetahMound_JA-JP6984308413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_JA-JP6984308413_UHD.jpg)|
+||*Copyright: チーター, ケニア (© Andy Rouse/naturepl.com)*
 ||
 |||
 |2025-12-03|**Region: en-IN**||
