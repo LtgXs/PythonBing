@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-12-03|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg)|
-||*Copyright: Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)*
+|2025-12-04|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg)|
+||*Copyright: Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)*
 ||
 |||
 |2025-12-03|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 秩父夜祭の屋台, 埼玉県 秩父市 (© Joshua Hawley/Alamy)*
 ||
 |||
-|2025-12-02|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WillowLake_EN-IN0569791558_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowLake_EN-IN0569791558_UHD.jpg)|
-||*Copyright: Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska, United States (© Patrick J. Endres/Getty Images)*
+|2025-12-03|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BosqueCranes_EN-IN0755694469_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_EN-IN0755694469_UHD.jpg)|
+||*Copyright: Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)*
 ||
 |||
-|2025-12-03|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SambaDay_PT-BR0875547071_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SambaDay_PT-BR0875547071_UHD.jpg)|
-||*Copyright: Carnaval no Rio de Janeiro, RJ (© Richard I'Anson/Getty Images)*
+|2025-12-04|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BosqueCranes_PT-BR1405246976_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_PT-BR1405246976_UHD.jpg)|
+||*Copyright: Grous-canadenses ao nascer do sol no Bosque del Apache National Wildlife Refuge, Novo México, EUA (© Jack Dykinga/Minden Pictures)*
 ||
 |||
-|2025-12-02|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WillowLake_FR-FR7610126878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowLake_FR-FR7610126878_UHD.jpg)|
-||*Copyright: Willow Lake et le mont Blackburn, Parc national et réserve de Wrangell–Saint-Élie, Alaska, États-Unis (© Patrick J. Endres/Getty Images)*
+|2025-12-03|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BosqueCranes_FR-FR7739465096_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_FR-FR7739465096_UHD.jpg)|
+||*Copyright: Grues du Canada au lever du soleil, Réserve faunique nationale de Bosque del Apache, Nouveau-Mexique, États-Unis (© Jack Dykinga/Minden Pictures)*
 ||
 |||
-|2025-12-02|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WillowLake_DE-DE5594196403_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowLake_DE-DE5594196403_UHD.jpg)|
-||*Copyright: Willow Lake und Mount Blackburn, Wrangell-St.-Elias-Nationalpark und Schutzgebiet, Alaska, USA (© Patrick J. Endres/Getty Images)*
+|2025-12-03|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BosqueCranes_DE-DE5915883756_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_DE-DE5915883756_UHD.jpg)|
+||*Copyright: Kanadakraniche im Sonnenaufgang, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Jack Dykinga/Minden Pictures)*
 ||
 |||
-|2025-12-03|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WhistlerVillage_EN-CA2405537581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhistlerVillage_EN-CA2405537581_UHD.jpg)|
-||*Copyright: Whistler, British Columbia (© VisualCommunications/Getty Images)*
+|2025-12-04|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BosqueCranes_EN-CA2559549576_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_EN-CA2559549576_UHD.jpg)|
+||*Copyright: Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico, United States (© Jack Dykinga/Minden Pictures)*
 ||
 |||
-|2025-12-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-GB5720057959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-GB5720057959_UHD.jpg)|
-||*Copyright: Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)*
+|2025-12-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_UHD.jpg)|
+||*Copyright: Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Jack Dykinga/Minden Pictures)*
 ||
 |||
-|2025-12-02|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WillowLake_IT-IT2902290451_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WillowLake_IT-IT2902290451_UHD.jpg)|
-||*Copyright: Lago Willow e Monte Blackburn, Parco Nazionale e Riserva di Wrangell-St. Elias, Alaska, USA (© Patrick J. Endres/Getty Images)*
+|2025-12-03|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ComoChristmas_IT-IT9407440928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ComoChristmas_IT-IT9407440928_UHD.jpg)|
+||*Copyright: Domaso, Lago di Como, Lombardia (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-12-02|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BosqueCranes_ES-ES1308288145_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_ES-ES1308288145_UHD.jpg)|
-||*Copyright: Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo México, EE. UU. (© Jack Dykinga/Minden Pictures)*
+|2025-12-03|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_UHD.jpg)|
+||*Copyright: Pico Castildetierra cubierto de nieve en el Parque Natural de las Bardenas Reales, Valtierra, Navarra, España (© Martin Zalba/Getty Images)*
 ||
 |||
-|2025-12-03|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WhistlerVillage_FR-CA5329145922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhistlerVillage_FR-CA5329145922_UHD.jpg)|
-||*Copyright: Whistler, British Columbia (© VisualCommunications/Getty Images)*
+|2025-12-04|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BosqueCranes_FR-CA5518531207_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_FR-CA5518531207_UHD.jpg)|
+||*Copyright: Grues du Canada au lever du soleil, Réserve faunique nationale de Bosque del Apache, Nouveau-Mexique, États-Unis (© Jack Dykinga/Minden Pictures)*
 ||
 |||
 
