@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-12-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg)|
-||*Copyright: Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)*
+|2025-12-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg)|
+||*Copyright: Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)*
 ||
 |||
 |2025-12-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: チーター, ケニア (© Andy Rouse/naturepl.com)*
 ||
 |||
-|2025-12-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BosqueCranes_EN-IN0755694469_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_EN-IN0755694469_UHD.jpg)|
-||*Copyright: Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)*
+|2025-12-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.IndianNavyDay2025_EN-IN1202327501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndianNavyDay2025_EN-IN1202327501_UHD.jpg)|
+||*Copyright: Indian Navy sailors rehearse for Navy Day at Mumbai's Gateway of India, 1 December 2016 (© Anshuman Poyrekar/Hindustan Times/Getty Images)*
 ||
 |||
-|2025-12-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BosqueCranes_PT-BR1405246976_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_PT-BR1405246976_UHD.jpg)|
-||*Copyright: Grous-canadenses ao nascer do sol no Bosque del Apache National Wildlife Refuge, Novo México, EUA (© Jack Dykinga/Minden Pictures)*
+|2025-12-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CheetahMound_PT-BR1635774221_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_PT-BR1635774221_UHD.jpg)|
+||*Copyright: Guepardo na Reserva Nacional Maasai Mara, Narok, Quênia (© Andy Rouse/naturepl.com)*
 ||
 |||
-|2025-12-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BosqueCranes_FR-FR7739465096_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_FR-FR7739465096_UHD.jpg)|
-||*Copyright: Grues du Canada au lever du soleil, Réserve faunique nationale de Bosque del Apache, Nouveau-Mexique, États-Unis (© Jack Dykinga/Minden Pictures)*
+|2025-12-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CheetahMound_FR-FR7890726905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_FR-FR7890726905_UHD.jpg)|
+||*Copyright: Guépard dans la Réserve nationale du Maasai Mara, Narok, Kenya (© Andy Rouse/naturepl.com)*
 ||
 |||
-|2025-12-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BosqueCranes_DE-DE5915883756_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_DE-DE5915883756_UHD.jpg)|
-||*Copyright: Kanadakraniche im Sonnenaufgang, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Jack Dykinga/Minden Pictures)*
+|2025-12-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CheetahMound_DE-DE6320566908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_DE-DE6320566908_UHD.jpg)|
+||*Copyright: Gepard im Maasai Mara National Reserve, Narok, Kenia (© Andy Rouse/naturepl.com)*
 ||
 |||
-|2025-12-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BosqueCranes_EN-CA2559549576_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_EN-CA2559549576_UHD.jpg)|
-||*Copyright: Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico, United States (© Jack Dykinga/Minden Pictures)*
+|2025-12-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CheetahMound_EN-CA6737537090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_EN-CA6737537090_UHD.jpg)|
+||*Copyright: Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)*
 ||
 |||
-|2025-12-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_EN-GB5902640405_UHD.jpg)|
-||*Copyright: Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Jack Dykinga/Minden Pictures)*
+|2025-12-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CheetahMound_EN-GB6062998879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_EN-GB6062998879_UHD.jpg)|
+||*Copyright: Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)*
 ||
 |||
-|2025-12-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ComoChristmas_IT-IT9407440928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ComoChristmas_IT-IT9407440928_UHD.jpg)|
-||*Copyright: Domaso, Lago di Como, Lombardia (© Roberto Moiola/Getty Images)*
+|2025-12-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CheetahMound_IT-IT9936285996_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_IT-IT9936285996_UHD.jpg)|
+||*Copyright: Ghepardo nella Riserva Nazionale Masai Mara, Narok, Kenya (© Andy Rouse/naturepl.com)*
 ||
 |||
-|2025-12-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_UHD.jpg)|
-||*Copyright: Pico Castildetierra cubierto de nieve en el Parque Natural de las Bardenas Reales, Valtierra, Navarra, España (© Martin Zalba/Getty Images)*
+|2025-12-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CheetahMound_ES-ES1632145491_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_ES-ES1632145491_UHD.jpg)|
+||*Copyright: Guepardo en la Reserva Nacional Maasai Mara, Narok, Kenia (© Andy Rouse/naturepl.com)*
 ||
 |||
-|2025-12-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BosqueCranes_FR-CA5518531207_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCranes_FR-CA5518531207_UHD.jpg)|
-||*Copyright: Grues du Canada au lever du soleil, Réserve faunique nationale de Bosque del Apache, Nouveau-Mexique, États-Unis (© Jack Dykinga/Minden Pictures)*
+|2025-12-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CheetahMound_FR-CA5750613409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_FR-CA5750613409_UHD.jpg)|
+||*Copyright: Guépard dans la Réserve nationale du Maasai Mara, Narok, Kenya (© Andy Rouse/naturepl.com)*
 ||
 |||
 
