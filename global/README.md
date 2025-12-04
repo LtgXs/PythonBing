@@ -6,9 +6,9 @@
 ||*Copyright: Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)*
 ||
 |||
-|2025-12-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CheetahMound_JA-JP6984308413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_JA-JP6984308413_UHD.jpg)|
-||*Copyright: チーター, ケニア (© Andy Rouse/naturepl.com)*
+|2025-12-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CopanRuins_JA-JP2710848355_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_JA-JP2710848355_UHD.jpg)|
+||*Copyright: コパンのマヤ遺跡, ホンジュラス (© diegograndi/Getty Images)*
 ||
 |||
 |2025-12-04|**Region: en-IN**||
