@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-12-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg)|
-||*Copyright: Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)*
+|2025-12-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg)|
+||*Copyright: Maya site of Copán, Honduras (© diegograndi/Getty Images)*
 ||
 |||
 |2025-12-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: コパンのマヤ遺跡, ホンジュラス (© diegograndi/Getty Images)*
 ||
 |||
-|2025-12-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.IndianNavyDay2025_EN-IN1202327501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndianNavyDay2025_EN-IN1202327501_UHD.jpg)|
-||*Copyright: Indian Navy sailors rehearse for Navy Day at Mumbai's Gateway of India, 1 December 2016 (© Anshuman Poyrekar/Hindustan Times/Getty Images)*
+|2025-12-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CopanRuins_EN-IN1367045994_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_EN-IN1367045994_UHD.jpg)|
+||*Copyright: Maya site of Copán, Honduras (© diegograndi/Getty Images)*
 ||
 |||
-|2025-12-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CheetahMound_PT-BR1635774221_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_PT-BR1635774221_UHD.jpg)|
-||*Copyright: Guepardo na Reserva Nacional Maasai Mara, Narok, Quênia (© Andy Rouse/naturepl.com)*
+|2025-12-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CopanRuins_PT-BR9370514600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_PT-BR9370514600_UHD.jpg)|
+||*Copyright: Sítio Maia de Copán, Honduras (© diegograndi/Getty Images)*
 ||
 |||
-|2025-12-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CheetahMound_FR-FR7890726905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_FR-FR7890726905_UHD.jpg)|
-||*Copyright: Guépard dans la Réserve nationale du Maasai Mara, Narok, Kenya (© Andy Rouse/naturepl.com)*
+|2025-12-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CopanRuins_FR-FR8056709701_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_FR-FR8056709701_UHD.jpg)|
+||*Copyright: Site maya de Copán, Honduras (© diegograndi/Getty Images)*
 ||
 |||
-|2025-12-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CheetahMound_DE-DE6320566908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_DE-DE6320566908_UHD.jpg)|
-||*Copyright: Gepard im Maasai Mara National Reserve, Narok, Kenia (© Andy Rouse/naturepl.com)*
+|2025-12-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CopanRuins_DE-DE5994746462_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_DE-DE5994746462_UHD.jpg)|
+||*Copyright: Maya-Stätte von Copán, Honduras (© diegograndi/Getty Images)*
 ||
 |||
-|2025-12-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CheetahMound_EN-CA6737537090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_EN-CA6737537090_UHD.jpg)|
-||*Copyright: Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)*
+|2025-12-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CopanRuins_EN-CA2961889740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_EN-CA2961889740_UHD.jpg)|
+||*Copyright: Maya site of Copán, Honduras (© diegograndi/Getty Images)*
 ||
 |||
-|2025-12-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CheetahMound_EN-GB6062998879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_EN-GB6062998879_UHD.jpg)|
-||*Copyright: Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)*
+|2025-12-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CopanRuins_EN-GB6228909624_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_EN-GB6228909624_UHD.jpg)|
+||*Copyright: Maya site of Copán, Honduras (© diegograndi/Getty Images)*
 ||
 |||
-|2025-12-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CheetahMound_IT-IT9936285996_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_IT-IT9936285996_UHD.jpg)|
-||*Copyright: Ghepardo nella Riserva Nazionale Masai Mara, Narok, Kenya (© Andy Rouse/naturepl.com)*
+|2025-12-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CopanRuins_IT-IT0133653708_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_IT-IT0133653708_UHD.jpg)|
+||*Copyright: Sito Maya a Copán, Honduras (© diegograndi/Getty Images)*
 ||
 |||
-|2025-12-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CheetahMound_ES-ES1632145491_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_ES-ES1632145491_UHD.jpg)|
-||*Copyright: Guepardo en la Reserva Nacional Maasai Mara, Narok, Kenia (© Andy Rouse/naturepl.com)*
+|2025-12-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CopanRuins_ES-ES1717432720_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_ES-ES1717432720_UHD.jpg)|
+||*Copyright: Sitio arqueológico Maya de Copán, Honduras (© diegograndi/Getty Images)*
 ||
 |||
-|2025-12-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CheetahMound_FR-CA5750613409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMound_FR-CA5750613409_UHD.jpg)|
-||*Copyright: Guépard dans la Réserve nationale du Maasai Mara, Narok, Kenya (© Andy Rouse/naturepl.com)*
+|2025-12-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CopanRuins_FR-CA5865521974_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_FR-CA5865521974_UHD.jpg)|
+||*Copyright: Site maya de Copán, Honduras (© diegograndi/Getty Images)*
 ||
 |||
 
