@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-12-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg)|
-||*Copyright: Maya site of Copán, Honduras (© diegograndi/Getty Images)*
+|2025-12-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg)|
+||*Copyright: Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)*
 ||
 |||
 |2025-12-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: エバーグレーズ国立公園, 米国 (© Troy Harrison/Getty Images)*
 ||
 |||
-|2025-12-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CopanRuins_EN-IN1367045994_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_EN-IN1367045994_UHD.jpg)|
-||*Copyright: Maya site of Copán, Honduras (© diegograndi/Getty Images)*
+|2025-12-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-IN1506652339_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-IN1506652339_UHD.jpg)|
+||*Copyright: Spider webs in Everglades National Park, Florida, United States (© Troy Harrison/Getty Images)*
 ||
 |||
-|2025-12-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CopanRuins_PT-BR9370514600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_PT-BR9370514600_UHD.jpg)|
-||*Copyright: Sítio Maia de Copán, Honduras (© diegograndi/Getty Images)*
+|2025-12-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.EvergladesSunrise_PT-BR9624463483_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesSunrise_PT-BR9624463483_UHD.jpg)|
+||*Copyright: Teias de aranha no Parque Nacional Everglades, Flórida, EUA (© Troy Harrison/Getty Images)*
 ||
 |||
-|2025-12-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CopanRuins_FR-FR8056709701_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_FR-FR8056709701_UHD.jpg)|
-||*Copyright: Site maya de Copán, Honduras (© diegograndi/Getty Images)*
+|2025-12-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.StrasbourgNicolas_FR-FR8648061434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StrasbourgNicolas_FR-FR8648061434_UHD.jpg)|
+||*Copyright: Marché deNoël dans le quartier historique de la Petite France, Strasbourg, Alsace (© Alpineguide/Alamy)*
 ||
 |||
-|2025-12-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CopanRuins_DE-DE5994746462_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_DE-DE5994746462_UHD.jpg)|
-||*Copyright: Maya-Stätte von Copán, Honduras (© diegograndi/Getty Images)*
+|2025-12-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.NicholasChocolate_DE-DE9261454162_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NicholasChocolate_DE-DE9261454162_UHD.jpg)|
+||*Copyright: Schokoladennikoläuse in einem Supermarktregal (© hydebrink/Shutterstock)*
 ||
 |||
-|2025-12-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CopanRuins_EN-CA2961889740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_EN-CA2961889740_UHD.jpg)|
-||*Copyright: Maya site of Copán, Honduras (© diegograndi/Getty Images)*
+|2025-12-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-CA3131159053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-CA3131159053_UHD.jpg)|
+||*Copyright: Spider webs in Everglades National Park, Florida, United States (© Troy Harrison/Getty Images)*
 ||
 |||
-|2025-12-06|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CopanRuins_EN-GB6228909624_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_EN-GB6228909624_UHD.jpg)|
-||*Copyright: Maya site of Copán, Honduras (© diegograndi/Getty Images)*
+|2025-12-07|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-GB6383912502_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-GB6383912502_UHD.jpg)|
+||*Copyright: Spider webs in Everglades National Park, Florida, United States (© Troy Harrison/Getty Images)*
 ||
 |||
-|2025-12-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CopanRuins_IT-IT0133653708_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_IT-IT0133653708_UHD.jpg)|
-||*Copyright: Sito Maya a Copán, Honduras (© diegograndi/Getty Images)*
+|2025-12-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.EvergladesSunrise_IT-IT0190194789_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesSunrise_IT-IT0190194789_UHD.jpg)|
+||*Copyright: Parco Nazionale delle Everglades, Florida, USA (© Troy Harrison/Getty Images)*
 ||
 |||
-|2025-12-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CopanRuins_ES-ES1717432720_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_ES-ES1717432720_UHD.jpg)|
-||*Copyright: Sitio arqueológico Maya de Copán, Honduras (© diegograndi/Getty Images)*
+|2025-12-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ConstitutionSpainDay_ES-ES1916135600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ConstitutionSpainDay_ES-ES1916135600_UHD.jpg)|
+||*Copyright: Palacio de las Cortes, Madrid, España (© marcp_dmoz on Flickr/Getty Images)*
 ||
 |||
-|2025-12-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CopanRuins_FR-CA5865521974_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CopanRuins_FR-CA5865521974_UHD.jpg)|
-||*Copyright: Site maya de Copán, Honduras (© diegograndi/Getty Images)*
+|2025-12-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.EvergladesSunrise_FR-CA6022655582_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesSunrise_FR-CA6022655582_UHD.jpg)|
+||*Copyright: Toiles d’araignées dans le parc national des Everglades, Floride, États-Unis (© Troy Harrison/Getty Images)*
 ||
 |||
 
