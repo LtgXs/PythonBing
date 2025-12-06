@@ -6,9 +6,9 @@
 ||*Copyright: Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)*
 ||
 |||
-|2025-12-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EvergladesSunrise_JA-JP2745208080_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesSunrise_JA-JP2745208080_UHD.jpg)|
-||*Copyright: エバーグレーズ国立公園, 米国 (© Troy Harrison/Getty Images)*
+|2025-12-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_UHD.jpg)|
+||*Copyright: 白馬三山の雪景色 (© Thirawatana Phaisalratana/Getty Images)*
 ||
 |||
 |2025-12-06|**Region: en-IN**||
