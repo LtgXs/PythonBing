@@ -6,9 +6,9 @@
 ||*Copyright: USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)*
 ||
 |||
-|2025-12-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_UHD.jpg)|
-||*Copyright: 白馬三山の雪景色 (© Thirawatana Phaisalratana/Getty Images)*
+|2025-12-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ComoChristmas_JA-JP6780343312_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ComoChristmas_JA-JP6780343312_UHD.jpg)|
+||*Copyright: ドマーゾ, イタリア (© Roberto Moiola/Getty Images)*
 ||
 |||
 |2025-12-07|**Region: en-IN**||
