@@ -6,9 +6,9 @@
 ||*Copyright: Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-12-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ComoChristmas_JA-JP6780343312_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ComoChristmas_JA-JP6780343312_UHD.jpg)|
-||*Copyright: ドマーゾ, イタリア (© Roberto Moiola/Getty Images)*
+|2025-12-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LlamaDay_JA-JP7586440652_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LlamaDay_JA-JP7586440652_UHD.jpg)|
+||*Copyright: バルデス半島のグアナコ, アルゼンチン (© Sylvain Cordier/naturepl.com)*
 ||
 |||
 |2025-12-08|**Region: en-IN**||
