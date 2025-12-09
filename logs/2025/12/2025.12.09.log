@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:35:27] Picture infomations saved to  global/fr-CA/README.md
 [09:35:27] Picture infomations saved to global/fr-CA/history/2025/12/10_fr-CA.md
 Program exit at 09:35:27
+
+Program started at 16:20:10
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmoqczp
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:20:10] Start geting CN Bing Wallpaper
+[16:20:11] Successful get url: https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg
+[16:20:11] Image saved to img/background.jpg
+[16:20:11] Info saved to README.md
+[16:20:11] Image saved to history/2025/12/10.md
+[16:20:11] Start geting global Bing Wallpaper, region=en-US, local time is 2025-12-09 11:20:11.251525-05:00
+[16:20:11] Successful get url: https://www.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg
+[16:20:11] Picture infomations saved to  global/en-US/README.md
+[16:20:11] Picture infomations saved to global/en-US/history/2025/12/10_en-US.md
+[16:20:11] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-12-10 01:20:11.469424+09:00
+[16:20:11] Successful get url: https://www.bing.com/th?id=OHR.CordobaCathedral_JA-JP3405653486_UHD.jpg
+[16:20:11] Picture infomations saved to  global/ja-JP/README.md
+[16:20:11] Picture infomations saved to global/ja-JP/history/2025/12/10_ja-JP.md
+[16:20:11] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-12-09 21:50:11.728921+05:30
+[16:20:11] Successful get url: https://www.bing.com/th?id=OHR.LlamaDay_EN-IN2162059613_UHD.jpg
+[16:20:11] Picture infomations saved to  global/en-IN/README.md
+[16:20:11] Picture infomations saved to global/en-IN/history/2025/12/09_en-IN.md
+[16:20:11] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-12-09 13:20:11.890602-03:00
+[16:20:11] Successful get url: https://www.bing.com/th?id=OHR.LlamaDay_PT-BR1735380490_UHD.jpg
+[16:20:12] Picture infomations saved to  global/pt-BR/README.md
+[16:20:12] Picture infomations saved to global/pt-BR/history/2025/12/10_pt-BR.md
+[16:20:12] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-12-09 17:20:12.133621+01:00
+[16:20:12] Successful get url: https://www.bing.com/th?id=OHR.LlamaDay_FR-FR9248267589_UHD.jpg
+[16:20:12] Picture infomations saved to  global/fr-FR/README.md
+[16:20:12] Picture infomations saved to global/fr-FR/history/2025/12/09_fr-FR.md
+[16:20:12] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-12-09 17:20:12.305828+01:00
+[16:20:12] Successful get url: https://www.bing.com/th?id=OHR.LlamaDay_DE-DE8597548065_UHD.jpg
+[16:20:12] Picture infomations saved to  global/de-DE/README.md
+[16:20:12] Picture infomations saved to global/de-DE/history/2025/12/09_de-DE.md
+[16:20:12] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-12-09 11:20:12.490733-05:00
+[16:20:12] Successful get url: https://www.bing.com/th?id=OHR.LlamaDay_EN-CA2711777961_UHD.jpg
+[16:20:12] Picture infomations saved to  global/en-CA/README.md
+[16:20:12] Picture infomations saved to global/en-CA/history/2025/12/10_en-CA.md
+[16:20:12] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-12-09 16:20:12.693059+00:00
+[16:20:12] Successful get url: https://www.bing.com/th?id=OHR.LlamaDay_EN-GB8598553400_UHD.jpg
+[16:20:12] Picture infomations saved to  global/en-GB/README.md
+[16:20:12] Picture infomations saved to global/en-GB/history/2025/12/10_en-GB.md
+[16:20:12] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-12-09 17:20:12.898250+01:00
+[16:20:12] Successful get url: https://www.bing.com/th?id=OHR.LlamaDay_IT-IT0450906187_UHD.jpg
+[16:20:13] Picture infomations saved to  global/it-IT/README.md
+[16:20:13] Picture infomations saved to global/it-IT/history/2025/12/09_it-IT.md
+[16:20:13] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-12-09 17:20:13.195857+01:00
+[16:20:13] Successful get url: https://www.bing.com/th?id=OHR.LlamaDay_ES-ES5630891489_UHD.jpg
+[16:20:13] Picture infomations saved to  global/es-ES/README.md
+[16:20:13] Picture infomations saved to global/es-ES/history/2025/12/09_es-ES.md
+[16:20:13] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-12-09 11:20:13.529180-05:00
+[16:20:13] Successful get url: https://www.bing.com/th?id=OHR.LlamaDay_FR-CA8121646684_UHD.jpg
+[16:20:13] Picture infomations saved to  global/fr-CA/README.md
+[16:20:13] Picture infomations saved to global/fr-CA/history/2025/12/10_fr-CA.md
+Program exit at 16:20:13

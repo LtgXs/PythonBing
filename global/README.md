@@ -6,9 +6,9 @@
 ||*Copyright: Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)*
 ||
 |||
-|2025-12-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LlamaDay_JA-JP7586440652_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LlamaDay_JA-JP7586440652_UHD.jpg)|
-||*Copyright: バルデス半島のグアナコ, アルゼンチン (© Sylvain Cordier/naturepl.com)*
+|2025-12-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CordobaCathedral_JA-JP3405653486_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaCathedral_JA-JP3405653486_UHD.jpg)|
+||*Copyright: メスキータ, スペイン アンダルシア州 (© Elena Zolotova/Getty Images)*
 ||
 |||
 |2025-12-09|**Region: en-IN**||
