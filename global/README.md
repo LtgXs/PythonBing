@@ -6,9 +6,9 @@
 ||*Copyright: Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)*
 ||
 |||
-|2025-12-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CordobaCathedral_JA-JP3405653486_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaCathedral_JA-JP3405653486_UHD.jpg)|
-||*Copyright: メスキータ, スペイン アンダルシア州 (© Elena Zolotova/Getty Images)*
+|2025-12-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.EverestGlow_JA-JP3566583579_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EverestGlow_JA-JP3566583579_UHD.jpg)|
+||*Copyright: 黄金色に染めるエベレスト, ネパール  (© shoults/Alamy)*
 ||
 |||
 |2025-12-10|**Region: en-IN**||

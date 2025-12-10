@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:36:29] Picture infomations saved to  global/fr-CA/README.md
 [09:36:29] Picture infomations saved to global/fr-CA/history/2025/12/11_fr-CA.md
 Program exit at 09:36:29
+
+Program started at 16:20:53
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmoqczp
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:20:53] Start geting CN Bing Wallpaper
+[16:20:53] Successful get url: https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg
+[16:20:54] Image saved to img/background.jpg
+[16:20:54] Info saved to README.md
+[16:20:54] Image saved to history/2025/12/11.md
+[16:20:54] Start geting global Bing Wallpaper, region=en-US, local time is 2025-12-10 11:20:54.036019-05:00
+[16:20:54] Successful get url: https://www.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg
+[16:20:54] Picture infomations saved to  global/en-US/README.md
+[16:20:54] Picture infomations saved to global/en-US/history/2025/12/11_en-US.md
+[16:20:54] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-12-11 01:20:54.259733+09:00
+[16:20:54] Successful get url: https://www.bing.com/th?id=OHR.EverestGlow_JA-JP3566583579_UHD.jpg
+[16:20:54] Picture infomations saved to  global/ja-JP/README.md
+[16:20:54] Picture infomations saved to global/ja-JP/history/2025/12/11_ja-JP.md
+[16:20:54] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-12-10 21:50:54.402064+05:30
+[16:20:54] Successful get url: https://www.bing.com/th?id=OHR.CordobaCathedral_EN-IN2305166633_UHD.jpg
+[16:20:54] Picture infomations saved to  global/en-IN/README.md
+[16:20:54] Picture infomations saved to global/en-IN/history/2025/12/10_en-IN.md
+[16:20:54] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-12-10 13:20:54.542788-03:00
+[16:20:54] Successful get url: https://www.bing.com/th?id=OHR.CordobaCathedral_PT-BR2100403879_UHD.jpg
+[16:20:54] Picture infomations saved to  global/pt-BR/README.md
+[16:20:54] Picture infomations saved to global/pt-BR/history/2025/12/11_pt-BR.md
+[16:20:54] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-12-10 17:20:54.674843+01:00
+[16:20:54] Successful get url: https://www.bing.com/th?id=OHR.CordobaCathedral_FR-FR9536997294_UHD.jpg
+[16:20:54] Picture infomations saved to  global/fr-FR/README.md
+[16:20:54] Picture infomations saved to global/fr-FR/history/2025/12/10_fr-FR.md
+[16:20:54] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-12-10 17:20:54.806706+01:00
+[16:20:54] Successful get url: https://www.bing.com/th?id=OHR.CordobaCathedral_DE-DE5800559694_UHD.jpg
+[16:20:55] Picture infomations saved to  global/de-DE/README.md
+[16:20:55] Picture infomations saved to global/de-DE/history/2025/12/10_de-DE.md
+[16:20:55] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-12-10 11:20:55.091511-05:00
+[16:20:55] Successful get url: https://www.bing.com/th?id=OHR.CordobaCathedral_EN-CA3988311305_UHD.jpg
+[16:20:55] Picture infomations saved to  global/en-CA/README.md
+[16:20:55] Picture infomations saved to global/en-CA/history/2025/12/11_en-CA.md
+[16:20:55] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-12-10 16:20:55.429527+00:00
+[16:20:55] Successful get url: https://www.bing.com/th?id=OHR.CordobaCathedral_EN-GB6957554963_UHD.jpg
+[16:20:55] Picture infomations saved to  global/en-GB/README.md
+[16:20:55] Picture infomations saved to global/en-GB/history/2025/12/11_en-GB.md
+[16:20:55] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-12-10 17:20:55.610979+01:00
+[16:20:55] Successful get url: https://www.bing.com/th?id=OHR.CordobaCathedral_IT-IT0518392649_UHD.jpg
+[16:20:55] Picture infomations saved to  global/it-IT/README.md
+[16:20:55] Picture infomations saved to global/it-IT/history/2025/12/10_it-IT.md
+[16:20:55] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-12-10 17:20:55.873837+01:00
+[16:20:55] Successful get url: https://www.bing.com/th?id=OHR.CordobaCathedral_ES-ES0926965367_UHD.jpg
+[16:20:56] Picture infomations saved to  global/es-ES/README.md
+[16:20:56] Picture infomations saved to global/es-ES/history/2025/12/10_es-ES.md
+[16:20:56] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-12-10 11:20:56.008724-05:00
+[16:20:56] Successful get url: https://www.bing.com/th?id=OHR.CordobaCathedral_FR-CA8527580622_UHD.jpg
+[16:20:56] Picture infomations saved to  global/fr-CA/README.md
+[16:20:56] Picture infomations saved to global/fr-CA/history/2025/12/11_fr-CA.md
+Program exit at 16:20:56
