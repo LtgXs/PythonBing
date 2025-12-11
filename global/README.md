@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-12-11|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg)|
-||*Copyright: Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)*
+|2025-12-12|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg)|
+||*Copyright: Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)*
 ||
 |||
 |2025-12-11|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 黄金色に染めるエベレスト, ネパール  (© shoults/Alamy)*
 ||
 |||
-|2025-12-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-IN2305166633_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-IN2305166633_UHD.jpg)|
-||*Copyright: Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)*
+|2025-12-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.EverestGlow_EN-IN2485244668_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EverestGlow_EN-IN2485244668_UHD.jpg)|
+||*Copyright: The summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)*
 ||
 |||
-|2025-12-11|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CordobaCathedral_PT-BR2100403879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaCathedral_PT-BR2100403879_UHD.jpg)|
-||*Copyright: Interior da Mesquita-Catedral de Córdova, Andaluzia, Espanha (© Elena Zolotova/Getty Images)*
+|2025-12-12|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.EverestGlow_PT-BR2321595835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EverestGlow_PT-BR2321595835_UHD.jpg)|
+||*Copyright: Monte Everest ao pôr do sol, visto de Renjo La Pass, no Nepal (© shoults/Alamy)*
 ||
 |||
-|2025-12-10|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CordobaCathedral_FR-FR9536997294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaCathedral_FR-FR9536997294_UHD.jpg)|
-||*Copyright: Intérieur de la Mosquée-Cathédrale de Cordoue, Andalousie, Espagne (© Elena Zolotova/Getty Images)*
+|2025-12-11|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.EverestGlow_FR-FR9669906927_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EverestGlow_FR-FR9669906927_UHD.jpg)|
+||*Copyright: Le sommet du mont Everest au coucher du soleil, vu depuis Renjo La, Népal (© shoults/Alamy)*
 ||
 |||
-|2025-12-10|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CordobaCathedral_DE-DE5800559694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaCathedral_DE-DE5800559694_UHD.jpg)|
-||*Copyright: Innenraum der Mezquita-Kathedrale von Córdoba, Andalusien, Spanien (© Elena Zolotova/Getty Images)*
+|2025-12-11|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.EverestGlow_DE-DE5000653393_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EverestGlow_DE-DE5000653393_UHD.jpg)|
+||*Copyright: Der Gipfel des Mount Everest bei Sonnenuntergang, gesehen vom Renjo La, Nepal (© shoults/Alamy)*
 ||
 |||
-|2025-12-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-CA3988311305_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-CA3988311305_UHD.jpg)|
-||*Copyright: Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)*
+|2025-12-12|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.EverestGlow_EN-CA4280192102_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EverestGlow_EN-CA4280192102_UHD.jpg)|
+||*Copyright: The summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)*
 ||
 |||
-|2025-12-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-GB6957554963_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-GB6957554963_UHD.jpg)|
-||*Copyright: Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)*
+|2025-12-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.EverestGlow_EN-GB7184566187_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EverestGlow_EN-GB7184566187_UHD.jpg)|
+||*Copyright: The summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)*
 ||
 |||
-|2025-12-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CordobaCathedral_IT-IT0518392649_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaCathedral_IT-IT0518392649_UHD.jpg)|
-||*Copyright: Grande Moschea e Cattedrale di Córdoba, Andalusia, Spagna (© Elena Zolotova/Getty Images)*
+|2025-12-11|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.EverestGlow_IT-IT0574844074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EverestGlow_IT-IT0574844074_UHD.jpg)|
+||*Copyright: La vetta del Monte Everest al tramonto, vista da Renjo La, Nepal (© shoults/Alamy)*
 ||
 |||
-|2025-12-10|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CordobaCathedral_ES-ES0926965367_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaCathedral_ES-ES0926965367_UHD.jpg)|
-||*Copyright: Interior de la Mezquita-Catedral de Córdoba, Andalucía, España (© Elena Zolotova/Getty Images)*
+|2025-12-11|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.EverestGlow_ES-ES2074158502_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EverestGlow_ES-ES2074158502_UHD.jpg)|
+||*Copyright: La cima del Monte Everest al atardecer, vista desde el paso Renjo La, Nepal (© shoults/Alamy)*
 ||
 |||
-|2025-12-11|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CordobaCathedral_FR-CA8527580622_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CordobaCathedral_FR-CA8527580622_UHD.jpg)|
-||*Copyright: Intérieur de la Mosquée-Cathédrale de Cordoue, Andalousie, Espagne (© Elena Zolotova/Getty Images)*
+|2025-12-12|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.EverestGlow_FR-CA8671922583_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EverestGlow_FR-CA8671922583_UHD.jpg)|
+||*Copyright: Le sommet du mont Everest au coucher du soleil, vu depuis Renjo La, Népal (© shoults/Alamy)*
 ||
 |||
 
