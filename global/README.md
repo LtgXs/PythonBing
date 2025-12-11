@@ -6,9 +6,9 @@
 ||*Copyright: Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)*
 ||
 |||
-|2025-12-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EverestGlow_JA-JP3566583579_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EverestGlow_JA-JP3566583579_UHD.jpg)|
-||*Copyright: 黄金色に染めるエベレスト, ネパール  (© shoults/Alamy)*
+|2025-12-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_JA-JP0214216812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_JA-JP0214216812_UHD.jpg)|
+||*Copyright: 雪のような白い斑点模様のポインセチア (© DigiPub/Getty Images)*
 ||
 |||
 |2025-12-11|**Region: en-IN**||
