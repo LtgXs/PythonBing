@@ -6,9 +6,9 @@
 ||*Copyright: Spotted poinsettia (© DigiPub/Getty Images)*
 ||
 |||
-|2025-12-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_JA-JP0214216812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_JA-JP0214216812_UHD.jpg)|
-||*Copyright: 雪のような白い斑点模様のポインセチア (© DigiPub/Getty Images)*
+|2025-12-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YosemiteWinter_JA-JP0378777748_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_JA-JP0378777748_UHD.jpg)|
+||*Copyright: マーセド川, 米国 カリフォルニア州 (© Ron and Patty Thomas/Getty Images)*
 ||
 |||
 |2025-12-12|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2025-12-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_IT-IT0030863548_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_IT-IT0030863548_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_IT-IT1139304078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_IT-IT1139304078_UHD.jpg)|
 ||*Copyright: Stella di Natale (© DigiPub/Getty Images)*
 ||
 |||
