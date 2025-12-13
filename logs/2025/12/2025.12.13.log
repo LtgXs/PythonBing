@@ -1,0 +1,60 @@
+
+Program started at 09:29:36
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm6qbrg
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:29:36] Start geting CN Bing Wallpaper
+[09:29:36] Successful get url: https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg
+[09:29:36] Image saved to img/background.jpg
+[09:29:36] Info saved to README.md
+[09:29:36] Image saved to history/2025/12/13.md
+[09:29:36] Start geting global Bing Wallpaper, region=en-US, local time is 2025-12-13 04:29:36.733414-05:00
+[09:29:36] Successful get url: https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg
+[09:29:36] Picture infomations saved to  global/en-US/README.md
+[09:29:36] Picture infomations saved to global/en-US/history/2025/12/14_en-US.md
+[09:29:36] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-12-13 18:29:36.872607+09:00
+[09:29:36] Successful get url: https://www.bing.com/th?id=OHR.YosemiteWinter_JA-JP0378777748_UHD.jpg
+[09:29:37] Picture infomations saved to  global/ja-JP/README.md
+[09:29:37] Picture infomations saved to global/ja-JP/history/2025/12/13_ja-JP.md
+[09:29:37] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-12-13 14:59:37.097624+05:30
+[09:29:37] Successful get url: https://www.bing.com/th?id=OHR.YosemiteWinter_EN-IN5848672319_UHD.jpg
+[09:29:37] Picture infomations saved to  global/en-IN/README.md
+[09:29:37] Picture infomations saved to global/en-IN/history/2025/12/13_en-IN.md
+[09:29:37] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-12-13 06:29:37.241861-03:00
+[09:29:37] Successful get url: https://www.bing.com/th?id=OHR.YosemiteWinter_PT-BR8418720917_UHD.jpg
+[09:29:37] Picture infomations saved to  global/pt-BR/README.md
+[09:29:37] Picture infomations saved to global/pt-BR/history/2025/12/14_pt-BR.md
+[09:29:37] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-12-13 10:29:37.381825+01:00
+[09:29:37] Successful get url: https://www.bing.com/th?id=OHR.RacletteDay_FR-FR1340553802_UHD.jpg
+[09:29:37] Picture infomations saved to  global/fr-FR/README.md
+[09:29:37] Picture infomations saved to global/fr-FR/history/2025/12/13_fr-FR.md
+[09:29:37] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-12-13 10:29:37.513684+01:00
+[09:29:37] Successful get url: https://www.bing.com/th?id=OHR.YosemiteWinter_DE-DE7894807438_UHD.jpg
+[09:29:37] Picture infomations saved to  global/de-DE/README.md
+[09:29:37] Picture infomations saved to global/de-DE/history/2025/12/13_de-DE.md
+[09:29:37] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-12-13 04:29:37.667233-05:00
+[09:29:37] Successful get url: https://www.bing.com/th?id=OHR.YosemiteWinter_EN-CA0224769672_UHD.jpg
+[09:29:37] Picture infomations saved to  global/en-CA/README.md
+[09:29:37] Picture infomations saved to global/en-CA/history/2025/12/14_en-CA.md
+[09:29:37] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-12-13 09:29:37.802071+00:00
+[09:29:37] Successful get url: https://www.bing.com/th?id=OHR.YosemiteWinter_EN-GB9932034635_UHD.jpg
+[09:29:37] Picture infomations saved to  global/en-GB/README.md
+[09:29:37] Picture infomations saved to global/en-GB/history/2025/12/14_en-GB.md
+[09:29:37] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-12-13 10:29:37.931156+01:00
+[09:29:37] Successful get url: https://www.bing.com/th?id=OHR.YosemiteWinter_IT-IT0817875707_UHD.jpg
+[09:29:38] Picture infomations saved to  global/it-IT/README.md
+[09:29:38] Picture infomations saved to global/it-IT/history/2025/12/13_it-IT.md
+[09:29:38] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-12-13 10:29:38.066925+01:00
+[09:29:38] Successful get url: https://www.bing.com/th?id=OHR.YosemiteWinter_ES-ES3697194370_UHD.jpg
+[09:29:38] Picture infomations saved to  global/es-ES/README.md
+[09:29:38] Picture infomations saved to global/es-ES/history/2025/12/13_es-ES.md
+[09:29:38] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-12-13 04:29:38.188204-05:00
+[09:29:38] Successful get url: https://www.bing.com/th?id=OHR.YosemiteWinter_FR-CA7190961355_UHD.jpg
+[09:29:38] Picture infomations saved to  global/fr-CA/README.md
+[09:29:38] Picture infomations saved to global/fr-CA/history/2025/12/14_fr-CA.md
+Program exit at 09:29:38

@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-12-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg)|
-||*Copyright: Spotted poinsettia (© DigiPub/Getty Images)*
+|2025-12-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg)|
+||*Copyright: Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)*
 ||
 |||
 |2025-12-13|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: マーセド川, 米国 カリフォルニア州 (© Ron and Patty Thomas/Getty Images)*
 ||
 |||
-|2025-12-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-IN7588134069_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-IN7588134069_UHD.jpg)|
-||*Copyright: Spotted poinsettia (© DigiPub/Getty Images)*
+|2025-12-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-IN5848672319_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-IN5848672319_UHD.jpg)|
+||*Copyright: Merced River, Yosemite National Park, California, United States (© Ron and Patty Thomas/Getty Images)*
 ||
 |||
-|2025-12-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_PT-BR8754988281_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_PT-BR8754988281_UHD.jpg)|
-||*Copyright: Poinsétia, a planta que colore o Natal (© DigiPub/Getty Images)*
+|2025-12-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.YosemiteWinter_PT-BR8418720917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_PT-BR8418720917_UHD.jpg)|
+||*Copyright: Rio Merced, Parque Nacional de Yosemite, Califórnia, EUA (© Ron e Patty Thomas/Getty Images)*
 ||
 |||
-|2025-12-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_FR-FR0741474217_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_FR-FR0741474217_UHD.jpg)|
-||*Copyright: Plante Poinsettia dite Étoile de Noël (© DigiPub/Getty Images)*
+|2025-12-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.RacletteDay_FR-FR1340553802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RacletteDay_FR-FR1340553802_UHD.jpg)|
+||*Copyright: Vue sur un village de montagne illuminé, France (© Dario Berardi/500px)*
 ||
 |||
-|2025-12-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_DE-DE7616872771_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_DE-DE7616872771_UHD.jpg)|
-||*Copyright: Gefleckter Weihnachtsstern (© DigiPub/Getty Images)*
+|2025-12-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.YosemiteWinter_DE-DE7894807438_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_DE-DE7894807438_UHD.jpg)|
+||*Copyright: Merced River, Yosemite-Nationalpark, Kalifornien, USA (© Ron and Patty Thomas/Getty Images)*
 ||
 |||
-|2025-12-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SuspensionLights_EN-CA1736218976_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuspensionLights_EN-CA1736218976_UHD.jpg)|
-||*Copyright: Illuminated Capilano Suspension Bridge Park, Vancouver, British Columbia (© Brian Caissie/Getty Images)*
+|2025-12-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-CA0224769672_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-CA0224769672_UHD.jpg)|
+||*Copyright: Merced River, Yosemite National Park, California, United States (© Ron and Patty Thomas/Getty Images)*
 ||
 |||
-|2025-12-13|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-GB9791433495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-GB9791433495_UHD.jpg)|
-||*Copyright: Spotted poinsettia (© DigiPub/Getty Images)*
+|2025-12-14|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-GB9932034635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-GB9932034635_UHD.jpg)|
+||*Copyright: Merced River, Yosemite National Park, California, United States (© Ron and Patty Thomas/Getty Images)*
 ||
 |||
-|2025-12-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_IT-IT1139304078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_IT-IT1139304078_UHD.jpg)|
-||*Copyright: Stella di Natale (© DigiPub/Getty Images)*
+|2025-12-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.YosemiteWinter_IT-IT0817875707_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_IT-IT0817875707_UHD.jpg)|
+||*Copyright: Fiume Merced, Parco Nazionale di Yosemite, California, USA (© Ron and Patty Thomas/Getty Images)*
 ||
 |||
-|2025-12-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ES-ES3605658250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ES-ES3605658250_UHD.jpg)|
-||*Copyright: Flor de pascua manchada (© DigiPub/Getty Images)*
+|2025-12-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.YosemiteWinter_ES-ES3697194370_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_ES-ES3697194370_UHD.jpg)|
+||*Copyright: Río Merced, Parque Nacional de Yosemite, California, EE. UU. (© Ron and Patty Thomas/Getty Images)*
 ||
 |||
-|2025-12-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SuspensionLights_FR-CA6920947835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuspensionLights_FR-CA6920947835_UHD.jpg)|
-||*Copyright: Le pont suspsendu de Capilano et son parc illuminés, Vancouver, Colombie-Britannique (© Brian Caissie/Getty Images)*
+|2025-12-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.YosemiteWinter_FR-CA7190961355_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_FR-CA7190961355_UHD.jpg)|
+||*Copyright: Rivière Merced, parc national de Yosemite, Californie, États-Unis (© Ron and Patty Thomas/Getty Images)*
 ||
 |||
 
