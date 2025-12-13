@@ -6,9 +6,9 @@
 ||*Copyright: Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)*
 ||
 |||
-|2025-12-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YosemiteWinter_JA-JP0378777748_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_JA-JP0378777748_UHD.jpg)|
-||*Copyright: マーセド川, 米国 カリフォルニア州 (© Ron and Patty Thomas/Getty Images)*
+|2025-12-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TuftedTitmouse_JA-JP0548402698_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TuftedTitmouse_JA-JP0548402698_UHD.jpg)|
+||*Copyright: エボシガラ, 米国 マサチューセッツ州 (© Tim Laman/NPL/Minden Pictures)*
 ||
 |||
 |2025-12-13|**Region: en-IN**||
