@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-12-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg)|
-||*Copyright: Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)*
+|2025-12-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg)|
+||*Copyright: Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)*
 ||
 |||
 |2025-12-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: スピーゲルグラハト, オランダ (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-12-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RBtiger_EN-IN6114298961_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RBtiger_EN-IN6114298961_UHD.jpg)|
-||*Copyright: Royal Bengal tiger (© sourabh/Getty Images)*
+|2025-12-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-IN6264972688_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-IN6264972688_UHD.jpg)|
+||*Copyright: Light decorations on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-12-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TuftedTitmouse_PT-BR8020048731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TuftedTitmouse_PT-BR8020048731_UHD.jpg)|
-||*Copyright: Chapim-de-penacho-cinzento pousado em ramos de pinheiro, Massachusetts, EUA (© Tim Laman/NPL/Minden Pictures)*
+|2025-12-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AmsterdamLights_PT-BR5962118640_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmsterdamLights_PT-BR5962118640_UHD.jpg)|
+||*Copyright: Decorações luminosas no canal Spiegelgracht, Amsterdã, Países Baixos (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-12-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TuftedTitmouse_FR-FR1797167944_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TuftedTitmouse_FR-FR1797167944_UHD.jpg)|
-||*Copyright: Mésange bicolore perchée sur des branches de pin, Massachusetts, États-Unis (© Tim Laman/NPL/Minden Pictures)*
+|2025-12-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AmsterdamLights_FR-FR4107666936_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmsterdamLights_FR-FR4107666936_UHD.jpg)|
+||*Copyright: Décorations lumineuses sur le canal Spiegelgracht, Amsterdam, Pays-Bas (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-12-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TuftedTitmouse_DE-DE8240500684_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TuftedTitmouse_DE-DE8240500684_UHD.jpg)|
-||*Copyright: Grauhäubchenmeise auf einem Kiefernast, Massachusetts, USA (© Tim Laman/NPL/Minden Pictures)*
+|2025-12-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AmsterdamLights_DE-DE8640101096_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmsterdamLights_DE-DE8640101096_UHD.jpg)|
+||*Copyright: Lichtdekorationen am Spiegelgracht-Kanal, Amsterdam, Niederlande (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-12-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-CA0345023104_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-CA0345023104_UHD.jpg)|
-||*Copyright: Tufted titmouse perched on pine boughs, Massachusetts, United States (© Tim Laman/NPL/Minden Pictures)*
+|2025-12-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-CA0631336225_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-CA0631336225_UHD.jpg)|
+||*Copyright: Light decorations on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-12-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BrightonRoyalPavilion2025_EN-GB0413792609_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrightonRoyalPavilion2025_EN-GB0413792609_UHD.jpg)|
-||*Copyright: Royal Pavilion, Brighton, England (© by Andrea Pucci/Moment/Getty Images)*
+|2025-12-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-GB0625197619_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-GB0625197619_UHD.jpg)|
+||*Copyright: Light decorations on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-12-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ChristmasGnomes_IT-IT0880472693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasGnomes_IT-IT0880472693_UHD.jpg)|
-||*Copyright: Gnomi fatti a mano in un mercatino di Natale (© Veronika Seppanen/Shutterstock)*
+|2025-12-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AmsterdamLights_IT-IT0966951501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmsterdamLights_IT-IT0966951501_UHD.jpg)|
+||*Copyright: Decorazioni luminose sul canale Spiegelgracht, Amsterdam, Paesi Bassi (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-12-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ReindeerFinland_ES-ES3822671431_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerFinland_ES-ES3822671431_UHD.jpg)|
-||*Copyright: Reno durante la nevada invernal, Laponia, Finlandia (© Roberto Moiola/Getty Images)*
+|2025-12-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AmsterdamLights_ES-ES3912023749_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmsterdamLights_ES-ES3912023749_UHD.jpg)|
+||*Copyright: Luces de Navidad en el canal Spiegelgracht, Ámsterdam, Países Bajos (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-12-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TuftedTitmouse_FR-CA8502944575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TuftedTitmouse_FR-CA8502944575_UHD.jpg)|
-||*Copyright: Mésange bicolore perchée sur des branches de pin, Massachusetts, États-Unis (© Tim Laman/NPL/Minden Pictures)*
+|2025-12-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AmsterdamLights_FR-CA8725223562_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmsterdamLights_FR-CA8725223562_UHD.jpg)|
+||*Copyright: Décorations lumineuses sur le canal Spiegelgracht, Amsterdam, Pays-Bas (© Amith Nag Photography/Getty Images)*
 ||
 |||
 
