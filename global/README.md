@@ -6,9 +6,9 @@
 ||*Copyright: Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2025-12-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AmsterdamLights_JA-JP0747282471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmsterdamLights_JA-JP0747282471_UHD.jpg)|
-||*Copyright: スピーゲルグラハト, オランダ (© Amith Nag Photography/Getty Images)*
+|2025-12-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ChristmasGnomes_JA-JP0954643924_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasGnomes_JA-JP0954643924_UHD.jpg)|
+||*Copyright: 手作りのトムテ, クリスマス・マーケット (© Veronika Seppanen/Shutterstock)*
 ||
 |||
 |2025-12-15|**Region: en-IN**||
