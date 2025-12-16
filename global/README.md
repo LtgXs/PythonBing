@@ -6,9 +6,9 @@
 ||*Copyright: Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)*
 ||
 |||
-|2025-12-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ChristmasGnomes_JA-JP0954643924_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChristmasGnomes_JA-JP0954643924_UHD.jpg)|
-||*Copyright: 手作りのトムテ, クリスマス・マーケット (© Veronika Seppanen/Shutterstock)*
+|2025-12-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FrostySquirrel_JA-JP1466167178_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostySquirrel_JA-JP1466167178_UHD.jpg)|
+||*Copyright: キタリス, イングランド (© Michael_Conrad/Getty Images)*
 ||
 |||
 |2025-12-16|**Region: en-IN**||
