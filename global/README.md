@@ -6,9 +6,9 @@
 ||*Copyright: Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)*
 ||
 |||
-|2025-12-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FrostySquirrel_JA-JP1466167178_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrostySquirrel_JA-JP1466167178_UHD.jpg)|
-||*Copyright: キタリス, イングランド (© Michael_Conrad/Getty Images)*
+|2025-12-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CathedralValley_JA-JP1654490549_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CathedralValley_JA-JP1654490549_UHD.jpg)|
+||*Copyright: 太陽の神殿, 米国 ユタ州 (© Austin Cronnelly/TANDEM Stills + Motion)*
 ||
 |||
 |2025-12-17|**Region: en-IN**||
