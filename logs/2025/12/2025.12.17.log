@@ -1,0 +1,60 @@
+
+Program started at 09:38:55
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm6qbrg
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:38:55] Start geting CN Bing Wallpaper
+[09:38:55] Successful get url: https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg
+[09:38:55] Image saved to img/background.jpg
+[09:38:55] Info saved to README.md
+[09:38:55] Image saved to history/2025/12/17.md
+[09:38:55] Start geting global Bing Wallpaper, region=en-US, local time is 2025-12-17 04:38:55.579525-05:00
+[09:38:55] Successful get url: https://www.bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg
+[09:38:55] Picture infomations saved to  global/en-US/README.md
+[09:38:55] Picture infomations saved to global/en-US/history/2025/12/18_en-US.md
+[09:38:55] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-12-17 18:38:55.911850+09:00
+[09:38:55] Successful get url: https://www.bing.com/th?id=OHR.FrostySquirrel_JA-JP1466167178_UHD.jpg
+[09:38:56] Picture infomations saved to  global/ja-JP/README.md
+[09:38:56] Picture infomations saved to global/ja-JP/history/2025/12/17_ja-JP.md
+[09:38:56] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-12-17 15:08:56.257462+05:30
+[09:38:56] Successful get url: https://www.bing.com/th?id=OHR.FrostySquirrel_EN-IN6548700158_UHD.jpg
+[09:38:56] Picture infomations saved to  global/en-IN/README.md
+[09:38:56] Picture infomations saved to global/en-IN/history/2025/12/17_en-IN.md
+[09:38:56] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-12-17 06:38:56.694697-03:00
+[09:38:56] Successful get url: https://www.bing.com/th?id=OHR.RedFoxVulpes_PT-BR4619865412_UHD.jpg
+[09:38:57] Picture infomations saved to  global/pt-BR/README.md
+[09:38:57] Picture infomations saved to global/pt-BR/history/2025/12/18_pt-BR.md
+[09:38:57] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-12-17 10:38:57.019704+01:00
+[09:38:57] Successful get url: https://www.bing.com/th?id=OHR.FrostySquirrel_FR-FR0291090241_UHD.jpg
+[09:38:57] Picture infomations saved to  global/fr-FR/README.md
+[09:38:57] Picture infomations saved to global/fr-FR/history/2025/12/17_fr-FR.md
+[09:38:57] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-12-17 10:38:57.352303+01:00
+[09:38:57] Successful get url: https://www.bing.com/th?id=OHR.FrostySquirrel_DE-DE9962417509_UHD.jpg
+[09:38:57] Picture infomations saved to  global/de-DE/README.md
+[09:38:57] Picture infomations saved to global/de-DE/history/2025/12/17_de-DE.md
+[09:38:57] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-12-17 04:38:57.773376-05:00
+[09:38:57] Successful get url: https://www.bing.com/th?id=OHR.FrostySquirrel_EN-CA0949357975_UHD.jpg
+[09:38:58] Picture infomations saved to  global/en-CA/README.md
+[09:38:58] Picture infomations saved to global/en-CA/history/2025/12/18_en-CA.md
+[09:38:58] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-12-17 09:38:58.090630+00:00
+[09:38:58] Successful get url: https://www.bing.com/th?id=OHR.FrostySquirrel_EN-GB0927848700_UHD.jpg
+[09:38:58] Picture infomations saved to  global/en-GB/README.md
+[09:38:58] Picture infomations saved to global/en-GB/history/2025/12/18_en-GB.md
+[09:38:58] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-12-17 10:38:58.441501+01:00
+[09:38:58] Successful get url: https://www.bing.com/th?id=OHR.FrostySquirrel_IT-IT9640811523_UHD.jpg
+[09:38:58] Picture infomations saved to  global/it-IT/README.md
+[09:38:58] Picture infomations saved to global/it-IT/history/2025/12/17_it-IT.md
+[09:38:58] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-12-17 10:38:58.792715+01:00
+[09:38:58] Successful get url: https://www.bing.com/th?id=OHR.FrostySquirrel_ES-ES4169839587_UHD.jpg
+[09:38:59] Picture infomations saved to  global/es-ES/README.md
+[09:38:59] Picture infomations saved to global/es-ES/history/2025/12/17_es-ES.md
+[09:38:59] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-12-17 04:38:59.136640-05:00
+[09:38:59] Successful get url: https://www.bing.com/th?id=OHR.FrostySquirrel_FR-CA9290666519_UHD.jpg
+[09:38:59] Picture infomations saved to  global/fr-CA/README.md
+[09:38:59] Picture infomations saved to global/fr-CA/history/2025/12/18_fr-CA.md
+Program exit at 09:38:59
