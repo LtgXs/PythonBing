@@ -6,9 +6,9 @@
 ||*Copyright: Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)*
 ||
 |||
-|2025-12-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CathedralValley_JA-JP1654490549_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CathedralValley_JA-JP1654490549_UHD.jpg)|
-||*Copyright: 太陽の神殿, 米国 ユタ州 (© Austin Cronnelly/TANDEM Stills + Motion)*
+|2025-12-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BormioItaly_JA-JP1791938778_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_JA-JP1791938778_UHD.jpg)|
+||*Copyright: ボルミオ, イタリア ロンバルディア州 (© Roberto Moiola/Getty Images)*
 ||
 |||
 |2025-12-18|**Region: en-IN**||
