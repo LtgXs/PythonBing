@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-12-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg)|
-||*Copyright: Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)*
+|2025-12-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg)|
+||*Copyright: Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)*
 ||
 |||
 |2025-12-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ボルミオ, イタリア ロンバルディア州 (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-12-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GopuramVirupaksha_EN-IN6686101876_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GopuramVirupaksha_EN-IN6686101876_UHD.jpg)|
-||*Copyright: Granite rocks and gopuram of the Virupaksha Temple, Hampi, Karnataka (© Skouatroulio/Getty Images)*
+|2025-12-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BormioItaly_EN-IN7065763250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_EN-IN7065763250_UHD.jpg)|
+||*Copyright: Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-12-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CathedralValley_PT-BR4139226561_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CathedralValley_PT-BR4139226561_UHD.jpg)|
-||*Copyright: Templo do Sol, Parque Nacional Capitol Reef, Utah, EUA (© Austin Cronnelly/TANDEM Stills + Motion)*
+|2025-12-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MonaValePool_PT-BR3761325411_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_PT-BR3761325411_UHD.jpg)|
+||*Copyright: Mona Vale Rockpool, Sydney, Austrália (© jamenpercy/Getty Images)*
 ||
 |||
-|2025-12-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.StarLanterns_FR-FR0647392410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_FR-FR0647392410_UHD.jpg)|
-||*Copyright: Étoiles de Herrnhut, Allemagne (© artas/Getty Images)*
+|2025-12-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_UHD.jpg)|
+||*Copyright: Rivière Merced, parc national de Yosemite, Californie, États-Unis (© Ron and Patty Thomas/Getty Images)*
 ||
 |||
-|2025-12-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.OstfrieslandWinter_DE-DE7440932341_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OstfrieslandWinter_DE-DE7440932341_UHD.jpg)|
-||*Copyright: Schneebedecktes Feld bei Sonnenuntergang, Ostfriesland, Niedersachsen (© photo art/500px/Getty Images)*
+|2025-12-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BormioItaly_DE-DE0438792611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_DE-DE0438792611_UHD.jpg)|
+||*Copyright: Verschneite Landschaft in Bormio, Lombardei, Italien (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-12-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CathedralValley_EN-CA1097326086_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CathedralValley_EN-CA1097326086_UHD.jpg)|
-||*Copyright: Temple of the Sun, Capitol Reef National Park, Utah, United States (© Austin Cronnelly/TANDEM Stills + Motion)*
+|2025-12-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BormioItaly_EN-CA1256491790_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_EN-CA1256491790_UHD.jpg)|
+||*Copyright: Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-12-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CathedralValley_EN-GB1105265816_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CathedralValley_EN-GB1105265816_UHD.jpg)|
-||*Copyright: Temple of the Sun, Capitol Reef National Park, Utah, USA (© Austin Cronnelly/TANDEM Stills + Motion)*
+|2025-12-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BormioItaly_EN-GB1277241027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_EN-GB1277241027_UHD.jpg)|
+||*Copyright: Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-12-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CathedralValley_IT-IT9862752275_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CathedralValley_IT-IT9862752275_UHD.jpg)|
-||*Copyright: Tempio del Sole, Parco Nazionale Capitol Reef, Utah, USA (© Austin Cronnelly/TANDEM Stills + Motion)*
+|2025-12-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837_UHD.jpg)|
+||*Copyright: Paesaggio innevato a Bormio, Sondrio, Lombardia (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-12-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SwedenSolstice_ES-ES4279169138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwedenSolstice_ES-ES4279169138_UHD.jpg)|
-||*Copyright: Luz del amanecer a través de árboles helados, Suecia (© Schon/Getty Images)*
+|2025-12-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453_UHD.jpg)|
+||*Copyright: Paisaje nevado en Bormio, Lombardía, Italia (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-12-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CathedralValley_FR-CA9473137738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CathedralValley_FR-CA9473137738_UHD.jpg)|
-||*Copyright: Temple du Soleil, parc national de Capitol Reef, Utah, États-Unis (© Austin Cronnelly/TANDEM Stills + Motion)*
+|2025-12-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BormioItaly_FR-CA9819049708_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_FR-CA9819049708_UHD.jpg)|
+||*Copyright: Paysage enneigé à Bormio, Lombardie, Italie (© Roberto Moiola/Getty Images)*
 ||
 |||
 
