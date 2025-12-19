@@ -6,9 +6,9 @@
 ||*Copyright: Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-12-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BormioItaly_JA-JP1791938778_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_JA-JP1791938778_UHD.jpg)|
-||*Copyright: ボルミオ, イタリア ロンバルディア州 (© Roberto Moiola/Getty Images)*
+|2025-12-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.StarLanterns_JA-JP2184605933_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_JA-JP2184605933_UHD.jpg)|
+||*Copyright: 星型のランプ, ドイツ (© artas/Getty Images)*
 ||
 |||
 |2025-12-19|**Region: en-IN**||

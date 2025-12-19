@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:35:41] Picture infomations saved to  global/fr-CA/README.md
 [09:35:41] Picture infomations saved to global/fr-CA/history/2025/12/20_fr-CA.md
 Program exit at 09:35:41
+
+Program started at 16:18:26
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmh13bl
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:18:26] Start geting CN Bing Wallpaper
+[16:18:26] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg
+[16:18:26] Image saved to img/background.jpg
+[16:18:26] Info saved to README.md
+[16:18:26] Image saved to history/2025/12/20.md
+[16:18:26] Start geting global Bing Wallpaper, region=en-US, local time is 2025-12-19 11:18:26.818442-05:00
+[16:18:26] Successful get url: https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg
+[16:18:26] Picture infomations saved to  global/en-US/README.md
+[16:18:26] Picture infomations saved to global/en-US/history/2025/12/20_en-US.md
+[16:18:26] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-12-20 01:18:26.992181+09:00
+[16:18:27] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_JA-JP2184605933_UHD.jpg
+[16:18:27] Picture infomations saved to  global/ja-JP/README.md
+[16:18:27] Picture infomations saved to global/ja-JP/history/2025/12/20_ja-JP.md
+[16:18:27] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-12-19 21:48:27.199712+05:30
+[16:18:27] Successful get url: https://www.bing.com/th?id=OHR.BormioItaly_EN-IN7065763250_UHD.jpg
+[16:18:27] Picture infomations saved to  global/en-IN/README.md
+[16:18:27] Picture infomations saved to global/en-IN/history/2025/12/19_en-IN.md
+[16:18:27] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-12-19 13:18:27.454645-03:00
+[16:18:27] Successful get url: https://www.bing.com/th?id=OHR.MonaValePool_PT-BR3761325411_UHD.jpg
+[16:18:27] Picture infomations saved to  global/pt-BR/README.md
+[16:18:27] Picture infomations saved to global/pt-BR/history/2025/12/20_pt-BR.md
+[16:18:27] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-12-19 17:18:27.631279+01:00
+[16:18:27] Successful get url: https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_UHD.jpg
+[16:18:27] Picture infomations saved to  global/fr-FR/README.md
+[16:18:27] Picture infomations saved to global/fr-FR/history/2025/12/19_fr-FR.md
+[16:18:27] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-12-19 17:18:27.852817+01:00
+[16:18:27] Successful get url: https://www.bing.com/th?id=OHR.BormioItaly_DE-DE0438792611_UHD.jpg
+[16:18:28] Picture infomations saved to  global/de-DE/README.md
+[16:18:28] Picture infomations saved to global/de-DE/history/2025/12/19_de-DE.md
+[16:18:28] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-12-19 11:18:28.130984-05:00
+[16:18:28] Successful get url: https://www.bing.com/th?id=OHR.BormioItaly_EN-CA1256491790_UHD.jpg
+[16:18:28] Picture infomations saved to  global/en-CA/README.md
+[16:18:28] Picture infomations saved to global/en-CA/history/2025/12/20_en-CA.md
+[16:18:28] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-12-19 16:18:28.359289+00:00
+[16:18:28] Successful get url: https://www.bing.com/th?id=OHR.BormioItaly_EN-GB1277241027_UHD.jpg
+[16:18:28] Picture infomations saved to  global/en-GB/README.md
+[16:18:28] Picture infomations saved to global/en-GB/history/2025/12/20_en-GB.md
+[16:18:28] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-12-19 17:18:28.549755+01:00
+[16:18:28] Successful get url: https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837_UHD.jpg
+[16:18:28] Picture infomations saved to  global/it-IT/README.md
+[16:18:28] Picture infomations saved to global/it-IT/history/2025/12/19_it-IT.md
+[16:18:28] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-12-19 17:18:28.824943+01:00
+[16:18:28] Successful get url: https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453_UHD.jpg
+[16:18:29] Picture infomations saved to  global/es-ES/README.md
+[16:18:29] Picture infomations saved to global/es-ES/history/2025/12/19_es-ES.md
+[16:18:29] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-12-19 11:18:29.027477-05:00
+[16:18:29] Successful get url: https://www.bing.com/th?id=OHR.BormioItaly_FR-CA9819049708_UHD.jpg
+[16:18:29] Picture infomations saved to  global/fr-CA/README.md
+[16:18:29] Picture infomations saved to global/fr-CA/history/2025/12/20_fr-CA.md
+Program exit at 16:18:29
