@@ -1,0 +1,60 @@
+
+Program started at 09:29:43
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmh13bl
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:29:43] Start geting CN Bing Wallpaper
+[09:29:43] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg
+[09:29:43] Image saved to img/background.jpg
+[09:29:43] Info saved to README.md
+[09:29:43] Image saved to history/2025/12/20.md
+[09:29:43] Start geting global Bing Wallpaper, region=en-US, local time is 2025-12-20 04:29:43.990759-05:00
+[09:29:44] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg
+[09:29:44] Picture infomations saved to  global/en-US/README.md
+[09:29:44] Picture infomations saved to global/en-US/history/2025/12/21_en-US.md
+[09:29:44] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-12-20 18:29:44.221352+09:00
+[09:29:44] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_JA-JP2184605933_UHD.jpg
+[09:29:44] Picture infomations saved to  global/ja-JP/README.md
+[09:29:44] Picture infomations saved to global/ja-JP/history/2025/12/20_ja-JP.md
+[09:29:44] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-12-20 14:59:44.613523+05:30
+[09:29:44] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_EN-IN7383029602_UHD.jpg
+[09:29:44] Picture infomations saved to  global/en-IN/README.md
+[09:29:44] Picture infomations saved to global/en-IN/history/2025/12/20_en-IN.md
+[09:29:44] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-12-20 06:29:44.963204-03:00
+[09:29:45] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_PT-BR3547621816_UHD.jpg
+[09:29:45] Picture infomations saved to  global/pt-BR/README.md
+[09:29:45] Picture infomations saved to global/pt-BR/history/2025/12/21_pt-BR.md
+[09:29:45] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-12-20 10:29:45.158575+01:00
+[09:29:45] Successful get url: https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_UHD.jpg
+[09:29:45] Picture infomations saved to  global/fr-FR/README.md
+[09:29:45] Picture infomations saved to global/fr-FR/history/2025/12/20_fr-FR.md
+[09:29:45] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-12-20 10:29:45.491124+01:00
+[09:29:45] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_DE-DE0755319910_UHD.jpg
+[09:29:45] Picture infomations saved to  global/de-DE/README.md
+[09:29:45] Picture infomations saved to global/de-DE/history/2025/12/20_de-DE.md
+[09:29:45] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-12-20 04:29:45.724834-05:00
+[09:29:45] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_EN-CA1404976374_UHD.jpg
+[09:29:45] Picture infomations saved to  global/en-CA/README.md
+[09:29:45] Picture infomations saved to global/en-CA/history/2025/12/21_en-CA.md
+[09:29:45] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-12-20 09:29:45.934992+00:00
+[09:29:45] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_EN-GB1419415106_UHD.jpg
+[09:29:46] Picture infomations saved to  global/en-GB/README.md
+[09:29:46] Picture infomations saved to global/en-GB/history/2025/12/21_en-GB.md
+[09:29:46] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-12-20 10:29:46.166663+01:00
+[09:29:46] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_IT-IT0134710984_UHD.jpg
+[09:29:46] Picture infomations saved to  global/it-IT/README.md
+[09:29:46] Picture infomations saved to global/it-IT/history/2025/12/20_it-IT.md
+[09:29:46] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-12-20 10:29:46.358334+01:00
+[09:29:46] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_ES-ES4365009466_UHD.jpg
+[09:29:46] Picture infomations saved to  global/es-ES/README.md
+[09:29:46] Picture infomations saved to global/es-ES/history/2025/12/20_es-ES.md
+[09:29:46] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-12-20 04:29:46.545908-05:00
+[09:29:46] Successful get url: https://www.bing.com/th?id=OHR.StarLanterns_FR-CA0069939651_UHD.jpg
+[09:29:46] Picture infomations saved to  global/fr-CA/README.md
+[09:29:46] Picture infomations saved to global/fr-CA/history/2025/12/21_fr-CA.md
+Program exit at 09:29:46

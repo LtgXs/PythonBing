@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-12-20|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg)|
-||*Copyright: Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)*
+|2025-12-21|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg)|
+||*Copyright: Christmas star lanterns, Germany (© artas/Getty Images)*
 ||
 |||
 |2025-12-20|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 星型のランプ, ドイツ (© artas/Getty Images)*
 ||
 |||
-|2025-12-19|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BormioItaly_EN-IN7065763250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_EN-IN7065763250_UHD.jpg)|
-||*Copyright: Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)*
+|2025-12-20|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.StarLanterns_EN-IN7383029602_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_EN-IN7383029602_UHD.jpg)|
+||*Copyright: Paper Christmas star lanterns, Germany (© artas/Getty Images)*
 ||
 |||
-|2025-12-20|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MonaValePool_PT-BR3761325411_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MonaValePool_PT-BR3761325411_UHD.jpg)|
-||*Copyright: Mona Vale Rockpool, Sydney, Austrália (© jamenpercy/Getty Images)*
+|2025-12-21|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.StarLanterns_PT-BR3547621816_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_PT-BR3547621816_UHD.jpg)|
+||*Copyright: Lanternas de Natal em forma de estrela, Alemanha (© artas/Getty Images)*
 ||
 |||
-|2025-12-19|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_UHD.jpg)|
-||*Copyright: Rivière Merced, parc national de Yosemite, Californie, États-Unis (© Ron and Patty Thomas/Getty Images)*
+|2025-12-20|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_UHD.jpg)|
+||*Copyright: Cirque de Mafate, Dos d'Ane, Île de la Réunion (© Gael Fontaine/Alamy)*
 ||
 |||
-|2025-12-19|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BormioItaly_DE-DE0438792611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_DE-DE0438792611_UHD.jpg)|
-||*Copyright: Verschneite Landschaft in Bormio, Lombardei, Italien (© Roberto Moiola/Getty Images)*
+|2025-12-20|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.StarLanterns_DE-DE0755319910_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_DE-DE0755319910_UHD.jpg)|
+||*Copyright: Weihnachtsstern-Laternen, Deutschland (© artas/Getty Images)*
 ||
 |||
-|2025-12-20|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BormioItaly_EN-CA1256491790_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_EN-CA1256491790_UHD.jpg)|
-||*Copyright: Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)*
+|2025-12-21|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.StarLanterns_EN-CA1404976374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_EN-CA1404976374_UHD.jpg)|
+||*Copyright: Paper Christmas star lanterns, Germany (© artas/Getty Images)*
 ||
 |||
-|2025-12-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BormioItaly_EN-GB1277241027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_EN-GB1277241027_UHD.jpg)|
-||*Copyright: Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)*
+|2025-12-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.StarLanterns_EN-GB1419415106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_EN-GB1419415106_UHD.jpg)|
+||*Copyright: Christmas star lanterns, Germany (© artas/Getty Images)*
 ||
 |||
-|2025-12-19|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837_UHD.jpg)|
-||*Copyright: Paesaggio innevato a Bormio, Sondrio, Lombardia (© Roberto Moiola/Getty Images)*
+|2025-12-20|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.StarLanterns_IT-IT0134710984_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_IT-IT0134710984_UHD.jpg)|
+||*Copyright: Lanterne natalizie a forma di stella, Germania (© artas/Getty Images)*
 ||
 |||
-|2025-12-19|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453_UHD.jpg)|
-||*Copyright: Paisaje nevado en Bormio, Lombardía, Italia (© Roberto Moiola/Getty Images)*
+|2025-12-20|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.StarLanterns_ES-ES4365009466_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_ES-ES4365009466_UHD.jpg)|
+||*Copyright: Lámparas de estrellas navideñas de papel, Alemania (© artas/Getty Images)*
 ||
 |||
-|2025-12-20|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BormioItaly_FR-CA9819049708_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BormioItaly_FR-CA9819049708_UHD.jpg)|
-||*Copyright: Paysage enneigé à Bormio, Lombardie, Italie (© Roberto Moiola/Getty Images)*
+|2025-12-21|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.StarLanterns_FR-CA0069939651_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_FR-CA0069939651_UHD.jpg)|
+||*Copyright: Étoiles de Herrnhut, Allemagne (© artas/Getty Images)*
 ||
 |||
 
