@@ -6,9 +6,9 @@
 ||*Copyright: Dawn light through frosty trees, Sweden (© Schon/Getty Images)*
 ||
 |||
-|2025-12-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WinterSolstice2025_JA-JP2351386518_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterSolstice2025_JA-JP2351386518_UHD.jpg)|
-||*Copyright: 屈斜路湖のオオハクチョウ, 北海道 (© Jan Vermeer/Minden)*
+|2025-12-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ReindeerFinland_JA-JP2648977140_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerFinland_JA-JP2648977140_UHD.jpg)|
+||*Copyright: 雪の中を進むトナカイ, フィンランド (© Roberto Moiola/Getty Images)*
 ||
 |||
 |2025-12-21|**Region: en-IN**||
