@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2025-12-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg)|
-||*Copyright: Christmas star lanterns, Germany (© artas/Getty Images)*
+|2025-12-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg)|
+||*Copyright: Dawn light through frosty trees, Sweden (© Schon/Getty Images)*
 ||
 |||
 |2025-12-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 屈斜路湖のオオハクチョウ, 北海道 (© Jan Vermeer/Minden)*
 ||
 |||
-|2025-12-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.StarLanterns_EN-IN7383029602_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_EN-IN7383029602_UHD.jpg)|
-||*Copyright: Paper Christmas star lanterns, Germany (© artas/Getty Images)*
+|2025-12-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SwedenSolstice_EN-IN7550918752_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwedenSolstice_EN-IN7550918752_UHD.jpg)|
+||*Copyright: Dawn light through frosty trees, Sweden (© Schon/Getty Images)*
 ||
 |||
-|2025-12-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.StarLanterns_PT-BR3547621816_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_PT-BR3547621816_UHD.jpg)|
-||*Copyright: Lanternas de Natal em forma de estrela, Alemanha (© artas/Getty Images)*
+|2025-12-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Chevroned_PT-BR2327788537_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Chevroned_PT-BR2327788537_UHD.jpg)|
+||*Copyright: Periquito-de-encontro-amarelo em uma árvore de manga no Pantanal (© Uwe-Bergwitz/Getty Images)*
 ||
 |||
-|2025-12-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_UHD.jpg)|
-||*Copyright: Cirque de Mafate, Dos d'Ane, Île de la Réunion (© Gael Fontaine/Alamy)*
+|2025-12-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SwedenSolstice_FR-FR1371775798_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwedenSolstice_FR-FR1371775798_UHD.jpg)|
+||*Copyright: Lumière de l’aube à travers les arbres givrés, Suède (© Schon/Getty Images)*
 ||
 |||
-|2025-12-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.StarLanterns_DE-DE0755319910_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_DE-DE0755319910_UHD.jpg)|
-||*Copyright: Weihnachtsstern-Laternen, Deutschland (© artas/Getty Images)*
+|2025-12-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SwedenSolstice_DE-DE1312651216_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwedenSolstice_DE-DE1312651216_UHD.jpg)|
+||*Copyright: Morgendämmerung durch frostige Bäume, Schweden (© Schon/Getty Images)*
 ||
 |||
-|2025-12-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.StarLanterns_EN-CA1404976374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_EN-CA1404976374_UHD.jpg)|
-||*Copyright: Paper Christmas star lanterns, Germany (© artas/Getty Images)*
+|2025-12-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SwedenSolstice_EN-CA1532001237_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwedenSolstice_EN-CA1532001237_UHD.jpg)|
+||*Copyright: Dawn light through frosty trees, Sweden (© Schon/Getty Images)*
 ||
 |||
-|2025-12-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.StarLanterns_EN-GB1419415106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_EN-GB1419415106_UHD.jpg)|
-||*Copyright: Christmas star lanterns, Germany (© artas/Getty Images)*
+|2025-12-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SwedenSolstice_EN-GB1586766616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwedenSolstice_EN-GB1586766616_UHD.jpg)|
+||*Copyright: Dawn light through frosty trees, Sweden (© Schon/Getty Images)*
 ||
 |||
-|2025-12-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.StarLanterns_IT-IT0134710984_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_IT-IT0134710984_UHD.jpg)|
-||*Copyright: Lanterne natalizie a forma di stella, Germania (© artas/Getty Images)*
+|2025-12-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SwedenSolstice_IT-IT0210098439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwedenSolstice_IT-IT0210098439_UHD.jpg)|
+||*Copyright: Luce dell'alba tra gli alberi gelati, Svezia (© Schon/Getty Images)*
 ||
 |||
-|2025-12-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.StarLanterns_ES-ES4365009466_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_ES-ES4365009466_UHD.jpg)|
-||*Copyright: Lámparas de estrellas navideñas de papel, Alemania (© artas/Getty Images)*
+|2025-12-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.WinterCovadonga_ES-ES5041137538_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterCovadonga_ES-ES5041137538_UHD.jpg)|
+||*Copyright: Lago de Covadonga, Asturias, España (© emiliozv/Getty Images)*
 ||
 |||
-|2025-12-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.StarLanterns_FR-CA0069939651_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarLanterns_FR-CA0069939651_UHD.jpg)|
-||*Copyright: Étoiles de Herrnhut, Allemagne (© artas/Getty Images)*
+|2025-12-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SwedenSolstice_FR-CA0269299029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SwedenSolstice_FR-CA0269299029_UHD.jpg)|
+||*Copyright: Lumière de l’aube à travers les arbres givrés, Suède (© Schon/Getty Images)*
 ||
 |||
 
