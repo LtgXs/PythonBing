@@ -6,9 +6,9 @@
 ||*Copyright: 'The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye (© Anadolu/Getty Images)*
 ||
 |||
-|2025-12-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ReindeerFinland_JA-JP2648977140_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReindeerFinland_JA-JP2648977140_UHD.jpg)|
-||*Copyright: 雪の中を進むトナカイ, フィンランド (© Roberto Moiola/Getty Images)*
+|2025-12-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TokyoTower2025_JA-JP2794529209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoTower2025_JA-JP2794529209_UHD.jpg)|
+||*Copyright: ライトアップされた夜の東京タワー, 東京 (© Najjsiri Nimyizhune/Getty Images)*
 ||
 |||
 |2025-12-22|**Region: en-IN**||
