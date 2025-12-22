@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2025-12-23
+## History Bing Wallpaper
+Wallpaper date: 2025-12-23
 ![](https://www.bing.com/th?id=OHR.NutcrackerAnkara_FR-CA0871951944_UHD.jpg&w=1000)Download: [« Casse-Noisette » interprété par l’Opéra et Ballet d’État turc à Ankara, Turquie (© Anadolu/Getty Images)](https://www.bing.com/th?id=OHR.NutcrackerAnkara_FR-CA0871951944_UHD.jpg)
 
 Auto get programm by LtgX
