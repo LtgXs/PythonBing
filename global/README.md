@@ -6,9 +6,9 @@
 ||*Copyright: Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)*
 ||
 |||
-|2025-12-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TokyoTower2025_JA-JP2794529209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoTower2025_JA-JP2794529209_UHD.jpg)|
-||*Copyright: ライトアップされた夜の東京タワー, 東京 (© Najjsiri Nimyizhune/Getty Images)*
+|2025-12-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ElmauChapel_JA-JP2947590238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElmauChapel_JA-JP2947590238_UHD.jpg)|
+||*Copyright: クリスマスツリーで飾られた礼拝堂, ドイツ (© mauritius images GmbH/Alamy)*
 ||
 |||
 |2025-12-23|**Region: en-IN**||
