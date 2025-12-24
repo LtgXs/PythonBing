@@ -6,9 +6,9 @@
 ||*Copyright: Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)*
 ||
 |||
-|2025-12-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ElmauChapel_JA-JP2947590238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElmauChapel_JA-JP2947590238_UHD.jpg)|
-||*Copyright: クリスマスツリーで飾られた礼拝堂, ドイツ (© mauritius images GmbH/Alamy)*
+|2025-12-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040_UHD.jpg)|
+||*Copyright: クリスマスマーケットのスノードーム, ドイツ (© George Pachantouris/Getty Images)*
 ||
 |||
 |2025-12-24|**Region: en-IN**||
