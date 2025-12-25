@@ -6,9 +6,9 @@
 ||*Copyright: Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)*
 ||
 |||
-|2025-12-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040_UHD.jpg)|
-||*Copyright: クリスマスマーケットのスノードーム, ドイツ (© George Pachantouris/Getty Images)*
+|2025-12-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WiltshireDawn_JA-JP8756136772_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WiltshireDawn_JA-JP8756136772_UHD.jpg)|
+||*Copyright: ソールズベリー大聖堂, イングランド (© Julian Elliott Photography/Getty Images)*
 ||
 |||
 |2025-12-25|**Region: en-IN**||
