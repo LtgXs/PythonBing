@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:33:54] Picture infomations saved to  global/fr-CA/README.md
 [09:33:54] Picture infomations saved to global/fr-CA/history/2025/12/27_fr-CA.md
 Program exit at 09:33:54
+
+Program started at 16:16:41
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmh13bl
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:16:41] Start geting CN Bing Wallpaper
+[16:16:41] Successful get url: https://www.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg
+[16:16:41] Image saved to img/background.jpg
+[16:16:41] Info saved to README.md
+[16:16:41] Image saved to history/2025/12/27.md
+[16:16:41] Start geting global Bing Wallpaper, region=en-US, local time is 2025-12-26 11:16:41.323705-05:00
+[16:16:41] Successful get url: https://www.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg
+[16:16:41] Picture infomations saved to  global/en-US/README.md
+[16:16:41] Picture infomations saved to global/en-US/history/2025/12/27_en-US.md
+[16:16:41] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-12-27 01:16:41.461900+09:00
+[16:16:41] Successful get url: https://www.bing.com/th?id=OHR.SuperiorIceMN_JA-JP0628295807_UHD.jpg
+[16:16:41] Picture infomations saved to  global/ja-JP/README.md
+[16:16:41] Picture infomations saved to global/ja-JP/history/2025/12/27_ja-JP.md
+[16:16:41] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-12-26 21:46:41.595586+05:30
+[16:16:41] Successful get url: https://www.bing.com/th?id=OHR.WiltshireDawn_EN-IN8926452812_UHD.jpg
+[16:16:41] Picture infomations saved to  global/en-IN/README.md
+[16:16:41] Picture infomations saved to global/en-IN/history/2025/12/26_en-IN.md
+[16:16:41] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-12-26 13:16:41.726752-03:00
+[16:16:41] Successful get url: https://www.bing.com/th?id=OHR.WiltshireDawn_PT-BR7681463999_UHD.jpg
+[16:16:41] Picture infomations saved to  global/pt-BR/README.md
+[16:16:41] Picture infomations saved to global/pt-BR/history/2025/12/27_pt-BR.md
+[16:16:41] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-12-26 17:16:41.941273+01:00
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.NuukGreenland_FR-FR4321343444_UHD.jpg
+[16:16:42] Picture infomations saved to  global/fr-FR/README.md
+[16:16:42] Picture infomations saved to global/fr-FR/history/2025/12/26_fr-FR.md
+[16:16:42] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-12-26 17:16:42.134645+01:00
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.WiltshireDawn_DE-DE2989262973_UHD.jpg
+[16:16:42] Picture infomations saved to  global/de-DE/README.md
+[16:16:42] Picture infomations saved to global/de-DE/history/2025/12/26_de-DE.md
+[16:16:42] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-12-26 11:16:42.298103-05:00
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.WiltshireDawn_EN-CA2897648825_UHD.jpg
+[16:16:42] Picture infomations saved to  global/en-CA/README.md
+[16:16:42] Picture infomations saved to global/en-CA/history/2025/12/27_en-CA.md
+[16:16:42] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-12-26 16:16:42.441149+00:00
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.WiltshireDawn_EN-GB7071939829_UHD.jpg
+[16:16:42] Picture infomations saved to  global/en-GB/README.md
+[16:16:42] Picture infomations saved to global/en-GB/history/2025/12/27_en-GB.md
+[16:16:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-12-26 17:16:42.632933+01:00
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.WiltshireDawn_IT-IT1269440144_UHD.jpg
+[16:16:42] Picture infomations saved to  global/it-IT/README.md
+[16:16:42] Picture infomations saved to global/it-IT/history/2025/12/26_it-IT.md
+[16:16:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-12-26 17:16:42.764790+01:00
+[16:16:42] Successful get url: https://www.bing.com/th?id=OHR.WiltshireDawn_ES-ES4611953486_UHD.jpg
+[16:16:42] Picture infomations saved to  global/es-ES/README.md
+[16:16:42] Picture infomations saved to global/es-ES/history/2025/12/26_es-ES.md
+[16:16:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-12-26 11:16:42.970547-05:00
+[16:16:43] Successful get url: https://www.bing.com/th?id=OHR.WiltshireDawn_FR-CA4133487819_UHD.jpg
+[16:16:43] Picture infomations saved to  global/fr-CA/README.md
+[16:16:43] Picture infomations saved to global/fr-CA/history/2025/12/27_fr-CA.md
+Program exit at 16:16:43

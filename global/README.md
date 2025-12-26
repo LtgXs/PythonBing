@@ -6,9 +6,9 @@
 ||*Copyright: Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)*
 ||
 |||
-|2025-12-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WiltshireDawn_JA-JP8756136772_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WiltshireDawn_JA-JP8756136772_UHD.jpg)|
-||*Copyright: ソールズベリー大聖堂, イングランド (© Julian Elliott Photography/Getty Images)*
+|2025-12-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SuperiorIceMN_JA-JP0628295807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuperiorIceMN_JA-JP0628295807_UHD.jpg)|
+||*Copyright: 凍結するスペリオル湖, 米国 ミネソタ州 (© wanderluster/Getty Images)*
 ||
 |||
 |2025-12-26|**Region: en-IN**||
