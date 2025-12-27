@@ -6,9 +6,9 @@
 ||*Copyright: Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)*
 ||
 |||
-|2025-12-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SuperiorIceMN_JA-JP0628295807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuperiorIceMN_JA-JP0628295807_UHD.jpg)|
-||*Copyright: 凍結するスペリオル湖, 米国 ミネソタ州 (© wanderluster/Getty Images)*
+|2025-12-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263_UHD.jpg)|
+||*Copyright: アルザス地域圏の森, フランス (© alekseystemmer/Getty Images)*
 ||
 |||
 |2025-12-27|**Region: en-IN**||
