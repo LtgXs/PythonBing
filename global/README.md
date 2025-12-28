@@ -6,9 +6,9 @@
 ||*Copyright: Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)*
 ||
 |||
-|2025-12-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263_UHD.jpg)|
-||*Copyright: アルザス地域圏の森, フランス (© alekseystemmer/Getty Images)*
+|2025-12-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AniTurkey_JA-JP3058730246_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AniTurkey_JA-JP3058730246_UHD.jpg)|
+||*Copyright: アブガムレンツ聖グリゴル教会, トルコ (© Kenan Talas/Getty Images)*
 ||
 |||
 |2025-12-28|**Region: en-IN**||
