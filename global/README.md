@@ -6,9 +6,9 @@
 ||*Copyright: St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)*
 ||
 |||
-|2025-12-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AniTurkey_JA-JP3058730246_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AniTurkey_JA-JP3058730246_UHD.jpg)|
-||*Copyright: アブガムレンツ聖グリゴル教会, トルコ (© Kenan Talas/Getty Images)*
+|2025-12-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.JapanSwans_JA-JP3625883145_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapanSwans_JA-JP3625883145_UHD.jpg)|
+||*Copyright: 古徳沼, 茨城県 那珂市 (© Martin Bailey/Shutterstock)*
 ||
 |||
 |2025-12-29|**Region: en-IN**||

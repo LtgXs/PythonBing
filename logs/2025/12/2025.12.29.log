@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:43:19] Picture infomations saved to  global/fr-CA/README.md
 [09:43:19] Picture infomations saved to global/fr-CA/history/2025/12/30_fr-CA.md
 Program exit at 09:43:19
+
+Program started at 16:18:05
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmh13bl
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:18:05] Start geting CN Bing Wallpaper
+[16:18:05] Successful get url: https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg
+[16:18:06] Image saved to img/background.jpg
+[16:18:06] Info saved to README.md
+[16:18:06] Image saved to history/2025/12/30.md
+[16:18:06] Start geting global Bing Wallpaper, region=en-US, local time is 2025-12-29 11:18:06.260081-05:00
+[16:18:06] Successful get url: https://www.bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg
+[16:18:06] Picture infomations saved to  global/en-US/README.md
+[16:18:06] Picture infomations saved to global/en-US/history/2025/12/30_en-US.md
+[16:18:06] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-12-30 01:18:06.389459+09:00
+[16:18:06] Successful get url: https://www.bing.com/th?id=OHR.JapanSwans_JA-JP3625883145_UHD.jpg
+[16:18:06] Picture infomations saved to  global/ja-JP/README.md
+[16:18:06] Picture infomations saved to global/ja-JP/history/2025/12/30_ja-JP.md
+[16:18:06] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-12-29 21:48:06.598035+05:30
+[16:18:06] Successful get url: https://www.bing.com/th?id=OHR.AniTurkey_EN-IN9670620964_UHD.jpg
+[16:18:06] Picture infomations saved to  global/en-IN/README.md
+[16:18:06] Picture infomations saved to global/en-IN/history/2025/12/29_en-IN.md
+[16:18:06] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-12-29 13:18:06.858012-03:00
+[16:18:06] Successful get url: https://www.bing.com/th?id=OHR.AniTurkey_PT-BR7063147187_UHD.jpg
+[16:18:07] Picture infomations saved to  global/pt-BR/README.md
+[16:18:07] Picture infomations saved to global/pt-BR/history/2025/12/30_pt-BR.md
+[16:18:07] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-12-29 17:18:07.272937+01:00
+[16:18:07] Successful get url: https://www.bing.com/th?id=OHR.AniTurkey_FR-FR6681755589_UHD.jpg
+[16:18:07] Picture infomations saved to  global/fr-FR/README.md
+[16:18:07] Picture infomations saved to global/fr-FR/history/2025/12/29_fr-FR.md
+[16:18:07] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-12-29 17:18:07.407032+01:00
+[16:18:07] Successful get url: https://www.bing.com/th?id=OHR.SkijumpingEisenbichler_DE-DE4421399020_UHD.jpg
+[16:18:07] Picture infomations saved to  global/de-DE/README.md
+[16:18:07] Picture infomations saved to global/de-DE/history/2025/12/29_de-DE.md
+[16:18:07] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-12-29 11:18:07.673478-05:00
+[16:18:07] Successful get url: https://www.bing.com/th?id=OHR.AniTurkey_EN-CA0360895261_UHD.jpg
+[16:18:07] Picture infomations saved to  global/en-CA/README.md
+[16:18:07] Picture infomations saved to global/en-CA/history/2025/12/30_en-CA.md
+[16:18:07] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-12-29 16:18:08.006848+00:00
+[16:18:08] Successful get url: https://www.bing.com/th?id=OHR.AniTurkey_EN-GB1808269342_UHD.jpg
+[16:18:08] Picture infomations saved to  global/en-GB/README.md
+[16:18:08] Picture infomations saved to global/en-GB/history/2025/12/30_en-GB.md
+[16:18:08] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-12-29 17:18:08.182718+01:00
+[16:18:08] Successful get url: https://www.bing.com/th?id=OHR.AniTurkey_IT-IT1549681594_UHD.jpg
+[16:18:08] Picture infomations saved to  global/it-IT/README.md
+[16:18:08] Picture infomations saved to global/it-IT/history/2025/12/29_it-IT.md
+[16:18:08] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-12-29 17:18:08.500298+01:00
+[16:18:08] Successful get url: https://www.bing.com/th?id=OHR.AniTurkey_ES-ES0462839984_UHD.jpg
+[16:18:08] Picture infomations saved to  global/es-ES/README.md
+[16:18:08] Picture infomations saved to global/es-ES/history/2025/12/29_es-ES.md
+[16:18:08] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-12-29 11:18:08.778525-05:00
+[16:18:08] Successful get url: https://www.bing.com/th?id=OHR.AniTurkey_FR-CA5270776968_UHD.jpg
+[16:18:09] Picture infomations saved to  global/fr-CA/README.md
+[16:18:09] Picture infomations saved to global/fr-CA/history/2025/12/30_fr-CA.md
+Program exit at 16:18:09
