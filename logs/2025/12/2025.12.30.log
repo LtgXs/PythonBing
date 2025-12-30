@@ -1,0 +1,60 @@
+
+Program started at 09:36:53
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmh13bl
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:36:53] Start geting CN Bing Wallpaper
+[09:36:53] Successful get url: https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg
+[09:36:53] Image saved to img/background.jpg
+[09:36:53] Info saved to README.md
+[09:36:53] Image saved to history/2025/12/30.md
+[09:36:53] Start geting global Bing Wallpaper, region=en-US, local time is 2025-12-30 04:36:53.709513-05:00
+[09:36:53] Successful get url: https://www.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg
+[09:36:53] Picture infomations saved to  global/en-US/README.md
+[09:36:53] Picture infomations saved to global/en-US/history/2025/12/31_en-US.md
+[09:36:53] Start geting global Bing Wallpaper, region=ja-JP, local time is 2025-12-30 18:36:53.871840+09:00
+[09:36:53] Successful get url: https://www.bing.com/th?id=OHR.JapanSwans_JA-JP3625883145_UHD.jpg
+[09:36:54] Picture infomations saved to  global/ja-JP/README.md
+[09:36:54] Picture infomations saved to global/ja-JP/history/2025/12/30_ja-JP.md
+[09:36:54] Start geting global Bing Wallpaper, region=en-IN, local time is 2025-12-30 15:06:54.056977+05:30
+[09:36:54] Successful get url: https://www.bing.com/th?id=OHR.JapanSwans_EN-IN9853925542_UHD.jpg
+[09:36:54] Picture infomations saved to  global/en-IN/README.md
+[09:36:54] Picture infomations saved to global/en-IN/history/2025/12/30_en-IN.md
+[09:36:54] Start geting global Bing Wallpaper, region=pt-BR, local time is 2025-12-30 06:36:54.211150-03:00
+[09:36:54] Successful get url: https://www.bing.com/th?id=OHR.JapanSwans_PT-BR6213616732_UHD.jpg
+[09:36:54] Picture infomations saved to  global/pt-BR/README.md
+[09:36:54] Picture infomations saved to global/pt-BR/history/2025/12/31_pt-BR.md
+[09:36:54] Start geting global Bing Wallpaper, region=fr-FR, local time is 2025-12-30 10:36:54.355450+01:00
+[09:36:54] Successful get url: https://www.bing.com/th?id=OHR.JapanSwans_FR-FR9912215229_UHD.jpg
+[09:36:54] Picture infomations saved to  global/fr-FR/README.md
+[09:36:54] Picture infomations saved to global/fr-FR/history/2025/12/30_fr-FR.md
+[09:36:54] Start geting global Bing Wallpaper, region=de-DE, local time is 2025-12-30 10:36:54.513306+01:00
+[09:36:54] Successful get url: https://www.bing.com/th?id=OHR.JapanSwans_DE-DE3934541892_UHD.jpg
+[09:36:54] Picture infomations saved to  global/de-DE/README.md
+[09:36:54] Picture infomations saved to global/de-DE/history/2025/12/30_de-DE.md
+[09:36:54] Start geting global Bing Wallpaper, region=en-CA, local time is 2025-12-30 04:36:54.681435-05:00
+[09:36:54] Successful get url: https://www.bing.com/th?id=OHR.JapanSwans_EN-CA0491937119_UHD.jpg
+[09:36:54] Picture infomations saved to  global/en-CA/README.md
+[09:36:54] Picture infomations saved to global/en-CA/history/2025/12/31_en-CA.md
+[09:36:54] Start geting global Bing Wallpaper, region=en-GB, local time is 2025-12-30 09:36:54.837417+00:00
+[09:36:54] Successful get url: https://www.bing.com/th?id=OHR.JapanSwans_EN-GB2256410683_UHD.jpg
+[09:36:54] Picture infomations saved to  global/en-GB/README.md
+[09:36:55] Picture infomations saved to global/en-GB/history/2025/12/31_en-GB.md
+[09:36:55] Start geting global Bing Wallpaper, region=it-IT, local time is 2025-12-30 10:36:55.000649+01:00
+[09:36:55] Successful get url: https://www.bing.com/th?id=OHR.JapanSwans_IT-IT1972442165_UHD.jpg
+[09:36:55] Picture infomations saved to  global/it-IT/README.md
+[09:36:55] Picture infomations saved to global/it-IT/history/2025/12/30_it-IT.md
+[09:36:55] Start geting global Bing Wallpaper, region=es-ES, local time is 2025-12-30 10:36:55.148661+01:00
+[09:36:55] Successful get url: https://www.bing.com/th?id=OHR.JapanSwans_ES-ES6742186728_UHD.jpg
+[09:36:55] Picture infomations saved to  global/es-ES/README.md
+[09:36:55] Picture infomations saved to global/es-ES/history/2025/12/30_es-ES.md
+[09:36:55] Start geting global Bing Wallpaper, region=fr-CA, local time is 2025-12-30 04:36:55.364493-05:00
+[09:36:55] Successful get url: https://www.bing.com/th?id=OHR.JapanSwans_FR-CA7816512244_UHD.jpg
+[09:36:55] Picture infomations saved to  global/fr-CA/README.md
+[09:36:55] Picture infomations saved to global/fr-CA/history/2025/12/31_fr-CA.md
+Program exit at 09:36:55
