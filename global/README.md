@@ -6,9 +6,9 @@
 ||*Copyright: New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)*
 ||
 |||
-|2025-12-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Omisoka2026_JA-JP3799587419_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Omisoka2026_JA-JP3799587419_UHD.jpg)|
-||*Copyright: 輪王寺の梵鐘, 宮城県 仙台市 (© Grandbrothers/Alamy)*
+|2026-01-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_UHD.jpg)|
+||*Copyright: えびす岩・大黒岩, 北海道 (© Ambling Images/Alamy)*
 ||
 |||
 |2025-12-31|**Region: en-IN**||
