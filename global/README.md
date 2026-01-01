@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-01-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg)|
-||*Copyright: New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)*
+|2026-01-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg)|
+||*Copyright: Arctic fox sleeping (© Chansak Joe/Getty Images)*
 ||
 |||
 |2026-01-01|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: えびす岩・大黒岩, 北海道 (© Ambling Images/Alamy)*
 ||
 |||
-|2025-12-31|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GermanyNewYear_EN-IN0096135546_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GermanyNewYear_EN-IN0096135546_UHD.jpg)|
-||*Copyright: New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)*
+|2026-01-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.NewYearFox_EN-IN0228812911_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_EN-IN0228812911_UHD.jpg)|
+||*Copyright: Arctic fox sleeping (© Chansak Joe/Getty Images)*
 ||
 |||
-|2026-01-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_UHD.jpg)|
-||*Copyright: Fogos de artifício na praia de Copacabana, Rio de Janeiro (© BrasilNut1/Getty Images)*
+|2026-01-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.NewYearFox_PT-BR5772637703_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_PT-BR5772637703_UHD.jpg)|
+||*Copyright: Raposa-do-ártico dormindo (© Chansak Joe/Getty Images)*
 ||
 |||
-|2025-12-31|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_UHD.jpg)|
-||*Copyright: Le nouvel an à Paris, France (© Kiran Ridley/Getty Images)*
+|2026-01-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_UHD.jpg)|
+||*Copyright: Un renard polaire endormi (© Chansak Joe/Getty Images)*
 ||
 |||
-|2025-12-31|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GermanyNewYear_DE-DE8479244811_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GermanyNewYear_DE-DE8479244811_UHD.jpg)|
-||*Copyright: Silvester, Oberbaumbrücke, Berlin (© spreephoto.de/Getty Images)*
+|2026-01-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_UHD.jpg)|
+||*Copyright: Frostbedeckte Bäume entlang des Flusses Loisach, Kochelsee, Bayern (© Malorny/Getty Images)*
 ||
 |||
-|2026-01-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.NYEToronto_EN-CA2554609222_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NYEToronto_EN-CA2554609222_UHD.jpg)|
-||*Copyright: New Year's Eve fireworks in Toronto (© LeoPatrizi/Getty Images)*
+|2026-01-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.NewYearFox_EN-CA1770167062_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_EN-CA1770167062_UHD.jpg)|
+||*Copyright: Arctic fox sleeping (© Chansak Joe/Getty Images)*
 ||
 |||
-|2026-01-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227_UHD.jpg)|
-||*Copyright: National Monument of Scotland, Edinburgh (© Serge_Bertasius/iStock/Getty Images)*
+|2026-01-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.NewYearFox_EN-GB6138913529_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_EN-GB6138913529_UHD.jpg)|
+||*Copyright: Arctic fox sleeping (© Chansak Joe/Getty Images)*
 ||
 |||
-|2025-12-31|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AnnoNuovo_IT-IT2133696487_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnnoNuovo_IT-IT2133696487_UHD.jpg)|
-||*Copyright: Capodanno, Venezia (© Marco Secchi/Collaboratore/Getty Images News)*
+|2026-01-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427_UHD.jpg)|
+||*Copyright: Volpe artica che dorme (© Chansak Joe/Getty Images)*
 ||
 |||
-|2025-12-31|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.NewYearES_ES-ES0875645687_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearES_ES-ES0875645687_UHD.jpg)|
-||*Copyright: Reloj de la Puerta del Sol antes de Nochevieja, Madrid (© Pablo Blazquez Dominguez/Getty Images)*
+|2026-01-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.NewYearFox_ES-ES1089834689_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_ES-ES1089834689_UHD.jpg)|
+||*Copyright: Zorro ártico durmiendo (© Chansak Joe/Getty Images)*
 ||
 |||
-|2026-01-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.NYEToronto_FR-CA8052443144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NYEToronto_FR-CA8052443144_UHD.jpg)|
-||*Copyright: Feux d’artifice du nouvel an à Toronto (© LeoPatrizi/Getty Images)*
+|2026-01-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.NewYearFox_FR-CA8773623003_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_FR-CA8773623003_UHD.jpg)|
+||*Copyright: Un renard polaire endormi (© Chansak Joe/Getty Images)*
 ||
 |||
 

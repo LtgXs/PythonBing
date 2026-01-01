@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-01-01
+## History Bing Wallpaper
+Wallpaper date: 2026-01-01
 ![](https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427_UHD.jpg&w=1000)Download: [Volpe artica che dorme (© Chansak Joe/Getty Images)](https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427_UHD.jpg)
 
 Auto get programm by LtgX
