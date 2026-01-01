@@ -6,9 +6,9 @@
 ||*Copyright: Arctic fox sleeping (© Chansak Joe/Getty Images)*
 ||
 |||
-|2026-01-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_UHD.jpg)|
-||*Copyright: えびす岩・大黒岩, 北海道 (© Ambling Images/Alamy)*
+|2026-01-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_UHD.jpg)|
+||*Copyright: ヴェネツィア, イタリア (© Clement Leonard/Getty Images)*
 ||
 |||
 |2026-01-01|**Region: en-IN**||
