@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-01-02|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg)|
-||*Copyright: Arctic fox sleeping (© Chansak Joe/Getty Images)*
+|2026-01-03|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg)|
+||*Copyright: Aerial view of Venice, Italy (© Clement Leonard/Getty Images)*
 ||
 |||
 |2026-01-02|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ヴェネツィア, イタリア (© Clement Leonard/Getty Images)*
 ||
 |||
-|2026-01-01|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.NewYearFox_EN-IN0228812911_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_EN-IN0228812911_UHD.jpg)|
-||*Copyright: Arctic fox sleeping (© Chansak Joe/Getty Images)*
+|2026-01-02|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.VeniceView_EN-IN1223901248_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceView_EN-IN1223901248_UHD.jpg)|
+||*Copyright: Aerial view of Venice, Italy (© Clement Leonard/Getty Images)*
 ||
 |||
-|2026-01-02|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.NewYearFox_PT-BR5772637703_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_PT-BR5772637703_UHD.jpg)|
-||*Copyright: Raposa-do-ártico dormindo (© Chansak Joe/Getty Images)*
+|2026-01-03|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.VeniceView_PT-BR5561968411_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceView_PT-BR5561968411_UHD.jpg)|
+||*Copyright: Vista aérea de Veneza, Itália (© Clement Leonard/Getty Images)*
 ||
 |||
-|2026-01-01|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_UHD.jpg)|
-||*Copyright: Un renard polaire endormi (© Chansak Joe/Getty Images)*
+|2026-01-02|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.VeniceView_FR-FR1991720752_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceView_FR-FR1991720752_UHD.jpg)|
+||*Copyright: Vue aérienne de Venise, Italie (© Clement Leonard/Getty Images)*
 ||
 |||
-|2026-01-01|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_UHD.jpg)|
-||*Copyright: Frostbedeckte Bäume entlang des Flusses Loisach, Kochelsee, Bayern (© Malorny/Getty Images)*
+|2026-01-02|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211_UHD.jpg)|
+||*Copyright: Luftaufnahme von Venedig, Italien (© Clement Leonard/Getty Images)*
 ||
 |||
-|2026-01-02|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.NewYearFox_EN-CA1770167062_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_EN-CA1770167062_UHD.jpg)|
-||*Copyright: Arctic fox sleeping (© Chansak Joe/Getty Images)*
+|2026-01-03|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.VeniceView_EN-CA3561004758_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceView_EN-CA3561004758_UHD.jpg)|
+||*Copyright: Aerial view of Venice, Italy (© Clement Leonard/Getty Images)*
 ||
 |||
-|2026-01-02|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.NewYearFox_EN-GB6138913529_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_EN-GB6138913529_UHD.jpg)|
-||*Copyright: Arctic fox sleeping (© Chansak Joe/Getty Images)*
+|2026-01-03|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.VeniceView_EN-GB4183487465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceView_EN-GB4183487465_UHD.jpg)|
+||*Copyright: Aerial view of Venice, Italy (© Clement Leonard/Getty Images)*
 ||
 |||
-|2026-01-01|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427_UHD.jpg)|
-||*Copyright: Volpe artica che dorme (© Chansak Joe/Getty Images)*
+|2026-01-02|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ImpalaRooibok_IT-IT2418246080_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ImpalaRooibok_IT-IT2418246080_UHD.jpg)|
+||*Copyright: Branco di impala, Riserva naturale di Londolozi, Sudafrica (© Mint Images/Getty Images)*
 ||
 |||
-|2026-01-01|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.NewYearFox_ES-ES1089834689_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_ES-ES1089834689_UHD.jpg)|
-||*Copyright: Zorro ártico durmiendo (© Chansak Joe/Getty Images)*
+|2026-01-02|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.VeniceView_ES-ES3506593808_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceView_ES-ES3506593808_UHD.jpg)|
+||*Copyright: Vista aérea de Venecia, Véneto, Italia (© Clement Leonard/Getty Images)*
 ||
 |||
-|2026-01-02|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.NewYearFox_FR-CA8773623003_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NewYearFox_FR-CA8773623003_UHD.jpg)|
-||*Copyright: Un renard polaire endormi (© Chansak Joe/Getty Images)*
+|2026-01-03|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.VeniceView_FR-CA2042016307_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceView_FR-CA2042016307_UHD.jpg)|
+||*Copyright: Vue aérienne de Venise, Italie (© Clement Leonard/Getty Images)*
 ||
 |||
 
