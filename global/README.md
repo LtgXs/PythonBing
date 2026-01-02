@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of Venice, Italy (© Clement Leonard/Getty Images)*
 ||
 |||
-|2026-01-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_UHD.jpg)|
-||*Copyright: ヴェネツィア, イタリア (© Clement Leonard/Getty Images)*
+|2026-01-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_JA-JP5166517859_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LauterbrunnenValley_JA-JP5166517859_UHD.jpg)|
+||*Copyright: ラウターブルンネン, スイス (© pongnathee kluaythong/Getty Images)*
 ||
 |||
 |2026-01-02|**Region: en-IN**||
