@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-01-04|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg)|
-||*Copyright: Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)*
+|2026-01-05|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg)|
+||*Copyright: Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
 |2026-01-04|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: キングスマウンテン, 米国 アラスカ州 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-IN1404704660_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-IN1404704660_UHD.jpg)|
-||*Copyright: Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)*
+|2026-01-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KingMountain_EN-IN1538941339_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingMountain_EN-IN1538941339_UHD.jpg)|
+||*Copyright: Kings Mountain, Chugach Mountains, Alaska, United States (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-04|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_PT-BR5257129794_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LauterbrunnenValley_PT-BR5257129794_UHD.jpg)|
-||*Copyright: Catarata de Staubbach em Lauterbrunnen, Cantão de Berna, Suíça (© pongnathee kluaythong/Getty Images)*
+|2026-01-05|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.KingMountain_PT-BR9875785873_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingMountain_PT-BR9875785873_UHD.jpg)|
+||*Copyright: Kings Mountain, Montes Chugach, Alasca, EUA  (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-03|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-FR3708152476_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-FR3708152476_UHD.jpg)|
-||*Copyright: Chute de Staubbach à Lauterbrunnen, canton de Berne, Suisse (© pongnathee kluaythong/Getty Images)*
+|2026-01-04|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_UHD.jpg)|
+||*Copyright: Mont Kings, montagnes Chugach, Alaska, États-Unis (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-03|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_DE-DE9271807830_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LauterbrunnenValley_DE-DE9271807830_UHD.jpg)|
-||*Copyright: Staubbachfälle in Lauterbrunnen, Kanton Bern, Schweiz (© pongnathee kluaythong/Getty Images)*
+|2026-01-04|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.KingMountain_DE-DE9482861580_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingMountain_DE-DE9482861580_UHD.jpg)|
+||*Copyright: Kings Mountain, Chugach Mountains, Alaska, USA (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-04|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-CA6661114892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-CA6661114892_UHD.jpg)|
-||*Copyright: Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)*
+|2026-01-05|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.KingMountain_EN-CA4077888886_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingMountain_EN-CA4077888886_UHD.jpg)|
+||*Copyright: Kings Mountain, Chugach Mountains, Alaska, United States (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-GB6435045286_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-GB6435045286_UHD.jpg)|
-||*Copyright: Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)*
+|2026-01-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.KingMountain_EN-GB6606181740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingMountain_EN-GB6606181740_UHD.jpg)|
+||*Copyright: Kings Mountain, Chugach Mountains, Alaska, United States (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-03|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_IT-IT1107060773_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LauterbrunnenValley_IT-IT1107060773_UHD.jpg)|
-||*Copyright: Cascata di Staubbach a Lauterbrunnen, Cantone di Berna, Svizzera (© pongnathee kluaythong/Getty Images)*
+|2026-01-04|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.KingMountain_IT-IT1181015259_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingMountain_IT-IT1181015259_UHD.jpg)|
+||*Copyright: Kings Mountain, Montagne Chugach, Alaska, USA (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-03|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ES-ES2371150020_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ES-ES2371150020_UHD.jpg)|
-||*Copyright: Cascadas de Staubbach en Lauterbrunnen, cantón de Berna, Suiza (© pongnathee kluaythong/Getty Images)*
+|2026-01-04|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.KingMountain_ES-ES2537706712_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingMountain_ES-ES2537706712_UHD.jpg)|
+||*Copyright: Kings Mountain, cordillera Chugach, Alaska, EE. UU. (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-04|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-CA9163124101_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-CA9163124101_UHD.jpg)|
-||*Copyright: Chute de Staubbach à Lauterbrunnen, canton de Berne, Suisse (© pongnathee kluaythong/Getty Images)*
+|2026-01-05|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.KingMountain_FR-CA8588334566_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingMountain_FR-CA8588334566_UHD.jpg)|
+||*Copyright: Mont Kings, montagnes Chugach, Alaska, États-Unis (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
 
