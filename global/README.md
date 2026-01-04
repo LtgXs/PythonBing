@@ -6,9 +6,9 @@
 ||*Copyright: Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KingMountain_JA-JP5338011772_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KingMountain_JA-JP5338011772_UHD.jpg)|
-||*Copyright: キングスマウンテン, 米国 アラスカ州 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)*
+|2026-01-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ImpalaRooibok_JA-JP8577579873_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ImpalaRooibok_JA-JP8577579873_UHD.jpg)|
+||*Copyright: ロンドロジ私営動物保護区, 南アフリカ (© Mint Images/Getty Images)*
 ||
 |||
 |2026-01-04|**Region: en-IN**||
