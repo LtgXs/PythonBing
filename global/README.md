@@ -6,9 +6,9 @@
 ||*Copyright: A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)*
 ||
 |||
-|2026-01-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ImpalaRooibok_JA-JP8577579873_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ImpalaRooibok_JA-JP8577579873_UHD.jpg)|
-||*Copyright: ロンドロジ私営動物保護区, 南アフリカ (© Mint Images/Getty Images)*
+|2026-01-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352_UHD.jpg)|
+||*Copyright: ヌーク, デンマーク (© nevereverro/Getty Images)*
 ||
 |||
 |2026-01-05|**Region: en-IN**||
