@@ -6,9 +6,9 @@
 ||*Copyright: Nuuk, Greenland (© nevereverro/Getty Images)*
 ||
 |||
-|2026-01-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352_UHD.jpg)|
-||*Copyright: ヌーク, デンマーク (© nevereverro/Getty Images)*
+|2026-01-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OldRockArch_JA-JP5889672492_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_JA-JP5889672492_UHD.jpg)|
+||*Copyright: アーチーズ国立公園, 米国 ユタ州 (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
 |2026-01-06|**Region: en-IN**||
