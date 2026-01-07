@@ -6,9 +6,9 @@
 ||*Copyright: Turret Arch framed by North Window in Arches National Park, Utah (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OldRockArch_JA-JP5889672492_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_JA-JP5889672492_UHD.jpg)|
-||*Copyright: アーチーズ国立公園, 米国 ユタ州 (© Jim Patterson/TANDEM Stills + Motion)*
+|2026-01-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_JA-JP6092282753_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_JA-JP6092282753_UHD.jpg)|
+||*Copyright: ウェスト・ピア, イギリス (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
 |2026-01-07|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2026-01-07|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT3144069771_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT3144069771_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT4777755103_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT4777755103_UHD.jpg)|
 ||*Copyright: Arco Turret, North Window, Arches National Park, Utah, USA (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
