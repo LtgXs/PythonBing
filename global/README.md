@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-01-07|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg)|
-||*Copyright: Nuuk, Greenland (© nevereverro/Getty Images)*
+|2026-01-08|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg)|
+||*Copyright: Turret Arch framed by North Window in Arches National Park, Utah (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
 |2026-01-07|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アーチーズ国立公園, 米国 ユタ州 (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-06|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.NuukGreenland_EN-IN2229697854_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuukGreenland_EN-IN2229697854_UHD.jpg)|
-||*Copyright: Nuuk, Greenland (© nevereverro/Getty Images)*
+|2026-01-07|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.OldRockArch_EN-IN2577038067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_EN-IN2577038067_UHD.jpg)|
+||*Copyright: Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-07|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.NuukGreenland_PT-BR9430819124_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuukGreenland_PT-BR9430819124_UHD.jpg)|
-||*Copyright: Nuuk, Groenlândia (© nevereverro/Getty Images)*
+|2026-01-08|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.NoronhaSunset_PT-BR9160496041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoronhaSunset_PT-BR9160496041_UHD.jpg)|
+||*Copyright: Pôr do sol em Fernando de Noronha (© Stephanie Kenner/Getty Images)*
 ||
 |||
-|2026-01-06|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_UHD.jpg)|
-||*Copyright: Château de Versailles, France (© Mistervlad/Shutterstock)*
+|2026-01-07|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.OldRockArch_FR-FR3181488413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_FR-FR3181488413_UHD.jpg)|
+||*Copyright: Arche encadrée par North Window, parc national des Arches, États-Unis (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-06|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.NuukGreenland_DE-DE1784214919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuukGreenland_DE-DE1784214919_UHD.jpg)|
-||*Copyright: Nuuk, Grönland (© nevereverro/Getty Images)*
+|2026-01-07|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.OldRockArch_DE-DE1434072687_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_DE-DE1434072687_UHD.jpg)|
+||*Copyright: Turret Arch, eingerahmt vom North Window im Arches-Nationalpark, Utah, USA (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-07|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.NuukGreenland_EN-CA9507473966_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuukGreenland_EN-CA9507473966_UHD.jpg)|
-||*Copyright: Nuuk, Greenland (© nevereverro/Getty Images)*
+|2026-01-08|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.OldRockArch_EN-CA5672779401_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_EN-CA5672779401_UHD.jpg)|
+||*Copyright: Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-07|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.NuukGreenland_EN-GB6899770664_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuukGreenland_EN-GB6899770664_UHD.jpg)|
-||*Copyright: Nuuk, Greenland (© nevereverro/Getty Images)*
+|2026-01-08|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.OldRockArch_EN-GB3921180413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_EN-GB3921180413_UHD.jpg)|
+||*Copyright: Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-06|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_UHD.jpg)|
-||*Copyright: Città Alta di Bergamo avvolta dalla nebbia, Lombardia (© Gambarini Gianandrea/Shutterstock)*
+|2026-01-07|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT3144069771_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT3144069771_UHD.jpg)|
+||*Copyright: Arco Turret, North Window, Arches National Park, Utah, USA (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-06|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ReyesMagos_ES-ES2955520279_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReyesMagos_ES-ES2955520279_UHD.jpg)|
-||*Copyright: Reyes Magos, Sevilla, Andalucía (© Carol La Rosa/ShutterStock)*
+|2026-01-07|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.OldRockArch_ES-ES3608770963_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_ES-ES3608770963_UHD.jpg)|
+||*Copyright: Arco Turret enmarcado por la Ventana Norte en el Parque Nacional de los Arcos, Utah, EE. UU. (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
-|2026-01-07|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.NuukGreenland_FR-CA9105709937_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuukGreenland_FR-CA9105709937_UHD.jpg)|
-||*Copyright: Nuuk, Groenland (© nevereverro/Getty Images)*
+|2026-01-08|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.OldRockArch_FR-CA9421085552_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_FR-CA9421085552_UHD.jpg)|
+||*Copyright: Arche encadrée par North Window, parc national des Arches, États-Unis (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
 
