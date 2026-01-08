@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-01-08|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg)|
-||*Copyright: Turret Arch framed by North Window in Arches National Park, Utah (© Jim Patterson/TANDEM Stills + Motion)*
+|2026-01-09|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg)|
+||*Copyright: Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
 |2026-01-08|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ウェスト・ピア, イギリス (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
-|2026-01-07|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.OldRockArch_EN-IN2577038067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_EN-IN2577038067_UHD.jpg)|
-||*Copyright: Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)*
+|2026-01-08|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-IN2955715491_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-IN2955715491_UHD.jpg)|
+||*Copyright: Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
-|2026-01-08|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.NoronhaSunset_PT-BR9160496041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NoronhaSunset_PT-BR9160496041_UHD.jpg)|
-||*Copyright: Pôr do sol em Fernando de Noronha (© Stephanie Kenner/Getty Images)*
+|2026-01-09|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_PT-BR8948857815_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_PT-BR8948857815_UHD.jpg)|
+||*Copyright: Revoada de esturnídeos sobre as ruínas do West Pier de Brighton, Inglaterra (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
-|2026-01-07|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.OldRockArch_FR-FR3181488413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_FR-FR3181488413_UHD.jpg)|
-||*Copyright: Arche encadrée par North Window, parc national des Arches, États-Unis (© Jim Patterson/TANDEM Stills + Motion)*
+|2026-01-08|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_FR-FR5924794368_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_FR-FR5924794368_UHD.jpg)|
+||*Copyright: Nuée d’étourneaux au-dessus des ruines de la jetée ouest de Brighton, Angleterre (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
-|2026-01-07|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.OldRockArch_DE-DE1434072687_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_DE-DE1434072687_UHD.jpg)|
-||*Copyright: Turret Arch, eingerahmt vom North Window im Arches-Nationalpark, Utah, USA (© Jim Patterson/TANDEM Stills + Motion)*
+|2026-01-08|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_DE-DE1125578660_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_DE-DE1125578660_UHD.jpg)|
+||*Copyright: Starenschwarm über den Ruinen des Westpiers in Brighton, England (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
-|2026-01-08|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.OldRockArch_EN-CA5672779401_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_EN-CA5672779401_UHD.jpg)|
-||*Copyright: Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)*
+|2026-01-09|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-CA0074131594_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-CA0074131594_UHD.jpg)|
+||*Copyright: Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
-|2026-01-08|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.OldRockArch_EN-GB3921180413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_EN-GB3921180413_UHD.jpg)|
-||*Copyright: Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)*
+|2026-01-09|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-GB7363670202_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-GB7363670202_UHD.jpg)|
+||*Copyright: Tufted titmouse perched on pine boughs, Massachusetts, United States (© Tim Laman/NPL/Minden Pictures)*
 ||
 |||
-|2026-01-07|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT4777755103_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT4777755103_UHD.jpg)|
-||*Copyright: Arco Turret, North Window, Arches National Park, Utah, USA (© Jim Patterson/TANDEM Stills + Motion)*
+|2026-01-08|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_IT-IT4386633806_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_IT-IT4386633806_UHD.jpg)|
+||*Copyright: Storni sopra le rovine del West Pier di Brighton, Inghilterra (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
-|2026-01-07|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.OldRockArch_ES-ES3608770963_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_ES-ES3608770963_UHD.jpg)|
-||*Copyright: Arco Turret enmarcado por la Ventana Norte en el Parque Nacional de los Arcos, Utah, EE. UU. (© Jim Patterson/TANDEM Stills + Motion)*
+|2026-01-08|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_ES-ES4605556261_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_ES-ES4605556261_UHD.jpg)|
+||*Copyright: Estorninos sobre las ruinas del Muelle Oeste de Brighton, Inglaterra (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
-|2026-01-08|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.OldRockArch_FR-CA9421085552_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OldRockArch_FR-CA9421085552_UHD.jpg)|
-||*Copyright: Arche encadrée par North Window, parc national des Arches, États-Unis (© Jim Patterson/TANDEM Stills + Motion)*
+|2026-01-09|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_FR-CA9592975431_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_FR-CA9592975431_UHD.jpg)|
+||*Copyright: Nuée d’étourneaux au-dessus des ruines de la jetée ouest de Brighton, Angleterre (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
 
