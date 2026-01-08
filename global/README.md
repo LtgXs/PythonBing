@@ -6,9 +6,9 @@
 ||*Copyright: Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
-|2026-01-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_JA-JP6092282753_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_JA-JP6092282753_UHD.jpg)|
-||*Copyright: ウェスト・ピア, イギリス (© Philip Reeve/Photodisc/Getty Images)*
+|2026-01-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_JA-JP8497438583_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuirWoodsMonument_JA-JP8497438583_UHD.jpg)|
+||*Copyright: ミュアウッズ国定公園, 米国 カリフォルニア州 (© photo by canderson/Getty Images)*
 ||
 |||
 |2026-01-08|**Region: en-IN**||
@@ -32,7 +32,7 @@
 ||
 |||
 |2026-01-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-CA0074131594_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-CA0074131594_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-CA7438825716_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-CA7438825716_UHD.jpg)|
 ||*Copyright: Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)*
 ||
 |||
