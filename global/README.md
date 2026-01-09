@@ -6,9 +6,9 @@
 ||*Copyright: Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)*
 ||
 |||
-|2026-01-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MuirWoodsMonument_JA-JP8497438583_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuirWoodsMonument_JA-JP8497438583_UHD.jpg)|
-||*Copyright: ミュアウッズ国定公園, 米国 カリフォルニア州 (© photo by canderson/Getty Images)*
+|2026-01-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_UHD.jpg)|
+||*Copyright: マッターホルン, アルプス山脈 (© Andy Trowbridge/naturepl.com)*
 ||
 |||
 |2026-01-09|**Region: en-IN**||

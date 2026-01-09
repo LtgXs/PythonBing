@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:40:22] Picture infomations saved to  global/fr-CA/README.md
 [09:40:22] Picture infomations saved to global/fr-CA/history/2026/01/10_fr-CA.md
 Program exit at 09:40:22
+
+Program started at 16:19:10
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmi13qx
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:19:10] Start geting CN Bing Wallpaper
+[16:19:10] Successful get url: https://www.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_UHD.jpg
+[16:19:10] Image saved to img/background.jpg
+[16:19:10] Info saved to README.md
+[16:19:10] Image saved to history/2026/01/10.md
+[16:19:10] Start geting global Bing Wallpaper, region=en-US, local time is 2026-01-09 11:19:10.540809-05:00
+[16:19:10] Successful get url: https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg
+[16:19:10] Picture infomations saved to  global/en-US/README.md
+[16:19:10] Picture infomations saved to global/en-US/history/2026/01/10_en-US.md
+[16:19:10] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-01-10 01:19:10.669606+09:00
+[16:19:10] Successful get url: https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_UHD.jpg
+[16:19:10] Picture infomations saved to  global/ja-JP/README.md
+[16:19:10] Picture infomations saved to global/ja-JP/history/2026/01/10_ja-JP.md
+[16:19:10] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-01-09 21:49:10.828742+05:30
+[16:19:10] Successful get url: https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-IN2517667625_UHD.jpg
+[16:19:10] Picture infomations saved to  global/en-IN/README.md
+[16:19:10] Picture infomations saved to global/en-IN/history/2026/01/09_en-IN.md
+[16:19:10] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-01-09 13:19:10.979273-03:00
+[16:19:11] Successful get url: https://www.bing.com/th?id=OHR.MuirWoodsMonument_PT-BR7920486787_UHD.jpg
+[16:19:11] Picture infomations saved to  global/pt-BR/README.md
+[16:19:11] Picture infomations saved to global/pt-BR/history/2026/01/10_pt-BR.md
+[16:19:11] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-01-09 17:19:11.101485+01:00
+[16:19:11] Successful get url: https://www.bing.com/th?id=OHR.CorsicaDay_FR-FR4522810421_UHD.jpg
+[16:19:11] Picture infomations saved to  global/fr-FR/README.md
+[16:19:11] Picture infomations saved to global/fr-FR/history/2026/01/09_fr-FR.md
+[16:19:11] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-01-09 17:19:11.260183+01:00
+[16:19:11] Successful get url: https://www.bing.com/th?id=OHR.LynxBavariaSnow_DE-DE0416366629_UHD.jpg
+[16:19:11] Picture infomations saved to  global/de-DE/README.md
+[16:19:11] Picture infomations saved to global/de-DE/history/2026/01/09_de-DE.md
+[16:19:11] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-01-09 11:19:11.429010-05:00
+[16:19:11] Successful get url: https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-CA8769382223_UHD.jpg
+[16:19:11] Picture infomations saved to  global/en-CA/README.md
+[16:19:11] Picture infomations saved to global/en-CA/history/2026/01/10_en-CA.md
+[16:19:11] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-01-09 16:19:11.999286+00:00
+[16:19:12] Successful get url: https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-GB2101130312_UHD.jpg
+[16:19:12] Picture infomations saved to  global/en-GB/README.md
+[16:19:12] Picture infomations saved to global/en-GB/history/2026/01/10_en-GB.md
+[16:19:12] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-01-09 17:19:12.133384+01:00
+[16:19:12] Successful get url: https://www.bing.com/th?id=OHR.MuirWoodsMonument_IT-IT0714561824_UHD.jpg
+[16:19:12] Picture infomations saved to  global/it-IT/README.md
+[16:19:12] Picture infomations saved to global/it-IT/history/2026/01/09_it-IT.md
+[16:19:12] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-01-09 17:19:12.298979+01:00
+[16:19:12] Successful get url: https://www.bing.com/th?id=OHR.NaplesBasilica_ES-ES4865830331_UHD.jpg
+[16:19:12] Picture infomations saved to  global/es-ES/README.md
+[16:19:12] Picture infomations saved to global/es-ES/history/2026/01/09_es-ES.md
+[16:19:12] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-01-09 11:19:12.530554-05:00
+[16:19:12] Successful get url: https://www.bing.com/th?id=OHR.MuirWoodsMonument_FR-CA6499888955_UHD.jpg
+[16:19:12] Picture infomations saved to  global/fr-CA/README.md
+[16:19:12] Picture infomations saved to global/fr-CA/history/2026/01/10_fr-CA.md
+Program exit at 16:19:12
