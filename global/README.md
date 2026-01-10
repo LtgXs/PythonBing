@@ -6,9 +6,9 @@
 ||*Copyright: The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)*
 ||
 |||
-|2026-01-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_UHD.jpg)|
-||*Copyright: マッターホルン, アルプス山脈 (© Andy Trowbridge/naturepl.com)*
+|2026-01-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BlueMorocco_JA-JP9617982350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueMorocco_JA-JP9617982350_UHD.jpg)|
+||*Copyright: シャウエン, モロッコ (© AnetteAndersen/Getty Images)*
 ||
 |||
 |2026-01-10|**Region: en-IN**||
