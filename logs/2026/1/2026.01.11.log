@@ -1,0 +1,60 @@
+
+Program started at 09:32:14
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmi13qx
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:32:14] Start geting CN Bing Wallpaper
+[09:32:14] Successful get url: https://www.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_UHD.jpg
+[09:32:15] Image saved to img/background.jpg
+[09:32:15] Info saved to README.md
+[09:32:15] Image saved to history/2026/01/11.md
+[09:32:15] Start geting global Bing Wallpaper, region=en-US, local time is 2026-01-11 04:32:15.067548-05:00
+[09:32:15] Successful get url: https://www.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg
+[09:32:15] Picture infomations saved to  global/en-US/README.md
+[09:32:15] Picture infomations saved to global/en-US/history/2026/01/12_en-US.md
+[09:32:15] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-01-11 18:32:15.248379+09:00
+[09:32:15] Successful get url: https://www.bing.com/th?id=OHR.BlueMorocco_JA-JP9617982350_UHD.jpg
+[09:32:15] Picture infomations saved to  global/ja-JP/README.md
+[09:32:15] Picture infomations saved to global/ja-JP/history/2026/01/11_ja-JP.md
+[09:32:15] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-01-11 15:02:15.407382+05:30
+[09:32:15] Successful get url: https://www.bing.com/th?id=OHR.BlueMorocco_EN-IN8859486933_UHD.jpg
+[09:32:15] Picture infomations saved to  global/en-IN/README.md
+[09:32:15] Picture infomations saved to global/en-IN/history/2026/01/11_en-IN.md
+[09:32:15] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-01-11 06:32:15.571213-03:00
+[09:32:15] Successful get url: https://www.bing.com/th?id=OHR.BlueMorocco_PT-BR3236946182_UHD.jpg
+[09:32:15] Picture infomations saved to  global/pt-BR/README.md
+[09:32:15] Picture infomations saved to global/pt-BR/history/2026/01/12_pt-BR.md
+[09:32:15] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-01-11 10:32:15.748117+01:00
+[09:32:15] Successful get url: https://www.bing.com/th?id=OHR.BlueMorocco_FR-FR4860652279_UHD.jpg
+[09:32:15] Picture infomations saved to  global/fr-FR/README.md
+[09:32:15] Picture infomations saved to global/fr-FR/history/2026/01/11_fr-FR.md
+[09:32:15] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-01-11 10:32:15.891345+01:00
+[09:32:15] Successful get url: https://www.bing.com/th?id=OHR.BlueMorocco_DE-DE7800774459_UHD.jpg
+[09:32:16] Picture infomations saved to  global/de-DE/README.md
+[09:32:16] Picture infomations saved to global/de-DE/history/2026/01/11_de-DE.md
+[09:32:16] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-01-11 04:32:16.041987-05:00
+[09:32:16] Successful get url: https://www.bing.com/th?id=OHR.BlueMorocco_EN-CA0359516885_UHD.jpg
+[09:32:16] Picture infomations saved to  global/en-CA/README.md
+[09:32:16] Picture infomations saved to global/en-CA/history/2026/01/12_en-CA.md
+[09:32:16] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-01-11 09:32:16.286200+00:00
+[09:32:16] Successful get url: https://www.bing.com/th?id=OHR.BlueMorocco_EN-GB1561607331_UHD.jpg
+[09:32:16] Picture infomations saved to  global/en-GB/README.md
+[09:32:16] Picture infomations saved to global/en-GB/history/2026/01/12_en-GB.md
+[09:32:16] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-01-11 10:32:16.461029+01:00
+[09:32:16] Successful get url: https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_UHD.jpg
+[09:32:16] Picture infomations saved to  global/it-IT/README.md
+[09:32:16] Picture infomations saved to global/it-IT/history/2026/01/11_it-IT.md
+[09:32:16] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-01-11 10:32:16.598752+01:00
+[09:32:16] Successful get url: https://www.bing.com/th?id=OHR.BlueMorocco_ES-ES5067762597_UHD.jpg
+[09:32:16] Picture infomations saved to  global/es-ES/README.md
+[09:32:16] Picture infomations saved to global/es-ES/history/2026/01/11_es-ES.md
+[09:32:16] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-01-11 04:32:16.761006-05:00
+[09:32:16] Successful get url: https://www.bing.com/th?id=OHR.BlueMorocco_FR-CA7024452230_UHD.jpg
+[09:32:16] Picture infomations saved to  global/fr-CA/README.md
+[09:32:16] Picture infomations saved to global/fr-CA/history/2026/01/12_fr-CA.md
+Program exit at 09:32:16
