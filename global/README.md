@@ -6,9 +6,9 @@
 ||*Copyright: Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)*
 ||
 |||
-|2026-01-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BlueMorocco_JA-JP9617982350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueMorocco_JA-JP9617982350_UHD.jpg)|
-||*Copyright: シャウエン, モロッコ (© AnetteAndersen/Getty Images)*
+|2026-01-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP1055394608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP1055394608_UHD.jpg)|
+||*Copyright: ガーラ湯沢スキー場, 新潟県 (© Metta Bunkeaw/Alamy)*
 ||
 |||
 |2026-01-11|**Region: en-IN**||
