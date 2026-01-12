@@ -6,9 +6,9 @@
 ||*Copyright: Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)*
 ||
 |||
-|2026-01-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP2908444802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP2908444802_UHD.jpg)|
-||*Copyright: ガーラ湯沢スキー場, 新潟県 (© Metta Bunkeaw/Alamy)*
+|2026-01-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WalesWinter_JA-JP9906263295_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWinter_JA-JP9906263295_UHD.jpg)|
+||*Copyright: クレイド渓谷, イギリス ウェールズ (© Valerie Blencowe/Getty Images)*
 ||
 |||
 |2026-01-12|**Region: en-IN**||

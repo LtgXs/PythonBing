@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:45:58] Picture infomations saved to  global/fr-CA/README.md
 [09:45:58] Picture infomations saved to global/fr-CA/history/2026/01/13_fr-CA.md
 Program exit at 09:45:58
+
+Program started at 16:20:18
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmi13qx
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:20:18] Start geting CN Bing Wallpaper
+[16:20:18] Successful get url: https://www.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg
+[16:20:19] Image saved to img/background.jpg
+[16:20:19] Info saved to README.md
+[16:20:19] Image saved to history/2026/01/13.md
+[16:20:19] Start geting global Bing Wallpaper, region=en-US, local time is 2026-01-12 11:20:19.170286-05:00
+[16:20:19] Successful get url: https://www.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg
+[16:20:19] Picture infomations saved to  global/en-US/README.md
+[16:20:19] Picture infomations saved to global/en-US/history/2026/01/13_en-US.md
+[16:20:19] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-01-13 01:20:19.304941+09:00
+[16:20:19] Successful get url: https://www.bing.com/th?id=OHR.WalesWinter_JA-JP9906263295_UHD.jpg
+[16:20:19] Picture infomations saved to  global/ja-JP/README.md
+[16:20:19] Picture infomations saved to global/ja-JP/history/2026/01/13_ja-JP.md
+[16:20:19] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-01-12 21:50:19.536200+05:30
+[16:20:19] Successful get url: https://www.bing.com/th?id=OHR.SnowOtters_EN-IN9025656973_UHD.jpg
+[16:20:19] Picture infomations saved to  global/en-IN/README.md
+[16:20:19] Picture infomations saved to global/en-IN/history/2026/01/12_en-IN.md
+[16:20:19] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-01-12 13:20:19.747087-03:00
+[16:20:19] Successful get url: https://www.bing.com/th?id=OHR.SnowOtters_PT-BR2784694559_UHD.jpg
+[16:20:19] Picture infomations saved to  global/pt-BR/README.md
+[16:20:19] Picture infomations saved to global/pt-BR/history/2026/01/13_pt-BR.md
+[16:20:19] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-01-12 17:20:19.884477+01:00
+[16:20:19] Successful get url: https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508_UHD.jpg
+[16:20:20] Picture infomations saved to  global/fr-FR/README.md
+[16:20:20] Picture infomations saved to global/fr-FR/history/2026/01/12_fr-FR.md
+[16:20:20] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-01-12 17:20:20.047203+01:00
+[16:20:20] Successful get url: https://www.bing.com/th?id=OHR.SnowOtters_DE-DE8031426610_UHD.jpg
+[16:20:20] Picture infomations saved to  global/de-DE/README.md
+[16:20:20] Picture infomations saved to global/de-DE/history/2026/01/12_de-DE.md
+[16:20:20] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-01-12 11:20:20.163166-05:00
+[16:20:20] Successful get url: https://www.bing.com/th?id=OHR.SnowOtters_EN-CA1225711176_UHD.jpg
+[16:20:20] Picture infomations saved to  global/en-CA/README.md
+[16:20:20] Picture infomations saved to global/en-CA/history/2026/01/13_en-CA.md
+[16:20:20] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-01-12 16:20:20.271785+00:00
+[16:20:20] Successful get url: https://www.bing.com/th?id=OHR.SnowOtters_EN-GB1734376903_UHD.jpg
+[16:20:20] Picture infomations saved to  global/en-GB/README.md
+[16:20:20] Picture infomations saved to global/en-GB/history/2026/01/13_en-GB.md
+[16:20:20] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-01-12 17:20:20.474722+01:00
+[16:20:20] Successful get url: https://www.bing.com/th?id=OHR.EtnaSiciliaNeve_IT-IT1228064958_UHD.jpg
+[16:20:20] Picture infomations saved to  global/it-IT/README.md
+[16:20:20] Picture infomations saved to global/it-IT/history/2026/01/12_it-IT.md
+[16:20:20] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-01-12 17:20:20.787218+01:00
+[16:20:20] Successful get url: https://www.bing.com/th?id=OHR.SnowOtters_ES-ES5291684262_UHD.jpg
+[16:20:20] Picture infomations saved to  global/es-ES/README.md
+[16:20:20] Picture infomations saved to global/es-ES/history/2026/01/12_es-ES.md
+[16:20:20] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-01-12 11:20:20.940022-05:00
+[16:20:20] Successful get url: https://www.bing.com/th?id=OHR.SnowOtters_FR-CA7154091849_UHD.jpg
+[16:20:21] Picture infomations saved to  global/fr-CA/README.md
+[16:20:21] Picture infomations saved to global/fr-CA/history/2026/01/13_fr-CA.md
+Program exit at 16:20:21
