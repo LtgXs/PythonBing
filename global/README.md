@@ -6,9 +6,9 @@
 ||*Copyright: Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)*
 ||
 |||
-|2026-01-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WalesWinter_JA-JP9906263295_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWinter_JA-JP9906263295_UHD.jpg)|
-||*Copyright: クレイド渓谷, イギリス ウェールズ (© Valerie Blencowe/Getty Images)*
+|2026-01-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PalamidiFortress_JA-JP0089449076_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalamidiFortress_JA-JP0089449076_UHD.jpg)|
+||*Copyright: パラミディ要塞, ギリシャ (© George Pachantouris/Getty Images)*
 ||
 |||
 |2026-01-13|**Region: en-IN**||
