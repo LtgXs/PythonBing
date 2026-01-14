@@ -1,0 +1,60 @@
+
+Program started at 09:41:58
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmi13qx
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:41:58] Start geting CN Bing Wallpaper
+[09:41:58] Successful get url: https://www.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_UHD.jpg
+[09:41:58] Image saved to img/background.jpg
+[09:41:58] Info saved to README.md
+[09:41:58] Image saved to history/2026/01/14.md
+[09:41:58] Start geting global Bing Wallpaper, region=en-US, local time is 2026-01-14 04:41:58.778898-05:00
+[09:41:58] Successful get url: https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg
+[09:41:58] Picture infomations saved to  global/en-US/README.md
+[09:41:58] Picture infomations saved to global/en-US/history/2026/01/15_en-US.md
+[09:41:58] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-01-14 18:41:58.923197+09:00
+[09:41:58] Successful get url: https://www.bing.com/th?id=OHR.PalamidiFortress_JA-JP0089449076_UHD.jpg
+[09:41:59] Picture infomations saved to  global/ja-JP/README.md
+[09:41:59] Picture infomations saved to global/ja-JP/history/2026/01/14_ja-JP.md
+[09:41:59] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-01-14 15:11:59.118069+05:30
+[09:41:59] Successful get url: https://www.bing.com/th?id=OHR.PalamidiFortress_EN-IN9328552930_UHD.jpg
+[09:41:59] Picture infomations saved to  global/en-IN/README.md
+[09:41:59] Picture infomations saved to global/en-IN/history/2026/01/14_en-IN.md
+[09:41:59] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-01-14 06:41:59.360784-03:00
+[09:41:59] Successful get url: https://www.bing.com/th?id=OHR.PalamidiFortress_PT-BR5746626849_UHD.jpg
+[09:42:00] Picture infomations saved to  global/pt-BR/README.md
+[09:42:00] Picture infomations saved to global/pt-BR/history/2026/01/15_pt-BR.md
+[09:42:00] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-01-14 10:42:00.404189+01:00
+[09:42:00] Successful get url: https://www.bing.com/th?id=OHR.PalamidiFortress_FR-FR5605647086_UHD.jpg
+[09:42:00] Picture infomations saved to  global/fr-FR/README.md
+[09:42:00] Picture infomations saved to global/fr-FR/history/2026/01/14_fr-FR.md
+[09:42:00] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-01-14 10:42:00.783543+01:00
+[09:42:00] Successful get url: https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485_UHD.jpg
+[09:42:00] Picture infomations saved to  global/de-DE/README.md
+[09:42:00] Picture infomations saved to global/de-DE/history/2026/01/14_de-DE.md
+[09:42:00] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-01-14 04:42:00.968896-05:00
+[09:42:01] Successful get url: https://www.bing.com/th?id=OHR.PalamidiFortress_EN-CA2999989915_UHD.jpg
+[09:42:01] Picture infomations saved to  global/en-CA/README.md
+[09:42:01] Picture infomations saved to global/en-CA/history/2026/01/15_en-CA.md
+[09:42:01] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-01-14 09:42:01.072865+00:00
+[09:42:01] Successful get url: https://www.bing.com/th?id=OHR.PalamidiFortress_EN-GB2038729302_UHD.jpg
+[09:42:01] Picture infomations saved to  global/en-GB/README.md
+[09:42:01] Picture infomations saved to global/en-GB/history/2026/01/15_en-GB.md
+[09:42:01] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-01-14 10:42:01.344125+01:00
+[09:42:01] Successful get url: https://www.bing.com/th?id=OHR.PalamidiFortress_IT-IT3360933956_UHD.jpg
+[09:42:02] Picture infomations saved to  global/it-IT/README.md
+[09:42:02] Picture infomations saved to global/it-IT/history/2026/01/14_it-IT.md
+[09:42:02] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-01-14 10:42:02.063479+01:00
+[09:42:02] Successful get url: https://www.bing.com/th?id=OHR.PalamidiFortress_ES-ES5609140401_UHD.jpg
+[09:42:02] Picture infomations saved to  global/es-ES/README.md
+[09:42:02] Picture infomations saved to global/es-ES/history/2026/01/14_es-ES.md
+[09:42:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-01-14 04:42:02.220973-05:00
+[09:42:02] Successful get url: https://www.bing.com/th?id=OHR.PalamidiFortress_FR-CA8335359960_UHD.jpg
+[09:42:02] Picture infomations saved to  global/fr-CA/README.md
+[09:42:02] Picture infomations saved to global/fr-CA/history/2026/01/15_fr-CA.md
+Program exit at 09:42:02

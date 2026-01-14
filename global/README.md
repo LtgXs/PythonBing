@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-01-14|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg)|
-||*Copyright: Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)*
+|2026-01-15|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg)|
+||*Copyright: The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)*
 ||
 |||
 |2026-01-14|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: パラミディ要塞, ギリシャ (© George Pachantouris/Getty Images)*
 ||
 |||
-|2026-01-13|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WalesWinter_EN-IN9185157435_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWinter_EN-IN9185157435_UHD.jpg)|
-||*Copyright: Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)*
+|2026-01-14|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-IN9328552930_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-IN9328552930_UHD.jpg)|
+||*Copyright: The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)*
 ||
 |||
-|2026-01-14|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.WalesWinter_PT-BR5293630006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWinter_PT-BR5293630006_UHD.jpg)|
-||*Copyright: Vale de Clwyd, País de Gales (© Valerie Blencowe/Getty Images)*
+|2026-01-15|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PalamidiFortress_PT-BR5746626849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalamidiFortress_PT-BR5746626849_UHD.jpg)|
+||*Copyright: Escadaria da Fortaleza de Palamidi, Nafplio, Grécia (© George Pachantouris/Getty Images)*
 ||
 |||
-|2026-01-13|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WalesWinter_FR-FR5382261184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWinter_FR-FR5382261184_UHD.jpg)|
-||*Copyright: Vallée de Clwyd, Pays de Galles (© Valerie Blencowe/Getty Images)*
+|2026-01-14|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PalamidiFortress_FR-FR5605647086_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalamidiFortress_FR-FR5605647086_UHD.jpg)|
+||*Copyright: Les escaliers de la forteresse de Palamède, Nafplio, Grèce (© George Pachantouris/Getty Images)*
 ||
 |||
-|2026-01-13|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WalesWinter_DE-DE8247163112_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWinter_DE-DE8247163112_UHD.jpg)|
-||*Copyright: Tal von Clwyd, Wales (© Valerie Blencowe/Getty Images)*
+|2026-01-14|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485_UHD.jpg)|
+||*Copyright: Die Treppe der Festung Palamidi, Nafplio, Griechenland (© George Pachantouris/Getty Images)*
 ||
 |||
-|2026-01-14|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WalesWinter_EN-CA2784090748_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWinter_EN-CA2784090748_UHD.jpg)|
-||*Copyright: Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)*
+|2026-01-15|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-CA2999989915_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-CA2999989915_UHD.jpg)|
+||*Copyright: The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)*
 ||
 |||
-|2026-01-14|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.WalesWinter_EN-GB1888088613_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWinter_EN-GB1888088613_UHD.jpg)|
-||*Copyright: Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)*
+|2026-01-15|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-GB2038729302_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-GB2038729302_UHD.jpg)|
+||*Copyright: The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)*
 ||
 |||
-|2026-01-13|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WalesWinter_IT-IT9889506987_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWinter_IT-IT9889506987_UHD.jpg)|
-||*Copyright: Valle del Clwyd, Galles (© Valerie Blencowe/Getty Images)*
+|2026-01-14|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PalamidiFortress_IT-IT3360933956_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalamidiFortress_IT-IT3360933956_UHD.jpg)|
+||*Copyright: Scalinata della fortezza di Palamidi, Nauplia, Grecia (© George Pachantouris/Getty Images)*
 ||
 |||
-|2026-01-13|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.WalesWinter_ES-ES5513593147_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWinter_ES-ES5513593147_UHD.jpg)|
-||*Copyright: Valle de Clwyd, Gales, Reino Unido (© Valerie Blencowe/Getty Images)*
+|2026-01-14|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PalamidiFortress_ES-ES5609140401_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalamidiFortress_ES-ES5609140401_UHD.jpg)|
+||*Copyright: Escalera de la Fortaleza de Palamidi, en Nauplia, Grecia (© George Pachantouris/Getty Images)*
 ||
 |||
-|2026-01-14|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WalesWinter_FR-CA8107586040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWinter_FR-CA8107586040_UHD.jpg)|
-||*Copyright: Vallée de Clwyd, Pays de Galles (© Valerie Blencowe/Getty Images)*
+|2026-01-15|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PalamidiFortress_FR-CA8335359960_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalamidiFortress_FR-CA8335359960_UHD.jpg)|
+||*Copyright: Les escaliers de la forteresse de Palamède, Nafplio, Grèce (© George Pachantouris/Getty Images)*
 ||
 |||
 
