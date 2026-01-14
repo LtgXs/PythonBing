@@ -6,9 +6,9 @@
 ||*Copyright: The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)*
 ||
 |||
-|2026-01-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PalamidiFortress_JA-JP0089449076_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PalamidiFortress_JA-JP0089449076_UHD.jpg)|
-||*Copyright: パラミディ要塞, ギリシャ (© George Pachantouris/Getty Images)*
+|2026-01-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ReineSunrise_JA-JP0217422028_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReineSunrise_JA-JP0217422028_UHD.jpg)|
+||*Copyright: レーヌ, ノルウェー (© Roberto Moiola/Cavan Images/SuperStock)*
 ||
 |||
 |2026-01-14|**Region: en-IN**||
