@@ -6,9 +6,9 @@
 ||*Copyright: The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)*
 ||
 |||
-|2026-01-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ReineSunrise_JA-JP0217422028_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ReineSunrise_JA-JP0217422028_UHD.jpg)|
-||*Copyright: レーヌ, ノルウェー (© Roberto Moiola/Cavan Images/SuperStock)*
+|2026-01-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SnowOtters_JA-JP0357169871_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowOtters_JA-JP0357169871_UHD.jpg)|
+||*Copyright: ユーラシアカワウソ, エストニア (© Sven Zacek/naturepl.com)*
 ||
 |||
 |2026-01-15|**Region: en-IN**||
