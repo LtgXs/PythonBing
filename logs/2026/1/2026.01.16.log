@@ -1,0 +1,60 @@
+
+Program started at 09:38:13
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmmtnos
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:38:13] Start geting CN Bing Wallpaper
+[09:38:13] Successful get url: https://www.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_UHD.jpg
+[09:38:13] Image saved to img/background.jpg
+[09:38:13] Info saved to README.md
+[09:38:13] Image saved to history/2026/01/16.md
+[09:38:13] Start geting global Bing Wallpaper, region=en-US, local time is 2026-01-16 04:38:13.446295-05:00
+[09:38:13] Successful get url: https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg
+[09:38:13] Picture infomations saved to  global/en-US/README.md
+[09:38:13] Picture infomations saved to global/en-US/history/2026/01/17_en-US.md
+[09:38:13] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-01-16 18:38:13.565567+09:00
+[09:38:13] Successful get url: https://www.bing.com/th?id=OHR.SnowOtters_JA-JP0357169871_UHD.jpg
+[09:38:13] Picture infomations saved to  global/ja-JP/README.md
+[09:38:13] Picture infomations saved to global/ja-JP/history/2026/01/16_ja-JP.md
+[09:38:13] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-01-16 15:08:13.701375+05:30
+[09:38:13] Successful get url: https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-IN9874770632_UHD.jpg
+[09:38:13] Picture infomations saved to  global/en-IN/README.md
+[09:38:13] Picture infomations saved to global/en-IN/history/2026/01/16_en-IN.md
+[09:38:13] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-01-16 06:38:13.840734-03:00
+[09:38:13] Successful get url: https://www.bing.com/th?id=OHR.EtoshaLeopard_PT-BR5495755355_UHD.jpg
+[09:38:14] Picture infomations saved to  global/pt-BR/README.md
+[09:38:14] Picture infomations saved to global/pt-BR/history/2026/01/17_pt-BR.md
+[09:38:14] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-01-16 10:38:14.013477+01:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.DeerWinter_FR-FR0583142086_UHD.jpg
+[09:38:14] Picture infomations saved to  global/fr-FR/README.md
+[09:38:14] Picture infomations saved to global/fr-FR/history/2026/01/16_fr-FR.md
+[09:38:14] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-01-16 10:38:14.147398+01:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.EtoshaLeopard_DE-DE0061843984_UHD.jpg
+[09:38:14] Picture infomations saved to  global/de-DE/README.md
+[09:38:14] Picture infomations saved to global/de-DE/history/2026/01/16_de-DE.md
+[09:38:14] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-01-16 04:38:14.308935-05:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-CA3801341894_UHD.jpg
+[09:38:14] Picture infomations saved to  global/en-CA/README.md
+[09:38:14] Picture infomations saved to global/en-CA/history/2026/01/17_en-CA.md
+[09:38:14] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-01-16 09:38:14.421495+00:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-GB2310527142_UHD.jpg
+[09:38:14] Picture infomations saved to  global/en-GB/README.md
+[09:38:14] Picture infomations saved to global/en-GB/history/2026/01/17_en-GB.md
+[09:38:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-01-16 10:38:14.526707+01:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.EtoshaLeopard_IT-IT4096642676_UHD.jpg
+[09:38:14] Picture infomations saved to  global/it-IT/README.md
+[09:38:14] Picture infomations saved to global/it-IT/history/2026/01/16_it-IT.md
+[09:38:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-01-16 10:38:14.648992+01:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.BerrySquirrel_ES-ES5927701913_UHD.jpg
+[09:38:14] Picture infomations saved to  global/es-ES/README.md
+[09:38:14] Picture infomations saved to global/es-ES/history/2026/01/16_es-ES.md
+[09:38:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-01-16 04:38:14.772047-05:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.EtoshaLeopard_FR-CA9879284882_UHD.jpg
+[09:38:14] Picture infomations saved to  global/fr-CA/README.md
+[09:38:14] Picture infomations saved to global/fr-CA/history/2026/01/17_fr-CA.md
+Program exit at 09:38:14
