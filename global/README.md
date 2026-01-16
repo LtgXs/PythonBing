@@ -6,9 +6,9 @@
 ||*Copyright: Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)*
 ||
 |||
-|2026-01-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SnowOtters_JA-JP0357169871_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SnowOtters_JA-JP0357169871_UHD.jpg)|
-||*Copyright: ユーラシアカワウソ, エストニア (© Sven Zacek/naturepl.com)*
+|2026-01-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NaplesBasilica_JA-JP0488733664_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaplesBasilica_JA-JP0488733664_UHD.jpg)|
+||*Copyright: サン・フランチェスコ・ディ・パオラ聖堂, イタリア (© javarman3/Getty Images)*
 ||
 |||
 |2026-01-16|**Region: en-IN**||
@@ -22,7 +22,7 @@
 ||
 |||
 |2026-01-16|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DeerWinter_FR-FR0583142086_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerWinter_FR-FR0583142086_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.DeerWinter_FR-FR9698040180_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeerWinter_FR-FR9698040180_UHD.jpg)|
 ||*Copyright: Cerfs cachés dans la forêt (© AB Photography/Getty images)*
 ||
 |||
