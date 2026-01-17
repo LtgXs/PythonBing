@@ -6,9 +6,9 @@
 ||*Copyright: Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)*
 ||
 |||
-|2026-01-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NaplesBasilica_JA-JP0488733664_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaplesBasilica_JA-JP0488733664_UHD.jpg)|
-||*Copyright: サン・フランチェスコ・ディ・パオラ聖堂, イタリア (© javarman3/Getty Images)*
+|2026-01-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WhiteSandsNM_JA-JP0644225456_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNM_JA-JP0644225456_UHD.jpg)|
+||*Copyright: ホワイトサンズ国立公園, 米国 ニューメキシコ州 (© Francesco Carucci/Getty Images)*
 ||
 |||
 |2026-01-17|**Region: en-IN**||
