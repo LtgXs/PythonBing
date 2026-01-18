@@ -6,9 +6,9 @@
 ||*Copyright: White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)*
 ||
 |||
-|2026-01-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNM_JA-JP0644225456_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNM_JA-JP0644225456_UHD.jpg)|
-||*Copyright: ホワイトサンズ国立公園, 米国 ニューメキシコ州 (© Francesco Carucci/Getty Images)*
+|2026-01-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_JA-JP0787932101_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_JA-JP0787932101_UHD.jpg)|
+||*Copyright: エクスターンシュタイネ岩塔群, ドイツ (© Michael Sroka/Getty Images)*
 ||
 |||
 |2026-01-18|**Region: en-IN**||
