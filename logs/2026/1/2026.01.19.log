@@ -1,0 +1,60 @@
+
+Program started at 09:48:30
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmmtnos
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:48:30] Start geting CN Bing Wallpaper
+[09:48:30] Successful get url: https://www.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_UHD.jpg
+[09:48:30] Image saved to img/background.jpg
+[09:48:30] Info saved to README.md
+[09:48:30] Image saved to history/2026/01/19.md
+[09:48:30] Start geting global Bing Wallpaper, region=en-US, local time is 2026-01-19 04:48:30.955139-05:00
+[09:48:31] Successful get url: https://www.bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg
+[09:48:31] Picture infomations saved to  global/en-US/README.md
+[09:48:31] Picture infomations saved to global/en-US/history/2026/01/20_en-US.md
+[09:48:31] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-01-19 18:48:31.206621+09:00
+[09:48:31] Successful get url: https://www.bing.com/th?id=OHR.ExternsteineSunset_JA-JP0787932101_UHD.jpg
+[09:48:31] Picture infomations saved to  global/ja-JP/README.md
+[09:48:31] Picture infomations saved to global/ja-JP/history/2026/01/19_ja-JP.md
+[09:48:31] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-01-19 15:18:31.439222+05:30
+[09:48:31] Successful get url: https://www.bing.com/th?id=OHR.BubblesAbraham_EN-IN0433961351_UHD.jpg
+[09:48:31] Picture infomations saved to  global/en-IN/README.md
+[09:48:31] Picture infomations saved to global/en-IN/history/2026/01/19_en-IN.md
+[09:48:31] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-01-19 06:48:31.654543-03:00
+[09:48:31] Successful get url: https://www.bing.com/th?id=OHR.AlterPara_PT-BR8119560973_UHD.jpg
+[09:48:31] Picture infomations saved to  global/pt-BR/README.md
+[09:48:31] Picture infomations saved to global/pt-BR/history/2026/01/20_pt-BR.md
+[09:48:31] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-01-19 10:48:31.863667+01:00
+[09:48:31] Successful get url: https://www.bing.com/th?id=OHR.BubblesAbraham_FR-FR1152470154_UHD.jpg
+[09:48:32] Picture infomations saved to  global/fr-FR/README.md
+[09:48:32] Picture infomations saved to global/fr-FR/history/2026/01/19_fr-FR.md
+[09:48:32] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-01-19 10:48:32.086272+01:00
+[09:48:32] Successful get url: https://www.bing.com/th?id=OHR.BubblesAbraham_DE-DE1244248308_UHD.jpg
+[09:48:32] Picture infomations saved to  global/de-DE/README.md
+[09:48:32] Picture infomations saved to global/de-DE/history/2026/01/19_de-DE.md
+[09:48:32] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-01-19 04:48:32.322582-05:00
+[09:48:32] Successful get url: https://www.bing.com/th?id=OHR.BubblesAbraham_EN-CA5502622883_UHD.jpg
+[09:48:32] Picture infomations saved to  global/en-CA/README.md
+[09:48:32] Picture infomations saved to global/en-CA/history/2026/01/20_en-CA.md
+[09:48:32] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-01-19 09:48:32.551509+00:00
+[09:48:32] Successful get url: https://www.bing.com/th?id=OHR.BubblesAbraham_EN-GB2806407133_UHD.jpg
+[09:48:32] Picture infomations saved to  global/en-GB/README.md
+[09:48:32] Picture infomations saved to global/en-GB/history/2026/01/20_en-GB.md
+[09:48:32] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-01-19 10:48:32.758151+01:00
+[09:48:32] Successful get url: https://www.bing.com/th?id=OHR.BubblesAbraham_IT-IT4374269111_UHD.jpg
+[09:48:32] Picture infomations saved to  global/it-IT/README.md
+[09:48:32] Picture infomations saved to global/it-IT/history/2026/01/19_it-IT.md
+[09:48:32] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-01-19 10:48:32.985783+01:00
+[09:48:33] Successful get url: https://www.bing.com/th?id=OHR.BubblesAbraham_ES-ES6461966091_UHD.jpg
+[09:48:33] Picture infomations saved to  global/es-ES/README.md
+[09:48:33] Picture infomations saved to global/es-ES/history/2026/01/19_es-ES.md
+[09:48:33] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-01-19 04:48:33.212512-05:00
+[09:48:33] Successful get url: https://www.bing.com/th?id=OHR.BubblesAbraham_FR-CA0472856802_UHD.jpg
+[09:48:33] Picture infomations saved to  global/fr-CA/README.md
+[09:48:33] Picture infomations saved to global/fr-CA/history/2026/01/20_fr-CA.md
+Program exit at 09:48:33

@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-01-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg)|
-||*Copyright: White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)*
+|2026-01-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg)|
+||*Copyright: Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)*
 ||
 |||
 |2026-01-19|**Region: ja-JP**||
@@ -11,48 +11,48 @@
 ||*Copyright: エクスターンシュタイネ岩塔群, ドイツ (© Michael Sroka/Getty Images)*
 ||
 |||
-|2026-01-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-IN0223535829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-IN0223535829_UHD.jpg)|
-||*Copyright: White Sands National Park, New Mexico, United States (© Francesco Carucci/Getty Images)*
+|2026-01-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BubblesAbraham_EN-IN0433961351_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BubblesAbraham_EN-IN0433961351_UHD.jpg)|
+||*Copyright: Frozen Abraham Lake, Alberta, Canada (© Luis F Arevalo/Getty Images)*
 ||
 |||
-|2026-01-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNM_PT-BR0724108799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNM_PT-BR0724108799_UHD.jpg)|
-||*Copyright: Parque Nacional de White Sands, Novo México, EUA (© Francesco Carucci/Getty Images)*
+|2026-01-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AlterPara_PT-BR8119560973_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlterPara_PT-BR8119560973_UHD.jpg)|
+||*Copyright: Praia de Alter do Chão, Santarém, Pará (© Ricardo Lima/Getty Images)*
 ||
 |||
-|2026-01-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-FR3833859459_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-FR3833859459_UHD.jpg)|
-||*Copyright: Parc National des White Sands, Nouveau-Mexique, États-Unis (© Francesco Carucci/Getty Images)*
+|2026-01-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BubblesAbraham_FR-FR1152470154_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BubblesAbraham_FR-FR1152470154_UHD.jpg)|
+||*Copyright: Le lac Abraham en hiver, Alberta, Canada (© Luis F Arevalo/Getty Images)*
 ||
 |||
-|2026-01-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNM_DE-DE0810654725_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNM_DE-DE0810654725_UHD.jpg)|
-||*Copyright: White-Sands-Nationalpark, New Mexico, USA (© Francesco Carucci/Getty Images)*
+|2026-01-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BubblesAbraham_DE-DE1244248308_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BubblesAbraham_DE-DE1244248308_UHD.jpg)|
+||*Copyright: Gefrorener Abraham Lake, Alberta, Kanada (© Luis F Arevalo/Getty Images)*
 ||
 |||
-|2026-01-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-CA4611672923_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-CA4611672923_UHD.jpg)|
-||*Copyright: White Sands National Park, New Mexico, United States (© Francesco Carucci/Getty Images)*
+|2026-01-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BubblesAbraham_EN-CA5502622883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BubblesAbraham_EN-CA5502622883_UHD.jpg)|
+||*Copyright: Frozen Abraham Lake, Alberta (© Luis F Arevalo/Getty Images)*
 ||
 |||
-|2026-01-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PoohDay2026_EN-GB2644442653_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PoohDay2026_EN-GB2644442653_UHD.jpg)|
-||*Copyright: Scots pine forest, Ashdown Forest, England (© James Warwick/The Image Bank/Getty Images)*
+|2026-01-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BubblesAbraham_EN-GB2806407133_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BubblesAbraham_EN-GB2806407133_UHD.jpg)|
+||*Copyright: Frozen Abraham Lake, Alberta, Canada (© Luis F Arevalo/Getty Images)*
 ||
 |||
-|2026-01-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNM_IT-IT4233174692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNM_IT-IT4233174692_UHD.jpg)|
-||*Copyright: Parco Nazionale delle Sabbie Bianche, Nuovo Messico, USA (© Francesco Carucci/Getty Images)*
+|2026-01-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BubblesAbraham_IT-IT4374269111_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BubblesAbraham_IT-IT4374269111_UHD.jpg)|
+||*Copyright: Lago Abraham, Alberta, Canada (© Luis F Arevalo/Getty Images)*
 ||
 |||
-|2026-01-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNM_ES-ES6358910879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNM_ES-ES6358910879_UHD.jpg)|
-||*Copyright: Parque Nacional White Sands, Nuevo México, EE. UU. (© Francesco Carucci/Getty Images)*
+|2026-01-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BubblesAbraham_ES-ES6461966091_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BubblesAbraham_ES-ES6461966091_UHD.jpg)|
+||*Copyright: Lago Abraham congelado, Alberta, Canadá (© Luis F Arevalo/Getty Images)*
 ||
 |||
-|2026-01-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-CA0263318524_UHD.jpg)|
+|2026-01-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BubblesAbraham_FR-CA0472856802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BubblesAbraham_FR-CA0472856802_UHD.jpg)|
 ||*Copyright: Parc National des White Sands, Nouveau-Mexique, États-Unis (© Francesco Carucci/Getty Images)*
 ||
 |||
