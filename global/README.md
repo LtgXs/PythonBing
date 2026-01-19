@@ -6,9 +6,9 @@
 ||*Copyright: Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)*
 ||
 |||
-|2026-01-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ExternsteineSunset_JA-JP0787932101_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExternsteineSunset_JA-JP0787932101_UHD.jpg)|
-||*Copyright: エクスターンシュタイネ岩塔群, ドイツ (© Michael Sroka/Getty Images)*
+|2026-01-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_UHD.jpg)|
+||*Copyright: 雪に覆われた星峠の棚田, 新潟県 十日町市 (© solakoudai/Shutterstock)*
 ||
 |||
 |2026-01-19|**Region: en-IN**||
