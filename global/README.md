@@ -6,9 +6,9 @@
 ||*Copyright: Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)*
 ||
 |||
-|2026-01-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_UHD.jpg)|
-||*Copyright: 雪に覆われた星峠の棚田, 新潟県 十日町市 (© solakoudai/Shutterstock)*
+|2026-01-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BerrySquirrel_JA-JP1197927538_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerrySquirrel_JA-JP1197927538_UHD.jpg)|
+||*Copyright: 赤褐色の毛並みが美しいキタリス (© Galina Jacyna/Getty Images)*
 ||
 |||
 |2026-01-20|**Region: en-IN**||
@@ -42,7 +42,7 @@
 ||
 |||
 |2026-01-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.IciclePenguin_IT-IT4498026851_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IciclePenguin_IT-IT4498026851_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.IciclePenguin_IT-IT4262045366_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IciclePenguin_IT-IT4262045366_UHD.jpg)|
 ||*Copyright: Pinguino Gentoo, Isola Petermann, Antartide (© Paul Souders/DanitaDelimont.com/Alamy)*
 ||
 |||
