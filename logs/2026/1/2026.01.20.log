@@ -1,0 +1,60 @@
+
+Program started at 09:46:16
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmmtnos
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:46:16] Start geting CN Bing Wallpaper
+[09:46:16] Successful get url: https://www.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg
+[09:46:16] Image saved to img/background.jpg
+[09:46:16] Info saved to README.md
+[09:46:16] Image saved to history/2026/01/20.md
+[09:46:16] Start geting global Bing Wallpaper, region=en-US, local time is 2026-01-20 04:46:16.373391-05:00
+[09:46:16] Successful get url: https://www.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg
+[09:46:16] Picture infomations saved to  global/en-US/README.md
+[09:46:16] Picture infomations saved to global/en-US/history/2026/01/21_en-US.md
+[09:46:16] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-01-20 18:46:16.519816+09:00
+[09:46:16] Successful get url: https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_UHD.jpg
+[09:46:16] Picture infomations saved to  global/ja-JP/README.md
+[09:46:16] Picture infomations saved to global/ja-JP/history/2026/01/20_ja-JP.md
+[09:46:16] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-01-20 15:16:16.692433+05:30
+[09:46:16] Successful get url: https://www.bing.com/th?id=OHR.IciclePenguin_EN-IN0585544913_UHD.jpg
+[09:46:16] Picture infomations saved to  global/en-IN/README.md
+[09:46:16] Picture infomations saved to global/en-IN/history/2026/01/20_en-IN.md
+[09:46:16] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-01-20 06:46:16.884155-03:00
+[09:46:16] Successful get url: https://www.bing.com/th?id=OHR.IciclePenguin_PT-BR0423220256_UHD.jpg
+[09:46:17] Picture infomations saved to  global/pt-BR/README.md
+[09:46:17] Picture infomations saved to global/pt-BR/history/2026/01/21_pt-BR.md
+[09:46:17] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-01-20 10:46:17.033119+01:00
+[09:46:17] Successful get url: https://www.bing.com/th?id=OHR.IciclePenguin_FR-FR1509326905_UHD.jpg
+[09:46:17] Picture infomations saved to  global/fr-FR/README.md
+[09:46:17] Picture infomations saved to global/fr-FR/history/2026/01/20_fr-FR.md
+[09:46:17] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-01-20 10:46:17.180169+01:00
+[09:46:17] Successful get url: https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_UHD.jpg
+[09:46:17] Picture infomations saved to  global/de-DE/README.md
+[09:46:17] Picture infomations saved to global/de-DE/history/2026/01/20_de-DE.md
+[09:46:17] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-01-20 04:46:17.346608-05:00
+[09:46:17] Successful get url: https://www.bing.com/th?id=OHR.IciclePenguin_EN-CA6119036779_UHD.jpg
+[09:46:17] Picture infomations saved to  global/en-CA/README.md
+[09:46:17] Picture infomations saved to global/en-CA/history/2026/01/21_en-CA.md
+[09:46:17] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-01-20 09:46:17.506391+00:00
+[09:46:17] Successful get url: https://www.bing.com/th?id=OHR.IciclePenguin_EN-GB5926075380_UHD.jpg
+[09:46:17] Picture infomations saved to  global/en-GB/README.md
+[09:46:17] Picture infomations saved to global/en-GB/history/2026/01/21_en-GB.md
+[09:46:17] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-01-20 10:46:17.644667+01:00
+[09:46:17] Successful get url: https://www.bing.com/th?id=OHR.IciclePenguin_IT-IT4498026851_UHD.jpg
+[09:46:17] Picture infomations saved to  global/it-IT/README.md
+[09:46:17] Picture infomations saved to global/it-IT/history/2026/01/20_it-IT.md
+[09:46:17] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-01-20 10:46:17.795884+01:00
+[09:46:17] Successful get url: https://www.bing.com/th?id=OHR.IciclePenguin_ES-ES6551563961_UHD.jpg
+[09:46:17] Picture infomations saved to  global/es-ES/README.md
+[09:46:17] Picture infomations saved to global/es-ES/history/2026/01/20_es-ES.md
+[09:46:17] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-01-20 04:46:17.949581-05:00
+[09:46:18] Successful get url: https://www.bing.com/th?id=OHR.IciclePenguin_FR-CA0847968880_UHD.jpg
+[09:46:18] Picture infomations saved to  global/fr-CA/README.md
+[09:46:18] Picture infomations saved to global/fr-CA/history/2026/01/21_fr-CA.md
+Program exit at 09:46:18
