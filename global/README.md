@@ -6,9 +6,9 @@
 ||*Copyright: Eurasian red squirrel (© Galina Jacyna/Getty Images)*
 ||
 |||
-|2026-01-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BerrySquirrel_JA-JP1197927538_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerrySquirrel_JA-JP1197927538_UHD.jpg)|
-||*Copyright: 赤褐色の毛並みが美しいキタリス (© Galina Jacyna/Getty Images)*
+|2026-01-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KarlovyVary_JA-JP1329702586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KarlovyVary_JA-JP1329702586_UHD.jpg)|
+||*Copyright: カルロヴィ・ヴァリ, チェコ (© Henryk Sadura/Getty Images)*
 ||
 |||
 |2026-01-21|**Region: en-IN**||
