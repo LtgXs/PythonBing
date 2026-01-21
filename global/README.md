@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-01-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg)|
-||*Copyright: Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)*
+|2026-01-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg)|
+||*Copyright: Eurasian red squirrel (© Galina Jacyna/Getty Images)*
 ||
 |||
 |2026-01-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 赤褐色の毛並みが美しいキタリス (© Galina Jacyna/Getty Images)*
 ||
 |||
-|2026-01-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.IciclePenguin_EN-IN0585544913_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IciclePenguin_EN-IN0585544913_UHD.jpg)|
-||*Copyright: Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)*
+|2026-01-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.RajasthanSandDunes2025_EN-IN0938855919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RajasthanSandDunes2025_EN-IN0938855919_UHD.jpg)|
+||*Copyright: Sand dunes in the Thar Desert, Rajasthan (© f9photos/iStock/Getty Images)*
 ||
 |||
-|2026-01-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.IciclePenguin_PT-BR0423220256_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IciclePenguin_PT-BR0423220256_UHD.jpg)|
-||*Copyright: Pinguim-gentoo, Ilha Petermann, Antártida (© Paul Souders/DanitaDelimont.com/Alamy)*
+|2026-01-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BerrySquirrel_PT-BR0149336681_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerrySquirrel_PT-BR0149336681_UHD.jpg)|
+||*Copyright: Esquilo-vermelho-eurasiático (© Galina Jacyna/Getty Images)*
 ||
 |||
-|2026-01-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.IciclePenguin_FR-FR1509326905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IciclePenguin_FR-FR1509326905_UHD.jpg)|
-||*Copyright: Un manchot papou, Île Petermann, Antarctique (© Paul Souders/DanitaDelimont.com/Alamy)*
+|2026-01-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BerrySquirrel_FR-FR1330095052_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerrySquirrel_FR-FR1330095052_UHD.jpg)|
+||*Copyright: Écureuil roux d’Eurasie (© Galina Jacyna/Getty Images)*
 ||
 |||
-|2026-01-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IciclePenguin_DE-DE1468306141_UHD.jpg)|
-||*Copyright: Eselspinguin, Petermann-Insel, Antarktis (© Paul Souders/DanitaDelimont.com/Alamy)*
+|2026-01-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BerrySquirrel_DE-DE1679110073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerrySquirrel_DE-DE1679110073_UHD.jpg)|
+||*Copyright: Eurasisches Eichhörnchen (© Galina Jacyna/Getty Images)*
 ||
 |||
-|2026-01-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.IciclePenguin_EN-CA6119036779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IciclePenguin_EN-CA6119036779_UHD.jpg)|
-||*Copyright: Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)*
+|2026-01-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BerrySquirrel_EN-CA7707997633_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerrySquirrel_EN-CA7707997633_UHD.jpg)|
+||*Copyright: Eurasian red squirrel (© Galina Jacyna/Getty Images)*
 ||
 |||
-|2026-01-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.IciclePenguin_EN-GB5926075380_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IciclePenguin_EN-GB5926075380_UHD.jpg)|
-||*Copyright: Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)*
+|2026-01-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BerrySquirrel_EN-GB6028511849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerrySquirrel_EN-GB6028511849_UHD.jpg)|
+||*Copyright: Eurasian red squirrel (© Galina Jacyna/Getty Images)*
 ||
 |||
-|2026-01-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.IciclePenguin_IT-IT4262045366_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IciclePenguin_IT-IT4262045366_UHD.jpg)|
-||*Copyright: Pinguino Gentoo, Isola Petermann, Antartide (© Paul Souders/DanitaDelimont.com/Alamy)*
+|2026-01-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BerrySquirrel_IT-IT4115553283_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerrySquirrel_IT-IT4115553283_UHD.jpg)|
+||*Copyright: Scoiattolo rosso eurasiatico (© Galina Jacyna/Getty Images)*
 ||
 |||
-|2026-01-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.IciclePenguin_ES-ES6551563961_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IciclePenguin_ES-ES6551563961_UHD.jpg)|
-||*Copyright: Pingüino Gentoo, Isla Petermann, Antártida (© Paul Souders/DanitaDelimont.com/Alamy)*
+|2026-01-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FITUR_ES-ES6773132633_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FITUR_ES-ES6773132633_UHD.jpg)|
+||*Copyright: Palacio de Cristal del Retiro, Madrid, España (© All rights reserved - Copyright/Getty Images)*
 ||
 |||
-|2026-01-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.IciclePenguin_FR-CA0847968880_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IciclePenguin_FR-CA0847968880_UHD.jpg)|
-||*Copyright: Un manchot papou, Île Petermann, Antarctique (© Paul Souders/DanitaDelimont.com/Alamy)*
+|2026-01-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BerrySquirrel_FR-CA1112427108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerrySquirrel_FR-CA1112427108_UHD.jpg)|
+||*Copyright: Écureuil roux d’Eurasie (© Galina Jacyna/Getty Images)*
 ||
 |||
 
