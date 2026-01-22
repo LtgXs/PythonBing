@@ -6,9 +6,9 @@
 ||*Copyright: Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)*
 ||
 |||
-|2026-01-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KarlovyVary_JA-JP1329702586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KarlovyVary_JA-JP1329702586_UHD.jpg)|
-||*Copyright: カルロヴィ・ヴァリ, チェコ (© Henryk Sadura/Getty Images)*
+|2026-01-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IcelandSheep_JA-JP9416029074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSheep_JA-JP9416029074_UHD.jpg)|
+||*Copyright: 雪に覆われた地で草を食む羊たち, アイスランド (© Christophe Lehenaff/Getty Images)*
 ||
 |||
 |2026-01-22|**Region: en-IN**||
