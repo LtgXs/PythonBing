@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:43:05] Picture infomations saved to  global/fr-CA/README.md
 [09:43:05] Picture infomations saved to global/fr-CA/history/2026/01/24_fr-CA.md
 Program exit at 09:43:05
+
+Program started at 16:21:32
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmymu0l
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:21:32] Start geting CN Bing Wallpaper
+[16:21:32] Successful get url: https://www.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg
+[16:21:32] Image saved to img/background.jpg
+[16:21:32] Info saved to README.md
+[16:21:32] Image saved to history/2026/01/24.md
+[16:21:32] Start geting global Bing Wallpaper, region=en-US, local time is 2026-01-23 11:21:32.488381-05:00
+[16:21:32] Successful get url: https://www.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg
+[16:21:32] Picture infomations saved to  global/en-US/README.md
+[16:21:32] Picture infomations saved to global/en-US/history/2026/01/24_en-US.md
+[16:21:32] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-01-24 01:21:32.762934+09:00
+[16:21:32] Successful get url: https://www.bing.com/th?id=OHR.AndermattSwiss_JA-JP9574225546_UHD.jpg
+[16:21:33] Picture infomations saved to  global/ja-JP/README.md
+[16:21:33] Picture infomations saved to global/ja-JP/history/2026/01/24_ja-JP.md
+[16:21:33] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-01-23 21:51:33.027784+05:30
+[16:21:33] Successful get url: https://www.bing.com/th?id=OHR.IcelandSheep_EN-IN4953481142_UHD.jpg
+[16:21:33] Picture infomations saved to  global/en-IN/README.md
+[16:21:33] Picture infomations saved to global/en-IN/history/2026/01/23_en-IN.md
+[16:21:33] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-01-23 13:21:33.426447-03:00
+[16:21:33] Successful get url: https://www.bing.com/th?id=OHR.IcelandSheep_PT-BR6680059407_UHD.jpg
+[16:21:33] Picture infomations saved to  global/pt-BR/README.md
+[16:21:33] Picture infomations saved to global/pt-BR/history/2026/01/24_pt-BR.md
+[16:21:33] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-01-23 17:21:33.680082+01:00
+[16:21:33] Successful get url: https://www.bing.com/th?id=OHR.IcelandSheep_FR-FR4056749778_UHD.jpg
+[16:21:33] Picture infomations saved to  global/fr-FR/README.md
+[16:21:33] Picture infomations saved to global/fr-FR/history/2026/01/23_fr-FR.md
+[16:21:33] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-01-23 17:21:33.919995+01:00
+[16:21:33] Successful get url: https://www.bing.com/th?id=OHR.IcelandSheep_DE-DE7690872056_UHD.jpg
+[16:21:34] Picture infomations saved to  global/de-DE/README.md
+[16:21:34] Picture infomations saved to global/de-DE/history/2026/01/23_de-DE.md
+[16:21:34] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-01-23 11:21:34.148164-05:00
+[16:21:34] Successful get url: https://www.bing.com/th?id=OHR.IcelandSheep_EN-CA6673215604_UHD.jpg
+[16:21:34] Picture infomations saved to  global/en-CA/README.md
+[16:21:34] Picture infomations saved to global/en-CA/history/2026/01/24_en-CA.md
+[16:21:34] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-01-23 16:21:34.401459+00:00
+[16:21:34] Successful get url: https://www.bing.com/th?id=OHR.IcelandSheep_EN-GB3300540353_UHD.jpg
+[16:21:34] Picture infomations saved to  global/en-GB/README.md
+[16:21:34] Picture infomations saved to global/en-GB/history/2026/01/24_en-GB.md
+[16:21:34] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-01-23 17:21:34.761874+01:00
+[16:21:34] Successful get url: https://www.bing.com/th?id=OHR.IcelandSheep_IT-IT3552522867_UHD.jpg
+[16:21:35] Picture infomations saved to  global/it-IT/README.md
+[16:21:35] Picture infomations saved to global/it-IT/history/2026/01/23_it-IT.md
+[16:21:35] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-01-23 17:21:35.034520+01:00
+[16:21:35] Successful get url: https://www.bing.com/th?id=OHR.Toledo_ES-ES4779443125_UHD.jpg
+[16:21:35] Picture infomations saved to  global/es-ES/README.md
+[16:21:35] Picture infomations saved to global/es-ES/history/2026/01/23_es-ES.md
+[16:21:35] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-01-23 11:21:35.440366-05:00
+[16:21:35] Successful get url: https://www.bing.com/th?id=OHR.IcelandSheep_FR-CA9355432333_UHD.jpg
+[16:21:35] Picture infomations saved to  global/fr-CA/README.md
+[16:21:35] Picture infomations saved to global/fr-CA/history/2026/01/24_fr-CA.md
+Program exit at 16:21:35

@@ -6,9 +6,9 @@
 ||*Copyright: Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)*
 ||
 |||
-|2026-01-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IcelandSheep_JA-JP9416029074_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcelandSheep_JA-JP9416029074_UHD.jpg)|
-||*Copyright: 雪に覆われた地で草を食む羊たち, アイスランド (© Christophe Lehenaff/Getty Images)*
+|2026-01-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AndermattSwiss_JA-JP9574225546_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AndermattSwiss_JA-JP9574225546_UHD.jpg)|
+||*Copyright: アンデルマット, スイス (© Xantana/Getty Images)*
 ||
 |||
 |2026-01-23|**Region: en-IN**||
