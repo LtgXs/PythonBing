@@ -6,9 +6,9 @@
 ||*Copyright: Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)*
 ||
 |||
-|2026-01-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BubblesAbraham_JA-JP9895459899_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BubblesAbraham_JA-JP9895459899_UHD.jpg)|
-||*Copyright: アブラハムレイク, カナダ (© Luis F Arevalo/Getty Images)*
+|2026-01-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DalmationPelicans_JA-JP5723564956_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DalmationPelicans_JA-JP5723564956_UHD.jpg)|
+||*Copyright: ニシハイイロペリカン, ギリシャ (© Guy Edwardes/naturepl.com)*
 ||
 |||
 |2026-01-26|**Region: en-IN**||
