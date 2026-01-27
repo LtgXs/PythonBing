@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:46:34] Picture infomations saved to  global/fr-CA/README.md
 [09:46:34] Picture infomations saved to global/fr-CA/history/2026/01/28_fr-CA.md
 Program exit at 09:46:34
+
+Program started at 16:21:52
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmymu0l
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:21:52] Start geting CN Bing Wallpaper
+[16:21:52] Successful get url: https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_UHD.jpg
+[16:21:52] Image saved to img/background.jpg
+[16:21:52] Info saved to README.md
+[16:21:52] Image saved to history/2026/01/28.md
+[16:21:52] Start geting global Bing Wallpaper, region=en-US, local time is 2026-01-27 11:21:52.234623-05:00
+[16:21:52] Successful get url: https://www.bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg
+[16:21:52] Picture infomations saved to  global/en-US/README.md
+[16:21:52] Picture infomations saved to global/en-US/history/2026/01/28_en-US.md
+[16:21:52] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-01-28 01:21:52.365291+09:00
+[16:21:52] Successful get url: https://www.bing.com/th?id=OHR.WhanganuiPark_JA-JP0176066803_UHD.jpg
+[16:21:52] Picture infomations saved to  global/ja-JP/README.md
+[16:21:52] Picture infomations saved to global/ja-JP/history/2026/01/28_ja-JP.md
+[16:21:52] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-01-27 21:51:52.493263+05:30
+[16:21:52] Successful get url: https://www.bing.com/th?id=OHR.DalmationPelicans_EN-IN8609760555_UHD.jpg
+[16:21:52] Picture infomations saved to  global/en-IN/README.md
+[16:21:52] Picture infomations saved to global/en-IN/history/2026/01/27_en-IN.md
+[16:21:52] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-01-27 13:21:52.650238-03:00
+[16:21:52] Successful get url: https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_UHD.jpg
+[16:21:52] Picture infomations saved to  global/pt-BR/README.md
+[16:21:52] Picture infomations saved to global/pt-BR/history/2026/01/28_pt-BR.md
+[16:21:52] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-01-27 17:21:52.792368+01:00
+[16:21:52] Successful get url: https://www.bing.com/th?id=OHR.DalmationPelicans_FR-FR5454969823_UHD.jpg
+[16:21:52] Picture infomations saved to  global/fr-FR/README.md
+[16:21:52] Picture infomations saved to global/fr-FR/history/2026/01/27_fr-FR.md
+[16:21:52] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-01-27 17:21:52.910918+01:00
+[16:21:52] Successful get url: https://www.bing.com/th?id=OHR.DalmationPelicans_DE-DE9659953215_UHD.jpg
+[16:21:53] Picture infomations saved to  global/de-DE/README.md
+[16:21:53] Picture infomations saved to global/de-DE/history/2026/01/27_de-DE.md
+[16:21:53] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-01-27 11:21:53.044511-05:00
+[16:21:53] Successful get url: https://www.bing.com/th?id=OHR.DalmationPelicans_EN-CA1377390120_UHD.jpg
+[16:21:53] Picture infomations saved to  global/en-CA/README.md
+[16:21:53] Picture infomations saved to global/en-CA/history/2026/01/28_en-CA.md
+[16:21:53] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-01-27 16:21:53.190321+00:00
+[16:21:53] Successful get url: https://www.bing.com/th?id=OHR.DalmationPelicans_EN-GB1535458642_UHD.jpg
+[16:21:53] Picture infomations saved to  global/en-GB/README.md
+[16:21:53] Picture infomations saved to global/en-GB/history/2026/01/28_en-GB.md
+[16:21:53] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-01-27 17:21:53.363357+01:00
+[16:21:53] Successful get url: https://www.bing.com/th?id=OHR.DalmationPelicans_IT-IT3852237792_UHD.jpg
+[16:21:53] Picture infomations saved to  global/it-IT/README.md
+[16:21:53] Picture infomations saved to global/it-IT/history/2026/01/27_it-IT.md
+[16:21:53] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-01-27 17:21:53.494988+01:00
+[16:21:53] Successful get url: https://www.bing.com/th?id=OHR.DalmationPelicans_ES-ES2127597270_UHD.jpg
+[16:21:53] Picture infomations saved to  global/es-ES/README.md
+[16:21:53] Picture infomations saved to global/es-ES/history/2026/01/27_es-ES.md
+[16:21:53] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-01-27 11:21:53.650602-05:00
+[16:21:53] Successful get url: https://www.bing.com/th?id=OHR.DalmationPelicans_FR-CA4167937992_UHD.jpg
+[16:21:53] Picture infomations saved to  global/fr-CA/README.md
+[16:21:53] Picture infomations saved to global/fr-CA/history/2026/01/28_fr-CA.md
+Program exit at 16:21:53

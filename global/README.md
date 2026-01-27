@@ -6,9 +6,9 @@
 ||*Copyright: Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)*
 ||
 |||
-|2026-01-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DalmationPelicans_JA-JP5723564956_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DalmationPelicans_JA-JP5723564956_UHD.jpg)|
-||*Copyright: ニシハイイロペリカン, ギリシャ (© Guy Edwardes/naturepl.com)*
+|2026-01-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WhanganuiPark_JA-JP0176066803_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhanganuiPark_JA-JP0176066803_UHD.jpg)|
+||*Copyright: ワンガヌイ国立公園, ニュージーランド (© Matthew Micah Wright/Getty Images)*
 ||
 |||
 |2026-01-27|**Region: en-IN**||
