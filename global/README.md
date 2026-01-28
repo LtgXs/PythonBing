@@ -6,9 +6,9 @@
 ||*Copyright: Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)*
 ||
 |||
-|2026-01-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WhanganuiPark_JA-JP0176066803_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhanganuiPark_JA-JP0176066803_UHD.jpg)|
-||*Copyright: ワンガヌイ国立公園, ニュージーランド (© Matthew Micah Wright/Getty Images)*
+|2026-01-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MilwaukeeHall_JA-JP0738561179_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilwaukeeHall_JA-JP0738561179_UHD.jpg)|
+||*Copyright: ミルウォーキー市庁舎, 米国 ウィスコンシン州 (© lavin photography/Getty Images)*
 ||
 |||
 |2026-01-28|**Region: en-IN**||
