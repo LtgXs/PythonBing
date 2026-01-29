@@ -6,9 +6,9 @@
 ||*Copyright: The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)*
 ||
 |||
-|2026-01-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MilwaukeeHall_JA-JP0738561179_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilwaukeeHall_JA-JP0738561179_UHD.jpg)|
-||*Copyright: ミルウォーキー市庁舎, 米国 ウィスコンシン州 (© lavin photography/Getty Images)*
+|2026-01-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_JA-JP9057356830_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_JA-JP9057356830_UHD.jpg)|
+||*Copyright: セント・マイケルズ・マウント, イングランド (© Baxter Bradford/robertharding/Getty Images)*
 ||
 |||
 |2026-01-29|**Region: en-IN**||

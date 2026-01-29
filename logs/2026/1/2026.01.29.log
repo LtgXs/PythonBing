@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:57:53] Picture infomations saved to  global/fr-CA/README.md
 [09:57:53] Picture infomations saved to global/fr-CA/history/2026/01/30_fr-CA.md
 Program exit at 09:57:53
+
+Program started at 16:35:04
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmkj6or
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:35:04] Start geting CN Bing Wallpaper
+[16:35:04] Successful get url: https://www.bing.com/th?id=OHR.StMichaelsCornwall_ZH-CN5878042411_UHD.jpg
+[16:35:04] Image saved to img/background.jpg
+[16:35:04] Info saved to README.md
+[16:35:04] Image saved to history/2026/01/30.md
+[16:35:04] Start geting global Bing Wallpaper, region=en-US, local time is 2026-01-29 11:35:04.691342-05:00
+[16:35:04] Successful get url: https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg
+[16:35:04] Picture infomations saved to  global/en-US/README.md
+[16:35:04] Picture infomations saved to global/en-US/history/2026/01/30_en-US.md
+[16:35:04] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-01-30 01:35:04.820968+09:00
+[16:35:04] Successful get url: https://www.bing.com/th?id=OHR.StMichaelsCornwall_JA-JP9057356830_UHD.jpg
+[16:35:04] Picture infomations saved to  global/ja-JP/README.md
+[16:35:04] Picture infomations saved to global/ja-JP/history/2026/01/30_ja-JP.md
+[16:35:04] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-01-29 22:05:04.966319+05:30
+[16:35:05] Successful get url: https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-IN0132722943_UHD.jpg
+[16:35:05] Picture infomations saved to  global/en-IN/README.md
+[16:35:05] Picture infomations saved to global/en-IN/history/2026/01/29_en-IN.md
+[16:35:05] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-01-29 13:35:05.244196-03:00
+[16:35:05] Successful get url: https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_UHD.jpg
+[16:35:05] Picture infomations saved to  global/pt-BR/README.md
+[16:35:05] Picture infomations saved to global/pt-BR/history/2026/01/30_pt-BR.md
+[16:35:05] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-01-29 17:35:05.488536+01:00
+[16:35:05] Successful get url: https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_UHD.jpg
+[16:35:05] Picture infomations saved to  global/fr-FR/README.md
+[16:35:05] Picture infomations saved to global/fr-FR/history/2026/01/29_fr-FR.md
+[16:35:05] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-01-29 17:35:05.672054+01:00
+[16:35:05] Successful get url: https://www.bing.com/th?id=OHR.MilwaukeeHall_DE-DE1517819604_UHD.jpg
+[16:35:05] Picture infomations saved to  global/de-DE/README.md
+[16:35:05] Picture infomations saved to global/de-DE/history/2026/01/29_de-DE.md
+[16:35:05] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-01-29 11:35:05.803025-05:00
+[16:35:05] Successful get url: https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-CA4166565215_UHD.jpg
+[16:35:05] Picture infomations saved to  global/en-CA/README.md
+[16:35:05] Picture infomations saved to global/en-CA/history/2026/01/30_en-CA.md
+[16:35:05] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-01-29 16:35:05.925668+00:00
+[16:35:05] Successful get url: https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-GB2048442838_UHD.jpg
+[16:35:06] Picture infomations saved to  global/en-GB/README.md
+[16:35:06] Picture infomations saved to global/en-GB/history/2026/01/30_en-GB.md
+[16:35:06] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-01-29 17:35:06.065192+01:00
+[16:35:06] Successful get url: https://www.bing.com/th?id=OHR.ItalyBlackbird_IT-IT4018019243_UHD.jpg
+[16:35:06] Picture infomations saved to  global/it-IT/README.md
+[16:35:06] Picture infomations saved to global/it-IT/history/2026/01/29_it-IT.md
+[16:35:06] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-01-29 17:35:06.379255+01:00
+[16:35:06] Successful get url: https://www.bing.com/th?id=OHR.MilwaukeeHall_ES-ES2661368914_UHD.jpg
+[16:35:06] Picture infomations saved to  global/es-ES/README.md
+[16:35:06] Picture infomations saved to global/es-ES/history/2026/01/29_es-ES.md
+[16:35:06] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-01-29 11:35:06.554599-05:00
+[16:35:06] Successful get url: https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-CA5023663635_UHD.jpg
+[16:35:06] Picture infomations saved to  global/fr-CA/README.md
+[16:35:06] Picture infomations saved to global/fr-CA/history/2026/01/30_fr-CA.md
+Program exit at 16:35:06
