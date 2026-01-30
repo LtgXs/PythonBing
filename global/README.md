@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-01-30|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg)|
-||*Copyright: The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)*
+|2026-01-31|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg)|
+||*Copyright: St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)*
 ||
 |||
 |2026-01-30|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: セント・マイケルズ・マウント, イングランド (© Baxter Bradford/robertharding/Getty Images)*
 ||
 |||
-|2026-01-29|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-IN0132722943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-IN0132722943_UHD.jpg)|
-||*Copyright: The eight-story open atrium of Milwaukee City Hall, Wisconsin, United States (© lavin photography/Getty Images)*
+|2026-01-30|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-IN0431194953_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-IN0431194953_UHD.jpg)|
+||*Copyright: St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)*
 ||
 |||
-|2026-01-30|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_UHD.jpg)|
-||*Copyright: Prefeitura de Milwaukee, Wisconsin, Estados Unidos (© lavin photography/Getty Images)*
+|2026-01-31|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_UHD.jpg)|
+||*Copyright: Monte St. Michael em Marazion, Cornualha, Inglaterra (© Baxter Bradford/robertharding/Getty Images)*
 ||
 |||
-|2026-01-29|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_UHD.jpg)|
-||*Copyright: L'atrium ouvert de huit étages du Milwaukee City Hall, Wisconsin, États-Unis (© lavin photography/Getty Images)*
+|2026-01-30|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_FR-FR8333014700_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_FR-FR8333014700_UHD.jpg)|
+||*Copyright: St. Michael's Mount à Marazion, Cornouailles, Angleterre, Royaume-Uni (© Baxter Bradford/robertharding/Getty Images)*
 ||
 |||
-|2026-01-29|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MilwaukeeHall_DE-DE1517819604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilwaukeeHall_DE-DE1517819604_UHD.jpg)|
-||*Copyright: Achtstöckiges offenes Atrium im Rathaus von Milwaukee, Wisconsin, USA (© lavin photography/Getty Images)*
+|2026-01-30|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_UHD.jpg)|
+||*Copyright: St. Michael’s Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)*
 ||
 |||
-|2026-01-30|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-CA4166565215_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-CA4166565215_UHD.jpg)|
-||*Copyright: The eight-story open atrium of Milwaukee City Hall, Wisconsin, United States (© lavin photography/Getty Images)*
+|2026-01-31|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_UHD.jpg)|
+||*Copyright: 'Kimono' sculpted by Hiroaki Kimura and Masaki Takahashi of Japan, Winterlude 2010 (© PensiveDragon/Shutterstock)*
 ||
 |||
-|2026-01-30|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-GB2048442838_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-GB2048442838_UHD.jpg)|
-||*Copyright: The eight-story open atrium of Milwaukee City Hall, Wisconsin, USA (© lavin photography/Getty Images)*
+|2026-01-31|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-GB2680243066_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-GB2680243066_UHD.jpg)|
+||*Copyright: St Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)*
 ||
 |||
-|2026-01-29|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ItalyBlackbird_IT-IT4018019243_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ItalyBlackbird_IT-IT4018019243_UHD.jpg)|
-||*Copyright: Merlo tra frutti di bosco (© Paolino Massimiliano Manuel/iStock/Getty Images)*
+|2026-01-30|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AndermattSwiss_IT-IT7291559000_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AndermattSwiss_IT-IT7291559000_UHD.jpg)|
+||*Copyright: Andermatt, Svizzera (© Xantana/Getty Images)*
 ||
 |||
-|2026-01-29|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MilwaukeeHall_ES-ES2661368914_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilwaukeeHall_ES-ES2661368914_UHD.jpg)|
-||*Copyright: Atrio abierto de ocho plantas del Ayuntamiento de Milwaukee, Wisconsin, EE. UU. (© lavin photography/Getty Images)*
+|2026-01-30|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_ES-ES2889178961_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_ES-ES2889178961_UHD.jpg)|
+||*Copyright: Monte San Miguel en Marazion, Cornualles, Inglaterra (© Baxter Bradford/robertharding/Getty Images)*
 ||
 |||
-|2026-01-30|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-CA5023663635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-CA5023663635_UHD.jpg)|
-||*Copyright: L'atrium ouvert de huit étages du Milwaukee City Hall, Wisconsin, États-Unis (© lavin photography/Getty Images)*
+|2026-01-31|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.WinterludeKimono_FR-CA9880865878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterludeKimono_FR-CA9880865878_UHD.jpg)|
+||*Copyright: « Kimono » sculpté par Hiroaki Kimura et Masaki Takahashi du Japon, Bal de Neige 2010, Ottawa, Gatineau, Canada (© PensiveDragon/Shutterstock)*
 ||
 |||
 
