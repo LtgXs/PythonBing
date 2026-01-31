@@ -6,9 +6,9 @@
 ||*Copyright: Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)*
 ||
 |||
-|2026-01-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IceFestival2026_JA-JP1189462193_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IceFestival2026_JA-JP1189462193_UHD.jpg)|
-||*Copyright: ライトアップされた氷像, 北海道 千歳市 (© Hide's photos/Shutterstock)*
+|2026-02-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Echasse_JA-JP1351434706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Echasse_JA-JP1351434706_UHD.jpg)|
+||*Copyright: セイタカシギ, フランス (© Antonio Sementa/500px/Getty Images)*
 ||
 |||
 |2026-01-31|**Region: en-IN**||
