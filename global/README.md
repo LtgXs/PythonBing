@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-01-31|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg)|
-||*Copyright: St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)*
+|2026-02-01|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg)|
+||*Copyright: Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)*
 ||
 |||
 |2026-01-31|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ライトアップされた氷像, 北海道 千歳市 (© Hide's photos/Shutterstock)*
 ||
 |||
-|2026-01-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-IN0431194953_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-IN0431194953_UHD.jpg)|
-||*Copyright: St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)*
+|2026-01-31|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-IN0719032604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-IN0719032604_UHD.jpg)|
+||*Copyright: Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)*
 ||
 |||
-|2026-01-31|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_UHD.jpg)|
-||*Copyright: Monte St. Michael em Marazion, Cornualha, Inglaterra (© Baxter Bradford/robertharding/Getty Images)*
+|2026-02-01|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.EtoshaZebra_PT-BR9612132259_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EtoshaZebra_PT-BR9612132259_UHD.jpg)|
+||*Copyright: Zebras-da-planície, Parque Nacional de Etosha, Namíbia (© Mogens Trolle/Shutterstock)*
 ||
 |||
-|2026-01-30|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_FR-FR8333014700_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_FR-FR8333014700_UHD.jpg)|
-||*Copyright: St. Michael's Mount à Marazion, Cornouailles, Angleterre, Royaume-Uni (© Baxter Bradford/robertharding/Getty Images)*
+|2026-01-31|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.EtoshaZebra_FR-FR8636454138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EtoshaZebra_FR-FR8636454138_UHD.jpg)|
+||*Copyright: Des zèbres des plaines, Parc National d’Etosha, Namibie (© Mogens Trolle/Shutterstock)*
 ||
 |||
-|2026-01-30|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_UHD.jpg)|
-||*Copyright: St. Michael’s Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)*
+|2026-01-31|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.EtoshaZebra_DE-DE4542235434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EtoshaZebra_DE-DE4542235434_UHD.jpg)|
+||*Copyright: Steppenzebras, Etosha-Nationalpark, Namibia (© Mogens Trolle/Shutterstock)*
 ||
 |||
-|2026-01-31|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_UHD.jpg)|
-||*Copyright: 'Kimono' sculpted by Hiroaki Kimura and Masaki Takahashi of Japan, Winterlude 2010 (© PensiveDragon/Shutterstock)*
+|2026-02-01|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-CA5067971826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-CA5067971826_UHD.jpg)|
+||*Copyright: Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)*
 ||
 |||
-|2026-01-31|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-GB2680243066_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-GB2680243066_UHD.jpg)|
-||*Copyright: St Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)*
+|2026-02-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-GB2928302935_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-GB2928302935_UHD.jpg)|
+||*Copyright: Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)*
 ||
 |||
-|2026-01-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AndermattSwiss_IT-IT7291559000_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AndermattSwiss_IT-IT7291559000_UHD.jpg)|
-||*Copyright: Andermatt, Svizzera (© Xantana/Getty Images)*
+|2026-01-31|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.EtoshaZebra_IT-IT4234811619_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EtoshaZebra_IT-IT4234811619_UHD.jpg)|
+||*Copyright: Zebre delle pianure, Parco Nazionale di Etosha, Namibia (© Mogens Trolle/Shutterstock)*
 ||
 |||
-|2026-01-30|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.StMichaelsCornwall_ES-ES2889178961_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StMichaelsCornwall_ES-ES2889178961_UHD.jpg)|
-||*Copyright: Monte San Miguel en Marazion, Cornualles, Inglaterra (© Baxter Bradford/robertharding/Getty Images)*
+|2026-01-31|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.EtoshaZebra_ES-ES3051919725_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EtoshaZebra_ES-ES3051919725_UHD.jpg)|
+||*Copyright: Cebras de llanura, Parque Nacional Etosha, Namibia (© Mogens Trolle/Shutterstock)*
 ||
 |||
-|2026-01-31|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WinterludeKimono_FR-CA9880865878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinterludeKimono_FR-CA9880865878_UHD.jpg)|
-||*Copyright: « Kimono » sculpté par Hiroaki Kimura et Masaki Takahashi du Japon, Bal de Neige 2010, Ottawa, Gatineau, Canada (© PensiveDragon/Shutterstock)*
+|2026-02-01|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.EtoshaZebra_FR-CA0133466363_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EtoshaZebra_FR-CA0133466363_UHD.jpg)|
+||*Copyright: Des zèbres des plaines, Parc National d’Etosha, Namibie (© Mogens Trolle/Shutterstock)*
 ||
 |||
 
