@@ -6,9 +6,9 @@
 ||*Copyright: Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)*
 ||
 |||
-|2026-02-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP9866283970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP9866283970_UHD.jpg)|
-||*Copyright: タホ湖, 米国 (© Bill Stevenson/Cavan Images)*
+|2026-02-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Risshun2026_JA-JP6581085415_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Risshun2026_JA-JP6581085415_UHD.jpg)|
+||*Copyright: 梅の枝に止まるメジロ (© naotoshinkai/Getty Images)*
 ||
 |||
 |2026-02-03|**Region: en-IN**||
