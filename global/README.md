@@ -1,59 +1,59 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-02-03|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)|
-||*Copyright: Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)*
+|2026-02-04|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg)|
+||*Copyright: Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)*
 ||
 |||
 |2026-02-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP1861312549_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP1861312549_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP9866283970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP9866283970_UHD.jpg)|
 ||*Copyright: タホ湖, 米国 (© Bill Stevenson/Cavan Images)*
 ||
 |||
-|2026-02-02|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-IN1290603562_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-IN1290603562_UHD.jpg)|
-||*Copyright: Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)*
+|2026-02-03|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-IN1597160991_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_EN-IN1597160991_UHD.jpg)|
+||*Copyright: Emerald Bay and Fannette Island, Lake Tahoe, California, United States (© Bill Stevenson/Cavan Images)*
 ||
 |||
-|2026-02-03|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_UHD.jpg)|
-||*Copyright: Marmotas-alpinas, Parque Nacional Hohe Tauern, Áustria (© Raimund Linke/Getty Images)*
+|2026-02-04|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_UHD.jpg)|
+||*Copyright: Emerald Bay e Ilha Fanette, Lake Tahoe, Califórnia, Estados Unidos (© Bill Stevenson/Cavan Images)*
 ||
 |||
-|2026-02-02|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BretagneCrepe_FR-FR4282491151_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BretagneCrepe_FR-FR4282491151_UHD.jpg)|
-||*Copyright: Le phare de Kermorvan au coucher de soleil, Bretagne, France (© Fisfra/Getty Images)*
+|2026-02-03|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.FanetteIsland_FR-FR1712253597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_FR-FR1712253597_UHD.jpg)|
+||*Copyright: Emerald Bay et Fanette Island, Lac Tahoe, Californie, États-Unis (© Bill Stevenson/Cavan Images)*
 ||
 |||
-|2026-02-02|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AlpineMarmots_DE-DE4432571270_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineMarmots_DE-DE4432571270_UHD.jpg)|
-||*Copyright: Alpenmurmeltiere, Nationalpark Hohe Tauern, Österreich (© Raimund Linke/Getty Images)*
+|2026-02-03|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.FanetteIsland_DE-DE2043843466_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_DE-DE2043843466_UHD.jpg)|
+||*Copyright: Emerald Bay und Fannette Island, Lake Tahoe, Kalifornien, USA (© Bill Stevenson/Cavan Images)*
 ||
 |||
-|2026-02-03|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-CA4426727478_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-CA4426727478_UHD.jpg)|
-||*Copyright: Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)*
+|2026-02-04|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-CA7084329765_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_EN-CA7084329765_UHD.jpg)|
+||*Copyright: Emerald Bay and Fannette Island, Lake Tahoe, California, United States (© Bill Stevenson/Cavan Images)*
 ||
 |||
-|2026-02-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-GB8463846788_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-GB8463846788_UHD.jpg)|
-||*Copyright: Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)*
+|2026-02-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-GB4097522391_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_EN-GB4097522391_UHD.jpg)|
+||*Copyright: Emerald Bay and Fannette Island, Lake Tahoe, California, USA (© Bill Stevenson/Cavan Images)*
 ||
 |||
-|2026-02-02|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AlpineMarmots_IT-IT4461801484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineMarmots_IT-IT4461801484_UHD.jpg)|
-||*Copyright: Marmotte alpine, Parco Nazionale degli Alti Tauri, Austria (© Raimund Linke/Getty Images)*
+|2026-02-03|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.FanetteIsland_IT-IT4609209454_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_IT-IT4609209454_UHD.jpg)|
+||*Copyright: Emerald Bay e Fannette Island, Lago Tahoe, California, USA (© Bill Stevenson/Cavan Images)*
 ||
 |||
-|2026-02-02|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AlpineMarmots_ES-ES4070068615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineMarmots_ES-ES4070068615_UHD.jpg)|
-||*Copyright: Marmotas alpinas, Parque Nacional Hohe Tauern, Austria (© Raimund Linke/Getty Images)*
+|2026-02-03|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FanetteIsland_ES-ES4459822597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_ES-ES4459822597_UHD.jpg)|
+||*Copyright: Bahía Esmeralda e isla Fannette, lago Tahoe, California, EE. UU. (© Bill Stevenson/Cavan Images)*
 ||
 |||
-|2026-02-03|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AlpineMarmots_FR-CA6904692370_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineMarmots_FR-CA6904692370_UHD.jpg)|
-||*Copyright: Des marmottes des Alpes, Parc National des Hohe Tauern, Autriche (© Raimund Linke/Getty Images)*
+|2026-02-04|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.FanetteIsland_FR-CA7721428304_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FanetteIsland_FR-CA7721428304_UHD.jpg)|
+||*Copyright: Emerald Bay et Fanette Island, Lac Tahoe, Californie, États-Unis (© Bill Stevenson/Cavan Images)*
 ||
 |||
 

@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-02-04
+## History Bing Wallpaper
+Wallpaper date: 2026-02-04
 ![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-CA7084329765_UHD.jpg&w=1000)Download: [Emerald Bay and Fannette Island, Lake Tahoe, California, United States (© Bill Stevenson/Cavan Images)](https://www.bing.com/th?id=OHR.FanetteIsland_EN-CA7084329765_UHD.jpg)
 
 Auto get programm by LtgX

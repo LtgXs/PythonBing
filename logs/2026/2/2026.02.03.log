@@ -1,0 +1,60 @@
+
+Program started at 09:57:56
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmkj6or
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:57:56] Start geting CN Bing Wallpaper
+[09:57:56] Successful get url: https://www.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg
+[09:57:57] Image saved to img/background.jpg
+[09:57:57] Info saved to README.md
+[09:57:57] Image saved to history/2026/02/03.md
+[09:57:57] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-03 04:57:57.021348-05:00
+[09:57:57] Successful get url: https://www.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg
+[09:57:57] Picture infomations saved to  global/en-US/README.md
+[09:57:57] Picture infomations saved to global/en-US/history/2026/02/04_en-US.md
+[09:57:57] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-03 18:57:57.181132+09:00
+[09:57:57] Successful get url: https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP9866283970_UHD.jpg
+[09:57:57] Picture infomations saved to  global/ja-JP/README.md
+[09:57:57] Picture infomations saved to global/ja-JP/history/2026/02/03_ja-JP.md
+[09:57:57] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-03 15:27:57.351956+05:30
+[09:57:57] Successful get url: https://www.bing.com/th?id=OHR.FanetteIsland_EN-IN1597160991_UHD.jpg
+[09:57:57] Picture infomations saved to  global/en-IN/README.md
+[09:57:57] Picture infomations saved to global/en-IN/history/2026/02/03_en-IN.md
+[09:57:57] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-03 06:57:57.526391-03:00
+[09:57:57] Successful get url: https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_UHD.jpg
+[09:57:57] Picture infomations saved to  global/pt-BR/README.md
+[09:57:57] Picture infomations saved to global/pt-BR/history/2026/02/04_pt-BR.md
+[09:57:57] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-03 10:57:57.696397+01:00
+[09:57:57] Successful get url: https://www.bing.com/th?id=OHR.FanetteIsland_FR-FR1712253597_UHD.jpg
+[09:57:57] Picture infomations saved to  global/fr-FR/README.md
+[09:57:57] Picture infomations saved to global/fr-FR/history/2026/02/03_fr-FR.md
+[09:57:57] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-03 10:57:57.858386+01:00
+[09:57:57] Successful get url: https://www.bing.com/th?id=OHR.FanetteIsland_DE-DE2043843466_UHD.jpg
+[09:57:57] Picture infomations saved to  global/de-DE/README.md
+[09:57:57] Picture infomations saved to global/de-DE/history/2026/02/03_de-DE.md
+[09:57:57] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-03 04:57:57.996766-05:00
+[09:57:58] Successful get url: https://www.bing.com/th?id=OHR.FanetteIsland_EN-CA7084329765_UHD.jpg
+[09:57:58] Picture infomations saved to  global/en-CA/README.md
+[09:57:58] Picture infomations saved to global/en-CA/history/2026/02/04_en-CA.md
+[09:57:58] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-03 09:57:58.152139+00:00
+[09:57:58] Successful get url: https://www.bing.com/th?id=OHR.FanetteIsland_EN-GB4097522391_UHD.jpg
+[09:57:58] Picture infomations saved to  global/en-GB/README.md
+[09:57:58] Picture infomations saved to global/en-GB/history/2026/02/04_en-GB.md
+[09:57:58] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-03 10:57:58.320919+01:00
+[09:57:58] Successful get url: https://www.bing.com/th?id=OHR.FanetteIsland_IT-IT4609209454_UHD.jpg
+[09:57:58] Picture infomations saved to  global/it-IT/README.md
+[09:57:58] Picture infomations saved to global/it-IT/history/2026/02/03_it-IT.md
+[09:57:58] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-03 10:57:58.495051+01:00
+[09:57:58] Successful get url: https://www.bing.com/th?id=OHR.FanetteIsland_ES-ES4459822597_UHD.jpg
+[09:57:58] Picture infomations saved to  global/es-ES/README.md
+[09:57:58] Picture infomations saved to global/es-ES/history/2026/02/03_es-ES.md
+[09:57:58] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-03 04:57:58.664955-05:00
+[09:57:58] Successful get url: https://www.bing.com/th?id=OHR.FanetteIsland_FR-CA7721428304_UHD.jpg
+[09:57:58] Picture infomations saved to  global/fr-CA/README.md
+[09:57:58] Picture infomations saved to global/fr-CA/history/2026/02/04_fr-CA.md
+Program exit at 09:57:58
