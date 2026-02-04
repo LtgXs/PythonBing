@@ -6,9 +6,9 @@
 ||*Copyright: Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)*
 ||
 |||
-|2026-02-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Risshun2026_JA-JP6581085415_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Risshun2026_JA-JP6581085415_UHD.jpg)|
-||*Copyright: 梅の枝に止まるメジロ (© naotoshinkai/Getty Images)*
+|2026-02-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MaltaSalt_JA-JP9601510868_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaltaSalt_JA-JP9601510868_UHD.jpg)|
+||*Copyright: ゴゾ島, マルタ共和国 (© Marius Roman/Getty Images)*
 ||
 |||
 |2026-02-04|**Region: en-IN**||
