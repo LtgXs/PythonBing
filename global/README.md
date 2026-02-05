@@ -6,9 +6,9 @@
 ||*Copyright: Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)*
 ||
 |||
-|2026-02-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MaltaSalt_JA-JP9601510868_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaltaSalt_JA-JP9601510868_UHD.jpg)|
-||*Copyright: ゴゾ島, マルタ共和国 (© Marius Roman/Getty Images)*
+|2026-02-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GiauPass_JA-JP8605769992_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiauPass_JA-JP8605769992_UHD.jpg)|
+||*Copyright: ラ・グセラ峰, イタリア (© Tomasz Podolski/Getty Images)*
 ||
 |||
 |2026-02-05|**Region: en-IN**||
