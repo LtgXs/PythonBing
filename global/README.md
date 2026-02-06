@@ -6,9 +6,9 @@
 ||*Copyright: Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)*
 ||
 |||
-|2026-02-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GiauPass_JA-JP8605769992_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiauPass_JA-JP8605769992_UHD.jpg)|
-||*Copyright: ラ・グセラ峰, イタリア (© Tomasz Podolski/Getty Images)*
+|2026-02-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_UHD.jpg)|
+||*Copyright: 大通公園, 札幌市 (© Reuters/Kimimasa Mayama)*
 ||
 |||
 |2026-02-06|**Region: en-IN**||
