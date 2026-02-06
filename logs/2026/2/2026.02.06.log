@@ -1,0 +1,60 @@
+
+Program started at 09:59:02
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwffz4
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:59:02] Start geting CN Bing Wallpaper
+[09:59:02] Successful get url: https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg
+[09:59:03] Image saved to img/background.jpg
+[09:59:03] Info saved to README.md
+[09:59:03] Image saved to history/2026/02/06.md
+[09:59:03] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-06 04:59:03.089796-05:00
+[09:59:03] Successful get url: https://www.bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg
+[09:59:03] Picture infomations saved to  global/en-US/README.md
+[09:59:03] Picture infomations saved to global/en-US/history/2026/02/07_en-US.md
+[09:59:03] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-06 18:59:03.369827+09:00
+[09:59:03] Successful get url: https://www.bing.com/th?id=OHR.GiauPass_JA-JP8605769992_UHD.jpg
+[09:59:03] Picture infomations saved to  global/ja-JP/README.md
+[09:59:03] Picture infomations saved to global/ja-JP/history/2026/02/06_ja-JP.md
+[09:59:03] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-06 15:29:03.619917+05:30
+[09:59:03] Successful get url: https://www.bing.com/th?id=OHR.GiauPass_EN-IN8683361749_UHD.jpg
+[09:59:03] Picture infomations saved to  global/en-IN/README.md
+[09:59:03] Picture infomations saved to global/en-IN/history/2026/02/06_en-IN.md
+[09:59:03] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-06 06:59:03.846791-03:00
+[09:59:03] Successful get url: https://www.bing.com/th?id=OHR.GiauPass_PT-BR4269836464_UHD.jpg
+[09:59:04] Picture infomations saved to  global/pt-BR/README.md
+[09:59:04] Picture infomations saved to global/pt-BR/history/2026/02/07_pt-BR.md
+[09:59:04] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-06 10:59:04.077521+01:00
+[09:59:04] Successful get url: https://www.bing.com/th?id=OHR.GiauPass_FR-FR7292387386_UHD.jpg
+[09:59:04] Picture infomations saved to  global/fr-FR/README.md
+[09:59:04] Picture infomations saved to global/fr-FR/history/2026/02/06_fr-FR.md
+[09:59:04] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-06 10:59:04.285587+01:00
+[09:59:04] Successful get url: https://www.bing.com/th?id=OHR.GiauPass_DE-DE5864987336_UHD.jpg
+[09:59:04] Picture infomations saved to  global/de-DE/README.md
+[09:59:04] Picture infomations saved to global/de-DE/history/2026/02/06_de-DE.md
+[09:59:04] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-06 04:59:04.516632-05:00
+[09:59:04] Successful get url: https://www.bing.com/th?id=OHR.GiauPass_EN-CA8083583270_UHD.jpg
+[09:59:04] Picture infomations saved to  global/en-CA/README.md
+[09:59:04] Picture infomations saved to global/en-CA/history/2026/02/07_en-CA.md
+[09:59:04] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-06 09:59:04.734315+00:00
+[09:59:04] Successful get url: https://www.bing.com/th?id=OHR.GiauPass_EN-GB8439205435_UHD.jpg
+[09:59:04] Picture infomations saved to  global/en-GB/README.md
+[09:59:04] Picture infomations saved to global/en-GB/history/2026/02/07_en-GB.md
+[09:59:04] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-06 10:59:04.949281+01:00
+[09:59:05] Successful get url: https://www.bing.com/th?id=OHR.CortinaOlimpiadi_IT-IT1161240762_UHD.jpg
+[09:59:05] Picture infomations saved to  global/it-IT/README.md
+[09:59:05] Picture infomations saved to global/it-IT/history/2026/02/06_it-IT.md
+[09:59:05] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-06 10:59:05.175614+01:00
+[09:59:05] Successful get url: https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_UHD.jpg
+[09:59:05] Picture infomations saved to  global/es-ES/README.md
+[09:59:05] Picture infomations saved to global/es-ES/history/2026/02/06_es-ES.md
+[09:59:05] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-06 04:59:05.402926-05:00
+[09:59:05] Successful get url: https://www.bing.com/th?id=OHR.GiauPass_FR-CA5570284241_UHD.jpg
+[09:59:05] Picture infomations saved to  global/fr-CA/README.md
+[09:59:05] Picture infomations saved to global/fr-CA/history/2026/02/07_fr-CA.md
+Program exit at 09:59:05

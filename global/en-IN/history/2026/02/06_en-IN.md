@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-02-06
+## History Bing Wallpaper
+Wallpaper date: 2026-02-06
 ![](https://www.bing.com/th?id=OHR.GiauPass_EN-IN8683361749_UHD.jpg&w=1000)Download: [Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)](https://www.bing.com/th?id=OHR.GiauPass_EN-IN8683361749_UHD.jpg)
 
 Auto get programm by LtgX

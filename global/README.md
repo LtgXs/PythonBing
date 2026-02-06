@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-02-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg)|
-||*Copyright: Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)*
+|2026-02-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg)|
+||*Copyright: Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)*
 ||
 |||
 |2026-02-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ラ・グセラ峰, イタリア (© Tomasz Podolski/Getty Images)*
 ||
 |||
-|2026-02-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-IN2232887913_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaltaSalt_EN-IN2232887913_UHD.jpg)|
-||*Copyright: Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)*
+|2026-02-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GiauPass_EN-IN8683361749_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiauPass_EN-IN8683361749_UHD.jpg)|
+||*Copyright: Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)*
 ||
 |||
-|2026-02-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MaltaSalt_PT-BR2481485521_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaltaSalt_PT-BR2481485521_UHD.jpg)|
-||*Copyright: Tanques de evaporação de sal na ilha de Gozo, Malta (© Marius Roman/Getty Images)*
+|2026-02-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GiauPass_PT-BR4269836464_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiauPass_PT-BR4269836464_UHD.jpg)|
+||*Copyright: Pico Ra Gusela no Passo Giau, Itália (© Tomasz Podolski/Getty Images)*
 ||
 |||
-|2026-02-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MaltaSalt_FR-FR2211478643_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaltaSalt_FR-FR2211478643_UHD.jpg)|
-||*Copyright: Les marais salants de Gozo, Malte (© Marius Roman/Getty Images)*
+|2026-02-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GiauPass_FR-FR7292387386_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiauPass_FR-FR7292387386_UHD.jpg)|
+||*Copyright: Le Ra Gusela, col de Giau Pass, près de Cortina d'Ampezzo, Italie (© Tomasz Podolski/Getty Images)*
 ||
 |||
-|2026-02-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MaltaSalt_DE-DE3076934153_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaltaSalt_DE-DE3076934153_UHD.jpg)|
-||*Copyright: Salzpfannen auf der Insel Gozo, Malta (© Marius Roman/Getty Images)*
+|2026-02-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GiauPass_DE-DE5864987336_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiauPass_DE-DE5864987336_UHD.jpg)|
+||*Copyright: Gipfel Ra Gusela am Giau-Pass nahe Cortina d’Ampezzo, Italien (© Tomasz Podolski/Getty Images)*
 ||
 |||
-|2026-02-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-CA7894640375_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaltaSalt_EN-CA7894640375_UHD.jpg)|
-||*Copyright: Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)*
+|2026-02-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GiauPass_EN-CA8083583270_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiauPass_EN-CA8083583270_UHD.jpg)|
+||*Copyright: Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)*
 ||
 |||
-|2026-02-06|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MaltaSalt_EN-GB4895639801_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaltaSalt_EN-GB4895639801_UHD.jpg)|
-||*Copyright: Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)*
+|2026-02-07|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GiauPass_EN-GB8439205435_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiauPass_EN-GB8439205435_UHD.jpg)|
+||*Copyright: Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)*
 ||
 |||
-|2026-02-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MaltaSalt_IT-IT4724990773_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaltaSalt_IT-IT4724990773_UHD.jpg)|
-||*Copyright: Bacini di evaporazione del sale sull'isola di Gozo, Malta (© Marius Roman/Getty Images)*
+|2026-02-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CortinaOlimpiadi_IT-IT1161240762_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CortinaOlimpiadi_IT-IT1161240762_UHD.jpg)|
+||*Copyright: Cortina d’Ampezzo, Veneto (© Алексей Облов/Moment)*
 ||
 |||
-|2026-02-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MaltaSalt_ES-ES5429332602_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaltaSalt_ES-ES5429332602_UHD.jpg)|
-||*Copyright: Estanques de evaporación de sal en la isla de Gozo, Malta (© Marius Roman/Getty Images)*
+|2026-02-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_UHD.jpg)|
+||*Copyright: Pico Ra Gusela en el Paso Giau, cerca de Cortina d’Ampezzo, Italia (© Tomasz Podolski/Getty Images)*
 ||
 |||
-|2026-02-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaltaSalt_FR-CA8173669385_UHD.jpg)|
-||*Copyright: Les marais salants de Gozo, Malte (© Marius Roman/Getty Images)*
+|2026-02-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GiauPass_FR-CA5570284241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiauPass_FR-CA5570284241_UHD.jpg)|
+||*Copyright: Le Ra Gusela, col de Giau Pass, près de Cortina d'Ampezzo, Italie (© Tomasz Podolski/Getty Images)*
 ||
 |||
 
