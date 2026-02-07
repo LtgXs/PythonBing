@@ -6,9 +6,9 @@
 ||*Copyright: Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)*
 ||
 |||
-|2026-02-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_UHD.jpg)|
-||*Copyright: 大通公園, 札幌市 (© Reuters/Kimimasa Mayama)*
+|2026-02-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CorfuGreece_JA-JP0379760885_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorfuGreece_JA-JP0379760885_UHD.jpg)|
+||*Copyright: ケルキラ島, ギリシャ (© whitewizzard/Getty Images)*
 ||
 |||
 |2026-02-07|**Region: en-IN**||
