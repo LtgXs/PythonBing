@@ -1,0 +1,60 @@
+
+Program started at 09:43:38
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwffz4
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:43:38] Start geting CN Bing Wallpaper
+[09:43:38] Successful get url: https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg
+[09:43:38] Image saved to img/background.jpg
+[09:43:38] Info saved to README.md
+[09:43:38] Image saved to history/2026/02/07.md
+[09:43:38] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-07 04:43:38.927070-05:00
+[09:43:38] Successful get url: https://www.bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg
+[09:43:39] Picture infomations saved to  global/en-US/README.md
+[09:43:39] Picture infomations saved to global/en-US/history/2026/02/08_en-US.md
+[09:43:39] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-07 18:43:39.113829+09:00
+[09:43:39] Successful get url: https://www.bing.com/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_UHD.jpg
+[09:43:39] Picture infomations saved to  global/ja-JP/README.md
+[09:43:39] Picture infomations saved to global/ja-JP/history/2026/02/07_ja-JP.md
+[09:43:39] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-07 15:13:39.316294+05:30
+[09:43:39] Successful get url: https://www.bing.com/th?id=OHR.SalarUyuni_EN-IN8847464255_UHD.jpg
+[09:43:39] Picture infomations saved to  global/en-IN/README.md
+[09:43:39] Picture infomations saved to global/en-IN/history/2026/02/07_en-IN.md
+[09:43:39] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-07 06:43:39.480323-03:00
+[09:43:39] Successful get url: https://www.bing.com/th?id=OHR.SalarUyuni_PT-BR5319110687_UHD.jpg
+[09:43:39] Picture infomations saved to  global/pt-BR/README.md
+[09:43:39] Picture infomations saved to global/pt-BR/history/2026/02/08_pt-BR.md
+[09:43:39] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-07 10:43:39.636267+01:00
+[09:43:39] Successful get url: https://www.bing.com/th?id=OHR.SalarUyuni_FR-FR3839950538_UHD.jpg
+[09:43:39] Picture infomations saved to  global/fr-FR/README.md
+[09:43:39] Picture infomations saved to global/fr-FR/history/2026/02/07_fr-FR.md
+[09:43:39] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-07 10:43:39.782689+01:00
+[09:43:39] Successful get url: https://www.bing.com/th?id=OHR.SalarUyuni_DE-DE1726865557_UHD.jpg
+[09:43:40] Picture infomations saved to  global/de-DE/README.md
+[09:43:40] Picture infomations saved to global/de-DE/history/2026/02/07_de-DE.md
+[09:43:40] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-07 04:43:40.018532-05:00
+[09:43:40] Successful get url: https://www.bing.com/th?id=OHR.SalarUyuni_EN-CA9166148917_UHD.jpg
+[09:43:40] Picture infomations saved to  global/en-CA/README.md
+[09:43:40] Picture infomations saved to global/en-CA/history/2026/02/08_en-CA.md
+[09:43:40] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-07 09:43:40.228807+00:00
+[09:43:40] Successful get url: https://www.bing.com/th?id=OHR.SalarUyuni_EN-GB6291060813_UHD.jpg
+[09:43:40] Picture infomations saved to  global/en-GB/README.md
+[09:43:40] Picture infomations saved to global/en-GB/history/2026/02/08_en-GB.md
+[09:43:40] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-07 10:43:40.357112+01:00
+[09:43:40] Successful get url: https://www.bing.com/th?id=OHR.SalarUyuni_IT-IT0441176057_UHD.jpg
+[09:43:40] Picture infomations saved to  global/it-IT/README.md
+[09:43:40] Picture infomations saved to global/it-IT/history/2026/02/07_it-IT.md
+[09:43:40] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-07 10:43:40.507453+01:00
+[09:43:40] Successful get url: https://www.bing.com/th?id=OHR.SalarUyuni_ES-ES7917142389_UHD.jpg
+[09:43:40] Picture infomations saved to  global/es-ES/README.md
+[09:43:40] Picture infomations saved to global/es-ES/history/2026/02/07_es-ES.md
+[09:43:40] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-07 04:43:40.730802-05:00
+[09:43:40] Successful get url: https://www.bing.com/th?id=OHR.SalarUyuni_FR-CA1655211138_UHD.jpg
+[09:43:40] Picture infomations saved to  global/fr-CA/README.md
+[09:43:40] Picture infomations saved to global/fr-CA/history/2026/02/08_fr-CA.md
+Program exit at 09:43:40
