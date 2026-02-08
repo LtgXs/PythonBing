@@ -6,9 +6,9 @@
 ||*Copyright: Corfu at night, Greece (© whitewizzard/Getty Images)*
 ||
 |||
-|2026-02-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CorfuGreece_JA-JP0379760885_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorfuGreece_JA-JP0379760885_UHD.jpg)|
-||*Copyright: ケルキラ島, ギリシャ (© whitewizzard/Getty Images)*
+|2026-02-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LeopardCat_JA-JP0545650228_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardCat_JA-JP0545650228_UHD.jpg)|
+||*Copyright: アムールヤマネコ, ロシア (© Valeriy Maleev/naturepl.com)*
 ||
 |||
 |2026-02-08|**Region: en-IN**||
