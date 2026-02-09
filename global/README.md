@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-02-09|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg)|
-||*Copyright: Corfu at night, Greece (© whitewizzard/Getty Images)*
+|2026-02-10|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg)|
+||*Copyright: Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)*
 ||
 |||
 |2026-02-09|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アムールヤマネコ, ロシア (© Valeriy Maleev/naturepl.com)*
 ||
 |||
-|2026-02-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CorfuGreece_EN-IN8915585913_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorfuGreece_EN-IN8915585913_UHD.jpg)|
-||*Copyright: Corfu at night, Greece (© whitewizzard/Getty Images)*
+|2026-02-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LeopardCat_EN-IN8978692496_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardCat_EN-IN8978692496_UHD.jpg)|
+||*Copyright: Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)*
 ||
 |||
-|2026-02-09|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CorfuGreece_PT-BR5783395484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorfuGreece_PT-BR5783395484_UHD.jpg)|
-||*Copyright: Cidade de Corfu, Corfu, Grécia (© whitewizzard/Getty Images)*
+|2026-02-10|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.LeopardCat_PT-BR7297895046_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardCat_PT-BR7297895046_UHD.jpg)|
+||*Copyright: Gato-leopardo na Rússia (© Valeriy Maleev/naturepl.com)*
 ||
 |||
-|2026-02-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CorfuGreece_FR-FR6104979945_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorfuGreece_FR-FR6104979945_UHD.jpg)|
-||*Copyright: Corfou de nuit, Grèce (© whitewizzard/Getty Images)*
+|2026-02-09|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LeopardCat_FR-FR6480726195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardCat_FR-FR6480726195_UHD.jpg)|
+||*Copyright: Chat-léopard de l’Amour, Russie (© Valeriy Maleev/naturepl.com)*
 ||
 |||
-|2026-02-08|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CorfuGreece_DE-DE1940142224_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorfuGreece_DE-DE1940142224_UHD.jpg)|
-||*Copyright: Korfu bei Nacht, Griechenland (© whitewizzard/Getty Images)*
+|2026-02-09|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LeopardCat_DE-DE2297035168_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardCat_DE-DE2297035168_UHD.jpg)|
+||*Copyright: Amur‑Leopardkatze, Russland (© Valeriy Maleev/naturepl.com)*
 ||
 |||
-|2026-02-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CorfuGreece_EN-CA8765263319_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorfuGreece_EN-CA8765263319_UHD.jpg)|
-||*Copyright: Corfu at night, Greece (© whitewizzard/Getty Images)*
+|2026-02-10|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LeopardCat_EN-CA5823948981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardCat_EN-CA5823948981_UHD.jpg)|
+||*Copyright: Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)*
 ||
 |||
-|2026-02-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CorfuGreece_EN-GB6599547326_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorfuGreece_EN-GB6599547326_UHD.jpg)|
-||*Copyright: Corfu, Greece (© whitewizzard/Getty Images)*
+|2026-02-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.LeopardCat_EN-GB6887295327_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardCat_EN-GB6887295327_UHD.jpg)|
+||*Copyright: Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)*
 ||
 |||
-|2026-02-08|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CorfuGreece_IT-IT2512677240_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorfuGreece_IT-IT2512677240_UHD.jpg)|
-||*Copyright: Corfù, Grecia (© whitewizzard/Getty Images)*
+|2026-02-09|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LeopardCat_IT-IT7517648612_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardCat_IT-IT7517648612_UHD.jpg)|
+||*Copyright: Gatto leopardo dell'Amur, Russia (© Valeriy Maleev/naturepl.com)*
 ||
 |||
-|2026-02-08|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CorfuGreece_ES-ES2653018855_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorfuGreece_ES-ES2653018855_UHD.jpg)|
-||*Copyright: Corfú de noche, Grecia (© whitewizzard/Getty Images)*
+|2026-02-09|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LeopardCat_ES-ES2611815677_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardCat_ES-ES2611815677_UHD.jpg)|
+||*Copyright: Gato leopardo del Amur, Rusia (© Valeriy Maleev/naturepl.com)*
 ||
 |||
-|2026-02-09|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CorfuGreece_FR-CA5956532919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CorfuGreece_FR-CA5956532919_UHD.jpg)|
-||*Copyright: Corfou de nuit, Grèce (© whitewizzard/Getty Images)*
+|2026-02-10|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.LeopardCat_FR-CA5794577036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LeopardCat_FR-CA5794577036_UHD.jpg)|
+||*Copyright: Chat-léopard de l’Amour, Russie (© Valeriy Maleev/naturepl.com)*
 ||
 |||
 

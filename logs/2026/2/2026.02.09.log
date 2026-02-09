@@ -1,0 +1,60 @@
+
+Program started at 10:14:22
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwffz4
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[10:14:22] Start geting CN Bing Wallpaper
+[10:14:22] Successful get url: https://www.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_UHD.jpg
+[10:14:22] Image saved to img/background.jpg
+[10:14:22] Info saved to README.md
+[10:14:22] Image saved to history/2026/02/09.md
+[10:14:22] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-09 05:14:22.520655-05:00
+[10:14:22] Successful get url: https://www.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg
+[10:14:22] Picture infomations saved to  global/en-US/README.md
+[10:14:22] Picture infomations saved to global/en-US/history/2026/02/10_en-US.md
+[10:14:22] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-09 19:14:22.697708+09:00
+[10:14:22] Successful get url: https://www.bing.com/th?id=OHR.LeopardCat_JA-JP0545650228_UHD.jpg
+[10:14:22] Picture infomations saved to  global/ja-JP/README.md
+[10:14:22] Picture infomations saved to global/ja-JP/history/2026/02/09_ja-JP.md
+[10:14:22] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-09 15:44:22.807643+05:30
+[10:14:22] Successful get url: https://www.bing.com/th?id=OHR.LeopardCat_EN-IN8978692496_UHD.jpg
+[10:14:22] Picture infomations saved to  global/en-IN/README.md
+[10:14:22] Picture infomations saved to global/en-IN/history/2026/02/09_en-IN.md
+[10:14:22] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-09 07:14:22.910825-03:00
+[10:14:22] Successful get url: https://www.bing.com/th?id=OHR.LeopardCat_PT-BR7297895046_UHD.jpg
+[10:14:23] Picture infomations saved to  global/pt-BR/README.md
+[10:14:23] Picture infomations saved to global/pt-BR/history/2026/02/10_pt-BR.md
+[10:14:23] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-09 11:14:23.020666+01:00
+[10:14:23] Successful get url: https://www.bing.com/th?id=OHR.LeopardCat_FR-FR6480726195_UHD.jpg
+[10:14:23] Picture infomations saved to  global/fr-FR/README.md
+[10:14:23] Picture infomations saved to global/fr-FR/history/2026/02/09_fr-FR.md
+[10:14:23] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-09 11:14:23.128788+01:00
+[10:14:23] Successful get url: https://www.bing.com/th?id=OHR.LeopardCat_DE-DE2297035168_UHD.jpg
+[10:14:23] Picture infomations saved to  global/de-DE/README.md
+[10:14:23] Picture infomations saved to global/de-DE/history/2026/02/09_de-DE.md
+[10:14:23] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-09 05:14:23.246766-05:00
+[10:14:23] Successful get url: https://www.bing.com/th?id=OHR.LeopardCat_EN-CA5823948981_UHD.jpg
+[10:14:23] Picture infomations saved to  global/en-CA/README.md
+[10:14:23] Picture infomations saved to global/en-CA/history/2026/02/10_en-CA.md
+[10:14:23] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-09 10:14:23.374855+00:00
+[10:14:23] Successful get url: https://www.bing.com/th?id=OHR.LeopardCat_EN-GB6887295327_UHD.jpg
+[10:14:23] Picture infomations saved to  global/en-GB/README.md
+[10:14:23] Picture infomations saved to global/en-GB/history/2026/02/10_en-GB.md
+[10:14:23] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-09 11:14:23.497933+01:00
+[10:14:23] Successful get url: https://www.bing.com/th?id=OHR.LeopardCat_IT-IT7517648612_UHD.jpg
+[10:14:23] Picture infomations saved to  global/it-IT/README.md
+[10:14:23] Picture infomations saved to global/it-IT/history/2026/02/09_it-IT.md
+[10:14:23] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-09 11:14:23.605097+01:00
+[10:14:23] Successful get url: https://www.bing.com/th?id=OHR.LeopardCat_ES-ES2611815677_UHD.jpg
+[10:14:23] Picture infomations saved to  global/es-ES/README.md
+[10:14:23] Picture infomations saved to global/es-ES/history/2026/02/09_es-ES.md
+[10:14:23] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-09 05:14:23.713575-05:00
+[10:14:23] Successful get url: https://www.bing.com/th?id=OHR.LeopardCat_FR-CA5794577036_UHD.jpg
+[10:14:23] Picture infomations saved to  global/fr-CA/README.md
+[10:14:23] Picture infomations saved to global/fr-CA/history/2026/02/10_fr-CA.md
+Program exit at 10:14:23
