@@ -6,9 +6,9 @@
 ||*Copyright: Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)*
 ||
 |||
-|2026-02-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IbizaIslets_JA-JP0828320693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IbizaIslets_JA-JP0828320693_UHD.jpg)|
-||*Copyright: エス・ヴェドラ島, スペイン (© L. Apolli/Getty Images)*
+|2026-02-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056_UHD.jpg)|
+||*Copyright: 白梅の花 (© EarthScapeImageGraphy/Getty Images)*
 ||
 |||
 |2026-02-10|**Region: en-IN**||
