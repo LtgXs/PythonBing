@@ -1,0 +1,60 @@
+
+Program started at 10:09:44
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwffz4
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[10:09:44] Start geting CN Bing Wallpaper
+[10:09:44] Successful get url: https://www.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_UHD.jpg
+[10:09:45] Image saved to img/background.jpg
+[10:09:45] Info saved to README.md
+[10:09:45] Image saved to history/2026/02/10.md
+[10:09:45] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-10 05:09:45.287283-05:00
+[10:09:45] Successful get url: https://www.bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg
+[10:09:45] Picture infomations saved to  global/en-US/README.md
+[10:09:45] Picture infomations saved to global/en-US/history/2026/02/11_en-US.md
+[10:09:45] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-10 19:09:45.616457+09:00
+[10:09:45] Successful get url: https://www.bing.com/th?id=OHR.IbizaIslets_JA-JP0828320693_UHD.jpg
+[10:09:45] Picture infomations saved to  global/ja-JP/README.md
+[10:09:45] Picture infomations saved to global/ja-JP/history/2026/02/10_ja-JP.md
+[10:09:45] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-10 15:39:45.929955+05:30
+[10:09:45] Successful get url: https://www.bing.com/th?id=OHR.IbizaIslets_EN-IN9026256507_UHD.jpg
+[10:09:46] Picture infomations saved to  global/en-IN/README.md
+[10:09:46] Picture infomations saved to global/en-IN/history/2026/02/10_en-IN.md
+[10:09:46] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-10 07:09:46.276649-03:00
+[10:09:46] Successful get url: https://www.bing.com/th?id=OHR.IbizaIslets_PT-BR9549468001_UHD.jpg
+[10:09:46] Picture infomations saved to  global/pt-BR/README.md
+[10:09:46] Picture infomations saved to global/pt-BR/history/2026/02/11_pt-BR.md
+[10:09:46] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-10 11:09:46.656164+01:00
+[10:09:46] Successful get url: https://www.bing.com/th?id=OHR.IbizaIslets_FR-FR6531751588_UHD.jpg
+[10:09:47] Picture infomations saved to  global/fr-FR/README.md
+[10:09:47] Picture infomations saved to global/fr-FR/history/2026/02/10_fr-FR.md
+[10:09:47] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-10 11:09:47.050257+01:00
+[10:09:47] Successful get url: https://www.bing.com/th?id=OHR.IbizaIslets_DE-DE2745456055_UHD.jpg
+[10:09:47] Picture infomations saved to  global/de-DE/README.md
+[10:09:47] Picture infomations saved to global/de-DE/history/2026/02/10_de-DE.md
+[10:09:47] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-10 05:09:47.399477-05:00
+[10:09:47] Successful get url: https://www.bing.com/th?id=OHR.IbizaIslets_EN-CA9725218583_UHD.jpg
+[10:09:47] Picture infomations saved to  global/en-CA/README.md
+[10:09:47] Picture infomations saved to global/en-CA/history/2026/02/11_en-CA.md
+[10:09:47] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-10 10:09:47.733133+00:00
+[10:09:47] Successful get url: https://www.bing.com/th?id=OHR.IbizaIslets_EN-GB7236526241_UHD.jpg
+[10:09:48] Picture infomations saved to  global/en-GB/README.md
+[10:09:48] Picture infomations saved to global/en-GB/history/2026/02/11_en-GB.md
+[10:09:48] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-10 11:09:48.078438+01:00
+[10:09:48] Successful get url: https://www.bing.com/th?id=OHR.IbizaIslets_IT-IT7799437749_UHD.jpg
+[10:09:48] Picture infomations saved to  global/it-IT/README.md
+[10:09:48] Picture infomations saved to global/it-IT/history/2026/02/10_it-IT.md
+[10:09:48] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-10 11:09:48.471893+01:00
+[10:09:48] Successful get url: https://www.bing.com/th?id=OHR.DragonsEyeRock_ES-ES7325680371_UHD.jpg
+[10:09:48] Picture infomations saved to  global/es-ES/README.md
+[10:09:48] Picture infomations saved to global/es-ES/history/2026/02/10_es-ES.md
+[10:09:48] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-10 05:09:48.684997-05:00
+[10:09:48] Successful get url: https://www.bing.com/th?id=OHR.IbizaIslets_FR-CA6842489211_UHD.jpg
+[10:09:48] Picture infomations saved to  global/fr-CA/README.md
+[10:09:48] Picture infomations saved to global/fr-CA/history/2026/02/11_fr-CA.md
+Program exit at 10:09:48
