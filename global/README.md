@@ -6,9 +6,9 @@
 ||*Copyright: Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/TANDEM Stills + Motion)*
 ||
 |||
-|2026-02-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056_UHD.jpg)|
-||*Copyright: 白梅の花 (© EarthScapeImageGraphy/Getty Images)*
+|2026-02-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Olinda_JA-JP1273177244_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olinda_JA-JP1273177244_UHD.jpg)|
+||*Copyright: オリンダ歴史地区, ブラジル (© Robert Pekar/Alamy)*
 ||
 |||
 |2026-02-11|**Region: en-IN**||
