@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:05:52] Picture infomations saved to  global/fr-CA/README.md
 [10:05:52] Picture infomations saved to global/fr-CA/history/2026/02/13_fr-CA.md
 Program exit at 10:05:52
+
+Program started at 16:50:45
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwffz4
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:50:45] Start geting CN Bing Wallpaper
+[16:50:45] Successful get url: https://www.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_UHD.jpg
+[16:50:46] Image saved to img/background.jpg
+[16:50:46] Info saved to README.md
+[16:50:46] Image saved to history/2026/02/13.md
+[16:50:46] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-12 11:50:46.067414-05:00
+[16:50:46] Successful get url: https://www.bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg
+[16:50:46] Picture infomations saved to  global/en-US/README.md
+[16:50:46] Picture infomations saved to global/en-US/history/2026/02/13_en-US.md
+[16:50:46] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-13 01:50:46.260068+09:00
+[16:50:46] Successful get url: https://www.bing.com/th?id=OHR.FriendshipBridge_JA-JP1407443629_UHD.jpg
+[16:50:46] Picture infomations saved to  global/ja-JP/README.md
+[16:50:46] Picture infomations saved to global/ja-JP/history/2026/02/13_ja-JP.md
+[16:50:46] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-12 22:20:46.516699+05:30
+[16:50:46] Successful get url: https://www.bing.com/th?id=OHR.DarwinBooby_EN-IN9220190564_UHD.jpg
+[16:50:46] Picture infomations saved to  global/en-IN/README.md
+[16:50:46] Picture infomations saved to global/en-IN/history/2026/02/12_en-IN.md
+[16:50:46] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-12 13:50:46.801045-03:00
+[16:50:46] Successful get url: https://www.bing.com/th?id=OHR.DarwinBooby_PT-BR0902787838_UHD.jpg
+[16:50:47] Picture infomations saved to  global/pt-BR/README.md
+[16:50:47] Picture infomations saved to global/pt-BR/history/2026/02/13_pt-BR.md
+[16:50:47] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-12 17:50:47.001098+01:00
+[16:50:47] Successful get url: https://www.bing.com/th?id=OHR.DarwinBooby_FR-FR2410210068_UHD.jpg
+[16:50:47] Picture infomations saved to  global/fr-FR/README.md
+[16:50:47] Picture infomations saved to global/fr-FR/history/2026/02/12_fr-FR.md
+[16:50:47] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-12 17:50:47.183489+01:00
+[16:50:47] Successful get url: https://www.bing.com/th?id=OHR.BerlinaleHall_DE-DE3416408525_UHD.jpg
+[16:50:47] Picture infomations saved to  global/de-DE/README.md
+[16:50:47] Picture infomations saved to global/de-DE/history/2026/02/12_de-DE.md
+[16:50:47] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-12 11:50:47.423364-05:00
+[16:50:47] Successful get url: https://www.bing.com/th?id=OHR.DarwinBooby_EN-CA8905313156_UHD.jpg
+[16:50:48] Picture infomations saved to  global/en-CA/README.md
+[16:50:48] Picture infomations saved to global/en-CA/history/2026/02/13_en-CA.md
+[16:50:48] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-12 16:50:48.251006+00:00
+[16:50:48] Successful get url: https://www.bing.com/th?id=OHR.DarwinBooby_EN-GB7767254645_UHD.jpg
+[16:50:48] Picture infomations saved to  global/en-GB/README.md
+[16:50:48] Picture infomations saved to global/en-GB/history/2026/02/13_en-GB.md
+[16:50:48] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-12 17:50:48.797698+01:00
+[16:50:48] Successful get url: https://www.bing.com/th?id=OHR.DarwinBooby_IT-IT4879885475_UHD.jpg
+[16:50:49] Picture infomations saved to  global/it-IT/README.md
+[16:50:49] Picture infomations saved to global/it-IT/history/2026/02/12_it-IT.md
+[16:50:49] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-12 17:50:49.093616+01:00
+[16:50:49] Successful get url: https://www.bing.com/th?id=OHR.DarwinBooby_ES-ES2893793809_UHD.jpg
+[16:50:50] Picture infomations saved to  global/es-ES/README.md
+[16:50:50] Picture infomations saved to global/es-ES/history/2026/02/12_es-ES.md
+[16:50:50] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-12 11:50:50.381115-05:00
+[16:50:50] Successful get url: https://www.bing.com/th?id=OHR.DarwinBooby_FR-CA5256691798_UHD.jpg
+[16:50:50] Picture infomations saved to  global/fr-CA/README.md
+[16:50:50] Picture infomations saved to global/fr-CA/history/2026/02/13_fr-CA.md
+Program exit at 16:50:50

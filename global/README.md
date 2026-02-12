@@ -6,9 +6,9 @@
 ||*Copyright: Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)*
 ||
 |||
-|2026-02-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Olinda_JA-JP1273177244_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olinda_JA-JP1273177244_UHD.jpg)|
-||*Copyright: オリンダ歴史地区, ブラジル (© Robert Pekar/Alamy)*
+|2026-02-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FriendshipBridge_JA-JP1407443629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FriendshipBridge_JA-JP1407443629_UHD.jpg)|
+||*Copyright: 第3タイ・ラオス友好橋 (© chaiyut samsuk/Getty Images)*
 ||
 |||
 |2026-02-12|**Region: en-IN**||
