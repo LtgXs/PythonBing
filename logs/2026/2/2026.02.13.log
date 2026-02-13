@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:59:22] Picture infomations saved to  global/fr-CA/README.md
 [09:59:22] Picture infomations saved to global/fr-CA/history/2026/02/14_fr-CA.md
 Program exit at 09:59:22
+
+Program started at 16:37:00
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmjduv7
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:37:00] Start geting CN Bing Wallpaper
+[16:37:00] Successful get url: https://www.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg
+[16:37:00] Image saved to img/background.jpg
+[16:37:00] Info saved to README.md
+[16:37:00] Image saved to history/2026/02/14.md
+[16:37:00] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-13 11:37:00.713498-05:00
+[16:37:00] Successful get url: https://www.bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg
+[16:37:00] Picture infomations saved to  global/en-US/README.md
+[16:37:00] Picture infomations saved to global/en-US/history/2026/02/14_en-US.md
+[16:37:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-14 01:37:00.900220+09:00
+[16:37:00] Successful get url: https://www.bing.com/th?id=OHR.ValentineHearts_JA-JP1565993875_UHD.jpg
+[16:37:01] Picture infomations saved to  global/ja-JP/README.md
+[16:37:01] Picture infomations saved to global/ja-JP/history/2026/02/14_ja-JP.md
+[16:37:01] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-13 22:07:01.100864+05:30
+[16:37:01] Successful get url: https://www.bing.com/th?id=OHR.FriendshipBridge_EN-IN9279410683_UHD.jpg
+[16:37:01] Picture infomations saved to  global/en-IN/README.md
+[16:37:01] Picture infomations saved to global/en-IN/history/2026/02/13_en-IN.md
+[16:37:01] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-13 13:37:01.272042-03:00
+[16:37:01] Successful get url: https://www.bing.com/th?id=OHR.FriendshipBridge_PT-BR4153023841_UHD.jpg
+[16:37:01] Picture infomations saved to  global/pt-BR/README.md
+[16:37:01] Picture infomations saved to global/pt-BR/history/2026/02/14_pt-BR.md
+[16:37:01] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-13 17:37:01.459541+01:00
+[16:37:01] Successful get url: https://www.bing.com/th?id=OHR.FriendshipBridge_FR-FR5704773652_UHD.jpg
+[16:37:01] Picture infomations saved to  global/fr-FR/README.md
+[16:37:01] Picture infomations saved to global/fr-FR/history/2026/02/13_fr-FR.md
+[16:37:01] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-13 17:37:01.764702+01:00
+[16:37:01] Successful get url: https://www.bing.com/th?id=OHR.FriendshipBridge_DE-DE8245998463_UHD.jpg
+[16:37:01] Picture infomations saved to  global/de-DE/README.md
+[16:37:01] Picture infomations saved to global/de-DE/history/2026/02/13_de-DE.md
+[16:37:01] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-13 11:37:01.941816-05:00
+[16:37:01] Successful get url: https://www.bing.com/th?id=OHR.FriendshipBridge_EN-CA9180302051_UHD.jpg
+[16:37:02] Picture infomations saved to  global/en-CA/README.md
+[16:37:02] Picture infomations saved to global/en-CA/history/2026/02/14_en-CA.md
+[16:37:02] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-13 16:37:02.139798+00:00
+[16:37:02] Successful get url: https://www.bing.com/th?id=OHR.FriendshipBridge_EN-GB8080277679_UHD.jpg
+[16:37:02] Picture infomations saved to  global/en-GB/README.md
+[16:37:02] Picture infomations saved to global/en-GB/history/2026/02/14_en-GB.md
+[16:37:02] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-13 17:37:02.405695+01:00
+[16:37:02] Successful get url: https://www.bing.com/th?id=OHR.FriendshipBridge_IT-IT0003771526_UHD.jpg
+[16:37:02] Picture infomations saved to  global/it-IT/README.md
+[16:37:02] Picture infomations saved to global/it-IT/history/2026/02/13_it-IT.md
+[16:37:02] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-13 17:37:02.576061+01:00
+[16:37:02] Successful get url: https://www.bing.com/th?id=OHR.FriendshipBridge_ES-ES2971245764_UHD.jpg
+[16:37:02] Picture infomations saved to  global/es-ES/README.md
+[16:37:02] Picture infomations saved to global/es-ES/history/2026/02/13_es-ES.md
+[16:37:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-13 11:37:02.834509-05:00
+[16:37:02] Successful get url: https://www.bing.com/th?id=OHR.FriendshipBridge_FR-CA7118708178_UHD.jpg
+[16:37:03] Picture infomations saved to  global/fr-CA/README.md
+[16:37:03] Picture infomations saved to global/fr-CA/history/2026/02/14_fr-CA.md
+Program exit at 16:37:03

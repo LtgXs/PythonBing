@@ -6,9 +6,9 @@
 ||*Copyright: Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images)*
 ||
 |||
-|2026-02-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FriendshipBridge_JA-JP1407443629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FriendshipBridge_JA-JP1407443629_UHD.jpg)|
-||*Copyright: 第3タイ・ラオス友好橋 (© chaiyut samsuk/Getty Images)*
+|2026-02-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ValentineHearts_JA-JP1565993875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValentineHearts_JA-JP1565993875_UHD.jpg)|
+||*Copyright: ハート型のケマンソウ, カナダ オンタリオ州 (© Dorene Hookey/Cavan Images)*
 ||
 |||
 |2026-02-13|**Region: en-IN**||
