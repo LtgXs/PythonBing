@@ -6,9 +6,9 @@
 ||*Copyright: Bleeding hearts (© Dorene Hookey/Cavan Images)*
 ||
 |||
-|2026-02-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ValentineHearts_JA-JP1565993875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValentineHearts_JA-JP1565993875_UHD.jpg)|
-||*Copyright: ハート型のケマンソウ, カナダ オンタリオ州 (© Dorene Hookey/Cavan Images)*
+|2026-02-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_JA-JP5360073142_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_JA-JP5360073142_UHD.jpg)|
+||*Copyright: 海面から飛び出すザトウクジラ, 米国 カリフォルニア州 (© Kiliii Fish/Cavan Images)*
 ||
 |||
 |2026-02-14|**Region: en-IN**||
