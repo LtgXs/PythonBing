@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-02-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg)|
-||*Copyright: Bleeding hearts (© Dorene Hookey/Cavan Images)*
+|2026-02-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg)|
+||*Copyright: Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)*
 ||
 |||
 |2026-02-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 海面から飛び出すザトウクジラ, 米国 カリフォルニア州 (© Kiliii Fish/Cavan Images)*
 ||
 |||
-|2026-02-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ValentineHearts_EN-IN9333874983_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValentineHearts_EN-IN9333874983_UHD.jpg)|
-||*Copyright: Bleeding hearts (© Dorene Hookey/Cavan Images)*
+|2026-02-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MahaShivaratri2026_EN-IN9432301075_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MahaShivaratri2026_EN-IN9432301075_UHD.jpg)|
+||*Copyright: Statue of Shiva at Murudeshwara Temple, Uttara Kannada, Karnataka (© Amith Nag Photography/Moment/Getty Image)*
 ||
 |||
-|2026-02-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Carnaval26_PT-BR4981816549_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Carnaval26_PT-BR4981816549_UHD.jpg)|
-||*Copyright: Escola de samba São Clemente no Sambódromo do Rio de Janeiro, 2016 (© YASUYOSHI CHIBA/AFP via Getty Images)*
+|2026-02-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_PT-BR6399797691_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_PT-BR6399797691_UHD.jpg)|
+||*Copyright: Baleias-jubarte na Baía de Monterey, Califórnia, EUA (© Kiliii Fish/Cavan Images)*
 ||
 |||
-|2026-02-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ValentineHearts_FR-FR1591236824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValentineHearts_FR-FR1591236824_UHD.jpg)|
-||*Copyright: Cœurs de Marie (© Dorene Hookey/Cavan Images)*
+|2026-02-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-FR2588165622_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-FR2588165622_UHD.jpg)|
+||*Copyright: Baleines à bosse à Monterey, Californie, États-Unis (© Kiliii Fish/Cavan Images)*
 ||
 |||
-|2026-02-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ValentineHearts_DE-DE3786630140_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValentineHearts_DE-DE3786630140_UHD.jpg)|
-||*Copyright: Tränendes Herz (© Dorene Hookey/Cavan Images)*
+|2026-02-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088_UHD.jpg)|
+||*Copyright: Buckelwale in der Monterey Bay, Kalifornien, USA (© Kiliii Fish/Cavan Images)*
 ||
 |||
-|2026-02-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ValentineHearts_EN-CA0194351855_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValentineHearts_EN-CA0194351855_UHD.jpg)|
-||*Copyright: Bleeding hearts (© Dorene Hookey/Cavan Images)*
+|2026-02-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_UHD.jpg)|
+||*Copyright: Humpback whales in Monterey Bay, California, United States (© Kiliii Fish/Cavan Images)*
 ||
 |||
-|2026-02-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ValentineHearts_EN-GB9308860747_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValentineHearts_EN-GB9308860747_UHD.jpg)|
-||*Copyright: Bleeding hearts (© Dorene Hookey/Cavan Images)*
+|2026-02-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276_UHD.jpg)|
+||*Copyright: Humpback whales, Monterey Bay, California, United States (© Kiliii Fish/Cavan Images)*
 ||
 |||
-|2026-02-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SanValentino_IT-IT4953032598_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanValentino_IT-IT4953032598_UHD.jpg)|
-||*Copyright: Verona, Veneto (© Jan Hendrik/Shutterstock/Getty Images)*
+|2026-02-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_IT-IT5095312358_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_IT-IT5095312358_UHD.jpg)|
+||*Copyright: Balene megattere, Baia di Monterey, California, USA (© Kiliii Fish/Cavan Images)*
 ||
 |||
-|2026-02-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ValentineHearts_ES-ES3038334122_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValentineHearts_ES-ES3038334122_UHD.jpg)|
-||*Copyright: Corazones sangrantes (© Dorene Hookey/Cavan Images)*
+|2026-02-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.IbizaIslets_ES-ES3095870118_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IbizaIslets_ES-ES3095870118_UHD.jpg)|
+||*Copyright: Islotes de Es Vedrá y Es Vedranell, Ibiza (© L. Apolli/Getty Images)*
 ||
 |||
-|2026-02-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ValentineHearts_FR-CA7167207051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValentineHearts_FR-CA7167207051_UHD.jpg)|
-||*Copyright: Cœurs saignants (© Dorene Hookey/Cavan Images)*
+|2026-02-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-CA6777518726_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-CA6777518726_UHD.jpg)|
+||*Copyright: Baleines à bosse à Monterey, Californie, États-Unis (© Kiliii Fish/Cavan Images)*
 ||
 |||
 

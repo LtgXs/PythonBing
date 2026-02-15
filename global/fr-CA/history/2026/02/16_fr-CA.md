@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-02-16
+## History Bing Wallpaper
+Wallpaper date: 2026-02-16
 ![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-CA6777518726_UHD.jpg&w=1000)Download: [Baleines à bosse à Monterey, Californie, États-Unis (© Kiliii Fish/Cavan Images)](https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-CA6777518726_UHD.jpg)
 
 Auto get programm by LtgX
