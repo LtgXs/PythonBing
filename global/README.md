@@ -6,9 +6,9 @@
 ||*Copyright: Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)*
 ||
 |||
-|2026-02-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_JA-JP5360073142_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_JA-JP5360073142_UHD.jpg)|
-||*Copyright: 海面から飛び出すザトウクジラ, 米国 カリフォルニア州 (© Kiliii Fish/Cavan Images)*
+|2026-02-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_JA-JP2834863474_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_JA-JP2834863474_UHD.jpg)|
+||*Copyright: アカトビ (© Carl Mckie/500px/Getty Images)*
 ||
 |||
 |2026-02-15|**Region: en-IN**||
