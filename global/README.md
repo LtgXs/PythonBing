@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-02-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg)|
-||*Copyright: Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)*
+|2026-02-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg)|
+||*Copyright: Lincoln Memorial, Washington, DC (© Westend61/Getty Images)*
 ||
 |||
 |2026-02-16|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アカトビ (© Carl Mckie/500px/Getty Images)*
 ||
 |||
-|2026-02-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MahaShivaratri2026_EN-IN9432301075_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MahaShivaratri2026_EN-IN9432301075_UHD.jpg)|
-||*Copyright: Statue of Shiva at Murudeshwara Temple, Uttara Kannada, Karnataka (© Amith Nag Photography/Moment/Getty Image)*
+|2026-02-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BanffWinter_EN-IN9640409909_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BanffWinter_EN-IN9640409909_UHD.jpg)|
+||*Copyright: Scenic view of lake by snowcapped mountains in Banff, Alberta, Canada (© Herbert Rong/Getty Images)*
 ||
 |||
-|2026-02-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_PT-BR6399797691_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_PT-BR6399797691_UHD.jpg)|
-||*Copyright: Baleias-jubarte na Baía de Monterey, Califórnia, EUA (© Kiliii Fish/Cavan Images)*
+|2026-02-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BanffWinter_PT-BR7066922976_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BanffWinter_PT-BR7066922976_UHD.jpg)|
+||*Copyright: Lago e montanhas nevadas em Banff, Alberta, Canadá (© Herbert Rong/Getty Images)*
 ||
 |||
-|2026-02-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-FR2588165622_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-FR2588165622_UHD.jpg)|
-||*Copyright: Baleines à bosse à Monterey, Californie, États-Unis (© Kiliii Fish/Cavan Images)*
+|2026-02-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Bornand_FR-FR4225399243_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Bornand_FR-FR4225399243_UHD.jpg)|
+||*Copyright: Le Grand-Bornand, Haute-Savoie (© JACQUES Pierre/hemis.fr/Alamy)*
 ||
 |||
-|2026-02-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088_UHD.jpg)|
-||*Copyright: Buckelwale in der Monterey Bay, Kalifornien, USA (© Kiliii Fish/Cavan Images)*
+|2026-02-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_UHD.jpg)|
+||*Copyright: Rosenmontagszug in Köln, Nordrhein-Westfalen (© mauritius images GmbH/Alamy)*
 ||
 |||
-|2026-02-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_UHD.jpg)|
-||*Copyright: Humpback whales in Monterey Bay, California, United States (© Kiliii Fish/Cavan Images)*
+|2026-02-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_UHD.jpg)|
+||*Copyright: Scenic view of lake by snowcapped mountains in Banff, Alberta (© Herbert Rong/Getty Images)*
 ||
 |||
-|2026-02-16|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276_UHD.jpg)|
-||*Copyright: Humpback whales, Monterey Bay, California, United States (© Kiliii Fish/Cavan Images)*
+|2026-02-17|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.JorvikVikingFestival2026_EN-GB0705464256_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JorvikVikingFestival2026_EN-GB0705464256_UHD.jpg)|
+||*Copyright: York, England (© CHUNYIP WONG/iStock/Getty Images)*
 ||
 |||
-|2026-02-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_IT-IT5095312358_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_IT-IT5095312358_UHD.jpg)|
-||*Copyright: Balene megattere, Baia di Monterey, California, USA (© Kiliii Fish/Cavan Images)*
+|2026-02-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DragonsEyeRock_IT-IT5246962899_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonsEyeRock_IT-IT5246962899_UHD.jpg)|
+||*Copyright: Formazione rocciosa Dragon's Eye, spiaggia di Uttakleiv, Norvegia (© reisegraf/Getty Images)*
 ||
 |||
-|2026-02-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.IbizaIslets_ES-ES3095870118_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IbizaIslets_ES-ES3095870118_UHD.jpg)|
-||*Copyright: Islotes de Es Vedrá y Es Vedranell, Ibiza (© L. Apolli/Getty Images)*
+|2026-02-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BanffWinter_ES-ES3143885243_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BanffWinter_ES-ES3143885243_UHD.jpg)|
+||*Copyright: Banff, Alberta, Canadá (© Herbert Rong/Getty Images)*
 ||
 |||
-|2026-02-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-CA6777518726_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-CA6777518726_UHD.jpg)|
-||*Copyright: Baleines à bosse à Monterey, Californie, États-Unis (© Kiliii Fish/Cavan Images)*
+|2026-02-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BanffWinter_FR-CA2584265368_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BanffWinter_FR-CA2584265368_UHD.jpg)|
+||*Copyright: Lac et montagnes enneigées à Banff, Alberta (© Herbert Rong/Getty Images)*
 ||
 |||
 

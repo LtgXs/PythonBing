@@ -1,0 +1,60 @@
+
+Program started at 10:08:45
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmjduv7
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[10:08:45] Start geting CN Bing Wallpaper
+[10:08:45] Successful get url: https://www.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg
+[10:08:45] Image saved to img/background.jpg
+[10:08:45] Info saved to README.md
+[10:08:45] Image saved to history/2026/02/16.md
+[10:08:45] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-16 05:08:45.788405-05:00
+[10:08:45] Successful get url: https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg
+[10:08:45] Picture infomations saved to  global/en-US/README.md
+[10:08:45] Picture infomations saved to global/en-US/history/2026/02/17_en-US.md
+[10:08:45] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-16 19:08:45.925919+09:00
+[10:08:45] Successful get url: https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_JA-JP2834863474_UHD.jpg
+[10:08:46] Picture infomations saved to  global/ja-JP/README.md
+[10:08:46] Picture infomations saved to global/ja-JP/history/2026/02/16_ja-JP.md
+[10:08:46] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-16 15:38:46.062758+05:30
+[10:08:46] Successful get url: https://www.bing.com/th?id=OHR.BanffWinter_EN-IN9640409909_UHD.jpg
+[10:08:46] Picture infomations saved to  global/en-IN/README.md
+[10:08:46] Picture infomations saved to global/en-IN/history/2026/02/16_en-IN.md
+[10:08:46] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-16 07:08:46.253562-03:00
+[10:08:46] Successful get url: https://www.bing.com/th?id=OHR.BanffWinter_PT-BR7066922976_UHD.jpg
+[10:08:46] Picture infomations saved to  global/pt-BR/README.md
+[10:08:46] Picture infomations saved to global/pt-BR/history/2026/02/17_pt-BR.md
+[10:08:46] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-16 11:08:46.633171+01:00
+[10:08:46] Successful get url: https://www.bing.com/th?id=OHR.Bornand_FR-FR4225399243_UHD.jpg
+[10:08:46] Picture infomations saved to  global/fr-FR/README.md
+[10:08:46] Picture infomations saved to global/fr-FR/history/2026/02/16_fr-FR.md
+[10:08:46] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-16 11:08:46.764261+01:00
+[10:08:46] Successful get url: https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_UHD.jpg
+[10:08:46] Picture infomations saved to  global/de-DE/README.md
+[10:08:46] Picture infomations saved to global/de-DE/history/2026/02/16_de-DE.md
+[10:08:46] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-16 05:08:46.968761-05:00
+[10:08:47] Successful get url: https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_UHD.jpg
+[10:08:47] Picture infomations saved to  global/en-CA/README.md
+[10:08:47] Picture infomations saved to global/en-CA/history/2026/02/17_en-CA.md
+[10:08:47] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-16 10:08:47.104317+00:00
+[10:08:47] Successful get url: https://www.bing.com/th?id=OHR.JorvikVikingFestival2026_EN-GB0705464256_UHD.jpg
+[10:08:47] Picture infomations saved to  global/en-GB/README.md
+[10:08:47] Picture infomations saved to global/en-GB/history/2026/02/17_en-GB.md
+[10:08:47] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-16 11:08:47.221752+01:00
+[10:08:47] Successful get url: https://www.bing.com/th?id=OHR.DragonsEyeRock_IT-IT5246962899_UHD.jpg
+[10:08:47] Picture infomations saved to  global/it-IT/README.md
+[10:08:47] Picture infomations saved to global/it-IT/history/2026/02/16_it-IT.md
+[10:08:47] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-16 11:08:47.421866+01:00
+[10:08:47] Successful get url: https://www.bing.com/th?id=OHR.BanffWinter_ES-ES3143885243_UHD.jpg
+[10:08:47] Picture infomations saved to  global/es-ES/README.md
+[10:08:47] Picture infomations saved to global/es-ES/history/2026/02/16_es-ES.md
+[10:08:47] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-16 05:08:47.617259-05:00
+[10:08:47] Successful get url: https://www.bing.com/th?id=OHR.BanffWinter_FR-CA2584265368_UHD.jpg
+[10:08:47] Picture infomations saved to  global/fr-CA/README.md
+[10:08:47] Picture infomations saved to global/fr-CA/history/2026/02/17_fr-CA.md
+Program exit at 10:08:47
