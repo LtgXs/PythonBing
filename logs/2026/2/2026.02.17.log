@@ -1,0 +1,60 @@
+
+Program started at 10:04:29
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmjduv7
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[10:04:29] Start geting CN Bing Wallpaper
+[10:04:29] Successful get url: https://www.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg
+[10:04:29] Image saved to img/background.jpg
+[10:04:29] Info saved to README.md
+[10:04:29] Image saved to history/2026/02/17.md
+[10:04:29] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-17 05:04:29.360320-05:00
+[10:04:29] Successful get url: https://www.bing.com/th?id=OHR.NewYearLantern_EN-US6665128229_UHD.jpg
+[10:04:29] Picture infomations saved to  global/en-US/README.md
+[10:04:29] Picture infomations saved to global/en-US/history/2026/02/18_en-US.md
+[10:04:29] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-17 19:04:29.481007+09:00
+[10:04:29] Successful get url: https://www.bing.com/th?id=OHR.NewYearLantern_JA-JP3079738564_UHD.jpg
+[10:04:29] Picture infomations saved to  global/ja-JP/README.md
+[10:04:29] Picture infomations saved to global/ja-JP/history/2026/02/17_ja-JP.md
+[10:04:29] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-17 15:34:29.590600+05:30
+[10:04:29] Successful get url: https://www.bing.com/th?id=OHR.NewYearLantern_EN-IN7681988539_UHD.jpg
+[10:04:29] Picture infomations saved to  global/en-IN/README.md
+[10:04:29] Picture infomations saved to global/en-IN/history/2026/02/17_en-IN.md
+[10:04:29] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-17 07:04:29.706752-03:00
+[10:04:29] Successful get url: https://www.bing.com/th?id=OHR.NewYearLantern_PT-BR7587558127_UHD.jpg
+[10:04:29] Picture infomations saved to  global/pt-BR/README.md
+[10:04:29] Picture infomations saved to global/pt-BR/history/2026/02/18_pt-BR.md
+[10:04:29] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-17 11:04:29.831894+01:00
+[10:04:29] Successful get url: https://www.bing.com/th?id=OHR.NewYearLantern_FR-FR2946545684_UHD.jpg
+[10:04:29] Picture infomations saved to  global/fr-FR/README.md
+[10:04:29] Picture infomations saved to global/fr-FR/history/2026/02/17_fr-FR.md
+[10:04:29] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-17 11:04:29.939484+01:00
+[10:04:29] Successful get url: https://www.bing.com/th?id=OHR.NewYearLantern_DE-DE3336246364_UHD.jpg
+[10:04:30] Picture infomations saved to  global/de-DE/README.md
+[10:04:30] Picture infomations saved to global/de-DE/history/2026/02/17_de-DE.md
+[10:04:30] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-17 05:04:30.057126-05:00
+[10:04:30] Successful get url: https://www.bing.com/th?id=OHR.NewYearLantern_EN-CA1106555722_UHD.jpg
+[10:04:30] Picture infomations saved to  global/en-CA/README.md
+[10:04:30] Picture infomations saved to global/en-CA/history/2026/02/18_en-CA.md
+[10:04:30] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-17 10:04:30.192111+00:00
+[10:04:30] Successful get url: https://www.bing.com/th?id=OHR.NewYearLantern_EN-GB0911837862_UHD.jpg
+[10:04:30] Picture infomations saved to  global/en-GB/README.md
+[10:04:30] Picture infomations saved to global/en-GB/history/2026/02/18_en-GB.md
+[10:04:30] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-17 11:04:30.425906+01:00
+[10:04:30] Successful get url: https://www.bing.com/th?id=OHR.NewYearLantern_IT-IT2070900260_UHD.jpg
+[10:04:30] Picture infomations saved to  global/it-IT/README.md
+[10:04:30] Picture infomations saved to global/it-IT/history/2026/02/17_it-IT.md
+[10:04:30] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-17 11:04:30.575452+01:00
+[10:04:30] Successful get url: https://www.bing.com/th?id=OHR.NewYearLantern_ES-ES3189574771_UHD.jpg
+[10:04:30] Picture infomations saved to  global/es-ES/README.md
+[10:04:30] Picture infomations saved to global/es-ES/history/2026/02/17_es-ES.md
+[10:04:30] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-17 05:04:30.679813-05:00
+[10:04:30] Successful get url: https://www.bing.com/th?id=OHR.NewYearLantern_FR-CA8901839113_UHD.jpg
+[10:04:30] Picture infomations saved to  global/fr-CA/README.md
+[10:04:30] Picture infomations saved to global/fr-CA/history/2026/02/18_fr-CA.md
+Program exit at 10:04:30
