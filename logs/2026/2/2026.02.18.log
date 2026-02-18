@@ -1,0 +1,60 @@
+
+Program started at 10:03:46
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmjduv7
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[10:03:46] Start geting CN Bing Wallpaper
+[10:03:46] Successful get url: https://www.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg
+[10:03:46] Image saved to img/background.jpg
+[10:03:46] Info saved to README.md
+[10:03:46] Image saved to history/2026/02/18.md
+[10:03:46] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-18 05:03:46.756215-05:00
+[10:03:46] Successful get url: https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg
+[10:03:46] Picture infomations saved to  global/en-US/README.md
+[10:03:46] Picture infomations saved to global/en-US/history/2026/02/19_en-US.md
+[10:03:46] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-18 19:03:46.986159+09:00
+[10:03:47] Successful get url: https://www.bing.com/th?id=OHR.PrzewalskisHorse_JA-JP3314314525_UHD.jpg
+[10:03:47] Picture infomations saved to  global/ja-JP/README.md
+[10:03:47] Picture infomations saved to global/ja-JP/history/2026/02/18_ja-JP.md
+[10:03:47] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-18 15:33:47.425254+05:30
+[10:03:47] Successful get url: https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-IN0103844198_UHD.jpg
+[10:03:47] Picture infomations saved to  global/en-IN/README.md
+[10:03:47] Picture infomations saved to global/en-IN/history/2026/02/18_en-IN.md
+[10:03:47] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-18 07:03:47.794971-03:00
+[10:03:47] Successful get url: https://www.bing.com/th?id=OHR.SavanaBA_PT-BR8450191150_UHD.jpg
+[10:03:48] Picture infomations saved to  global/pt-BR/README.md
+[10:03:48] Picture infomations saved to global/pt-BR/history/2026/02/19_pt-BR.md
+[10:03:48] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-18 11:03:48.051184+01:00
+[10:03:48] Successful get url: https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_UHD.jpg
+[10:03:48] Picture infomations saved to  global/fr-FR/README.md
+[10:03:48] Picture infomations saved to global/fr-FR/history/2026/02/18_fr-FR.md
+[10:03:48] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-18 11:03:48.281510+01:00
+[10:03:48] Successful get url: https://www.bing.com/th?id=OHR.PrzewalskisHorse_DE-DE2303566149_UHD.jpg
+[10:03:48] Picture infomations saved to  global/de-DE/README.md
+[10:03:48] Picture infomations saved to global/de-DE/history/2026/02/18_de-DE.md
+[10:03:48] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-18 05:03:48.659905-05:00
+[10:03:48] Successful get url: https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-CA1440158754_UHD.jpg
+[10:03:49] Picture infomations saved to  global/en-CA/README.md
+[10:03:49] Picture infomations saved to global/en-CA/history/2026/02/19_en-CA.md
+[10:03:49] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-18 10:03:49.032064+00:00
+[10:03:49] Successful get url: https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-GB1150597463_UHD.jpg
+[10:03:49] Picture infomations saved to  global/en-GB/README.md
+[10:03:49] Picture infomations saved to global/en-GB/history/2026/02/19_en-GB.md
+[10:03:49] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-18 11:03:49.411228+01:00
+[10:03:49] Successful get url: https://www.bing.com/th?id=OHR.PrzewalskisHorse_IT-IT6104947665_UHD.jpg
+[10:03:49] Picture infomations saved to  global/it-IT/README.md
+[10:03:49] Picture infomations saved to global/it-IT/history/2026/02/18_it-IT.md
+[10:03:49] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-18 11:03:49.692251+01:00
+[10:03:49] Successful get url: https://www.bing.com/th?id=OHR.PrzewalskisHorse_ES-ES3293960401_UHD.jpg
+[10:03:50] Picture infomations saved to  global/es-ES/README.md
+[10:03:50] Picture infomations saved to global/es-ES/history/2026/02/18_es-ES.md
+[10:03:50] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-18 05:03:50.047050-05:00
+[10:03:50] Successful get url: https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-CA6421034547_UHD.jpg
+[10:03:50] Picture infomations saved to  global/fr-CA/README.md
+[10:03:50] Picture infomations saved to global/fr-CA/history/2026/02/19_fr-CA.md
+Program exit at 10:03:50
