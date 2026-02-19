@@ -6,9 +6,9 @@
 ||*Copyright: The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)*
 ||
 |||
-|2026-02-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DragonsEyeRock_JA-JP3484187300_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DragonsEyeRock_JA-JP3484187300_UHD.jpg)|
-||*Copyright: ウッタクレイヴ海岸, ノルウェー (© reisegraf/Getty Images)*
+|2026-02-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_UHD.jpg)|
+||*Copyright: ホーステール滝, 米国 カリフォルニア州 (© Jorge Villalba/Getty Images)*
 ||
 |||
 |2026-02-19|**Region: en-IN**||
