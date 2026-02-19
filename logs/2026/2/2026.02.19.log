@@ -1,0 +1,60 @@
+
+Program started at 10:03:06
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmjduv7
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[10:03:06] Start geting CN Bing Wallpaper
+[10:03:07] Successful get url: https://www.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg
+[10:03:07] Image saved to img/background.jpg
+[10:03:07] Info saved to README.md
+[10:03:07] Image saved to history/2026/02/19.md
+[10:03:07] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-19 05:03:07.162496-05:00
+[10:03:07] Successful get url: https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg
+[10:03:07] Picture infomations saved to  global/en-US/README.md
+[10:03:07] Picture infomations saved to global/en-US/history/2026/02/20_en-US.md
+[10:03:07] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-19 19:03:07.334041+09:00
+[10:03:07] Successful get url: https://www.bing.com/th?id=OHR.DragonsEyeRock_JA-JP3484187300_UHD.jpg
+[10:03:07] Picture infomations saved to  global/ja-JP/README.md
+[10:03:07] Picture infomations saved to global/ja-JP/history/2026/02/19_ja-JP.md
+[10:03:07] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-19 15:33:07.471835+05:30
+[10:03:07] Successful get url: https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-IN0197810656_UHD.jpg
+[10:03:07] Picture infomations saved to  global/en-IN/README.md
+[10:03:07] Picture infomations saved to global/en-IN/history/2026/02/19_en-IN.md
+[10:03:07] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-19 07:03:07.598790-03:00
+[10:03:07] Successful get url: https://www.bing.com/th?id=OHR.DragonsEyeRock_PT-BR9453939614_UHD.jpg
+[10:03:07] Picture infomations saved to  global/pt-BR/README.md
+[10:03:07] Picture infomations saved to global/pt-BR/history/2026/02/20_pt-BR.md
+[10:03:07] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-19 11:03:07.718519+01:00
+[10:03:07] Successful get url: https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-FR6691267699_UHD.jpg
+[10:03:07] Picture infomations saved to  global/fr-FR/README.md
+[10:03:07] Picture infomations saved to global/fr-FR/history/2026/02/19_fr-FR.md
+[10:03:07] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-19 11:03:07.837755+01:00
+[10:03:07] Successful get url: https://www.bing.com/th?id=OHR.DragonsEyeRock_DE-DE6085575680_UHD.jpg
+[10:03:07] Picture infomations saved to  global/de-DE/README.md
+[10:03:07] Picture infomations saved to global/de-DE/history/2026/02/19_de-DE.md
+[10:03:07] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-19 05:03:07.974488-05:00
+[10:03:08] Successful get url: https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-CA2213623928_UHD.jpg
+[10:03:08] Picture infomations saved to  global/en-CA/README.md
+[10:03:08] Picture infomations saved to global/en-CA/history/2026/02/20_en-CA.md
+[10:03:08] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-19 10:03:08.094147+00:00
+[10:03:08] Successful get url: https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-GB1409400272_UHD.jpg
+[10:03:08] Picture infomations saved to  global/en-GB/README.md
+[10:03:08] Picture infomations saved to global/en-GB/history/2026/02/20_en-GB.md
+[10:03:08] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-19 11:03:08.213323+01:00
+[10:03:08] Successful get url: https://www.bing.com/th?id=OHR.GiauPass_IT-IT5498738884_UHD.jpg
+[10:03:08] Picture infomations saved to  global/it-IT/README.md
+[10:03:08] Picture infomations saved to global/it-IT/history/2026/02/19_it-IT.md
+[10:03:08] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-19 11:03:08.338302+01:00
+[10:03:08] Successful get url: https://www.bing.com/th?id=OHR.GranadaAlhambra_ES-ES3338584785_UHD.jpg
+[10:03:08] Picture infomations saved to  global/es-ES/README.md
+[10:03:08] Picture infomations saved to global/es-ES/history/2026/02/19_es-ES.md
+[10:03:08] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-19 05:03:08.464358-05:00
+[10:03:08] Successful get url: https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-CA6892198253_UHD.jpg
+[10:03:08] Picture infomations saved to  global/fr-CA/README.md
+[10:03:08] Picture infomations saved to global/fr-CA/history/2026/02/20_fr-CA.md
+Program exit at 10:03:08
