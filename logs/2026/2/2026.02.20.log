@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:55:59] Picture infomations saved to  global/fr-CA/README.md
 [09:55:59] Picture infomations saved to global/fr-CA/history/2026/02/21_fr-CA.md
 Program exit at 09:55:59
+
+Program started at 16:29:28
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwffz4
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:29:28] Start geting CN Bing Wallpaper
+[16:29:28] Successful get url: https://www.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg
+[16:29:28] Image saved to img/background.jpg
+[16:29:28] Info saved to README.md
+[16:29:28] Image saved to history/2026/02/21.md
+[16:29:28] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-20 11:29:28.462987-05:00
+[16:29:28] Successful get url: https://www.bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg
+[16:29:28] Picture infomations saved to  global/en-US/README.md
+[16:29:28] Picture infomations saved to global/en-US/history/2026/02/21_en-US.md
+[16:29:28] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-21 01:29:28.708211+09:00
+[16:29:28] Successful get url: https://www.bing.com/th?id=OHR.TetonFox_JA-JP8453720368_UHD.jpg
+[16:29:28] Picture infomations saved to  global/ja-JP/README.md
+[16:29:28] Picture infomations saved to global/ja-JP/history/2026/02/21_ja-JP.md
+[16:29:28] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-20 21:59:28.928270+05:30
+[16:29:28] Successful get url: https://www.bing.com/th?id=OHR.AdamsFirefall_EN-IN8989918969_UHD.jpg
+[16:29:29] Picture infomations saved to  global/en-IN/README.md
+[16:29:29] Picture infomations saved to global/en-IN/history/2026/02/20_en-IN.md
+[16:29:29] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-20 13:29:29.266448-03:00
+[16:29:29] Successful get url: https://www.bing.com/th?id=OHR.AdamsFirefall_PT-BR4725440029_UHD.jpg
+[16:29:29] Picture infomations saved to  global/pt-BR/README.md
+[16:29:29] Picture infomations saved to global/pt-BR/history/2026/02/21_pt-BR.md
+[16:29:29] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-20 17:29:29.711049+01:00
+[16:29:29] Successful get url: https://www.bing.com/th?id=OHR.LemonFestival_FR-FR1757347913_UHD.jpg
+[16:29:29] Picture infomations saved to  global/fr-FR/README.md
+[16:29:29] Picture infomations saved to global/fr-FR/history/2026/02/20_fr-FR.md
+[16:29:29] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-20 17:29:29.878941+01:00
+[16:29:29] Successful get url: https://www.bing.com/th?id=OHR.SwanHesse_DE-DE7086737425_UHD.jpg
+[16:29:30] Picture infomations saved to  global/de-DE/README.md
+[16:29:30] Picture infomations saved to global/de-DE/history/2026/02/20_de-DE.md
+[16:29:30] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-20 11:29:30.021187-05:00
+[16:29:30] Successful get url: https://www.bing.com/th?id=OHR.AdamsFirefall_EN-CA8124259212_UHD.jpg
+[16:29:30] Picture infomations saved to  global/en-CA/README.md
+[16:29:30] Picture infomations saved to global/en-CA/history/2026/02/21_en-CA.md
+[16:29:30] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-20 16:29:30.149903+00:00
+[16:29:30] Successful get url: https://www.bing.com/th?id=OHR.AdamsFirefall_EN-GB5806562123_UHD.jpg
+[16:29:30] Picture infomations saved to  global/en-GB/README.md
+[16:29:30] Picture infomations saved to global/en-GB/history/2026/02/21_en-GB.md
+[16:29:30] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-20 17:29:30.303437+01:00
+[16:29:30] Successful get url: https://www.bing.com/th?id=OHR.AdamsFirefall_IT-IT7705285382_UHD.jpg
+[16:29:30] Picture infomations saved to  global/it-IT/README.md
+[16:29:30] Picture infomations saved to global/it-IT/history/2026/02/20_it-IT.md
+[16:29:30] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-20 17:29:30.463635+01:00
+[16:29:30] Successful get url: https://www.bing.com/th?id=OHR.AdamsFirefall_ES-ES3757807854_UHD.jpg
+[16:29:30] Picture infomations saved to  global/es-ES/README.md
+[16:29:30] Picture infomations saved to global/es-ES/history/2026/02/20_es-ES.md
+[16:29:30] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-20 11:29:30.823714-05:00
+[16:29:30] Successful get url: https://www.bing.com/th?id=OHR.AdamsFirefall_FR-CA5596610084_UHD.jpg
+[16:29:31] Picture infomations saved to  global/fr-CA/README.md
+[16:29:31] Picture infomations saved to global/fr-CA/history/2026/02/21_fr-CA.md
+Program exit at 16:29:31

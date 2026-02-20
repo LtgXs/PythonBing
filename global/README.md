@@ -6,9 +6,9 @@
 ||*Copyright: Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)*
 ||
 |||
-|2026-02-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_UHD.jpg)|
-||*Copyright: ホーステール滝, 米国 カリフォルニア州 (© Jorge Villalba/Getty Images)*
+|2026-02-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TetonFox_JA-JP8453720368_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonFox_JA-JP8453720368_UHD.jpg)|
+||*Copyright: アカギツネ, 米国 ワイオミング州 (© Radomir Jakubowski/naturepl.com)*
 ||
 |||
 |2026-02-20|**Region: en-IN**||
