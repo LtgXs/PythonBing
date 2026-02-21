@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:43:37] Picture infomations saved to  global/fr-CA/README.md
 [09:43:37] Picture infomations saved to global/fr-CA/history/2026/02/22_fr-CA.md
 Program exit at 09:43:37
+
+Program started at 16:20:37
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwffz4
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:20:37] Start geting CN Bing Wallpaper
+[16:20:37] Successful get url: https://www.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg
+[16:20:37] Image saved to img/background.jpg
+[16:20:37] Info saved to README.md
+[16:20:37] Image saved to history/2026/02/22.md
+[16:20:37] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-21 11:20:37.910832-05:00
+[16:20:37] Successful get url: https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg
+[16:20:38] Picture infomations saved to  global/en-US/README.md
+[16:20:38] Picture infomations saved to global/en-US/history/2026/02/22_en-US.md
+[16:20:38] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-22 01:20:38.063677+09:00
+[16:20:38] Successful get url: https://www.bing.com/th?id=OHR.MamTorSunrise_JA-JP8500587140_UHD.jpg
+[16:20:38] Picture infomations saved to  global/ja-JP/README.md
+[16:20:38] Picture infomations saved to global/ja-JP/history/2026/02/22_ja-JP.md
+[16:20:38] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-21 21:50:38.200431+05:30
+[16:20:38] Successful get url: https://www.bing.com/th?id=OHR.TetonFox_EN-IN9506769655_UHD.jpg
+[16:20:38] Picture infomations saved to  global/en-IN/README.md
+[16:20:38] Picture infomations saved to global/en-IN/history/2026/02/21_en-IN.md
+[16:20:38] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-21 13:20:38.328619-03:00
+[16:20:38] Successful get url: https://www.bing.com/th?id=OHR.TetonFox_PT-BR4620358232_UHD.jpg
+[16:20:38] Picture infomations saved to  global/pt-BR/README.md
+[16:20:38] Picture infomations saved to global/pt-BR/history/2026/02/22_pt-BR.md
+[16:20:38] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-21 17:20:38.471368+01:00
+[16:20:38] Successful get url: https://www.bing.com/th?id=OHR.CapraIbex_FR-FR0715684177_UHD.jpg
+[16:20:38] Picture infomations saved to  global/fr-FR/README.md
+[16:20:38] Picture infomations saved to global/fr-FR/history/2026/02/21_fr-FR.md
+[16:20:38] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-21 17:20:38.705079+01:00
+[16:20:38] Successful get url: https://www.bing.com/th?id=OHR.TetonFox_DE-DE7543648384_UHD.jpg
+[16:20:38] Picture infomations saved to  global/de-DE/README.md
+[16:20:38] Picture infomations saved to global/de-DE/history/2026/02/21_de-DE.md
+[16:20:38] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-21 11:20:38.865649-05:00
+[16:20:38] Successful get url: https://www.bing.com/th?id=OHR.TetonFox_EN-CA8057779361_UHD.jpg
+[16:20:39] Picture infomations saved to  global/en-CA/README.md
+[16:20:39] Picture infomations saved to global/en-CA/history/2026/02/22_en-CA.md
+[16:20:39] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-21 16:20:39.037953+00:00
+[16:20:39] Successful get url: https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_UHD.jpg
+[16:20:39] Picture infomations saved to  global/en-GB/README.md
+[16:20:39] Picture infomations saved to global/en-GB/history/2026/02/22_en-GB.md
+[16:20:39] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-21 17:20:39.184396+01:00
+[16:20:39] Successful get url: https://www.bing.com/th?id=OHR.TetonFox_IT-IT8444976522_UHD.jpg
+[16:20:39] Picture infomations saved to  global/it-IT/README.md
+[16:20:39] Picture infomations saved to global/it-IT/history/2026/02/21_it-IT.md
+[16:20:39] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-21 17:20:39.333262+01:00
+[16:20:39] Successful get url: https://www.bing.com/th?id=OHR.TetonFox_ES-ES3808150258_UHD.jpg
+[16:20:39] Picture infomations saved to  global/es-ES/README.md
+[16:20:39] Picture infomations saved to global/es-ES/history/2026/02/21_es-ES.md
+[16:20:39] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-21 11:20:39.456181-05:00
+[16:20:39] Successful get url: https://www.bing.com/th?id=OHR.TetonFox_FR-CA0672225229_UHD.jpg
+[16:20:39] Picture infomations saved to  global/fr-CA/README.md
+[16:20:39] Picture infomations saved to global/fr-CA/history/2026/02/22_fr-CA.md
+Program exit at 16:20:39
