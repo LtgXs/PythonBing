@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:44:51] Picture infomations saved to  global/fr-CA/README.md
 [09:44:51] Picture infomations saved to global/fr-CA/history/2026/02/23_fr-CA.md
 Program exit at 09:44:51
+
+Program started at 16:21:01
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwffz4
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:21:01] Start geting CN Bing Wallpaper
+[16:21:01] Successful get url: https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg
+[16:21:01] Image saved to img/background.jpg
+[16:21:01] Info saved to README.md
+[16:21:01] Image saved to history/2026/02/23.md
+[16:21:01] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-22 11:21:01.570822-05:00
+[16:21:01] Successful get url: https://www.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg
+[16:21:01] Picture infomations saved to  global/en-US/README.md
+[16:21:01] Picture infomations saved to global/en-US/history/2026/02/23_en-US.md
+[16:21:01] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-23 01:21:01.697754+09:00
+[16:21:01] Successful get url: https://www.bing.com/th?id=OHR.MountFuji2026_JA-JP8594170652_UHD.jpg
+[16:21:01] Picture infomations saved to  global/ja-JP/README.md
+[16:21:01] Picture infomations saved to global/ja-JP/history/2026/02/23_ja-JP.md
+[16:21:01] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-22 21:51:01.840064+05:30
+[16:21:01] Successful get url: https://www.bing.com/th?id=OHR.MamTorSunrise_EN-IN9955621368_UHD.jpg
+[16:21:01] Picture infomations saved to  global/en-IN/README.md
+[16:21:01] Picture infomations saved to global/en-IN/history/2026/02/22_en-IN.md
+[16:21:01] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-22 13:21:01.963718-03:00
+[16:21:02] Successful get url: https://www.bing.com/th?id=OHR.IgFalls_PT-BR4551523679_UHD.jpg
+[16:21:02] Picture infomations saved to  global/pt-BR/README.md
+[16:21:02] Picture infomations saved to global/pt-BR/history/2026/02/23_pt-BR.md
+[16:21:02] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-22 17:21:02.127761+01:00
+[16:21:02] Successful get url: https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_UHD.jpg
+[16:21:02] Picture infomations saved to  global/fr-FR/README.md
+[16:21:02] Picture infomations saved to global/fr-FR/history/2026/02/22_fr-FR.md
+[16:21:02] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-22 17:21:02.238402+01:00
+[16:21:02] Successful get url: https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930_UHD.jpg
+[16:21:02] Picture infomations saved to  global/de-DE/README.md
+[16:21:02] Picture infomations saved to global/de-DE/history/2026/02/22_de-DE.md
+[16:21:02] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-22 11:21:02.347083-05:00
+[16:21:02] Successful get url: https://www.bing.com/th?id=OHR.MamTorSunrise_EN-CA7950136962_UHD.jpg
+[16:21:02] Picture infomations saved to  global/en-CA/README.md
+[16:21:02] Picture infomations saved to global/en-CA/history/2026/02/23_en-CA.md
+[16:21:02] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-22 16:21:02.546797+00:00
+[16:21:02] Successful get url: https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_UHD.jpg
+[16:21:02] Picture infomations saved to  global/en-GB/README.md
+[16:21:02] Picture infomations saved to global/en-GB/history/2026/02/23_en-GB.md
+[16:21:02] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-22 17:21:02.671591+01:00
+[16:21:02] Successful get url: https://www.bing.com/th?id=OHR.MamTorSunrise_IT-IT4131533173_UHD.jpg
+[16:21:02] Picture infomations saved to  global/it-IT/README.md
+[16:21:02] Picture infomations saved to global/it-IT/history/2026/02/22_it-IT.md
+[16:21:02] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-22 17:21:02.813947+01:00
+[16:21:02] Successful get url: https://www.bing.com/th?id=OHR.MamTorSunrise_ES-ES3653407360_UHD.jpg
+[16:21:02] Picture infomations saved to  global/es-ES/README.md
+[16:21:02] Picture infomations saved to global/es-ES/history/2026/02/22_es-ES.md
+[16:21:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-22 11:21:02.950100-05:00
+[16:21:03] Successful get url: https://www.bing.com/th?id=OHR.MamTorSunrise_FR-CA2386301779_UHD.jpg
+[16:21:03] Picture infomations saved to  global/fr-CA/README.md
+[16:21:03] Picture infomations saved to global/fr-CA/history/2026/02/23_fr-CA.md
+Program exit at 16:21:03
