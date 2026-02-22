@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-02-22|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg)|
-||*Copyright: Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)*
+|2026-02-23|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg)|
+||*Copyright: The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)*
 ||
 |||
 |2026-02-22|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: マム・トーの丘, イングランド (© john finney photography/Getty Images)*
 ||
 |||
-|2026-02-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TetonFox_EN-IN9506769655_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonFox_EN-IN9506769655_UHD.jpg)|
-||*Copyright: Red fox standing in snowfall, Grand Teton National Park, Wyoming, United States (© Radomir Jakubowski/naturepl.com)*
+|2026-02-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-IN9955621368_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-IN9955621368_UHD.jpg)|
+||*Copyright: The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)*
 ||
 |||
-|2026-02-22|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TetonFox_PT-BR4620358232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonFox_PT-BR4620358232_UHD.jpg)|
-||*Copyright: Raposa-vermelha no Parque Nacional de Grand Teton, Wyoming, EUA (© Radomir Jakubowski/naturepl.com)*
+|2026-02-23|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.IgFalls_PT-BR4551523679_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IgFalls_PT-BR4551523679_UHD.jpg)|
+||*Copyright: Vista aérea das Cataratas do Iguaçu, Foz do Iguaçu, Paraná (© NidoHuebl/Getty Images)*
 ||
 |||
-|2026-02-21|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CapraIbex_FR-FR0715684177_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapraIbex_FR-FR0715684177_UHD.jpg)|
-||*Copyright: Le bouquetin des Alpes (© AUSLOOS Henry/hemis.fr/Alamy)*
+|2026-02-22|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MamTorSunrise_FR-FR2300424858_UHD.jpg)|
+||*Copyright: Mam Tor, Derbyshire, Angleterre (© john finney photography/Getty Images)*
 ||
 |||
-|2026-02-21|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TetonFox_DE-DE7543648384_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonFox_DE-DE7543648384_UHD.jpg)|
-||*Copyright: Rotfuchs im Schneefall, Grand‑Teton‑Nationalpark, Wyoming, USA (© Radomir Jakubowski/naturepl.com)*
+|2026-02-22|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930_UHD.jpg)|
+||*Copyright: Mam Tor, Derbyshire, England (© john finney photography/Getty Images)*
 ||
 |||
-|2026-02-22|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TetonFox_EN-CA8057779361_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonFox_EN-CA8057779361_UHD.jpg)|
-||*Copyright: Red fox standing in snowfall, Grand Teton National Park, Wyoming, United States (© Radomir Jakubowski/naturepl.com)*
+|2026-02-23|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-CA7950136962_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-CA7950136962_UHD.jpg)|
+||*Copyright: The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)*
 ||
 |||
-|2026-02-22|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_UHD.jpg)|
-||*Copyright: Red fox, Grand Teton National Park, Wyoming, United States (© Radomir Jakubowski/naturepl.com)*
+|2026-02-23|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_UHD.jpg)|
+||*Copyright: The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)*
 ||
 |||
-|2026-02-21|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TetonFox_IT-IT8444976522_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonFox_IT-IT8444976522_UHD.jpg)|
-||*Copyright: Volpe rossa, Parco Nazionale del Grand Teton, Wyoming, USA (© Radomir Jakubowski/naturepl.com)*
+|2026-02-22|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MamTorSunrise_IT-IT4131533173_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MamTorSunrise_IT-IT4131533173_UHD.jpg)|
+||*Copyright: Collina di Mam Tor, Derbyshire, Inghilterra (© john finney photography/Getty Images)*
 ||
 |||
-|2026-02-21|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TetonFox_ES-ES3808150258_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonFox_ES-ES3808150258_UHD.jpg)|
-||*Copyright: Zorro rojo bajo la nieve, parque nacional de Grand Teton, Wyoming, EE. UU. (© Radomir Jakubowski/naturepl.com)*
+|2026-02-22|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MamTorSunrise_ES-ES3653407360_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MamTorSunrise_ES-ES3653407360_UHD.jpg)|
+||*Copyright: Colina de Mam Tor, Derbyshire, Inglaterra (© john finney photography/Getty Images)*
 ||
 |||
-|2026-02-22|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TetonFox_FR-CA0672225229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TetonFox_FR-CA0672225229_UHD.jpg)|
-||*Copyright: Un renard sous la neige, Parc national de Grand Teton, Wyoming, États-Unis (© Radomir Jakubowski/naturepl.com)*
+|2026-02-23|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MamTorSunrise_FR-CA2386301779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MamTorSunrise_FR-CA2386301779_UHD.jpg)|
+||*Copyright: Mam Tor, Derbyshire, Angleterre (© john finney photography/Getty Images)*
 ||
 |||
 
