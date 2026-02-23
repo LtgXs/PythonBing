@@ -1,0 +1,60 @@
+
+Program started at 10:10:01
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwffz4
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[10:10:01] Start geting CN Bing Wallpaper
+[10:10:01] Successful get url: https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg
+[10:10:02] Image saved to img/background.jpg
+[10:10:02] Info saved to README.md
+[10:10:02] Image saved to history/2026/02/23.md
+[10:10:02] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-23 05:10:02.109227-05:00
+[10:10:02] Successful get url: https://www.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg
+[10:10:02] Picture infomations saved to  global/en-US/README.md
+[10:10:02] Picture infomations saved to global/en-US/history/2026/02/24_en-US.md
+[10:10:02] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-23 19:10:02.279068+09:00
+[10:10:02] Successful get url: https://www.bing.com/th?id=OHR.MountFuji2026_JA-JP8594170652_UHD.jpg
+[10:10:02] Picture infomations saved to  global/ja-JP/README.md
+[10:10:02] Picture infomations saved to global/ja-JP/history/2026/02/23_ja-JP.md
+[10:10:02] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-23 15:40:02.434671+05:30
+[10:10:02] Successful get url: https://www.bing.com/th?id=OHR.BavariaEgret_EN-IN0132576693_UHD.jpg
+[10:10:02] Picture infomations saved to  global/en-IN/README.md
+[10:10:02] Picture infomations saved to global/en-IN/history/2026/02/23_en-IN.md
+[10:10:02] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-23 07:10:02.596646-03:00
+[10:10:02] Successful get url: https://www.bing.com/th?id=OHR.BavariaEgret_PT-BR4509525188_UHD.jpg
+[10:10:02] Picture infomations saved to  global/pt-BR/README.md
+[10:10:02] Picture infomations saved to global/pt-BR/history/2026/02/24_pt-BR.md
+[10:10:02] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-23 11:10:02.706984+01:00
+[10:10:02] Successful get url: https://www.bing.com/th?id=OHR.BavariaEgret_FR-FR5715271621_UHD.jpg
+[10:10:02] Picture infomations saved to  global/fr-FR/README.md
+[10:10:02] Picture infomations saved to global/fr-FR/history/2026/02/23_fr-FR.md
+[10:10:02] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-23 11:10:02.843635+01:00
+[10:10:02] Successful get url: https://www.bing.com/th?id=OHR.BavariaEgret_DE-DE1964732811_UHD.jpg
+[10:10:02] Picture infomations saved to  global/de-DE/README.md
+[10:10:02] Picture infomations saved to global/de-DE/history/2026/02/23_de-DE.md
+[10:10:02] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-23 05:10:02.952899-05:00
+[10:10:03] Successful get url: https://www.bing.com/th?id=OHR.BavariaEgret_EN-CA7888781602_UHD.jpg
+[10:10:03] Picture infomations saved to  global/en-CA/README.md
+[10:10:03] Picture infomations saved to global/en-CA/history/2026/02/24_en-CA.md
+[10:10:03] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-23 10:10:03.083937+00:00
+[10:10:03] Successful get url: https://www.bing.com/th?id=OHR.BavariaEgret_EN-GB1955700244_UHD.jpg
+[10:10:03] Picture infomations saved to  global/en-GB/README.md
+[10:10:03] Picture infomations saved to global/en-GB/history/2026/02/24_en-GB.md
+[10:10:03] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-23 11:10:03.223983+01:00
+[10:10:03] Successful get url: https://www.bing.com/th?id=OHR.TulumLilies_IT-IT7765619476_UHD.jpg
+[10:10:03] Picture infomations saved to  global/it-IT/README.md
+[10:10:03] Picture infomations saved to global/it-IT/history/2026/02/23_it-IT.md
+[10:10:03] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-23 11:10:03.333890+01:00
+[10:10:03] Successful get url: https://www.bing.com/th?id=OHR.BavariaEgret_ES-ES3880948724_UHD.jpg
+[10:10:03] Picture infomations saved to  global/es-ES/README.md
+[10:10:03] Picture infomations saved to global/es-ES/history/2026/02/23_es-ES.md
+[10:10:03] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-23 05:10:03.515592-05:00
+[10:10:03] Successful get url: https://www.bing.com/th?id=OHR.BavariaEgret_FR-CA3542689012_UHD.jpg
+[10:10:03] Picture infomations saved to  global/fr-CA/README.md
+[10:10:03] Picture infomations saved to global/fr-CA/history/2026/02/24_fr-CA.md
+Program exit at 10:10:03
