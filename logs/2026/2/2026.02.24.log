@@ -1,0 +1,60 @@
+
+Program started at 10:06:48
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwffz4
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[10:06:48] Start geting CN Bing Wallpaper
+[10:06:48] Successful get url: https://www.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg
+[10:06:48] Image saved to img/background.jpg
+[10:06:48] Info saved to README.md
+[10:06:48] Image saved to history/2026/02/24.md
+[10:06:48] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-24 05:06:48.880626-05:00
+[10:06:48] Successful get url: https://www.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg
+[10:06:49] Picture infomations saved to  global/en-US/README.md
+[10:06:49] Picture infomations saved to global/en-US/history/2026/02/25_en-US.md
+[10:06:49] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-24 19:06:49.023606+09:00
+[10:06:49] Successful get url: https://www.bing.com/th?id=OHR.TulumLilies_JA-JP8645849779_UHD.jpg
+[10:06:49] Picture infomations saved to  global/ja-JP/README.md
+[10:06:49] Picture infomations saved to global/ja-JP/history/2026/02/24_ja-JP.md
+[10:06:49] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-24 15:36:49.173954+05:30
+[10:06:49] Successful get url: https://www.bing.com/th?id=OHR.TulumLilies_EN-IN0356190937_UHD.jpg
+[10:06:49] Picture infomations saved to  global/en-IN/README.md
+[10:06:49] Picture infomations saved to global/en-IN/history/2026/02/24_en-IN.md
+[10:06:49] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-24 07:06:49.307029-03:00
+[10:06:49] Successful get url: https://www.bing.com/th?id=OHR.TulumLilies_PT-BR4448345675_UHD.jpg
+[10:06:49] Picture infomations saved to  global/pt-BR/README.md
+[10:06:49] Picture infomations saved to global/pt-BR/history/2026/02/25_pt-BR.md
+[10:06:49] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-24 11:06:49.483049+01:00
+[10:06:49] Successful get url: https://www.bing.com/th?id=OHR.TulumLilies_FR-FR7339039793_UHD.jpg
+[10:06:49] Picture infomations saved to  global/fr-FR/README.md
+[10:06:49] Picture infomations saved to global/fr-FR/history/2026/02/24_fr-FR.md
+[10:06:49] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-24 11:06:49.602179+01:00
+[10:06:49] Successful get url: https://www.bing.com/th?id=OHR.TulumLilies_DE-DE2753544781_UHD.jpg
+[10:06:49] Picture infomations saved to  global/de-DE/README.md
+[10:06:49] Picture infomations saved to global/de-DE/history/2026/02/24_de-DE.md
+[10:06:49] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-24 05:06:49.734966-05:00
+[10:06:49] Successful get url: https://www.bing.com/th?id=OHR.TulumLilies_EN-CA7828911818_UHD.jpg
+[10:06:49] Picture infomations saved to  global/en-CA/README.md
+[10:06:49] Picture infomations saved to global/en-CA/history/2026/02/25_en-CA.md
+[10:06:49] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-24 10:06:49.899276+00:00
+[10:06:49] Successful get url: https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_UHD.jpg
+[10:06:50] Picture infomations saved to  global/en-GB/README.md
+[10:06:50] Picture infomations saved to global/en-GB/history/2026/02/25_en-GB.md
+[10:06:50] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-24 11:06:50.071989+01:00
+[10:06:50] Successful get url: https://www.bing.com/th?id=OHR.SanremoLiguria_IT-IT4317774368_UHD.jpg
+[10:06:50] Picture infomations saved to  global/it-IT/README.md
+[10:06:50] Picture infomations saved to global/it-IT/history/2026/02/24_it-IT.md
+[10:06:50] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-24 11:06:50.216904+01:00
+[10:06:50] Successful get url: https://www.bing.com/th?id=OHR.TulumLilies_ES-ES4152870735_UHD.jpg
+[10:06:50] Picture infomations saved to  global/es-ES/README.md
+[10:06:50] Picture infomations saved to global/es-ES/history/2026/02/24_es-ES.md
+[10:06:50] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-24 05:06:50.360863-05:00
+[10:06:50] Successful get url: https://www.bing.com/th?id=OHR.TulumLilies_FR-CA4335580638_UHD.jpg
+[10:06:50] Picture infomations saved to  global/fr-CA/README.md
+[10:06:50] Picture infomations saved to global/fr-CA/history/2026/02/25_fr-CA.md
+Program exit at 10:06:50
