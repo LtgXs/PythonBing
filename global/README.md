@@ -6,9 +6,9 @@
 ||*Copyright: Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)*
 ||
 |||
-|2026-02-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TulumLilies_JA-JP8645849779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulumLilies_JA-JP8645849779_UHD.jpg)|
-||*Copyright: スイレン, メキシコ (© Christian Vizl/Tandem Stills + Motion)*
+|2026-02-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MendenhallCave_JA-JP8678792509_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_JA-JP8678792509_UHD.jpg)|
+||*Copyright: メンデンホール氷河の氷の洞窟, 米国 アラスカ州 (© Designpics/Adobe Stock)*
 ||
 |||
 |2026-02-24|**Region: en-IN**||
