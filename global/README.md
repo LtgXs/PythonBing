@@ -6,9 +6,9 @@
 ||*Copyright: Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)*
 ||
 |||
-|2026-02-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MendenhallCave_JA-JP8678792509_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_JA-JP8678792509_UHD.jpg)|
-||*Copyright: メンデンホール氷河の氷の洞窟, 米国 アラスカ州 (© Designpics/Adobe Stock)*
+|2026-02-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GrandSunset_JA-JP8711394757_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_JA-JP8711394757_UHD.jpg)|
+||*Copyright: グランドキャニオン国立公園, 米国 アリゾナ州 (© Matt Anderson Photography/Getty Images)*
 ||
 |||
 |2026-02-25|**Region: en-IN**||
