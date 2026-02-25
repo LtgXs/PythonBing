@@ -1,0 +1,60 @@
+
+Program started at 10:09:10
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmwffz4
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[10:09:10] Start geting CN Bing Wallpaper
+[10:09:10] Successful get url: https://www.bing.com/th?id=OHR.MendenhallCave_ZH-CN1850649760_UHD.jpg
+[10:09:11] Image saved to img/background.jpg
+[10:09:11] Info saved to README.md
+[10:09:11] Image saved to history/2026/02/25.md
+[10:09:11] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-25 05:09:11.197961-05:00
+[10:09:11] Successful get url: https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg
+[10:09:11] Picture infomations saved to  global/en-US/README.md
+[10:09:11] Picture infomations saved to global/en-US/history/2026/02/26_en-US.md
+[10:09:11] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-25 19:09:11.637302+09:00
+[10:09:11] Successful get url: https://www.bing.com/th?id=OHR.MendenhallCave_JA-JP8678792509_UHD.jpg
+[10:09:12] Picture infomations saved to  global/ja-JP/README.md
+[10:09:12] Picture infomations saved to global/ja-JP/history/2026/02/25_ja-JP.md
+[10:09:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-25 15:39:12.076793+05:30
+[10:09:12] Successful get url: https://www.bing.com/th?id=OHR.MendenhallCave_EN-IN1317214650_UHD.jpg
+[10:09:12] Picture infomations saved to  global/en-IN/README.md
+[10:09:12] Picture infomations saved to global/en-IN/history/2026/02/25_en-IN.md
+[10:09:12] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-25 07:09:12.518185-03:00
+[10:09:12] Successful get url: https://www.bing.com/th?id=OHR.MendenhallCave_PT-BR4400767586_UHD.jpg
+[10:09:12] Picture infomations saved to  global/pt-BR/README.md
+[10:09:12] Picture infomations saved to global/pt-BR/history/2026/02/26_pt-BR.md
+[10:09:12] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-25 11:09:12.944525+01:00
+[10:09:13] Successful get url: https://www.bing.com/th?id=OHR.MendenhallCave_FR-FR9944506951_UHD.jpg
+[10:09:13] Picture infomations saved to  global/fr-FR/README.md
+[10:09:13] Picture infomations saved to global/fr-FR/history/2026/02/25_fr-FR.md
+[10:09:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-25 11:09:13.376143+01:00
+[10:09:13] Successful get url: https://www.bing.com/th?id=OHR.MendenhallCave_DE-DE4105330129_UHD.jpg
+[10:09:13] Picture infomations saved to  global/de-DE/README.md
+[10:09:13] Picture infomations saved to global/de-DE/history/2026/02/25_de-DE.md
+[10:09:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-25 05:09:13.804499-05:00
+[10:09:13] Successful get url: https://www.bing.com/th?id=OHR.MendenhallCave_EN-CA7769892105_UHD.jpg
+[10:09:14] Picture infomations saved to  global/en-CA/README.md
+[10:09:14] Picture infomations saved to global/en-CA/history/2026/02/26_en-CA.md
+[10:09:14] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-25 10:09:14.241432+00:00
+[10:09:14] Successful get url: https://www.bing.com/th?id=OHR.MendenhallCave_EN-GB3238548442_UHD.jpg
+[10:09:14] Picture infomations saved to  global/en-GB/README.md
+[10:09:14] Picture infomations saved to global/en-GB/history/2026/02/26_en-GB.md
+[10:09:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-25 11:09:14.717627+01:00
+[10:09:14] Successful get url: https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_UHD.jpg
+[10:09:15] Picture infomations saved to  global/it-IT/README.md
+[10:09:15] Picture infomations saved to global/it-IT/history/2026/02/25_it-IT.md
+[10:09:15] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-25 11:09:15.155823+01:00
+[10:09:15] Successful get url: https://www.bing.com/th?id=OHR.MendenhallCave_ES-ES4408750630_UHD.jpg
+[10:09:15] Picture infomations saved to  global/es-ES/README.md
+[10:09:15] Picture infomations saved to global/es-ES/history/2026/02/25_es-ES.md
+[10:09:15] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-25 05:09:15.581695-05:00
+[10:09:15] Successful get url: https://www.bing.com/th?id=OHR.MendenhallCave_FR-CA6623430903_UHD.jpg
+[10:09:16] Picture infomations saved to  global/fr-CA/README.md
+[10:09:16] Picture infomations saved to global/fr-CA/history/2026/02/26_fr-CA.md
+Program exit at 10:09:16

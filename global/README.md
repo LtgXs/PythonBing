@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-02-25|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg)|
-||*Copyright: Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)*
+|2026-02-26|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg)|
+||*Copyright: Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)*
 ||
 |||
 |2026-02-25|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: メンデンホール氷河の氷の洞窟, 米国 アラスカ州 (© Designpics/Adobe Stock)*
 ||
 |||
-|2026-02-24|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TulumLilies_EN-IN0356190937_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulumLilies_EN-IN0356190937_UHD.jpg)|
-||*Copyright: Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)*
+|2026-02-25|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-IN1317214650_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_EN-IN1317214650_UHD.jpg)|
+||*Copyright: Ice cave in the Mendenhall Glacier, Alaska, United States (© Designpics/Adobe Stock)*
 ||
 |||
-|2026-02-25|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TulumLilies_PT-BR4448345675_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulumLilies_PT-BR4448345675_UHD.jpg)|
-||*Copyright: Lírios-d’água no Gran Cenote, Tulum, México (© Christian Vizl/Tandem Stills + Motion)*
+|2026-02-26|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MendenhallCave_PT-BR4400767586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_PT-BR4400767586_UHD.jpg)|
+||*Copyright: Caverna de gelo na geleira Mendenhall, Alasca, Estados Unidos (© Designpics/Adobe Stock)*
 ||
 |||
-|2026-02-24|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TulumLilies_FR-FR7339039793_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulumLilies_FR-FR7339039793_UHD.jpg)|
-||*Copyright: Des nénuphars au Gran Cenote, Tulum, Mexique (© Christian Vizl/Tandem Stills + Motion)*
+|2026-02-25|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MendenhallCave_FR-FR9944506951_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_FR-FR9944506951_UHD.jpg)|
+||*Copyright: Grotte de glace du Glacier Mendenhall, Alaska, États-Unis (© Designpics/Adobe Stock)*
 ||
 |||
-|2026-02-24|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TulumLilies_DE-DE2753544781_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulumLilies_DE-DE2753544781_UHD.jpg)|
-||*Copyright: Seerosen im Gran Cenote, Tulum, Mexiko (© Christian Vizl/Tandem Stills + Motion)*
+|2026-02-25|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MendenhallCave_DE-DE4105330129_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_DE-DE4105330129_UHD.jpg)|
+||*Copyright: Eishöhle im Mendenhall‑Gletscher, Alaska, USA (© Designpics/Adobe Stock)*
 ||
 |||
-|2026-02-25|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TulumLilies_EN-CA7828911818_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulumLilies_EN-CA7828911818_UHD.jpg)|
-||*Copyright: Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)*
+|2026-02-26|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-CA7769892105_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_EN-CA7769892105_UHD.jpg)|
+||*Copyright: Ice cave in the Mendenhall Glacier, Alaska, United States (© Designpics/Adobe Stock)*
 ||
 |||
-|2026-02-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_UHD.jpg)|
-||*Copyright: Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)*
+|2026-02-26|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-GB3238548442_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_EN-GB3238548442_UHD.jpg)|
+||*Copyright: Ice cave in the Mendenhall Glacier, Alaska, United States (© Designpics/Adobe Stock)*
 ||
 |||
-|2026-02-24|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SanremoLiguria_IT-IT4317774368_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanremoLiguria_IT-IT4317774368_UHD.jpg)|
-||*Copyright: Spiaggia di Sanremo, Liguria (© fbxx/iStock/Getty Images)*
+|2026-02-25|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_UHD.jpg)|
+||*Copyright: Grotta di ghiaccio, ghiacciaio Mendenhall, Alaska, USA (© Designpics/Adobe Stock)*
 ||
 |||
-|2026-02-24|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TulumLilies_ES-ES4152870735_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulumLilies_ES-ES4152870735_UHD.jpg)|
-||*Copyright: Nenúfares en el Gran Cenote, Tulum, México (© Christian Vizl/Tandem Stills + Motion)*
+|2026-02-25|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MendenhallCave_ES-ES4408750630_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_ES-ES4408750630_UHD.jpg)|
+||*Copyright: Cueva de hielo en el glaciar Mendenhall, Alaska, EE. UU. (© Designpics/Adobe Stock)*
 ||
 |||
-|2026-02-25|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TulumLilies_FR-CA4335580638_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulumLilies_FR-CA4335580638_UHD.jpg)|
-||*Copyright: Des nénuphars au Gran Cenote, Tulum, Mexique (© Christian Vizl/Tandem Stills + Motion)*
+|2026-02-26|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MendenhallCave_FR-CA6623430903_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_FR-CA6623430903_UHD.jpg)|
+||*Copyright: Grotte de glace du Glacier Mendenhall, Alaska, États-Unis (© Designpics/Adobe Stock)*
 ||
 |||
 
