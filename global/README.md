@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-02-26|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg)|
-||*Copyright: Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)*
+|2026-02-27|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg)|
+||*Copyright: Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)*
 ||
 |||
 |2026-02-26|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: グランドキャニオン国立公園, 米国 アリゾナ州 (© Matt Anderson Photography/Getty Images)*
 ||
 |||
-|2026-02-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-IN1317214650_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_EN-IN1317214650_UHD.jpg)|
-||*Copyright: Ice cave in the Mendenhall Glacier, Alaska, United States (© Designpics/Adobe Stock)*
+|2026-02-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239_UHD.jpg)|
+||*Copyright: Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)*
 ||
 |||
-|2026-02-26|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MendenhallCave_PT-BR4400767586_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_PT-BR4400767586_UHD.jpg)|
-||*Copyright: Caverna de gelo na geleira Mendenhall, Alasca, Estados Unidos (© Designpics/Adobe Stock)*
+|2026-02-27|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GrandSunset_PT-BR8623216224_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_PT-BR8623216224_UHD.jpg)|
+||*Copyright: Grand Canyon e o Rio Colorado, Arizona, Estados Unidos (© Matt Anderson Photography/Getty Images)*
 ||
 |||
-|2026-02-25|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MendenhallCave_FR-FR9944506951_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_FR-FR9944506951_UHD.jpg)|
-||*Copyright: Grotte de glace du Glacier Mendenhall, Alaska, États-Unis (© Designpics/Adobe Stock)*
+|2026-02-26|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GrandSunset_FR-FR2170146238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_FR-FR2170146238_UHD.jpg)|
+||*Copyright: Le Grand Canyon et le fleuve Colorado, Arizona, États-Unis (© Matt Anderson Photography/Getty Images)*
 ||
 |||
-|2026-02-25|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MendenhallCave_DE-DE4105330129_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_DE-DE4105330129_UHD.jpg)|
-||*Copyright: Eishöhle im Mendenhall‑Gletscher, Alaska, USA (© Designpics/Adobe Stock)*
+|2026-02-26|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_UHD.jpg)|
+||*Copyright: Sonnenaufgang auf dem Brocken, Nationalpark Harz, Sachsen‑Anhalt (© imageBROKER/AVTG/Getty Images)*
 ||
 |||
-|2026-02-26|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-CA7769892105_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_EN-CA7769892105_UHD.jpg)|
-||*Copyright: Ice cave in the Mendenhall Glacier, Alaska, United States (© Designpics/Adobe Stock)*
+|2026-02-27|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GrandSunset_EN-CA7701935901_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_EN-CA7701935901_UHD.jpg)|
+||*Copyright: Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)*
 ||
 |||
-|2026-02-26|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MendenhallCave_EN-GB3238548442_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_EN-GB3238548442_UHD.jpg)|
-||*Copyright: Ice cave in the Mendenhall Glacier, Alaska, United States (© Designpics/Adobe Stock)*
+|2026-02-27|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GrandSunset_EN-GB4172876731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_EN-GB4172876731_UHD.jpg)|
+||*Copyright: Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)*
 ||
 |||
-|2026-02-25|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_UHD.jpg)|
-||*Copyright: Grotta di ghiaccio, ghiacciaio Mendenhall, Alaska, USA (© Designpics/Adobe Stock)*
+|2026-02-26|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GrandSunset_IT-IT7877559254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_IT-IT7877559254_UHD.jpg)|
+||*Copyright: Grand Canyon e fiume Colorado, Arizona, USA (© Matt Anderson Photography/Getty Images)*
 ||
 |||
-|2026-02-25|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MendenhallCave_ES-ES4408750630_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_ES-ES4408750630_UHD.jpg)|
-||*Copyright: Cueva de hielo en el glaciar Mendenhall, Alaska, EE. UU. (© Designpics/Adobe Stock)*
+|2026-02-26|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GrandSunset_ES-ES4658848615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_ES-ES4658848615_UHD.jpg)|
+||*Copyright: Gran Cañón y río Colorado, Arizona, EE. UU. (© Matt Anderson Photography/Getty Images)*
 ||
 |||
-|2026-02-26|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MendenhallCave_FR-CA6623430903_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MendenhallCave_FR-CA6623430903_UHD.jpg)|
-||*Copyright: Grotte de glace du Glacier Mendenhall, Alaska, États-Unis (© Designpics/Adobe Stock)*
+|2026-02-27|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GrandSunset_FR-CA2260883766_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_FR-CA2260883766_UHD.jpg)|
+||*Copyright: Le Grand Canyon et le fleuve Colorado, Arizona, États-Unis (© Matt Anderson Photography/Getty Images)*
 ||
 |||
 

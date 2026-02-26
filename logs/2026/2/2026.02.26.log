@@ -1,0 +1,60 @@
+
+Program started at 10:04:29
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmnay03
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[10:04:29] Start geting CN Bing Wallpaper
+[10:04:29] Successful get url: https://www.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_UHD.jpg
+[10:04:30] Image saved to img/background.jpg
+[10:04:30] Info saved to README.md
+[10:04:30] Image saved to history/2026/02/26.md
+[10:04:30] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-26 05:04:30.416936-05:00
+[10:04:30] Successful get url: https://www.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg
+[10:04:30] Picture infomations saved to  global/en-US/README.md
+[10:04:30] Picture infomations saved to global/en-US/history/2026/02/27_en-US.md
+[10:04:30] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-26 19:04:30.558408+09:00
+[10:04:30] Successful get url: https://www.bing.com/th?id=OHR.GrandSunset_JA-JP8711394757_UHD.jpg
+[10:04:30] Picture infomations saved to  global/ja-JP/README.md
+[10:04:30] Picture infomations saved to global/ja-JP/history/2026/02/26_ja-JP.md
+[10:04:30] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-26 15:34:30.682321+05:30
+[10:04:30] Successful get url: https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239_UHD.jpg
+[10:04:30] Picture infomations saved to  global/en-IN/README.md
+[10:04:30] Picture infomations saved to global/en-IN/history/2026/02/26_en-IN.md
+[10:04:30] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-26 07:04:30.828579-03:00
+[10:04:30] Successful get url: https://www.bing.com/th?id=OHR.GrandSunset_PT-BR8623216224_UHD.jpg
+[10:04:31] Picture infomations saved to  global/pt-BR/README.md
+[10:04:31] Picture infomations saved to global/pt-BR/history/2026/02/27_pt-BR.md
+[10:04:31] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-26 11:04:31.066250+01:00
+[10:04:31] Successful get url: https://www.bing.com/th?id=OHR.GrandSunset_FR-FR2170146238_UHD.jpg
+[10:04:31] Picture infomations saved to  global/fr-FR/README.md
+[10:04:31] Picture infomations saved to global/fr-FR/history/2026/02/26_fr-FR.md
+[10:04:31] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-26 11:04:31.322428+01:00
+[10:04:31] Successful get url: https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_UHD.jpg
+[10:04:31] Picture infomations saved to  global/de-DE/README.md
+[10:04:31] Picture infomations saved to global/de-DE/history/2026/02/26_de-DE.md
+[10:04:31] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-26 05:04:31.545104-05:00
+[10:04:31] Successful get url: https://www.bing.com/th?id=OHR.GrandSunset_EN-CA7701935901_UHD.jpg
+[10:04:31] Picture infomations saved to  global/en-CA/README.md
+[10:04:31] Picture infomations saved to global/en-CA/history/2026/02/27_en-CA.md
+[10:04:31] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-26 10:04:31.680379+00:00
+[10:04:31] Successful get url: https://www.bing.com/th?id=OHR.GrandSunset_EN-GB4172876731_UHD.jpg
+[10:04:31] Picture infomations saved to  global/en-GB/README.md
+[10:04:31] Picture infomations saved to global/en-GB/history/2026/02/27_en-GB.md
+[10:04:31] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-26 11:04:31.812172+01:00
+[10:04:31] Successful get url: https://www.bing.com/th?id=OHR.GrandSunset_IT-IT7877559254_UHD.jpg
+[10:04:31] Picture infomations saved to  global/it-IT/README.md
+[10:04:31] Picture infomations saved to global/it-IT/history/2026/02/26_it-IT.md
+[10:04:31] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-26 11:04:31.949594+01:00
+[10:04:32] Successful get url: https://www.bing.com/th?id=OHR.GrandSunset_ES-ES4658848615_UHD.jpg
+[10:04:32] Picture infomations saved to  global/es-ES/README.md
+[10:04:32] Picture infomations saved to global/es-ES/history/2026/02/26_es-ES.md
+[10:04:32] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-26 05:04:32.207517-05:00
+[10:04:32] Successful get url: https://www.bing.com/th?id=OHR.GrandSunset_FR-CA2260883766_UHD.jpg
+[10:04:32] Picture infomations saved to  global/fr-CA/README.md
+[10:04:32] Picture infomations saved to global/fr-CA/history/2026/02/27_fr-CA.md
+Program exit at 10:04:32
