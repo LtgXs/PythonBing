@@ -6,9 +6,9 @@
 ||*Copyright: Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)*
 ||
 |||
-|2026-02-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GrandSunset_JA-JP8711394757_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_JA-JP8711394757_UHD.jpg)|
-||*Copyright: グランドキャニオン国立公園, 米国 アリゾナ州 (© Matt Anderson Photography/Getty Images)*
+|2026-02-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ArcitcCub_JA-JP8771161198_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_JA-JP8771161198_UHD.jpg)|
+||*Copyright: ホッキョクグマの子, 米国 アラスカ州 (© Steven Kazlowski/naturepl.com)*
 ||
 |||
 |2026-02-26|**Region: en-IN**||
