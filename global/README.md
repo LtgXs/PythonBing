@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-02-27|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg)|
-||*Copyright: Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)*
+|2026-02-28|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg)|
+||*Copyright: Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)*
 ||
 |||
 |2026-02-27|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ホッキョクグマの子, 米国 アラスカ州 (© Steven Kazlowski/naturepl.com)*
 ||
 |||
-|2026-02-26|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239_UHD.jpg)|
-||*Copyright: Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)*
+|2026-02-27|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ArcitcCub_EN-IN8577759989_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_EN-IN8577759989_UHD.jpg)|
+||*Copyright: Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com)*
 ||
 |||
-|2026-02-27|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GrandSunset_PT-BR8623216224_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_PT-BR8623216224_UHD.jpg)|
-||*Copyright: Grand Canyon e o Rio Colorado, Arizona, Estados Unidos (© Matt Anderson Photography/Getty Images)*
+|2026-02-28|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499_UHD.jpg)|
+||*Copyright: Filhote de urso-polar sobre o gelo, Refúgio Nacional de Vida Selvagem do Ártico, Alasca, Estados Unidos (© Steven Kazlowski/naturepl.com)*
 ||
 |||
-|2026-02-26|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GrandSunset_FR-FR2170146238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_FR-FR2170146238_UHD.jpg)|
-||*Copyright: Le Grand Canyon et le fleuve Colorado, Arizona, États-Unis (© Matt Anderson Photography/Getty Images)*
+|2026-02-27|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ArcitcCub_FR-FR4145142371_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_FR-FR4145142371_UHD.jpg)|
+||*Copyright: Ours polaire sur la banquise, Refuge Faunique National de l’Arctique, Alaska, États-Unis (© Steven Kazlowski/naturepl.com)*
 ||
 |||
-|2026-02-26|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_UHD.jpg)|
-||*Copyright: Sonnenaufgang auf dem Brocken, Nationalpark Harz, Sachsen‑Anhalt (© imageBROKER/AVTG/Getty Images)*
+|2026-02-27|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ArcitcCub_DE-DE4317147803_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_DE-DE4317147803_UHD.jpg)|
+||*Copyright: Eisbärenjunges läuft über Packeis im Arctic National Wildlife Refuge, Alaska, USA (© Steven Kazlowski/naturepl.com)*
 ||
 |||
-|2026-02-27|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GrandSunset_EN-CA7701935901_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_EN-CA7701935901_UHD.jpg)|
-||*Copyright: Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)*
+|2026-02-28|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ArcitcCub_EN-CA9950201389_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_EN-CA9950201389_UHD.jpg)|
+||*Copyright: Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com)*
 ||
 |||
-|2026-02-27|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.GrandSunset_EN-GB4172876731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_EN-GB4172876731_UHD.jpg)|
-||*Copyright: Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)*
+|2026-02-28|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ArcitcCub_EN-GB4371536451_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_EN-GB4371536451_UHD.jpg)|
+||*Copyright: Polar bear cub, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com)*
 ||
 |||
-|2026-02-26|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GrandSunset_IT-IT7877559254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_IT-IT7877559254_UHD.jpg)|
-||*Copyright: Grand Canyon e fiume Colorado, Arizona, USA (© Matt Anderson Photography/Getty Images)*
+|2026-02-27|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ArcitcCub_IT-IT4577678073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_IT-IT4577678073_UHD.jpg)|
+||*Copyright: Cucciolo di orso polare, Arctic National Wildlife Refuge, Alaska, USA (© Steven Kazlowski/naturepl.com)*
 ||
 |||
-|2026-02-26|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GrandSunset_ES-ES4658848615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_ES-ES4658848615_UHD.jpg)|
-||*Copyright: Gran Cañón y río Colorado, Arizona, EE. UU. (© Matt Anderson Photography/Getty Images)*
+|2026-02-27|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ArcitcCub_ES-ES5029887843_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_ES-ES5029887843_UHD.jpg)|
+||*Copyright: Cachorro de oso polar, Refugio Nacional de Vida Silvestre del Ártico, Alaska, EE. UU. (© Steven Kazlowski/naturepl.com)*
 ||
 |||
-|2026-02-27|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.GrandSunset_FR-CA2260883766_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandSunset_FR-CA2260883766_UHD.jpg)|
-||*Copyright: Le Grand Canyon et le fleuve Colorado, Arizona, États-Unis (© Matt Anderson Photography/Getty Images)*
+|2026-02-28|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ArcitcCub_FR-CA2390594939_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_FR-CA2390594939_UHD.jpg)|
+||*Copyright: Ours polaire sur la banquise, Refuge Faunique National de l’Arctique, Alaska, États-Unis (© Steven Kazlowski/naturepl.com)*
 ||
 |||
 
