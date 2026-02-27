@@ -6,9 +6,9 @@
 ||*Copyright: Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)*
 ||
 |||
-|2026-02-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ArcitcCub_JA-JP8771161198_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_JA-JP8771161198_UHD.jpg)|
-||*Copyright: ホッキョクグマの子, 米国 アラスカ州 (© Steven Kazlowski/naturepl.com)*
+|2026-02-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OloupenaFalls_JA-JP0587758979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OloupenaFalls_JA-JP0587758979_UHD.jpg)|
+||*Copyright: オロウペナ滝, 米国 ハワイ州 (© Andrew Aylett/Getty Images)*
 ||
 |||
 |2026-02-27|**Region: en-IN**||
