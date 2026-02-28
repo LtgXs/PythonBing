@@ -6,9 +6,9 @@
 ||*Copyright: Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)*
 ||
 |||
-|2026-02-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OloupenaFalls_JA-JP0587758979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OloupenaFalls_JA-JP0587758979_UHD.jpg)|
-||*Copyright: オロウペナ滝, 米国 ハワイ州 (© Andrew Aylett/Getty Images)*
+|2026-03-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BalearesDay_JA-JP8835307227_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalearesDay_JA-JP8835307227_UHD.jpg)|
+||*Copyright: イビサ島, スペイン (© tokar/Shutterstock)*
 ||
 |||
 |2026-02-28|**Region: en-IN**||
