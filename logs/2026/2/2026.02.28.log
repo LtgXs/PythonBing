@@ -1,0 +1,60 @@
+
+Program started at 09:37:47
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmnay03
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:37:47] Start geting CN Bing Wallpaper
+[09:37:47] Successful get url: https://www.bing.com/th?id=OHR.OloupenaFalls_ZH-CN2980118660_UHD.jpg
+[09:37:48] Image saved to img/background.jpg
+[09:37:48] Info saved to README.md
+[09:37:48] Image saved to history/2026/02/28.md
+[09:37:48] Start geting global Bing Wallpaper, region=en-US, local time is 2026-02-28 04:37:48.111934-05:00
+[09:37:48] Successful get url: https://www.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg
+[09:37:48] Picture infomations saved to  global/en-US/README.md
+[09:37:48] Picture infomations saved to global/en-US/history/2026/03/01_en-US.md
+[09:37:48] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-02-28 18:37:48.298515+09:00
+[09:37:48] Successful get url: https://www.bing.com/th?id=OHR.OloupenaFalls_JA-JP0587758979_UHD.jpg
+[09:37:48] Picture infomations saved to  global/ja-JP/README.md
+[09:37:48] Picture infomations saved to global/ja-JP/history/2026/02/28_ja-JP.md
+[09:37:48] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-02-28 15:07:48.530117+05:30
+[09:37:48] Successful get url: https://www.bing.com/th?id=OHR.OloupenaFalls_EN-IN2487636294_UHD.jpg
+[09:37:48] Picture infomations saved to  global/en-IN/README.md
+[09:37:48] Picture infomations saved to global/en-IN/history/2026/02/28_en-IN.md
+[09:37:48] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-02-28 06:37:48.700335-03:00
+[09:37:48] Successful get url: https://www.bing.com/th?id=OHR.OloupenaFalls_PT-BR4023643923_UHD.jpg
+[09:37:48] Picture infomations saved to  global/pt-BR/README.md
+[09:37:48] Picture infomations saved to global/pt-BR/history/2026/03/01_pt-BR.md
+[09:37:48] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-02-28 10:37:48.861052+01:00
+[09:37:48] Successful get url: https://www.bing.com/th?id=OHR.OloupenaFalls_FR-FR3490700079_UHD.jpg
+[09:37:49] Picture infomations saved to  global/fr-FR/README.md
+[09:37:49] Picture infomations saved to global/fr-FR/history/2026/02/28_fr-FR.md
+[09:37:49] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-02-28 10:37:49.104666+01:00
+[09:37:49] Successful get url: https://www.bing.com/th?id=OHR.OloupenaFalls_DE-DE5017042185_UHD.jpg
+[09:37:49] Picture infomations saved to  global/de-DE/README.md
+[09:37:49] Picture infomations saved to global/de-DE/history/2026/02/28_de-DE.md
+[09:37:49] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-02-28 04:37:49.340360-05:00
+[09:37:49] Successful get url: https://www.bing.com/th?id=OHR.OloupenaFalls_EN-CA7570794029_UHD.jpg
+[09:37:49] Picture infomations saved to  global/en-CA/README.md
+[09:37:49] Picture infomations saved to global/en-CA/history/2026/03/01_en-CA.md
+[09:37:49] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-02-28 09:37:49.497892+00:00
+[09:37:49] Successful get url: https://www.bing.com/th?id=OHR.OloupenaFalls_EN-GB4616495104_UHD.jpg
+[09:37:49] Picture infomations saved to  global/en-GB/README.md
+[09:37:49] Picture infomations saved to global/en-GB/history/2026/03/01_en-GB.md
+[09:37:49] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-02-28 10:37:49.640588+01:00
+[09:37:49] Successful get url: https://www.bing.com/th?id=OHR.OloupenaFalls_IT-IT4647121958_UHD.jpg
+[09:37:49] Picture infomations saved to  global/it-IT/README.md
+[09:37:49] Picture infomations saved to global/it-IT/history/2026/02/28_it-IT.md
+[09:37:49] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-02-28 10:37:49.833863+01:00
+[09:37:49] Successful get url: https://www.bing.com/th?id=OHR.andaluciasevilla_ES-ES3883487322_UHD.jpg
+[09:37:50] Picture infomations saved to  global/es-ES/README.md
+[09:37:50] Picture infomations saved to global/es-ES/history/2026/02/28_es-ES.md
+[09:37:50] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-02-28 04:37:50.133944-05:00
+[09:37:50] Successful get url: https://www.bing.com/th?id=OHR.OloupenaFalls_FR-CA6440026394_UHD.jpg
+[09:37:50] Picture infomations saved to  global/fr-CA/README.md
+[09:37:50] Picture infomations saved to global/fr-CA/history/2026/03/01_fr-CA.md
+Program exit at 09:37:50

@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-02-28|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg)|
-||*Copyright: Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)*
+|2026-03-01|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg)|
+||*Copyright: Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)*
 ||
 |||
 |2026-02-28|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: オロウペナ滝, 米国 ハワイ州 (© Andrew Aylett/Getty Images)*
 ||
 |||
-|2026-02-27|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ArcitcCub_EN-IN8577759989_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_EN-IN8577759989_UHD.jpg)|
-||*Copyright: Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com)*
+|2026-02-28|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-IN2487636294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-IN2487636294_UHD.jpg)|
+||*Copyright: Olo'upena Falls, island of Moloka'i, Hawaii, United States (© Andrew Aylett/Getty Images)*
 ||
 |||
-|2026-02-28|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499_UHD.jpg)|
-||*Copyright: Filhote de urso-polar sobre o gelo, Refúgio Nacional de Vida Selvagem do Ártico, Alasca, Estados Unidos (© Steven Kazlowski/naturepl.com)*
+|2026-03-01|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.OloupenaFalls_PT-BR4023643923_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OloupenaFalls_PT-BR4023643923_UHD.jpg)|
+||*Copyright: Cachoeira Olo’upena, ilha de Molokai, Havaí, Estados Unidos (© Andrew Aylett/Getty Images)*
 ||
 |||
-|2026-02-27|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ArcitcCub_FR-FR4145142371_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_FR-FR4145142371_UHD.jpg)|
-||*Copyright: Ours polaire sur la banquise, Refuge Faunique National de l’Arctique, Alaska, États-Unis (© Steven Kazlowski/naturepl.com)*
+|2026-02-28|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.OloupenaFalls_FR-FR3490700079_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OloupenaFalls_FR-FR3490700079_UHD.jpg)|
+||*Copyright: Les chutes d’Olo'upena, Île de Moloka'i, Hawaï, États-Unis (© Andrew Aylett/Getty Images)*
 ||
 |||
-|2026-02-27|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ArcitcCub_DE-DE4317147803_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_DE-DE4317147803_UHD.jpg)|
-||*Copyright: Eisbärenjunges läuft über Packeis im Arctic National Wildlife Refuge, Alaska, USA (© Steven Kazlowski/naturepl.com)*
+|2026-02-28|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.OloupenaFalls_DE-DE5017042185_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OloupenaFalls_DE-DE5017042185_UHD.jpg)|
+||*Copyright: Oloʻupena‑Wasserfälle an der Nordküste der Insel Molokaʻi, Hawaii, USA (© Andrew Aylett/Getty Images)*
 ||
 |||
-|2026-02-28|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ArcitcCub_EN-CA9950201389_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_EN-CA9950201389_UHD.jpg)|
-||*Copyright: Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com)*
+|2026-03-01|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-CA7570794029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-CA7570794029_UHD.jpg)|
+||*Copyright: Olo'upena Falls, island of Moloka'i, Hawaii, United States (© Andrew Aylett/Getty Images)*
 ||
 |||
-|2026-02-28|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ArcitcCub_EN-GB4371536451_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_EN-GB4371536451_UHD.jpg)|
-||*Copyright: Polar bear cub, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com)*
+|2026-03-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-GB4616495104_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-GB4616495104_UHD.jpg)|
+||*Copyright: Olo'upena Falls, island of Moloka'i, Hawaii, United States (© Andrew Aylett/Getty Images)*
 ||
 |||
-|2026-02-27|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ArcitcCub_IT-IT4577678073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_IT-IT4577678073_UHD.jpg)|
-||*Copyright: Cucciolo di orso polare, Arctic National Wildlife Refuge, Alaska, USA (© Steven Kazlowski/naturepl.com)*
+|2026-02-28|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.OloupenaFalls_IT-IT4647121958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OloupenaFalls_IT-IT4647121958_UHD.jpg)|
+||*Copyright: Cascate Olo'upena, isola di Moloka'i, Hawaii, USA (© Andrew Aylett/Getty Images)*
 ||
 |||
-|2026-02-27|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ArcitcCub_ES-ES5029887843_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_ES-ES5029887843_UHD.jpg)|
-||*Copyright: Cachorro de oso polar, Refugio Nacional de Vida Silvestre del Ártico, Alaska, EE. UU. (© Steven Kazlowski/naturepl.com)*
+|2026-02-28|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.andaluciasevilla_ES-ES3883487322_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.andaluciasevilla_ES-ES3883487322_UHD.jpg)|
+||*Copyright: Sevilla, Andalucía (© Sarmad Al Lawati/Shutterstock)*
 ||
 |||
-|2026-02-28|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ArcitcCub_FR-CA2390594939_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArcitcCub_FR-CA2390594939_UHD.jpg)|
-||*Copyright: Ours polaire sur la banquise, Refuge Faunique National de l’Arctique, Alaska, États-Unis (© Steven Kazlowski/naturepl.com)*
+|2026-03-01|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.OloupenaFalls_FR-CA6440026394_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OloupenaFalls_FR-CA6440026394_UHD.jpg)|
+||*Copyright: Les chutes d’Olo'upena, Île de Moloka'i, Hawaï, États-Unis (© Andrew Aylett/Getty Images)*
 ||
 |||
 
