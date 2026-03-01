@@ -6,9 +6,9 @@
 ||*Copyright: Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)*
 ||
 |||
-|2026-03-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BalearesDay_JA-JP8835307227_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BalearesDay_JA-JP8835307227_UHD.jpg)|
-||*Copyright: イビサ島, スペイン (© tokar/Shutterstock)*
+|2026-03-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SamuiThailand_JA-JP8871404355_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SamuiThailand_JA-JP8871404355_UHD.jpg)|
+||*Copyright: サムイ島, タイ (© Foto2rich/Shutterstock)*
 ||
 |||
 |2026-03-01|**Region: en-IN**||
