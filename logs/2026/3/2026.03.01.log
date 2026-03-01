@@ -1,0 +1,60 @@
+
+Program started at 09:43:12
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmnay03
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:43:12] Start geting CN Bing Wallpaper
+[09:43:12] Successful get url: https://www.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg
+[09:43:12] Image saved to img/background.jpg
+[09:43:12] Info saved to README.md
+[09:43:12] Image saved to history/2026/03/01.md
+[09:43:12] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-01 04:43:12.702495-05:00
+[09:43:12] Successful get url: https://www.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg
+[09:43:12] Picture infomations saved to  global/en-US/README.md
+[09:43:12] Picture infomations saved to global/en-US/history/2026/03/02_en-US.md
+[09:43:12] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-01 18:43:12.828741+09:00
+[09:43:12] Successful get url: https://www.bing.com/th?id=OHR.BalearesDay_JA-JP8835307227_UHD.jpg
+[09:43:12] Picture infomations saved to  global/ja-JP/README.md
+[09:43:12] Picture infomations saved to global/ja-JP/history/2026/03/01_ja-JP.md
+[09:43:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-01 15:13:12.968690+05:30
+[09:43:13] Successful get url: https://www.bing.com/th?id=OHR.BabyElephant_EN-IN3027316479_UHD.jpg
+[09:43:13] Picture infomations saved to  global/en-IN/README.md
+[09:43:13] Picture infomations saved to global/en-IN/history/2026/03/01_en-IN.md
+[09:43:13] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-01 06:43:13.125746-03:00
+[09:43:13] Successful get url: https://www.bing.com/th?id=OHR.AnivRio_PT-BR3855636507_UHD.jpg
+[09:43:13] Picture infomations saved to  global/pt-BR/README.md
+[09:43:13] Picture infomations saved to global/pt-BR/history/2026/03/02_pt-BR.md
+[09:43:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-01 10:43:13.328138+01:00
+[09:43:13] Successful get url: https://www.bing.com/th?id=OHR.BalearesDay_FR-FR4421004317_UHD.jpg
+[09:43:13] Picture infomations saved to  global/fr-FR/README.md
+[09:43:13] Picture infomations saved to global/fr-FR/history/2026/03/01_fr-FR.md
+[09:43:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-01 10:43:13.487605+01:00
+[09:43:13] Successful get url: https://www.bing.com/th?id=OHR.BalearesDay_DE-DE6256697714_UHD.jpg
+[09:43:13] Picture infomations saved to  global/de-DE/README.md
+[09:43:13] Picture infomations saved to global/de-DE/history/2026/03/01_de-DE.md
+[09:43:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-01 04:43:13.606980-05:00
+[09:43:13] Successful get url: https://www.bing.com/th?id=OHR.OwlonGuard_EN-CA7496212614_UHD.jpg
+[09:43:13] Picture infomations saved to  global/en-CA/README.md
+[09:43:13] Picture infomations saved to global/en-CA/history/2026/03/02_en-CA.md
+[09:43:13] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-01 09:43:13.716651+00:00
+[09:43:13] Successful get url: https://www.bing.com/th?id=OHR.StDavidsDay2026_EN-GB5978747461_UHD.jpg
+[09:43:14] Picture infomations saved to  global/en-GB/README.md
+[09:43:14] Picture infomations saved to global/en-GB/history/2026/03/02_en-GB.md
+[09:43:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-01 10:43:14.048537+01:00
+[09:43:14] Successful get url: https://www.bing.com/th?id=OHR.BalearesDay_IT-IT5306710674_UHD.jpg
+[09:43:14] Picture infomations saved to  global/it-IT/README.md
+[09:43:14] Picture infomations saved to global/it-IT/history/2026/03/01_it-IT.md
+[09:43:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-01 10:43:14.175772+01:00
+[09:43:14] Successful get url: https://www.bing.com/th?id=OHR.BalearesDay_ES-ES6059429912_UHD.jpg
+[09:43:14] Picture infomations saved to  global/es-ES/README.md
+[09:43:14] Picture infomations saved to global/es-ES/history/2026/03/01_es-ES.md
+[09:43:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-01 04:43:14.307771-05:00
+[09:43:14] Successful get url: https://www.bing.com/th?id=OHR.OwlonGuard_FR-CA3024478389_UHD.jpg
+[09:43:14] Picture infomations saved to  global/fr-CA/README.md
+[09:43:14] Picture infomations saved to global/fr-CA/history/2026/03/02_fr-CA.md
+Program exit at 09:43:14
