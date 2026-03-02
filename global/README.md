@@ -6,9 +6,9 @@
 ||*Copyright: Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)*
 ||
 |||
-|2026-03-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SamuiThailand_JA-JP8871404355_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SamuiThailand_JA-JP8871404355_UHD.jpg)|
-||*Copyright: サムイ島, タイ (© Foto2rich/Shutterstock)*
+|2026-03-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HinaMatsuri2026_JA-JP1524445029_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HinaMatsuri2026_JA-JP1524445029_UHD.jpg)|
+||*Copyright: 竹筒から顔をのぞかせる可愛いひな人形 (© Bong Grit/Getty Images)*
 ||
 |||
 |2026-03-02|**Region: en-IN**||
