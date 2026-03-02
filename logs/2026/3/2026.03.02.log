@@ -1,0 +1,60 @@
+
+Program started at 10:04:35
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmnay03
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[10:04:35] Start geting CN Bing Wallpaper
+[10:04:35] Successful get url: https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg
+[10:04:35] Image saved to img/background.jpg
+[10:04:35] Info saved to README.md
+[10:04:35] Image saved to history/2026/03/02.md
+[10:04:35] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-02 05:04:35.636669-05:00
+[10:04:35] Successful get url: https://www.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg
+[10:04:35] Picture infomations saved to  global/en-US/README.md
+[10:04:35] Picture infomations saved to global/en-US/history/2026/03/03_en-US.md
+[10:04:35] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-02 19:04:35.761552+09:00
+[10:04:35] Successful get url: https://www.bing.com/th?id=OHR.SamuiThailand_JA-JP8871404355_UHD.jpg
+[10:04:35] Picture infomations saved to  global/ja-JP/README.md
+[10:04:35] Picture infomations saved to global/ja-JP/history/2026/03/02_ja-JP.md
+[10:04:35] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-02 15:34:35.924894+05:30
+[10:04:35] Successful get url: https://www.bing.com/th?id=OHR.SamuiThailand_EN-IN3365057926_UHD.jpg
+[10:04:36] Picture infomations saved to  global/en-IN/README.md
+[10:04:36] Picture infomations saved to global/en-IN/history/2026/03/02_en-IN.md
+[10:04:36] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-02 07:04:36.062581-03:00
+[10:04:36] Successful get url: https://www.bing.com/th?id=OHR.SamuiThailand_PT-BR3822247577_UHD.jpg
+[10:04:36] Picture infomations saved to  global/pt-BR/README.md
+[10:04:36] Picture infomations saved to global/pt-BR/history/2026/03/03_pt-BR.md
+[10:04:36] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-02 11:04:36.250035+01:00
+[10:04:36] Successful get url: https://www.bing.com/th?id=OHR.SamuiThailand_FR-FR4647225820_UHD.jpg
+[10:04:36] Picture infomations saved to  global/fr-FR/README.md
+[10:04:36] Picture infomations saved to global/fr-FR/history/2026/03/02_fr-FR.md
+[10:04:36] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-02 11:04:36.387030+01:00
+[10:04:36] Successful get url: https://www.bing.com/th?id=OHR.SamuiThailand_DE-DE5695333511_UHD.jpg
+[10:04:36] Picture infomations saved to  global/de-DE/README.md
+[10:04:36] Picture infomations saved to global/de-DE/history/2026/03/02_de-DE.md
+[10:04:36] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-02 05:04:36.542815-05:00
+[10:04:36] Successful get url: https://www.bing.com/th?id=OHR.SamuiThailand_EN-CA7437752481_UHD.jpg
+[10:04:36] Picture infomations saved to  global/en-CA/README.md
+[10:04:36] Picture infomations saved to global/en-CA/history/2026/03/03_en-CA.md
+[10:04:36] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-02 10:04:36.680490+00:00
+[10:04:36] Successful get url: https://www.bing.com/th?id=OHR.SamuiThailand_EN-GB6229613519_UHD.jpg
+[10:04:36] Picture infomations saved to  global/en-GB/README.md
+[10:04:36] Picture infomations saved to global/en-GB/history/2026/03/03_en-GB.md
+[10:04:36] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-02 11:04:36.954942+01:00
+[10:04:37] Successful get url: https://www.bing.com/th?id=OHR.PiazzaCatania_IT-IT5422643580_UHD.jpg
+[10:04:37] Picture infomations saved to  global/it-IT/README.md
+[10:04:37] Picture infomations saved to global/it-IT/history/2026/03/02_it-IT.md
+[10:04:37] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-02 11:04:37.100162+01:00
+[10:04:37] Successful get url: https://www.bing.com/th?id=OHR.OloupenaFalls_ES-ES6219064265_UHD.jpg
+[10:04:37] Picture infomations saved to  global/es-ES/README.md
+[10:04:37] Picture infomations saved to global/es-ES/history/2026/03/02_es-ES.md
+[10:04:37] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-02 05:04:37.274577-05:00
+[10:04:37] Successful get url: https://www.bing.com/th?id=OHR.SamuiThailand_FR-CA4699413933_UHD.jpg
+[10:04:37] Picture infomations saved to  global/fr-CA/README.md
+[10:04:37] Picture infomations saved to global/fr-CA/history/2026/03/03_fr-CA.md
+Program exit at 10:04:37
