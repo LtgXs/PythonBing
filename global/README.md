@@ -6,9 +6,9 @@
 ||*Copyright: Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)*
 ||
 |||
-|2026-03-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RilaCrocuses_JA-JP8929761168_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RilaCrocuses_JA-JP8929761168_UHD.jpg)|
-||*Copyright: 紫クロッカス, ブルガリア (© Maya Karkalicheva/Getty Images)*
+|2026-03-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363_UHD.jpg)|
+||*Copyright: ギョレメ国立公園, トルコ (© ONNAJA/Getty Images)*
 ||
 |||
 |2026-03-04|**Region: en-IN**||
