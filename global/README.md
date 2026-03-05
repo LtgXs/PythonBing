@@ -6,9 +6,9 @@
 ||*Copyright: Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)*
 ||
 |||
-|2026-03-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363_UHD.jpg)|
-||*Copyright: ギョレメ国立公園, トルコ (© ONNAJA/Getty Images)*
+|2026-03-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WaveDenmark_JA-JP3181035967_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaveDenmark_JA-JP3181035967_UHD.jpg)|
+||*Copyright: 集合住宅「ザ・ウェイブ」, デンマーク (© Frank Bach/Alamy)*
 ||
 |||
 |2026-03-05|**Region: en-IN**||

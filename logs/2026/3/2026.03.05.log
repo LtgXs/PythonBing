@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:59:46] Picture infomations saved to  global/fr-CA/README.md
 [09:59:46] Picture infomations saved to global/fr-CA/history/2026/03/06_fr-CA.md
 Program exit at 09:59:46
+
+Program started at 17:56:54
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm0kj6c
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[17:56:54] Start geting CN Bing Wallpaper
+[17:56:55] Successful get url: https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg
+[17:56:55] Image saved to img/background.jpg
+[17:56:55] Info saved to README.md
+[17:56:55] Image saved to history/2026/03/06.md
+[17:56:55] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-05 12:56:55.087344-05:00
+[17:56:55] Successful get url: https://www.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg
+[17:56:55] Picture infomations saved to  global/en-US/README.md
+[17:56:55] Picture infomations saved to global/en-US/history/2026/03/06_en-US.md
+[17:56:55] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-06 02:56:55.280301+09:00
+[17:56:55] Successful get url: https://www.bing.com/th?id=OHR.WaveDenmark_JA-JP3181035967_UHD.jpg
+[17:56:55] Picture infomations saved to  global/ja-JP/README.md
+[17:56:55] Picture infomations saved to global/ja-JP/history/2026/03/06_ja-JP.md
+[17:56:55] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-05 23:26:55.496112+05:30
+[17:56:55] Successful get url: https://www.bing.com/th?id=OHR.GoremeTwilight_EN-IN4959585189_UHD.jpg
+[17:56:55] Picture infomations saved to  global/en-IN/README.md
+[17:56:55] Picture infomations saved to global/en-IN/history/2026/03/05_en-IN.md
+[17:56:55] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-05 14:56:55.672096-03:00
+[17:56:55] Successful get url: https://www.bing.com/th?id=OHR.GoremeTwilight_PT-BR7913040689_UHD.jpg
+[17:56:55] Picture infomations saved to  global/pt-BR/README.md
+[17:56:55] Picture infomations saved to global/pt-BR/history/2026/03/06_pt-BR.md
+[17:56:55] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-05 18:56:55.886251+01:00
+[17:56:56] Successful get url: https://www.bing.com/th?id=OHR.GoremeTwilight_FR-FR6446660486_UHD.jpg
+[17:56:56] Picture infomations saved to  global/fr-FR/README.md
+[17:56:56] Picture infomations saved to global/fr-FR/history/2026/03/05_fr-FR.md
+[17:56:56] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-05 18:56:56.293743+01:00
+[17:56:56] Successful get url: https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800_UHD.jpg
+[17:56:56] Picture infomations saved to  global/de-DE/README.md
+[17:56:56] Picture infomations saved to global/de-DE/history/2026/03/05_de-DE.md
+[17:56:56] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-05 12:56:56.575121-05:00
+[17:56:56] Successful get url: https://www.bing.com/th?id=OHR.GoremeTwilight_EN-CA8343514373_UHD.jpg
+[17:56:56] Picture infomations saved to  global/en-CA/README.md
+[17:56:56] Picture infomations saved to global/en-CA/history/2026/03/06_en-CA.md
+[17:56:56] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-05 17:56:56.725964+00:00
+[17:56:56] Successful get url: https://www.bing.com/th?id=OHR.GoremeTwilight_EN-GB6866115691_UHD.jpg
+[17:56:57] Picture infomations saved to  global/en-GB/README.md
+[17:56:57] Picture infomations saved to global/en-GB/history/2026/03/06_en-GB.md
+[17:56:57] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-05 18:56:57.118879+01:00
+[17:56:57] Successful get url: https://www.bing.com/th?id=OHR.GoremeTwilight_IT-IT4720927286_UHD.jpg
+[17:56:57] Picture infomations saved to  global/it-IT/README.md
+[17:56:57] Picture infomations saved to global/it-IT/history/2026/03/05_it-IT.md
+[17:56:57] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-05 18:56:57.517565+01:00
+[17:56:57] Successful get url: https://www.bing.com/th?id=OHR.GoremeTwilight_ES-ES6859912248_UHD.jpg
+[17:56:57] Picture infomations saved to  global/es-ES/README.md
+[17:56:57] Picture infomations saved to global/es-ES/history/2026/03/05_es-ES.md
+[17:56:57] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-05 12:56:57.666472-05:00
+[17:56:57] Successful get url: https://www.bing.com/th?id=OHR.GoremeTwilight_FR-CA5793400182_UHD.jpg
+[17:56:57] Picture infomations saved to  global/fr-CA/README.md
+[17:56:57] Picture infomations saved to global/fr-CA/history/2026/03/06_fr-CA.md
+Program exit at 17:56:57
