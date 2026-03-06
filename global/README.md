@@ -6,9 +6,9 @@
 ||*Copyright: The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)*
 ||
 |||
-|2026-03-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WaveDenmark_JA-JP3181035967_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaveDenmark_JA-JP3181035967_UHD.jpg)|
-||*Copyright: 集合住宅「ザ・ウェイブ」, デンマーク (© Frank Bach/Alamy)*
+|2026-03-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BrockenSunrise_JA-JP0540053898_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrockenSunrise_JA-JP0540053898_UHD.jpg)|
+||*Copyright: ブロッケン山, ドイツ (© imageBROKER/AVTG/Getty Images)*
 ||
 |||
 |2026-03-06|**Region: en-IN**||
