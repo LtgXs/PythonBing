@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-03-07|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg)|
-||*Copyright: The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)*
+|2026-03-08|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg)|
+||*Copyright: Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)*
 ||
 |||
 |2026-03-07|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ブロッケン山, ドイツ (© imageBROKER/AVTG/Getty Images)*
 ||
 |||
-|2026-03-06|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WaveDenmark_EN-IN9929501446_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaveDenmark_EN-IN9929501446_UHD.jpg)|
-||*Copyright: The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)*
+|2026-03-07|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-IN8212450706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-IN8212450706_UHD.jpg)|
+||*Copyright: Humpback whales, Monterey Bay, California, United States (© Kiliii Fish/Cavan Images)*
 ||
 |||
-|2026-03-07|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.WaveDenmark_PT-BR4401858909_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaveDenmark_PT-BR4401858909_UHD.jpg)|
-||*Copyright: Edifício residencial The Wave, Vejle, Dinamarca (© Frank Bach/Alamy)*
+|2026-03-08|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.VaiUmbrellas_PT-BR0607622385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VaiUmbrellas_PT-BR0607622385_UHD.jpg)|
+||*Copyright: Espreguiçadeiras na praia de Vai, Creta, Grécia (© borchee/Getty Images)*
 ||
 |||
-|2026-03-06|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WaveDenmark_FR-FR0622592721_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaveDenmark_FR-FR0622592721_UHD.jpg)|
-||*Copyright: Projet résidentiel The Wave, Vejle, Danemark (© Frank Bach/Alamy)*
+|2026-03-07|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LacGentau_FR-FR1000142702_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LacGentau_FR-FR1000142702_UHD.jpg)|
+||*Copyright: Le Lac Gentau enneigé, Pyrénées Atlantiques (© MICHAUX Stéphane/Hemis.fr/Alamy)*
 ||
 |||
-|2026-03-06|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_UHD.jpg)|
-||*Copyright: Das Wohngebäude Bølgen „The Wave“ in Vejle, Dänemark (© Frank Bach/Alamy)*
+|2026-03-07|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_UHD.jpg)|
+||*Copyright: Pacific Rim National Park Reserve, Vancouver Island, Kanada (© EmilyNorton/Getty Images)*
 ||
 |||
-|2026-03-07|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WaveDenmark_EN-CA6114936639_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaveDenmark_EN-CA6114936639_UHD.jpg)|
-||*Copyright: The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)*
+|2026-03-08|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-CA3220764261_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-CA3220764261_UHD.jpg)|
+||*Copyright: Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)*
 ||
 |||
-|2026-03-07|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.WaveDenmark_EN-GB5644835999_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaveDenmark_EN-GB5644835999_UHD.jpg)|
-||*Copyright: The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)*
+|2026-03-08|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-GB9355519414_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-GB9355519414_UHD.jpg)|
+||*Copyright: The Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)*
 ||
 |||
-|2026-03-06|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WaveDenmark_IT-IT6019644027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaveDenmark_IT-IT6019644027_UHD.jpg)|
-||*Copyright: The Wave, Vejle, Danimarca (© Frank Bach/Alamy)*
+|2026-03-07|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.NaplesBasilica_IT-IT2953708039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaplesBasilica_IT-IT2953708039_UHD.jpg)|
+||*Copyright: Basilica reale pontificia di San Francesco di Paola, Napoli, Campania (© javarman3/Getty Images)*
 ||
 |||
-|2026-03-06|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.WaveDenmark_ES-ES1179544868_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaveDenmark_ES-ES1179544868_UHD.jpg)|
-||*Copyright: Complejo residencial The Wave, Vejle, Dinamarca (© Frank Bach/Alamy)*
+|2026-03-07|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BrockenSunrise_ES-ES7835866143_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrockenSunrise_ES-ES7835866143_UHD.jpg)|
+||*Copyright: Amanecer en el Brocken, Parque Nacional de Harz, Sajonia-Anhalt, Alemania (© imageBROKER/AVTG/Getty Images)*
 ||
 |||
-|2026-03-07|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WaveDenmark_FR-CA4609032919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WaveDenmark_FR-CA4609032919_UHD.jpg)|
-||*Copyright: Projet résidentiel The Wave, Vejle, Danemark (© Frank Bach/Alamy)*
+|2026-03-08|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BrockenSunrise_FR-CA1519030344_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrockenSunrise_FR-CA1519030344_UHD.jpg)|
+||*Copyright: Lever du soleil sur le Brocken, Parc national du Harz, Allemagne (© imageBROKER/AVTG/Getty Images)*
 ||
 |||
 
