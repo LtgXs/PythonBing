@@ -6,9 +6,9 @@
 ||*Copyright: Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)*
 ||
 |||
-|2026-03-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BrockenSunrise_JA-JP0540053898_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrockenSunrise_JA-JP0540053898_UHD.jpg)|
-||*Copyright: ブロッケン山, ドイツ (© imageBROKER/AVTG/Getty Images)*
+|2026-03-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.UlmClock_JA-JP3640087811_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UlmClock_JA-JP3640087811_UHD.jpg)|
+||*Copyright: ウルム市庁舎の天文時計, ドイツ (© Tomekbudujedomek/Getty Images)*
 ||
 |||
 |2026-03-07|**Region: en-IN**||
