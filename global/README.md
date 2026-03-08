@@ -6,9 +6,9 @@
 ||*Copyright: Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)*
 ||
 |||
-|2026-03-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.UlmClock_JA-JP3640087811_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UlmClock_JA-JP3640087811_UHD.jpg)|
-||*Copyright: ウルム市庁舎の天文時計, ドイツ (© Tomekbudujedomek/Getty Images)*
+|2026-03-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NappingSeal_JA-JP4638317955_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NappingSeal_JA-JP4638317955_UHD.jpg)|
+||*Copyright: アザラシ, スコットランド (© Andrew Mason/Minden Pictures)*
 ||
 |||
 |2026-03-08|**Region: en-IN**||
