@@ -6,9 +6,9 @@
 ||*Copyright: Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)*
 ||
 |||
-|2026-03-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NappingSeal_JA-JP4638317955_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NappingSeal_JA-JP4638317955_UHD.jpg)|
-||*Copyright: アザラシ, スコットランド (© Andrew Mason/Minden Pictures)*
+|2026-03-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SpringIceland_JA-JP4910368485_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringIceland_JA-JP4910368485_UHD.jpg)|
+||*Copyright: クヴェラヴェトリル地熱地帯の地熱プール, アイスランド (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
 |2026-03-09|**Region: en-IN**||
