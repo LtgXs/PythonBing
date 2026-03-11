@@ -6,9 +6,9 @@
 ||*Copyright: Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2026-03-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TohokuEarthquakeMemorial2026_JA-JP5225999611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TohokuEarthquakeMemorial2026_JA-JP5225999611_UHD.jpg)|
-||*Copyright: 復興の願いが書かれた灯籠, 宮城県 名取市 (© NurPhoto/Getty Images)*
+|2026-03-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TodaijiTempleOmizutori2026_JA-JP4273263363_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TodaijiTempleOmizutori2026_JA-JP4273263363_UHD.jpg)|
+||*Copyright: 東大寺, 奈良県 奈良市 (© Sean Pavone/Alamy)*
 ||
 |||
 |2026-03-11|**Region: en-IN**||
