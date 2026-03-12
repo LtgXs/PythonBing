@@ -1,0 +1,60 @@
+
+Program started at 09:58:49
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm0kj6c
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[09:58:49] Start geting CN Bing Wallpaper
+[09:58:49] Successful get url: https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg
+[09:58:49] Image saved to img/background.jpg
+[09:58:49] Info saved to README.md
+[09:58:49] Image saved to history/2026/03/12.md
+[09:58:49] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-12 05:58:49.616529-04:00
+[09:58:49] Successful get url: https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg
+[09:58:49] Picture infomations saved to  global/en-US/README.md
+[09:58:49] Picture infomations saved to global/en-US/history/2026/03/13_en-US.md
+[09:58:49] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-12 18:58:49.999266+09:00
+[09:58:50] Successful get url: https://www.bing.com/th?id=OHR.TodaijiTempleOmizutori2026_JA-JP4273263363_UHD.jpg
+[09:58:50] Picture infomations saved to  global/ja-JP/README.md
+[09:58:50] Picture infomations saved to global/ja-JP/history/2026/03/12_ja-JP.md
+[09:58:50] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-12 15:28:50.358751+05:30
+[09:58:50] Successful get url: https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-IN2617583803_UHD.jpg
+[09:58:50] Picture infomations saved to  global/en-IN/README.md
+[09:58:50] Picture infomations saved to global/en-IN/history/2026/03/12_en-IN.md
+[09:58:50] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-12 06:58:50.702164-03:00
+[09:58:50] Successful get url: https://www.bing.com/th?id=OHR.SunbitternEcuador_PT-BR9017596322_UHD.jpg
+[09:58:51] Picture infomations saved to  global/pt-BR/README.md
+[09:58:51] Picture infomations saved to global/pt-BR/history/2026/03/13_pt-BR.md
+[09:58:51] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-12 10:58:51.085925+01:00
+[09:58:51] Successful get url: https://www.bing.com/th?id=OHR.SunbitternEcuador_FR-FR2457278888_UHD.jpg
+[09:58:51] Picture infomations saved to  global/fr-FR/README.md
+[09:58:51] Picture infomations saved to global/fr-FR/history/2026/03/12_fr-FR.md
+[09:58:51] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-12 10:58:51.474754+01:00
+[09:58:51] Successful get url: https://www.bing.com/th?id=OHR.SunbitternEcuador_DE-DE7333956665_UHD.jpg
+[09:58:51] Picture infomations saved to  global/de-DE/README.md
+[09:58:51] Picture infomations saved to global/de-DE/history/2026/03/12_de-DE.md
+[09:58:51] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-12 05:58:51.896842-04:00
+[09:58:51] Successful get url: https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-CA6009774194_UHD.jpg
+[09:58:52] Picture infomations saved to  global/en-CA/README.md
+[09:58:52] Picture infomations saved to global/en-CA/history/2026/03/13_en-CA.md
+[09:58:52] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-12 09:58:52.238088+00:00
+[09:58:52] Successful get url: https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-GB7250985153_UHD.jpg
+[09:58:52] Picture infomations saved to  global/en-GB/README.md
+[09:58:52] Picture infomations saved to global/en-GB/history/2026/03/13_en-GB.md
+[09:58:52] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-12 10:58:52.630105+01:00
+[09:58:53] Successful get url: https://www.bing.com/th?id=OHR.SunbitternEcuador_IT-IT0154345813_UHD.jpg
+[09:58:54] Picture infomations saved to  global/it-IT/README.md
+[09:58:54] Picture infomations saved to global/it-IT/history/2026/03/12_it-IT.md
+[09:58:54] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-12 10:58:54.092836+01:00
+[09:58:54] Successful get url: https://www.bing.com/th?id=OHR.SunbitternEcuador_ES-ES1944682433_UHD.jpg
+[09:58:54] Picture infomations saved to  global/es-ES/README.md
+[09:58:54] Picture infomations saved to global/es-ES/history/2026/03/12_es-ES.md
+[09:58:54] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-12 05:58:54.462372-04:00
+[09:58:55] Successful get url: https://www.bing.com/th?id=OHR.SunbitternEcuador_FR-CA6588923031_UHD.jpg
+[09:58:55] Picture infomations saved to  global/fr-CA/README.md
+[09:58:55] Picture infomations saved to global/fr-CA/history/2026/03/13_fr-CA.md
+Program exit at 09:58:55
