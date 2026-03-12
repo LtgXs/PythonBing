@@ -6,9 +6,9 @@
 ||*Copyright: Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)*
 ||
 |||
-|2026-03-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TodaijiTempleOmizutori2026_JA-JP4273263363_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TodaijiTempleOmizutori2026_JA-JP4273263363_UHD.jpg)|
-||*Copyright: 東大寺, 奈良県 奈良市 (© Sean Pavone/Alamy)*
+|2026-03-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.VendeeVaults_JA-JP5730260896_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VendeeVaults_JA-JP5730260896_UHD.jpg)|
+||*Copyright: ノートルダム・ド・ボン＝ポルト教会, フランス (© Helmut Meyer zur Capellen/Alamy)*
 ||
 |||
 |2026-03-12|**Region: en-IN**||
