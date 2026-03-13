@@ -6,9 +6,9 @@
 ||*Copyright: Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)*
 ||
 |||
-|2026-03-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.VendeeVaults_JA-JP5730260896_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VendeeVaults_JA-JP5730260896_UHD.jpg)|
-||*Copyright: ノートルダム・ド・ボン＝ポルト教会, フランス (© Helmut Meyer zur Capellen/Alamy)*
+|2026-03-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CornwallDolmen_JA-JP6001769606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallDolmen_JA-JP6001769606_UHD.jpg)|
+||*Copyright: ラニョン・クォイト, イングランド (© Helen Hotson/Alamy)*
 ||
 |||
 |2026-03-13|**Region: en-IN**||
