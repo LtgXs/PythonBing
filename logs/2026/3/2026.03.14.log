@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:47:20] Picture infomations saved to  global/fr-CA/README.md
 [09:47:20] Picture infomations saved to global/fr-CA/history/2026/03/15_fr-CA.md
 Program exit at 09:47:20
+
+Program started at 16:23:04
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm0kj6c
+Processor Type: x86_64
+Python Version: 3.12.12
+Python Interpreter Name: CPython
+[16:23:04] Start geting CN Bing Wallpaper
+[16:23:04] Successful get url: https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg
+[16:23:05] Image saved to img/background.jpg
+[16:23:05] Info saved to README.md
+[16:23:05] Image saved to history/2026/03/15.md
+[16:23:05] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-14 12:23:05.180933-04:00
+[16:23:05] Successful get url: https://www.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg
+[16:23:05] Picture infomations saved to  global/en-US/README.md
+[16:23:05] Picture infomations saved to global/en-US/history/2026/03/15_en-US.md
+[16:23:05] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-15 01:23:05.345880+09:00
+[16:23:05] Successful get url: https://www.bing.com/th?id=OHR.PacificRimNP_JA-JP9772026876_UHD.jpg
+[16:23:05] Picture infomations saved to  global/ja-JP/README.md
+[16:23:05] Picture infomations saved to global/ja-JP/history/2026/03/15_ja-JP.md
+[16:23:05] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-14 21:53:05.507884+05:30
+[16:23:05] Successful get url: https://www.bing.com/th?id=OHR.CornwallDolmen_EN-IN3037297549_UHD.jpg
+[16:23:05] Picture infomations saved to  global/en-IN/README.md
+[16:23:05] Picture infomations saved to global/en-IN/history/2026/03/14_en-IN.md
+[16:23:05] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-14 13:23:05.668032-03:00
+[16:23:05] Successful get url: https://www.bing.com/th?id=OHR.AnimalDay_PT-BR1131499821_UHD.jpg
+[16:23:05] Picture infomations saved to  global/pt-BR/README.md
+[16:23:05] Picture infomations saved to global/pt-BR/history/2026/03/15_pt-BR.md
+[16:23:05] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-14 17:23:05.879212+01:00
+[16:23:05] Successful get url: https://www.bing.com/th?id=OHR.CornwallDolmen_FR-FR8803174117_UHD.jpg
+[16:23:06] Picture infomations saved to  global/fr-FR/README.md
+[16:23:06] Picture infomations saved to global/fr-FR/history/2026/03/14_fr-FR.md
+[16:23:06] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-14 17:23:06.334827+01:00
+[16:23:06] Successful get url: https://www.bing.com/th?id=OHR.CornwallDolmen_DE-DE0215801252_UHD.jpg
+[16:23:06] Picture infomations saved to  global/de-DE/README.md
+[16:23:06] Picture infomations saved to global/de-DE/history/2026/03/14_de-DE.md
+[16:23:06] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-14 12:23:06.503297-04:00
+[16:23:06] Successful get url: https://www.bing.com/th?id=OHR.CornwallDolmen_EN-CA7041540991_UHD.jpg
+[16:23:06] Picture infomations saved to  global/en-CA/README.md
+[16:23:06] Picture infomations saved to global/en-CA/history/2026/03/15_en-CA.md
+[16:23:06] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-14 16:23:06.641594+00:00
+[16:23:06] Successful get url: https://www.bing.com/th?id=OHR.CornwallDolmen_EN-GB7624290325_UHD.jpg
+[16:23:06] Picture infomations saved to  global/en-GB/README.md
+[16:23:06] Picture infomations saved to global/en-GB/history/2026/03/15_en-GB.md
+[16:23:06] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-14 17:23:06.863367+01:00
+[16:23:06] Successful get url: https://www.bing.com/th?id=OHR.CornwallDolmen_IT-IT6505695058_UHD.jpg
+[16:23:07] Picture infomations saved to  global/it-IT/README.md
+[16:23:07] Picture infomations saved to global/it-IT/history/2026/03/14_it-IT.md
+[16:23:07] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-14 17:23:07.021715+01:00
+[16:23:07] Successful get url: https://www.bing.com/th?id=OHR.CornwallDolmen_ES-ES3155419743_UHD.jpg
+[16:23:07] Picture infomations saved to  global/es-ES/README.md
+[16:23:07] Picture infomations saved to global/es-ES/history/2026/03/14_es-ES.md
+[16:23:07] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-14 12:23:07.241144-04:00
+[16:23:07] Successful get url: https://www.bing.com/th?id=OHR.CornwallDolmen_FR-CA7428188681_UHD.jpg
+[16:23:07] Picture infomations saved to  global/fr-CA/README.md
+[16:23:07] Picture infomations saved to global/fr-CA/history/2026/03/15_fr-CA.md
+Program exit at 16:23:07

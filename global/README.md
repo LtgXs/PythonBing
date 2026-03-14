@@ -6,9 +6,9 @@
 ||*Copyright: Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)*
 ||
 |||
-|2026-03-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CornwallDolmen_JA-JP6001769606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallDolmen_JA-JP6001769606_UHD.jpg)|
-||*Copyright: ラニョン・クォイト, イングランド (© Helen Hotson/Alamy)*
+|2026-03-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PacificRimNP_JA-JP9772026876_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificRimNP_JA-JP9772026876_UHD.jpg)|
+||*Copyright: パシフィック・リム国立公園, カナダ (© EmilyNorton/Getty Images)*
 ||
 |||
 |2026-03-14|**Region: en-IN**||
