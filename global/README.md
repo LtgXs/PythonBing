@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-03-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg)|
-||*Copyright: Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)*
+|2026-03-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_UHD.jpg)|
+||*Copyright: Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)*
 ||
 |||
 |2026-03-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: パシフィック・リム国立公園, カナダ (© EmilyNorton/Getty Images)*
 ||
 |||
-|2026-03-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-IN3037297549_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-IN3037297549_UHD.jpg)|
-||*Copyright: Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)*
+|2026-03-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PacificRimNP_EN-IN3208253488_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificRimNP_EN-IN3208253488_UHD.jpg)|
+||*Copyright: Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)*
 ||
 |||
-|2026-03-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AnimalDay_PT-BR1131499821_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AnimalDay_PT-BR1131499821_UHD.jpg)|
-||*Copyright: Acarás-bandeira amarelos, Brasil (© Gregory_DUBUS/iStock/Getty Images Plus)*
+|2026-03-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PacificRimNP_PT-BR1302801111_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificRimNP_PT-BR1302801111_UHD.jpg)|
+||*Copyright: Parque Nacional Pacific Rim, Ilha de Vancouver, Canadá (© EmilyNorton/Getty Images)*
 ||
 |||
-|2026-03-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CornwallDolmen_FR-FR8803174117_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallDolmen_FR-FR8803174117_UHD.jpg)|
-||*Copyright: Lanyon Quoit, dolmen néolithique à Cornwall, Angleterre (© Helen Hotson/Alamy)*
+|2026-03-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PacificRimNP_FR-FR6570594682_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificRimNP_FR-FR6570594682_UHD.jpg)|
+||*Copyright: Réserve de parc national Pacific Rim, Île de Vancouver, Canada (© EmilyNorton/Getty Images)*
 ||
 |||
-|2026-03-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CornwallDolmen_DE-DE0215801252_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallDolmen_DE-DE0215801252_UHD.jpg)|
-||*Copyright: Lanyon Quoit, neolithischer Dolmen in Cornwall, England (© Helen Hotson/Alamy)*
+|2026-03-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349_UHD.jpg)|
+||*Copyright: Königssee bei Schönau am Königssee, Bayern (© EyeEm Mobile GmbH/Getty Images)*
 ||
 |||
-|2026-03-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-CA7041540991_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-CA7041540991_UHD.jpg)|
-||*Copyright: Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)*
+|2026-03-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PacificRimNP_EN-CA7886674430_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificRimNP_EN-CA7886674430_UHD.jpg)|
+||*Copyright: Pacific Rim National Park Reserve, Vancouver Island (© EmilyNorton/Getty Images)*
 ||
 |||
-|2026-03-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-GB7624290325_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallDolmen_EN-GB7624290325_UHD.jpg)|
-||*Copyright: Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)*
+|2026-03-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MotheringSunday2026_EN-GB9211202468_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MotheringSunday2026_EN-GB9211202468_UHD.jpg)|
+||*Copyright: A robin feeding its chick, Netherlands (© CreativeNature_nl/iStock/Getty Images)*
 ||
 |||
-|2026-03-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CornwallDolmen_IT-IT6505695058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallDolmen_IT-IT6505695058_UHD.jpg)|
-||*Copyright: Lanyon Quoit, dolmen neolitico in Cornovaglia, Inghilterra (© Helen Hotson/Alamy)*
+|2026-03-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PacificRimNP_IT-IT0253430752_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificRimNP_IT-IT0253430752_UHD.jpg)|
+||*Copyright: Riserva del Parco Nazionale Pacific Rim, Isola di Vancouver, Canada (© EmilyNorton/Getty Images)*
 ||
 |||
-|2026-03-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CornwallDolmen_ES-ES3155419743_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallDolmen_ES-ES3155419743_UHD.jpg)|
-||*Copyright: Lanyon Quoit, un dolmen neolítico en Cornualles, Inglaterra (© Helen Hotson/Alamy)*
+|2026-03-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FallasValencia_ES-ES2854700408_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FallasValencia_ES-ES2854700408_UHD.jpg)|
+||*Copyright: Vista de las Torres de Serranos durante La Crida de las Fallas, Valencia (© SOPA Images/Getty Images)*
 ||
 |||
-|2026-03-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CornwallDolmen_FR-CA7428188681_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CornwallDolmen_FR-CA7428188681_UHD.jpg)|
-||*Copyright: Lanyon Quoit, dolmen néolithique à Cornwall, Angleterre (© Helen Hotson/Alamy)*
+|2026-03-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PacificRimNP_FR-CA0003865567_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificRimNP_FR-CA0003865567_UHD.jpg)|
+||*Copyright: Réserve de parc national Pacific Rim, Île de Vancouver, Canada (© EmilyNorton/Getty Images)*
 ||
 |||
 
