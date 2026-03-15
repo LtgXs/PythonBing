@@ -6,9 +6,9 @@
 ||*Copyright: Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)*
 ||
 |||
-|2026-03-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PacificRimNP_JA-JP9772026876_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificRimNP_JA-JP9772026876_UHD.jpg)|
-||*Copyright: パシフィック・リム国立公園, カナダ (© EmilyNorton/Getty Images)*
+|2026-03-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PeachBloom_JA-JP7397349456_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeachBloom_JA-JP7397349456_UHD.jpg)|
+||*Copyright: シエサの桃畑, スペイン (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
 |2026-03-15|**Region: en-IN**||
