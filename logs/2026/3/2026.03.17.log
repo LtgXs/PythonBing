@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:06:44] Picture infomations saved to  global/fr-CA/README.md
 [10:06:44] Picture infomations saved to global/fr-CA/history/2026/03/18_fr-CA.md
 Program exit at 10:06:44
+
+Program started at 16:58:18
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm46oaq
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:58:18] Start geting CN Bing Wallpaper
+[16:58:18] Successful get url: https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg
+[16:58:19] Image saved to img/background.jpg
+[16:58:19] Info saved to README.md
+[16:58:19] Image saved to history/2026/03/18.md
+[16:58:19] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-17 12:58:19.123913-04:00
+[16:58:19] Successful get url: https://www.bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg
+[16:58:19] Picture infomations saved to  global/en-US/README.md
+[16:58:19] Picture infomations saved to global/en-US/history/2026/03/18_en-US.md
+[16:58:19] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-18 01:58:19.443642+09:00
+[16:58:19] Successful get url: https://www.bing.com/th?id=OHR.PortlandBlossoms_JA-JP9732254183_UHD.jpg
+[16:58:19] Picture infomations saved to  global/ja-JP/README.md
+[16:58:19] Picture infomations saved to global/ja-JP/history/2026/03/18_ja-JP.md
+[16:58:19] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-17 22:28:19.793936+05:30
+[16:58:19] Successful get url: https://www.bing.com/th?id=OHR.DonegalFort_EN-IN3507979225_UHD.jpg
+[16:58:20] Picture infomations saved to  global/en-IN/README.md
+[16:58:20] Picture infomations saved to global/en-IN/history/2026/03/17_en-IN.md
+[16:58:20] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-17 13:58:20.195328-03:00
+[16:58:20] Successful get url: https://www.bing.com/th?id=OHR.DonegalFort_PT-BR2211224155_UHD.jpg
+[16:58:20] Picture infomations saved to  global/pt-BR/README.md
+[16:58:20] Picture infomations saved to global/pt-BR/history/2026/03/18_pt-BR.md
+[16:58:20] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-17 17:58:20.591445+01:00
+[16:58:20] Successful get url: https://www.bing.com/th?id=OHR.DonegalFort_FR-FR9519864850_UHD.jpg
+[16:58:21] Picture infomations saved to  global/fr-FR/README.md
+[16:58:21] Picture infomations saved to global/fr-FR/history/2026/03/17_fr-FR.md
+[16:58:21] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-17 17:58:21.048143+01:00
+[16:58:21] Successful get url: https://www.bing.com/th?id=OHR.DonegalFort_DE-DE1298272044_UHD.jpg
+[16:58:21] Picture infomations saved to  global/de-DE/README.md
+[16:58:21] Picture infomations saved to global/de-DE/history/2026/03/17_de-DE.md
+[16:58:21] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-17 12:58:21.422765-04:00
+[16:58:21] Successful get url: https://www.bing.com/th?id=OHR.DonegalFort_EN-CA9009549230_UHD.jpg
+[16:58:21] Picture infomations saved to  global/en-CA/README.md
+[16:58:21] Picture infomations saved to global/en-CA/history/2026/03/18_en-CA.md
+[16:58:21] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-17 16:58:21.940765+00:00
+[16:58:22] Successful get url: https://www.bing.com/th?id=OHR.DonegalFort_EN-GB9523764542_UHD.jpg
+[16:58:22] Picture infomations saved to  global/en-GB/README.md
+[16:58:22] Picture infomations saved to global/en-GB/history/2026/03/18_en-GB.md
+[16:58:22] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-17 17:58:22.240081+01:00
+[16:58:22] Successful get url: https://www.bing.com/th?id=OHR.DonegalFort_IT-IT6683615812_UHD.jpg
+[16:58:22] Picture infomations saved to  global/it-IT/README.md
+[16:58:22] Picture infomations saved to global/it-IT/history/2026/03/17_it-IT.md
+[16:58:22] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-17 17:58:22.658282+01:00
+[16:58:22] Successful get url: https://www.bing.com/th?id=OHR.DonegalFort_ES-ES3467375923_UHD.jpg
+[16:58:22] Picture infomations saved to  global/es-ES/README.md
+[16:58:23] Picture infomations saved to global/es-ES/history/2026/03/17_es-ES.md
+[16:58:23] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-17 12:58:23.000233-04:00
+[16:58:23] Successful get url: https://www.bing.com/th?id=OHR.DonegalFort_FR-CA8544194956_UHD.jpg
+[16:58:23] Picture infomations saved to  global/fr-CA/README.md
+[16:58:23] Picture infomations saved to global/fr-CA/history/2026/03/18_fr-CA.md
+Program exit at 16:58:23

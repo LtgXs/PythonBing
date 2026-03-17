@@ -6,9 +6,9 @@
 ||*Copyright: Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)*
 ||
 |||
-|2026-03-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DonegalFort_JA-JP7751564474_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DonegalFort_JA-JP7751564474_UHD.jpg)|
-||*Copyright: アイリーチのグリアナン, アイルランド (© aluxum/Getty Images)*
+|2026-03-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PortlandBlossoms_JA-JP9732254183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortlandBlossoms_JA-JP9732254183_UHD.jpg)|
+||*Copyright: トム・マッコール・ウォーターフロント・パーク, 米国 オレゴン州 (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
 |2026-03-17|**Region: en-IN**||
