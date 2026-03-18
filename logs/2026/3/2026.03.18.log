@@ -1,0 +1,60 @@
+
+Program started at 10:09:13
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm46oaq
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:09:13] Start geting CN Bing Wallpaper
+[10:09:13] Successful get url: https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg
+[10:09:13] Image saved to img/background.jpg
+[10:09:13] Info saved to README.md
+[10:09:13] Image saved to history/2026/03/18.md
+[10:09:13] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-18 06:09:13.582731-04:00
+[10:09:13] Successful get url: https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg
+[10:09:13] Picture infomations saved to  global/en-US/README.md
+[10:09:13] Picture infomations saved to global/en-US/history/2026/03/19_en-US.md
+[10:09:13] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-18 19:09:13.743093+09:00
+[10:09:13] Successful get url: https://www.bing.com/th?id=OHR.PortlandBlossoms_JA-JP9732254183_UHD.jpg
+[10:09:14] Picture infomations saved to  global/ja-JP/README.md
+[10:09:14] Picture infomations saved to global/ja-JP/history/2026/03/18_ja-JP.md
+[10:09:14] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-18 15:39:14.253739+05:30
+[10:09:14] Successful get url: https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-IN3670044925_UHD.jpg
+[10:09:14] Picture infomations saved to  global/en-IN/README.md
+[10:09:14] Picture infomations saved to global/en-IN/history/2026/03/18_en-IN.md
+[10:09:14] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-18 07:09:14.456605-03:00
+[10:09:14] Successful get url: https://www.bing.com/th?id=OHR.AerialLencois_PT-BR2485824651_UHD.jpg
+[10:09:14] Picture infomations saved to  global/pt-BR/README.md
+[10:09:14] Picture infomations saved to global/pt-BR/history/2026/03/19_pt-BR.md
+[10:09:14] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-18 11:09:14.659207+01:00
+[10:09:14] Successful get url: https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-FR9680778495_UHD.jpg
+[10:09:14] Picture infomations saved to  global/fr-FR/README.md
+[10:09:14] Picture infomations saved to global/fr-FR/history/2026/03/18_fr-FR.md
+[10:09:14] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-18 11:09:14.815643+01:00
+[10:09:14] Successful get url: https://www.bing.com/th?id=OHR.PortlandBlossoms_DE-DE2538549747_UHD.jpg
+[10:09:14] Picture infomations saved to  global/de-DE/README.md
+[10:09:14] Picture infomations saved to global/de-DE/history/2026/03/18_de-DE.md
+[10:09:14] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-18 06:09:14.959066-04:00
+[10:09:15] Successful get url: https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-CA9305833993_UHD.jpg
+[10:09:15] Picture infomations saved to  global/en-CA/README.md
+[10:09:15] Picture infomations saved to global/en-CA/history/2026/03/19_en-CA.md
+[10:09:15] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-18 10:09:15.100587+00:00
+[10:09:15] Successful get url: https://www.bing.com/th?id=OHR.PacificRimNP_EN-GB7806112812_UHD.jpg
+[10:09:15] Picture infomations saved to  global/en-GB/README.md
+[10:09:15] Picture infomations saved to global/en-GB/history/2026/03/19_en-GB.md
+[10:09:15] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-18 11:09:15.304812+01:00
+[10:09:15] Successful get url: https://www.bing.com/th?id=OHR.PortlandBlossoms_IT-IT6741607999_UHD.jpg
+[10:09:15] Picture infomations saved to  global/it-IT/README.md
+[10:09:15] Picture infomations saved to global/it-IT/history/2026/03/18_it-IT.md
+[10:09:15] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-18 11:09:15.458946+01:00
+[10:09:15] Successful get url: https://www.bing.com/th?id=OHR.PortlandBlossoms_ES-ES3666469155_UHD.jpg
+[10:09:15] Picture infomations saved to  global/es-ES/README.md
+[10:09:15] Picture infomations saved to global/es-ES/history/2026/03/18_es-ES.md
+[10:09:15] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-18 06:09:15.600156-04:00
+[10:09:15] Successful get url: https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-CA0444683817_UHD.jpg
+[10:09:15] Picture infomations saved to  global/fr-CA/README.md
+[10:09:15] Picture infomations saved to global/fr-CA/history/2026/03/19_fr-CA.md
+Program exit at 10:09:15

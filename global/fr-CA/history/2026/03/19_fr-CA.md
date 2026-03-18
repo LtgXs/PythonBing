@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-03-19
+## History Bing Wallpaper
+Wallpaper date: 2026-03-19
 ![](https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-CA0444683817_UHD.jpg&w=1000)Download: [Cerisiers en fleur à Tom McCall Waterfront Park, Portland, États-Unis (© Eric Vogt/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-CA0444683817_UHD.jpg)
 
 Auto get programm by LtgX
