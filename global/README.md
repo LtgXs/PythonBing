@@ -6,9 +6,9 @@
 ||*Copyright: Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)*
 ||
 |||
-|2026-03-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PortlandBlossoms_JA-JP9732254183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortlandBlossoms_JA-JP9732254183_UHD.jpg)|
-||*Copyright: トム・マッコール・ウォーターフロント・パーク, 米国 オレゴン州 (© Eric Vogt/Tandem Stills + Motion)*
+|2026-03-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_UHD.jpg)|
+||*Copyright: ハリモグラ, オーストラリア (© Etienne Littlefair/naturepl.com)*
 ||
 |||
 |2026-03-18|**Region: en-IN**||
