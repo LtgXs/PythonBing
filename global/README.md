@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-03-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg)|
-||*Copyright: Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)*
+|2026-03-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg)|
+||*Copyright: Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)*
 ||
 |||
 |2026-03-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ハリモグラ, オーストラリア (© Etienne Littlefair/naturepl.com)*
 ||
 |||
-|2026-03-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-IN3670044925_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-IN3670044925_UHD.jpg)|
-||*Copyright: Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon, United States (© Eric Vogt/Tandem Stills + Motion)*
+|2026-03-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-IN3822146974_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-IN3822146974_UHD.jpg)|
+||*Copyright: Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)*
 ||
 |||
-|2026-03-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AerialLencois_PT-BR2485824651_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AerialLencois_PT-BR2485824651_UHD.jpg)|
-||*Copyright: Vista aérea do Rio Negro, Parque Nacional dos Lençóis Maranhenses, Maranhão (© Ignacio Palacios/Getty Images)*
+|2026-03-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_PT-BR2206823018_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_PT-BR2206823018_UHD.jpg)|
+||*Copyright: Equidna-de-focinho-curto, Adelaide Hills, Austrália (© Etienne Littlefair/naturepl.com)*
 ||
 |||
-|2026-03-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-FR9680778495_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-FR9680778495_UHD.jpg)|
-||*Copyright: Cerisiers en fleur à Tom McCall Waterfront Park, Portland, États-Unis (© Eric Vogt/Tandem Stills + Motion)*
+|2026-03-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_UHD.jpg)|
+||*Copyright: L’échidné à nez court, Adelaide Hills, Australie (© Etienne Littlefair/naturepl.com)*
 ||
 |||
-|2026-03-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.PortlandBlossoms_DE-DE2538549747_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortlandBlossoms_DE-DE2538549747_UHD.jpg)|
-||*Copyright: Kirschblüten im Tom McCall Waterfront Park, Portland, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)*
+|2026-03-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_DE-DE8869849686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_DE-DE8869849686_UHD.jpg)|
+||*Copyright: Kurzschnabel-Ameisenigel, Adelaide Hills, Australien (© Etienne Littlefair/naturepl.com)*
 ||
 |||
-|2026-03-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-CA9305833993_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-CA9305833993_UHD.jpg)|
-||*Copyright: Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon, United States (© Eric Vogt/Tandem Stills + Motion)*
+|2026-03-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-CA1280925480_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-CA1280925480_UHD.jpg)|
+||*Copyright: Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)*
 ||
 |||
-|2026-03-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PacificRimNP_EN-GB7806112812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PacificRimNP_EN-GB7806112812_UHD.jpg)|
-||*Copyright: Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)*
+|2026-03-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-GB9662090948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-GB9662090948_UHD.jpg)|
+||*Copyright: Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)*
 ||
 |||
-|2026-03-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PortlandBlossoms_IT-IT6741607999_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortlandBlossoms_IT-IT6741607999_UHD.jpg)|
-||*Copyright: Fiori di ciliegio al Tom McCall Waterfront Park, Portland, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)*
+|2026-03-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_UHD.jpg)|
+||*Copyright: Leone con prole (© JasonPrince/iStock)*
 ||
 |||
-|2026-03-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PortlandBlossoms_ES-ES3666469155_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortlandBlossoms_ES-ES3666469155_UHD.jpg)|
-||*Copyright: Cerezos en flor en el Parque Tom McCall Waterfront, Portland, Oregón, EE. UU. (© Eric Vogt/Tandem Stills + Motion)*
+|2026-03-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_ES-ES3815108716_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_ES-ES3815108716_UHD.jpg)|
+||*Copyright: Equidna de hocico corto, colinas de Adelaida, Australia (© Etienne Littlefair/naturepl.com)*
 ||
 |||
-|2026-03-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-CA0444683817_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-CA0444683817_UHD.jpg)|
-||*Copyright: Cerisiers en fleur à Tom McCall Waterfront Park, Portland, États-Unis (© Eric Vogt/Tandem Stills + Motion)*
+|2026-03-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-CA9164766115_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-CA9164766115_UHD.jpg)|
+||*Copyright: L’échidné à nez court, Adelaide Hills, Australie (© Etienne Littlefair/naturepl.com)*
 ||
 |||
 

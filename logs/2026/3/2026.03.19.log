@@ -1,0 +1,60 @@
+
+Program started at 09:59:23
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm46oaq
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[09:59:23] Start geting CN Bing Wallpaper
+[09:59:23] Successful get url: https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_UHD.jpg
+[09:59:23] Image saved to img/background.jpg
+[09:59:23] Info saved to README.md
+[09:59:23] Image saved to history/2026/03/19.md
+[09:59:23] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-19 05:59:23.783284-04:00
+[09:59:23] Successful get url: https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg
+[09:59:23] Picture infomations saved to  global/en-US/README.md
+[09:59:23] Picture infomations saved to global/en-US/history/2026/03/20_en-US.md
+[09:59:23] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-19 18:59:23.945521+09:00
+[09:59:23] Successful get url: https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_UHD.jpg
+[09:59:24] Picture infomations saved to  global/ja-JP/README.md
+[09:59:24] Picture infomations saved to global/ja-JP/history/2026/03/19_ja-JP.md
+[09:59:24] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-19 15:29:24.108830+05:30
+[09:59:24] Successful get url: https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-IN3822146974_UHD.jpg
+[09:59:24] Picture infomations saved to  global/en-IN/README.md
+[09:59:24] Picture infomations saved to global/en-IN/history/2026/03/19_en-IN.md
+[09:59:24] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-19 06:59:24.230412-03:00
+[09:59:24] Successful get url: https://www.bing.com/th?id=OHR.EchidnaAustralia_PT-BR2206823018_UHD.jpg
+[09:59:24] Picture infomations saved to  global/pt-BR/README.md
+[09:59:24] Picture infomations saved to global/pt-BR/history/2026/03/20_pt-BR.md
+[09:59:24] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-19 10:59:24.422339+01:00
+[09:59:24] Successful get url: https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_UHD.jpg
+[09:59:24] Picture infomations saved to  global/fr-FR/README.md
+[09:59:24] Picture infomations saved to global/fr-FR/history/2026/03/19_fr-FR.md
+[09:59:24] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-19 10:59:24.662014+01:00
+[09:59:24] Successful get url: https://www.bing.com/th?id=OHR.EchidnaAustralia_DE-DE8869849686_UHD.jpg
+[09:59:24] Picture infomations saved to  global/de-DE/README.md
+[09:59:24] Picture infomations saved to global/de-DE/history/2026/03/19_de-DE.md
+[09:59:24] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-19 05:59:24.829626-04:00
+[09:59:24] Successful get url: https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-CA1280925480_UHD.jpg
+[09:59:24] Picture infomations saved to  global/en-CA/README.md
+[09:59:24] Picture infomations saved to global/en-CA/history/2026/03/20_en-CA.md
+[09:59:24] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-19 09:59:24.933019+00:00
+[09:59:24] Successful get url: https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-GB9662090948_UHD.jpg
+[09:59:25] Picture infomations saved to  global/en-GB/README.md
+[09:59:25] Picture infomations saved to global/en-GB/history/2026/03/20_en-GB.md
+[09:59:25] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-19 10:59:25.071925+01:00
+[09:59:25] Successful get url: https://www.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_UHD.jpg
+[09:59:25] Picture infomations saved to  global/it-IT/README.md
+[09:59:25] Picture infomations saved to global/it-IT/history/2026/03/19_it-IT.md
+[09:59:25] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-19 10:59:25.183582+01:00
+[09:59:25] Successful get url: https://www.bing.com/th?id=OHR.EchidnaAustralia_ES-ES3815108716_UHD.jpg
+[09:59:25] Picture infomations saved to  global/es-ES/README.md
+[09:59:25] Picture infomations saved to global/es-ES/history/2026/03/19_es-ES.md
+[09:59:25] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-19 05:59:25.295536-04:00
+[09:59:25] Successful get url: https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-CA9164766115_UHD.jpg
+[09:59:25] Picture infomations saved to  global/fr-CA/README.md
+[09:59:25] Picture infomations saved to global/fr-CA/history/2026/03/20_fr-CA.md
+Program exit at 09:59:25
