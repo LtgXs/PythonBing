@@ -6,9 +6,9 @@
 ||*Copyright: Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)*
 ||
 |||
-|2026-03-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_UHD.jpg)|
-||*Copyright: ハリモグラ, オーストラリア (© Etienne Littlefair/naturepl.com)*
+|2026-03-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SpringSnowdrops_JA-JP8554533353_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringSnowdrops_JA-JP8554533353_UHD.jpg)|
+||*Copyright: スノードロップ花 (© klagyivik/Getty Images)*
 ||
 |||
 |2026-03-19|**Region: en-IN**||
