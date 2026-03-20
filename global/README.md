@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-03-20|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg)|
-||*Copyright: Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)*
+|2026-03-21|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg)|
+||*Copyright: Snowdrops in spring (© klagyivik/Getty Images)*
 ||
 |||
 |2026-03-20|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: スノードロップ花 (© klagyivik/Getty Images)*
 ||
 |||
-|2026-03-19|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-IN3822146974_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-IN3822146974_UHD.jpg)|
-||*Copyright: Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)*
+|2026-03-20|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-IN2545319285_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-IN2545319285_UHD.jpg)|
+||*Copyright: Snowdrops in spring (© klagyivik/Getty Images)*
 ||
 |||
-|2026-03-20|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_PT-BR2206823018_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_PT-BR2206823018_UHD.jpg)|
-||*Copyright: Equidna-de-focinho-curto, Adelaide Hills, Austrália (© Etienne Littlefair/naturepl.com)*
+|2026-03-21|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SpringSnowdrops_PT-BR8736805900_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringSnowdrops_PT-BR8736805900_UHD.jpg)|
+||*Copyright: Flores fura-neve na primavera (© klagyivik/Getty Images)*
 ||
 |||
-|2026-03-19|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_UHD.jpg)|
-||*Copyright: L’échidné à nez court, Adelaide Hills, Australie (© Etienne Littlefair/naturepl.com)*
+|2026-03-20|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_UHD.jpg)|
+||*Copyright: Vue sur le quartier d’Endoume, les Îles du Frioul et le Château d'If, Marseille (© RIEGER Bertrand/hemis.fr/Alamy)*
 ||
 |||
-|2026-03-19|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_DE-DE8869849686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_DE-DE8869849686_UHD.jpg)|
-||*Copyright: Kurzschnabel-Ameisenigel, Adelaide Hills, Australien (© Etienne Littlefair/naturepl.com)*
+|2026-03-20|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SpringSnowdrops_DE-DE7059027908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringSnowdrops_DE-DE7059027908_UHD.jpg)|
+||*Copyright: Schneeglöckchen im Frühling (© klagyivik/Getty Images)*
 ||
 |||
-|2026-03-20|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-CA1280925480_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-CA1280925480_UHD.jpg)|
-||*Copyright: Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)*
+|2026-03-21|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-CA7724863293_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-CA7724863293_UHD.jpg)|
+||*Copyright: Snowdrops in spring (© klagyivik/Getty Images)*
 ||
 |||
-|2026-03-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-GB9662090948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-GB9662090948_UHD.jpg)|
-||*Copyright: Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)*
+|2026-03-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-GB6031515717_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-GB6031515717_UHD.jpg)|
+||*Copyright: Snowdrops in spring (© klagyivik/Getty Images)*
 ||
 |||
-|2026-03-19|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_UHD.jpg)|
-||*Copyright: Leone con prole (© JasonPrince/iStock)*
+|2026-03-20|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SpringSnowdrops_IT-IT6567861717_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringSnowdrops_IT-IT6567861717_UHD.jpg)|
+||*Copyright: Bucaneve in fiore (© klagyivik/Getty Images)*
 ||
 |||
-|2026-03-19|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_ES-ES3815108716_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_ES-ES3815108716_UHD.jpg)|
-||*Copyright: Equidna de hocico corto, colinas de Adelaida, Australia (© Etienne Littlefair/naturepl.com)*
+|2026-03-20|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883_UHD.jpg)|
+||*Copyright: Abubilla descansando sobre una piedra (© Brais Seara/Getty Images)*
 ||
 |||
-|2026-03-20|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-CA9164766115_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-CA9164766115_UHD.jpg)|
-||*Copyright: L’échidné à nez court, Adelaide Hills, Australie (© Etienne Littlefair/naturepl.com)*
+|2026-03-21|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SpringSnowdrops_FR-CA9365261906_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringSnowdrops_FR-CA9365261906_UHD.jpg)|
+||*Copyright: Perce-neiges au printemps (© klagyivik/Getty Images)*
 ||
 |||
 
