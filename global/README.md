@@ -6,9 +6,9 @@
 ||*Copyright: Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)*
 ||
 |||
-|2026-03-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TanganyikaWater_JA-JP1905215650_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TanganyikaWater_JA-JP1905215650_UHD.jpg)|
-||*Copyright: タンガニーカ湖, タンザニア (© BEST-BACKGROUNDS/NASA/Shutterstock)*
+|2026-03-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SonoranStorm_JA-JP6793978883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranStorm_JA-JP6793978883_UHD.jpg)|
+||*Copyright: ベンケイチュウ, 米国 アリゾナ州 (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
 |2026-03-22|**Region: en-IN**||
