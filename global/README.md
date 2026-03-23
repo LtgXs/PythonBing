@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-03-23|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg)|
-||*Copyright: Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)*
+|2026-03-24|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg)|
+||*Copyright: Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
 |2026-03-23|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ベンケイチュウ, 米国 アリゾナ州 (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
-|2026-03-22|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TanganyikaWater_EN-IN2909463759_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TanganyikaWater_EN-IN2909463759_UHD.jpg)|
-||*Copyright: Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)*
+|2026-03-23|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SonoranStorm_EN-IN3104134842_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranStorm_EN-IN3104134842_UHD.jpg)|
+||*Copyright: Lightning storm over saguaro cacti, Sonoran Desert, Arizona, United States (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
-|2026-03-23|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TanganyikaWater_PT-BR0806966127_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TanganyikaWater_PT-BR0806966127_UHD.jpg)|
-||*Copyright: Lago Tanganica, África (© BEST-BACKGROUNDS/NASA/Shutterstock)*
+|2026-03-24|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SonoranStorm_PT-BR1308043729_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranStorm_PT-BR1308043729_UHD.jpg)|
+||*Copyright: Tempestade elétrica sobre cactos saguaro, Deserto de Sonora, Arizona, EUA (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
-|2026-03-22|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TanganyikaWater_FR-FR4249922863_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TanganyikaWater_FR-FR4249922863_UHD.jpg)|
-||*Copyright: Lac Tanganyika, Afrique (© BEST-BACKGROUNDS/NASA/Shutterstock)*
+|2026-03-23|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SonoranStorm_FR-FR7587104975_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranStorm_FR-FR7587104975_UHD.jpg)|
+||*Copyright: Orage sur des cactus saguaro, désert de Sonora, Arizona, États-Unis (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
-|2026-03-22|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TanganyikaWater_DE-DE8174589395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TanganyikaWater_DE-DE8174589395_UHD.jpg)|
-||*Copyright: Tanganjikasee, Afrika (© BEST-BACKGROUNDS/NASA/Shutterstock)*
+|2026-03-23|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SonoranStorm_DE-DE8439783088_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranStorm_DE-DE8439783088_UHD.jpg)|
+||*Copyright: Gewitter über Saguaro-Kakteen, Sonora-Wüste, Arizona, USA (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
-|2026-03-23|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TanganyikaWater_EN-CA7392363187_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TanganyikaWater_EN-CA7392363187_UHD.jpg)|
-||*Copyright: Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)*
+|2026-03-24|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SonoranStorm_EN-CA1002592145_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranStorm_EN-CA1002592145_UHD.jpg)|
+||*Copyright: Lightning storm over saguaro cacti, Sonoran Desert, Arizona, United States (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
-|2026-03-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TanganyikaWater_EN-GB4227251929_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TanganyikaWater_EN-GB4227251929_UHD.jpg)|
-||*Copyright: Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)*
+|2026-03-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SonoranStorm_EN-GB4374217480_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranStorm_EN-GB4374217480_UHD.jpg)|
+||*Copyright: Lightning storm over saguaro cacti, Sonoran Desert, Arizona, United States (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
-|2026-03-22|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TanganyikaWater_IT-IT3818481809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TanganyikaWater_IT-IT3818481809_UHD.jpg)|
-||*Copyright: Lago Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)*
+|2026-03-23|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SonoranStorm_IT-IT4419770010_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranStorm_IT-IT4419770010_UHD.jpg)|
+||*Copyright: Saguaro e tempesta, Deserto di Sonora, Arizona, USA (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
-|2026-03-22|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TanganyikaWater_ES-ES6407504319_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TanganyikaWater_ES-ES6407504319_UHD.jpg)|
-||*Copyright: Lago Tanganica, África (© BEST-BACKGROUNDS/NASA/Shutterstock)*
+|2026-03-23|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SonoranStorm_ES-ES8362757569_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranStorm_ES-ES8362757569_UHD.jpg)|
+||*Copyright: Tormenta eléctrica sobre cactus saguaro, desierto de Sonora, Arizona, EE. UU. (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
-|2026-03-23|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TanganyikaWater_FR-CA9720300127_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TanganyikaWater_FR-CA9720300127_UHD.jpg)|
-||*Copyright: Lac Tanganyika, Afrique (© BEST-BACKGROUNDS/NASA/Shutterstock)*
+|2026-03-24|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SonoranStorm_FR-CA0419131868_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranStorm_FR-CA0419131868_UHD.jpg)|
+||*Copyright: Orage sur des cactus saguaro, désert de Sonora, Arizona, États-Unis (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
 
