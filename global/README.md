@@ -6,9 +6,9 @@
 ||*Copyright: Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)*
 ||
 |||
-|2026-03-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SonoranStorm_JA-JP6793978883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SonoranStorm_JA-JP6793978883_UHD.jpg)|
-||*Copyright: ベンケイチュウ, 米国 アリゾナ州 (© Jack Dykinga/Nature Picture Library)*
+|2026-03-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_JA-JP2678725444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_JA-JP2678725444_UHD.jpg)|
+||*Copyright: 東湖桜花園, 中国 (© Zhang Qiao/VCG/Getty Images)*
 ||
 |||
 |2026-03-23|**Region: en-IN**||
