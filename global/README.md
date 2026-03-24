@@ -6,9 +6,9 @@
 ||*Copyright: Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)*
 ||
 |||
-|2026-03-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_JA-JP2678725444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_JA-JP2678725444_UHD.jpg)|
-||*Copyright: 東湖桜花園, 中国 (© Zhang Qiao/VCG/Getty Images)*
+|2026-03-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ManateeSpring_JA-JP3825784405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeSpring_JA-JP3825784405_UHD.jpg)|
+||*Copyright: マナティー, 米国 フロリダ州 (© Gregory Sweeney/Getty Images)*
 ||
 |||
 |2026-03-24|**Region: en-IN**||
