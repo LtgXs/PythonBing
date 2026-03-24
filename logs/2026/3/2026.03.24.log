@@ -1,0 +1,60 @@
+
+Program started at 10:07:33
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm46oaq
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:07:33] Start geting CN Bing Wallpaper
+[10:07:33] Successful get url: https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg
+[10:07:34] Image saved to img/background.jpg
+[10:07:34] Info saved to README.md
+[10:07:34] Image saved to history/2026/03/24.md
+[10:07:34] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-24 06:07:34.215634-04:00
+[10:07:34] Successful get url: https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg
+[10:07:34] Picture infomations saved to  global/en-US/README.md
+[10:07:34] Picture infomations saved to global/en-US/history/2026/03/25_en-US.md
+[10:07:34] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-24 19:07:34.453753+09:00
+[10:07:34] Successful get url: https://www.bing.com/th?id=OHR.WuhanCherryBlossom_JA-JP2678725444_UHD.jpg
+[10:07:34] Picture infomations saved to  global/ja-JP/README.md
+[10:07:34] Picture infomations saved to global/ja-JP/history/2026/03/24_ja-JP.md
+[10:07:34] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-24 15:37:34.787622+05:30
+[10:07:34] Successful get url: https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-IN3328860574_UHD.jpg
+[10:07:34] Picture infomations saved to  global/en-IN/README.md
+[10:07:34] Picture infomations saved to global/en-IN/history/2026/03/24_en-IN.md
+[10:07:34] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-24 07:07:34.983504-03:00
+[10:07:35] Successful get url: https://www.bing.com/th?id=OHR.WuhanCherryBlossom_PT-BR0828436894_UHD.jpg
+[10:07:35] Picture infomations saved to  global/pt-BR/README.md
+[10:07:35] Picture infomations saved to global/pt-BR/history/2026/03/25_pt-BR.md
+[10:07:35] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-24 11:07:35.347855+01:00
+[10:07:35] Successful get url: https://www.bing.com/th?id=OHR.WuhanCherryBlossom_FR-FR2577196492_UHD.jpg
+[10:07:35] Picture infomations saved to  global/fr-FR/README.md
+[10:07:35] Picture infomations saved to global/fr-FR/history/2026/03/24_fr-FR.md
+[10:07:35] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-24 11:07:35.735278+01:00
+[10:07:35] Successful get url: https://www.bing.com/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_UHD.jpg
+[10:07:35] Picture infomations saved to  global/de-DE/README.md
+[10:07:35] Picture infomations saved to global/de-DE/history/2026/03/24_de-DE.md
+[10:07:35] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-24 06:07:36.086288-04:00
+[10:07:36] Successful get url: https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-CA8865598641_UHD.jpg
+[10:07:36] Picture infomations saved to  global/en-CA/README.md
+[10:07:36] Picture infomations saved to global/en-CA/history/2026/03/25_en-CA.md
+[10:07:36] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-24 10:07:36.478375+00:00
+[10:07:36] Successful get url: https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-GB4535197537_UHD.jpg
+[10:07:36] Picture infomations saved to  global/en-GB/README.md
+[10:07:36] Picture infomations saved to global/en-GB/history/2026/03/25_en-GB.md
+[10:07:36] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-24 11:07:36.831897+01:00
+[10:07:36] Successful get url: https://www.bing.com/th?id=OHR.WuhanCherryBlossom_IT-IT4463324478_UHD.jpg
+[10:07:37] Picture infomations saved to  global/it-IT/README.md
+[10:07:37] Picture infomations saved to global/it-IT/history/2026/03/24_it-IT.md
+[10:07:37] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-24 11:07:37.197579+01:00
+[10:07:37] Successful get url: https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ES-ES4267381622_UHD.jpg
+[10:07:37] Picture infomations saved to  global/es-ES/README.md
+[10:07:37] Picture infomations saved to global/es-ES/history/2026/03/24_es-ES.md
+[10:07:37] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-24 06:07:37.421531-04:00
+[10:07:37] Successful get url: https://www.bing.com/th?id=OHR.WuhanCherryBlossom_FR-CA6126739179_UHD.jpg
+[10:07:37] Picture infomations saved to  global/fr-CA/README.md
+[10:07:37] Picture infomations saved to global/fr-CA/history/2026/03/25_fr-CA.md
+Program exit at 10:07:37

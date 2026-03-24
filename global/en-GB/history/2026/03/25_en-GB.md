@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-03-25
+## History Bing Wallpaper
+Wallpaper date: 2026-03-25
 ![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-GB4535197537_UHD.jpg&w=1000)Download: [Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-GB4535197537_UHD.jpg)
 
 Auto get programm by LtgX
