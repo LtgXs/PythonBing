@@ -6,9 +6,9 @@
 ||*Copyright: Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2026-03-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ManateeSpring_JA-JP3825784405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeSpring_JA-JP3825784405_UHD.jpg)|
-||*Copyright: マナティー, 米国 フロリダ州 (© Gregory Sweeney/Getty Images)*
+|2026-03-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LoganCreek_JA-JP4033681513_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LoganCreek_JA-JP4033681513_UHD.jpg)|
+||*Copyright: ローガン・クリーク吊り橋, カナダ (© Tandem Stock/Adobe Stock)*
 ||
 |||
 |2026-03-25|**Region: en-IN**||

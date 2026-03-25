@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:07:00] Picture infomations saved to  global/fr-CA/README.md
 [10:07:00] Picture infomations saved to global/fr-CA/history/2026/03/26_fr-CA.md
 Program exit at 10:07:00
+
+Program started at 16:56:09
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm46oaq
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:56:09] Start geting CN Bing Wallpaper
+[16:56:09] Successful get url: https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg
+[16:56:09] Image saved to img/background.jpg
+[16:56:09] Info saved to README.md
+[16:56:09] Image saved to history/2026/03/26.md
+[16:56:09] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-25 12:56:09.500105-04:00
+[16:56:09] Successful get url: https://www.bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg
+[16:56:09] Picture infomations saved to  global/en-US/README.md
+[16:56:09] Picture infomations saved to global/en-US/history/2026/03/26_en-US.md
+[16:56:09] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-26 01:56:09.838288+09:00
+[16:56:09] Successful get url: https://www.bing.com/th?id=OHR.LoganCreek_JA-JP4033681513_UHD.jpg
+[16:56:10] Picture infomations saved to  global/ja-JP/README.md
+[16:56:10] Picture infomations saved to global/ja-JP/history/2026/03/26_ja-JP.md
+[16:56:10] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-25 22:26:10.229803+05:30
+[16:56:10] Successful get url: https://www.bing.com/th?id=OHR.ManateeSpring_EN-IN3602464122_UHD.jpg
+[16:56:10] Picture infomations saved to  global/en-IN/README.md
+[16:56:10] Picture infomations saved to global/en-IN/history/2026/03/25_en-IN.md
+[16:56:10] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-25 13:56:10.577505-03:00
+[16:56:10] Successful get url: https://www.bing.com/th?id=OHR.ManateeSpring_PT-BR2930629898_UHD.jpg
+[16:56:11] Picture infomations saved to  global/pt-BR/README.md
+[16:56:11] Picture infomations saved to global/pt-BR/history/2026/03/26_pt-BR.md
+[16:56:11] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-25 17:56:11.099728+01:00
+[16:56:11] Successful get url: https://www.bing.com/th?id=OHR.ManateeSpring_FR-FR8210018340_UHD.jpg
+[16:56:11] Picture infomations saved to  global/fr-FR/README.md
+[16:56:11] Picture infomations saved to global/fr-FR/history/2026/03/25_fr-FR.md
+[16:56:11] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-25 17:56:11.491065+01:00
+[16:56:11] Successful get url: https://www.bing.com/th?id=OHR.ManateeSpring_DE-DE1785577917_UHD.jpg
+[16:56:11] Picture infomations saved to  global/de-DE/README.md
+[16:56:11] Picture infomations saved to global/de-DE/history/2026/03/25_de-DE.md
+[16:56:11] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-25 12:56:11.850991-04:00
+[16:56:11] Successful get url: https://www.bing.com/th?id=OHR.AlbertaSnowMts_EN-CA2560376751_UHD.jpg
+[16:56:12] Picture infomations saved to  global/en-CA/README.md
+[16:56:12] Picture infomations saved to global/en-CA/history/2026/03/26_en-CA.md
+[16:56:12] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-25 16:56:12.365048+00:00
+[16:56:12] Successful get url: https://www.bing.com/th?id=OHR.ManateeSpring_EN-GB4677992725_UHD.jpg
+[16:56:12] Picture infomations saved to  global/en-GB/README.md
+[16:56:12] Picture infomations saved to global/en-GB/history/2026/03/26_en-GB.md
+[16:56:12] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-25 17:56:12.726303+01:00
+[16:56:12] Successful get url: https://www.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_UHD.jpg
+[16:56:13] Picture infomations saved to  global/it-IT/README.md
+[16:56:13] Picture infomations saved to global/it-IT/history/2026/03/25_it-IT.md
+[16:56:13] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-25 17:56:13.039807+01:00
+[16:56:13] Successful get url: https://www.bing.com/th?id=OHR.ManateeSpring_ES-ES0435279848_UHD.jpg
+[16:56:13] Picture infomations saved to  global/es-ES/README.md
+[16:56:13] Picture infomations saved to global/es-ES/history/2026/03/25_es-ES.md
+[16:56:13] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-25 12:56:13.322666-04:00
+[16:56:13] Successful get url: https://www.bing.com/th?id=OHR.AlbertaSnowMts_FR-CA5655798971_UHD.jpg
+[16:56:13] Picture infomations saved to  global/fr-CA/README.md
+[16:56:13] Picture infomations saved to global/fr-CA/history/2026/03/26_fr-CA.md
+Program exit at 16:56:13
