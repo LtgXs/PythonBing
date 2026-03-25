@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-03-25|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg)|
-||*Copyright: Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)*
+|2026-03-26|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg)|
+||*Copyright: Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)*
 ||
 |||
 |2026-03-25|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: マナティー, 米国 フロリダ州 (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2026-03-24|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-IN3328860574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-IN3328860574_UHD.jpg)|
-||*Copyright: Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)*
+|2026-03-25|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ManateeSpring_EN-IN3602464122_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeSpring_EN-IN3602464122_UHD.jpg)|
+||*Copyright: Juvenile manatees in a freshwater spring, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2026-03-25|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_PT-BR0828436894_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_PT-BR0828436894_UHD.jpg)|
-||*Copyright: Cerejeiras em flor no Parque das Cerejeiras do Lago Leste, Wuhan, China (© Zhang Qiao/VCG/Getty Images)*
+|2026-03-26|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ManateeSpring_PT-BR2930629898_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeSpring_PT-BR2930629898_UHD.jpg)|
+||*Copyright: Peixes-boi jovens em uma nascente de água doce, Rio Crystal, Flórida, EUA (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2026-03-24|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_FR-FR2577196492_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_FR-FR2577196492_UHD.jpg)|
-||*Copyright: Cerisiers en fleurs au jardin des cerisiers du Lac de l’Est, Wuhan, Chine (© Zhang Qiao/VCG/Getty Images)*
+|2026-03-25|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ManateeSpring_FR-FR8210018340_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeSpring_FR-FR8210018340_UHD.jpg)|
+||*Copyright: Jeunes lamantins dans une source d’eau douce, Crystal River, Floride, États-Unis (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2026-03-24|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_UHD.jpg)|
-||*Copyright: Drohnenaufnahme des Peilturms am Kap Arkona, Rügen, Mecklenburg‑Vorpommern (© Stefan Dinse/Getty Images)*
+|2026-03-25|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ManateeSpring_DE-DE1785577917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeSpring_DE-DE1785577917_UHD.jpg)|
+||*Copyright: Junge Seekühe in einer Süßwasserquelle am Crystal River, Florida, USA (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2026-03-25|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-CA8865598641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-CA8865598641_UHD.jpg)|
-||*Copyright: Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)*
+|2026-03-26|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AlbertaSnowMts_EN-CA2560376751_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbertaSnowMts_EN-CA2560376751_UHD.jpg)|
+||*Copyright: Pine trees reflected in the Forgetmenot Pond in Kananaskis Country, Alberta (© chinaface/Getty images)*
 ||
 |||
-|2026-03-25|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-GB4535197537_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-GB4535197537_UHD.jpg)|
-||*Copyright: Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)*
+|2026-03-26|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ManateeSpring_EN-GB4677992725_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeSpring_EN-GB4677992725_UHD.jpg)|
+||*Copyright: Juvenile manatees in a freshwater spring, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2026-03-24|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_IT-IT4463324478_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_IT-IT4463324478_UHD.jpg)|
-||*Copyright: Fiori di ciliegio, Parco dei Fiori di Ciliegio del Lago Orientale, Wuhan, Cina (© Zhang Qiao/VCG/Getty Images)*
+|2026-03-25|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_UHD.jpg)|
+||*Copyright: Cattedrale Santa Maria del Fiore, Firenze, Toscana (© Lindrik/iStock/Getty Images Plus)*
 ||
 |||
-|2026-03-24|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ES-ES4267381622_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ES-ES4267381622_UHD.jpg)|
-||*Copyright: Cerezos en flor en el parque East Lake Cherry Blossom, Wuhan, China (© Zhang Qiao/VCG/Getty Images)*
+|2026-03-25|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ManateeSpring_ES-ES0435279848_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ManateeSpring_ES-ES0435279848_UHD.jpg)|
+||*Copyright: Manatíes en un manantial de agua dulce, Crystal River, Florida, EE. UU. (© Gregory Sweeney/Getty Images)*
 ||
 |||
-|2026-03-25|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_FR-CA6126739179_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_FR-CA6126739179_UHD.jpg)|
-||*Copyright: Cerisiers en fleurs au jardin des cerisiers du Lac de l’Est, Wuhan, Chine (© Zhang Qiao/VCG/Getty Images)*
+|2026-03-26|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AlbertaSnowMts_FR-CA5655798971_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlbertaSnowMts_FR-CA5655798971_UHD.jpg)|
+||*Copyright: Pins se reflétant sur l’étang Forgetmenot, Kananaskis Country, Alberta (© chinaface/Getty images)*
 ||
 |||
 
