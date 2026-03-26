@@ -6,9 +6,9 @@
 ||*Copyright: Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)*
 ||
 |||
-|2026-03-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LoganCreek_JA-JP4033681513_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LoganCreek_JA-JP4033681513_UHD.jpg)|
-||*Copyright: ローガン・クリーク吊り橋, カナダ (© Tandem Stock/Adobe Stock)*
+|2026-03-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SakuraDay2026_JA-JP6970025028_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SakuraDay2026_JA-JP6970025028_UHD.jpg)|
+||*Copyright: 日本一早い桜、沖縄 (© @hapidayss/Getty Images)*
 ||
 |||
 |2026-03-26|**Region: en-IN**||

@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:10:10] Picture infomations saved to  global/fr-CA/README.md
 [10:10:10] Picture infomations saved to global/fr-CA/history/2026/03/27_fr-CA.md
 Program exit at 10:10:10
+
+Program started at 16:54:31
+Operating System Name: Linux
+Operating System Version: #8~24.04.1-Ubuntu SMP Mon Jan 26 18:35:40 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmrg6be
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:54:31] Start geting CN Bing Wallpaper
+[16:54:31] Successful get url: https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg
+[16:54:32] Image saved to img/background.jpg
+[16:54:32] Info saved to README.md
+[16:54:32] Image saved to history/2026/03/27.md
+[16:54:32] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-26 12:54:32.396925-04:00
+[16:54:32] Successful get url: https://www.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg
+[16:54:32] Picture infomations saved to  global/en-US/README.md
+[16:54:32] Picture infomations saved to global/en-US/history/2026/03/27_en-US.md
+[16:54:32] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-27 01:54:32.786676+09:00
+[16:54:32] Successful get url: https://www.bing.com/th?id=OHR.SakuraDay2026_JA-JP6970025028_UHD.jpg
+[16:54:33] Picture infomations saved to  global/ja-JP/README.md
+[16:54:33] Picture infomations saved to global/ja-JP/history/2026/03/27_ja-JP.md
+[16:54:33] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-26 22:24:33.361643+05:30
+[16:54:33] Successful get url: https://www.bing.com/th?id=OHR.LoganCreek_EN-IN3774408675_UHD.jpg
+[16:54:33] Picture infomations saved to  global/en-IN/README.md
+[16:54:33] Picture infomations saved to global/en-IN/history/2026/03/26_en-IN.md
+[16:54:33] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-26 13:54:33.758884-03:00
+[16:54:33] Successful get url: https://www.bing.com/th?id=OHR.LoganCreek_PT-BR3480636440_UHD.jpg
+[16:54:34] Picture infomations saved to  global/pt-BR/README.md
+[16:54:34] Picture infomations saved to global/pt-BR/history/2026/03/27_pt-BR.md
+[16:54:34] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-26 17:54:34.258567+01:00
+[16:54:34] Successful get url: https://www.bing.com/th?id=OHR.LoganCreek_FR-FR8126530618_UHD.jpg
+[16:54:34] Picture infomations saved to  global/fr-FR/README.md
+[16:54:34] Picture infomations saved to global/fr-FR/history/2026/03/26_fr-FR.md
+[16:54:34] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-26 17:54:34.621304+01:00
+[16:54:34] Successful get url: https://www.bing.com/th?id=OHR.LoganCreek_DE-DE9430213551_UHD.jpg
+[16:54:34] Picture infomations saved to  global/de-DE/README.md
+[16:54:34] Picture infomations saved to global/de-DE/history/2026/03/26_de-DE.md
+[16:54:34] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-26 12:54:34.996117-04:00
+[16:54:35] Successful get url: https://www.bing.com/th?id=OHR.LoganCreek_EN-CA2859190085_UHD.jpg
+[16:54:35] Picture infomations saved to  global/en-CA/README.md
+[16:54:35] Picture infomations saved to global/en-CA/history/2026/03/27_en-CA.md
+[16:54:35] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-26 16:54:35.367277+00:00
+[16:54:35] Successful get url: https://www.bing.com/th?id=OHR.LoganCreek_EN-GB4805516529_UHD.jpg
+[16:54:35] Picture infomations saved to  global/en-GB/README.md
+[16:54:35] Picture infomations saved to global/en-GB/history/2026/03/27_en-GB.md
+[16:54:35] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-26 17:54:35.710361+01:00
+[16:54:35] Successful get url: https://www.bing.com/th?id=OHR.LoganCreek_IT-IT4625300484_UHD.jpg
+[16:54:36] Picture infomations saved to  global/it-IT/README.md
+[16:54:36] Picture infomations saved to global/it-IT/history/2026/03/26_it-IT.md
+[16:54:36] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-26 17:54:36.065152+01:00
+[16:54:36] Successful get url: https://www.bing.com/th?id=OHR.LoganCreek_ES-ES0815625351_UHD.jpg
+[16:54:36] Picture infomations saved to  global/es-ES/README.md
+[16:54:36] Picture infomations saved to global/es-ES/history/2026/03/26_es-ES.md
+[16:54:36] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-26 12:54:36.432229-04:00
+[16:54:36] Successful get url: https://www.bing.com/th?id=OHR.LoganCreek_FR-CA0824084585_UHD.jpg
+[16:54:36] Picture infomations saved to  global/fr-CA/README.md
+[16:54:36] Picture infomations saved to global/fr-CA/history/2026/03/27_fr-CA.md
+Program exit at 16:54:36
