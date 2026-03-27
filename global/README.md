@@ -6,9 +6,9 @@
 ||*Copyright: Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)*
 ||
 |||
-|2026-03-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SakuraDay2026_JA-JP6970025028_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SakuraDay2026_JA-JP6970025028_UHD.jpg)|
-||*Copyright: 日本一早い桜、沖縄 (© @hapidayss/Getty Images)*
+|2026-03-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CapeBuffalo_JA-JP4477954927_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapeBuffalo_JA-JP4477954927_UHD.jpg)|
+||*Copyright: アフリカスイギュウ, タンザニア (© jesuss8/500px/Getty Images)*
 ||
 |||
 |2026-03-27|**Region: en-IN**||
