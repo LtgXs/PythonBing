@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:51:57] Picture infomations saved to  global/fr-CA/README.md
 [09:51:57] Picture infomations saved to global/fr-CA/history/2026/03/29_fr-CA.md
 Program exit at 09:51:57
+
+Program started at 16:25:40
+Operating System Name: Linux
+Operating System Version: #8~24.04.1-Ubuntu SMP Mon Jan 26 18:35:40 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmrg6be
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:25:40] Start geting CN Bing Wallpaper
+[16:25:40] Successful get url: https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg
+[16:25:40] Image saved to img/background.jpg
+[16:25:40] Info saved to README.md
+[16:25:40] Image saved to history/2026/03/29.md
+[16:25:40] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-28 12:25:40.715047-04:00
+[16:25:40] Successful get url: https://www.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg
+[16:25:40] Picture infomations saved to  global/en-US/README.md
+[16:25:40] Picture infomations saved to global/en-US/history/2026/03/29_en-US.md
+[16:25:40] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-29 01:25:40.852649+09:00
+[16:25:40] Successful get url: https://www.bing.com/th?id=OHR.PeggysLighthouse_JA-JP4636734313_UHD.jpg
+[16:25:41] Picture infomations saved to  global/ja-JP/README.md
+[16:25:41] Picture infomations saved to global/ja-JP/history/2026/03/29_ja-JP.md
+[16:25:41] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-28 21:55:41.034505+05:30
+[16:25:41] Successful get url: https://www.bing.com/th?id=OHR.CapeBuffalo_EN-IN4090817745_UHD.jpg
+[16:25:41] Picture infomations saved to  global/en-IN/README.md
+[16:25:41] Picture infomations saved to global/en-IN/history/2026/03/28_en-IN.md
+[16:25:41] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-28 13:25:41.233479-03:00
+[16:25:41] Successful get url: https://www.bing.com/th?id=OHR.CapeBuffalo_PT-BR4918930179_UHD.jpg
+[16:25:41] Picture infomations saved to  global/pt-BR/README.md
+[16:25:41] Picture infomations saved to global/pt-BR/history/2026/03/29_pt-BR.md
+[16:25:41] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-28 17:25:41.568199+01:00
+[16:25:41] Successful get url: https://www.bing.com/th?id=OHR.CapeBuffalo_FR-FR8303931249_UHD.jpg
+[16:25:41] Picture infomations saved to  global/fr-FR/README.md
+[16:25:41] Picture infomations saved to global/fr-FR/history/2026/03/28_fr-FR.md
+[16:25:41] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-28 17:25:41.715725+01:00
+[16:25:41] Successful get url: https://www.bing.com/th?id=OHR.CapeBuffalo_DE-DE9916963289_UHD.jpg
+[16:25:41] Picture infomations saved to  global/de-DE/README.md
+[16:25:41] Picture infomations saved to global/de-DE/history/2026/03/28_de-DE.md
+[16:25:41] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-28 12:25:41.878612-04:00
+[16:25:41] Successful get url: https://www.bing.com/th?id=OHR.CapeBuffalo_EN-CA3514902846_UHD.jpg
+[16:25:42] Picture infomations saved to  global/en-CA/README.md
+[16:25:42] Picture infomations saved to global/en-CA/history/2026/03/29_en-CA.md
+[16:25:42] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-28 16:25:42.178193+00:00
+[16:25:42] Successful get url: https://www.bing.com/th?id=OHR.CapeBuffalo_EN-GB5085555398_UHD.jpg
+[16:25:42] Picture infomations saved to  global/en-GB/README.md
+[16:25:42] Picture infomations saved to global/en-GB/history/2026/03/29_en-GB.md
+[16:25:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-28 17:25:42.387320+01:00
+[16:25:42] Successful get url: https://www.bing.com/th?id=OHR.CapeBuffalo_IT-IT4967996112_UHD.jpg
+[16:25:42] Picture infomations saved to  global/it-IT/README.md
+[16:25:42] Picture infomations saved to global/it-IT/history/2026/03/28_it-IT.md
+[16:25:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-28 17:25:42.576140+01:00
+[16:25:42] Successful get url: https://www.bing.com/th?id=OHR.CapeBuffalo_ES-ES1313712620_UHD.jpg
+[16:25:42] Picture infomations saved to  global/es-ES/README.md
+[16:25:42] Picture infomations saved to global/es-ES/history/2026/03/28_es-ES.md
+[16:25:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-28 12:25:42.743950-04:00
+[16:25:42] Successful get url: https://www.bing.com/th?id=OHR.CapeBuffalo_FR-CA6282464559_UHD.jpg
+[16:25:42] Picture infomations saved to  global/fr-CA/README.md
+[16:25:42] Picture infomations saved to global/fr-CA/history/2026/03/29_fr-CA.md
+Program exit at 16:25:42
