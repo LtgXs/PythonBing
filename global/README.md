@@ -6,9 +6,9 @@
 ||*Copyright: Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)*
 ||
 |||
-|2026-03-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_JA-JP4636734313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_JA-JP4636734313_UHD.jpg)|
-||*Copyright: ペギーズ・ポイント灯台, カナダ (© Prashanth Bala/Shutterstock)*
+|2026-03-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IndiaCranes_JA-JP0130275400_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndiaCranes_JA-JP0130275400_UHD.jpg)|
+||*Copyright: アネハヅル, インド (© Axel Gomille/Nature Picture Library)*
 ||
 |||
 |2026-03-29|**Region: en-IN**||
