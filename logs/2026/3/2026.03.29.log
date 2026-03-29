@@ -1,0 +1,60 @@
+
+Program started at 09:51:26
+Operating System Name: Linux
+Operating System Version: #8~24.04.1-Ubuntu SMP Mon Jan 26 18:35:40 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmrg6be
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[09:51:26] Start geting CN Bing Wallpaper
+[09:51:26] Successful get url: https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg
+[09:51:26] Image saved to img/background.jpg
+[09:51:26] Info saved to README.md
+[09:51:26] Image saved to history/2026/03/29.md
+[09:51:26] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-29 05:51:26.903224-04:00
+[09:51:26] Successful get url: https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg
+[09:51:27] Picture infomations saved to  global/en-US/README.md
+[09:51:27] Picture infomations saved to global/en-US/history/2026/03/30_en-US.md
+[09:51:27] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-29 18:51:27.042556+09:00
+[09:51:27] Successful get url: https://www.bing.com/th?id=OHR.PeggysLighthouse_JA-JP4636734313_UHD.jpg
+[09:51:27] Picture infomations saved to  global/ja-JP/README.md
+[09:51:27] Picture infomations saved to global/ja-JP/history/2026/03/29_ja-JP.md
+[09:51:27] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-29 15:21:27.176665+05:30
+[09:51:27] Successful get url: https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-IN4249382875_UHD.jpg
+[09:51:27] Picture infomations saved to  global/en-IN/README.md
+[09:51:27] Picture infomations saved to global/en-IN/history/2026/03/29_en-IN.md
+[09:51:27] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-29 06:51:27.355560-03:00
+[09:51:27] Successful get url: https://www.bing.com/th?id=OHR.AniverSalvador_PT-BR9414211573_UHD.jpg
+[09:51:27] Picture infomations saved to  global/pt-BR/README.md
+[09:51:27] Picture infomations saved to global/pt-BR/history/2026/03/30_pt-BR.md
+[09:51:27] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-29 11:51:27.481860+02:00
+[09:51:27] Successful get url: https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-FR2942871002_UHD.jpg
+[09:51:27] Picture infomations saved to  global/fr-FR/README.md
+[09:51:27] Picture infomations saved to global/fr-FR/history/2026/03/29_fr-FR.md
+[09:51:27] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-29 11:51:27.645934+02:00
+[09:51:27] Successful get url: https://www.bing.com/th?id=OHR.UlmClock_DE-DE3821756896_UHD.jpg
+[09:51:27] Picture infomations saved to  global/de-DE/README.md
+[09:51:27] Picture infomations saved to global/de-DE/history/2026/03/29_de-DE.md
+[09:51:27] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-29 05:51:27.773567-04:00
+[09:51:27] Successful get url: https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-CA3906475667_UHD.jpg
+[09:51:27] Picture infomations saved to  global/en-CA/README.md
+[09:51:27] Picture infomations saved to global/en-CA/history/2026/03/30_en-CA.md
+[09:51:27] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-29 10:51:27.900227+01:00
+[09:51:27] Successful get url: https://www.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_UHD.jpg
+[09:51:28] Picture infomations saved to  global/en-GB/README.md
+[09:51:28] Picture infomations saved to global/en-GB/history/2026/03/29_en-GB.md
+[09:51:28] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-29 11:51:28.059564+02:00
+[09:51:28] Successful get url: https://www.bing.com/th?id=OHR.PeggysLighthouse_IT-IT5137466865_UHD.jpg
+[09:51:28] Picture infomations saved to  global/it-IT/README.md
+[09:51:28] Picture infomations saved to global/it-IT/history/2026/03/29_it-IT.md
+[09:51:28] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-29 11:51:28.184448+02:00
+[09:51:28] Successful get url: https://www.bing.com/th?id=OHR.Sevillaweek_ES-ES1707696944_UHD.jpg
+[09:51:28] Picture infomations saved to  global/es-ES/README.md
+[09:51:28] Picture infomations saved to global/es-ES/history/2026/03/29_es-ES.md
+[09:51:28] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-29 05:51:28.335930-04:00
+[09:51:28] Successful get url: https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-CA6616852205_UHD.jpg
+[09:51:28] Picture infomations saved to  global/fr-CA/README.md
+[09:51:28] Picture infomations saved to global/fr-CA/history/2026/03/30_fr-CA.md
+Program exit at 09:51:28

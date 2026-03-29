@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-03-29|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg)|
-||*Copyright: African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)*
+|2026-03-30|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg)|
+||*Copyright: Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)*
 ||
 |||
 |2026-03-29|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ペギーズ・ポイント灯台, カナダ (© Prashanth Bala/Shutterstock)*
 ||
 |||
-|2026-03-28|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-IN4090817745_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-IN4090817745_UHD.jpg)|
-||*Copyright: African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)*
+|2026-03-29|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-IN4249382875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-IN4249382875_UHD.jpg)|
+||*Copyright: Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)*
 ||
 |||
-|2026-03-29|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CapeBuffalo_PT-BR4918930179_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapeBuffalo_PT-BR4918930179_UHD.jpg)|
-||*Copyright: Búfalo-africano, Cratera de Ngorongoro, Tanzânia (© jesuss8/500px/Getty Images)*
+|2026-03-30|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AniverSalvador_PT-BR9414211573_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AniverSalvador_PT-BR9414211573_UHD.jpg)|
+||*Copyright: Vista aérea do Forte de Santa Maria, Salvador, Bahia (© Uiler Costa/Shutterstock)*
 ||
 |||
-|2026-03-28|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CapeBuffalo_FR-FR8303931249_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapeBuffalo_FR-FR8303931249_UHD.jpg)|
-||*Copyright: Bufle d’Afrique, Cratère du Ngorongoro, Tanzanie (© jesuss8/500px/Getty Images)*
+|2026-03-29|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-FR2942871002_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-FR2942871002_UHD.jpg)|
+||*Copyright: Phare de Peggy’s Cove, Nouvelle-Écosse, Canada (© Prashanth Bala/Shutterstock)*
 ||
 |||
-|2026-03-28|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CapeBuffalo_DE-DE9916963289_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapeBuffalo_DE-DE9916963289_UHD.jpg)|
-||*Copyright: Afrikanischer Büffel, Ngorongoro-Krater, Tansania (© jesuss8/500px/Getty Images)*
+|2026-03-29|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.UlmClock_DE-DE3821756896_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UlmClock_DE-DE3821756896_UHD.jpg)|
+||*Copyright: Astronomische Uhr am Rathaus von Ulm, Baden‑Württemberg (© Tomekbudujedomek/Getty Images)*
 ||
 |||
-|2026-03-29|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-CA3514902846_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-CA3514902846_UHD.jpg)|
-||*Copyright: African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)*
+|2026-03-30|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-CA3906475667_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-CA3906475667_UHD.jpg)|
+||*Copyright: Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia (© Prashanth Bala/Shutterstock)*
 ||
 |||
 |2026-03-29|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-GB5085555398_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-GB5085555398_UHD.jpg)|
-||*Copyright: African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)*
+||![](https://www.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_UHD.jpg)|
+||*Copyright: Liberty Clock, London, England (© Dukas/Universal Images Group/Getty Images)*
 ||
 |||
-|2026-03-28|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CapeBuffalo_IT-IT4967996112_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapeBuffalo_IT-IT4967996112_UHD.jpg)|
-||*Copyright: Bufalo africano, Cratere di Ngorongoro, Tanzania (© jesuss8/500px/Getty Images)*
+|2026-03-29|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_IT-IT5137466865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_IT-IT5137466865_UHD.jpg)|
+||*Copyright: Faro di Peggy's Point, costa atlantica, Nuova Scozia, Canada (© Prashanth Bala/Shutterstock)*
 ||
 |||
-|2026-03-28|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CapeBuffalo_ES-ES1313712620_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapeBuffalo_ES-ES1313712620_UHD.jpg)|
-||*Copyright: Búfalo africano, cráter del Ngorongoro, Tanzania (© jesuss8/500px/Getty Images)*
+|2026-03-29|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.Sevillaweek_ES-ES1707696944_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Sevillaweek_ES-ES1707696944_UHD.jpg)|
+||*Copyright: Catedral de Sevilla, Andalucía (© sedmak/Getty Images)*
 ||
 |||
-|2026-03-29|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CapeBuffalo_FR-CA6282464559_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CapeBuffalo_FR-CA6282464559_UHD.jpg)|
-||*Copyright: Bufle d’Afrique, Cratère du Ngorongoro, Tanzanie (© jesuss8/500px/Getty Images)*
+|2026-03-30|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-CA6616852205_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-CA6616852205_UHD.jpg)|
+||*Copyright: Phare de Peggy’s Cove, Nouvelle-Écosse (© Prashanth Bala/Shutterstock)*
 ||
 |||
 
