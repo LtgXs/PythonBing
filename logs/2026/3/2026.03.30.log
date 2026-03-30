@@ -1,0 +1,60 @@
+
+Program started at 10:39:05
+Operating System Name: Linux
+Operating System Version: #8~24.04.1-Ubuntu SMP Mon Jan 26 18:35:40 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmrg6be
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:39:05] Start geting CN Bing Wallpaper
+[10:39:05] Successful get url: https://www.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg
+[10:39:06] Image saved to img/background.jpg
+[10:39:06] Info saved to README.md
+[10:39:06] Image saved to history/2026/03/30.md
+[10:39:06] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-30 06:39:06.027154-04:00
+[10:39:06] Successful get url: https://www.bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg
+[10:39:06] Picture infomations saved to  global/en-US/README.md
+[10:39:06] Picture infomations saved to global/en-US/history/2026/03/31_en-US.md
+[10:39:06] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-30 19:39:06.281993+09:00
+[10:39:06] Successful get url: https://www.bing.com/th?id=OHR.IndiaCranes_JA-JP0130275400_UHD.jpg
+[10:39:06] Picture infomations saved to  global/ja-JP/README.md
+[10:39:06] Picture infomations saved to global/ja-JP/history/2026/03/30_ja-JP.md
+[10:39:06] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-30 16:09:06.530288+05:30
+[10:39:06] Successful get url: https://www.bing.com/th?id=OHR.IndiaCranes_EN-IN2980482639_UHD.jpg
+[10:39:06] Picture infomations saved to  global/en-IN/README.md
+[10:39:06] Picture infomations saved to global/en-IN/history/2026/03/30_en-IN.md
+[10:39:06] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-30 07:39:06.799910-03:00
+[10:39:06] Successful get url: https://www.bing.com/th?id=OHR.IndiaCranes_PT-BR8548033158_UHD.jpg
+[10:39:07] Picture infomations saved to  global/pt-BR/README.md
+[10:39:07] Picture infomations saved to global/pt-BR/history/2026/03/31_pt-BR.md
+[10:39:07] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-30 12:39:07.065475+02:00
+[10:39:07] Successful get url: https://www.bing.com/th?id=OHR.IndiaCranes_FR-FR3094038321_UHD.jpg
+[10:39:07] Picture infomations saved to  global/fr-FR/README.md
+[10:39:07] Picture infomations saved to global/fr-FR/history/2026/03/30_fr-FR.md
+[10:39:07] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-30 12:39:07.298337+02:00
+[10:39:07] Successful get url: https://www.bing.com/th?id=OHR.IndiaCranes_DE-DE4037064772_UHD.jpg
+[10:39:07] Picture infomations saved to  global/de-DE/README.md
+[10:39:07] Picture infomations saved to global/de-DE/history/2026/03/30_de-DE.md
+[10:39:07] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-30 06:39:07.598130-04:00
+[10:39:07] Successful get url: https://www.bing.com/th?id=OHR.IndiaCranes_EN-CA7985692578_UHD.jpg
+[10:39:07] Picture infomations saved to  global/en-CA/README.md
+[10:39:07] Picture infomations saved to global/en-CA/history/2026/03/31_en-CA.md
+[10:39:07] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-30 11:39:07.870380+01:00
+[10:39:07] Successful get url: https://www.bing.com/th?id=OHR.IndiaCranes_EN-GB3610624769_UHD.jpg
+[10:39:08] Picture infomations saved to  global/en-GB/README.md
+[10:39:08] Picture infomations saved to global/en-GB/history/2026/03/30_en-GB.md
+[10:39:08] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-30 12:39:08.125098+02:00
+[10:39:08] Successful get url: https://www.bing.com/th?id=OHR.DolomitiSpring_IT-IT3295923422_UHD.jpg
+[10:39:08] Picture infomations saved to  global/it-IT/README.md
+[10:39:08] Picture infomations saved to global/it-IT/history/2026/03/30_it-IT.md
+[10:39:08] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-30 12:39:08.400415+02:00
+[10:39:08] Successful get url: https://www.bing.com/th?id=OHR.IndiaCranes_ES-ES2181628479_UHD.jpg
+[10:39:08] Picture infomations saved to  global/es-ES/README.md
+[10:39:08] Picture infomations saved to global/es-ES/history/2026/03/30_es-ES.md
+[10:39:08] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-30 06:39:08.720034-04:00
+[10:39:08] Successful get url: https://www.bing.com/th?id=OHR.IndiaCranes_FR-CA6819401498_UHD.jpg
+[10:39:08] Picture infomations saved to  global/fr-CA/README.md
+[10:39:08] Picture infomations saved to global/fr-CA/history/2026/03/31_fr-CA.md
+Program exit at 10:39:08

@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-03-30|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg)|
-||*Copyright: Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)*
+|2026-03-31|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg)|
+||*Copyright: Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)*
 ||
 |||
 |2026-03-30|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アネハヅル, インド (© Axel Gomille/Nature Picture Library)*
 ||
 |||
-|2026-03-29|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-IN4249382875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-IN4249382875_UHD.jpg)|
-||*Copyright: Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)*
+|2026-03-30|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.IndiaCranes_EN-IN2980482639_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndiaCranes_EN-IN2980482639_UHD.jpg)|
+||*Copyright: Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)*
 ||
 |||
-|2026-03-30|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AniverSalvador_PT-BR9414211573_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AniverSalvador_PT-BR9414211573_UHD.jpg)|
-||*Copyright: Vista aérea do Forte de Santa Maria, Salvador, Bahia (© Uiler Costa/Shutterstock)*
+|2026-03-31|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.IndiaCranes_PT-BR8548033158_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndiaCranes_PT-BR8548033158_UHD.jpg)|
+||*Copyright: Grou-pequeno, Índia (© Axel Gomille/Nature Picture Library)*
 ||
 |||
-|2026-03-29|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-FR2942871002_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-FR2942871002_UHD.jpg)|
-||*Copyright: Phare de Peggy’s Cove, Nouvelle-Écosse, Canada (© Prashanth Bala/Shutterstock)*
+|2026-03-30|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.IndiaCranes_FR-FR3094038321_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndiaCranes_FR-FR3094038321_UHD.jpg)|
+||*Copyright: Grues demoiselles, Inde (© Axel Gomille/Nature Picture Library)*
 ||
 |||
-|2026-03-29|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.UlmClock_DE-DE3821756896_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.UlmClock_DE-DE3821756896_UHD.jpg)|
-||*Copyright: Astronomische Uhr am Rathaus von Ulm, Baden‑Württemberg (© Tomekbudujedomek/Getty Images)*
+|2026-03-30|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.IndiaCranes_DE-DE4037064772_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndiaCranes_DE-DE4037064772_UHD.jpg)|
+||*Copyright: Jungfernkraniche, Indien (© Axel Gomille/Nature Picture Library)*
 ||
 |||
-|2026-03-30|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-CA3906475667_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-CA3906475667_UHD.jpg)|
-||*Copyright: Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia (© Prashanth Bala/Shutterstock)*
+|2026-03-31|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.IndiaCranes_EN-CA7985692578_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndiaCranes_EN-CA7985692578_UHD.jpg)|
+||*Copyright: Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)*
 ||
 |||
-|2026-03-29|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_UHD.jpg)|
-||*Copyright: Liberty Clock, London, England (© Dukas/Universal Images Group/Getty Images)*
+|2026-03-30|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.IndiaCranes_EN-GB3610624769_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndiaCranes_EN-GB3610624769_UHD.jpg)|
+||*Copyright: Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)*
 ||
 |||
-|2026-03-29|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_IT-IT5137466865_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_IT-IT5137466865_UHD.jpg)|
-||*Copyright: Faro di Peggy's Point, costa atlantica, Nuova Scozia, Canada (© Prashanth Bala/Shutterstock)*
+|2026-03-30|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DolomitiSpring_IT-IT3295923422_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitiSpring_IT-IT3295923422_UHD.jpg)|
+||*Copyright: Lago Federa, Cortina d'Ampezzo, Belluno, Veneto (© Elena-studio/iStock)*
 ||
 |||
-|2026-03-29|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.Sevillaweek_ES-ES1707696944_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Sevillaweek_ES-ES1707696944_UHD.jpg)|
-||*Copyright: Catedral de Sevilla, Andalucía (© sedmak/Getty Images)*
+|2026-03-30|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.IndiaCranes_ES-ES2181628479_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndiaCranes_ES-ES2181628479_UHD.jpg)|
+||*Copyright: Grullas damiselas, India (© Axel Gomille/Nature Picture Library)*
 ||
 |||
-|2026-03-30|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-CA6616852205_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-CA6616852205_UHD.jpg)|
-||*Copyright: Phare de Peggy’s Cove, Nouvelle-Écosse (© Prashanth Bala/Shutterstock)*
+|2026-03-31|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.IndiaCranes_FR-CA6819401498_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndiaCranes_FR-CA6819401498_UHD.jpg)|
+||*Copyright: Grues demoiselles, Inde (© Axel Gomille/Nature Picture Library)*
 ||
 |||
 
