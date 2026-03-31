@@ -6,9 +6,9 @@
 ||*Copyright: Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)*
 ||
 |||
-|2026-03-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190_UHD.jpg)|
-||*Copyright: 天国の洞, ベトナム (© Pakawat Thongcharoen/Getty Images)*
+|2026-04-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324_UHD.jpg)|
+||*Copyright: セントラル・バレー, 米国 カリフォルニア州 (© Jeff Lewis/Tandem Stills + Motion)*
 ||
 |||
 |2026-03-31|**Region: en-IN**||
