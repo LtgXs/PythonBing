@@ -1,0 +1,60 @@
+
+Program started at 10:12:54
+Operating System Name: Linux
+Operating System Version: #8~24.04.1-Ubuntu SMP Mon Jan 26 18:35:40 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmrg6be
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:12:54] Start geting CN Bing Wallpaper
+[10:12:54] Successful get url: https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg
+[10:12:54] Image saved to img/background.jpg
+[10:12:54] Info saved to README.md
+[10:12:54] Image saved to history/2026/03/31.md
+[10:12:54] Start geting global Bing Wallpaper, region=en-US, local time is 2026-03-31 06:12:54.375596-04:00
+[10:12:54] Successful get url: https://www.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg
+[10:12:54] Picture infomations saved to  global/en-US/README.md
+[10:12:54] Picture infomations saved to global/en-US/history/2026/04/01_en-US.md
+[10:12:54] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-03-31 19:12:54.688345+09:00
+[10:12:54] Successful get url: https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190_UHD.jpg
+[10:12:54] Picture infomations saved to  global/ja-JP/README.md
+[10:12:54] Picture infomations saved to global/ja-JP/history/2026/03/31_ja-JP.md
+[10:12:54] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-03-31 15:42:54.947140+05:30
+[10:12:54] Successful get url: https://www.bing.com/th?id=OHR.ParadiseCave_EN-IN4544625926_UHD.jpg
+[10:12:55] Picture infomations saved to  global/en-IN/README.md
+[10:12:55] Picture infomations saved to global/en-IN/history/2026/03/31_en-IN.md
+[10:12:55] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-03-31 07:12:55.129858-03:00
+[10:12:55] Successful get url: https://www.bing.com/th?id=OHR.ParadiseCave_PT-BR7537263269_UHD.jpg
+[10:12:55] Picture infomations saved to  global/pt-BR/README.md
+[10:12:55] Picture infomations saved to global/pt-BR/history/2026/04/01_pt-BR.md
+[10:12:55] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-03-31 12:12:55.483197+02:00
+[10:12:55] Successful get url: https://www.bing.com/th?id=OHR.ParadiseCave_FR-FR2965632202_UHD.jpg
+[10:12:55] Picture infomations saved to  global/fr-FR/README.md
+[10:12:55] Picture infomations saved to global/fr-FR/history/2026/03/31_fr-FR.md
+[10:12:55] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-03-31 12:12:55.662002+02:00
+[10:12:55] Successful get url: https://www.bing.com/th?id=OHR.ParadiseCave_DE-DE0326941666_UHD.jpg
+[10:12:55] Picture infomations saved to  global/de-DE/README.md
+[10:12:55] Picture infomations saved to global/de-DE/history/2026/03/31_de-DE.md
+[10:12:55] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-03-31 06:12:55.883823-04:00
+[10:12:55] Successful get url: https://www.bing.com/th?id=OHR.ParadiseCave_EN-CA4527234429_UHD.jpg
+[10:12:56] Picture infomations saved to  global/en-CA/README.md
+[10:12:56] Picture infomations saved to global/en-CA/history/2026/04/01_en-CA.md
+[10:12:56] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-03-31 11:12:56.183940+01:00
+[10:12:56] Successful get url: https://www.bing.com/th?id=OHR.ParadiseCave_EN-GB6349854312_UHD.jpg
+[10:12:56] Picture infomations saved to  global/en-GB/README.md
+[10:12:56] Picture infomations saved to global/en-GB/history/2026/03/31_en-GB.md
+[10:12:56] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-03-31 12:12:56.365841+02:00
+[10:12:56] Successful get url: https://www.bing.com/th?id=OHR.ParadiseCave_IT-IT3577786918_UHD.jpg
+[10:12:56] Picture infomations saved to  global/it-IT/README.md
+[10:12:56] Picture infomations saved to global/it-IT/history/2026/03/31_it-IT.md
+[10:12:56] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-03-31 12:12:56.584925+02:00
+[10:12:56] Successful get url: https://www.bing.com/th?id=OHR.ParadiseCave_ES-ES7693918794_UHD.jpg
+[10:12:56] Picture infomations saved to  global/es-ES/README.md
+[10:12:56] Picture infomations saved to global/es-ES/history/2026/03/31_es-ES.md
+[10:12:56] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-03-31 06:12:56.749636-04:00
+[10:12:56] Successful get url: https://www.bing.com/th?id=OHR.ParadiseCave_FR-CA3844068535_UHD.jpg
+[10:12:56] Picture infomations saved to  global/fr-CA/README.md
+[10:12:56] Picture infomations saved to global/fr-CA/history/2026/04/01_fr-CA.md
+Program exit at 10:12:56
