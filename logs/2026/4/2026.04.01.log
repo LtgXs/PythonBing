@@ -1,0 +1,60 @@
+
+Program started at 10:14:40
+Operating System Name: Linux
+Operating System Version: #8~24.04.1-Ubuntu SMP Mon Jan 26 18:35:40 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmrg6be
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:14:40] Start geting CN Bing Wallpaper
+[10:14:41] Successful get url: https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg
+[10:14:41] Image saved to img/background.jpg
+[10:14:41] Info saved to README.md
+[10:14:41] Image saved to history/2026/04/01.md
+[10:14:41] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-01 06:14:41.086374-04:00
+[10:14:41] Successful get url: https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg
+[10:14:41] Picture infomations saved to  global/en-US/README.md
+[10:14:41] Picture infomations saved to global/en-US/history/2026/04/02_en-US.md
+[10:14:41] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-01 19:14:41.223505+09:00
+[10:14:41] Successful get url: https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324_UHD.jpg
+[10:14:41] Picture infomations saved to  global/ja-JP/README.md
+[10:14:41] Picture infomations saved to global/ja-JP/history/2026/04/01_ja-JP.md
+[10:14:41] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-01 15:44:41.458788+05:30
+[10:14:41] Successful get url: https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_UHD.jpg
+[10:14:41] Picture infomations saved to  global/en-IN/README.md
+[10:14:41] Picture infomations saved to global/en-IN/history/2026/04/01_en-IN.md
+[10:14:41] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-01 07:14:41.590034-03:00
+[10:14:41] Successful get url: https://www.bing.com/th?id=OHR.JapaneseTreeFrog_PT-BR7853171536_UHD.jpg
+[10:14:41] Picture infomations saved to  global/pt-BR/README.md
+[10:14:41] Picture infomations saved to global/pt-BR/history/2026/04/02_pt-BR.md
+[10:14:41] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-01 12:14:41.727704+02:00
+[10:14:41] Successful get url: https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_UHD.jpg
+[10:14:41] Picture infomations saved to  global/fr-FR/README.md
+[10:14:41] Picture infomations saved to global/fr-FR/history/2026/04/01_fr-FR.md
+[10:14:41] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-01 12:14:41.882623+02:00
+[10:14:41] Successful get url: https://www.bing.com/th?id=OHR.JapaneseTreeFrog_DE-DE8961418037_UHD.jpg
+[10:14:42] Picture infomations saved to  global/de-DE/README.md
+[10:14:42] Picture infomations saved to global/de-DE/history/2026/04/01_de-DE.md
+[10:14:42] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-01 06:14:42.007245-04:00
+[10:14:42] Successful get url: https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-CA4832337394_UHD.jpg
+[10:14:42] Picture infomations saved to  global/en-CA/README.md
+[10:14:42] Picture infomations saved to global/en-CA/history/2026/04/02_en-CA.md
+[10:14:42] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-01 11:14:42.152617+01:00
+[10:14:42] Successful get url: https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-GB6505153693_UHD.jpg
+[10:14:42] Picture infomations saved to  global/en-GB/README.md
+[10:14:42] Picture infomations saved to global/en-GB/history/2026/04/01_en-GB.md
+[10:14:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-01 12:14:42.275520+02:00
+[10:14:42] Successful get url: https://www.bing.com/th?id=OHR.JapaneseTreeFrog_IT-IT5938893273_UHD.jpg
+[10:14:42] Picture infomations saved to  global/it-IT/README.md
+[10:14:42] Picture infomations saved to global/it-IT/history/2026/04/01_it-IT.md
+[10:14:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-01 12:14:42.417049+02:00
+[10:14:42] Successful get url: https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_UHD.jpg
+[10:14:42] Picture infomations saved to  global/es-ES/README.md
+[10:14:42] Picture infomations saved to global/es-ES/history/2026/04/01_es-ES.md
+[10:14:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-01 06:14:42.577064-04:00
+[10:14:42] Successful get url: https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-CA3742504467_UHD.jpg
+[10:14:42] Picture infomations saved to  global/fr-CA/README.md
+[10:14:42] Picture infomations saved to global/fr-CA/history/2026/04/02_fr-CA.md
+Program exit at 10:14:42
