@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-04-02|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg)|
-||*Copyright: Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)*
+|2026-04-03|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg)|
+||*Copyright: Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)*
 ||
 |||
 |2026-04-02|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: シモクレン (© Aflo Co., Ltd./Alamy)*
 ||
 |||
-|2026-04-01|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_UHD.jpg)|
-||*Copyright: The Great Stupa at Sanchi, Madhya Pradesh (© Dmitry Rukhlenko - Photos of India/Alamy)*
+|2026-04-02|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.WildflowerValley_EN-IN5256127708_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildflowerValley_EN-IN5256127708_UHD.jpg)|
+||*Copyright: Wildflower bloom, Central Valley, California, United States (© Jeff Lewis/Tandem Stills + Motion)*
 ||
 |||
-|2026-04-02|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_PT-BR7853171536_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_PT-BR7853171536_UHD.jpg)|
-||*Copyright: Rã-de-árvore-japonesa em uma ipomeia rosa (© Tetsuya Tanooka/Getty Images)*
+|2026-04-03|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Jaguarcat_PT-BR9300640460_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Jaguarcat_PT-BR9300640460_UHD.jpg)|
+||*Copyright: Onça-pintada observando de uma árvore, Pantanal, Mato Grosso (© Marko Konig/Getty Images)*
 ||
 |||
-|2026-04-01|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_UHD.jpg)|
-||*Copyright: Rainette japonaise au cœur d’une fleur de liseron rose (© Tetsuya Tanooka/Getty Images)*
+|2026-04-02|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MuscardinNest_FR-FR5342153518_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuscardinNest_FR-FR5342153518_UHD.jpg)|
+||*Copyright: Muscardin à l’entrée de leur nid, Normandie (© slowmotiongli/Getty Images)*
 ||
 |||
-|2026-04-01|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_DE-DE8961418037_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_DE-DE8961418037_UHD.jpg)|
-||*Copyright: Japanischer Laubfrosch in einer rosa Prunkwinde (© Tetsuya Tanooka/Getty Images)*
+|2026-04-02|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.WildflowerValley_DE-DE5324757091_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildflowerValley_DE-DE5324757091_UHD.jpg)|
+||*Copyright: Wildblumenblüte, Central Valley, Kalifornien, USA (© Jeff Lewis/Tandem Stills + Motion)*
 ||
 |||
-|2026-04-02|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-CA4832337394_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-CA4832337394_UHD.jpg)|
-||*Copyright: Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)*
+|2026-04-03|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.WildflowerValley_EN-CA5205263100_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildflowerValley_EN-CA5205263100_UHD.jpg)|
+||*Copyright: Wildflower bloom, Central Valley, California, United States (© Jeff Lewis/Tandem Stills + Motion)*
 ||
 |||
-|2026-04-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-GB6505153693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-GB6505153693_UHD.jpg)|
-||*Copyright: Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)*
+|2026-04-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.WildflowerValley_EN-GB6670488836_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildflowerValley_EN-GB6670488836_UHD.jpg)|
+||*Copyright: Wildflower bloom, Central Valley, California, United States (© Jeff Lewis/Tandem Stills + Motion)*
 ||
 |||
-|2026-04-01|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_IT-IT5938893273_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_IT-IT5938893273_UHD.jpg)|
-||*Copyright: Raganella giapponese, Ipomea rosa (© Tetsuya Tanooka/Getty Images)*
+|2026-04-02|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.WildflowerValley_IT-IT6134763724_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildflowerValley_IT-IT6134763724_UHD.jpg)|
+||*Copyright: Fiori selvatici, Central Valley, California, USA (© Jeff Lewis/Tandem Stills + Motion)*
 ||
 |||
-|2026-04-01|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_UHD.jpg)|
-||*Copyright: Rana arbórea japonesa en una campanilla rosa (© Tetsuya Tanooka/Getty Images)*
+|2026-04-02|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.WildflowerValley_ES-ES3227890644_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildflowerValley_ES-ES3227890644_UHD.jpg)|
+||*Copyright: Floración silvestre, Valle Central, California, EE. UU. (© Jeff Lewis/Tandem Stills + Motion)*
 ||
 |||
-|2026-04-02|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-CA3742504467_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-CA3742504467_UHD.jpg)|
-||*Copyright: Rainette japonaise au cœur d’une fleur de liseron rose (© Tetsuya Tanooka/Getty Images)*
+|2026-04-03|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.WildflowerValley_FR-CA7932282806_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildflowerValley_FR-CA7932282806_UHD.jpg)|
+||*Copyright: Fleurs sauvages, Vallée Centrale, Californie, États-Unis (© Jeff Lewis/Tandem Stills + Motion)*
 ||
 |||
 
