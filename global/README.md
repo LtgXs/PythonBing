@@ -6,9 +6,9 @@
 ||*Copyright: Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)*
 ||
 |||
-|2026-04-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MagnoliaBloom2026_JA-JP8135720992_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MagnoliaBloom2026_JA-JP8135720992_UHD.jpg)|
-||*Copyright: シモクレン (© Aflo Co., Ltd./Alamy)*
+|2026-04-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_UHD.jpg)|
+||*Copyright: アルムブルグ橋, オランダ (© Alexander Spatari/Getty Images)*
 ||
 |||
 |2026-04-02|**Region: en-IN**||

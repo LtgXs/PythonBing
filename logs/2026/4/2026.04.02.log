@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:09:58] Picture infomations saved to  global/fr-CA/README.md
 [10:09:58] Picture infomations saved to global/fr-CA/history/2026/04/03_fr-CA.md
 Program exit at 10:09:58
+
+Program started at 16:50:39
+Operating System Name: Linux
+Operating System Version: #8~24.04.1-Ubuntu SMP Mon Jan 26 18:35:40 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmrg6be
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:50:39] Start geting CN Bing Wallpaper
+[16:50:40] Successful get url: https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg
+[16:50:40] Image saved to img/background.jpg
+[16:50:40] Info saved to README.md
+[16:50:40] Image saved to history/2026/04/03.md
+[16:50:40] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-02 12:50:40.162174-04:00
+[16:50:40] Successful get url: https://www.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg
+[16:50:40] Picture infomations saved to  global/en-US/README.md
+[16:50:40] Picture infomations saved to global/en-US/history/2026/04/03_en-US.md
+[16:50:40] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-03 01:50:40.297252+09:00
+[16:50:40] Successful get url: https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_UHD.jpg
+[16:50:40] Picture infomations saved to  global/ja-JP/README.md
+[16:50:40] Picture infomations saved to global/ja-JP/history/2026/04/03_ja-JP.md
+[16:50:40] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-02 22:20:40.524468+05:30
+[16:50:40] Successful get url: https://www.bing.com/th?id=OHR.WildflowerValley_EN-IN5256127708_UHD.jpg
+[16:50:40] Picture infomations saved to  global/en-IN/README.md
+[16:50:40] Picture infomations saved to global/en-IN/history/2026/04/02_en-IN.md
+[16:50:40] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-02 13:50:40.674867-03:00
+[16:50:40] Successful get url: https://www.bing.com/th?id=OHR.Jaguarcat_PT-BR9300640460_UHD.jpg
+[16:50:40] Picture infomations saved to  global/pt-BR/README.md
+[16:50:40] Picture infomations saved to global/pt-BR/history/2026/04/03_pt-BR.md
+[16:50:40] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-02 18:50:40.841612+02:00
+[16:50:40] Successful get url: https://www.bing.com/th?id=OHR.MuscardinNest_FR-FR5342153518_UHD.jpg
+[16:50:41] Picture infomations saved to  global/fr-FR/README.md
+[16:50:41] Picture infomations saved to global/fr-FR/history/2026/04/02_fr-FR.md
+[16:50:41] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-02 18:50:41.698485+02:00
+[16:50:41] Successful get url: https://www.bing.com/th?id=OHR.WildflowerValley_DE-DE5324757091_UHD.jpg
+[16:50:41] Picture infomations saved to  global/de-DE/README.md
+[16:50:41] Picture infomations saved to global/de-DE/history/2026/04/02_de-DE.md
+[16:50:41] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-02 12:50:41.847467-04:00
+[16:50:41] Successful get url: https://www.bing.com/th?id=OHR.WildflowerValley_EN-CA5205263100_UHD.jpg
+[16:50:42] Picture infomations saved to  global/en-CA/README.md
+[16:50:42] Picture infomations saved to global/en-CA/history/2026/04/03_en-CA.md
+[16:50:42] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-02 17:50:42.008774+01:00
+[16:50:42] Successful get url: https://www.bing.com/th?id=OHR.WildflowerValley_EN-GB6670488836_UHD.jpg
+[16:50:42] Picture infomations saved to  global/en-GB/README.md
+[16:50:42] Picture infomations saved to global/en-GB/history/2026/04/02_en-GB.md
+[16:50:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-02 18:50:42.156244+02:00
+[16:50:42] Successful get url: https://www.bing.com/th?id=OHR.WildflowerValley_IT-IT6134763724_UHD.jpg
+[16:50:42] Picture infomations saved to  global/it-IT/README.md
+[16:50:42] Picture infomations saved to global/it-IT/history/2026/04/02_it-IT.md
+[16:50:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-02 18:50:42.320718+02:00
+[16:50:42] Successful get url: https://www.bing.com/th?id=OHR.WildflowerValley_ES-ES3227890644_UHD.jpg
+[16:50:42] Picture infomations saved to  global/es-ES/README.md
+[16:50:42] Picture infomations saved to global/es-ES/history/2026/04/02_es-ES.md
+[16:50:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-02 12:50:42.461689-04:00
+[16:50:42] Successful get url: https://www.bing.com/th?id=OHR.WildflowerValley_FR-CA7932282806_UHD.jpg
+[16:50:42] Picture infomations saved to  global/fr-CA/README.md
+[16:50:42] Picture infomations saved to global/fr-CA/history/2026/04/03_fr-CA.md
+Program exit at 16:50:42
