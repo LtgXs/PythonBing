@@ -6,9 +6,9 @@
 ||*Copyright: Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)*
 ||
 |||
-|2026-04-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_UHD.jpg)|
-||*Copyright: アルムブルグ橋, オランダ (© Alexander Spatari/Getty Images)*
+|2026-04-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.QingmingFestival2026_JA-JP3473610824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QingmingFestival2026_JA-JP3473610824_UHD.jpg)|
+||*Copyright: 首里城歓会門, 沖縄県 那覇市 (© Jui-Chi Chan/Getty images)*
 ||
 |||
 |2026-04-03|**Region: en-IN**||
