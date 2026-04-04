@@ -6,9 +6,9 @@
 ||*Copyright: Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)*
 ||
 |||
-|2026-04-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.QingmingFestival2026_JA-JP3473610824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QingmingFestival2026_JA-JP3473610824_UHD.jpg)|
-||*Copyright: 首里城歓会門, 沖縄県 那覇市 (© Jui-Chi Chan/Getty images)*
+|2026-04-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LithuaniaEggs_JA-JP3508325746_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LithuaniaEggs_JA-JP3508325746_UHD.jpg)|
+||*Copyright: カラフルな木製イースターエッグ, リトアニア (© maximkabb/Getty Images)*
 ||
 |||
 |2026-04-04|**Region: en-IN**||

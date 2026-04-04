@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:53:21] Picture infomations saved to  global/fr-CA/README.md
 [09:53:21] Picture infomations saved to global/fr-CA/history/2026/04/05_fr-CA.md
 Program exit at 09:53:21
+
+Program started at 16:27:31
+Operating System Name: Linux
+Operating System Version: #8~24.04.1-Ubuntu SMP Mon Jan 26 18:35:40 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm727z3
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:27:32] Start geting CN Bing Wallpaper
+[16:27:32] Successful get url: https://www.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg
+[16:27:32] Image saved to img/background.jpg
+[16:27:32] Info saved to README.md
+[16:27:32] Image saved to history/2026/04/05.md
+[16:27:32] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-04 12:27:32.308965-04:00
+[16:27:32] Successful get url: https://www.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg
+[16:27:32] Picture infomations saved to  global/en-US/README.md
+[16:27:32] Picture infomations saved to global/en-US/history/2026/04/05_en-US.md
+[16:27:32] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-05 01:27:32.634714+09:00
+[16:27:32] Successful get url: https://www.bing.com/th?id=OHR.LithuaniaEggs_JA-JP3508325746_UHD.jpg
+[16:27:32] Picture infomations saved to  global/ja-JP/README.md
+[16:27:32] Picture infomations saved to global/ja-JP/history/2026/04/05_ja-JP.md
+[16:27:32] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-04 21:57:32.779385+05:30
+[16:27:32] Successful get url: https://www.bing.com/th?id=OHR.GrouseGuff_EN-IN5681124078_UHD.jpg
+[16:27:32] Picture infomations saved to  global/en-IN/README.md
+[16:27:32] Picture infomations saved to global/en-IN/history/2026/04/04_en-IN.md
+[16:27:32] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-04 13:27:32.955356-03:00
+[16:27:33] Successful get url: https://www.bing.com/th?id=OHR.GrouseGuff_PT-BR5557091800_UHD.jpg
+[16:27:33] Picture infomations saved to  global/pt-BR/README.md
+[16:27:33] Picture infomations saved to global/pt-BR/history/2026/04/05_pt-BR.md
+[16:27:33] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-04 18:27:33.242840+02:00
+[16:27:33] Successful get url: https://www.bing.com/th?id=OHR.GrouseGuff_FR-FR1806901977_UHD.jpg
+[16:27:33] Picture infomations saved to  global/fr-FR/README.md
+[16:27:33] Picture infomations saved to global/fr-FR/history/2026/04/04_fr-FR.md
+[16:27:33] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-04 18:27:33.438462+02:00
+[16:27:33] Successful get url: https://www.bing.com/th?id=OHR.GrouseGuff_DE-DE7947498839_UHD.jpg
+[16:27:33] Picture infomations saved to  global/de-DE/README.md
+[16:27:33] Picture infomations saved to global/de-DE/history/2026/04/04_de-DE.md
+[16:27:33] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-04 12:27:33.630285-04:00
+[16:27:33] Successful get url: https://www.bing.com/th?id=OHR.GrouseGuff_EN-CA6763957448_UHD.jpg
+[16:27:33] Picture infomations saved to  global/en-CA/README.md
+[16:27:33] Picture infomations saved to global/en-CA/history/2026/04/05_en-CA.md
+[16:27:33] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-04 17:27:33.787454+01:00
+[16:27:33] Successful get url: https://www.bing.com/th?id=OHR.NPFortnight2026_EN-GB6135344631_UHD.jpg
+[16:27:33] Picture infomations saved to  global/en-GB/README.md
+[16:27:33] Picture infomations saved to global/en-GB/history/2026/04/04_en-GB.md
+[16:27:33] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-04 18:27:33.929107+02:00
+[16:27:33] Successful get url: https://www.bing.com/th?id=OHR.CastleBlossoms_IT-IT1656060709_UHD.jpg
+[16:27:34] Picture infomations saved to  global/it-IT/README.md
+[16:27:34] Picture infomations saved to global/it-IT/history/2026/04/04_it-IT.md
+[16:27:34] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-04 18:27:34.050167+02:00
+[16:27:34] Successful get url: https://www.bing.com/th?id=OHR.GrouseGuff_ES-ES5279399090_UHD.jpg
+[16:27:34] Picture infomations saved to  global/es-ES/README.md
+[16:27:34] Picture infomations saved to global/es-ES/history/2026/04/04_es-ES.md
+[16:27:34] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-04 12:27:34.218350-04:00
+[16:27:34] Successful get url: https://www.bing.com/th?id=OHR.GrouseGuff_FR-CA7421141421_UHD.jpg
+[16:27:34] Picture infomations saved to  global/fr-CA/README.md
+[16:27:34] Picture infomations saved to global/fr-CA/history/2026/04/05_fr-CA.md
+Program exit at 16:27:34
