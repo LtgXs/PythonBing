@@ -6,9 +6,9 @@
 ||*Copyright: Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)*
 ||
 |||
-|2026-04-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LithuaniaEggs_JA-JP3508325746_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LithuaniaEggs_JA-JP3508325746_UHD.jpg)|
-||*Copyright: カラフルな木製イースターエッグ, リトアニア (© maximkabb/Getty Images)*
+|2026-04-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CastleBlossoms_JA-JP3550257541_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastleBlossoms_JA-JP3550257541_UHD.jpg)|
+||*Copyright: 弘前城, 青森県 弘前市 (© Glenn Waters/Getty Images)*
 ||
 |||
 |2026-04-05|**Region: en-IN**||
