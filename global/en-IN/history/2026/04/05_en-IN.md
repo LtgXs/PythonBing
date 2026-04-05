@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-04-05
+## History Bing Wallpaper
+Wallpaper date: 2026-04-05
 ![](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-IN6625019465_UHD.jpg&w=1000)Download: [Colourful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-IN6625019465_UHD.jpg)
 
 Auto get programm by LtgX

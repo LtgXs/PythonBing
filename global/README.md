@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-04-05|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg)|
-||*Copyright: Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)*
+|2026-04-06|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_UHD.jpg)|
+||*Copyright: Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)*
 ||
 |||
 |2026-04-05|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: カラフルな木製イースターエッグ, リトアニア (© maximkabb/Getty Images)*
 ||
 |||
-|2026-04-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GrouseGuff_EN-IN5681124078_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrouseGuff_EN-IN5681124078_UHD.jpg)|
-||*Copyright: Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)*
+|2026-04-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-IN6625019465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-IN6625019465_UHD.jpg)|
+||*Copyright: Colourful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)*
 ||
 |||
-|2026-04-05|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GrouseGuff_PT-BR5557091800_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrouseGuff_PT-BR5557091800_UHD.jpg)|
-||*Copyright: Tetrazes‑lira machos em competição de lek, Estônia (© Sven Zacek/Nature Picture Library)*
+|2026-04-06|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Easter_PT-BR6932429593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Easter_PT-BR6932429593_UHD.jpg)|
+||*Copyright: Esculturas de Aleijadinho na Basílica do Bom Jesus de Matozinhos, Congonhas, Minas Gerais (© Pulsar Imagens/Alamy)*
 ||
 |||
-|2026-04-04|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GrouseGuff_FR-FR1806901977_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrouseGuff_FR-FR1806901977_UHD.jpg)|
-||*Copyright: Tétras lyres mâles lors d’une parade nuptiale, Estonie (© Sven Zacek/Nature Picture Library)*
+|2026-04-05|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137_UHD.jpg)|
+||*Copyright: Pont d’Arc, Ardèche (© Gael Fontaine/Getty Images)*
 ||
 |||
-|2026-04-04|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GrouseGuff_DE-DE7947498839_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrouseGuff_DE-DE7947498839_UHD.jpg)|
-||*Copyright: Birkhähne auf einem Balzplatz, Estland (© Sven Zacek/Nature Picture Library)*
+|2026-04-05|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_UHD.jpg)|
+||*Copyright: Bunt bemalte sorbische Ostereier aus Deutschland (© Mark Poltermann/Getty Images)*
 ||
 |||
-|2026-04-05|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GrouseGuff_EN-CA6763957448_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrouseGuff_EN-CA6763957448_UHD.jpg)|
-||*Copyright: Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)*
+|2026-04-06|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-CA1968475301_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-CA1968475301_UHD.jpg)|
+||*Copyright: Colourful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)*
 ||
 |||
-|2026-04-04|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.NPFortnight2026_EN-GB6135344631_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NPFortnight2026_EN-GB6135344631_UHD.jpg)|
-||*Copyright: Dolbadarn Castle, Llanberis, Snowdonia National Park, Wales (© Allan Hartley/Alamy)*
+|2026-04-05|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-GB6303335759_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-GB6303335759_UHD.jpg)|
+||*Copyright: Colourful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)*
 ||
 |||
-|2026-04-04|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CastleBlossoms_IT-IT1656060709_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastleBlossoms_IT-IT1656060709_UHD.jpg)|
-||*Copyright: Castello di Hirosaki con fiori di ciliegio, Hirosaki, Giappone (© Glenn Waters/Getty Images)*
+|2026-04-05|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LithuaniaEggs_IT-IT3759718842_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LithuaniaEggs_IT-IT3759718842_UHD.jpg)|
+||*Copyright: Uova di Pasqua colorate fatte a mano in legno, Vilnius, Lituania (© maximkabb/Getty Images)*
 ||
 |||
-|2026-04-04|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GrouseGuff_ES-ES5279399090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrouseGuff_ES-ES5279399090_UHD.jpg)|
-||*Copyright: Machos de urogallo negro enfrentados, Estonia (© Sven Zacek/Nature Picture Library)*
+|2026-04-05|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LithuaniaEggs_ES-ES5469812629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LithuaniaEggs_ES-ES5469812629_UHD.jpg)|
+||*Copyright: Coloridos huevos de Pascua artesanales de madera, Vilna, Lituania (© maximkabb/Getty Images)*
 ||
 |||
-|2026-04-05|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.GrouseGuff_FR-CA7421141421_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrouseGuff_FR-CA7421141421_UHD.jpg)|
-||*Copyright: Tétras lyres mâles lors d’une parade nuptiale, Estonie (© Sven Zacek/Nature Picture Library)*
+|2026-04-06|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CastleBlossoms_FR-CA7451549513_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastleBlossoms_FR-CA7451549513_UHD.jpg)|
+||*Copyright: Château d’Hirosaki et cerisiers en fleur, Japon (© Glenn Waters/Getty Images)*
 ||
 |||
 
