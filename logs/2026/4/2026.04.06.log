@@ -1,0 +1,60 @@
+
+Program started at 10:18:52
+Operating System Name: Linux
+Operating System Version: #8~24.04.1-Ubuntu SMP Mon Jan 26 18:35:40 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm727z3
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:18:52] Start geting CN Bing Wallpaper
+[10:18:52] Successful get url: https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_UHD.jpg
+[10:18:53] Image saved to img/background.jpg
+[10:18:53] Info saved to README.md
+[10:18:53] Image saved to history/2026/04/06.md
+[10:18:53] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-06 06:18:53.019754-04:00
+[10:18:53] Successful get url: https://www.bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg
+[10:18:53] Picture infomations saved to  global/en-US/README.md
+[10:18:53] Picture infomations saved to global/en-US/history/2026/04/07_en-US.md
+[10:18:53] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-06 19:18:53.159745+09:00
+[10:18:53] Successful get url: https://www.bing.com/th?id=OHR.CastleBlossoms_JA-JP3550257541_UHD.jpg
+[10:18:53] Picture infomations saved to  global/ja-JP/README.md
+[10:18:53] Picture infomations saved to global/ja-JP/history/2026/04/06_ja-JP.md
+[10:18:53] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-06 15:48:53.295776+05:30
+[10:18:53] Successful get url: https://www.bing.com/th?id=OHR.CastleBlossoms_EN-IN0940627111_UHD.jpg
+[10:18:53] Picture infomations saved to  global/en-IN/README.md
+[10:18:53] Picture infomations saved to global/en-IN/history/2026/04/06_en-IN.md
+[10:18:53] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-06 07:18:53.421251-03:00
+[10:18:53] Successful get url: https://www.bing.com/th?id=OHR.CastleBlossoms_PT-BR0895460627_UHD.jpg
+[10:18:53] Picture infomations saved to  global/pt-BR/README.md
+[10:18:53] Picture infomations saved to global/pt-BR/history/2026/04/07_pt-BR.md
+[10:18:53] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-06 12:18:53.618827+02:00
+[10:18:53] Successful get url: https://www.bing.com/th?id=OHR.LithuaniaEggs_FR-FR0098459124_UHD.jpg
+[10:18:53] Picture infomations saved to  global/fr-FR/README.md
+[10:18:53] Picture infomations saved to global/fr-FR/history/2026/04/06_fr-FR.md
+[10:18:53] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-06 12:18:53.758524+02:00
+[10:18:53] Successful get url: https://www.bing.com/th?id=OHR.CastleBlossoms_DE-DE0573709826_UHD.jpg
+[10:18:54] Picture infomations saved to  global/de-DE/README.md
+[10:18:54] Picture infomations saved to global/de-DE/history/2026/04/06_de-DE.md
+[10:18:54] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-06 06:18:54.030249-04:00
+[10:18:54] Successful get url: https://www.bing.com/th?id=OHR.CastleBlossoms_EN-CA1798513308_UHD.jpg
+[10:18:54] Picture infomations saved to  global/en-CA/README.md
+[10:18:54] Picture infomations saved to global/en-CA/history/2026/04/07_en-CA.md
+[10:18:54] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-06 11:18:54.167121+01:00
+[10:18:54] Successful get url: https://www.bing.com/th?id=OHR.CastleBlossoms_EN-GB6482644898_UHD.jpg
+[10:18:54] Picture infomations saved to  global/en-GB/README.md
+[10:18:54] Picture infomations saved to global/en-GB/history/2026/04/06_en-GB.md
+[10:18:54] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-06 12:18:54.386018+02:00
+[10:18:54] Successful get url: https://www.bing.com/th?id=OHR.CarbonaraRoma_IT-IT1787234049_UHD.jpg
+[10:18:54] Picture infomations saved to  global/it-IT/README.md
+[10:18:54] Picture infomations saved to global/it-IT/history/2026/04/06_it-IT.md
+[10:18:54] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-06 12:18:54.616680+02:00
+[10:18:54] Successful get url: https://www.bing.com/th?id=OHR.CastleBlossoms_ES-ES5659720575_UHD.jpg
+[10:18:54] Picture infomations saved to  global/es-ES/README.md
+[10:18:54] Picture infomations saved to global/es-ES/history/2026/04/06_es-ES.md
+[10:18:54] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-06 06:18:54.786402-04:00
+[10:18:54] Successful get url: https://www.bing.com/th?id=OHR.LithuaniaEggs_FR-CA0552544528_UHD.jpg
+[10:18:54] Picture infomations saved to  global/fr-CA/README.md
+[10:18:54] Picture infomations saved to global/fr-CA/history/2026/04/07_fr-CA.md
+Program exit at 10:18:54
