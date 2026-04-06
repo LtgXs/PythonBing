@@ -6,9 +6,9 @@
 ||*Copyright: Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)*
 ||
 |||
-|2026-04-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CastleBlossoms_JA-JP3550257541_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastleBlossoms_JA-JP3550257541_UHD.jpg)|
-||*Copyright: 弘前城, 青森県 弘前市 (© Glenn Waters/Getty Images)*
+|2026-04-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BeaverPortrait_JA-JP3724788571_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeaverPortrait_JA-JP3724788571_UHD.jpg)|
+||*Copyright: ビーバー, ドイツ (© Andyworks/Getty Images)*
 ||
 |||
 |2026-04-06|**Region: en-IN**||
