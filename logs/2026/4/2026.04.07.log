@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:15:21] Picture infomations saved to  global/fr-CA/README.md
 [10:15:21] Picture infomations saved to global/fr-CA/history/2026/04/08_fr-CA.md
 Program exit at 10:15:21
+
+Program started at 16:48:45
+Operating System Name: Linux
+Operating System Version: #8~24.04.1-Ubuntu SMP Mon Jan 26 18:35:40 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm727z3
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:48:45] Start geting CN Bing Wallpaper
+[16:48:45] Successful get url: https://www.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg
+[16:48:46] Image saved to img/background.jpg
+[16:48:46] Info saved to README.md
+[16:48:46] Image saved to history/2026/04/08.md
+[16:48:46] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-07 12:48:46.111617-04:00
+[16:48:46] Successful get url: https://www.bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg
+[16:48:46] Picture infomations saved to  global/en-US/README.md
+[16:48:46] Picture infomations saved to global/en-US/history/2026/04/08_en-US.md
+[16:48:46] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-08 01:48:46.333084+09:00
+[16:48:46] Successful get url: https://www.bing.com/th?id=OHR.SeattleSunrise_JA-JP6952248899_UHD.jpg
+[16:48:46] Picture infomations saved to  global/ja-JP/README.md
+[16:48:46] Picture infomations saved to global/ja-JP/history/2026/04/08_ja-JP.md
+[16:48:46] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-07 22:18:46.464671+05:30
+[16:48:46] Successful get url: https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-IN1152151443_UHD.jpg
+[16:48:46] Picture infomations saved to  global/en-IN/README.md
+[16:48:46] Picture infomations saved to global/en-IN/history/2026/04/07_en-IN.md
+[16:48:46] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-07 13:48:46.724320-03:00
+[16:48:46] Successful get url: https://www.bing.com/th?id=OHR.BeaverPortrait_PT-BR0841777069_UHD.jpg
+[16:48:46] Picture infomations saved to  global/pt-BR/README.md
+[16:48:46] Picture infomations saved to global/pt-BR/history/2026/04/08_pt-BR.md
+[16:48:46] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-07 18:48:46.871449+02:00
+[16:48:46] Successful get url: https://www.bing.com/th?id=OHR.BeaverPortrait_FR-FR0925060555_UHD.jpg
+[16:48:47] Picture infomations saved to  global/fr-FR/README.md
+[16:48:47] Picture infomations saved to global/fr-FR/history/2026/04/07_fr-FR.md
+[16:48:47] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-07 18:48:47.004690+02:00
+[16:48:47] Successful get url: https://www.bing.com/th?id=OHR.BeaverPortrait_DE-DE0531168900_UHD.jpg
+[16:48:47] Picture infomations saved to  global/de-DE/README.md
+[16:48:47] Picture infomations saved to global/de-DE/history/2026/04/07_de-DE.md
+[16:48:47] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-07 12:48:47.132979-04:00
+[16:48:47] Successful get url: https://www.bing.com/th?id=OHR.BeaverPortrait_EN-CA2325425588_UHD.jpg
+[16:48:47] Picture infomations saved to  global/en-CA/README.md
+[16:48:47] Picture infomations saved to global/en-CA/history/2026/04/08_en-CA.md
+[16:48:47] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-07 17:48:47.316605+01:00
+[16:48:47] Successful get url: https://www.bing.com/th?id=OHR.BeaverPortrait_EN-GB6712196855_UHD.jpg
+[16:48:47] Picture infomations saved to  global/en-GB/README.md
+[16:48:47] Picture infomations saved to global/en-GB/history/2026/04/07_en-GB.md
+[16:48:47] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-07 18:48:47.461613+02:00
+[16:48:47] Successful get url: https://www.bing.com/th?id=OHR.BeaverPortrait_IT-IT2053120485_UHD.jpg
+[16:48:47] Picture infomations saved to  global/it-IT/README.md
+[16:48:47] Picture infomations saved to global/it-IT/history/2026/04/07_it-IT.md
+[16:48:47] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-07 18:48:47.676766+02:00
+[16:48:47] Successful get url: https://www.bing.com/th?id=OHR.BeaverPortrait_ES-ES5819494132_UHD.jpg
+[16:48:47] Picture infomations saved to  global/es-ES/README.md
+[16:48:47] Picture infomations saved to global/es-ES/history/2026/04/07_es-ES.md
+[16:48:47] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-07 12:48:47.796762-04:00
+[16:48:47] Successful get url: https://www.bing.com/th?id=OHR.BeaverPortrait_FR-CA0843155058_UHD.jpg
+[16:48:47] Picture infomations saved to  global/fr-CA/README.md
+[16:48:47] Picture infomations saved to global/fr-CA/history/2026/04/08_fr-CA.md
+Program exit at 16:48:47
