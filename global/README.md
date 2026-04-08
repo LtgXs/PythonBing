@@ -6,9 +6,9 @@
 ||*Copyright: Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)*
 ||
 |||
-|2026-04-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SeattleSunrise_JA-JP6952248899_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SeattleSunrise_JA-JP6952248899_UHD.jpg)|
-||*Copyright: シアトル市のウォーターフロント, 米国 ワシントン州 (© Jim Patterson/Tandem Stills + Motion)*
+|2026-04-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WalesWaterfall_JA-JP5848698751_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWaterfall_JA-JP5848698751_UHD.jpg)|
+||*Copyright: スグド・イル・エイル滝, ウェールズ (© Guy Edwardes/Nature Picture Library)*
 ||
 |||
 |2026-04-08|**Region: en-IN**||
