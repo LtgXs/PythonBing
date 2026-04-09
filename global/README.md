@@ -6,9 +6,9 @@
 ||*Copyright: Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)*
 ||
 |||
-|2026-04-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WalesWaterfall_JA-JP5848698751_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WalesWaterfall_JA-JP5848698751_UHD.jpg)|
-||*Copyright: スグド・イル・エイル滝, ウェールズ (© Guy Edwardes/Nature Picture Library)*
+|2026-04-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_UHD.jpg)|
+||*Copyright: アカギツネ, エストニア (© Sven Zacek/Nature Picture Library)*
 ||
 |||
 |2026-04-09|**Region: en-IN**||
