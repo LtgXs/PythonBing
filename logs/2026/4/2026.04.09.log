@@ -1,0 +1,60 @@
+
+Program started at 10:19:49
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm35a4x
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:19:49] Start geting CN Bing Wallpaper
+[10:19:49] Successful get url: https://www.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_UHD.jpg
+[10:19:49] Image saved to img/background.jpg
+[10:19:49] Info saved to README.md
+[10:19:49] Image saved to history/2026/04/09.md
+[10:19:49] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-09 06:19:49.227012-04:00
+[10:19:49] Successful get url: https://www.bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_UHD.jpg
+[10:19:49] Picture infomations saved to  global/en-US/README.md
+[10:19:49] Picture infomations saved to global/en-US/history/2026/04/10_en-US.md
+[10:19:49] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-09 19:19:49.359796+09:00
+[10:19:49] Successful get url: https://www.bing.com/th?id=OHR.WalesWaterfall_JA-JP5848698751_UHD.jpg
+[10:19:49] Picture infomations saved to  global/ja-JP/README.md
+[10:19:49] Picture infomations saved to global/ja-JP/history/2026/04/09_ja-JP.md
+[10:19:49] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-09 15:49:49.488359+05:30
+[10:19:49] Successful get url: https://www.bing.com/th?id=OHR.WalesWaterfall_EN-IN1569227475_UHD.jpg
+[10:19:49] Picture infomations saved to  global/en-IN/README.md
+[10:19:49] Picture infomations saved to global/en-IN/history/2026/04/09_en-IN.md
+[10:19:49] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-09 07:19:49.615724-03:00
+[10:19:49] Successful get url: https://www.bing.com/th?id=OHR.WalesWaterfall_PT-BR0581576089_UHD.jpg
+[10:19:49] Picture infomations saved to  global/pt-BR/README.md
+[10:19:49] Picture infomations saved to global/pt-BR/history/2026/04/10_pt-BR.md
+[10:19:49] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-09 12:19:49.739964+02:00
+[10:19:49] Successful get url: https://www.bing.com/th?id=OHR.WalesWaterfall_FR-FR2361256494_UHD.jpg
+[10:19:49] Picture infomations saved to  global/fr-FR/README.md
+[10:19:49] Picture infomations saved to global/fr-FR/history/2026/04/09_fr-FR.md
+[10:19:49] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-09 12:19:49.872491+02:00
+[10:19:49] Successful get url: https://www.bing.com/th?id=OHR.WalesWaterfall_DE-DE3914943057_UHD.jpg
+[10:19:50] Picture infomations saved to  global/de-DE/README.md
+[10:19:50] Picture infomations saved to global/de-DE/history/2026/04/09_de-DE.md
+[10:19:50] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-09 06:19:50.006898-04:00
+[10:19:50] Successful get url: https://www.bing.com/th?id=OHR.WalesWaterfall_EN-CA3721163982_UHD.jpg
+[10:19:50] Picture infomations saved to  global/en-CA/README.md
+[10:19:50] Picture infomations saved to global/en-CA/history/2026/04/10_en-CA.md
+[10:19:50] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-09 11:19:50.129566+01:00
+[10:19:50] Successful get url: https://www.bing.com/th?id=OHR.WalesWaterfall_EN-GB3914508309_UHD.jpg
+[10:19:50] Picture infomations saved to  global/en-GB/README.md
+[10:19:50] Picture infomations saved to global/en-GB/history/2026/04/09_en-GB.md
+[10:19:50] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-09 12:19:50.249999+02:00
+[10:19:50] Successful get url: https://www.bing.com/th?id=OHR.WalesWaterfall_IT-IT9480992833_UHD.jpg
+[10:19:50] Picture infomations saved to  global/it-IT/README.md
+[10:19:50] Picture infomations saved to global/it-IT/history/2026/04/09_it-IT.md
+[10:19:50] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-09 12:19:50.365028+02:00
+[10:19:50] Successful get url: https://www.bing.com/th?id=OHR.WalesWaterfall_ES-ES3494958836_UHD.jpg
+[10:19:50] Picture infomations saved to  global/es-ES/README.md
+[10:19:50] Picture infomations saved to global/es-ES/history/2026/04/09_es-ES.md
+[10:19:50] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-09 06:19:50.506623-04:00
+[10:19:50] Successful get url: https://www.bing.com/th?id=OHR.WalesWaterfall_FR-CA8191493811_UHD.jpg
+[10:19:50] Picture infomations saved to  global/fr-CA/README.md
+[10:19:50] Picture infomations saved to global/fr-CA/history/2026/04/10_fr-CA.md
+Program exit at 10:19:50
