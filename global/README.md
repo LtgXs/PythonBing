@@ -6,9 +6,9 @@
 ||*Copyright: Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)*
 ||
 |||
-|2026-04-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_UHD.jpg)|
-||*Copyright: アカギツネ, エストニア (© Sven Zacek/Nature Picture Library)*
+|2026-04-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PlayaPapagayo_JA-JP3931450183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlayaPapagayo_JA-JP3931450183_UHD.jpg)|
+||*Copyright: パパガヨビーチ, スペイン (© Gavin Hellier/Getty Images)*
 ||
 |||
 |2026-04-10|**Region: en-IN**||
