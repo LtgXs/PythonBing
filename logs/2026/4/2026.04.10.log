@@ -1,0 +1,60 @@
+
+Program started at 10:15:20
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm35a4x
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:15:20] Start geting CN Bing Wallpaper
+[10:15:20] Successful get url: https://www.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_UHD.jpg
+[10:15:20] Image saved to img/background.jpg
+[10:15:20] Info saved to README.md
+[10:15:20] Image saved to history/2026/04/10.md
+[10:15:20] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-10 06:15:20.591367-04:00
+[10:15:20] Successful get url: https://www.bing.com/th?id=OHR.FoxSiblings_EN-US7533678992_UHD.jpg
+[10:15:21] Picture infomations saved to  global/en-US/README.md
+[10:15:21] Picture infomations saved to global/en-US/history/2026/04/11_en-US.md
+[10:15:21] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-10 19:15:21.043522+09:00
+[10:15:21] Successful get url: https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_UHD.jpg
+[10:15:21] Picture infomations saved to  global/ja-JP/README.md
+[10:15:21] Picture infomations saved to global/ja-JP/history/2026/04/10_ja-JP.md
+[10:15:21] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-10 15:45:21.496726+05:30
+[10:15:21] Successful get url: https://www.bing.com/th?id=OHR.FoxSiblings_EN-IN1951935452_UHD.jpg
+[10:15:21] Picture infomations saved to  global/en-IN/README.md
+[10:15:21] Picture infomations saved to global/en-IN/history/2026/04/10_en-IN.md
+[10:15:21] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-10 07:15:21.935312-03:00
+[10:15:22] Successful get url: https://www.bing.com/th?id=OHR.FoxSiblings_PT-BR8556332382_UHD.jpg
+[10:15:22] Picture infomations saved to  global/pt-BR/README.md
+[10:15:22] Picture infomations saved to global/pt-BR/history/2026/04/11_pt-BR.md
+[10:15:22] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-10 12:15:22.299798+02:00
+[10:15:22] Successful get url: https://www.bing.com/th?id=OHR.FoxSiblings_FR-FR2060814821_UHD.jpg
+[10:15:22] Picture infomations saved to  global/fr-FR/README.md
+[10:15:22] Picture infomations saved to global/fr-FR/history/2026/04/10_fr-FR.md
+[10:15:22] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-10 12:15:22.952536+02:00
+[10:15:23] Successful get url: https://www.bing.com/th?id=OHR.FoxSiblings_DE-DE2992215006_UHD.jpg
+[10:15:23] Picture infomations saved to  global/de-DE/README.md
+[10:15:23] Picture infomations saved to global/de-DE/history/2026/04/10_de-DE.md
+[10:15:23] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-10 06:15:23.286924-04:00
+[10:15:23] Successful get url: https://www.bing.com/th?id=OHR.FoxSiblings_EN-CA3037431100_UHD.jpg
+[10:15:23] Picture infomations saved to  global/en-CA/README.md
+[10:15:23] Picture infomations saved to global/en-CA/history/2026/04/11_en-CA.md
+[10:15:23] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-10 11:15:23.592055+01:00
+[10:15:23] Successful get url: https://www.bing.com/th?id=OHR.GrouseGuff_EN-GB4148896764_UHD.jpg
+[10:15:24] Picture infomations saved to  global/en-GB/README.md
+[10:15:24] Picture infomations saved to global/en-GB/history/2026/04/10_en-GB.md
+[10:15:24] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-10 12:15:24.039181+02:00
+[10:15:24] Successful get url: https://www.bing.com/th?id=OHR.FoxSiblings_IT-IT2265403232_UHD.jpg
+[10:15:24] Picture infomations saved to  global/it-IT/README.md
+[10:15:24] Picture infomations saved to global/it-IT/history/2026/04/10_it-IT.md
+[10:15:24] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-10 12:15:24.508673+02:00
+[10:15:24] Successful get url: https://www.bing.com/th?id=OHR.AlhambraGranada_ES-ES7908676665_UHD.jpg
+[10:15:24] Picture infomations saved to  global/es-ES/README.md
+[10:15:24] Picture infomations saved to global/es-ES/history/2026/04/10_es-ES.md
+[10:15:24] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-10 06:15:24.990697-04:00
+[10:15:26] Successful get url: https://www.bing.com/th?id=OHR.FoxSiblings_FR-CA8605304902_UHD.jpg
+[10:15:26] Picture infomations saved to  global/fr-CA/README.md
+[10:15:26] Picture infomations saved to global/fr-CA/history/2026/04/11_fr-CA.md
+Program exit at 10:15:26
