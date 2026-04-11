@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-04-12
+## History Bing Wallpaper
+Wallpaper date: 2026-04-12
 ![](https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg&w=1000)Download: [Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)](https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg)
 
 Auto get programm by LtgX
