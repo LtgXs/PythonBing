@@ -6,9 +6,9 @@
 ||*Copyright: Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)*
 ||
 |||
-|2026-04-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PlayaPapagayo_JA-JP3931450183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlayaPapagayo_JA-JP3931450183_UHD.jpg)|
-||*Copyright: パパガヨビーチ, スペイン (© Gavin Hellier/Getty Images)*
+|2026-04-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_UHD.jpg)|
+||*Copyright: 光の筋となる都市の夜景, 国際宇宙ステーション (© NASA)*
 ||
 |||
 |2026-04-11|**Region: en-IN**||
