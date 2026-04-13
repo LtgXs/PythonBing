@@ -6,9 +6,9 @@
 ||*Copyright: Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)*
 ||
 |||
-|2026-04-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BorregoStars_JA-JP7872026496_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BorregoStars_JA-JP7872026496_UHD.jpg)|
-||*Copyright: アンザ・ボレゴ砂漠州立公園, 米国 カリフォルニア州 (© Kevin Key/Slworking)*
+|2026-04-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.OcellarisClownfish_JA-JP4425106127_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OcellarisClownfish_JA-JP4425106127_UHD.jpg)|
+||*Copyright: クマノミ, インドネシア (© Magnus Lundgren/Nature Picture Library)*
 ||
 |||
 |2026-04-13|**Region: en-IN**||
