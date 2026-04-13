@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-04-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg)|
-||*Copyright: City lights streak below, taken from the International Space Station (© NASA)*
+|2026-04-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg)|
+||*Copyright: Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)*
 ||
 |||
 |2026-04-13|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アンザ・ボレゴ砂漠州立公園, 米国 カリフォルニア州 (© Kevin Key/Slworking)*
 ||
 |||
-|2026-04-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SpaceTrails_EN-IN2633640541_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceTrails_EN-IN2633640541_UHD.jpg)|
-||*Copyright: City lights streak below, taken from the International Space Station (© NASA)*
+|2026-04-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BorregoStars_EN-IN2846815950_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BorregoStars_EN-IN2846815950_UHD.jpg)|
+||*Copyright: Milky Way over Anza-Borrego Desert State Park, California, United States (© Kevin Key/Slworking)/Getty Images)*
 ||
 |||
-|2026-04-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SpaceTrails_PT-BR7404949008_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceTrails_PT-BR7404949008_UHD.jpg)|
-||*Copyright: Luzes vistas da Estação Espacial Internacional (© NASA)*
+|2026-04-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BorregoStars_PT-BR7203223722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BorregoStars_PT-BR7203223722_UHD.jpg)|
+||*Copyright: Via Láctea sobre o Parque Estadual do Deserto de Anza-Borrego, Califórnia, Estados Unidos (© Kevin Key/Slworking/Getty Images)*
 ||
 |||
-|2026-04-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_UHD.jpg)|
-||*Copyright: Lumières de villes vues depuis la Station Spatiale Internationale (© NASA)*
+|2026-04-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BorregoStars_FR-FR4220178429_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BorregoStars_FR-FR4220178429_UHD.jpg)|
+||*Copyright: La Voie lactée au-dessus du parc d’État du désert d’Anza-Borrego, Californie, États-Unis (© Kevin Key/Slworking/Getty Images)*
 ||
 |||
-|2026-04-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_UHD.jpg)|
-||*Copyright: Lichterspuren der Erde, aufgenommen von der Internationalen Raumstation (© NASA)*
+|2026-04-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ChiffchaffSpring_DE-DE4997065919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChiffchaffSpring_DE-DE4997065919_UHD.jpg)|
+||*Copyright: Zilpzalp, Deutschland (© Andyworks/Getty Images)*
 ||
 |||
-|2026-04-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SpaceTrails_EN-CA4327583525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceTrails_EN-CA4327583525_UHD.jpg)|
-||*Copyright: City lights streak below, taken from the International Space Station (© NASA)*
+|2026-04-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BorregoStars_EN-CA4735972360_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BorregoStars_EN-CA4735972360_UHD.jpg)|
+||*Copyright: Milky Way over Anza-Borrego Desert State Park, California, United States (© Kevin Key/Slworking)/Getty Images)*
 ||
 |||
-|2026-04-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SpaceTrails_EN-GB7928814675_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceTrails_EN-GB7928814675_UHD.jpg)|
-||*Copyright: City lights streak below, taken from the International Space Station (© NASA)*
+|2026-04-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BorregoStars_EN-GB8139506405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BorregoStars_EN-GB8139506405_UHD.jpg)|
+||*Copyright: Milky Way over Anza-Borrego Desert State Park, California, United States (© Kevin Key/Slworking)/Getty Images)*
 ||
 |||
-|2026-04-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SpaceTrails_IT-IT2393301171_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceTrails_IT-IT2393301171_UHD.jpg)|
-||*Copyright: Luci della città scorrono sotto, immortalate dalla Stazione Spaziale  Internazionale (© NASA)*
+|2026-04-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BorregoStars_IT-IT3311374255_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BorregoStars_IT-IT3311374255_UHD.jpg)|
+||*Copyright: La Via Lattea sopra l'Anza-Borrego Desert State Park, California, USA (© Kevin Key/Slworking/Getty Images)*
 ||
 |||
-|2026-04-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceTrails_ES-ES6596295414_UHD.jpg)|
-||*Copyright: Luces de la ciudad desde la Estación Espacial Internacional (© NASA)*
+|2026-04-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TeruelSpain_ES-ES8314942173_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TeruelSpain_ES-ES8314942173_UHD.jpg)|
+||*Copyright: Cañón Rojo de Teruel, Aragón (© hdibanez/Getty Images)*
 ||
 |||
-|2026-04-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SpaceTrails_FR-CA7836422839_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpaceTrails_FR-CA7836422839_UHD.jpg)|
-||*Copyright: Lumières de villes vues depuis la Station Spatiale Internationale (© NASA)*
+|2026-04-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BorregoStars_FR-CA4546952201_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BorregoStars_FR-CA4546952201_UHD.jpg)|
+||*Copyright: La Voie lactée au-dessus du parc d’État du désert d’Anza‑Borrego, Californie, États-Unis (© Kevin Key/Slworking)/Getty Images)*
 ||
 |||
 
