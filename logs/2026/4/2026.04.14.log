@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:39:16] Picture infomations saved to  global/fr-CA/README.md
 [10:39:16] Picture infomations saved to global/fr-CA/history/2026/04/15_fr-CA.md
 Program exit at 10:39:16
+
+Program started at 16:58:03
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm35a4x
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:58:03] Start geting CN Bing Wallpaper
+[16:58:03] Successful get url: https://www.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg
+[16:58:03] Image saved to img/background.jpg
+[16:58:03] Info saved to README.md
+[16:58:03] Image saved to history/2026/04/15.md
+[16:58:03] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-14 12:58:03.596215-04:00
+[16:58:03] Successful get url: https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_UHD.jpg
+[16:58:03] Picture infomations saved to  global/en-US/README.md
+[16:58:03] Picture infomations saved to global/en-US/history/2026/04/15_en-US.md
+[16:58:03] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-15 01:58:03.784440+09:00
+[16:58:03] Successful get url: https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_UHD.jpg
+[16:58:04] Picture infomations saved to  global/ja-JP/README.md
+[16:58:04] Picture infomations saved to global/ja-JP/history/2026/04/15_ja-JP.md
+[16:58:04] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-14 22:28:04.144913+05:30
+[16:58:04] Successful get url: https://www.bing.com/th?id=OHR.AmbedkarJayanti2026_EN-IN3641683791_UHD.jpg
+[16:58:04] Picture infomations saved to  global/en-IN/README.md
+[16:58:04] Picture infomations saved to global/en-IN/history/2026/04/14_en-IN.md
+[16:58:04] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-14 13:58:04.555546-03:00
+[16:58:04] Successful get url: https://www.bing.com/th?id=OHR.OcellarisClownfish_PT-BR6919356359_UHD.jpg
+[16:58:04] Picture infomations saved to  global/pt-BR/README.md
+[16:58:04] Picture infomations saved to global/pt-BR/history/2026/04/15_pt-BR.md
+[16:58:04] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-14 18:58:04.742680+02:00
+[16:58:04] Successful get url: https://www.bing.com/th?id=OHR.OcellarisClownfish_FR-FR5954512656_UHD.jpg
+[16:58:04] Picture infomations saved to  global/fr-FR/README.md
+[16:58:04] Picture infomations saved to global/fr-FR/history/2026/04/14_fr-FR.md
+[16:58:04] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-14 18:58:04.939180+02:00
+[16:58:04] Successful get url: https://www.bing.com/th?id=OHR.OcellarisClownfish_DE-DE4824723739_UHD.jpg
+[16:58:05] Picture infomations saved to  global/de-DE/README.md
+[16:58:05] Picture infomations saved to global/de-DE/history/2026/04/14_de-DE.md
+[16:58:05] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-14 12:58:05.166359-04:00
+[16:58:05] Successful get url: https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-CA5297847752_UHD.jpg
+[16:58:05] Picture infomations saved to  global/en-CA/README.md
+[16:58:05] Picture infomations saved to global/en-CA/history/2026/04/15_en-CA.md
+[16:58:05] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-14 17:58:05.351854+01:00
+[16:58:05] Successful get url: https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-GB8330340192_UHD.jpg
+[16:58:05] Picture infomations saved to  global/en-GB/README.md
+[16:58:05] Picture infomations saved to global/en-GB/history/2026/04/14_en-GB.md
+[16:58:05] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-14 18:58:05.528566+02:00
+[16:58:05] Successful get url: https://www.bing.com/th?id=OHR.OcellarisClownfish_IT-IT2484458415_UHD.jpg
+[16:58:05] Picture infomations saved to  global/it-IT/README.md
+[16:58:05] Picture infomations saved to global/it-IT/history/2026/04/14_it-IT.md
+[16:58:05] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-14 18:58:05.770539+02:00
+[16:58:05] Successful get url: https://www.bing.com/th?id=OHR.OcellarisClownfish_ES-ES6754950938_UHD.jpg
+[16:58:05] Picture infomations saved to  global/es-ES/README.md
+[16:58:05] Picture infomations saved to global/es-ES/history/2026/04/14_es-ES.md
+[16:58:05] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-14 12:58:05.950845-04:00
+[16:58:06] Successful get url: https://www.bing.com/th?id=OHR.OcellarisClownfish_FR-CA1982457017_UHD.jpg
+[16:58:06] Picture infomations saved to  global/fr-CA/README.md
+[16:58:06] Picture infomations saved to global/fr-CA/history/2026/04/15_fr-CA.md
+Program exit at 16:58:06

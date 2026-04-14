@@ -6,9 +6,9 @@
 ||*Copyright: Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)*
 ||
 |||
-|2026-04-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OcellarisClownfish_JA-JP4425106127_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OcellarisClownfish_JA-JP4425106127_UHD.jpg)|
-||*Copyright: クマノミ, インドネシア (© Magnus Lundgren/Nature Picture Library)*
+|2026-04-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_UHD.jpg)|
+||*Copyright: 芝桜, 山梨県 (© DoctorEgg/Getty images)*
 ||
 |||
 |2026-04-14|**Region: en-IN**||
