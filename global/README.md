@@ -6,9 +6,9 @@
 ||*Copyright: The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)*
 ||
 |||
-|2026-04-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_UHD.jpg)|
-||*Copyright: 芝桜, 山梨県 (© DoctorEgg/Getty images)*
+|2026-04-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SkagitTulips_JA-JP9152402510_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkagitTulips_JA-JP9152402510_UHD.jpg)|
+||*Copyright: スカジットバレー, 米国 ワシントン州 (© Alan Majchrowicz/Getty Images)*
 ||
 |||
 |2026-04-15|**Region: en-IN**||
