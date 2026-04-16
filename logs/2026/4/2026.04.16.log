@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:38:57] Picture infomations saved to  global/fr-CA/README.md
 [10:38:57] Picture infomations saved to global/fr-CA/history/2026/04/17_fr-CA.md
 Program exit at 10:38:57
+
+Program started at 17:06:33
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm35a4x
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:06:33] Start geting CN Bing Wallpaper
+[17:06:33] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg
+[17:06:33] Image saved to img/background.jpg
+[17:06:33] Info saved to README.md
+[17:06:33] Image saved to history/2026/04/17.md
+[17:06:33] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-16 13:06:33.840505-04:00
+[17:06:33] Successful get url: https://www.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg
+[17:06:34] Picture infomations saved to  global/en-US/README.md
+[17:06:34] Picture infomations saved to global/en-US/history/2026/04/17_en-US.md
+[17:06:34] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-17 02:06:34.027943+09:00
+[17:06:34] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_JA-JP9261315523_UHD.jpg
+[17:06:34] Picture infomations saved to  global/ja-JP/README.md
+[17:06:34] Picture infomations saved to global/ja-JP/history/2026/04/17_ja-JP.md
+[17:06:34] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-16 22:36:34.322670+05:30
+[17:06:34] Successful get url: https://www.bing.com/th?id=OHR.SkagitTulips_EN-IN3934438603_UHD.jpg
+[17:06:34] Picture infomations saved to  global/en-IN/README.md
+[17:06:34] Picture infomations saved to global/en-IN/history/2026/04/16_en-IN.md
+[17:06:34] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-16 14:06:34.533316-03:00
+[17:06:34] Successful get url: https://www.bing.com/th?id=OHR.SkagitTulips_PT-BR0165091491_UHD.jpg
+[17:06:34] Picture infomations saved to  global/pt-BR/README.md
+[17:06:34] Picture infomations saved to global/pt-BR/history/2026/04/17_pt-BR.md
+[17:06:34] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-16 19:06:34.769731+02:00
+[17:06:34] Successful get url: https://www.bing.com/th?id=OHR.SkagitTulips_FR-FR6378345422_UHD.jpg
+[17:06:35] Picture infomations saved to  global/fr-FR/README.md
+[17:06:35] Picture infomations saved to global/fr-FR/history/2026/04/16_fr-FR.md
+[17:06:35] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-16 19:06:35.033475+02:00
+[17:06:35] Successful get url: https://www.bing.com/th?id=OHR.SkagitTulips_DE-DE0725960684_UHD.jpg
+[17:06:35] Picture infomations saved to  global/de-DE/README.md
+[17:06:35] Picture infomations saved to global/de-DE/history/2026/04/16_de-DE.md
+[17:06:35] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-16 13:06:35.446952-04:00
+[17:06:35] Successful get url: https://www.bing.com/th?id=OHR.Wildflowerbloom_EN-CA6661555631_UHD.jpg
+[17:06:35] Picture infomations saved to  global/en-CA/README.md
+[17:06:35] Picture infomations saved to global/en-CA/history/2026/04/17_en-CA.md
+[17:06:35] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-16 18:06:35.908912+01:00
+[17:06:35] Successful get url: https://www.bing.com/th?id=OHR.SkagitTulips_EN-GB8838173363_UHD.jpg
+[17:06:36] Picture infomations saved to  global/en-GB/README.md
+[17:06:36] Picture infomations saved to global/en-GB/history/2026/04/16_en-GB.md
+[17:06:36] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-16 19:06:36.074636+02:00
+[17:06:36] Successful get url: https://www.bing.com/th?id=OHR.ToscanaSpring_IT-IT2623065946_UHD.jpg
+[17:06:36] Picture infomations saved to  global/it-IT/README.md
+[17:06:36] Picture infomations saved to global/it-IT/history/2026/04/16_it-IT.md
+[17:06:36] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-16 19:06:36.355188+02:00
+[17:06:36] Successful get url: https://www.bing.com/th?id=OHR.SkagitTulips_ES-ES7111199326_UHD.jpg
+[17:06:36] Picture infomations saved to  global/es-ES/README.md
+[17:06:36] Picture infomations saved to global/es-ES/history/2026/04/16_es-ES.md
+[17:06:36] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-16 13:06:36.609862-04:00
+[17:06:36] Successful get url: https://www.bing.com/th?id=OHR.Wildflowerbloom_FR-CA6123772633_UHD.jpg
+[17:06:36] Picture infomations saved to  global/fr-CA/README.md
+[17:06:36] Picture infomations saved to global/fr-CA/history/2026/04/17_fr-CA.md
+Program exit at 17:06:36

@@ -6,9 +6,9 @@
 ||*Copyright: Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)*
 ||
 |||
-|2026-04-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SkagitTulips_JA-JP9152402510_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkagitTulips_JA-JP9152402510_UHD.jpg)|
-||*Copyright: スカジットバレー, 米国 ワシントン州 (© Alan Majchrowicz/Getty Images)*
+|2026-04-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_JA-JP9261315523_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_JA-JP9261315523_UHD.jpg)|
+||*Copyright: ハイイロオオコウモリ, オーストラリア (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
 |2026-04-16|**Region: en-IN**||
