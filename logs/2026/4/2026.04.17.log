@@ -1,0 +1,60 @@
+
+Program started at 10:21:40
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm35a4x
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:21:40] Start geting CN Bing Wallpaper
+[10:21:40] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg
+[10:21:40] Image saved to img/background.jpg
+[10:21:40] Info saved to README.md
+[10:21:40] Image saved to history/2026/04/17.md
+[10:21:40] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-17 06:21:40.578847-04:00
+[10:21:40] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg
+[10:21:40] Picture infomations saved to  global/en-US/README.md
+[10:21:40] Picture infomations saved to global/en-US/history/2026/04/18_en-US.md
+[10:21:40] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-17 19:21:40.995911+09:00
+[10:21:41] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_JA-JP9261315523_UHD.jpg
+[10:21:41] Picture infomations saved to  global/ja-JP/README.md
+[10:21:41] Picture infomations saved to global/ja-JP/history/2026/04/17_ja-JP.md
+[10:21:41] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-17 15:51:41.350472+05:30
+[10:21:41] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-IN8520360814_UHD.jpg
+[10:21:41] Picture infomations saved to  global/en-IN/README.md
+[10:21:41] Picture infomations saved to global/en-IN/history/2026/04/17_en-IN.md
+[10:21:41] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-17 07:21:41.773518-03:00
+[10:21:41] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_PT-BR4423451974_UHD.jpg
+[10:21:42] Picture infomations saved to  global/pt-BR/README.md
+[10:21:42] Picture infomations saved to global/pt-BR/history/2026/04/18_pt-BR.md
+[10:21:42] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-17 12:21:42.213466+02:00
+[10:21:42] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-FR4854001946_UHD.jpg
+[10:21:42] Picture infomations saved to  global/fr-FR/README.md
+[10:21:42] Picture infomations saved to global/fr-FR/history/2026/04/17_fr-FR.md
+[10:21:42] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-17 12:21:42.623554+02:00
+[10:21:42] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_DE-DE9791519824_UHD.jpg
+[10:21:42] Picture infomations saved to  global/de-DE/README.md
+[10:21:42] Picture infomations saved to global/de-DE/history/2026/04/17_de-DE.md
+[10:21:42] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-17 06:21:42.991257-04:00
+[10:21:43] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-CA2731028083_UHD.jpg
+[10:21:43] Picture infomations saved to  global/en-CA/README.md
+[10:21:43] Picture infomations saved to global/en-CA/history/2026/04/18_en-CA.md
+[10:21:43] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-17 11:21:43.460935+01:00
+[10:21:43] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-GB2090404206_UHD.jpg
+[10:21:44] Picture infomations saved to  global/en-GB/README.md
+[10:21:44] Picture infomations saved to global/en-GB/history/2026/04/17_en-GB.md
+[10:21:44] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-17 12:21:44.436121+02:00
+[10:21:44] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_IT-IT3683219154_UHD.jpg
+[10:21:44] Picture infomations saved to  global/it-IT/README.md
+[10:21:44] Picture infomations saved to global/it-IT/history/2026/04/17_it-IT.md
+[10:21:44] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-17 12:21:44.889095+02:00
+[10:21:44] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_ES-ES8542062394_UHD.jpg
+[10:21:45] Picture infomations saved to  global/es-ES/README.md
+[10:21:45] Picture infomations saved to global/es-ES/history/2026/04/17_es-ES.md
+[10:21:45] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-17 06:21:45.240648-04:00
+[10:21:45] Successful get url: https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-CA4810693177_UHD.jpg
+[10:21:45] Picture infomations saved to  global/fr-CA/README.md
+[10:21:45] Picture infomations saved to global/fr-CA/history/2026/04/18_fr-CA.md
+Program exit at 10:21:45

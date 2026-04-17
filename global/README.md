@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-04-17|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg)|
-||*Copyright: Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)*
+|2026-04-18|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg)|
+||*Copyright: Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
 |2026-04-17|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ハイイロオオコウモリ, オーストラリア (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
-|2026-04-16|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SkagitTulips_EN-IN3934438603_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkagitTulips_EN-IN3934438603_UHD.jpg)|
-||*Copyright: Skagit Valley Tulip Fields, Washington, United States (© Alan Majchrowicz/Getty Images)*
+|2026-04-17|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-IN8520360814_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-IN8520360814_UHD.jpg)|
+||*Copyright: Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
-|2026-04-17|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SkagitTulips_PT-BR0165091491_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkagitTulips_PT-BR0165091491_UHD.jpg)|
-||*Copyright: Campos de tulipas do Vale Skagit, Washington, Estados Unidos (© Alan Majchrowicz/Getty Images)*
+|2026-04-18|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_PT-BR4423451974_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_PT-BR4423451974_UHD.jpg)|
+||*Copyright: Raposa-voadora-de-cabeça-cinzenta com filhote, Parque Yarra Bend, Austrália (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
-|2026-04-16|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SkagitTulips_FR-FR6378345422_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkagitTulips_FR-FR6378345422_UHD.jpg)|
-||*Copyright: Champ de tulipes de Skagit Valley, Washington, États-Unis (© Alan Majchrowicz/Getty Images)*
+|2026-04-17|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-FR4854001946_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-FR4854001946_UHD.jpg)|
+||*Copyright: Femelle renard volant à tête grise portant son petit, Yarra Bend Park, Australie (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
-|2026-04-16|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SkagitTulips_DE-DE0725960684_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkagitTulips_DE-DE0725960684_UHD.jpg)|
-||*Copyright: Tulpenfelder im Skagit Valley, Washington, USA (© Alan Majchrowicz/Getty Images)*
+|2026-04-17|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_DE-DE9791519824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_DE-DE9791519824_UHD.jpg)|
+||*Copyright: Graukopf‑Flughund mit Jungtier, Yarra Bend Park, Melbourne, Australien (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
-|2026-04-17|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Wildflowerbloom_EN-CA6661555631_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Wildflowerbloom_EN-CA6661555631_UHD.jpg)|
-||*Copyright: Blooming lupines in Newfoundland (© Nature, Parks/Outdoor/Shutterstock)*
+|2026-04-18|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-CA2731028083_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-CA2731028083_UHD.jpg)|
+||*Copyright: Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
-|2026-04-16|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SkagitTulips_EN-GB8838173363_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkagitTulips_EN-GB8838173363_UHD.jpg)|
-||*Copyright: Skagit Valley Tulip Fields, Washington, United States (© Alan Majchrowicz/Getty Images)*
+|2026-04-17|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-GB2090404206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-GB2090404206_UHD.jpg)|
+||*Copyright: Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
-|2026-04-16|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ToscanaSpring_IT-IT2623065946_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ToscanaSpring_IT-IT2623065946_UHD.jpg)|
-||*Copyright: Colline ondulate al tramonto, Toscana (© StevanZZ/Getty Images)*
+|2026-04-17|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_IT-IT3683219154_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_IT-IT3683219154_UHD.jpg)|
+||*Copyright: Pipistrello con il suo cucciolo, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
-|2026-04-16|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SkagitTulips_ES-ES7111199326_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkagitTulips_ES-ES7111199326_UHD.jpg)|
-||*Copyright: Campos de tulipanes del valle de Skagit, Washington, EE. UU. (© Alan Majchrowicz/Getty Images)*
+|2026-04-17|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_ES-ES8542062394_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_ES-ES8542062394_UHD.jpg)|
+||*Copyright: Murciélago de cabeza gris llevando a su cría, Parque Yarra Bend, Australia (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
-|2026-04-17|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Wildflowerbloom_FR-CA6123772633_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Wildflowerbloom_FR-CA6123772633_UHD.jpg)|
-||*Copyright: Lupins en fleur à Terre-Neuve (© Nature, Parks/Outdoor/Shutterstock)*
+|2026-04-18|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-CA4810693177_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-CA4810693177_UHD.jpg)|
+||*Copyright: Femelle renard volant à tête grise portant son petit, Yarra Bend Park, Australie (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
 
