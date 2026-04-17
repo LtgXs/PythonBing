@@ -6,9 +6,9 @@
 ||*Copyright: Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)*
 ||
 |||
-|2026-04-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_JA-JP9261315523_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_JA-JP9261315523_UHD.jpg)|
-||*Copyright: ハイイロオオコウモリ, オーストラリア (© Doug Gimesy/Nature Picture Library)*
+|2026-04-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MaoiStatues_JA-JP0155278246_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_JA-JP0155278246_UHD.jpg)|
+||*Copyright: モアイ像, チリ (© Gavin Hellier/Alamy)*
 ||
 |||
 |2026-04-17|**Region: en-IN**||
