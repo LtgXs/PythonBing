@@ -6,9 +6,9 @@
 ||*Copyright: Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)*
 ||
 |||
-|2026-04-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MaoiStatues_JA-JP0155278246_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_JA-JP0155278246_UHD.jpg)|
-||*Copyright: モアイ像, チリ (© Gavin Hellier/Alamy)*
+|2026-04-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BelemTowerBank_JA-JP0304685153_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BelemTowerBank_JA-JP0304685153_UHD.jpg)|
+||*Copyright: ベレンの塔, ポルトガル (© f9photos/Getty Images)*
 ||
 |||
 |2026-04-18|**Region: en-IN**||
