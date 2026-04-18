@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-04-18|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg)|
-||*Copyright: Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)*
+|2026-04-19|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg)|
+||*Copyright: Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)*
 ||
 |||
 |2026-04-18|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: モアイ像, チリ (© Gavin Hellier/Alamy)*
 ||
 |||
-|2026-04-17|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-IN8520360814_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-IN8520360814_UHD.jpg)|
-||*Copyright: Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)*
+|2026-04-18|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-IN8684829616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_EN-IN8684829616_UHD.jpg)|
+||*Copyright: Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)*
 ||
 |||
-|2026-04-18|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_PT-BR4423451974_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_PT-BR4423451974_UHD.jpg)|
-||*Copyright: Raposa-voadora-de-cabeça-cinzenta com filhote, Parque Yarra Bend, Austrália (© Doug Gimesy/Nature Picture Library)*
+|2026-04-19|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MaoiStatues_PT-BR8807635419_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_PT-BR8807635419_UHD.jpg)|
+||*Copyright: Estátuas moai, Rano Raraku, Ilha de Páscoa, Chile (© Gavin Hellier/Alamy)*
 ||
 |||
-|2026-04-17|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-FR4854001946_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-FR4854001946_UHD.jpg)|
-||*Copyright: Femelle renard volant à tête grise portant son petit, Yarra Bend Park, Australie (© Doug Gimesy/Nature Picture Library)*
+|2026-04-18|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MillauViaductFrance_FR-FR3718442345_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MillauViaductFrance_FR-FR3718442345_UHD.jpg)|
+||*Copyright: Vue aérienne du Viaduc de Millau (© Sergi Reboredo/Alamy)*
 ||
 |||
-|2026-04-17|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_DE-DE9791519824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_DE-DE9791519824_UHD.jpg)|
-||*Copyright: Graukopf‑Flughund mit Jungtier, Yarra Bend Park, Melbourne, Australien (© Doug Gimesy/Nature Picture Library)*
+|2026-04-18|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_UHD.jpg)|
+||*Copyright: Eingangsbereich des Kölner Doms, Nordrhein‑Westfalen (© ALFSnaiper/Getty Images)*
 ||
 |||
-|2026-04-18|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-CA2731028083_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-CA2731028083_UHD.jpg)|
-||*Copyright: Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)*
+|2026-04-19|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-CA3351921457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_EN-CA3351921457_UHD.jpg)|
+||*Copyright: Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)*
 ||
 |||
-|2026-04-17|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-GB2090404206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-GB2090404206_UHD.jpg)|
-||*Copyright: Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)*
+|2026-04-18|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_UHD.jpg)|
+||*Copyright: Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)*
 ||
 |||
-|2026-04-17|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_IT-IT3683219154_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_IT-IT3683219154_UHD.jpg)|
-||*Copyright: Pipistrello con il suo cucciolo, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)*
+|2026-04-18|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MaoiStatues_IT-IT3537431977_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_IT-IT3537431977_UHD.jpg)|
+||*Copyright: Cava delle statue moai, Rano Raraku, Isola di Pasqua, Cile (© Gavin Hellier/Alamy)*
 ||
 |||
-|2026-04-17|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_ES-ES8542062394_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_ES-ES8542062394_UHD.jpg)|
-||*Copyright: Murciélago de cabeza gris llevando a su cría, Parque Yarra Bend, Australia (© Doug Gimesy/Nature Picture Library)*
+|2026-04-18|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MaoiStatues_ES-ES1501322349_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_ES-ES1501322349_UHD.jpg)|
+||*Copyright: Cantera de estatuas moái, Rano Raraku, isla de Pascua, Chile (© Gavin Hellier/Alamy)*
 ||
 |||
-|2026-04-18|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-CA4810693177_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-CA4810693177_UHD.jpg)|
-||*Copyright: Femelle renard volant à tête grise portant son petit, Yarra Bend Park, Australie (© Doug Gimesy/Nature Picture Library)*
+|2026-04-19|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MaoiStatues_FR-CA1347038100_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_FR-CA1347038100_UHD.jpg)|
+||*Copyright: Carrières de moaïs, Rano Raraku, Île de Pâques, Chili (© Gavin Hellier/Alamy)*
 ||
 |||
 
