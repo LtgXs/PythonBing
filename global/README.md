@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-04-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg)|
-||*Copyright: Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)*
+|2026-04-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg)|
+||*Copyright: Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)*
 ||
 |||
 |2026-04-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ベレンの塔, ポルトガル (© f9photos/Getty Images)*
 ||
 |||
-|2026-04-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-IN8684829616_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_EN-IN8684829616_UHD.jpg)|
-||*Copyright: Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)*
+|2026-04-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SpitiValley2026_EN-IN0228621600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpitiValley2026_EN-IN0228621600_UHD.jpg)|
+||*Copyright: Spiti Valley, Himachal Pradesh (© Rahul Wedpathak/500px/Getty Images)*
 ||
 |||
-|2026-04-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MaoiStatues_PT-BR8807635419_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_PT-BR8807635419_UHD.jpg)|
-||*Copyright: Estátuas moai, Rano Raraku, Ilha de Páscoa, Chile (© Gavin Hellier/Alamy)*
+|2026-04-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.InDay_PT-BR0410116846_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.InDay_PT-BR0410116846_UHD.jpg)|
+||*Copyright: Cocar artesanal de povo indígena brasileiro (© Felipe Gustavo S Borges/Getty Images)*
 ||
 |||
-|2026-04-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MillauViaductFrance_FR-FR3718442345_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MillauViaductFrance_FR-FR3718442345_UHD.jpg)|
-||*Copyright: Vue aérienne du Viaduc de Millau (© Sergi Reboredo/Alamy)*
+|2026-04-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TranBA_FR-FR8282585117_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TranBA_FR-FR8282585117_UHD.jpg)|
+||*Copyright: Plage du Miroir, Trancoso, Bahia, Brésil (© Marcelo Nacinovic/Getty Images)*
 ||
 |||
-|2026-04-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_UHD.jpg)|
-||*Copyright: Eingangsbereich des Kölner Doms, Nordrhein‑Westfalen (© ALFSnaiper/Getty Images)*
+|2026-04-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TranBA_DE-DE2926110774_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TranBA_DE-DE2926110774_UHD.jpg)|
+||*Copyright: Praia do Espelho, Porto Seguro, Bahia, Brasilien (© Marcelo Nacinovic/Getty Images)*
 ||
 |||
-|2026-04-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-CA3351921457_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_EN-CA3351921457_UHD.jpg)|
-||*Copyright: Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)*
+|2026-04-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TranBA_EN-CA3645190031_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TranBA_EN-CA3645190031_UHD.jpg)|
+||*Copyright: Mirror Beach, Porto Seguro, Bahia, Brazil (© Marcelo Nacinovic/Getty Images)*
 ||
 |||
-|2026-04-18|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_UHD.jpg)|
-||*Copyright: Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)*
+|2026-04-19|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669_UHD.jpg)|
+||*Copyright: Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)*
 ||
 |||
-|2026-04-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MaoiStatues_IT-IT3537431977_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_IT-IT3537431977_UHD.jpg)|
-||*Copyright: Cava delle statue moai, Rano Raraku, Isola di Pasqua, Cile (© Gavin Hellier/Alamy)*
+|2026-04-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TranBA_IT-IT3445564294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TranBA_IT-IT3445564294_UHD.jpg)|
+||*Copyright: Spiaggia di Espelho, Trancoso, Bahia, Brasile (© Marcelo Nacinovic/Getty Images)*
 ||
 |||
-|2026-04-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MaoiStatues_ES-ES1501322349_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_ES-ES1501322349_UHD.jpg)|
-||*Copyright: Cantera de estatuas moái, Rano Raraku, isla de Pascua, Chile (© Gavin Hellier/Alamy)*
+|2026-04-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SunsetKiva_ES-ES8818639574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetKiva_ES-ES8818639574_UHD.jpg)|
+||*Copyright: Atardecer en el Parque Nacional de Canyonlands, Utah, EE. UU. (© Jason Hatfield/Tandem Stills + Motion)*
 ||
 |||
-|2026-04-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MaoiStatues_FR-CA1347038100_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaoiStatues_FR-CA1347038100_UHD.jpg)|
-||*Copyright: Carrières de moaïs, Rano Raraku, Île de Pâques, Chili (© Gavin Hellier/Alamy)*
+|2026-04-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TranBA_FR-CA2623608746_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TranBA_FR-CA2623608746_UHD.jpg)|
+||*Copyright: Plage du Miroir, Trancoso, Bahia, Brésil (© Marcelo Nacinovic/Getty Images)*
 ||
 |||
 
