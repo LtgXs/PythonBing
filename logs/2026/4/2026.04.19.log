@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:59:15] Picture infomations saved to  global/fr-CA/README.md
 [09:59:15] Picture infomations saved to global/fr-CA/history/2026/04/20_fr-CA.md
 Program exit at 09:59:15
+
+Program started at 16:31:38
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:31:39] Start geting CN Bing Wallpaper
+[16:31:39] Successful get url: https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg
+[16:31:39] Image saved to img/background.jpg
+[16:31:39] Info saved to README.md
+[16:31:39] Image saved to history/2026/04/20.md
+[16:31:39] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-19 12:31:39.220984-04:00
+[16:31:39] Successful get url: https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg
+[16:31:39] Picture infomations saved to  global/en-US/README.md
+[16:31:39] Picture infomations saved to global/en-US/history/2026/04/20_en-US.md
+[16:31:39] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-20 01:31:39.342725+09:00
+[16:31:39] Successful get url: https://www.bing.com/th?id=OHR.SunsetKiva_JA-JP0609102045_UHD.jpg
+[16:31:39] Picture infomations saved to  global/ja-JP/README.md
+[16:31:39] Picture infomations saved to global/ja-JP/history/2026/04/20_ja-JP.md
+[16:31:39] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-19 22:01:39.490603+05:30
+[16:31:39] Successful get url: https://www.bing.com/th?id=OHR.SpitiValley2026_EN-IN0228621600_UHD.jpg
+[16:31:39] Picture infomations saved to  global/en-IN/README.md
+[16:31:39] Picture infomations saved to global/en-IN/history/2026/04/19_en-IN.md
+[16:31:39] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-19 13:31:39.641015-03:00
+[16:31:39] Successful get url: https://www.bing.com/th?id=OHR.InDay_PT-BR0410116846_UHD.jpg
+[16:31:42] Picture infomations saved to  global/pt-BR/README.md
+[16:31:42] Picture infomations saved to global/pt-BR/history/2026/04/20_pt-BR.md
+[16:31:42] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-19 18:31:42.154029+02:00
+[16:31:42] Successful get url: https://www.bing.com/th?id=OHR.TranBA_FR-FR8282585117_UHD.jpg
+[16:31:42] Picture infomations saved to  global/fr-FR/README.md
+[16:31:42] Picture infomations saved to global/fr-FR/history/2026/04/19_fr-FR.md
+[16:31:42] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-19 18:31:42.287020+02:00
+[16:31:42] Successful get url: https://www.bing.com/th?id=OHR.TranBA_DE-DE2926110774_UHD.jpg
+[16:31:42] Picture infomations saved to  global/de-DE/README.md
+[16:31:42] Picture infomations saved to global/de-DE/history/2026/04/19_de-DE.md
+[16:31:42] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-19 12:31:42.502547-04:00
+[16:31:42] Successful get url: https://www.bing.com/th?id=OHR.TranBA_EN-CA3645190031_UHD.jpg
+[16:31:42] Picture infomations saved to  global/en-CA/README.md
+[16:31:42] Picture infomations saved to global/en-CA/history/2026/04/20_en-CA.md
+[16:31:42] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-19 17:31:42.621394+01:00
+[16:31:42] Successful get url: https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669_UHD.jpg
+[16:31:42] Picture infomations saved to  global/en-GB/README.md
+[16:31:42] Picture infomations saved to global/en-GB/history/2026/04/19_en-GB.md
+[16:31:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-19 18:31:42.984452+02:00
+[16:31:43] Successful get url: https://www.bing.com/th?id=OHR.TranBA_IT-IT3445564294_UHD.jpg
+[16:31:44] Picture infomations saved to  global/it-IT/README.md
+[16:31:44] Picture infomations saved to global/it-IT/history/2026/04/19_it-IT.md
+[16:31:44] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-19 18:31:44.517101+02:00
+[16:31:44] Successful get url: https://www.bing.com/th?id=OHR.SunsetKiva_ES-ES8818639574_UHD.jpg
+[16:31:44] Picture infomations saved to  global/es-ES/README.md
+[16:31:44] Picture infomations saved to global/es-ES/history/2026/04/19_es-ES.md
+[16:31:44] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-19 12:31:44.739593-04:00
+[16:31:44] Successful get url: https://www.bing.com/th?id=OHR.TranBA_FR-CA2623608746_UHD.jpg
+[16:31:44] Picture infomations saved to  global/fr-CA/README.md
+[16:31:44] Picture infomations saved to global/fr-CA/history/2026/04/20_fr-CA.md
+Program exit at 16:31:44

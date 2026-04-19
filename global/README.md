@@ -6,9 +6,9 @@
 ||*Copyright: Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)*
 ||
 |||
-|2026-04-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BelemTowerBank_JA-JP0304685153_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BelemTowerBank_JA-JP0304685153_UHD.jpg)|
-||*Copyright: ベレンの塔, ポルトガル (© f9photos/Getty Images)*
+|2026-04-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SunsetKiva_JA-JP0609102045_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetKiva_JA-JP0609102045_UHD.jpg)|
+||*Copyright: キャニオンランズ国立公園, 米国 ユタ州 (© Jason Hatfield/Tandem Stills + Motion)*
 ||
 |||
 |2026-04-19|**Region: en-IN**||
