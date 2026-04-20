@@ -6,9 +6,9 @@
 ||*Copyright: Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion)*
 ||
 |||
-|2026-04-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SunsetKiva_JA-JP0609102045_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetKiva_JA-JP0609102045_UHD.jpg)|
-||*Copyright: キャニオンランズ国立公園, 米国 ユタ州 (© Jason Hatfield/Tandem Stills + Motion)*
+|2026-04-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SpringHedgehog_JA-JP0798616014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringHedgehog_JA-JP0798616014_UHD.jpg)|
+||*Copyright: ハリネズミ, フランス (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
 |2026-04-20|**Region: en-IN**||
