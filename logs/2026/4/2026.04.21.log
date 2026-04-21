@@ -1,0 +1,60 @@
+
+Program started at 10:41:21
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:41:21] Start geting CN Bing Wallpaper
+[10:41:21] Successful get url: https://www.bing.com/th?id=OHR.SpringHedgehog_ZH-CN5232922916_UHD.jpg
+[10:41:21] Image saved to img/background.jpg
+[10:41:21] Info saved to README.md
+[10:41:21] Image saved to history/2026/04/21.md
+[10:41:21] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-21 06:41:21.325696-04:00
+[10:41:21] Successful get url: https://www.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg
+[10:41:21] Picture infomations saved to  global/en-US/README.md
+[10:41:21] Picture infomations saved to global/en-US/history/2026/04/22_en-US.md
+[10:41:21] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-21 19:41:21.516556+09:00
+[10:41:21] Successful get url: https://www.bing.com/th?id=OHR.SpringHedgehog_JA-JP0798616014_UHD.jpg
+[10:41:21] Picture infomations saved to  global/ja-JP/README.md
+[10:41:21] Picture infomations saved to global/ja-JP/history/2026/04/21_ja-JP.md
+[10:41:21] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-21 16:11:21.681999+05:30
+[10:41:21] Successful get url: https://www.bing.com/th?id=OHR.SpringHedgehog_EN-IN0774143305_UHD.jpg
+[10:41:21] Picture infomations saved to  global/en-IN/README.md
+[10:41:21] Picture infomations saved to global/en-IN/history/2026/04/21_en-IN.md
+[10:41:21] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-21 07:41:21.931422-03:00
+[10:41:22] Successful get url: https://www.bing.com/th?id=OHR.SpringHedgehog_PT-BR1931762444_UHD.jpg
+[10:41:22] Picture infomations saved to  global/pt-BR/README.md
+[10:41:22] Picture infomations saved to global/pt-BR/history/2026/04/22_pt-BR.md
+[10:41:22] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-21 12:41:22.112346+02:00
+[10:41:22] Successful get url: https://www.bing.com/th?id=OHR.SpringHedgehog_FR-FR8882145439_UHD.jpg
+[10:41:22] Picture infomations saved to  global/fr-FR/README.md
+[10:41:22] Picture infomations saved to global/fr-FR/history/2026/04/21_fr-FR.md
+[10:41:22] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-21 12:41:22.266074+02:00
+[10:41:22] Successful get url: https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_UHD.jpg
+[10:41:22] Picture infomations saved to  global/de-DE/README.md
+[10:41:22] Picture infomations saved to global/de-DE/history/2026/04/21_de-DE.md
+[10:41:22] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-21 06:41:22.430915-04:00
+[10:41:22] Successful get url: https://www.bing.com/th?id=OHR.SpringHedgehog_EN-CA4215490891_UHD.jpg
+[10:41:22] Picture infomations saved to  global/en-CA/README.md
+[10:41:22] Picture infomations saved to global/en-CA/history/2026/04/22_en-CA.md
+[10:41:22] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-21 11:41:22.588354+01:00
+[10:41:22] Successful get url: https://www.bing.com/th?id=OHR.SpringHedgehog_EN-GB3383384255_UHD.jpg
+[10:41:22] Picture infomations saved to  global/en-GB/README.md
+[10:41:22] Picture infomations saved to global/en-GB/history/2026/04/21_en-GB.md
+[10:41:22] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-21 12:41:22.760292+02:00
+[10:41:22] Successful get url: https://www.bing.com/th?id=OHR.BirthdayRome_IT-IT3327641807_UHD.jpg
+[10:41:22] Picture infomations saved to  global/it-IT/README.md
+[10:41:22] Picture infomations saved to global/it-IT/history/2026/04/21_it-IT.md
+[10:41:22] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-21 12:41:22.934045+02:00
+[10:41:23] Successful get url: https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_UHD.jpg
+[10:41:23] Picture infomations saved to  global/es-ES/README.md
+[10:41:23] Picture infomations saved to global/es-ES/history/2026/04/21_es-ES.md
+[10:41:23] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-21 06:41:23.092694-04:00
+[10:41:23] Successful get url: https://www.bing.com/th?id=OHR.SpringHedgehog_FR-CA8968168576_UHD.jpg
+[10:41:23] Picture infomations saved to  global/fr-CA/README.md
+[10:41:23] Picture infomations saved to global/fr-CA/history/2026/04/22_fr-CA.md
+Program exit at 10:41:23
