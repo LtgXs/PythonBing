@@ -6,9 +6,9 @@
 ||*Copyright: European hedgehog, France (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-04-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SpringHedgehog_JA-JP0798616014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringHedgehog_JA-JP0798616014_UHD.jpg)|
-||*Copyright: ハリネズミ, フランス (© Klein & Hubert/Nature Picture Library)*
+|2026-04-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TartuEstonia_JA-JP0849293902_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_JA-JP0849293902_UHD.jpg)|
+||*Copyright: アラムペジャ自然保護区, エストニア (© Sven Zacek/Nature Picture Library)*
 ||
 |||
 |2026-04-21|**Region: en-IN**||
