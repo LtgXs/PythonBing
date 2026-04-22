@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-04-22|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg)|
-||*Copyright: European hedgehog, France (© Klein & Hubert/Nature Picture Library)*
+|2026-04-23|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg)|
+||*Copyright: Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)*
 ||
 |||
 |2026-04-22|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アラムペジャ自然保護区, エストニア (© Sven Zacek/Nature Picture Library)*
 ||
 |||
-|2026-04-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SpringHedgehog_EN-IN0774143305_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringHedgehog_EN-IN0774143305_UHD.jpg)|
-||*Copyright: European hedgehog, France (© Klein & Hubert/Nature Picture Library)*
+|2026-04-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TartuEstonia_EN-IN0962469731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_EN-IN0962469731_UHD.jpg)|
+||*Copyright: Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)*
 ||
 |||
-|2026-04-22|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SpringHedgehog_PT-BR1931762444_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringHedgehog_PT-BR1931762444_UHD.jpg)|
-||*Copyright: Ouriço-terrestre na França (© Klein & Hubert/Nature Picture Library)*
+|2026-04-23|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TartuEstonia_PT-BR2801749923_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_PT-BR2801749923_UHD.jpg)|
+||*Copyright: Reserva Natural Alam-Pedja, Condado de Tartu, Estônia (© Sven Zacek/Nature Picture Library)*
 ||
 |||
-|2026-04-21|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SpringHedgehog_FR-FR8882145439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringHedgehog_FR-FR8882145439_UHD.jpg)|
-||*Copyright: Hérisson d’Europe (© Klein & Hubert/Nature Picture Library)*
+|2026-04-22|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TartuEstonia_FR-FR1798225339_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_FR-FR1798225339_UHD.jpg)|
+||*Copyright: Réserve naturelle d’Alam-Pedja, Tartu, Estonie (© Sven Zacek/Nature Picture Library)*
 ||
 |||
-|2026-04-21|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_UHD.jpg)|
-||*Copyright: Europäischer Igel, Frankreich (© Klein & Hubert/Nature Picture Library)*
+|2026-04-22|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_UHD.jpg)|
+||*Copyright: Naturschutzgebiet Alam‑Pedja, Landkreis Tartu, Estland (© Sven Zacek/Nature Picture Library)*
 ||
 |||
-|2026-04-22|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SpringHedgehog_EN-CA4215490891_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringHedgehog_EN-CA4215490891_UHD.jpg)|
-||*Copyright: European hedgehog, France (© Klein & Hubert/Nature Picture Library)*
+|2026-04-23|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TartuEstonia_EN-CA4441646278_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_EN-CA4441646278_UHD.jpg)|
+||*Copyright: Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)*
 ||
 |||
-|2026-04-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SpringHedgehog_EN-GB3383384255_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringHedgehog_EN-GB3383384255_UHD.jpg)|
-||*Copyright: European hedgehog, France (© Klein & Hubert/Nature Picture Library)*
+|2026-04-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TartuEstonia_EN-GB3828067814_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_EN-GB3828067814_UHD.jpg)|
+||*Copyright: Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)*
 ||
 |||
-|2026-04-21|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BirthdayRome_IT-IT3327641807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BirthdayRome_IT-IT3327641807_UHD.jpg)|
-||*Copyright: Piazza del Campidoglio, Roma, Lazio (© Deejpilot/iStock/Getty Images)*
+|2026-04-22|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TartuEstonia_IT-IT3277915557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_IT-IT3277915557_UHD.jpg)|
+||*Copyright: Riserva naturale di Alam-Pedja, contea di Tartu, Estonia (© Sven Zacek/Nature Picture Library)*
 ||
 |||
-|2026-04-21|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_UHD.jpg)|
-||*Copyright: Erizo europeo, Francia (© Klein & Hubert/Nature Picture Library)*
+|2026-04-22|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TartuEstonia_ES-ES2455762289_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_ES-ES2455762289_UHD.jpg)|
+||*Copyright: Reserva natural de Alam-Pedja, condado de Tartu, Estonia (© Sven Zacek/Nature Picture Library)*
 ||
 |||
-|2026-04-22|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SpringHedgehog_FR-CA8968168576_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringHedgehog_FR-CA8968168576_UHD.jpg)|
-||*Copyright: Hérisson d’Europe, France (© Klein & Hubert/Nature Picture Library)*
+|2026-04-23|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TartuEstonia_FR-CA1772107471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_FR-CA1772107471_UHD.jpg)|
+||*Copyright: Réserve naturelle d’Alam-Pedja, Tartu, Estonie (© Sven Zacek/Nature Picture Library)*
 ||
 |||
 
