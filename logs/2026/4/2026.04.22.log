@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:40:51] Picture infomations saved to  global/fr-CA/README.md
 [10:40:51] Picture infomations saved to global/fr-CA/history/2026/04/23_fr-CA.md
 Program exit at 10:40:51
+
+Program started at 16:52:02
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:52:02] Start geting CN Bing Wallpaper
+[16:52:02] Successful get url: https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg
+[16:52:03] Image saved to img/background.jpg
+[16:52:03] Info saved to README.md
+[16:52:03] Image saved to history/2026/04/23.md
+[16:52:03] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-22 12:52:03.023003-04:00
+[16:52:03] Successful get url: https://www.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg
+[16:52:03] Picture infomations saved to  global/en-US/README.md
+[16:52:03] Picture infomations saved to global/en-US/history/2026/04/23_en-US.md
+[16:52:03] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-23 01:52:03.464300+09:00
+[16:52:03] Successful get url: https://www.bing.com/th?id=OHR.HathawayCottage_JA-JP0891184783_UHD.jpg
+[16:52:03] Picture infomations saved to  global/ja-JP/README.md
+[16:52:03] Picture infomations saved to global/ja-JP/history/2026/04/23_ja-JP.md
+[16:52:03] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-22 22:22:03.889076+05:30
+[16:52:03] Successful get url: https://www.bing.com/th?id=OHR.TartuEstonia_EN-IN0962469731_UHD.jpg
+[16:52:04] Picture infomations saved to  global/en-IN/README.md
+[16:52:04] Picture infomations saved to global/en-IN/history/2026/04/22_en-IN.md
+[16:52:04] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-22 13:52:04.325472-03:00
+[16:52:04] Successful get url: https://www.bing.com/th?id=OHR.TartuEstonia_PT-BR2801749923_UHD.jpg
+[16:52:04] Picture infomations saved to  global/pt-BR/README.md
+[16:52:04] Picture infomations saved to global/pt-BR/history/2026/04/23_pt-BR.md
+[16:52:04] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-22 18:52:04.736194+02:00
+[16:52:04] Successful get url: https://www.bing.com/th?id=OHR.TartuEstonia_FR-FR1798225339_UHD.jpg
+[16:52:05] Picture infomations saved to  global/fr-FR/README.md
+[16:52:05] Picture infomations saved to global/fr-FR/history/2026/04/22_fr-FR.md
+[16:52:05] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-22 18:52:05.222405+02:00
+[16:52:05] Successful get url: https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_UHD.jpg
+[16:52:05] Picture infomations saved to  global/de-DE/README.md
+[16:52:05] Picture infomations saved to global/de-DE/history/2026/04/22_de-DE.md
+[16:52:05] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-22 12:52:05.637919-04:00
+[16:52:05] Successful get url: https://www.bing.com/th?id=OHR.TartuEstonia_EN-CA4441646278_UHD.jpg
+[16:52:06] Picture infomations saved to  global/en-CA/README.md
+[16:52:06] Picture infomations saved to global/en-CA/history/2026/04/23_en-CA.md
+[16:52:06] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-22 17:52:06.024498+01:00
+[16:52:06] Successful get url: https://www.bing.com/th?id=OHR.TartuEstonia_EN-GB3828067814_UHD.jpg
+[16:52:06] Picture infomations saved to  global/en-GB/README.md
+[16:52:06] Picture infomations saved to global/en-GB/history/2026/04/22_en-GB.md
+[16:52:06] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-22 18:52:06.442545+02:00
+[16:52:06] Successful get url: https://www.bing.com/th?id=OHR.TartuEstonia_IT-IT3277915557_UHD.jpg
+[16:52:06] Picture infomations saved to  global/it-IT/README.md
+[16:52:06] Picture infomations saved to global/it-IT/history/2026/04/22_it-IT.md
+[16:52:06] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-22 18:52:06.899838+02:00
+[16:52:06] Successful get url: https://www.bing.com/th?id=OHR.TartuEstonia_ES-ES2455762289_UHD.jpg
+[16:52:07] Picture infomations saved to  global/es-ES/README.md
+[16:52:07] Picture infomations saved to global/es-ES/history/2026/04/22_es-ES.md
+[16:52:07] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-22 12:52:07.369558-04:00
+[16:52:07] Successful get url: https://www.bing.com/th?id=OHR.TartuEstonia_FR-CA1772107471_UHD.jpg
+[16:52:07] Picture infomations saved to  global/fr-CA/README.md
+[16:52:07] Picture infomations saved to global/fr-CA/history/2026/04/23_fr-CA.md
+Program exit at 16:52:07
