@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-04-23|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg)|
-||*Copyright: Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)*
+|2026-04-24|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg)|
+||*Copyright: Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)*
 ||
 |||
 |2026-04-23|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アン・ハサウェイのコテージ, イングランド (© David Steele/Shutterstock)*
 ||
 |||
-|2026-04-22|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TartuEstonia_EN-IN0962469731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_EN-IN0962469731_UHD.jpg)|
-||*Copyright: Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)*
+|2026-04-23|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-IN1263350288_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_EN-IN1263350288_UHD.jpg)|
+||*Copyright: Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)*
 ||
 |||
-|2026-04-23|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TartuEstonia_PT-BR2801749923_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_PT-BR2801749923_UHD.jpg)|
-||*Copyright: Reserva Natural Alam-Pedja, Condado de Tartu, Estônia (© Sven Zacek/Nature Picture Library)*
+|2026-04-24|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HathawayCottage_PT-BR3455628548_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_PT-BR3455628548_UHD.jpg)|
+||*Copyright: Chalé de Anne Hathaway, Stratford-upon-Avon, Inglaterra (© David Steele/Shutterstock)*
 ||
 |||
-|2026-04-22|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TartuEstonia_FR-FR1798225339_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_FR-FR1798225339_UHD.jpg)|
-||*Copyright: Réserve naturelle d’Alam-Pedja, Tartu, Estonie (© Sven Zacek/Nature Picture Library)*
+|2026-04-23|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HathawayCottage_FR-FR2526098713_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_FR-FR2526098713_UHD.jpg)|
+||*Copyright: Cottage d’Anne Hathaway, Stratford-upon-Avon, Angleterre (© David Steele/Shutterstock)*
 ||
 |||
-|2026-04-22|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_UHD.jpg)|
-||*Copyright: Naturschutzgebiet Alam‑Pedja, Landkreis Tartu, Estland (© Sven Zacek/Nature Picture Library)*
+|2026-04-23|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.HathawayCottage_DE-DE1846813831_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_DE-DE1846813831_UHD.jpg)|
+||*Copyright: Anne Hathaway’s Cottage, Stratford‑upon‑Avon, England (© David Steele/Shutterstock)*
 ||
 |||
-|2026-04-23|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TartuEstonia_EN-CA4441646278_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_EN-CA4441646278_UHD.jpg)|
-||*Copyright: Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)*
+|2026-04-24|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-CA5163724238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_EN-CA5163724238_UHD.jpg)|
+||*Copyright: Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)*
 ||
 |||
-|2026-04-22|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TartuEstonia_EN-GB3828067814_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_EN-GB3828067814_UHD.jpg)|
-||*Copyright: Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)*
+|2026-04-23|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.StGeorgeDay2026_EN-GB4338835487_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StGeorgeDay2026_EN-GB4338835487_UHD.jpg)|
+||*Copyright: Windsor Castle, Berkshire, England (© Mistervlad/Shutterstock)*
 ||
 |||
-|2026-04-22|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TartuEstonia_IT-IT3277915557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_IT-IT3277915557_UHD.jpg)|
-||*Copyright: Riserva naturale di Alam-Pedja, contea di Tartu, Estonia (© Sven Zacek/Nature Picture Library)*
+|2026-04-23|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HathawayCottage_IT-IT3206612879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_IT-IT3206612879_UHD.jpg)|
+||*Copyright: Cottage di Anne Hathaway, Stratford-upon-Avon, Inghilterra (© David Steele/Shutterstock)*
 ||
 |||
-|2026-04-22|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TartuEstonia_ES-ES2455762289_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_ES-ES2455762289_UHD.jpg)|
-||*Copyright: Reserva natural de Alam-Pedja, condado de Tartu, Estonia (© Sven Zacek/Nature Picture Library)*
+|2026-04-23|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SantJordiBook_ES-ES2987257129_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantJordiBook_ES-ES2987257129_UHD.jpg)|
+||*Copyright: Rosa roja dentro de un libro abierto (© Albert Cabezas/Getty Images)*
 ||
 |||
-|2026-04-23|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TartuEstonia_FR-CA1772107471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TartuEstonia_FR-CA1772107471_UHD.jpg)|
-||*Copyright: Réserve naturelle d’Alam-Pedja, Tartu, Estonie (© Sven Zacek/Nature Picture Library)*
+|2026-04-24|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HathawayCottage_FR-CA3516650113_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_FR-CA3516650113_UHD.jpg)|
+||*Copyright: Cottage d’Anne Hathaway, Stratford-upon-Avon, Angleterre (© David Steele/Shutterstock)*
 ||
 |||
 
