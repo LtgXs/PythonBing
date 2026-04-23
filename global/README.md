@@ -6,9 +6,9 @@
 ||*Copyright: Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)*
 ||
 |||
-|2026-04-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HathawayCottage_JA-JP0891184783_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_JA-JP0891184783_UHD.jpg)|
-||*Copyright: アン・ハサウェイのコテージ, イングランド (© David Steele/Shutterstock)*
+|2026-04-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SlashPine_JA-JP0980166238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SlashPine_JA-JP0980166238_UHD.jpg)|
+||*Copyright: エバーグレーズ国立公園, 米国 フロリダ州 (© Mary Liz Austin/Alamy)*
 ||
 |||
 |2026-04-23|**Region: en-IN**||
