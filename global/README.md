@@ -6,9 +6,9 @@
 ||*Copyright: Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)*
 ||
 |||
-|2026-04-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SlashPine_JA-JP0980166238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SlashPine_JA-JP0980166238_UHD.jpg)|
-||*Copyright: エバーグレーズ国立公園, 米国 フロリダ州 (© Mary Liz Austin/Alamy)*
+|2026-04-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GalapagosPenguins_JA-JP8635536385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosPenguins_JA-JP8635536385_UHD.jpg)|
+||*Copyright: ガラパゴスペンギン, エクアドル (© Henley Spiers/Nature Picture Library)*
 ||
 |||
 |2026-04-24|**Region: en-IN**||
