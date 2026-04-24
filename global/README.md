@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-04-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg)|
-||*Copyright: Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)*
+|2026-04-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg)|
+||*Copyright: Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)*
 ||
 |||
 |2026-04-24|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: エバーグレーズ国立公園, 米国 フロリダ州 (© Mary Liz Austin/Alamy)*
 ||
 |||
-|2026-04-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-IN1263350288_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_EN-IN1263350288_UHD.jpg)|
-||*Copyright: Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)*
+|2026-04-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SlashPine_EN-IN1738190990_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SlashPine_EN-IN1738190990_UHD.jpg)|
+||*Copyright: Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida, United States (© Mary Liz Austin/Alamy)*
 ||
 |||
-|2026-04-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.HathawayCottage_PT-BR3455628548_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_PT-BR3455628548_UHD.jpg)|
-||*Copyright: Chalé de Anne Hathaway, Stratford-upon-Avon, Inglaterra (© David Steele/Shutterstock)*
+|2026-04-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TranBA_PT-BR9169558101_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TranBA_PT-BR9169558101_UHD.jpg)|
+||*Copyright: Praia do Espelho, Porto Seguro, Bahia (© Marcelo Nacinovic/Getty Images)*
 ||
 |||
-|2026-04-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HathawayCottage_FR-FR2526098713_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_FR-FR2526098713_UHD.jpg)|
-||*Copyright: Cottage d’Anne Hathaway, Stratford-upon-Avon, Angleterre (© David Steele/Shutterstock)*
+|2026-04-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.FlamingoAiguesMortes_FR-FR6537694195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FlamingoAiguesMortes_FR-FR6537694195_UHD.jpg)|
+||*Copyright: Flamant rose, Aigues-Mortes (© EyeEm Mobile GmbH/Getty Images Plus)*
 ||
 |||
-|2026-04-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.HathawayCottage_DE-DE1846813831_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_DE-DE1846813831_UHD.jpg)|
-||*Copyright: Anne Hathaway’s Cottage, Stratford‑upon‑Avon, England (© David Steele/Shutterstock)*
+|2026-04-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GalapagosPenguins_DE-DE2195733852_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosPenguins_DE-DE2195733852_UHD.jpg)|
+||*Copyright: Galápagos‑Pinguine beim Schwimmen, Galapagosinseln, Ecuador (© Henley Spiers/Nature Picture Library)*
 ||
 |||
-|2026-04-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HathawayCottage_EN-CA5163724238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_EN-CA5163724238_UHD.jpg)|
-||*Copyright: Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)*
+|2026-04-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SlashPine_EN-CA5488126378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SlashPine_EN-CA5488126378_UHD.jpg)|
+||*Copyright: Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida, United States (© Mary Liz Austin/Alamy)*
 ||
 |||
-|2026-04-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.StGeorgeDay2026_EN-GB4338835487_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StGeorgeDay2026_EN-GB4338835487_UHD.jpg)|
-||*Copyright: Windsor Castle, Berkshire, England (© Mistervlad/Shutterstock)*
+|2026-04-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SlashPine_EN-GB4733846763_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SlashPine_EN-GB4733846763_UHD.jpg)|
+||*Copyright: Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida, United States (© Mary Liz Austin/Alamy)*
 ||
 |||
-|2026-04-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.HathawayCottage_IT-IT3206612879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_IT-IT3206612879_UHD.jpg)|
-||*Copyright: Cottage di Anne Hathaway, Stratford-upon-Avon, Inghilterra (© David Steele/Shutterstock)*
+|2026-04-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SlashPine_IT-IT3134964767_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SlashPine_IT-IT3134964767_UHD.jpg)|
+||*Copyright: Pini nel parco nazionale delle Everglades, Florida, USA (© Mary Liz Austin/Alamy)*
 ||
 |||
-|2026-04-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SantJordiBook_ES-ES2987257129_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantJordiBook_ES-ES2987257129_UHD.jpg)|
-||*Copyright: Rosa roja dentro de un libro abierto (© Albert Cabezas/Getty Images)*
+|2026-04-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SlashPine_ES-ES3586366517_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SlashPine_ES-ES3586366517_UHD.jpg)|
+||*Copyright: Bosque de pinares, Parque Nacional de los Everglades, Florida, EE. UU. (© Mary Liz Austin/Alamy)*
 ||
 |||
-|2026-04-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HathawayCottage_FR-CA3516650113_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HathawayCottage_FR-CA3516650113_UHD.jpg)|
-||*Copyright: Cottage d’Anne Hathaway, Stratford-upon-Avon, Angleterre (© David Steele/Shutterstock)*
+|2026-04-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SlashPine_FR-CA2267415174_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SlashPine_FR-CA2267415174_UHD.jpg)|
+||*Copyright: Pins à encens et palmiers de Floride, Parc national des Everglades, Floride, États-Unis (© Mary Liz Austin/Alamy)*
 ||
 |||
 

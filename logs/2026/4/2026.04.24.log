@@ -1,0 +1,60 @@
+
+Program started at 10:42:58
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:42:58] Start geting CN Bing Wallpaper
+[10:42:58] Successful get url: https://www.bing.com/th?id=OHR.SlashPine_ZH-CN5629388290_UHD.jpg
+[10:42:58] Image saved to img/background.jpg
+[10:42:58] Info saved to README.md
+[10:42:58] Image saved to history/2026/04/24.md
+[10:42:58] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-24 06:42:58.449113-04:00
+[10:42:58] Successful get url: https://www.bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg
+[10:42:58] Picture infomations saved to  global/en-US/README.md
+[10:42:58] Picture infomations saved to global/en-US/history/2026/04/25_en-US.md
+[10:42:58] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-24 19:42:58.575403+09:00
+[10:42:58] Successful get url: https://www.bing.com/th?id=OHR.SlashPine_JA-JP0980166238_UHD.jpg
+[10:42:58] Picture infomations saved to  global/ja-JP/README.md
+[10:42:58] Picture infomations saved to global/ja-JP/history/2026/04/24_ja-JP.md
+[10:42:58] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-24 16:12:58.697795+05:30
+[10:42:58] Successful get url: https://www.bing.com/th?id=OHR.SlashPine_EN-IN1738190990_UHD.jpg
+[10:42:58] Picture infomations saved to  global/en-IN/README.md
+[10:42:58] Picture infomations saved to global/en-IN/history/2026/04/24_en-IN.md
+[10:42:58] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-24 07:42:58.823431-03:00
+[10:42:58] Successful get url: https://www.bing.com/th?id=OHR.TranBA_PT-BR9169558101_UHD.jpg
+[10:42:58] Picture infomations saved to  global/pt-BR/README.md
+[10:42:58] Picture infomations saved to global/pt-BR/history/2026/04/25_pt-BR.md
+[10:42:58] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-24 12:42:58.944867+02:00
+[10:42:59] Successful get url: https://www.bing.com/th?id=OHR.FlamingoAiguesMortes_FR-FR6537694195_UHD.jpg
+[10:42:59] Picture infomations saved to  global/fr-FR/README.md
+[10:42:59] Picture infomations saved to global/fr-FR/history/2026/04/24_fr-FR.md
+[10:42:59] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-24 12:42:59.072860+02:00
+[10:42:59] Successful get url: https://www.bing.com/th?id=OHR.GalapagosPenguins_DE-DE2195733852_UHD.jpg
+[10:42:59] Picture infomations saved to  global/de-DE/README.md
+[10:42:59] Picture infomations saved to global/de-DE/history/2026/04/24_de-DE.md
+[10:42:59] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-24 06:42:59.190413-04:00
+[10:42:59] Successful get url: https://www.bing.com/th?id=OHR.SlashPine_EN-CA5488126378_UHD.jpg
+[10:42:59] Picture infomations saved to  global/en-CA/README.md
+[10:42:59] Picture infomations saved to global/en-CA/history/2026/04/25_en-CA.md
+[10:42:59] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-24 11:42:59.304932+01:00
+[10:42:59] Successful get url: https://www.bing.com/th?id=OHR.SlashPine_EN-GB4733846763_UHD.jpg
+[10:42:59] Picture infomations saved to  global/en-GB/README.md
+[10:42:59] Picture infomations saved to global/en-GB/history/2026/04/24_en-GB.md
+[10:42:59] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-24 12:42:59.429441+02:00
+[10:42:59] Successful get url: https://www.bing.com/th?id=OHR.SlashPine_IT-IT3134964767_UHD.jpg
+[10:42:59] Picture infomations saved to  global/it-IT/README.md
+[10:42:59] Picture infomations saved to global/it-IT/history/2026/04/24_it-IT.md
+[10:42:59] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-24 12:42:59.568094+02:00
+[10:42:59] Successful get url: https://www.bing.com/th?id=OHR.SlashPine_ES-ES3586366517_UHD.jpg
+[10:42:59] Picture infomations saved to  global/es-ES/README.md
+[10:42:59] Picture infomations saved to global/es-ES/history/2026/04/24_es-ES.md
+[10:42:59] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-24 06:42:59.779669-04:00
+[10:42:59] Successful get url: https://www.bing.com/th?id=OHR.SlashPine_FR-CA2267415174_UHD.jpg
+[10:42:59] Picture infomations saved to  global/fr-CA/README.md
+[10:42:59] Picture infomations saved to global/fr-CA/history/2026/04/25_fr-CA.md
+Program exit at 10:42:59
