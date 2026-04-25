@@ -6,9 +6,9 @@
 ||*Copyright: Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)*
 ||
 |||
-|2026-04-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GalapagosPenguins_JA-JP8635536385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosPenguins_JA-JP8635536385_UHD.jpg)|
-||*Copyright: ガラパゴスペンギン, エクアドル (© Henley Spiers/Nature Picture Library)*
+|2026-04-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AppleBlossoms_JA-JP1155653651_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AppleBlossoms_JA-JP1155653651_UHD.jpg)|
+||*Copyright: リンゴの花, 米国 カリフォルニア州 (© Mimi Ditchie Photography/Getty Images)*
 ||
 |||
 |2026-04-25|**Region: en-IN**||
