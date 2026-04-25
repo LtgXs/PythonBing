@@ -1,0 +1,60 @@
+
+Program started at 10:02:42
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:02:42] Start geting CN Bing Wallpaper
+[10:02:42] Successful get url: https://www.bing.com/th?id=OHR.GalapagosPenguins_ZH-CN5791845489_UHD.jpg
+[10:02:42] Image saved to img/background.jpg
+[10:02:42] Info saved to README.md
+[10:02:42] Image saved to history/2026/04/25.md
+[10:02:42] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-25 06:02:42.253548-04:00
+[10:02:42] Successful get url: https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg
+[10:02:42] Picture infomations saved to  global/en-US/README.md
+[10:02:42] Picture infomations saved to global/en-US/history/2026/04/26_en-US.md
+[10:02:42] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-25 19:02:42.701083+09:00
+[10:02:42] Successful get url: https://www.bing.com/th?id=OHR.GalapagosPenguins_JA-JP8635536385_UHD.jpg
+[10:02:42] Picture infomations saved to  global/ja-JP/README.md
+[10:02:42] Picture infomations saved to global/ja-JP/history/2026/04/25_ja-JP.md
+[10:02:42] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-25 15:32:42.844461+05:30
+[10:02:42] Successful get url: https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-IN2047471212_UHD.jpg
+[10:02:42] Picture infomations saved to  global/en-IN/README.md
+[10:02:42] Picture infomations saved to global/en-IN/history/2026/04/25_en-IN.md
+[10:02:42] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-25 07:02:43.007568-03:00
+[10:02:43] Successful get url: https://www.bing.com/th?id=OHR.GalapagosPenguins_PT-BR4013485362_UHD.jpg
+[10:02:43] Picture infomations saved to  global/pt-BR/README.md
+[10:02:43] Picture infomations saved to global/pt-BR/history/2026/04/26_pt-BR.md
+[10:02:43] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-25 12:02:43.193275+02:00
+[10:02:43] Successful get url: https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_UHD.jpg
+[10:02:43] Picture infomations saved to  global/fr-FR/README.md
+[10:02:43] Picture infomations saved to global/fr-FR/history/2026/04/25_fr-FR.md
+[10:02:43] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-25 12:02:43.350903+02:00
+[10:02:43] Successful get url: https://www.bing.com/th?id=OHR.SlashPine_DE-DE2654946647_UHD.jpg
+[10:02:43] Picture infomations saved to  global/de-DE/README.md
+[10:02:43] Picture infomations saved to global/de-DE/history/2026/04/25_de-DE.md
+[10:02:43] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-25 06:02:43.652156-04:00
+[10:02:43] Successful get url: https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-CA5860211884_UHD.jpg
+[10:02:43] Picture infomations saved to  global/en-CA/README.md
+[10:02:43] Picture infomations saved to global/en-CA/history/2026/04/26_en-CA.md
+[10:02:43] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-25 11:02:43.793159+01:00
+[10:02:43] Successful get url: https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-GB4960104210_UHD.jpg
+[10:02:43] Picture infomations saved to  global/en-GB/README.md
+[10:02:43] Picture infomations saved to global/en-GB/history/2026/04/25_en-GB.md
+[10:02:43] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-25 12:02:43.922243+02:00
+[10:02:43] Successful get url: https://www.bing.com/th?id=OHR.GalapagosPenguins_IT-IT3075883886_UHD.jpg
+[10:02:44] Picture infomations saved to  global/it-IT/README.md
+[10:02:44] Picture infomations saved to global/it-IT/history/2026/04/25_it-IT.md
+[10:02:44] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-25 12:02:44.044097+02:00
+[10:02:44] Successful get url: https://www.bing.com/th?id=OHR.GalapagosPenguins_ES-ES3782706188_UHD.jpg
+[10:02:44] Picture infomations saved to  global/es-ES/README.md
+[10:02:44] Picture infomations saved to global/es-ES/history/2026/04/25_es-ES.md
+[10:02:44] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-25 06:02:44.176052-04:00
+[10:02:44] Successful get url: https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-CA4365083934_UHD.jpg
+[10:02:44] Picture infomations saved to  global/fr-CA/README.md
+[10:02:44] Picture infomations saved to global/fr-CA/history/2026/04/26_fr-CA.md
+Program exit at 10:02:44
