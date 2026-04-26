@@ -6,9 +6,9 @@
 ||*Copyright: Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)*
 ||
 |||
-|2026-04-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AppleBlossoms_JA-JP1155653651_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AppleBlossoms_JA-JP1155653651_UHD.jpg)|
-||*Copyright: リンゴの花, 米国 カリフォルニア州 (© Mimi Ditchie Photography/Getty Images)*
+|2026-04-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MilanGalleria_JA-JP1271955440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilanGalleria_JA-JP1271955440_UHD.jpg)|
+||*Copyright: ヴィットーリオ・エマヌエーレ 2 世のガッレリア, イタリア (© PhillipMinnis/Getty Images)*
 ||
 |||
 |2026-04-26|**Region: en-IN**||
