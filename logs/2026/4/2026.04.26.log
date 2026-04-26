@@ -1,0 +1,60 @@
+
+Program started at 10:04:38
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:04:38] Start geting CN Bing Wallpaper
+[10:04:38] Successful get url: https://www.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_UHD.jpg
+[10:04:38] Image saved to img/background.jpg
+[10:04:38] Info saved to README.md
+[10:04:38] Image saved to history/2026/04/26.md
+[10:04:38] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-26 06:04:38.801872-04:00
+[10:04:38] Successful get url: https://www.bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg
+[10:04:38] Picture infomations saved to  global/en-US/README.md
+[10:04:38] Picture infomations saved to global/en-US/history/2026/04/27_en-US.md
+[10:04:38] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-26 19:04:38.962099+09:00
+[10:04:39] Successful get url: https://www.bing.com/th?id=OHR.AppleBlossoms_JA-JP1155653651_UHD.jpg
+[10:04:39] Picture infomations saved to  global/ja-JP/README.md
+[10:04:39] Picture infomations saved to global/ja-JP/history/2026/04/26_ja-JP.md
+[10:04:39] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-26 15:34:39.118566+05:30
+[10:04:39] Successful get url: https://www.bing.com/th?id=OHR.AppleBlossoms_EN-IN2309236905_UHD.jpg
+[10:04:39] Picture infomations saved to  global/en-IN/README.md
+[10:04:39] Picture infomations saved to global/en-IN/history/2026/04/26_en-IN.md
+[10:04:39] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-26 07:04:39.356068-03:00
+[10:04:39] Successful get url: https://www.bing.com/th?id=OHR.AppleBlossoms_PT-BR6471473214_UHD.jpg
+[10:04:39] Picture infomations saved to  global/pt-BR/README.md
+[10:04:39] Picture infomations saved to global/pt-BR/history/2026/04/27_pt-BR.md
+[10:04:39] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-26 12:04:39.549434+02:00
+[10:04:39] Successful get url: https://www.bing.com/th?id=OHR.AppleBlossoms_FR-FR7054712804_UHD.jpg
+[10:04:39] Picture infomations saved to  global/fr-FR/README.md
+[10:04:39] Picture infomations saved to global/fr-FR/history/2026/04/26_fr-FR.md
+[10:04:39] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-26 12:04:39.895742+02:00
+[10:04:39] Successful get url: https://www.bing.com/th?id=OHR.AppleBlossoms_DE-DE5754939117_UHD.jpg
+[10:04:40] Picture infomations saved to  global/de-DE/README.md
+[10:04:40] Picture infomations saved to global/de-DE/history/2026/04/26_de-DE.md
+[10:04:40] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-26 06:04:40.067209-04:00
+[10:04:40] Successful get url: https://www.bing.com/th?id=OHR.AppleBlossoms_EN-CA6292160620_UHD.jpg
+[10:04:40] Picture infomations saved to  global/en-CA/README.md
+[10:04:40] Picture infomations saved to global/en-CA/history/2026/04/27_en-CA.md
+[10:04:40] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-26 11:04:40.295396+01:00
+[10:04:40] Successful get url: https://www.bing.com/th?id=OHR.AppleBlossoms_EN-GB5436574714_UHD.jpg
+[10:04:40] Picture infomations saved to  global/en-GB/README.md
+[10:04:40] Picture infomations saved to global/en-GB/history/2026/04/26_en-GB.md
+[10:04:40] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-26 12:04:40.467837+02:00
+[10:04:40] Successful get url: https://www.bing.com/th?id=OHR.AppleBlossoms_IT-IT2955443064_UHD.jpg
+[10:04:40] Picture infomations saved to  global/it-IT/README.md
+[10:04:40] Picture infomations saved to global/it-IT/history/2026/04/26_it-IT.md
+[10:04:40] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-26 12:04:40.621470+02:00
+[10:04:40] Successful get url: https://www.bing.com/th?id=OHR.AppleBlossoms_ES-ES9455974102_UHD.jpg
+[10:04:40] Picture infomations saved to  global/es-ES/README.md
+[10:04:40] Picture infomations saved to global/es-ES/history/2026/04/26_es-ES.md
+[10:04:40] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-26 06:04:40.727404-04:00
+[10:04:40] Successful get url: https://www.bing.com/th?id=OHR.AppleBlossoms_FR-CA4871063230_UHD.jpg
+[10:04:40] Picture infomations saved to  global/fr-CA/README.md
+[10:04:40] Picture infomations saved to global/fr-CA/history/2026/04/27_fr-CA.md
+Program exit at 10:04:40
