@@ -1,0 +1,60 @@
+
+Program started at 11:16:01
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:16:01] Start geting CN Bing Wallpaper
+[11:16:01] Successful get url: https://www.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_UHD.jpg
+[11:16:01] Image saved to img/background.jpg
+[11:16:01] Info saved to README.md
+[11:16:01] Image saved to history/2026/04/27.md
+[11:16:01] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-27 07:16:01.993692-04:00
+[11:16:02] Successful get url: https://www.bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg
+[11:16:02] Picture infomations saved to  global/en-US/README.md
+[11:16:02] Picture infomations saved to global/en-US/history/2026/04/28_en-US.md
+[11:16:02] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-27 20:16:02.153285+09:00
+[11:16:02] Successful get url: https://www.bing.com/th?id=OHR.MilanGalleria_JA-JP1271955440_UHD.jpg
+[11:16:02] Picture infomations saved to  global/ja-JP/README.md
+[11:16:02] Picture infomations saved to global/ja-JP/history/2026/04/27_ja-JP.md
+[11:16:02] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-27 16:46:02.318074+05:30
+[11:16:02] Successful get url: https://www.bing.com/th?id=OHR.MilanGalleria_EN-IN2538393019_UHD.jpg
+[11:16:02] Picture infomations saved to  global/en-IN/README.md
+[11:16:02] Picture infomations saved to global/en-IN/history/2026/04/27_en-IN.md
+[11:16:02] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-27 08:16:02.480099-03:00
+[11:16:02] Successful get url: https://www.bing.com/th?id=OHR.MilanGalleria_PT-BR7355456303_UHD.jpg
+[11:16:02] Picture infomations saved to  global/pt-BR/README.md
+[11:16:02] Picture infomations saved to global/pt-BR/history/2026/04/28_pt-BR.md
+[11:16:02] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-27 13:16:02.627016+02:00
+[11:16:02] Successful get url: https://www.bing.com/th?id=OHR.MilanGalleria_FR-FR0320459768_UHD.jpg
+[11:16:02] Picture infomations saved to  global/fr-FR/README.md
+[11:16:02] Picture infomations saved to global/fr-FR/history/2026/04/27_fr-FR.md
+[11:16:02] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-27 13:16:02.777483+02:00
+[11:16:02] Successful get url: https://www.bing.com/th?id=OHR.MilanGalleria_DE-DE5963996541_UHD.jpg
+[11:16:02] Picture infomations saved to  global/de-DE/README.md
+[11:16:02] Picture infomations saved to global/de-DE/history/2026/04/27_de-DE.md
+[11:16:02] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-27 07:16:02.925442-04:00
+[11:16:03] Successful get url: https://www.bing.com/th?id=OHR.MilanGalleria_EN-CA9394952547_UHD.jpg
+[11:16:03] Picture infomations saved to  global/en-CA/README.md
+[11:16:03] Picture infomations saved to global/en-CA/history/2026/04/28_en-CA.md
+[11:16:03] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-27 12:16:03.088400+01:00
+[11:16:03] Successful get url: https://www.bing.com/th?id=OHR.MilanGalleria_EN-GB6160485704_UHD.jpg
+[11:16:03] Picture infomations saved to  global/en-GB/README.md
+[11:16:03] Picture infomations saved to global/en-GB/history/2026/04/27_en-GB.md
+[11:16:03] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-27 13:16:03.240486+02:00
+[11:16:03] Successful get url: https://www.bing.com/th?id=OHR.MilanGalleria_IT-IT4692336131_UHD.jpg
+[11:16:03] Picture infomations saved to  global/it-IT/README.md
+[11:16:03] Picture infomations saved to global/it-IT/history/2026/04/27_it-IT.md
+[11:16:03] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-27 13:16:03.382472+02:00
+[11:16:03] Successful get url: https://www.bing.com/th?id=OHR.MilanGalleria_ES-ES0426841525_UHD.jpg
+[11:16:03] Picture infomations saved to  global/es-ES/README.md
+[11:16:03] Picture infomations saved to global/es-ES/history/2026/04/27_es-ES.md
+[11:16:03] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-27 07:16:03.523155-04:00
+[11:16:03] Successful get url: https://www.bing.com/th?id=OHR.MilanGalleria_FR-CA5718331762_UHD.jpg
+[11:16:03] Picture infomations saved to  global/fr-CA/README.md
+[11:16:03] Picture infomations saved to global/fr-CA/history/2026/04/28_fr-CA.md
+Program exit at 11:16:03
