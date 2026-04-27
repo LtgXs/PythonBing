@@ -6,9 +6,9 @@
 ||*Copyright: The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)*
 ||
 |||
-|2026-04-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MilanGalleria_JA-JP1271955440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MilanGalleria_JA-JP1271955440_UHD.jpg)|
-||*Copyright: ヴィットーリオ・エマヌエーレ 2 世のガッレリア, イタリア (© PhillipMinnis/Getty Images)*
+|2026-04-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AndeanBear_JA-JP1349028050_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AndeanBear_JA-JP1349028050_UHD.jpg)|
+||*Copyright: メガネグマ, エクアドル (© Andy Rouse/Nature Picture Library)*
 ||
 |||
 |2026-04-27|**Region: en-IN**||
