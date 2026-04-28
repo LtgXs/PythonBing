@@ -6,9 +6,9 @@
 ||*Copyright: Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)*
 ||
 |||
-|2026-04-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AndeanBear_JA-JP1349028050_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AndeanBear_JA-JP1349028050_UHD.jpg)|
-||*Copyright: メガネグマ, エクアドル (© Andy Rouse/Nature Picture Library)*
+|2026-04-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_UHD.jpg)|
+||*Copyright: 国会議事堂, 東京都 (© Hiroshi Watanabe/Getty images)*
 ||
 |||
 |2026-04-28|**Region: en-IN**||
