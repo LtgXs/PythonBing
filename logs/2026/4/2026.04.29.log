@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [11:03:07] Picture infomations saved to  global/fr-CA/README.md
 [11:03:07] Picture infomations saved to global/fr-CA/history/2026/04/30_fr-CA.md
 Program exit at 11:03:07
+
+Program started at 17:20:57
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:20:57] Start geting CN Bing Wallpaper
+[17:20:58] Successful get url: https://www.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg
+[17:20:58] Image saved to img/background.jpg
+[17:20:58] Info saved to README.md
+[17:20:58] Image saved to history/2026/04/30.md
+[17:20:58] Start geting global Bing Wallpaper, region=en-US, local time is 2026-04-29 13:20:58.390533-04:00
+[17:20:58] Successful get url: https://www.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg
+[17:20:58] Picture infomations saved to  global/en-US/README.md
+[17:20:58] Picture infomations saved to global/en-US/history/2026/04/30_en-US.md
+[17:20:58] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-04-30 02:20:58.833542+09:00
+[17:20:58] Successful get url: https://www.bing.com/th?id=OHR.DutchTulips_JA-JP3809671349_UHD.jpg
+[17:20:59] Picture infomations saved to  global/ja-JP/README.md
+[17:20:59] Picture infomations saved to global/ja-JP/history/2026/04/30_ja-JP.md
+[17:20:59] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-04-29 22:50:59.289706+05:30
+[17:20:59] Successful get url: https://www.bing.com/th?id=OHR.BelemTowerBank_EN-IN2907801378_UHD.jpg
+[17:20:59] Picture infomations saved to  global/en-IN/README.md
+[17:20:59] Picture infomations saved to global/en-IN/history/2026/04/29_en-IN.md
+[17:20:59] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-04-29 14:20:59.575700-03:00
+[17:20:59] Successful get url: https://www.bing.com/th?id=OHR.BelemTowerBank_PT-BR9115323805_UHD.jpg
+[17:20:59] Picture infomations saved to  global/pt-BR/README.md
+[17:20:59] Picture infomations saved to global/pt-BR/history/2026/04/30_pt-BR.md
+[17:20:59] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-04-29 19:20:59.856780+02:00
+[17:20:59] Successful get url: https://www.bing.com/th?id=OHR.BelemTowerBank_FR-FR7863616687_UHD.jpg
+[17:21:00] Picture infomations saved to  global/fr-FR/README.md
+[17:21:00] Picture infomations saved to global/fr-FR/history/2026/04/29_fr-FR.md
+[17:21:00] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-04-29 19:21:00.295980+02:00
+[17:21:00] Successful get url: https://www.bing.com/th?id=OHR.BelemTowerBank_DE-DE6367494619_UHD.jpg
+[17:21:00] Picture infomations saved to  global/de-DE/README.md
+[17:21:00] Picture infomations saved to global/de-DE/history/2026/04/29_de-DE.md
+[17:21:00] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-04-29 13:21:00.770536-04:00
+[17:21:00] Successful get url: https://www.bing.com/th?id=OHR.BelemTowerBank_EN-CA6523750356_UHD.jpg
+[17:21:01] Picture infomations saved to  global/en-CA/README.md
+[17:21:01] Picture infomations saved to global/en-CA/history/2026/04/30_en-CA.md
+[17:21:01] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-04-29 18:21:01.096272+01:00
+[17:21:01] Successful get url: https://www.bing.com/th?id=OHR.BelemTowerBank_EN-GB6963805322_UHD.jpg
+[17:21:01] Picture infomations saved to  global/en-GB/README.md
+[17:21:01] Picture infomations saved to global/en-GB/history/2026/04/29_en-GB.md
+[17:21:01] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-04-29 19:21:01.741310+02:00
+[17:21:01] Successful get url: https://www.bing.com/th?id=OHR.BelemTowerBank_IT-IT4141068514_UHD.jpg
+[17:21:02] Picture infomations saved to  global/it-IT/README.md
+[17:21:02] Picture infomations saved to global/it-IT/history/2026/04/29_it-IT.md
+[17:21:02] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-04-29 19:21:02.083124+02:00
+[17:21:02] Successful get url: https://www.bing.com/th?id=OHR.BelemTowerBank_ES-ES0844655839_UHD.jpg
+[17:21:02] Picture infomations saved to  global/es-ES/README.md
+[17:21:02] Picture infomations saved to global/es-ES/history/2026/04/29_es-ES.md
+[17:21:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-04-29 13:21:02.678826-04:00
+[17:21:02] Successful get url: https://www.bing.com/th?id=OHR.BelemTowerBank_FR-CA1177429955_UHD.jpg
+[17:21:03] Picture infomations saved to  global/fr-CA/README.md
+[17:21:03] Picture infomations saved to global/fr-CA/history/2026/04/30_fr-CA.md
+Program exit at 17:21:03

@@ -6,9 +6,9 @@
 ||*Copyright: Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)*
 ||
 |||
-|2026-04-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_UHD.jpg)|
-||*Copyright: 国会議事堂, 東京都 (© Hiroshi Watanabe/Getty images)*
+|2026-04-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DutchTulips_JA-JP3809671349_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DutchTulips_JA-JP3809671349_UHD.jpg)|
+||*Copyright: チューリップ, オランダ (© Martin Ruegner/Getty Images)*
 ||
 |||
 |2026-04-29|**Region: en-IN**||
