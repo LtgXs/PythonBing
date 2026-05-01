@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-05-01
+## History Bing Wallpaper
+Wallpaper date: 2026-05-01
 ![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_IT-IT6995398128_UHD.jpg&w=1000)Download: [Faro di Tŵr Mawr, isola di Llanddwyn, Anglesey, Galles (© Lukas Bischoff/Getty Images)](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_IT-IT6995398128_UHD.jpg)
 
 Auto get programm by LtgX
