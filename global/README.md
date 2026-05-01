@@ -6,9 +6,9 @@
 ||*Copyright: Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)*
 ||
 |||
-|2026-05-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GreenJasper_JA-JP1765702331_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenJasper_JA-JP1765702331_UHD.jpg)|
-||*Copyright: ジャスパー国立公園, カナダ (© Don White/Getty Images)*
+|2026-05-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_UHD.jpg)|
+||*Copyright: 和束の茶畑, 京都府 和束町 (© Tuul and Bruno Morandi/Alamy)*
 ||
 |||
 |2026-05-01|**Region: en-IN**||
