@@ -6,9 +6,9 @@
 ||*Copyright: Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)*
 ||
 |||
-|2026-05-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_UHD.jpg)|
-||*Copyright: 和束の茶畑, 京都府 和束町 (© Tuul and Bruno Morandi/Alamy)*
+|2026-05-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MasaiLeopard_JA-JP2209890088_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiLeopard_JA-JP2209890088_UHD.jpg)|
+||*Copyright: 樹上で眠るヒョウ, ケニア (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
 |2026-05-02|**Region: en-IN**||
