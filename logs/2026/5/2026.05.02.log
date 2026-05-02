@@ -1,0 +1,60 @@
+
+Program started at 10:08:26
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:08:26] Start geting CN Bing Wallpaper
+[10:08:26] Successful get url: https://www.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg
+[10:08:26] Image saved to img/background.jpg
+[10:08:26] Info saved to README.md
+[10:08:26] Image saved to history/2026/05/02.md
+[10:08:26] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-02 06:08:26.375008-04:00
+[10:08:26] Successful get url: https://www.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg
+[10:08:26] Picture infomations saved to  global/en-US/README.md
+[10:08:26] Picture infomations saved to global/en-US/history/2026/05/03_en-US.md
+[10:08:26] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-02 19:08:26.493725+09:00
+[10:08:26] Successful get url: https://www.bing.com/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_UHD.jpg
+[10:08:26] Picture infomations saved to  global/ja-JP/README.md
+[10:08:26] Picture infomations saved to global/ja-JP/history/2026/05/02_ja-JP.md
+[10:08:26] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-02 15:38:26.727631+05:30
+[10:08:26] Successful get url: https://www.bing.com/th?id=OHR.GreenJasper_EN-IN3195299837_UHD.jpg
+[10:08:26] Picture infomations saved to  global/en-IN/README.md
+[10:08:26] Picture infomations saved to global/en-IN/history/2026/05/02_en-IN.md
+[10:08:26] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-02 07:08:26.837140-03:00
+[10:08:26] Successful get url: https://www.bing.com/th?id=OHR.GreenJasper_PT-BR3746055245_UHD.jpg
+[10:08:26] Picture infomations saved to  global/pt-BR/README.md
+[10:08:26] Picture infomations saved to global/pt-BR/history/2026/05/03_pt-BR.md
+[10:08:26] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-02 12:08:26.953981+02:00
+[10:08:27] Successful get url: https://www.bing.com/th?id=OHR.GreenJasper_FR-FR4890526322_UHD.jpg
+[10:08:27] Picture infomations saved to  global/fr-FR/README.md
+[10:08:27] Picture infomations saved to global/fr-FR/history/2026/05/02_fr-FR.md
+[10:08:27] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-02 12:08:27.069509+02:00
+[10:08:27] Successful get url: https://www.bing.com/th?id=OHR.GreenJasper_DE-DE3724735614_UHD.jpg
+[10:08:27] Picture infomations saved to  global/de-DE/README.md
+[10:08:27] Picture infomations saved to global/de-DE/history/2026/05/02_de-DE.md
+[10:08:27] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-02 06:08:27.187948-04:00
+[10:08:27] Successful get url: https://www.bing.com/th?id=OHR.GreenJasper_EN-CA5522153954_UHD.jpg
+[10:08:27] Picture infomations saved to  global/en-CA/README.md
+[10:08:27] Picture infomations saved to global/en-CA/history/2026/05/03_en-CA.md
+[10:08:27] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-02 11:08:27.292144+01:00
+[10:08:27] Successful get url: https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-GB4656440500_UHD.jpg
+[10:08:27] Picture infomations saved to  global/en-GB/README.md
+[10:08:27] Picture infomations saved to global/en-GB/history/2026/05/02_en-GB.md
+[10:08:27] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-02 12:08:27.529516+02:00
+[10:08:27] Successful get url: https://www.bing.com/th?id=OHR.GreenJasper_IT-IT7374602939_UHD.jpg
+[10:08:27] Picture infomations saved to  global/it-IT/README.md
+[10:08:27] Picture infomations saved to global/it-IT/history/2026/05/02_it-IT.md
+[10:08:27] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-02 12:08:27.682371+02:00
+[10:08:27] Successful get url: https://www.bing.com/th?id=OHR.MadridRetiro_ES-ES5384378675_UHD.jpg
+[10:08:27] Picture infomations saved to  global/es-ES/README.md
+[10:08:27] Picture infomations saved to global/es-ES/history/2026/05/02_es-ES.md
+[10:08:27] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-02 06:08:27.823256-04:00
+[10:08:27] Successful get url: https://www.bing.com/th?id=OHR.GreenJasper_FR-CA0598289520_UHD.jpg
+[10:08:27] Picture infomations saved to  global/fr-CA/README.md
+[10:08:27] Picture infomations saved to global/fr-CA/history/2026/05/03_fr-CA.md
+Program exit at 10:08:27
