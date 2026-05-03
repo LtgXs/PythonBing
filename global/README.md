@@ -6,9 +6,9 @@
 ||*Copyright: Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MasaiLeopard_JA-JP2209890088_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiLeopard_JA-JP2209890088_UHD.jpg)|
-||*Copyright: 樹上で眠るヒョウ, ケニア (© Klein & Hubert/Nature Picture Library)*
+|2026-05-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KsarOuledSoltane_JA-JP4160189832_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KsarOuledSoltane_JA-JP4160189832_UHD.jpg)|
+||*Copyright: クサル・ウレド・ソルタネ, チュニジア (© Dark_Eni/Getty Images Plus)*
 ||
 |||
 |2026-05-03|**Region: en-IN**||
