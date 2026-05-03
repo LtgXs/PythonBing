@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-05-03|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg)|
-||*Copyright: Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)*
+|2026-05-04|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg)|
+||*Copyright: Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
 |2026-05-03|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 樹上で眠るヒョウ, ケニア (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-02|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GreenJasper_EN-IN3195299837_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenJasper_EN-IN3195299837_UHD.jpg)|
-||*Copyright: Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)*
+|2026-05-03|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-IN3617072692_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-IN3617072692_UHD.jpg)|
+||*Copyright: Leopard sleeping in a tree in the savannah, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-03|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GreenJasper_PT-BR3746055245_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenJasper_PT-BR3746055245_UHD.jpg)|
-||*Copyright: Pequeno lago no Parque Nacional Jasper, Alberta, Canadá (© Don White/Getty Images)*
+|2026-05-04|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MasaiLeopard_PT-BR3932185611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiLeopard_PT-BR3932185611_UHD.jpg)|
+||*Copyright: Leopardo dormindo em uma árvore na Reserva Nacional Masai Mara, Quênia (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-02|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GreenJasper_FR-FR4890526322_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenJasper_FR-FR4890526322_UHD.jpg)|
-||*Copyright: Petit lac et marais dans le parc national Jasper, Alberta, Canada (© Don White/Getty Images)*
+|2026-05-03|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MasaiLeopard_FR-FR4209826917_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiLeopard_FR-FR4209826917_UHD.jpg)|
+||*Copyright: Un léopard endormi dans un arbre de la savane, Réserve nationale du Masai Mara, Kenya (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-02|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GreenJasper_DE-DE3724735614_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenJasper_DE-DE3724735614_UHD.jpg)|
-||*Copyright: Kleiner See und Feuchtgebiet im Jasper‑Nationalpark in Alberta, Kanada (© Don White/Getty Images)*
+|2026-05-03|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MasaiLeopard_DE-DE1183742562_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiLeopard_DE-DE1183742562_UHD.jpg)|
+||*Copyright: Leopard, der in einem Baum in der Savanne schläft, Masai‑Mara‑Nationalreservat, Kenia (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-03|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GreenJasper_EN-CA5522153954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenJasper_EN-CA5522153954_UHD.jpg)|
-||*Copyright: Small lake and marsh in Jasper National Park in Alberta (© Don White/Getty Images)*
+|2026-05-04|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-CA1789008589_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-CA1789008589_UHD.jpg)|
+||*Copyright: Leopard sleeping in a tree in the savannah, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-02|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-GB4656440500_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-GB4656440500_UHD.jpg)|
-||*Copyright: Tŵr Mawr Lighthouse, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)*
+|2026-05-03|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-GB2436436985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-GB2436436985_UHD.jpg)|
+||*Copyright: Leopard sleeping in a tree in the savannah, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-02|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GreenJasper_IT-IT7374602939_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenJasper_IT-IT7374602939_UHD.jpg)|
-||*Copyright: Parco nazionale di Jasper, Alberta, Canada (© Don White/Getty Images)*
+|2026-05-03|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MasaiLeopard_IT-IT7759211321_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiLeopard_IT-IT7759211321_UHD.jpg)|
+||*Copyright: Leopardo, riserva nazionale del Masai Mara, Kenya (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-02|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MadridRetiro_ES-ES5384378675_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MadridRetiro_ES-ES5384378675_UHD.jpg)|
-||*Copyright: Monumento a Alfonso XII, Parque del Retiro, Madrid (© By Eve Livesey/Getty Images)*
+|2026-05-03|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MotherCub_ES-ES5649193741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MotherCub_ES-ES5649193741_UHD.jpg)|
+||*Copyright: Osa polar y sus cachorros en el parque nacional Wapusk, Manitoba, Canadá (© Hao Jiang/Getty Images)*
 ||
 |||
-|2026-05-03|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.GreenJasper_FR-CA0598289520_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenJasper_FR-CA0598289520_UHD.jpg)|
-||*Copyright: Petit lac et marais dans le parc national Jasper, en Alberta (© Don White/Getty Images)*
+|2026-05-04|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MasaiLeopard_FR-CA5942726256_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiLeopard_FR-CA5942726256_UHD.jpg)|
+||*Copyright: Un léopard endormi dans un arbre de la savane, Réserve nationale du Masai Mara, Kenya (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
 
