@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [11:15:41] Picture infomations saved to  global/fr-CA/README.md
 [11:15:41] Picture infomations saved to global/fr-CA/history/2026/05/05_fr-CA.md
 Program exit at 11:15:41
+
+Program started at 17:24:48
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:24:48] Start geting CN Bing Wallpaper
+[17:24:49] Successful get url: https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg
+[17:24:49] Image saved to img/background.jpg
+[17:24:49] Info saved to README.md
+[17:24:49] Image saved to history/2026/05/05.md
+[17:24:49] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-04 13:24:49.153411-04:00
+[17:24:49] Successful get url: https://www.bing.com/th?id=OHR.KsarOuledSoltane_EN-US0477407273_UHD.jpg
+[17:24:49] Picture infomations saved to  global/en-US/README.md
+[17:24:49] Picture infomations saved to global/en-US/history/2026/05/05_en-US.md
+[17:24:49] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-05 02:24:49.309682+09:00
+[17:24:49] Successful get url: https://www.bing.com/th?id=OHR.ChildrensDay2026_JA-JP4339103590_UHD.jpg
+[17:24:49] Picture infomations saved to  global/ja-JP/README.md
+[17:24:49] Picture infomations saved to global/ja-JP/history/2026/05/05_ja-JP.md
+[17:24:49] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-04 22:54:49.435697+05:30
+[17:24:49] Successful get url: https://www.bing.com/th?id=OHR.KsarOuledSoltane_EN-IN1772152584_UHD.jpg
+[17:24:49] Picture infomations saved to  global/en-IN/README.md
+[17:24:49] Picture infomations saved to global/en-IN/history/2026/05/04_en-IN.md
+[17:24:49] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-04 14:24:49.741401-03:00
+[17:24:49] Successful get url: https://www.bing.com/th?id=OHR.KsarOuledSoltane_PT-BR6460099776_UHD.jpg
+[17:24:49] Picture infomations saved to  global/pt-BR/README.md
+[17:24:49] Picture infomations saved to global/pt-BR/history/2026/05/05_pt-BR.md
+[17:24:49] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-04 19:24:49.881082+02:00
+[17:24:49] Successful get url: https://www.bing.com/th?id=OHR.KsarOuledSoltane_FR-FR8093866685_UHD.jpg
+[17:24:50] Picture infomations saved to  global/fr-FR/README.md
+[17:24:50] Picture infomations saved to global/fr-FR/history/2026/05/04_fr-FR.md
+[17:24:50] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-04 19:24:50.052292+02:00
+[17:24:50] Successful get url: https://www.bing.com/th?id=OHR.KsarOuledSoltane_DE-DE0772664249_UHD.jpg
+[17:24:50] Picture infomations saved to  global/de-DE/README.md
+[17:24:50] Picture infomations saved to global/de-DE/history/2026/05/04_de-DE.md
+[17:24:50] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-04 13:24:50.172368-04:00
+[17:24:50] Successful get url: https://www.bing.com/th?id=OHR.KsarOuledSoltane_EN-CA5863757495_UHD.jpg
+[17:24:50] Picture infomations saved to  global/en-CA/README.md
+[17:24:50] Picture infomations saved to global/en-CA/history/2026/05/05_en-CA.md
+[17:24:50] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-04 18:24:50.295764+01:00
+[17:24:50] Successful get url: https://www.bing.com/th?id=OHR.KsarOuledSoltane_EN-GB6369285751_UHD.jpg
+[17:24:50] Picture infomations saved to  global/en-GB/README.md
+[17:24:50] Picture infomations saved to global/en-GB/history/2026/05/04_en-GB.md
+[17:24:50] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-04 19:24:50.475124+02:00
+[17:24:50] Successful get url: https://www.bing.com/th?id=OHR.KsarOuledSoltane_IT-IT3379026999_UHD.jpg
+[17:24:50] Picture infomations saved to  global/it-IT/README.md
+[17:24:50] Picture infomations saved to global/it-IT/history/2026/05/04_it-IT.md
+[17:24:50] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-04 19:24:50.621656+02:00
+[17:24:50] Successful get url: https://www.bing.com/th?id=OHR.CordobaFestival_ES-ES4539784113_UHD.jpg
+[17:24:51] Picture infomations saved to  global/es-ES/README.md
+[17:24:51] Picture infomations saved to global/es-ES/history/2026/05/04_es-ES.md
+[17:24:51] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-04 13:24:51.025794-04:00
+[17:24:51] Successful get url: https://www.bing.com/th?id=OHR.KsarOuledSoltane_FR-CA6095095804_UHD.jpg
+[17:24:51] Picture infomations saved to  global/fr-CA/README.md
+[17:24:51] Picture infomations saved to global/fr-CA/history/2026/05/05_fr-CA.md
+Program exit at 17:24:51

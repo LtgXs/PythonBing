@@ -6,9 +6,9 @@
 ||*Copyright: Ksar Ouled Soltane, Tataouine district in southern Tunisia (© Dark_Eni/Getty Images Plus)*
 ||
 |||
-|2026-05-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KsarOuledSoltane_JA-JP4160189832_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KsarOuledSoltane_JA-JP4160189832_UHD.jpg)|
-||*Copyright: クサル・ウレド・ソルタネ, チュニジア (© Dark_Eni/Getty Images Plus)*
+|2026-05-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ChildrensDay2026_JA-JP4339103590_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChildrensDay2026_JA-JP4339103590_UHD.jpg)|
+||*Copyright: 姫の沢公園, 静岡県 熱海市 (© SKY Stock/Shutterstock)*
 ||
 |||
 |2026-05-04|**Region: en-IN**||
