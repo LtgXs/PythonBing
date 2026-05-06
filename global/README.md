@@ -6,9 +6,9 @@
 ||*Copyright: Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)*
 ||
 |||
-|2026-05-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BulgariaPlains_JA-JP4515566359_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_JA-JP4515566359_UHD.jpg)|
-||*Copyright: 平原に現れた巨大積乱雲, ブルガリア (© Revolu7ion93/Getty Images)*
+|2026-05-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Kofa_JA-JP4672929305_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_JA-JP4672929305_UHD.jpg)|
+||*Copyright: コファ国立野生生物保護区, 米国 アリゾナ州 (© Denis Tangney Jr/Getty Images)*
 ||
 |||
 |2026-05-06|**Region: en-IN**||
