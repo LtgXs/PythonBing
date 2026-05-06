@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-05-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg)|
-||*Copyright: Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)*
+|2026-05-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg)|
+||*Copyright: Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)*
 ||
 |||
 |2026-05-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 平原に現れた巨大積乱雲, ブルガリア (© Revolu7ion93/Getty Images)*
 ||
 |||
-|2026-05-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864_UHD.jpg)|
-||*Copyright: Tŵr Mawr Lighthouse, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)*
+|2026-05-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-IN4718054909_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-IN4718054909_UHD.jpg)|
+||*Copyright: Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)*
 ||
 |||
-|2026-05-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MayoAgave_PT-BR7161087994_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MayoAgave_PT-BR7161087994_UHD.jpg)|
-||*Copyright: Campo de agave-azul perto de Tequila, Jalisco, México (© Brian Overcast/Alamy)*
+|2026-05-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BulgariaPlains_PT-BR7466173362_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_PT-BR7466173362_UHD.jpg)|
+||*Copyright: Tempestade sobre as planícies, Bulgária (© Revolu7ion93/Getty Images)*
 ||
 |||
-|2026-05-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MayoAgave_FR-FR5361312928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MayoAgave_FR-FR5361312928_UHD.jpg)|
-||*Copyright: Champs d’agave bleu près de Tequila, Jalisco, Mexique (© Brian Overcast/Alamy)*
+|2026-05-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-FR4904282030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-FR4904282030_UHD.jpg)|
+||*Copyright: Orage sur les plaines, Bulgarie (© Revolu7ion93/Getty Images)*
 ||
 |||
-|2026-05-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_UHD.jpg)|
-||*Copyright: Strandkörbe am Ostseestrand von Grömitz, Schleswig‑Holstein (© Sabine Lubenow/Image Professionals GmbH/Alamy)*
+|2026-05-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_UHD.jpg)|
+||*Copyright: Gewitter über der Ebene, Bulgarien (© Revolu7ion93/Getty Images)*
 ||
 |||
-|2026-05-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BullQuebec_EN-CA5955231847_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BullQuebec_EN-CA5955231847_UHD.jpg)|
-||*Copyright: A majestic bull moose foraging through the green undergrowth, Quebec (© pchoui/Getty Images)*
+|2026-05-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-CA6379116198_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-CA6379116198_UHD.jpg)|
+||*Copyright: Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)*
 ||
 |||
-|2026-05-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MayoAgave_EN-GB6749688899_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MayoAgave_EN-GB6749688899_UHD.jpg)|
-||*Copyright: Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)*
+|2026-05-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-GB7011360187_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-GB7011360187_UHD.jpg)|
+||*Copyright: Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)*
 ||
 |||
-|2026-05-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MayoAgave_IT-IT8717745427_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MayoAgave_IT-IT8717745427_UHD.jpg)|
-||*Copyright: Campo di agave blu nei pressi di Tequila, Jalisco, Messico (© Brian Overcast/Alamy)*
+|2026-05-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BulgariaPlains_IT-IT9195177220_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_IT-IT9195177220_UHD.jpg)|
+||*Copyright: Temporale sulle pianure, Bulgaria (© Revolu7ion93/Getty Images)*
 ||
 |||
-|2026-05-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MayoAgave_ES-ES4054314323_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MayoAgave_ES-ES4054314323_UHD.jpg)|
-||*Copyright: Campo de agave azul cerca de Tequila, Jalisco, México (© Brian Overcast/Alamy)*
+|2026-05-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BulgariaPlains_ES-ES6386466102_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_ES-ES6386466102_UHD.jpg)|
+||*Copyright: Tormenta sobre las llanuras, Bulgaria (© Revolu7ion93/Getty Images)*
 ||
 |||
-|2026-05-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BullQuebec_FR-CA6260493831_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BullQuebec_FR-CA6260493831_UHD.jpg)|
-||*Copyright: Orignal dans un sous-bois, Québec (© pchoui/Getty Images)*
+|2026-05-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-CA6415102284_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-CA6415102284_UHD.jpg)|
+||*Copyright: Orage sur les plaines, Bulgarie (© Revolu7ion93/Getty Images)*
 ||
 |||
 
