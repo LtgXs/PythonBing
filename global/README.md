@@ -6,9 +6,9 @@
 ||*Copyright: Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)*
 ||
 |||
-|2026-05-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Kofa_JA-JP4672929305_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_JA-JP4672929305_UHD.jpg)|
-||*Copyright: コファ国立野生生物保護区, 米国 アリゾナ州 (© Denis Tangney Jr/Getty Images)*
+|2026-05-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SardinianDonkey_JA-JP4826123491_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardinianDonkey_JA-JP4826123491_UHD.jpg)|
+||*Copyright: ロバの親子, フランス (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
 |2026-05-07|**Region: en-IN**||
