@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-05-07|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg)|
-||*Copyright: Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)*
+|2026-05-08|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg)|
+||*Copyright: Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)*
 ||
 |||
 |2026-05-07|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: コファ国立野生生物保護区, 米国 アリゾナ州 (© Denis Tangney Jr/Getty Images)*
 ||
 |||
-|2026-05-06|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-IN4718054909_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-IN4718054909_UHD.jpg)|
-||*Copyright: Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)*
+|2026-05-07|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.Kofa_EN-IN4942655895_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_EN-IN4942655895_UHD.jpg)|
+||*Copyright: Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)*
 ||
 |||
-|2026-05-07|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BulgariaPlains_PT-BR7466173362_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_PT-BR7466173362_UHD.jpg)|
-||*Copyright: Tempestade sobre as planícies, Bulgária (© Revolu7ion93/Getty Images)*
+|2026-05-08|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Bananaquit_PT-BR8722522620_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Bananaquit_PT-BR8722522620_UHD.jpg)|
+||*Copyright: Cambacica pousada em uma flor de bananeira, Ubatuba, São Paulo (© Alex Saberi/Getty Images)*
 ||
 |||
-|2026-05-06|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-FR4904282030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-FR4904282030_UHD.jpg)|
-||*Copyright: Orage sur les plaines, Bulgarie (© Revolu7ion93/Getty Images)*
+|2026-05-07|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_UHD.jpg)|
+||*Copyright: Refuge faunique national de Kofa, Arizona, États-Unis (© Denis Tangney Jr/Getty Images)*
 ||
 |||
-|2026-05-06|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_UHD.jpg)|
-||*Copyright: Gewitter über der Ebene, Bulgarien (© Revolu7ion93/Getty Images)*
+|2026-05-07|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.Kofa_DE-DE5653026475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_DE-DE5653026475_UHD.jpg)|
+||*Copyright: Kofa National Wildlife Refuge, Arizona, USA (© Denis Tangney Jr/Getty Images)*
 ||
 |||
-|2026-05-07|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-CA6379116198_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-CA6379116198_UHD.jpg)|
-||*Copyright: Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)*
+|2026-05-08|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.Kofa_EN-CA1760783023_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_EN-CA1760783023_UHD.jpg)|
+||*Copyright: Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)*
 ||
 |||
-|2026-05-06|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-GB7011360187_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_EN-GB7011360187_UHD.jpg)|
-||*Copyright: Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)*
+|2026-05-07|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.Kofa_EN-GB9757705283_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_EN-GB9757705283_UHD.jpg)|
+||*Copyright: Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)*
 ||
 |||
-|2026-05-06|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BulgariaPlains_IT-IT9195177220_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_IT-IT9195177220_UHD.jpg)|
-||*Copyright: Temporale sulle pianure, Bulgaria (© Revolu7ion93/Getty Images)*
+|2026-05-07|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.Kofa_IT-IT0064163768_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_IT-IT0064163768_UHD.jpg)|
+||*Copyright: Riserva naturale nazionale di Kofa, Arizona, USA (© Denis Tangney Jr/Getty Images)*
 ||
 |||
-|2026-05-06|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BulgariaPlains_ES-ES6386466102_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_ES-ES6386466102_UHD.jpg)|
-||*Copyright: Tormenta sobre las llanuras, Bulgaria (© Revolu7ion93/Getty Images)*
+|2026-05-07|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.Kofa_ES-ES0725925075_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_ES-ES0725925075_UHD.jpg)|
+||*Copyright: Refugio Nacional de Vida Silvestre de Kofa, Arizona, EE. UU. (© Denis Tangney Jr/Getty Images)*
 ||
 |||
-|2026-05-07|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-CA6415102284_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-CA6415102284_UHD.jpg)|
-||*Copyright: Orage sur les plaines, Bulgarie (© Revolu7ion93/Getty Images)*
+|2026-05-08|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.Kofa_FR-CA6547767566_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_FR-CA6547767566_UHD.jpg)|
+||*Copyright: Refuge faunique national de Kofa, Arizona, États-Unis (© Denis Tangney Jr/Getty Images)*
 ||
 |||
 

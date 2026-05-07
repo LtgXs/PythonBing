@@ -1,0 +1,60 @@
+
+Program started at 11:17:26
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:17:26] Start geting CN Bing Wallpaper
+[11:17:26] Successful get url: https://www.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg
+[11:17:26] Image saved to img/background.jpg
+[11:17:26] Info saved to README.md
+[11:17:26] Image saved to history/2026/05/07.md
+[11:17:26] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-07 07:17:26.930808-04:00
+[11:17:26] Successful get url: https://www.bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg
+[11:17:27] Picture infomations saved to  global/en-US/README.md
+[11:17:27] Picture infomations saved to global/en-US/history/2026/05/08_en-US.md
+[11:17:27] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-07 20:17:27.072601+09:00
+[11:17:27] Successful get url: https://www.bing.com/th?id=OHR.Kofa_JA-JP4672929305_UHD.jpg
+[11:17:27] Picture infomations saved to  global/ja-JP/README.md
+[11:17:27] Picture infomations saved to global/ja-JP/history/2026/05/07_ja-JP.md
+[11:17:27] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-07 16:47:27.201040+05:30
+[11:17:27] Successful get url: https://www.bing.com/th?id=OHR.Kofa_EN-IN4942655895_UHD.jpg
+[11:17:27] Picture infomations saved to  global/en-IN/README.md
+[11:17:27] Picture infomations saved to global/en-IN/history/2026/05/07_en-IN.md
+[11:17:27] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-07 08:17:27.419455-03:00
+[11:17:27] Successful get url: https://www.bing.com/th?id=OHR.Bananaquit_PT-BR8722522620_UHD.jpg
+[11:17:27] Picture infomations saved to  global/pt-BR/README.md
+[11:17:27] Picture infomations saved to global/pt-BR/history/2026/05/08_pt-BR.md
+[11:17:27] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-07 13:17:27.582805+02:00
+[11:17:27] Successful get url: https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_UHD.jpg
+[11:17:27] Picture infomations saved to  global/fr-FR/README.md
+[11:17:27] Picture infomations saved to global/fr-FR/history/2026/05/07_fr-FR.md
+[11:17:27] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-07 13:17:27.752440+02:00
+[11:17:27] Successful get url: https://www.bing.com/th?id=OHR.Kofa_DE-DE5653026475_UHD.jpg
+[11:17:27] Picture infomations saved to  global/de-DE/README.md
+[11:17:27] Picture infomations saved to global/de-DE/history/2026/05/07_de-DE.md
+[11:17:27] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-07 07:17:27.891502-04:00
+[11:17:27] Successful get url: https://www.bing.com/th?id=OHR.Kofa_EN-CA1760783023_UHD.jpg
+[11:17:28] Picture infomations saved to  global/en-CA/README.md
+[11:17:28] Picture infomations saved to global/en-CA/history/2026/05/08_en-CA.md
+[11:17:28] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-07 12:17:28.053315+01:00
+[11:17:28] Successful get url: https://www.bing.com/th?id=OHR.Kofa_EN-GB9757705283_UHD.jpg
+[11:17:28] Picture infomations saved to  global/en-GB/README.md
+[11:17:28] Picture infomations saved to global/en-GB/history/2026/05/07_en-GB.md
+[11:17:28] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-07 13:17:28.186475+02:00
+[11:17:28] Successful get url: https://www.bing.com/th?id=OHR.Kofa_IT-IT0064163768_UHD.jpg
+[11:17:28] Picture infomations saved to  global/it-IT/README.md
+[11:17:28] Picture infomations saved to global/it-IT/history/2026/05/07_it-IT.md
+[11:17:28] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-07 13:17:28.347019+02:00
+[11:17:28] Successful get url: https://www.bing.com/th?id=OHR.Kofa_ES-ES0725925075_UHD.jpg
+[11:17:28] Picture infomations saved to  global/es-ES/README.md
+[11:17:28] Picture infomations saved to global/es-ES/history/2026/05/07_es-ES.md
+[11:17:28] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-07 07:17:28.660632-04:00
+[11:17:28] Successful get url: https://www.bing.com/th?id=OHR.Kofa_FR-CA6547767566_UHD.jpg
+[11:17:28] Picture infomations saved to  global/fr-CA/README.md
+[11:17:28] Picture infomations saved to global/fr-CA/history/2026/05/08_fr-CA.md
+Program exit at 11:17:28
