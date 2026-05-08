@@ -6,9 +6,9 @@
 ||*Copyright: Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SardinianDonkey_JA-JP4826123491_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardinianDonkey_JA-JP4826123491_UHD.jpg)|
-||*Copyright: ロバの親子, フランス (© Klein & Hubert/Nature Picture Library)*
+|2026-05-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641_UHD.jpg)|
+||*Copyright: スクラディンスキ・ブクの滝, クロアチア (© Amazing Aerial Agency/Adobe Stock)*
 ||
 |||
 |2026-05-08|**Region: en-IN**||
