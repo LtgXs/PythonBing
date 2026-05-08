@@ -1,0 +1,60 @@
+
+Program started at 10:47:37
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:47:37] Start geting CN Bing Wallpaper
+[10:47:37] Successful get url: https://www.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg
+[10:47:37] Image saved to img/background.jpg
+[10:47:37] Info saved to README.md
+[10:47:37] Image saved to history/2026/05/08.md
+[10:47:37] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-08 06:47:37.722012-04:00
+[10:47:37] Successful get url: https://www.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg
+[10:47:38] Picture infomations saved to  global/en-US/README.md
+[10:47:38] Picture infomations saved to global/en-US/history/2026/05/09_en-US.md
+[10:47:38] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-08 19:47:38.112946+09:00
+[10:47:38] Successful get url: https://www.bing.com/th?id=OHR.SardinianDonkey_JA-JP4826123491_UHD.jpg
+[10:47:38] Picture infomations saved to  global/ja-JP/README.md
+[10:47:38] Picture infomations saved to global/ja-JP/history/2026/05/08_ja-JP.md
+[10:47:38] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-08 16:17:38.459665+05:30
+[10:47:38] Successful get url: https://www.bing.com/th?id=OHR.SardinianDonkey_EN-IN5118136670_UHD.jpg
+[10:47:38] Picture infomations saved to  global/en-IN/README.md
+[10:47:38] Picture infomations saved to global/en-IN/history/2026/05/08_en-IN.md
+[10:47:38] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-08 07:47:38.808340-03:00
+[10:47:38] Successful get url: https://www.bing.com/th?id=OHR.SardinianDonkey_PT-BR9012507651_UHD.jpg
+[10:47:39] Picture infomations saved to  global/pt-BR/README.md
+[10:47:39] Picture infomations saved to global/pt-BR/history/2026/05/09_pt-BR.md
+[10:47:39] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-08 12:47:39.157675+02:00
+[10:47:39] Successful get url: https://www.bing.com/th?id=OHR.SardinianDonkey_FR-FR6669383604_UHD.jpg
+[10:47:39] Picture infomations saved to  global/fr-FR/README.md
+[10:47:39] Picture infomations saved to global/fr-FR/history/2026/05/08_fr-FR.md
+[10:47:39] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-08 12:47:39.652888+02:00
+[10:47:39] Successful get url: https://www.bing.com/th?id=OHR.SardinianDonkey_DE-DE5829201604_UHD.jpg
+[10:47:39] Picture infomations saved to  global/de-DE/README.md
+[10:47:39] Picture infomations saved to global/de-DE/history/2026/05/08_de-DE.md
+[10:47:39] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-08 06:47:39.992719-04:00
+[10:47:40] Successful get url: https://www.bing.com/th?id=OHR.TulipFestOT_EN-CA8431484438_UHD.jpg
+[10:47:40] Picture infomations saved to  global/en-CA/README.md
+[10:47:40] Picture infomations saved to global/en-CA/history/2026/05/09_en-CA.md
+[10:47:40] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-08 11:47:40.336766+01:00
+[10:47:40] Successful get url: https://www.bing.com/th?id=OHR.SardinianDonkey_EN-GB0103358048_UHD.jpg
+[10:47:40] Picture infomations saved to  global/en-GB/README.md
+[10:47:40] Picture infomations saved to global/en-GB/history/2026/05/08_en-GB.md
+[10:47:40] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-08 12:47:40.675231+02:00
+[10:47:40] Successful get url: https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_UHD.jpg
+[10:47:41] Picture infomations saved to  global/it-IT/README.md
+[10:47:41] Picture infomations saved to global/it-IT/history/2026/05/08_it-IT.md
+[10:47:41] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-08 12:47:41.016467+02:00
+[10:47:41] Successful get url: https://www.bing.com/th?id=OHR.SardinianDonkey_ES-ES2075094183_UHD.jpg
+[10:47:41] Picture infomations saved to  global/es-ES/README.md
+[10:47:41] Picture infomations saved to global/es-ES/history/2026/05/08_es-ES.md
+[10:47:41] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-08 06:47:41.365056-04:00
+[10:47:41] Successful get url: https://www.bing.com/th?id=OHR.TulipFestOT_FR-CA6683059104_UHD.jpg
+[10:47:41] Picture infomations saved to  global/fr-CA/README.md
+[10:47:41] Picture infomations saved to global/fr-CA/history/2026/05/09_fr-CA.md
+Program exit at 10:47:41

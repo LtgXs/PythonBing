@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-05-08|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg)|
-||*Copyright: Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)*
+|2026-05-09|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg)|
+||*Copyright: Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
 |2026-05-08|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ロバの親子, フランス (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-07|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Kofa_EN-IN4942655895_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_EN-IN4942655895_UHD.jpg)|
-||*Copyright: Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)*
+|2026-05-08|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SardinianDonkey_EN-IN5118136670_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardinianDonkey_EN-IN5118136670_UHD.jpg)|
+||*Copyright: Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-08|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Bananaquit_PT-BR8722522620_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Bananaquit_PT-BR8722522620_UHD.jpg)|
-||*Copyright: Cambacica pousada em uma flor de bananeira, Ubatuba, São Paulo (© Alex Saberi/Getty Images)*
+|2026-05-09|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SardinianDonkey_PT-BR9012507651_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardinianDonkey_PT-BR9012507651_UHD.jpg)|
+||*Copyright: Jumenta sarda com seu potro na França (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-07|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_UHD.jpg)|
-||*Copyright: Refuge faunique national de Kofa, Arizona, États-Unis (© Denis Tangney Jr/Getty Images)*
+|2026-05-08|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SardinianDonkey_FR-FR6669383604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardinianDonkey_FR-FR6669383604_UHD.jpg)|
+||*Copyright: Ânesse sarde et son ânon, France (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-07|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.Kofa_DE-DE5653026475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_DE-DE5653026475_UHD.jpg)|
-||*Copyright: Kofa National Wildlife Refuge, Arizona, USA (© Denis Tangney Jr/Getty Images)*
+|2026-05-08|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SardinianDonkey_DE-DE5829201604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardinianDonkey_DE-DE5829201604_UHD.jpg)|
+||*Copyright: Sardische Eselstute mit Fohlen, Frankreich (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-08|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Kofa_EN-CA1760783023_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_EN-CA1760783023_UHD.jpg)|
-||*Copyright: Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)*
+|2026-05-09|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TulipFestOT_EN-CA8431484438_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipFestOT_EN-CA8431484438_UHD.jpg)|
+||*Copyright: Tulips and cherry blossoms at the Rideau Canal, Ottawa, Ontario (© J Duquette/Getty Images)*
 ||
 |||
-|2026-05-07|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.Kofa_EN-GB9757705283_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_EN-GB9757705283_UHD.jpg)|
-||*Copyright: Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)*
+|2026-05-08|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SardinianDonkey_EN-GB0103358048_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardinianDonkey_EN-GB0103358048_UHD.jpg)|
+||*Copyright: Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-07|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.Kofa_IT-IT0064163768_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_IT-IT0064163768_UHD.jpg)|
-||*Copyright: Riserva naturale nazionale di Kofa, Arizona, USA (© Denis Tangney Jr/Getty Images)*
+|2026-05-08|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_UHD.jpg)|
+||*Copyright: Giro d’Italia (© LUK BENIES/Stringer/Getty Images)*
 ||
 |||
-|2026-05-07|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.Kofa_ES-ES0725925075_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_ES-ES0725925075_UHD.jpg)|
-||*Copyright: Refugio Nacional de Vida Silvestre de Kofa, Arizona, EE. UU. (© Denis Tangney Jr/Getty Images)*
+|2026-05-08|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SardinianDonkey_ES-ES2075094183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardinianDonkey_ES-ES2075094183_UHD.jpg)|
+||*Copyright: Burra sarda con su cría, Francia (© Klein & Hubert/Nature Picture Library)*
 ||
 |||
-|2026-05-08|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Kofa_FR-CA6547767566_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kofa_FR-CA6547767566_UHD.jpg)|
-||*Copyright: Refuge faunique national de Kofa, Arizona, États-Unis (© Denis Tangney Jr/Getty Images)*
+|2026-05-09|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TulipFestOT_FR-CA6683059104_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TulipFestOT_FR-CA6683059104_UHD.jpg)|
+||*Copyright: Tulipes et cerisiers en fleurs sur les rives du canal Rideau, Ottawa, Ontario (© J Duquette/Getty Images)*
 ||
 |||
 
