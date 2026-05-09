@@ -1,0 +1,60 @@
+
+Program started at 10:15:38
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:15:38] Start geting CN Bing Wallpaper
+[10:15:38] Successful get url: https://www.bing.com/th?id=OHR.SkradinskiBuk_ZH-CN0882603359_UHD.jpg
+[10:15:38] Image saved to img/background.jpg
+[10:15:38] Info saved to README.md
+[10:15:38] Image saved to history/2026/05/09.md
+[10:15:38] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-09 06:15:38.549929-04:00
+[10:15:38] Successful get url: https://www.bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg
+[10:15:39] Picture infomations saved to  global/en-US/README.md
+[10:15:39] Picture infomations saved to global/en-US/history/2026/05/10_en-US.md
+[10:15:39] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-09 19:15:39.101123+09:00
+[10:15:39] Successful get url: https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641_UHD.jpg
+[10:15:39] Picture infomations saved to  global/ja-JP/README.md
+[10:15:39] Picture infomations saved to global/ja-JP/history/2026/05/09_ja-JP.md
+[10:15:39] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-09 15:45:39.536157+05:30
+[10:15:39] Successful get url: https://www.bing.com/th?id=OHR.SkradinskiBuk_EN-IN5310888144_UHD.jpg
+[10:15:40] Picture infomations saved to  global/en-IN/README.md
+[10:15:40] Picture infomations saved to global/en-IN/history/2026/05/09_en-IN.md
+[10:15:40] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-09 07:15:40.116248-03:00
+[10:15:40] Successful get url: https://www.bing.com/th?id=OHR.SkradinskiBuk_PT-BR0487260781_UHD.jpg
+[10:15:40] Picture infomations saved to  global/pt-BR/README.md
+[10:15:40] Picture infomations saved to global/pt-BR/history/2026/05/10_pt-BR.md
+[10:15:40] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-09 12:15:40.294215+02:00
+[10:15:40] Successful get url: https://www.bing.com/th?id=OHR.SkradinskiBuk_FR-FR6637164956_UHD.jpg
+[10:15:41] Picture infomations saved to  global/fr-FR/README.md
+[10:15:41] Picture infomations saved to global/fr-FR/history/2026/05/09_fr-FR.md
+[10:15:41] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-09 12:15:41.228342+02:00
+[10:15:41] Successful get url: https://www.bing.com/th?id=OHR.SkradinskiBuk_DE-DE6216835034_UHD.jpg
+[10:15:41] Picture infomations saved to  global/de-DE/README.md
+[10:15:41] Picture infomations saved to global/de-DE/history/2026/05/09_de-DE.md
+[10:15:41] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-09 06:15:41.516462-04:00
+[10:15:41] Successful get url: https://www.bing.com/th?id=OHR.SkradinskiBuk_EN-CA8816657726_UHD.jpg
+[10:15:41] Picture infomations saved to  global/en-CA/README.md
+[10:15:41] Picture infomations saved to global/en-CA/history/2026/05/10_en-CA.md
+[10:15:41] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-09 11:15:42.006478+01:00
+[10:15:42] Successful get url: https://www.bing.com/th?id=OHR.SkradinskiBuk_EN-GB0974720288_UHD.jpg
+[10:15:42] Picture infomations saved to  global/en-GB/README.md
+[10:15:42] Picture infomations saved to global/en-GB/history/2026/05/09_en-GB.md
+[10:15:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-09 12:15:42.168302+02:00
+[10:15:42] Successful get url: https://www.bing.com/th?id=OHR.SkradinskiBuk_IT-IT9815336437_UHD.jpg
+[10:15:42] Picture infomations saved to  global/it-IT/README.md
+[10:15:42] Picture infomations saved to global/it-IT/history/2026/05/09_it-IT.md
+[10:15:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-09 12:15:42.575108+02:00
+[10:15:42] Successful get url: https://www.bing.com/th?id=OHR.SkradinskiBuk_ES-ES0276988985_UHD.jpg
+[10:15:42] Picture infomations saved to  global/es-ES/README.md
+[10:15:42] Picture infomations saved to global/es-ES/history/2026/05/09_es-ES.md
+[10:15:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-09 06:15:42.692632-04:00
+[10:15:42] Successful get url: https://www.bing.com/th?id=OHR.SkradinskiBuk_FR-CA1338552126_UHD.jpg
+[10:15:42] Picture infomations saved to  global/fr-CA/README.md
+[10:15:42] Picture infomations saved to global/fr-CA/history/2026/05/10_fr-CA.md
+Program exit at 10:15:42
