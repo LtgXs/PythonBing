@@ -6,9 +6,9 @@
 ||*Copyright: Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)*
 ||
 |||
-|2026-05-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641_UHD.jpg)|
-||*Copyright: スクラディンスキ・ブクの滝, クロアチア (© Amazing Aerial Agency/Adobe Stock)*
+|2026-05-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MotherCub_JA-JP7023780399_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MotherCub_JA-JP7023780399_UHD.jpg)|
+||*Copyright: ホッキョクグマ, カナダ (© Hao Jiang/Getty Images)*
 ||
 |||
 |2026-05-09|**Region: en-IN**||
