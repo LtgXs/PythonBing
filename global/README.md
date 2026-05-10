@@ -6,9 +6,9 @@
 ||*Copyright: Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (© Hao Jiang/Getty Images)*
 ||
 |||
-|2026-05-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MotherCub_JA-JP7023780399_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MotherCub_JA-JP7023780399_UHD.jpg)|
-||*Copyright: ホッキョクグマ, カナダ (© Hao Jiang/Getty Images)*
+|2026-05-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.QueenslandReef_JA-JP5966336342_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenslandReef_JA-JP5966336342_UHD.jpg)|
+||*Copyright: グレートバリアリーフ, オーストラリア (© Francesco Riccardo Iacomino/Getty Images)*
 ||
 |||
 |2026-05-10|**Region: en-IN**||
