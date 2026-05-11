@@ -6,9 +6,9 @@
 ||*Copyright: Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)*
 ||
 |||
-|2026-05-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.QueenslandReef_JA-JP5966336342_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenslandReef_JA-JP5966336342_UHD.jpg)|
-||*Copyright: グレートバリアリーフ, オーストラリア (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-05-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Fratercula_JA-JP6144226561_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_JA-JP6144226561_UHD.jpg)|
+||*Copyright: ニシツノメドリ, ウェールズ (© FLPA/Alamy)*
 ||
 |||
 |2026-05-11|**Region: en-IN**||
