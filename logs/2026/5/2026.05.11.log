@@ -1,0 +1,60 @@
+
+Program started at 12:20:26
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[12:20:26] Start geting CN Bing Wallpaper
+[12:20:26] Successful get url: https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg
+[12:20:27] Image saved to img/background.jpg
+[12:20:27] Info saved to README.md
+[12:20:27] Image saved to history/2026/05/11.md
+[12:20:27] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-11 08:20:27.072199-04:00
+[12:20:27] Successful get url: https://www.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg
+[12:20:27] Picture infomations saved to  global/en-US/README.md
+[12:20:27] Picture infomations saved to global/en-US/history/2026/05/12_en-US.md
+[12:20:27] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-11 21:20:27.480783+09:00
+[12:20:27] Successful get url: https://www.bing.com/th?id=OHR.QueenslandReef_JA-JP5966336342_UHD.jpg
+[12:20:27] Picture infomations saved to  global/ja-JP/README.md
+[12:20:27] Picture infomations saved to global/ja-JP/history/2026/05/11_ja-JP.md
+[12:20:27] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-11 17:50:27.820188+05:30
+[12:20:27] Successful get url: https://www.bing.com/th?id=OHR.QueenslandReef_EN-IN6010161885_UHD.jpg
+[12:20:28] Picture infomations saved to  global/en-IN/README.md
+[12:20:28] Picture infomations saved to global/en-IN/history/2026/05/11_en-IN.md
+[12:20:28] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-11 09:20:28.183152-03:00
+[12:20:28] Successful get url: https://www.bing.com/th?id=OHR.QueenslandReef_PT-BR2906227798_UHD.jpg
+[12:20:28] Picture infomations saved to  global/pt-BR/README.md
+[12:20:28] Picture infomations saved to global/pt-BR/history/2026/05/12_pt-BR.md
+[12:20:28] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-11 14:20:28.543763+02:00
+[12:20:28] Successful get url: https://www.bing.com/th?id=OHR.QueenslandReef_FR-FR7051247989_UHD.jpg
+[12:20:28] Picture infomations saved to  global/fr-FR/README.md
+[12:20:28] Picture infomations saved to global/fr-FR/history/2026/05/11_fr-FR.md
+[12:20:28] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-11 14:20:28.913946+02:00
+[12:20:28] Successful get url: https://www.bing.com/th?id=OHR.QueenslandReef_DE-DE8475072784_UHD.jpg
+[12:20:29] Picture infomations saved to  global/de-DE/README.md
+[12:20:29] Picture infomations saved to global/de-DE/history/2026/05/11_de-DE.md
+[12:20:29] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-11 08:20:29.472377-04:00
+[12:20:29] Successful get url: https://www.bing.com/th?id=OHR.QueenslandReef_EN-CA9209676432_UHD.jpg
+[12:20:29] Picture infomations saved to  global/en-CA/README.md
+[12:20:29] Picture infomations saved to global/en-CA/history/2026/05/12_en-CA.md
+[12:20:29] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-11 13:20:29.902183+01:00
+[12:20:29] Successful get url: https://www.bing.com/th?id=OHR.QueenslandReef_EN-GB1671253384_UHD.jpg
+[12:20:30] Picture infomations saved to  global/en-GB/README.md
+[12:20:30] Picture infomations saved to global/en-GB/history/2026/05/11_en-GB.md
+[12:20:30] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-11 14:20:30.281594+02:00
+[12:20:30] Successful get url: https://www.bing.com/th?id=OHR.QueenslandReef_IT-IT3740031953_UHD.jpg
+[12:20:30] Picture infomations saved to  global/it-IT/README.md
+[12:20:30] Picture infomations saved to global/it-IT/history/2026/05/11_it-IT.md
+[12:20:30] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-11 14:20:30.632024+02:00
+[12:20:30] Successful get url: https://www.bing.com/th?id=OHR.QueenslandReef_ES-ES8051074781_UHD.jpg
+[12:20:30] Picture infomations saved to  global/es-ES/README.md
+[12:20:30] Picture infomations saved to global/es-ES/history/2026/05/11_es-ES.md
+[12:20:30] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-11 08:20:30.973716-04:00
+[12:20:31] Successful get url: https://www.bing.com/th?id=OHR.QueenslandReef_FR-CA1633759764_UHD.jpg
+[12:20:31] Picture infomations saved to  global/fr-CA/README.md
+[12:20:31] Picture infomations saved to global/fr-CA/history/2026/05/12_fr-CA.md
+Program exit at 12:20:31
