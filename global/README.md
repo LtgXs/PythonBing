@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-05-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg)|
-||*Copyright: Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-05-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg)|
+||*Copyright: Atlantic puffins, Wales (© FLPA/Alamy)*
 ||
 |||
 |2026-05-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ニシツノメドリ, ウェールズ (© FLPA/Alamy)*
 ||
 |||
-|2026-05-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.QueenslandReef_EN-IN6010161885_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenslandReef_EN-IN6010161885_UHD.jpg)|
-||*Copyright: Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-05-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.Fratercula_EN-IN6270767271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_EN-IN6270767271_UHD.jpg)|
+||*Copyright: Atlantic puffins, Wales (© FLPA/Alamy)*
 ||
 |||
-|2026-05-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.QueenslandReef_PT-BR2906227798_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenslandReef_PT-BR2906227798_UHD.jpg)|
-||*Copyright: Grande Barreira de Corais, Queensland, Austrália (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-05-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Fratercula_PT-BR3505081741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_PT-BR3505081741_UHD.jpg)|
+||*Copyright: Papagaios-do-mar, País de Gales (© FLPA/Alamy)*
 ||
 |||
-|2026-05-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.QueenslandReef_FR-FR7051247989_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenslandReef_FR-FR7051247989_UHD.jpg)|
-||*Copyright: Vue aérienne de la Grande Barrière de Corail, Queensland, Australie (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-05-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ChairsCannes_FR-FR7320484740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChairsCannes_FR-FR7320484740_UHD.jpg)|
+||*Copyright: Des chaises attendent l'arrivée des célébrités et des cinéphiles au Festival de Cannes (© Christopher Furlong/Getty Images)*
 ||
 |||
-|2026-05-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.QueenslandReef_DE-DE8475072784_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenslandReef_DE-DE8475072784_UHD.jpg)|
-||*Copyright: Great Barrier Reef aus der Luft, Queensland, Australien (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-05-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.Fratercula_DE-DE8669315365_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_DE-DE8669315365_UHD.jpg)|
+||*Copyright: Papageitaucher, Wales (© FLPA/Alamy)*
 ||
 |||
-|2026-05-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.QueenslandReef_EN-CA9209676432_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenslandReef_EN-CA9209676432_UHD.jpg)|
-||*Copyright: Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-05-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.Fratercula_EN-CA9420779261_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_EN-CA9420779261_UHD.jpg)|
+||*Copyright: Atlantic puffins, Wales (© FLPA/Alamy)*
 ||
 |||
-|2026-05-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.QueenslandReef_EN-GB1671253384_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenslandReef_EN-GB1671253384_UHD.jpg)|
-||*Copyright: Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-05-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.Fratercula_EN-GB2057712590_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_EN-GB2057712590_UHD.jpg)|
+||*Copyright: Atlantic puffins, Wales (© FLPA/Alamy)*
 ||
 |||
-|2026-05-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.QueenslandReef_IT-IT3740031953_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenslandReef_IT-IT3740031953_UHD.jpg)|
-||*Copyright: Grande Barriera Corallina, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-05-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.Fratercula_IT-IT3997548905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_IT-IT3997548905_UHD.jpg)|
+||*Copyright: Pulcinelle di mare, Galles (© FLPA/Alamy)*
 ||
 |||
-|2026-05-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.QueenslandReef_ES-ES8051074781_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenslandReef_ES-ES8051074781_UHD.jpg)|
-||*Copyright: Gran Barrera de Coral desde el aire, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-05-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.Fratercula_ES-ES7096599670_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_ES-ES7096599670_UHD.jpg)|
+||*Copyright: Frailecillos atlánticos, Gales (© FLPA/Alamy)*
 ||
 |||
-|2026-05-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.QueenslandReef_FR-CA1633759764_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QueenslandReef_FR-CA1633759764_UHD.jpg)|
-||*Copyright: Vue aérienne de la Grande Barrière de Corail, Queensland, Australie (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-05-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.Fratercula_FR-CA7209998193_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_FR-CA7209998193_UHD.jpg)|
+||*Copyright: Macareux moines, Pays de Galles (© FLPA/Alamy)*
 ||
 |||
 
