@@ -6,9 +6,9 @@
 ||*Copyright: Atlantic puffins, Wales (© FLPA/Alamy)*
 ||
 |||
-|2026-05-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Fratercula_JA-JP6144226561_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_JA-JP6144226561_UHD.jpg)|
-||*Copyright: ニシツノメドリ, ウェールズ (© FLPA/Alamy)*
+|2026-05-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AlabamaHills_JA-JP6287825652_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlabamaHills_JA-JP6287825652_UHD.jpg)|
+||*Copyright: アラバマヒルズ, 米国 カリフォルニア州 (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
 |2026-05-12|**Region: en-IN**||

@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [11:25:50] Picture infomations saved to  global/fr-CA/README.md
 [11:25:50] Picture infomations saved to global/fr-CA/history/2026/05/13_fr-CA.md
 Program exit at 11:25:50
+
+Program started at 17:53:41
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:53:41] Start geting CN Bing Wallpaper
+[17:53:41] Successful get url: https://www.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg
+[17:53:42] Image saved to img/background.jpg
+[17:53:42] Info saved to README.md
+[17:53:42] Image saved to history/2026/05/13.md
+[17:53:42] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-12 13:53:42.028116-04:00
+[17:53:42] Successful get url: https://www.bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg
+[17:53:42] Picture infomations saved to  global/en-US/README.md
+[17:53:42] Picture infomations saved to global/en-US/history/2026/05/13_en-US.md
+[17:53:42] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-13 02:53:42.142063+09:00
+[17:53:42] Successful get url: https://www.bing.com/th?id=OHR.AlabamaHills_JA-JP6287825652_UHD.jpg
+[17:53:42] Picture infomations saved to  global/ja-JP/README.md
+[17:53:42] Picture infomations saved to global/ja-JP/history/2026/05/13_ja-JP.md
+[17:53:42] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-12 23:23:42.287103+05:30
+[17:53:42] Successful get url: https://www.bing.com/th?id=OHR.Fratercula_EN-IN6270767271_UHD.jpg
+[17:53:42] Picture infomations saved to  global/en-IN/README.md
+[17:53:42] Picture infomations saved to global/en-IN/history/2026/05/12_en-IN.md
+[17:53:42] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-12 14:53:42.417643-03:00
+[17:53:42] Successful get url: https://www.bing.com/th?id=OHR.Fratercula_PT-BR3505081741_UHD.jpg
+[17:53:42] Picture infomations saved to  global/pt-BR/README.md
+[17:53:42] Picture infomations saved to global/pt-BR/history/2026/05/13_pt-BR.md
+[17:53:42] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-12 19:53:42.544157+02:00
+[17:53:42] Successful get url: https://www.bing.com/th?id=OHR.ChairsCannes_FR-FR7320484740_UHD.jpg
+[17:53:42] Picture infomations saved to  global/fr-FR/README.md
+[17:53:42] Picture infomations saved to global/fr-FR/history/2026/05/12_fr-FR.md
+[17:53:42] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-12 19:53:42.756141+02:00
+[17:53:42] Successful get url: https://www.bing.com/th?id=OHR.Fratercula_DE-DE8669315365_UHD.jpg
+[17:53:42] Picture infomations saved to  global/de-DE/README.md
+[17:53:42] Picture infomations saved to global/de-DE/history/2026/05/12_de-DE.md
+[17:53:42] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-12 13:53:42.945650-04:00
+[17:53:42] Successful get url: https://www.bing.com/th?id=OHR.Fratercula_EN-CA9420779261_UHD.jpg
+[17:53:43] Picture infomations saved to  global/en-CA/README.md
+[17:53:43] Picture infomations saved to global/en-CA/history/2026/05/13_en-CA.md
+[17:53:43] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-12 18:53:43.074368+01:00
+[17:53:43] Successful get url: https://www.bing.com/th?id=OHR.Fratercula_EN-GB2057712590_UHD.jpg
+[17:53:43] Picture infomations saved to  global/en-GB/README.md
+[17:53:43] Picture infomations saved to global/en-GB/history/2026/05/12_en-GB.md
+[17:53:43] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-12 19:53:43.194874+02:00
+[17:53:43] Successful get url: https://www.bing.com/th?id=OHR.Fratercula_IT-IT3997548905_UHD.jpg
+[17:53:43] Picture infomations saved to  global/it-IT/README.md
+[17:53:43] Picture infomations saved to global/it-IT/history/2026/05/12_it-IT.md
+[17:53:43] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-12 19:53:43.432682+02:00
+[17:53:43] Successful get url: https://www.bing.com/th?id=OHR.Fratercula_ES-ES7096599670_UHD.jpg
+[17:53:43] Picture infomations saved to  global/es-ES/README.md
+[17:53:43] Picture infomations saved to global/es-ES/history/2026/05/12_es-ES.md
+[17:53:43] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-12 13:53:43.530422-04:00
+[17:53:43] Successful get url: https://www.bing.com/th?id=OHR.Fratercula_FR-CA7209998193_UHD.jpg
+[17:53:43] Picture infomations saved to  global/fr-CA/README.md
+[17:53:43] Picture infomations saved to global/fr-CA/history/2026/05/13_fr-CA.md
+Program exit at 17:53:43
