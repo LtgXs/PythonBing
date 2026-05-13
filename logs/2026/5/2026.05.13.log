@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [11:35:25] Picture infomations saved to  global/fr-CA/README.md
 [11:35:25] Picture infomations saved to global/fr-CA/history/2026/05/14_fr-CA.md
 Program exit at 11:35:25
+
+Program started at 17:55:36
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:55:36] Start geting CN Bing Wallpaper
+[17:55:36] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg
+[17:55:36] Image saved to img/background.jpg
+[17:55:36] Info saved to README.md
+[17:55:36] Image saved to history/2026/05/14.md
+[17:55:36] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-13 13:55:36.610517-04:00
+[17:55:36] Successful get url: https://www.bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_UHD.jpg
+[17:55:36] Picture infomations saved to  global/en-US/README.md
+[17:55:36] Picture infomations saved to global/en-US/history/2026/05/14_en-US.md
+[17:55:36] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-14 02:55:36.988104+09:00
+[17:55:37] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_JA-JP6741766886_UHD.jpg
+[17:55:37] Picture infomations saved to  global/ja-JP/README.md
+[17:55:37] Picture infomations saved to global/ja-JP/history/2026/05/14_ja-JP.md
+[17:55:37] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-13 23:25:37.401860+05:30
+[17:55:37] Successful get url: https://www.bing.com/th?id=OHR.AlabamaHills_EN-IN6543590373_UHD.jpg
+[17:55:37] Picture infomations saved to  global/en-IN/README.md
+[17:55:37] Picture infomations saved to global/en-IN/history/2026/05/13_en-IN.md
+[17:55:37] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-13 14:55:37.851381-03:00
+[17:55:37] Successful get url: https://www.bing.com/th?id=OHR.AlabamaHills_PT-BR6088970693_UHD.jpg
+[17:55:38] Picture infomations saved to  global/pt-BR/README.md
+[17:55:38] Picture infomations saved to global/pt-BR/history/2026/05/14_pt-BR.md
+[17:55:38] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-13 19:55:38.326711+02:00
+[17:55:38] Successful get url: https://www.bing.com/th?id=OHR.AlabamaHills_FR-FR7595844295_UHD.jpg
+[17:55:38] Picture infomations saved to  global/fr-FR/README.md
+[17:55:38] Picture infomations saved to global/fr-FR/history/2026/05/13_fr-FR.md
+[17:55:38] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-13 19:55:38.670060+02:00
+[17:55:38] Successful get url: https://www.bing.com/th?id=OHR.AlabamaHills_DE-DE8956133719_UHD.jpg
+[17:55:39] Picture infomations saved to  global/de-DE/README.md
+[17:55:39] Picture infomations saved to global/de-DE/history/2026/05/13_de-DE.md
+[17:55:39] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-13 13:55:39.100595-04:00
+[17:55:39] Successful get url: https://www.bing.com/th?id=OHR.AlabamaHills_EN-CA2745537583_UHD.jpg
+[17:55:39] Picture infomations saved to  global/en-CA/README.md
+[17:55:39] Picture infomations saved to global/en-CA/history/2026/05/14_en-CA.md
+[17:55:39] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-13 18:55:39.505004+01:00
+[17:55:39] Successful get url: https://www.bing.com/th?id=OHR.AlabamaHills_EN-GB2646719010_UHD.jpg
+[17:55:40] Picture infomations saved to  global/en-GB/README.md
+[17:55:40] Picture infomations saved to global/en-GB/history/2026/05/13_en-GB.md
+[17:55:40] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-13 19:55:40.051719+02:00
+[17:55:40] Successful get url: https://www.bing.com/th?id=OHR.AlabamaHills_IT-IT1042624581_UHD.jpg
+[17:55:40] Picture infomations saved to  global/it-IT/README.md
+[17:55:40] Picture infomations saved to global/it-IT/history/2026/05/13_it-IT.md
+[17:55:40] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-13 19:55:40.804571+02:00
+[17:55:40] Successful get url: https://www.bing.com/th?id=OHR.AlabamaHills_ES-ES6766032995_UHD.jpg
+[17:55:41] Picture infomations saved to  global/es-ES/README.md
+[17:55:41] Picture infomations saved to global/es-ES/history/2026/05/13_es-ES.md
+[17:55:41] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-13 13:55:41.213027-04:00
+[17:55:41] Successful get url: https://www.bing.com/th?id=OHR.AlabamaHills_FR-CA1825927853_UHD.jpg
+[17:55:41] Picture infomations saved to  global/fr-CA/README.md
+[17:55:41] Picture infomations saved to global/fr-CA/history/2026/05/14_fr-CA.md
+Program exit at 17:55:41
