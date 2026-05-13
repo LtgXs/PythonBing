@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-05-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg)|
-||*Copyright: Atlantic puffins, Wales (© FLPA/Alamy)*
+|2026-05-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_UHD.jpg)|
+||*Copyright: Arch and Milky Way, Alabama Hills, Sierra Nevada, California (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
 |2026-05-13|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アラバマヒルズ, 米国 カリフォルニア州 (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2026-05-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Fratercula_EN-IN6270767271_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_EN-IN6270767271_UHD.jpg)|
-||*Copyright: Atlantic puffins, Wales (© FLPA/Alamy)*
+|2026-05-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AlabamaHills_EN-IN6543590373_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlabamaHills_EN-IN6543590373_UHD.jpg)|
+||*Copyright: Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2026-05-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Fratercula_PT-BR3505081741_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_PT-BR3505081741_UHD.jpg)|
-||*Copyright: Papagaios-do-mar, País de Gales (© FLPA/Alamy)*
+|2026-05-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AlabamaHills_PT-BR6088970693_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlabamaHills_PT-BR6088970693_UHD.jpg)|
+||*Copyright: Arco rochoso e Via Láctea, Alabama Hills, Sierra Nevada, Califórnia, EUA (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2026-05-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ChairsCannes_FR-FR7320484740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChairsCannes_FR-FR7320484740_UHD.jpg)|
-||*Copyright: Des chaises attendent l'arrivée des célébrités et des cinéphiles au Festival de Cannes (© Christopher Furlong/Getty Images)*
+|2026-05-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AlabamaHills_FR-FR7595844295_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlabamaHills_FR-FR7595844295_UHD.jpg)|
+||*Copyright: Voie lactée et arche naturelle, Alabama Hills, Sierra Nevada, Californie, États-Unis (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2026-05-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.Fratercula_DE-DE8669315365_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_DE-DE8669315365_UHD.jpg)|
-||*Copyright: Papageitaucher, Wales (© FLPA/Alamy)*
+|2026-05-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AlabamaHills_DE-DE8956133719_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlabamaHills_DE-DE8956133719_UHD.jpg)|
+||*Copyright: Felsbogen und Milchstraße, Alabama Hills, Sierra Nevada, Kalifornien, USA (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2026-05-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Fratercula_EN-CA9420779261_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_EN-CA9420779261_UHD.jpg)|
-||*Copyright: Atlantic puffins, Wales (© FLPA/Alamy)*
+|2026-05-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AlabamaHills_EN-CA2745537583_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlabamaHills_EN-CA2745537583_UHD.jpg)|
+||*Copyright: Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2026-05-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.Fratercula_EN-GB2057712590_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_EN-GB2057712590_UHD.jpg)|
-||*Copyright: Atlantic puffins, Wales (© FLPA/Alamy)*
+|2026-05-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AlabamaHills_EN-GB2646719010_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlabamaHills_EN-GB2646719010_UHD.jpg)|
+||*Copyright: Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2026-05-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.Fratercula_IT-IT3997548905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_IT-IT3997548905_UHD.jpg)|
-||*Copyright: Pulcinelle di mare, Galles (© FLPA/Alamy)*
+|2026-05-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AlabamaHills_IT-IT1042624581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlabamaHills_IT-IT1042624581_UHD.jpg)|
+||*Copyright: Arco e Via Lattea, Alabama Hills, Sierra Nevada, California, USA (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2026-05-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.Fratercula_ES-ES7096599670_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_ES-ES7096599670_UHD.jpg)|
-||*Copyright: Frailecillos atlánticos, Gales (© FLPA/Alamy)*
+|2026-05-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AlabamaHills_ES-ES6766032995_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlabamaHills_ES-ES6766032995_UHD.jpg)|
+||*Copyright: Arco y Vía Láctea, Alabama Hills, Sierra Nevada, California, EE. UU. (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
-|2026-05-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Fratercula_FR-CA7209998193_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fratercula_FR-CA7209998193_UHD.jpg)|
-||*Copyright: Macareux moines, Pays de Galles (© FLPA/Alamy)*
+|2026-05-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AlabamaHills_FR-CA1825927853_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlabamaHills_FR-CA1825927853_UHD.jpg)|
+||*Copyright: Voie lactée et arche naturelle, Alabama Hills, Sierra Nevada, Californie, États-Unis (© Tim Fitzharris/Minden Pictures)*
 ||
 |||
 
