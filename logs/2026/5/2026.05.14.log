@@ -1,0 +1,60 @@
+
+Program started at 11:20:40
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:20:40] Start geting CN Bing Wallpaper
+[11:20:40] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg
+[11:20:40] Image saved to img/background.jpg
+[11:20:40] Info saved to README.md
+[11:20:40] Image saved to history/2026/05/14.md
+[11:20:40] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-14 07:20:40.817611-04:00
+[11:20:40] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_EN-US1208308627_UHD.jpg
+[11:20:40] Picture infomations saved to  global/en-US/README.md
+[11:20:40] Picture infomations saved to global/en-US/history/2026/05/15_en-US.md
+[11:20:40] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-14 20:20:40.954470+09:00
+[11:20:40] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_JA-JP6741766886_UHD.jpg
+[11:20:41] Picture infomations saved to  global/ja-JP/README.md
+[11:20:41] Picture infomations saved to global/ja-JP/history/2026/05/14_ja-JP.md
+[11:20:41] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-14 16:50:41.073230+05:30
+[11:20:41] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_EN-IN6839021414_UHD.jpg
+[11:20:41] Picture infomations saved to  global/en-IN/README.md
+[11:20:41] Picture infomations saved to global/en-IN/history/2026/05/14_en-IN.md
+[11:20:41] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-14 08:20:41.196931-03:00
+[11:20:41] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_PT-BR6490421583_UHD.jpg
+[11:20:41] Picture infomations saved to  global/pt-BR/README.md
+[11:20:41] Picture infomations saved to global/pt-BR/history/2026/05/15_pt-BR.md
+[11:20:41] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-14 13:20:41.349962+02:00
+[11:20:41] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_FR-FR6271151676_UHD.jpg
+[11:20:41] Picture infomations saved to  global/fr-FR/README.md
+[11:20:41] Picture infomations saved to global/fr-FR/history/2026/05/14_fr-FR.md
+[11:20:41] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-14 13:20:41.594553+02:00
+[11:20:41] Successful get url: https://www.bing.com/th?id=OHR.FathersDayItaly_DE-DE9115360587_UHD.jpg
+[11:20:41] Picture infomations saved to  global/de-DE/README.md
+[11:20:41] Picture infomations saved to global/de-DE/history/2026/05/14_de-DE.md
+[11:20:41] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-14 07:20:41.742089-04:00
+[11:20:41] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_EN-CA9857257534_UHD.jpg
+[11:20:41] Picture infomations saved to  global/en-CA/README.md
+[11:20:41] Picture infomations saved to global/en-CA/history/2026/05/15_en-CA.md
+[11:20:41] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-14 12:20:41.867186+01:00
+[11:20:41] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_EN-GB3042825945_UHD.jpg
+[11:20:42] Picture infomations saved to  global/en-GB/README.md
+[11:20:42] Picture infomations saved to global/en-GB/history/2026/05/14_en-GB.md
+[11:20:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-14 13:20:42.061661+02:00
+[11:20:42] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_IT-IT4525034108_UHD.jpg
+[11:20:42] Picture infomations saved to  global/it-IT/README.md
+[11:20:42] Picture infomations saved to global/it-IT/history/2026/05/14_it-IT.md
+[11:20:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-14 13:20:42.412657+02:00
+[11:20:42] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_ES-ES6539419592_UHD.jpg
+[11:20:42] Picture infomations saved to  global/es-ES/README.md
+[11:20:42] Picture infomations saved to global/es-ES/history/2026/05/14_es-ES.md
+[11:20:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-14 07:20:42.540839-04:00
+[11:20:42] Successful get url: https://www.bing.com/th?id=OHR.Pitigliano_FR-CA7469952777_UHD.jpg
+[11:20:42] Picture infomations saved to  global/fr-CA/README.md
+[11:20:42] Picture infomations saved to global/fr-CA/history/2026/05/15_fr-CA.md
+Program exit at 11:20:42
