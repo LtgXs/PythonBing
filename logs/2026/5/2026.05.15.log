@@ -1,0 +1,60 @@
+
+Program started at 11:28:36
+Operating System Name: Linux
+Operating System Version: #10~24.04.1-Ubuntu SMP Fri Mar  6 22:00:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmeorf1
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:28:37] Start geting CN Bing Wallpaper
+[11:28:37] Successful get url: https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg
+[11:28:37] Image saved to img/background.jpg
+[11:28:37] Info saved to README.md
+[11:28:37] Image saved to history/2026/05/15.md
+[11:28:37] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-15 07:28:37.187458-04:00
+[11:28:37] Successful get url: https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg
+[11:28:37] Picture infomations saved to  global/en-US/README.md
+[11:28:37] Picture infomations saved to global/en-US/history/2026/05/16_en-US.md
+[11:28:37] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-15 20:28:37.298030+09:00
+[11:28:37] Successful get url: https://www.bing.com/th?id=OHR.EndangeredWhales_JA-JP6796432237_UHD.jpg
+[11:28:37] Picture infomations saved to  global/ja-JP/README.md
+[11:28:37] Picture infomations saved to global/ja-JP/history/2026/05/15_ja-JP.md
+[11:28:37] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-15 16:58:37.438409+05:30
+[11:28:37] Successful get url: https://www.bing.com/th?id=OHR.EndangeredWhales_EN-IN8821227225_UHD.jpg
+[11:28:37] Picture infomations saved to  global/en-IN/README.md
+[11:28:37] Picture infomations saved to global/en-IN/history/2026/05/15_en-IN.md
+[11:28:37] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-15 08:28:37.604835-03:00
+[11:28:37] Successful get url: https://www.bing.com/th?id=OHR.EndangeredWhales_PT-BR4927583438_UHD.jpg
+[11:28:37] Picture infomations saved to  global/pt-BR/README.md
+[11:28:37] Picture infomations saved to global/pt-BR/history/2026/05/16_pt-BR.md
+[11:28:37] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-15 13:28:37.722906+02:00
+[11:28:37] Successful get url: https://www.bing.com/th?id=OHR.EndangeredWhales_FR-FR6600435943_UHD.jpg
+[11:28:37] Picture infomations saved to  global/fr-FR/README.md
+[11:28:37] Picture infomations saved to global/fr-FR/history/2026/05/15_fr-FR.md
+[11:28:37] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-15 13:28:37.839763+02:00
+[11:28:37] Successful get url: https://www.bing.com/th?id=OHR.EndangeredWhales_DE-DE2753356925_UHD.jpg
+[11:28:37] Picture infomations saved to  global/de-DE/README.md
+[11:28:37] Picture infomations saved to global/de-DE/history/2026/05/15_de-DE.md
+[11:28:37] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-15 07:28:37.993225-04:00
+[11:28:38] Successful get url: https://www.bing.com/th?id=OHR.EndangeredWhales_EN-CA3958400554_UHD.jpg
+[11:28:38] Picture infomations saved to  global/en-CA/README.md
+[11:28:38] Picture infomations saved to global/en-CA/history/2026/05/16_en-CA.md
+[11:28:38] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-15 12:28:38.094992+01:00
+[11:28:38] Successful get url: https://www.bing.com/th?id=OHR.EndangeredWhales_EN-GB6066298369_UHD.jpg
+[11:28:38] Picture infomations saved to  global/en-GB/README.md
+[11:28:38] Picture infomations saved to global/en-GB/history/2026/05/15_en-GB.md
+[11:28:38] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-15 13:28:38.204227+02:00
+[11:28:38] Successful get url: https://www.bing.com/th?id=OHR.LenticchieNorcia_IT-IT5069422241_UHD.jpg
+[11:28:38] Picture infomations saved to  global/it-IT/README.md
+[11:28:38] Picture infomations saved to global/it-IT/history/2026/05/15_it-IT.md
+[11:28:38] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-15 13:28:38.317374+02:00
+[11:28:38] Successful get url: https://www.bing.com/th?id=OHR.EndangeredWhales_ES-ES4800033138_UHD.jpg
+[11:28:38] Picture infomations saved to  global/es-ES/README.md
+[11:28:38] Picture infomations saved to global/es-ES/history/2026/05/15_es-ES.md
+[11:28:38] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-15 07:28:38.506079-04:00
+[11:28:38] Successful get url: https://www.bing.com/th?id=OHR.EndangeredWhales_FR-CA2546674025_UHD.jpg
+[11:28:38] Picture infomations saved to  global/fr-CA/README.md
+[11:28:38] Picture infomations saved to global/fr-CA/history/2026/05/16_fr-CA.md
+Program exit at 11:28:38

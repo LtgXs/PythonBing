@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-05-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.Pitigliano_EN-US1208308627_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Pitigliano_EN-US1208308627_UHD.jpg)|
-||*Copyright: Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)*
+|2026-05-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg)|
+||*Copyright: A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)*
 ||
 |||
 |2026-05-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: マッコウクジラ, インド洋 (© Tony Wu/Nature Picture Library)*
 ||
 |||
-|2026-05-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Pitigliano_EN-IN6839021414_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Pitigliano_EN-IN6839021414_UHD.jpg)|
-||*Copyright: Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)*
+|2026-05-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-IN8821227225_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-IN8821227225_UHD.jpg)|
+||*Copyright: A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)*
 ||
 |||
-|2026-05-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Pitigliano_PT-BR6490421583_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Pitigliano_PT-BR6490421583_UHD.jpg)|
-||*Copyright: Cidade medieval de Pitigliano, Toscana, Itália (© bluejayphoto/Getty Images Plus)*
+|2026-05-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.EndangeredWhales_PT-BR4927583438_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_PT-BR4927583438_UHD.jpg)|
+||*Copyright: Família de cachalotes, oceano Índico (© Tony Wu/Nature Picture Library)*
 ||
 |||
-|2026-05-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.Pitigliano_FR-FR6271151676_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Pitigliano_FR-FR6271151676_UHD.jpg)|
-||*Copyright: Ville médiévale de Pitigliano, Toscane, Italie (© bluejayphoto/Getty Images Plus)*
+|2026-05-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.EndangeredWhales_FR-FR6600435943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_FR-FR6600435943_UHD.jpg)|
+||*Copyright: Famille de cachalots, Océan Indien (© Tony Wu/Nature Picture Library)*
 ||
 |||
-|2026-05-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FathersDayItaly_DE-DE9115360587_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FathersDayItaly_DE-DE9115360587_UHD.jpg)|
-||*Copyright: Löwenmännchen mit Jungtier (© JasonPrince/iStock/Getty Images)*
+|2026-05-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.EndangeredWhales_DE-DE2753356925_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_DE-DE2753356925_UHD.jpg)|
+||*Copyright: Eine Pottwal-Familie im Indischen Ozean (© Tony Wu/Nature Picture Library)*
 ||
 |||
-|2026-05-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Pitigliano_EN-CA9857257534_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Pitigliano_EN-CA9857257534_UHD.jpg)|
-||*Copyright: Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)*
+|2026-05-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-CA3958400554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-CA3958400554_UHD.jpg)|
+||*Copyright: A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)*
 ||
 |||
-|2026-05-14|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.Pitigliano_EN-GB3042825945_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Pitigliano_EN-GB3042825945_UHD.jpg)|
-||*Copyright: Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)*
+|2026-05-15|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-GB6066298369_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-GB6066298369_UHD.jpg)|
+||*Copyright: A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)*
 ||
 |||
-|2026-05-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.Pitigliano_IT-IT4525034108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Pitigliano_IT-IT4525034108_UHD.jpg)|
-||*Copyright: Pitigliano, Provincia di Grosseto, Toscana (© bluejayphoto/Getty Images Plus)*
+|2026-05-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LenticchieNorcia_IT-IT5069422241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LenticchieNorcia_IT-IT5069422241_UHD.jpg)|
+||*Copyright: Lenticchie in fiore, Castelluccio di Norcia, Perugia, Umbria (© Rudolf Ernst/iStock/Getty Images)*
 ||
 |||
-|2026-05-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.Pitigliano_ES-ES6539419592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Pitigliano_ES-ES6539419592_UHD.jpg)|
-||*Copyright: Ciudad medieval de Pitigliano, Toscana, Italia (© bluejayphoto/Getty Images Plus)*
+|2026-05-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.EndangeredWhales_ES-ES4800033138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_ES-ES4800033138_UHD.jpg)|
+||*Copyright: Una familia de cachalotes, océano Índico (© Tony Wu/Nature Picture Library)*
 ||
 |||
-|2026-05-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Pitigliano_FR-CA7469952777_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Pitigliano_FR-CA7469952777_UHD.jpg)|
-||*Copyright: Ville médiévale de Pitigliano, Toscane, Italie (© bluejayphoto/Getty Images Plus)*
+|2026-05-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.EndangeredWhales_FR-CA2546674025_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_FR-CA2546674025_UHD.jpg)|
+||*Copyright: Famille de cachalots, Océan Indien (© Tony Wu/Nature Picture Library)*
 ||
 |||
 
