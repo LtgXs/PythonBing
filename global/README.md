@@ -6,9 +6,9 @@
 ||*Copyright: A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)*
 ||
 |||
-|2026-05-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EndangeredWhales_JA-JP6796432237_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_JA-JP6796432237_UHD.jpg)|
-||*Copyright: マッコウクジラ, インド洋 (© Tony Wu/Nature Picture Library)*
+|2026-05-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SmithRockPark_JA-JP7493165844_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmithRockPark_JA-JP7493165844_UHD.jpg)|
+||*Copyright: スミスロック州立公園, 米国 オレゴン州 (© Alex Ratson/Getty Images)*
 ||
 |||
 |2026-05-15|**Region: en-IN**||
