@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-05-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg)|
-||*Copyright: A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)*
+|2026-05-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg)|
+||*Copyright: Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)*
 ||
 |||
 |2026-05-16|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: スミスロック州立公園, 米国 オレゴン州 (© Alex Ratson/Getty Images)*
 ||
 |||
-|2026-05-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-IN8821227225_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-IN8821227225_UHD.jpg)|
-||*Copyright: A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)*
+|2026-05-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SmithRockPark_EN-IN9136730901_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmithRockPark_EN-IN9136730901_UHD.jpg)|
+||*Copyright: Smith Rock State Park, Oregon, United States (© Alex Ratson/Getty Images)*
 ||
 |||
-|2026-05-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.EndangeredWhales_PT-BR4927583438_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_PT-BR4927583438_UHD.jpg)|
-||*Copyright: Família de cachalotes, oceano Índico (© Tony Wu/Nature Picture Library)*
+|2026-05-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Buracao_PT-BR7518499247_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Buracao_PT-BR7518499247_UHD.jpg)|
+||*Copyright: Cânion do Buracão, Ibicoara, Chapada Diamantina, Bahia (© Celia Hueck/Getty Images)*
 ||
 |||
-|2026-05-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.EndangeredWhales_FR-FR6600435943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_FR-FR6600435943_UHD.jpg)|
-||*Copyright: Famille de cachalots, Océan Indien (© Tony Wu/Nature Picture Library)*
+|2026-05-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BirchForest_FR-FR7115403118_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BirchForest_FR-FR7115403118_UHD.jpg)|
+||*Copyright: Forêt de bouleaux, Bourgogne (© Wenphotos/Alamy)*
 ||
 |||
-|2026-05-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.EndangeredWhales_DE-DE2753356925_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_DE-DE2753356925_UHD.jpg)|
-||*Copyright: Eine Pottwal-Familie im Indischen Ozean (© Tony Wu/Nature Picture Library)*
+|2026-05-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ButterflyFlower_DE-DE3210389568_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ButterflyFlower_DE-DE3210389568_UHD.jpg)|
+||*Copyright: Argus‑Bläuling auf einer Blüte (© Remus86/Getty Images)*
 ||
 |||
-|2026-05-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-CA3958400554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-CA3958400554_UHD.jpg)|
-||*Copyright: A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)*
+|2026-05-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SmithRockPark_EN-CA4269417858_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmithRockPark_EN-CA4269417858_UHD.jpg)|
+||*Copyright: Smith Rock State Park, Oregon, United States (© Alex Ratson/Getty Images)*
 ||
 |||
-|2026-05-15|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-GB6066298369_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-GB6066298369_UHD.jpg)|
-||*Copyright: A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)*
+|2026-05-16|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SmithRockPark_EN-GB6390650151_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmithRockPark_EN-GB6390650151_UHD.jpg)|
+||*Copyright: Smith Rock State Park, Oregon, United States (© Alex Ratson/Getty Images)*
 ||
 |||
-|2026-05-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LenticchieNorcia_IT-IT5069422241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LenticchieNorcia_IT-IT5069422241_UHD.jpg)|
-||*Copyright: Lenticchie in fiore, Castelluccio di Norcia, Perugia, Umbria (© Rudolf Ernst/iStock/Getty Images)*
+|2026-05-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SmithRockPark_IT-IT1024044993_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmithRockPark_IT-IT1024044993_UHD.jpg)|
+||*Copyright: Smith Rock State Park, Oregon, USA (© Alex Ratson/Getty Images)*
 ||
 |||
-|2026-05-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.EndangeredWhales_ES-ES4800033138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_ES-ES4800033138_UHD.jpg)|
-||*Copyright: Una familia de cachalotes, océano Índico (© Tony Wu/Nature Picture Library)*
+|2026-05-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BosqueCielo_ES-ES4003642577_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BosqueCielo_ES-ES4003642577_UHD.jpg)|
+||*Copyright: Cielo entre pinos (© Synoptics/Getty Images)*
 ||
 |||
-|2026-05-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.EndangeredWhales_FR-CA2546674025_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EndangeredWhales_FR-CA2546674025_UHD.jpg)|
-||*Copyright: Famille de cachalots, Océan Indien (© Tony Wu/Nature Picture Library)*
+|2026-05-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SmithRockPark_FR-CA6286478118_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmithRockPark_FR-CA6286478118_UHD.jpg)|
+||*Copyright: Parc d’État de Smith Rock, Oregon, États-Unis (© Alex Ratson/Getty Images)*
 ||
 |||
 
