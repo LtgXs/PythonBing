@@ -6,9 +6,9 @@
 ||*Copyright: Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)*
 ||
 |||
-|2026-05-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SmithRockPark_JA-JP7493165844_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SmithRockPark_JA-JP7493165844_UHD.jpg)|
-||*Copyright: スミスロック州立公園, 米国 オレゴン州 (© Alex Ratson/Getty Images)*
+|2026-05-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ShenandoahSunset_JA-JP8062281581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahSunset_JA-JP8062281581_UHD.jpg)|
+||*Copyright: ホークスビル山, 米国 バージニア州 (© John Baggaley/Getty Images)*
 ||
 |||
 |2026-05-16|**Region: en-IN**||
