@@ -6,9 +6,9 @@
 ||*Copyright: Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)*
 ||
 |||
-|2026-05-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ShenandoahSunset_JA-JP8062281581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahSunset_JA-JP8062281581_UHD.jpg)|
-||*Copyright: ホークスビル山, 米国 バージニア州 (© John Baggaley/Getty Images)*
+|2026-05-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MuseumDay2026_JA-JP8089592575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumDay2026_JA-JP8089592575_UHD.jpg)|
+||*Copyright: 国立科学博物館, 東京 (© cowardlion/Shutterstock)*
 ||
 |||
 |2026-05-17|**Region: en-IN**||
