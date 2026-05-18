@@ -6,9 +6,9 @@
 ||*Copyright: Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2026-05-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MuseumDay2026_JA-JP8089592575_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumDay2026_JA-JP8089592575_UHD.jpg)|
-||*Copyright: 国立科学博物館, 東京 (© cowardlion/Shutterstock)*
+|2026-05-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SpainLighthouse_JA-JP8366354857_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_JA-JP8366354857_UHD.jpg)|
+||*Copyright: フォルメントール灯台, スペイン (© Allard Schager/Getty Images)*
 ||
 |||
 |2026-05-18|**Region: en-IN**||
