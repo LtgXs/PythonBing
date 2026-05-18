@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-05-19
+## History Bing Wallpaper
+Wallpaper date: 2026-05-19
 ![](https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg&w=1000)Download: [Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg)
 
 Auto get programm by LtgX

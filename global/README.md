@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-05-18|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg)|
-||*Copyright: Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)*
+|2026-05-19|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg)|
+||*Copyright: Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
 |2026-05-18|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 国立科学博物館, 東京 (© cowardlion/Shutterstock)*
 ||
 |||
-|2026-05-17|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-IN9525704190_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-IN9525704190_UHD.jpg)|
-||*Copyright: Hawksbill Mountain in Shenandoah National Park, Virginia, USA (© John Baggaley/Getty Images)*
+|2026-05-18|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MuseumLondon_EN-IN9734086718_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_EN-IN9734086718_UHD.jpg)|
+||*Copyright: Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2026-05-18|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ShenandoahSunset_PT-BR7351185056_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahSunset_PT-BR7351185056_UHD.jpg)|
-||*Copyright: Montanha Hawksbill, Parque Nacional de Shenandoah, Virgínia, Estados Unidos (© John Baggaley/Getty Images)*
+|2026-05-19|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MuseumLondon_PT-BR8647023731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_PT-BR8647023731_UHD.jpg)|
+||*Copyright: Museu de História Natural, Londres, Inglaterra (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2026-05-17|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ShenandoahSunset_FR-FR7678507020_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahSunset_FR-FR7678507020_UHD.jpg)|
-||*Copyright: Hawksbill Mountain, Parc national de Shenandoah, Virginie, États-Unis (© John Baggaley/Getty Images)*
+|2026-05-18|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746_UHD.jpg)|
+||*Copyright: Chapeaux de paille dans les tribunes de Roland-Garros, Paris (© Horacio Villalobos/Corbis)*
 ||
 |||
-|2026-05-17|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ShenandoahSunset_DE-DE3403386055_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahSunset_DE-DE3403386055_UHD.jpg)|
-||*Copyright: Hawksbill Mountain im Shenandoah‑Nationalpark, Virginia, USA (© John Baggaley/Getty Images)*
+|2026-05-18|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_UHD.jpg)|
+||*Copyright: Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2026-05-18|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-CA4630917998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-CA4630917998_UHD.jpg)|
-||*Copyright: Hawksbill Mountain in Shenandoah National Park, Virginia, United States (© John Baggaley/Getty Images)*
+|2026-05-19|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.MuseumLondon_EN-CA4971408821_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_EN-CA4971408821_UHD.jpg)|
+||*Copyright: Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2026-05-17|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-GB6739469556_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-GB6739469556_UHD.jpg)|
-||*Copyright: Hawksbill Mountain in Shenandoah National Park, Virginia, United States (© John Baggaley/Getty Images)*
+|2026-05-18|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MuseumLondon_EN-GB7020914823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_EN-GB7020914823_UHD.jpg)|
+||*Copyright: Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2026-05-17|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ShenandoahSunset_IT-IT1185587153_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahSunset_IT-IT1185587153_UHD.jpg)|
-||*Copyright: Monte Hawksbill, parco nazionale di Shenandoah, Virginia, USA (© John Baggaley/Getty Images)*
+|2026-05-18|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MuseumLondon_IT-IT4307019810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_IT-IT4307019810_UHD.jpg)|
+||*Copyright: Museo di Storia Naturale, Londra, Inghilterra (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2026-05-17|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ShenandoahSunset_ES-ES1620430283_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahSunset_ES-ES1620430283_UHD.jpg)|
-||*Copyright: Montaña Hawksbill, Parque Nacional Shenandoah, Virginia, EE. UU. (© John Baggaley/Getty Images)*
+|2026-05-18|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MuseumLondon_ES-ES5275876055_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_ES-ES5275876055_UHD.jpg)|
+||*Copyright: Museo de Historia Natural, Londres, Inglaterra (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
-|2026-05-18|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ShenandoahSunset_FR-CA3281673722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShenandoahSunset_FR-CA3281673722_UHD.jpg)|
-||*Copyright: Hawksbill Mountain, Parc national de Shenandoah, Virginie, États-Unis (© John Baggaley/Getty Images)*
+|2026-05-19|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.MuseumLondon_FR-CA6631249560_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_FR-CA6631249560_UHD.jpg)|
+||*Copyright: Musée d’histoire naturelle de Londres, Angleterre (© Colm Keating/Tandem Stills + Motion)*
 ||
 |||
 
