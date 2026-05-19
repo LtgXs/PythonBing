@@ -6,9 +6,9 @@
 ||*Copyright: Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)*
 ||
 |||
-|2026-05-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SpainLighthouse_JA-JP8366354857_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_JA-JP8366354857_UHD.jpg)|
-||*Copyright: フォルメントール灯台, スペイン (© Allard Schager/Getty Images)*
+|2026-05-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BumbleBee_JA-JP8551190250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BumbleBee_JA-JP8551190250_UHD.jpg)|
+||*Copyright: 受粉しているマルハナバチ, イングランド (© SimonEastwood87/Shutterstock)*
 ||
 |||
 |2026-05-19|**Region: en-IN**||
