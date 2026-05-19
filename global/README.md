@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-05-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg)|
-||*Copyright: Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)*
+|2026-05-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg)|
+||*Copyright: Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)*
 ||
 |||
 |2026-05-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: フォルメントール灯台, スペイン (© Allard Schager/Getty Images)*
 ||
 |||
-|2026-05-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MuseumLondon_EN-IN9734086718_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_EN-IN9734086718_UHD.jpg)|
-||*Copyright: Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)*
+|2026-05-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-IN0100317723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-IN0100317723_UHD.jpg)|
+||*Copyright: Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)*
 ||
 |||
-|2026-05-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MuseumLondon_PT-BR8647023731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_PT-BR8647023731_UHD.jpg)|
-||*Copyright: Museu de História Natural, Londres, Inglaterra (© Colm Keating/Tandem Stills + Motion)*
+|2026-05-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SpainLighthouse_PT-BR9837530497_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_PT-BR9837530497_UHD.jpg)|
+||*Copyright: Farol de Formentor, Maiorca, Ilhas Baleares, Espanha (© Allard Schager/Getty Images)*
 ||
 |||
-|2026-05-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746_UHD.jpg)|
-||*Copyright: Chapeaux de paille dans les tribunes de Roland-Garros, Paris (© Horacio Villalobos/Corbis)*
+|2026-05-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-FR9037625281_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-FR9037625281_UHD.jpg)|
+||*Copyright: Phare de Formentor, Majorque, Îles Baléares, Espagne (© Allard Schager/Getty Images)*
 ||
 |||
-|2026-05-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_UHD.jpg)|
-||*Copyright: Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)*
+|2026-05-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SpainLighthouse_DE-DE4107700722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_DE-DE4107700722_UHD.jpg)|
+||*Copyright: Leuchtturm von Formentor, Mallorca, Balearen, Spanien (© Allard Schager/Getty Images)*
 ||
 |||
-|2026-05-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MuseumLondon_EN-CA4971408821_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_EN-CA4971408821_UHD.jpg)|
-||*Copyright: Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)*
+|2026-05-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-CA8086734621_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-CA8086734621_UHD.jpg)|
+||*Copyright: Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)*
 ||
 |||
-|2026-05-18|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MuseumLondon_EN-GB7020914823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_EN-GB7020914823_UHD.jpg)|
-||*Copyright: Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)*
+|2026-05-19|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ChelseaFlower2026_EN-GB7917648389_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChelseaFlower2026_EN-GB7917648389_UHD.jpg)|
+||*Copyright: Carnivorous red and green pitcher plants at the Chelsea Flower Show (© Jillian Cain Photography/Shutterstock)*
 ||
 |||
-|2026-05-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MuseumLondon_IT-IT4307019810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_IT-IT4307019810_UHD.jpg)|
-||*Copyright: Museo di Storia Naturale, Londra, Inghilterra (© Colm Keating/Tandem Stills + Motion)*
+|2026-05-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SpainLighthouse_IT-IT2595546195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_IT-IT2595546195_UHD.jpg)|
+||*Copyright: Faro di Formentor, Maiorca, Isole Baleari, Spagna (© Allard Schager/Getty Images)*
 ||
 |||
-|2026-05-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.MuseumLondon_ES-ES5275876055_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_ES-ES5275876055_UHD.jpg)|
-||*Copyright: Museo de Historia Natural, Londres, Inglaterra (© Colm Keating/Tandem Stills + Motion)*
+|2026-05-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SpainLighthouse_ES-ES7620314804_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_ES-ES7620314804_UHD.jpg)|
+||*Copyright: Faro de Formentor, Mallorca, Islas Baleares (© Allard Schager/Getty Images)*
 ||
 |||
-|2026-05-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MuseumLondon_FR-CA6631249560_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MuseumLondon_FR-CA6631249560_UHD.jpg)|
-||*Copyright: Musée d’histoire naturelle de Londres, Angleterre (© Colm Keating/Tandem Stills + Motion)*
+|2026-05-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-CA3649228995_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-CA3649228995_UHD.jpg)|
+||*Copyright: Phare de Formentor, Majorque, Îles Baléares, Espagne (© Allard Schager/Getty Images)*
 ||
 |||
 
