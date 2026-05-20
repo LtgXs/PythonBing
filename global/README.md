@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-05-20|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg)|
-||*Copyright: Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)*
+|2026-05-21|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg)|
+||*Copyright: Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)*
 ||
 |||
 |2026-05-20|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 受粉しているマルハナバチ, イングランド (© SimonEastwood87/Shutterstock)*
 ||
 |||
-|2026-05-19|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-IN0100317723_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-IN0100317723_UHD.jpg)|
-||*Copyright: Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)*
+|2026-05-20|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BumbleBee_EN-IN0298436204_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BumbleBee_EN-IN0298436204_UHD.jpg)|
+||*Copyright: Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)*
 ||
 |||
-|2026-05-20|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SpainLighthouse_PT-BR9837530497_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_PT-BR9837530497_UHD.jpg)|
-||*Copyright: Farol de Formentor, Maiorca, Ilhas Baleares, Espanha (© Allard Schager/Getty Images)*
+|2026-05-21|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BumbleBee_PT-BR0219466294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BumbleBee_PT-BR0219466294_UHD.jpg)|
+||*Copyright: Abelha-mamangava polinizando, Worcester, Inglaterra (© SimonEastwood87/Shutterstock)*
 ||
 |||
-|2026-05-19|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-FR9037625281_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-FR9037625281_UHD.jpg)|
-||*Copyright: Phare de Formentor, Majorque, Îles Baléares, Espagne (© Allard Schager/Getty Images)*
+|2026-05-20|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BumbleBee_FR-FR9421197553_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BumbleBee_FR-FR9421197553_UHD.jpg)|
+||*Copyright: Bourdon, Worcester, Angleterre (© SimonEastwood87/Shutterstock)*
 ||
 |||
-|2026-05-19|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SpainLighthouse_DE-DE4107700722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_DE-DE4107700722_UHD.jpg)|
-||*Copyright: Leuchtturm von Formentor, Mallorca, Balearen, Spanien (© Allard Schager/Getty Images)*
+|2026-05-20|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BumbleBee_DE-DE5081297615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BumbleBee_DE-DE5081297615_UHD.jpg)|
+||*Copyright: Hummel bei der Bestäubung, Worcester, England (© SimonEastwood87/Shutterstock)*
 ||
 |||
-|2026-05-20|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-CA8086734621_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-CA8086734621_UHD.jpg)|
-||*Copyright: Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)*
+|2026-05-21|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BumbleBee_EN-CA5527051866_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BumbleBee_EN-CA5527051866_UHD.jpg)|
+||*Copyright: Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)*
 ||
 |||
-|2026-05-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ChelseaFlower2026_EN-GB7917648389_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChelseaFlower2026_EN-GB7917648389_UHD.jpg)|
-||*Copyright: Carnivorous red and green pitcher plants at the Chelsea Flower Show (© Jillian Cain Photography/Shutterstock)*
+|2026-05-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BumbleBee_EN-GB2743073373_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BumbleBee_EN-GB2743073373_UHD.jpg)|
+||*Copyright: Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)*
 ||
 |||
-|2026-05-19|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SpainLighthouse_IT-IT2595546195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_IT-IT2595546195_UHD.jpg)|
-||*Copyright: Faro di Formentor, Maiorca, Isole Baleari, Spagna (© Allard Schager/Getty Images)*
+|2026-05-20|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BumbleBee_IT-IT3169631379_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BumbleBee_IT-IT3169631379_UHD.jpg)|
+||*Copyright: Bombo, Worcester, Inghilterra (© SimonEastwood87/Shutterstock)*
 ||
 |||
-|2026-05-19|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SpainLighthouse_ES-ES7620314804_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_ES-ES7620314804_UHD.jpg)|
-||*Copyright: Faro de Formentor, Mallorca, Islas Baleares (© Allard Schager/Getty Images)*
+|2026-05-20|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BumbleBee_ES-ES7776212975_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BumbleBee_ES-ES7776212975_UHD.jpg)|
+||*Copyright: Abejorro polinizando, Worcester, Inglaterra (© SimonEastwood87/Shutterstock)*
 ||
 |||
-|2026-05-20|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-CA3649228995_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-CA3649228995_UHD.jpg)|
-||*Copyright: Phare de Formentor, Majorque, Îles Baléares, Espagne (© Allard Schager/Getty Images)*
+|2026-05-21|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BumbleBee_FR-CA3745675981_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BumbleBee_FR-CA3745675981_UHD.jpg)|
+||*Copyright: Bourdon, Worcester, Angleterre (© SimonEastwood87/Shutterstock)*
 ||
 |||
 
