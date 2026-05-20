@@ -6,9 +6,9 @@
 ||*Copyright: Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)*
 ||
 |||
-|2026-05-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BumbleBee_JA-JP8551190250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BumbleBee_JA-JP8551190250_UHD.jpg)|
-||*Copyright: 受粉しているマルハナバチ, イングランド (© SimonEastwood87/Shutterstock)*
+|2026-05-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SichuanTea_JA-JP8777846900_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SichuanTea_JA-JP8777846900_UHD.jpg)|
+||*Copyright: 四川省の茶畑, 中国 (© lzf/Shutterstock)*
 ||
 |||
 |2026-05-20|**Region: en-IN**||
