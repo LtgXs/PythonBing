@@ -6,9 +6,9 @@
 ||*Copyright: Tea terraces in Sichuan Province, China (© lzf/Shutterstock)*
 ||
 |||
-|2026-05-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SichuanTea_JA-JP8777846900_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SichuanTea_JA-JP8777846900_UHD.jpg)|
-||*Copyright: 四川省の茶畑, 中国 (© lzf/Shutterstock)*
+|2026-05-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TokyoSkyTreeDay2026_JA-JP8960437090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSkyTreeDay2026_JA-JP8960437090_UHD.jpg)|
+||*Copyright: 東京スカイツリー, 東京 (© GoranQ/Getty Images)*
 ||
 |||
 |2026-05-21|**Region: en-IN**||

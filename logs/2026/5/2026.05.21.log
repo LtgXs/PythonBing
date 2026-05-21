@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [12:26:01] Picture infomations saved to  global/fr-CA/README.md
 [12:26:01] Picture infomations saved to global/fr-CA/history/2026/05/22_fr-CA.md
 Program exit at 12:26:01
+
+Program started at 17:51:35
+Operating System Name: Linux
+Operating System Version: #13~24.04.1-Ubuntu SMP Wed Apr 15 16:52:17 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmg397c
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:51:35] Start geting CN Bing Wallpaper
+[17:51:35] Successful get url: https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg
+[17:51:35] Image saved to img/background.jpg
+[17:51:35] Info saved to README.md
+[17:51:35] Image saved to history/2026/05/22.md
+[17:51:35] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-21 13:51:35.460041-04:00
+[17:51:35] Successful get url: https://www.bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg
+[17:51:35] Picture infomations saved to  global/en-US/README.md
+[17:51:35] Picture infomations saved to global/en-US/history/2026/05/22_en-US.md
+[17:51:35] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-22 02:51:35.753138+09:00
+[17:51:35] Successful get url: https://www.bing.com/th?id=OHR.TokyoSkyTreeDay2026_JA-JP8960437090_UHD.jpg
+[17:51:35] Picture infomations saved to  global/ja-JP/README.md
+[17:51:35] Picture infomations saved to global/ja-JP/history/2026/05/22_ja-JP.md
+[17:51:35] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-21 23:21:35.898434+05:30
+[17:51:35] Successful get url: https://www.bing.com/th?id=OHR.SichuanTea_EN-IN0699009240_UHD.jpg
+[17:51:36] Picture infomations saved to  global/en-IN/README.md
+[17:51:36] Picture infomations saved to global/en-IN/history/2026/05/21_en-IN.md
+[17:51:36] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-21 14:51:36.204358-03:00
+[17:51:36] Successful get url: https://www.bing.com/th?id=OHR.SichuanTea_PT-BR0614842404_UHD.jpg
+[17:51:36] Picture infomations saved to  global/pt-BR/README.md
+[17:51:36] Picture infomations saved to global/pt-BR/history/2026/05/22_pt-BR.md
+[17:51:36] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-21 19:51:36.360955+02:00
+[17:51:36] Successful get url: https://www.bing.com/th?id=OHR.SichuanTea_FR-FR2758573736_UHD.jpg
+[17:51:36] Picture infomations saved to  global/fr-FR/README.md
+[17:51:36] Picture infomations saved to global/fr-FR/history/2026/05/21_fr-FR.md
+[17:51:36] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-21 19:51:36.505403+02:00
+[17:51:36] Successful get url: https://www.bing.com/th?id=OHR.SichuanTea_DE-DE2246997070_UHD.jpg
+[17:51:36] Picture infomations saved to  global/de-DE/README.md
+[17:51:36] Picture infomations saved to global/de-DE/history/2026/05/21_de-DE.md
+[17:51:36] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-21 13:51:36.649970-04:00
+[17:51:36] Successful get url: https://www.bing.com/th?id=OHR.SichuanTea_EN-CA6152218232_UHD.jpg
+[17:51:36] Picture infomations saved to  global/en-CA/README.md
+[17:51:36] Picture infomations saved to global/en-CA/history/2026/05/22_en-CA.md
+[17:51:36] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-21 18:51:36.800661+01:00
+[17:51:36] Successful get url: https://www.bing.com/th?id=OHR.SichuanTea_EN-GB3101293106_UHD.jpg
+[17:51:36] Picture infomations saved to  global/en-GB/README.md
+[17:51:36] Picture infomations saved to global/en-GB/history/2026/05/21_en-GB.md
+[17:51:36] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-21 19:51:36.952307+02:00
+[17:51:37] Successful get url: https://www.bing.com/th?id=OHR.SichuanTea_IT-IT6566248519_UHD.jpg
+[17:51:37] Picture infomations saved to  global/it-IT/README.md
+[17:51:37] Picture infomations saved to global/it-IT/history/2026/05/21_it-IT.md
+[17:51:37] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-21 19:51:37.157148+02:00
+[17:51:37] Successful get url: https://www.bing.com/th?id=OHR.SichuanTea_ES-ES7945062444_UHD.jpg
+[17:51:37] Picture infomations saved to  global/es-ES/README.md
+[17:51:37] Picture infomations saved to global/es-ES/history/2026/05/21_es-ES.md
+[17:51:37] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-21 13:51:37.303775-04:00
+[17:51:37] Successful get url: https://www.bing.com/th?id=OHR.SichuanTea_FR-CA7301559529_UHD.jpg
+[17:51:37] Picture infomations saved to  global/fr-CA/README.md
+[17:51:37] Picture infomations saved to global/fr-CA/history/2026/05/22_fr-CA.md
+Program exit at 17:51:37
