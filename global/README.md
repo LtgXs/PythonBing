@@ -6,9 +6,9 @@
 ||*Copyright: Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)*
 ||
 |||
-|2026-05-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TokyoSkyTreeDay2026_JA-JP8960437090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TokyoSkyTreeDay2026_JA-JP8960437090_UHD.jpg)|
-||*Copyright: 東京スカイツリー, 東京 (© GoranQ/Getty Images)*
+|2026-05-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_JA-JP9111323268_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_JA-JP9111323268_UHD.jpg)|
+||*Copyright: カメと蝶 (© Patrick Gallet/Getty Images)*
 ||
 |||
 |2026-05-22|**Region: en-IN**||
