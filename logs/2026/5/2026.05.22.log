@@ -1,0 +1,60 @@
+
+Program started at 11:58:27
+Operating System Name: Linux
+Operating System Version: #13~24.04.1-Ubuntu SMP Wed Apr 15 16:52:17 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmg397c
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:58:27] Start geting CN Bing Wallpaper
+[11:58:27] Successful get url: https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg
+[11:58:27] Image saved to img/background.jpg
+[11:58:27] Info saved to README.md
+[11:58:27] Image saved to history/2026/05/22.md
+[11:58:27] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-22 07:58:27.843285-04:00
+[11:58:27] Successful get url: https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg
+[11:58:28] Picture infomations saved to  global/en-US/README.md
+[11:58:28] Picture infomations saved to global/en-US/history/2026/05/23_en-US.md
+[11:58:28] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-22 20:58:28.145942+09:00
+[11:58:28] Successful get url: https://www.bing.com/th?id=OHR.TokyoSkyTreeDay2026_JA-JP8960437090_UHD.jpg
+[11:58:28] Picture infomations saved to  global/ja-JP/README.md
+[11:58:28] Picture infomations saved to global/ja-JP/history/2026/05/22_ja-JP.md
+[11:58:28] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-22 17:28:28.422570+05:30
+[11:58:28] Successful get url: https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-IN0930317309_UHD.jpg
+[11:58:28] Picture infomations saved to  global/en-IN/README.md
+[11:58:28] Picture infomations saved to global/en-IN/history/2026/05/22_en-IN.md
+[11:58:28] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-22 08:58:28.702768-03:00
+[11:58:28] Successful get url: https://www.bing.com/th?id=OHR.KauehiAtollLagoon_PT-BR7122333549_UHD.jpg
+[11:58:29] Picture infomations saved to  global/pt-BR/README.md
+[11:58:29] Picture infomations saved to global/pt-BR/history/2026/05/23_pt-BR.md
+[11:58:29] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-22 13:58:29.011582+02:00
+[11:58:29] Successful get url: https://www.bing.com/th?id=OHR.KauehiAtollLagoon_FR-FR2995406820_UHD.jpg
+[11:58:29] Picture infomations saved to  global/fr-FR/README.md
+[11:58:29] Picture infomations saved to global/fr-FR/history/2026/05/22_fr-FR.md
+[11:58:29] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-22 13:58:29.304153+02:00
+[11:58:29] Successful get url: https://www.bing.com/th?id=OHR.KauehiAtollLagoon_DE-DE7537602324_UHD.jpg
+[11:58:29] Picture infomations saved to  global/de-DE/README.md
+[11:58:29] Picture infomations saved to global/de-DE/history/2026/05/22_de-DE.md
+[11:58:29] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-22 07:58:29.568471-04:00
+[11:58:29] Successful get url: https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-CA6370772500_UHD.jpg
+[11:58:29] Picture infomations saved to  global/en-CA/README.md
+[11:58:29] Picture infomations saved to global/en-CA/history/2026/05/23_en-CA.md
+[11:58:29] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-22 12:58:29.808095+01:00
+[11:58:29] Successful get url: https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-GB5382728672_UHD.jpg
+[11:58:30] Picture infomations saved to  global/en-GB/README.md
+[11:58:30] Picture infomations saved to global/en-GB/history/2026/05/22_en-GB.md
+[11:58:30] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-22 13:58:30.081087+02:00
+[11:58:30] Successful get url: https://www.bing.com/th?id=OHR.KauehiAtollLagoon_IT-IT9581557315_UHD.jpg
+[11:58:30] Picture infomations saved to  global/it-IT/README.md
+[11:58:30] Picture infomations saved to global/it-IT/history/2026/05/22_it-IT.md
+[11:58:30] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-22 13:58:30.358337+02:00
+[11:58:30] Successful get url: https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ES-ES3474565300_UHD.jpg
+[11:58:30] Picture infomations saved to  global/es-ES/README.md
+[11:58:30] Picture infomations saved to global/es-ES/history/2026/05/22_es-ES.md
+[11:58:30] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-22 07:58:30.612250-04:00
+[11:58:30] Successful get url: https://www.bing.com/th?id=OHR.KauehiAtollLagoon_FR-CA0897658074_UHD.jpg
+[11:58:30] Picture infomations saved to  global/fr-CA/README.md
+[11:58:30] Picture infomations saved to global/fr-CA/history/2026/05/23_fr-CA.md
+Program exit at 11:58:30
