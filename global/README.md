@@ -6,9 +6,9 @@
 ||*Copyright: Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)*
 ||
 |||
-|2026-05-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DolomitesPark_JA-JP9299187350_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolomitesPark_JA-JP9299187350_UHD.jpg)|
-||*Copyright: トレ・チーメ自然公園, イタリア (© Adisorn Fineday Chutikunakorn/Getty Images)*
+|2026-05-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_UHD.jpg)|
+||*Copyright: トゥール・マウル灯台, ウェールズ (© Lukas Bischoff/Getty Images)*
 ||
 |||
 |2026-05-24|**Region: en-IN**||

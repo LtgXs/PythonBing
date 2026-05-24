@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:49:02] Picture infomations saved to  global/fr-CA/README.md
 [10:49:02] Picture infomations saved to global/fr-CA/history/2026/05/25_fr-CA.md
 Program exit at 10:49:02
+
+Program started at 16:53:59
+Operating System Name: Linux
+Operating System Version: #13~24.04.1-Ubuntu SMP Wed Apr 15 16:52:17 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmg397c
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:53:59] Start geting CN Bing Wallpaper
+[16:53:59] Successful get url: https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg
+[16:53:59] Image saved to img/background.jpg
+[16:53:59] Info saved to README.md
+[16:53:59] Image saved to history/2026/05/25.md
+[16:53:59] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-24 12:53:59.886684-04:00
+[16:53:59] Successful get url: https://www.bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_UHD.jpg
+[16:54:00] Picture infomations saved to  global/en-US/README.md
+[16:54:00] Picture infomations saved to global/en-US/history/2026/05/25_en-US.md
+[16:54:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-25 01:54:00.009362+09:00
+[16:54:00] Successful get url: https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_UHD.jpg
+[16:54:00] Picture infomations saved to  global/ja-JP/README.md
+[16:54:00] Picture infomations saved to global/ja-JP/history/2026/05/25_ja-JP.md
+[16:54:00] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-24 22:24:00.139308+05:30
+[16:54:00] Successful get url: https://www.bing.com/th?id=OHR.DolomitesPark_EN-IN3505043244_UHD.jpg
+[16:54:00] Picture infomations saved to  global/en-IN/README.md
+[16:54:00] Picture infomations saved to global/en-IN/history/2026/05/24_en-IN.md
+[16:54:00] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-24 13:54:00.288639-03:00
+[16:54:00] Successful get url: https://www.bing.com/th?id=OHR.CoffeeDay_PT-BR1198680562_UHD.jpg
+[16:54:00] Picture infomations saved to  global/pt-BR/README.md
+[16:54:00] Picture infomations saved to global/pt-BR/history/2026/05/25_pt-BR.md
+[16:54:00] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-24 18:54:00.405051+02:00
+[16:54:00] Successful get url: https://www.bing.com/th?id=OHR.DolomitesPark_FR-FR3482729032_UHD.jpg
+[16:54:00] Picture infomations saved to  global/fr-FR/README.md
+[16:54:00] Picture infomations saved to global/fr-FR/history/2026/05/24_fr-FR.md
+[16:54:00] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-24 18:54:00.515068+02:00
+[16:54:00] Successful get url: https://www.bing.com/th?id=OHR.DolomitesPark_DE-DE0867398048_UHD.jpg
+[16:54:00] Picture infomations saved to  global/de-DE/README.md
+[16:54:00] Picture infomations saved to global/de-DE/history/2026/05/24_de-DE.md
+[16:54:00] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-24 12:54:00.623474-04:00
+[16:54:00] Successful get url: https://www.bing.com/th?id=OHR.MuteSwanGI_EN-CA6792012530_UHD.jpg
+[16:54:00] Picture infomations saved to  global/en-CA/README.md
+[16:54:00] Picture infomations saved to global/en-CA/history/2026/05/25_en-CA.md
+[16:54:00] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-24 17:54:00.737666+01:00
+[16:54:00] Successful get url: https://www.bing.com/th?id=OHR.DolomitesPark_EN-GB5776508823_UHD.jpg
+[16:54:00] Picture infomations saved to  global/en-GB/README.md
+[16:54:00] Picture infomations saved to global/en-GB/history/2026/05/24_en-GB.md
+[16:54:00] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-24 18:54:00.906221+02:00
+[16:54:00] Successful get url: https://www.bing.com/th?id=OHR.DolomitesPark_IT-IT4272187498_UHD.jpg
+[16:54:01] Picture infomations saved to  global/it-IT/README.md
+[16:54:01] Picture infomations saved to global/it-IT/history/2026/05/24_it-IT.md
+[16:54:01] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-24 18:54:01.048497+02:00
+[16:54:01] Successful get url: https://www.bing.com/th?id=OHR.DolomitesPark_ES-ES7858758961_UHD.jpg
+[16:54:01] Picture infomations saved to  global/es-ES/README.md
+[16:54:01] Picture infomations saved to global/es-ES/history/2026/05/24_es-ES.md
+[16:54:01] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-24 12:54:01.167886-04:00
+[16:54:01] Successful get url: https://www.bing.com/th?id=OHR.MuteSwanGI_FR-CA1275165543_UHD.jpg
+[16:54:01] Picture infomations saved to  global/fr-CA/README.md
+[16:54:01] Picture infomations saved to global/fr-CA/history/2026/05/25_fr-CA.md
+Program exit at 16:54:01
