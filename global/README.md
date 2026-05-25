@@ -6,9 +6,9 @@
 ||*Copyright: Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)*
 ||
 |||
-|2026-05-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_UHD.jpg)|
-||*Copyright: トゥール・マウル灯台, ウェールズ (© Lukas Bischoff/Getty Images)*
+|2026-05-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LupineBloom_JA-JP9737515603_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LupineBloom_JA-JP9737515603_UHD.jpg)|
+||*Copyright: ルピナスの花, 米国 カリフォルニア州 (© Jeffrey Lewis/Tandem Stills + Motion)*
 ||
 |||
 |2026-05-25|**Region: en-IN**||
