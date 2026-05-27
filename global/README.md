@@ -6,9 +6,9 @@
 ||*Copyright: Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)*
 ||
 |||
-|2026-05-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OtterDay_JA-JP9963461992_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OtterDay_JA-JP9963461992_UHD.jpg)|
-||*Copyright: ラッコ, 米国 アラスカ州 (© roclwyr/Getty Images)*
+|2026-05-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HwaesongFortress_JA-JP0157517591_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HwaesongFortress_JA-JP0157517591_UHD.jpg)|
+||*Copyright: スウォンファソン, 韓国 水原市 (© aomam/Getty Images)*
 ||
 |||
 |2026-05-27|**Region: en-IN**||
