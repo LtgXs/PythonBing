@@ -1,0 +1,60 @@
+
+Program started at 12:29:53
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Wed May  6 22:37:49 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3jyl0
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[12:29:53] Start geting CN Bing Wallpaper
+[12:29:53] Successful get url: https://www.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg
+[12:29:54] Image saved to img/background.jpg
+[12:29:54] Info saved to README.md
+[12:29:54] Image saved to history/2026/05/27.md
+[12:29:54] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-27 08:29:54.011230-04:00
+[12:29:54] Successful get url: https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg
+[12:29:54] Picture infomations saved to  global/en-US/README.md
+[12:29:54] Picture infomations saved to global/en-US/history/2026/05/28_en-US.md
+[12:29:54] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-27 21:29:54.252423+09:00
+[12:29:54] Successful get url: https://www.bing.com/th?id=OHR.OtterDay_JA-JP9963461992_UHD.jpg
+[12:29:54] Picture infomations saved to  global/ja-JP/README.md
+[12:29:54] Picture infomations saved to global/ja-JP/history/2026/05/27_ja-JP.md
+[12:29:54] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-27 17:59:54.433996+05:30
+[12:29:54] Successful get url: https://www.bing.com/th?id=OHR.OtterDay_EN-IN4331346367_UHD.jpg
+[12:29:54] Picture infomations saved to  global/en-IN/README.md
+[12:29:54] Picture infomations saved to global/en-IN/history/2026/05/27_en-IN.md
+[12:29:54] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-27 09:29:54.689585-03:00
+[12:29:54] Successful get url: https://www.bing.com/th?id=OHR.OtterDay_PT-BR2622670476_UHD.jpg
+[12:29:54] Picture infomations saved to  global/pt-BR/README.md
+[12:29:54] Picture infomations saved to global/pt-BR/history/2026/05/28_pt-BR.md
+[12:29:54] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-27 14:29:55.001587+02:00
+[12:29:55] Successful get url: https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_UHD.jpg
+[12:29:55] Picture infomations saved to  global/fr-FR/README.md
+[12:29:55] Picture infomations saved to global/fr-FR/history/2026/05/27_fr-FR.md
+[12:29:55] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-27 14:29:55.172755+02:00
+[12:29:55] Successful get url: https://www.bing.com/th?id=OHR.OtterDay_DE-DE4262333472_UHD.jpg
+[12:29:55] Picture infomations saved to  global/de-DE/README.md
+[12:29:55] Picture infomations saved to global/de-DE/history/2026/05/27_de-DE.md
+[12:29:55] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-27 08:29:55.382387-04:00
+[12:29:55] Successful get url: https://www.bing.com/th?id=OHR.OtterDay_EN-CA7380907364_UHD.jpg
+[12:29:55] Picture infomations saved to  global/en-CA/README.md
+[12:29:55] Picture infomations saved to global/en-CA/history/2026/05/28_en-CA.md
+[12:29:55] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-27 13:29:55.545243+01:00
+[12:29:55] Successful get url: https://www.bing.com/th?id=OHR.OtterDay_EN-GB6482423127_UHD.jpg
+[12:29:55] Picture infomations saved to  global/en-GB/README.md
+[12:29:55] Picture infomations saved to global/en-GB/history/2026/05/27_en-GB.md
+[12:29:55] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-27 14:29:55.860096+02:00
+[12:29:55] Successful get url: https://www.bing.com/th?id=OHR.OtterDay_IT-IT8003946324_UHD.jpg
+[12:29:56] Picture infomations saved to  global/it-IT/README.md
+[12:29:56] Picture infomations saved to global/it-IT/history/2026/05/27_it-IT.md
+[12:29:56] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-27 14:29:56.055411+02:00
+[12:29:56] Successful get url: https://www.bing.com/th?id=OHR.OtterDay_ES-ES3038994198_UHD.jpg
+[12:29:56] Picture infomations saved to  global/es-ES/README.md
+[12:29:56] Picture infomations saved to global/es-ES/history/2026/05/27_es-ES.md
+[12:29:56] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-27 08:29:56.340271-04:00
+[12:29:56] Successful get url: https://www.bing.com/th?id=OHR.OtterDay_FR-CA6658643516_UHD.jpg
+[12:29:56] Picture infomations saved to  global/fr-CA/README.md
+[12:29:56] Picture infomations saved to global/fr-CA/history/2026/05/28_fr-CA.md
+Program exit at 12:29:56
