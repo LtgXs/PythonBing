@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [12:43:42] Picture infomations saved to  global/fr-CA/README.md
 [12:43:42] Picture infomations saved to global/fr-CA/history/2026/05/29_fr-CA.md
 Program exit at 12:43:42
+
+Program started at 18:31:01
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Wed May  6 22:37:49 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3jyl0
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[18:31:01] Start geting CN Bing Wallpaper
+[18:31:01] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg
+[18:31:01] Image saved to img/background.jpg
+[18:31:01] Info saved to README.md
+[18:31:01] Image saved to history/2026/05/29.md
+[18:31:01] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-28 14:31:01.616509-04:00
+[18:31:01] Successful get url: https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg
+[18:31:01] Picture infomations saved to  global/en-US/README.md
+[18:31:01] Picture infomations saved to global/en-US/history/2026/05/29_en-US.md
+[18:31:01] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-29 03:31:01.774229+09:00
+[18:31:01] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_JA-JP1474604254_UHD.jpg
+[18:31:01] Picture infomations saved to  global/ja-JP/README.md
+[18:31:01] Picture infomations saved to global/ja-JP/history/2026/05/29_ja-JP.md
+[18:31:01] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-29 00:01:01.978746+05:30
+[18:31:02] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_EN-IN1233380057_UHD.jpg
+[18:31:02] Picture infomations saved to  global/en-IN/README.md
+[18:31:02] Picture infomations saved to global/en-IN/history/2026/05/29_en-IN.md
+[18:31:02] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-28 15:31:02.581592-03:00
+[18:31:02] Successful get url: https://www.bing.com/th?id=OHR.HwaesongFortress_PT-BR2888838798_UHD.jpg
+[18:31:02] Picture infomations saved to  global/pt-BR/README.md
+[18:31:02] Picture infomations saved to global/pt-BR/history/2026/05/29_pt-BR.md
+[18:31:02] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-28 20:31:02.732346+02:00
+[18:31:02] Successful get url: https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_UHD.jpg
+[18:31:02] Picture infomations saved to  global/fr-FR/README.md
+[18:31:02] Picture infomations saved to global/fr-FR/history/2026/05/28_fr-FR.md
+[18:31:02] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-28 20:31:02.854040+02:00
+[18:31:02] Successful get url: https://www.bing.com/th?id=OHR.HwaesongFortress_DE-DE4428807756_UHD.jpg
+[18:31:03] Picture infomations saved to  global/de-DE/README.md
+[18:31:03] Picture infomations saved to global/de-DE/history/2026/05/28_de-DE.md
+[18:31:03] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-28 14:31:03.025386-04:00
+[18:31:03] Successful get url: https://www.bing.com/th?id=OHR.HwaesongFortress_EN-CA4315257825_UHD.jpg
+[18:31:03] Picture infomations saved to  global/en-CA/README.md
+[18:31:03] Picture infomations saved to global/en-CA/history/2026/05/29_en-CA.md
+[18:31:03] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-28 19:31:03.172533+01:00
+[18:31:03] Successful get url: https://www.bing.com/th?id=OHR.HwaesongFortress_EN-GB7039150905_UHD.jpg
+[18:31:03] Picture infomations saved to  global/en-GB/README.md
+[18:31:03] Picture infomations saved to global/en-GB/history/2026/05/28_en-GB.md
+[18:31:03] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-28 20:31:03.377647+02:00
+[18:31:03] Successful get url: https://www.bing.com/th?id=OHR.HwaesongFortress_IT-IT4766993604_UHD.jpg
+[18:31:03] Picture infomations saved to  global/it-IT/README.md
+[18:31:03] Picture infomations saved to global/it-IT/history/2026/05/28_it-IT.md
+[18:31:03] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-28 20:31:03.493316+02:00
+[18:31:03] Successful get url: https://www.bing.com/th?id=OHR.HwaesongFortress_ES-ES3287835347_UHD.jpg
+[18:31:03] Picture infomations saved to  global/es-ES/README.md
+[18:31:03] Picture infomations saved to global/es-ES/history/2026/05/28_es-ES.md
+[18:31:03] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-28 14:31:03.725693-04:00
+[18:31:03] Successful get url: https://www.bing.com/th?id=OHR.HwaesongFortress_FR-CA2048114002_UHD.jpg
+[18:31:03] Picture infomations saved to  global/fr-CA/README.md
+[18:31:03] Picture infomations saved to global/fr-CA/history/2026/05/29_fr-CA.md
+Program exit at 18:31:03
