@@ -1,0 +1,60 @@
+
+Program started at 12:25:43
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Wed May  6 22:37:49 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3jyl0
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[12:25:43] Start geting CN Bing Wallpaper
+[12:25:43] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg
+[12:25:44] Image saved to img/background.jpg
+[12:25:44] Info saved to README.md
+[12:25:44] Image saved to history/2026/05/29.md
+[12:25:44] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-29 08:25:44.103437-04:00
+[12:25:44] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg
+[12:25:44] Picture infomations saved to  global/en-US/README.md
+[12:25:44] Picture infomations saved to global/en-US/history/2026/05/30_en-US.md
+[12:25:44] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-29 21:25:44.511823+09:00
+[12:25:44] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_JA-JP1474604254_UHD.jpg
+[12:25:44] Picture infomations saved to  global/ja-JP/README.md
+[12:25:44] Picture infomations saved to global/ja-JP/history/2026/05/29_ja-JP.md
+[12:25:44] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-29 17:55:44.971586+05:30
+[12:25:45] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_EN-IN1233380057_UHD.jpg
+[12:25:45] Picture infomations saved to  global/en-IN/README.md
+[12:25:45] Picture infomations saved to global/en-IN/history/2026/05/29_en-IN.md
+[12:25:45] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-29 09:25:45.307570-03:00
+[12:25:45] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_PT-BR8310035958_UHD.jpg
+[12:25:45] Picture infomations saved to  global/pt-BR/README.md
+[12:25:45] Picture infomations saved to global/pt-BR/history/2026/05/30_pt-BR.md
+[12:25:45] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-29 14:25:45.653386+02:00
+[12:25:45] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_FR-FR5658913315_UHD.jpg
+[12:25:46] Picture infomations saved to  global/fr-FR/README.md
+[12:25:46] Picture infomations saved to global/fr-FR/history/2026/05/29_fr-FR.md
+[12:25:46] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-29 14:25:46.027936+02:00
+[12:25:46] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_DE-DE3618626129_UHD.jpg
+[12:25:46] Picture infomations saved to  global/de-DE/README.md
+[12:25:46] Picture infomations saved to global/de-DE/history/2026/05/29_de-DE.md
+[12:25:46] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-29 08:25:46.405764-04:00
+[12:25:46] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_EN-CA4641976323_UHD.jpg
+[12:25:46] Picture infomations saved to  global/en-CA/README.md
+[12:25:46] Picture infomations saved to global/en-CA/history/2026/05/30_en-CA.md
+[12:25:46] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-29 13:25:46.798787+01:00
+[12:25:46] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_EN-GB1382419791_UHD.jpg
+[12:25:47] Picture infomations saved to  global/en-GB/README.md
+[12:25:47] Picture infomations saved to global/en-GB/history/2026/05/29_en-GB.md
+[12:25:47] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-29 14:25:47.141859+02:00
+[12:25:47] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_IT-IT4333407961_UHD.jpg
+[12:25:47] Picture infomations saved to  global/it-IT/README.md
+[12:25:47] Picture infomations saved to global/it-IT/history/2026/05/29_it-IT.md
+[12:25:47] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-29 14:25:47.487680+02:00
+[12:25:47] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_ES-ES4841461045_UHD.jpg
+[12:25:47] Picture infomations saved to  global/es-ES/README.md
+[12:25:47] Picture infomations saved to global/es-ES/history/2026/05/29_es-ES.md
+[12:25:47] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-29 08:25:47.820782-04:00
+[12:25:47] Successful get url: https://www.bing.com/th?id=OHR.SummitEverest_FR-CA5813581014_UHD.jpg
+[12:25:48] Picture infomations saved to  global/fr-CA/README.md
+[12:25:48] Picture infomations saved to global/fr-CA/history/2026/05/30_fr-CA.md
+Program exit at 12:25:48
