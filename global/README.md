@@ -6,9 +6,9 @@
 ||*Copyright: Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)*
 ||
 |||
-|2026-05-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SummitEverest_JA-JP1474604254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SummitEverest_JA-JP1474604254_UHD.jpg)|
-||*Copyright: エベレスト, ネパール (© fotoVoyager/Getty Images)*
+|2026-05-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_UHD.jpg)|
+||*Copyright: サバンナシマウマの子馬, ナミビア (© Sharon Heald/Nature Picture Library)*
 ||
 |||
 |2026-05-29|**Region: en-IN**||
