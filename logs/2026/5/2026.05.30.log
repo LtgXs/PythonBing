@@ -1,0 +1,60 @@
+
+Program started at 10:51:41
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Wed May  6 22:37:49 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3jyl0
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:51:41] Start geting CN Bing Wallpaper
+[10:51:41] Successful get url: https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_UHD.jpg
+[10:51:41] Image saved to img/background.jpg
+[10:51:41] Info saved to README.md
+[10:51:41] Image saved to history/2026/05/30.md
+[10:51:41] Start geting global Bing Wallpaper, region=en-US, local time is 2026-05-30 06:51:41.747041-04:00
+[10:51:41] Successful get url: https://www.bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg
+[10:51:42] Picture infomations saved to  global/en-US/README.md
+[10:51:42] Picture infomations saved to global/en-US/history/2026/05/31_en-US.md
+[10:51:42] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-05-30 19:51:42.179709+09:00
+[10:51:42] Successful get url: https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_UHD.jpg
+[10:51:42] Picture infomations saved to  global/ja-JP/README.md
+[10:51:42] Picture infomations saved to global/ja-JP/history/2026/05/30_ja-JP.md
+[10:51:42] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-05-30 16:21:42.537509+05:30
+[10:51:42] Successful get url: https://www.bing.com/th?id=OHR.EquusQuagga_EN-IN1397641014_UHD.jpg
+[10:51:42] Picture infomations saved to  global/en-IN/README.md
+[10:51:42] Picture infomations saved to global/en-IN/history/2026/05/30_en-IN.md
+[10:51:42] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-05-30 07:51:42.920712-03:00
+[10:51:42] Successful get url: https://www.bing.com/th?id=OHR.EquusQuagga_PT-BR5698040013_UHD.jpg
+[10:51:43] Picture infomations saved to  global/pt-BR/README.md
+[10:51:43] Picture infomations saved to global/pt-BR/history/2026/05/31_pt-BR.md
+[10:51:43] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-05-30 12:51:43.291440+02:00
+[10:51:43] Successful get url: https://www.bing.com/th?id=OHR.EquusQuagga_FR-FR5450236947_UHD.jpg
+[10:51:43] Picture infomations saved to  global/fr-FR/README.md
+[10:51:43] Picture infomations saved to global/fr-FR/history/2026/05/30_fr-FR.md
+[10:51:43] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-05-30 12:51:43.803916+02:00
+[10:51:43] Successful get url: https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_UHD.jpg
+[10:51:44] Picture infomations saved to  global/de-DE/README.md
+[10:51:44] Picture infomations saved to global/de-DE/history/2026/05/30_de-DE.md
+[10:51:44] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-05-30 06:51:44.845333-04:00
+[10:51:44] Successful get url: https://www.bing.com/th?id=OHR.EquusQuagga_EN-CA6382180419_UHD.jpg
+[10:51:45] Picture infomations saved to  global/en-CA/README.md
+[10:51:45] Picture infomations saved to global/en-CA/history/2026/05/31_en-CA.md
+[10:51:45] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-05-30 11:51:45.184537+01:00
+[10:51:45] Successful get url: https://www.bing.com/th?id=OHR.EquusQuagga_EN-GB1868293768_UHD.jpg
+[10:51:45] Picture infomations saved to  global/en-GB/README.md
+[10:51:45] Picture infomations saved to global/en-GB/history/2026/05/30_en-GB.md
+[10:51:45] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-05-30 12:51:45.550722+02:00
+[10:51:45] Successful get url: https://www.bing.com/th?id=OHR.EquusQuagga_IT-IT4668961444_UHD.jpg
+[10:51:45] Picture infomations saved to  global/it-IT/README.md
+[10:51:45] Picture infomations saved to global/it-IT/history/2026/05/30_it-IT.md
+[10:51:45] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-05-30 12:51:45.932967+02:00
+[10:51:46] Successful get url: https://www.bing.com/th?id=OHR.TenerifePuerto_ES-ES2845823553_UHD.jpg
+[10:51:46] Picture infomations saved to  global/es-ES/README.md
+[10:51:46] Picture infomations saved to global/es-ES/history/2026/05/30_es-ES.md
+[10:51:46] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-05-30 06:51:46.410128-04:00
+[10:51:46] Successful get url: https://www.bing.com/th?id=OHR.EquusQuagga_FR-CA5183876662_UHD.jpg
+[10:51:47] Picture infomations saved to  global/fr-CA/README.md
+[10:51:47] Picture infomations saved to global/fr-CA/history/2026/05/31_fr-CA.md
+Program exit at 10:51:47
