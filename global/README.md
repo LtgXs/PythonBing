@@ -6,9 +6,9 @@
 ||*Copyright: Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)*
 ||
 |||
-|2026-05-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_UHD.jpg)|
-||*Copyright: サバンナシマウマの子馬, ナミビア (© Sharon Heald/Nature Picture Library)*
+|2026-05-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.EvergladesWetlands_JA-JP7977535602_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesWetlands_JA-JP7977535602_UHD.jpg)|
+||*Copyright: エバーグレーズ国立公園, 米国 フロリダ州 (© Tetra Images/Getty Images)*
 ||
 |||
 |2026-05-30|**Region: en-IN**||
