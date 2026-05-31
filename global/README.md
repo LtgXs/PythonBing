@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)*
 ||
 |||
-|2026-05-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EvergladesWetlands_JA-JP7977535602_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesWetlands_JA-JP7977535602_UHD.jpg)|
-||*Copyright: エバーグレーズ国立公園, 米国 フロリダ州 (© Tetra Images/Getty Images)*
+|2026-06-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Qinghai_JA-JP8687946851_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Qinghai_JA-JP8687946851_UHD.jpg)|
+||*Copyright: 西タイジナール湖, 中国 (© Kaicheng Xu/Getty Images)*
 ||
 |||
 |2026-05-31|**Region: en-IN**||
