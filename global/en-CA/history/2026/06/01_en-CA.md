@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-06-01
+## History Bing Wallpaper
+Wallpaper date: 2026-06-01
 ![](https://www.bing.com/th?id=OHR.HumberRiverTrails_EN-CA6657789473_UHD.jpg&w=1000)Download: [Humber River winding through Boyd Conservation Area, Woodbridge, Vaughan, Ontario (© jimfeng/Getty Images)](https://www.bing.com/th?id=OHR.HumberRiverTrails_EN-CA6657789473_UHD.jpg)
 
 Auto get programm by LtgX
