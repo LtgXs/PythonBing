@@ -11,9 +11,9 @@
 ||*Copyright: みなとみらい 21 地区, 神奈川県 横浜市 (© simpletun/Shutterstock)*
 ||
 |||
-|2026-06-01|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-IN8542997213_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-IN8542997213_UHD.jpg)|
-||*Copyright: Palermo skyline, Sicily, Italy (© Sean Pavone/Getty Images)*
+|2026-06-02|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TelanganaDay2026_EN-IN2729505086_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TelanganaDay2026_EN-IN2729505086_UHD.jpg)|
+||*Copyright: Minarets of Charminar, Hyderabad, Telangana (© RAJARSHI SENGUPTA/iStock/Getty Images)*
 ||
 |||
 |2026-06-02|**Region: pt-BR**||
