@@ -1,59 +1,59 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-06-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg)|
-||*Copyright: Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)*
+|2026-06-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg)|
+||*Copyright: Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)*
 ||
 |||
-|2026-06-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Qinghai_JA-JP8687946851_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Qinghai_JA-JP8687946851_UHD.jpg)|
-||*Copyright: 西タイジナール湖, 中国 (© Kaicheng Xu/Getty Images)*
+|2026-06-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905_UHD.jpg)|
+||*Copyright: みなとみらい 21 地区, 神奈川県 横浜市 (© simpletun/Shutterstock)*
 ||
 |||
-|2026-05-31|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Qinghai_EN-IN1637121010_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Qinghai_EN-IN1637121010_UHD.jpg)|
-||*Copyright: Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)*
+|2026-06-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-IN8542997213_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-IN8542997213_UHD.jpg)|
+||*Copyright: Palermo skyline, Sicily, Italy (© Sean Pavone/Getty Images)*
 ||
 |||
-|2026-06-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.EvergladesWetlands_PT-BR6176741147_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesWetlands_PT-BR6176741147_UHD.jpg)|
-||*Copyright: Vista aérea do Parque Nacional Everglades, Flórida, Estados Unidos (© Tetra Images/Getty Images)*
+|2026-06-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Junina_PT-BR7043034952_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Junina_PT-BR7043034952_UHD.jpg)|
+||*Copyright: Bandeirinhas de Festa Junina, Aracaju, Sergipe (© Carlos Maranhao/Getty Images)*
 ||
 |||
-|2026-05-31|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CheetahMotherDay_FR-FR3566919266_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CheetahMotherDay_FR-FR3566919266_UHD.jpg)|
-||*Copyright: Une guéparde et son guépardeau (© hilton123/Getty Images)*
+|2026-06-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_UHD.jpg)|
+||*Copyright: Palerme au crépuscule, Sicile, Italie (© Sean Pavone/Getty Images)*
 ||
 |||
-|2026-05-31|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_UHD.jpg)|
-||*Copyright: Rapsfelder vor der Festung Königstein, Sächsische Schweiz, Sachsen (© Frank Bienewald/Getty Images)*
+|2026-06-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_UHD.jpg)|
+||*Copyright: Skyline von Palermo in der Abenddämmerung, Sizilien, Italien (© Sean Pavone/Getty Images)*
 ||
 |||
-|2026-06-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HumberRiverTrails_EN-CA6657789473_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumberRiverTrails_EN-CA6657789473_UHD.jpg)|
-||*Copyright: Humber River winding through Boyd Conservation Area, Woodbridge, Vaughan, Ontario (© jimfeng/Getty Images)*
+|2026-06-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-CA6978537696_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-CA6978537696_UHD.jpg)|
+||*Copyright: Palermo skyline at dusk, Sicily, Italy (© Sean Pavone/Getty Images)*
 ||
 |||
-|2026-05-31|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-GB2174930094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-GB2174930094_UHD.jpg)|
-||*Copyright: Aerial view of Everglades National Park, Florida, United States (© Tetra Images/Getty Images)*
+|2026-06-01|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-GB8668911302_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-GB8668911302_UHD.jpg)|
+||*Copyright: Palermo skyline, Sicily, Italy (© Sean Pavone/Getty Images)*
 ||
 |||
-|2026-05-31|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.EvergladesWetlands_IT-IT8250643798_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesWetlands_IT-IT8250643798_UHD.jpg)|
-||*Copyright: Vista aerea del parco nazionale delle Everglades, Florida, USA (© Tetra Images/Getty Images)*
+|2026-06-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_UHD.jpg)|
+||*Copyright: Castello di Dunseverick, contea di Antrim, Irlanda del Nord (© Krzysztof Rogalski/Getty Images)*
 ||
 |||
-|2026-05-31|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.EvergladesWetlands_ES-ES0912999305_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EvergladesWetlands_ES-ES0912999305_UHD.jpg)|
-||*Copyright: Vista aérea del Parque Nacional de los Everglades, Florida, EE. UU. (© Tetra Images/Getty Images)*
+|2026-06-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.OlivaPalermo_ES-ES5664715455_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaPalermo_ES-ES5664715455_UHD.jpg)|
+||*Copyright: Horizonte de Palermo al atardecer, Sicilia, Italia (© Sean Pavone/Getty Images)*
 ||
 |||
-|2026-06-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HumberRiverTrail_FR-CA4592084106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HumberRiverTrail_FR-CA4592084106_UHD.jpg)|
-||*Copyright: Rivière Humber dans la zone de conservation Boyd, Woodbridge, Vaughan, Ontario (© jimfeng/Getty Images)*
+|2026-06-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.OlivaPalermo_FR-CA4763720725_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaPalermo_FR-CA4763720725_UHD.jpg)|
+||*Copyright: Palerme au crépuscule, Sicile, Italie (© Sean Pavone/Getty Images)*
 ||
 |||
 

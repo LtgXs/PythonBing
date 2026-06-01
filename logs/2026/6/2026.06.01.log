@@ -1,0 +1,60 @@
+
+Program started at 15:31:27
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Wed May  6 22:37:49 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3jyl0
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[15:31:27] Start geting CN Bing Wallpaper
+[15:31:27] Successful get url: https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg
+[15:31:27] Image saved to img/background.jpg
+[15:31:27] Info saved to README.md
+[15:31:27] Image saved to history/2026/06/01.md
+[15:31:27] Start geting global Bing Wallpaper, region=en-US, local time is 2026-06-01 11:31:27.319134-04:00
+[15:31:27] Successful get url: https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg
+[15:31:27] Picture infomations saved to  global/en-US/README.md
+[15:31:27] Picture infomations saved to global/en-US/history/2026/06/02_en-US.md
+[15:31:27] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-06-02 00:31:27.482234+09:00
+[15:31:27] Successful get url: https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905_UHD.jpg
+[15:31:27] Picture infomations saved to  global/ja-JP/README.md
+[15:31:27] Picture infomations saved to global/ja-JP/history/2026/06/02_ja-JP.md
+[15:31:27] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-06-01 21:01:27.681832+05:30
+[15:31:27] Successful get url: https://www.bing.com/th?id=OHR.OlivaPalermo_EN-IN8542997213_UHD.jpg
+[15:31:27] Picture infomations saved to  global/en-IN/README.md
+[15:31:27] Picture infomations saved to global/en-IN/history/2026/06/01_en-IN.md
+[15:31:27] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-06-01 12:31:28.003955-03:00
+[15:31:28] Successful get url: https://www.bing.com/th?id=OHR.Junina_PT-BR7043034952_UHD.jpg
+[15:31:28] Picture infomations saved to  global/pt-BR/README.md
+[15:31:28] Picture infomations saved to global/pt-BR/history/2026/06/02_pt-BR.md
+[15:31:28] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-06-01 17:31:28.215284+02:00
+[15:31:28] Successful get url: https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_UHD.jpg
+[15:31:28] Picture infomations saved to  global/fr-FR/README.md
+[15:31:28] Picture infomations saved to global/fr-FR/history/2026/06/01_fr-FR.md
+[15:31:28] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-06-01 17:31:28.381796+02:00
+[15:31:28] Successful get url: https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_UHD.jpg
+[15:31:28] Picture infomations saved to  global/de-DE/README.md
+[15:31:28] Picture infomations saved to global/de-DE/history/2026/06/01_de-DE.md
+[15:31:28] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-06-01 11:31:28.535603-04:00
+[15:31:28] Successful get url: https://www.bing.com/th?id=OHR.OlivaPalermo_EN-CA6978537696_UHD.jpg
+[15:31:28] Picture infomations saved to  global/en-CA/README.md
+[15:31:28] Picture infomations saved to global/en-CA/history/2026/06/02_en-CA.md
+[15:31:28] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-06-01 16:31:28.655022+01:00
+[15:31:28] Successful get url: https://www.bing.com/th?id=OHR.OlivaPalermo_EN-GB8668911302_UHD.jpg
+[15:31:28] Picture infomations saved to  global/en-GB/README.md
+[15:31:28] Picture infomations saved to global/en-GB/history/2026/06/01_en-GB.md
+[15:31:28] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-06-01 17:31:28.814664+02:00
+[15:31:28] Successful get url: https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_UHD.jpg
+[15:31:28] Picture infomations saved to  global/it-IT/README.md
+[15:31:28] Picture infomations saved to global/it-IT/history/2026/06/01_it-IT.md
+[15:31:28] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-06-01 17:31:28.996196+02:00
+[15:31:29] Successful get url: https://www.bing.com/th?id=OHR.OlivaPalermo_ES-ES5664715455_UHD.jpg
+[15:31:29] Picture infomations saved to  global/es-ES/README.md
+[15:31:29] Picture infomations saved to global/es-ES/history/2026/06/01_es-ES.md
+[15:31:29] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-06-01 11:31:29.156513-04:00
+[15:31:29] Successful get url: https://www.bing.com/th?id=OHR.OlivaPalermo_FR-CA4763720725_UHD.jpg
+[15:31:29] Picture infomations saved to  global/fr-CA/README.md
+[15:31:29] Picture infomations saved to global/fr-CA/history/2026/06/02_fr-CA.md
+Program exit at 15:31:29
