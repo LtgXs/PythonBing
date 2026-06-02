@@ -6,14 +6,14 @@
 ||*Copyright: Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)*
 ||
 |||
-|2026-06-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905_UHD.jpg)|
-||*Copyright: みなとみらい 21 地区, 神奈川県 横浜市 (© simpletun/Shutterstock)*
+|2026-06-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BardenasReales_JA-JP9112700614_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BardenasReales_JA-JP9112700614_UHD.jpg)|
+||*Copyright: バルデナス・レアレス自然公園, スペイン (© Artur Debat/Getty Images)*
 ||
 |||
-|2026-06-02|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TelanganaDay2026_EN-IN2729505086_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TelanganaDay2026_EN-IN2729505086_UHD.jpg)|
-||*Copyright: Minarets of Charminar, Hyderabad, Telangana (© RAJARSHI SENGUPTA/iStock/Getty Images)*
+|2026-06-03|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BardenasReales_EN-IN2901722353_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BardenasReales_EN-IN2901722353_UHD.jpg)|
+||*Copyright: Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)*
 ||
 |||
 |2026-06-03|**Region: pt-BR**||
