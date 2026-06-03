@@ -6,14 +6,14 @@
 ||*Copyright: Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)*
 ||
 |||
-|2026-06-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BardenasReales_JA-JP9112700614_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BardenasReales_JA-JP9112700614_UHD.jpg)|
-||*Copyright: バルデナス・レアレス自然公園, スペイン (© Artur Debat/Getty Images)*
+|2026-06-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_UHD.jpg)|
+||*Copyright: ユキコサギ, 米国 フロリダ州 (© Donald M. Jones/Minden Pictures)*
 ||
 |||
-|2026-06-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BardenasReales_EN-IN2901722353_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BardenasReales_EN-IN2901722353_UHD.jpg)|
-||*Copyright: Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)*
+|2026-06-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PreeningEgret_EN-IN3047678706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PreeningEgret_EN-IN3047678706_UHD.jpg)|
+||*Copyright: Snowy egret preening, central Florida, United States (© Donald M. Jones/Minden Pictures)*
 ||
 |||
 |2026-06-04|**Region: pt-BR**||
