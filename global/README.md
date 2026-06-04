@@ -6,9 +6,9 @@
 ||*Copyright: Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)*
 ||
 |||
-|2026-06-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_UHD.jpg)|
-||*Copyright: ユキコサギ, 米国 フロリダ州 (© Donald M. Jones/Minden Pictures)*
+|2026-06-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg)|
+||*Copyright: サーレク国立公園, スウェーデン (© Robert Haasmann/Getty Images)*
 ||
 |||
 |2026-06-04|**Region: en-IN**||
