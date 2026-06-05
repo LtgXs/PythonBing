@@ -6,9 +6,9 @@
 ||*Copyright: View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)*
 ||
 |||
-|2026-06-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg)|
-||*Copyright: サーレク国立公園, スウェーデン (© Robert Haasmann/Getty Images)*
+|2026-06-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_UHD.jpg)|
+||*Copyright: ナチェズ・トレース・パークウェイのトレイル, 米国 ミシシッピ州 (© The best photo is earned/Getty Images Plus)*
 ||
 |||
 |2026-06-05|**Region: en-IN**||
