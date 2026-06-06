@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-06-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg)|
-||*Copyright: View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)*
+|2026-06-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg)|
+||*Copyright: Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)*
 ||
 |||
 |2026-06-06|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ナチェズ・トレース・パークウェイのトレイル, 米国 ミシシッピ州 (© The best photo is earned/Getty Images Plus)*
 ||
 |||
-|2026-06-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WedLapland_EN-IN6549880792_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WedLapland_EN-IN6549880792_UHD.jpg)|
-||*Copyright: View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)*
+|2026-06-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HikingNatchez_EN-IN6692623597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HikingNatchez_EN-IN6692623597_UHD.jpg)|
+||*Copyright: Natchez Trace Parkway, Tupelo, Mississippi, United States (© The best photo is earned/Getty Images Plus)*
 ||
 |||
-|2026-06-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.WedLapland_PT-BR8732112197_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WedLapland_PT-BR8732112197_UHD.jpg)|
-||*Copyright: Vista da montanha Skierffe sobre o delta do rio Rápadalen, Parque Nacional de Sarek, Lapônia, Suécia (© Robert Haasmann/Getty Images)*
+|2026-06-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.HikingNatchez_PT-BR9167850765_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HikingNatchez_PT-BR9167850765_UHD.jpg)|
+||*Copyright: Natchez Trace Parkway, Tupelo, Mississippi, EUA (© The best photo is earned/Getty Images Plus)*
 ||
 |||
-|2026-06-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WedLapland_FR-FR5600667341_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WedLapland_FR-FR5600667341_UHD.jpg)|
-||*Copyright: Vue sur Skierffe et la vallée de Rapa, Parc national de Sarek, Laponie, Suède (© Robert Haasmann/Getty Images)*
+|2026-06-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Cyanea_FR-FR6314357714_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Cyanea_FR-FR6314357714_UHD.jpg)|
+||*Copyright: Méduse crinière de lion (© Alexander Semenov Images/Shutterstock)*
 ||
 |||
-|2026-06-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610_UHD.jpg)|
-||*Copyright: Blick vom Skierffe über das Flussdelta des Rapadalen, Nationalpark Sarek, Laponia, Lappland, Schweden (© Robert Haasmann/Getty Images)*
+|2026-06-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.RothenburgPloenlein_DE-DE1102047823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RothenburgPloenlein_DE-DE1102047823_UHD.jpg)|
+||*Copyright: Plönlein mit Siebersturm und Kobolzeller Tor, Rothenburg ob der Tauber, Bayern (© Harald Nachtmann/Getty Images)*
 ||
 |||
-|2026-06-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WedLapland_EN-CA4849438466_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WedLapland_EN-CA4849438466_UHD.jpg)|
-||*Copyright: View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)*
+|2026-06-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.HikingNatchez_EN-CA4973547873_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HikingNatchez_EN-CA4973547873_UHD.jpg)|
+||*Copyright: Natchez Trace Parkway, Tupelo, Mississippi, United States (© The best photo is earned/Getty Images Plus)*
 ||
 |||
-|2026-06-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.WedLapland_EN-GB9256196437_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WedLapland_EN-GB9256196437_UHD.jpg)|
-||*Copyright: View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)*
+|2026-06-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.HikingNatchez_EN-GB9388336824_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HikingNatchez_EN-GB9388336824_UHD.jpg)|
+||*Copyright: Natchez Trace Parkway, Tupelo, Mississippi, United States (© The best photo is earned/Getty Images Plus)*
 ||
 |||
-|2026-06-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WedLapland_IT-IT1612866051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WedLapland_IT-IT1612866051_UHD.jpg)|
-||*Copyright: Delta del fiume Rapadalen, parco nazionale di Sarek, Lapponia, Svezia (© Robert Haasmann/Getty Images)*
+|2026-06-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.HikingNatchez_IT-IT7003362282_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HikingNatchez_IT-IT7003362282_UHD.jpg)|
+||*Copyright: Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)*
 ||
 |||
-|2026-06-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CastillaLaMancha_ES-ES3536382810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastillaLaMancha_ES-ES3536382810_UHD.jpg)|
-||*Copyright: Molinos de Consuegra al amanecer, Castilla-La Mancha (© Paulo Costa/Getty Images)*
+|2026-06-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.HikingNatchez_ES-ES4258488538_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HikingNatchez_ES-ES4258488538_UHD.jpg)|
+||*Copyright: Natchez Trace Parkway, Tupelo, Misisipi, EE. UU. (© The best photo is earned/Getty Images Plus)*
 ||
 |||
-|2026-06-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WedLapland_FR-CA5517057668_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WedLapland_FR-CA5517057668_UHD.jpg)|
-||*Copyright: Vue sur Skierffe et la vallée de Rapa, Parc national de Sarek, Laponie, Suède (© Robert Haasmann/Getty Images)*
+|2026-06-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.HikingNatchez_FR-CA1773498116_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HikingNatchez_FR-CA1773498116_UHD.jpg)|
+||*Copyright: Natchez Trace Parkway, Tupelo, Mississippi, États-Unis (© The best photo is earned/Getty Images Plus)*
 ||
 |||
 
