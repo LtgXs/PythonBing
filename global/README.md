@@ -6,9 +6,9 @@
 ||*Copyright: Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)*
 ||
 |||
-|2026-06-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_UHD.jpg)|
-||*Copyright: ナチェズ・トレース・パークウェイのトレイル, 米国 ミシシッピ州 (© The best photo is earned/Getty Images Plus)*
+|2026-06-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Limpets_JA-JP0282972005_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_JA-JP0282972005_UHD.jpg)|
+||*Copyright: プラヤ・ダ・ウルサ, ポルトガル (© Theo Bosboom/Nature Picture Library)*
 ||
 |||
 |2026-06-06|**Region: en-IN**||
