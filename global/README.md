@@ -6,9 +6,9 @@
 ||*Copyright: Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)*
 ||
 |||
-|2026-06-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Cyanea_JA-JP0508555494_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Cyanea_JA-JP0508555494_UHD.jpg)|
-||*Copyright: 海中を泳ぐキタユウレイクラゲ (© Alexander Semenov Images/Shutterstock)*
+|2026-06-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CTNPVernazza_JA-JP0736280487_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CTNPVernazza_JA-JP0736280487_UHD.jpg)|
+||*Copyright: ヴェルナッツァ, イタリア (© Kelly Cheng/Getty Images)*
 ||
 |||
 |2026-06-08|**Region: en-IN**||
@@ -22,8 +22,8 @@
 ||
 |||
 |2026-06-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PantheonParisNight_FR-FR5459826291_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PantheonParisNight_FR-FR5459826291_UHD.jpg)|
-||*Copyright: Le Panthéon de nuit, Paris (© Don White/Getty Images)*
+||![](https://www.bing.com/th?id=OHR.PantheonParisNight_FR-FR2285812065_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PantheonParisNight_FR-FR2285812065_UHD.jpg)|
+||*Copyright: Les Invalides de nuit, Paris (© Don White/Getty Images)*
 ||
 |||
 |2026-06-08|**Region: de-DE**||
