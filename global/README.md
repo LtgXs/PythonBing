@@ -6,9 +6,9 @@
 ||*Copyright: Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)*
 ||
 |||
-|2026-06-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CTNPVernazza_JA-JP0736280487_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CTNPVernazza_JA-JP0736280487_UHD.jpg)|
-||*Copyright: ヴェルナッツァ, イタリア (© Kelly Cheng/Getty Images)*
+|2026-06-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Hnausapollur_JA-JP1632213498_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_JA-JP1632213498_UHD.jpg)|
+||*Copyright: フナウサウポットル, アイスランド (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
 |2026-06-09|**Region: en-IN**||
