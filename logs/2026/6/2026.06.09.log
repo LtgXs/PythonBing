@@ -1,0 +1,60 @@
+
+Program started at 12:13:56
+Operating System Name: Linux
+Operating System Version: #15~24.04.1-Ubuntu SMP Wed May  6 22:37:49 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3jyl0
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[12:13:56] Start geting CN Bing Wallpaper
+[12:13:56] Successful get url: https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg
+[12:13:57] Image saved to img/background.jpg
+[12:13:57] Info saved to README.md
+[12:13:57] Image saved to history/2026/06/09.md
+[12:13:57] Start geting global Bing Wallpaper, region=en-US, local time is 2026-06-09 08:13:57.046512-04:00
+[12:13:57] Successful get url: https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg
+[12:13:57] Picture infomations saved to  global/en-US/README.md
+[12:13:57] Picture infomations saved to global/en-US/history/2026/06/10_en-US.md
+[12:13:57] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-06-09 21:13:57.239210+09:00
+[12:13:57] Successful get url: https://www.bing.com/th?id=OHR.CTNPVernazza_JA-JP0736280487_UHD.jpg
+[12:13:57] Picture infomations saved to  global/ja-JP/README.md
+[12:13:57] Picture infomations saved to global/ja-JP/history/2026/06/09_ja-JP.md
+[12:13:57] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-06-09 17:43:57.372466+05:30
+[12:13:57] Successful get url: https://www.bing.com/th?id=OHR.CTNPVernazza_EN-IN7086072606_UHD.jpg
+[12:13:57] Picture infomations saved to  global/en-IN/README.md
+[12:13:57] Picture infomations saved to global/en-IN/history/2026/06/09_en-IN.md
+[12:13:57] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-06-09 09:13:57.591327-03:00
+[12:13:57] Successful get url: https://www.bing.com/th?id=OHR.CTNPVernazza_PT-BR2618024096_UHD.jpg
+[12:13:57] Picture infomations saved to  global/pt-BR/README.md
+[12:13:57] Picture infomations saved to global/pt-BR/history/2026/06/10_pt-BR.md
+[12:13:57] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-06-09 14:13:57.718684+02:00
+[12:13:57] Successful get url: https://www.bing.com/th?id=OHR.CTNPVernazza_FR-FR6675629876_UHD.jpg
+[12:13:57] Picture infomations saved to  global/fr-FR/README.md
+[12:13:57] Picture infomations saved to global/fr-FR/history/2026/06/09_fr-FR.md
+[12:13:57] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-06-09 14:13:57.932461+02:00
+[12:13:57] Successful get url: https://www.bing.com/th?id=OHR.CTNPVernazza_DE-DE9697732049_UHD.jpg
+[12:13:58] Picture infomations saved to  global/de-DE/README.md
+[12:13:58] Picture infomations saved to global/de-DE/history/2026/06/09_de-DE.md
+[12:13:58] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-06-09 08:13:58.122224-04:00
+[12:13:58] Successful get url: https://www.bing.com/th?id=OHR.CTNPVernazza_EN-CA5243327024_UHD.jpg
+[12:13:58] Picture infomations saved to  global/en-CA/README.md
+[12:13:58] Picture infomations saved to global/en-CA/history/2026/06/10_en-CA.md
+[12:13:58] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-06-09 13:13:58.268493+01:00
+[12:13:58] Successful get url: https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_UHD.jpg
+[12:13:58] Picture infomations saved to  global/en-GB/README.md
+[12:13:58] Picture infomations saved to global/en-GB/history/2026/06/09_en-GB.md
+[12:13:58] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-06-09 14:13:58.430797+02:00
+[12:13:58] Successful get url: https://www.bing.com/th?id=OHR.CTNPVernazza_IT-IT7594806802_UHD.jpg
+[12:13:58] Picture infomations saved to  global/it-IT/README.md
+[12:13:58] Picture infomations saved to global/it-IT/history/2026/06/09_it-IT.md
+[12:13:58] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-06-09 14:13:58.558037+02:00
+[12:13:58] Successful get url: https://www.bing.com/th?id=OHR.CTNPVernazza_ES-ES0282181356_UHD.jpg
+[12:13:58] Picture infomations saved to  global/es-ES/README.md
+[12:13:58] Picture infomations saved to global/es-ES/history/2026/06/09_es-ES.md
+[12:13:58] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-06-09 08:13:58.666774-04:00
+[12:13:58] Successful get url: https://www.bing.com/th?id=OHR.CTNPVernazza_FR-CA6747976525_UHD.jpg
+[12:13:58] Picture infomations saved to  global/fr-CA/README.md
+[12:13:58] Picture infomations saved to global/fr-CA/history/2026/06/10_fr-CA.md
+Program exit at 12:13:58
