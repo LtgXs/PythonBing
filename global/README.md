@@ -6,9 +6,9 @@
 ||*Copyright: Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2026-06-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Hnausapollur_JA-JP1632213498_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_JA-JP1632213498_UHD.jpg)|
-||*Copyright: フナウサウポットル, アイスランド (© Juan Maria Coy Vergara/Getty Images)*
+|2026-06-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_UHD.jpg)|
+||*Copyright: 蛍の光がきらめく森, 日本 (© tdub303/Getty Images)*
 ||
 |||
 |2026-06-10|**Region: en-IN**||
