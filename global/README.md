@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-06-10|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg)|
-||*Copyright: Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)*
+|2026-06-11|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg)|
+||*Copyright: Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
 |2026-06-10|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: フナウサウポットル, アイスランド (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2026-06-09|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-IN7086072606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-IN7086072606_UHD.jpg)|
-||*Copyright: Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)*
+|2026-06-10|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.Hnausapollur_EN-IN7208040005_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_EN-IN7208040005_UHD.jpg)|
+||*Copyright: Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2026-06-10|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CTNPVernazza_PT-BR2618024096_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CTNPVernazza_PT-BR2618024096_UHD.jpg)|
-||*Copyright: Vernazza, Cinque Terre, Ligúria, Itália (© Kelly Cheng/Getty Images)*
+|2026-06-11|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_UHD.jpg)|
+||*Copyright: Coruja-buraqueira em sentinela (© Wendy/Jeff Sparks/Torquemada/Getty Images)*
 ||
 |||
-|2026-06-09|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CTNPVernazza_FR-FR6675629876_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CTNPVernazza_FR-FR6675629876_UHD.jpg)|
-||*Copyright: Vernazza, Cinque Terre, Ligurie, Italie (© Kelly Cheng/Getty Images)*
+|2026-06-10|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Hnausapollur_FR-FR5863849593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_FR-FR5863849593_UHD.jpg)|
+||*Copyright: Lac de Hnausapollur, Réserve naturelle de Fjallabak, Landmannalaugar, Islande (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2026-06-09|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CTNPVernazza_DE-DE9697732049_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CTNPVernazza_DE-DE9697732049_UHD.jpg)|
-||*Copyright: Vernazza, Cinque Terre, Ligurien, Italien (© Kelly Cheng/Getty Images)*
+|2026-06-10|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274_UHD.jpg)|
+||*Copyright: Vulkanischer Kratersee Hnausapollur, Naturschutzgebiet Fjallabak, Landmannalaugar, Island (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2026-06-10|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-CA5243327024_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-CA5243327024_UHD.jpg)|
-||*Copyright: Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)*
+|2026-06-11|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.Hnausapollur_EN-CA5291123440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_EN-CA5291123440_UHD.jpg)|
+||*Copyright: Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2026-06-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_UHD.jpg)|
-||*Copyright: Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)*
+|2026-06-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.Hnausapollur_EN-GB0108881813_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_EN-GB0108881813_UHD.jpg)|
+||*Copyright: Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2026-06-09|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CTNPVernazza_IT-IT7594806802_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CTNPVernazza_IT-IT7594806802_UHD.jpg)|
-||*Copyright: Vernazza, Cinque Terre, Liguria (© Kelly Cheng/Getty Images)*
+|2026-06-10|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.OlivaPalermo_IT-IT7720847835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaPalermo_IT-IT7720847835_UHD.jpg)|
+||*Copyright: Palermo, Sicilia (© Sean Pavone/Getty Images)*
 ||
 |||
-|2026-06-09|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.CTNPVernazza_ES-ES0282181356_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CTNPVernazza_ES-ES0282181356_UHD.jpg)|
-||*Copyright: Vernazza, Cinque Terre, Liguria, Italia (© Kelly Cheng/Getty Images)*
+|2026-06-10|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.Hnausapollur_ES-ES9919226001_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_ES-ES9919226001_UHD.jpg)|
+||*Copyright: Lago del cráter de Hnausapollur, Landmannalaugar, Islandia (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
-|2026-06-10|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CTNPVernazza_FR-CA6747976525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CTNPVernazza_FR-CA6747976525_UHD.jpg)|
-||*Copyright: Vernazza, Cinque Terre, Ligurie, Italie (© Kelly Cheng/Getty Images)*
+|2026-06-11|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.Hnausapollur_FR-CA2826849352_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_FR-CA2826849352_UHD.jpg)|
+||*Copyright: Lac de Hnausapollur, Réserve naturelle de Fjallabak, Landmannalaugar, Islande (© Juan Maria Coy Vergara/Getty Images)*
 ||
 |||
 
