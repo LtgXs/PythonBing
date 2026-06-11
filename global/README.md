@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-06-11|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg)|
-||*Copyright: Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)*
+|2026-06-12|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg)|
+||*Copyright: Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
 ||
 |||
 |2026-06-11|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 蛍の光がきらめく森, 日本 (© tdub303/Getty Images)*
 ||
 |||
-|2026-06-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Hnausapollur_EN-IN7208040005_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_EN-IN7208040005_UHD.jpg)|
-||*Copyright: Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)*
+|2026-06-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.Limpets_EN-IN7322594787_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_EN-IN7322594787_UHD.jpg)|
+||*Copyright: Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
 ||
 |||
-|2026-06-11|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_UHD.jpg)|
-||*Copyright: Coruja-buraqueira em sentinela (© Wendy/Jeff Sparks/Torquemada/Getty Images)*
+|2026-06-12|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Limpets_PT-BR3364231967_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_PT-BR3364231967_UHD.jpg)|
+||*Copyright: Lapas expostas na maré baixa na costa da Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
 ||
 |||
-|2026-06-10|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.Hnausapollur_FR-FR5863849593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_FR-FR5863849593_UHD.jpg)|
-||*Copyright: Lac de Hnausapollur, Réserve naturelle de Fjallabak, Landmannalaugar, Islande (© Juan Maria Coy Vergara/Getty Images)*
+|2026-06-11|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Limpets_FR-FR7051500113_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_FR-FR7051500113_UHD.jpg)|
+||*Copyright: Des patelles à marée basse sur la Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
 ||
 |||
-|2026-06-10|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274_UHD.jpg)|
-||*Copyright: Vulkanischer Kratersee Hnausapollur, Naturschutzgebiet Fjallabak, Landmannalaugar, Island (© Juan Maria Coy Vergara/Getty Images)*
+|2026-06-11|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374_UHD.jpg)|
+||*Copyright: Napfschnecken bei Ebbe an der Küste von Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
 ||
 |||
-|2026-06-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Hnausapollur_EN-CA5291123440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_EN-CA5291123440_UHD.jpg)|
-||*Copyright: Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)*
+|2026-06-12|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.Limpets_EN-CA5417186464_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_EN-CA5417186464_UHD.jpg)|
+||*Copyright: Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
 ||
 |||
-|2026-06-10|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.Hnausapollur_EN-GB0108881813_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_EN-GB0108881813_UHD.jpg)|
-||*Copyright: Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)*
+|2026-06-11|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.Limpets_EN-GB0252915957_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_EN-GB0252915957_UHD.jpg)|
+||*Copyright: Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
 ||
 |||
-|2026-06-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OlivaPalermo_IT-IT7720847835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlivaPalermo_IT-IT7720847835_UHD.jpg)|
-||*Copyright: Palermo, Sicilia (© Sean Pavone/Getty Images)*
+|2026-06-11|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.Limpets_IT-IT0440243465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_IT-IT0440243465_UHD.jpg)|
+||*Copyright: Patelle, costa di Praia da Ursa, Portogallo (© Theo Bosboom/Nature Picture Library)*
 ||
 |||
-|2026-06-10|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.Hnausapollur_ES-ES9919226001_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_ES-ES9919226001_UHD.jpg)|
-||*Copyright: Lago del cráter de Hnausapollur, Landmannalaugar, Islandia (© Juan Maria Coy Vergara/Getty Images)*
+|2026-06-11|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.Limpets_ES-ES0650754334_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_ES-ES0650754334_UHD.jpg)|
+||*Copyright: Lapas en la costa de Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
 ||
 |||
-|2026-06-11|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Hnausapollur_FR-CA2826849352_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Hnausapollur_FR-CA2826849352_UHD.jpg)|
-||*Copyright: Lac de Hnausapollur, Réserve naturelle de Fjallabak, Landmannalaugar, Islande (© Juan Maria Coy Vergara/Getty Images)*
+|2026-06-12|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.Limpets_FR-CA7113071158_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_FR-CA7113071158_UHD.jpg)|
+||*Copyright: Des patelles à marée basse sur la Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
 ||
 |||
 
