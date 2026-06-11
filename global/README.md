@@ -6,14 +6,14 @@
 ||*Copyright: Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
 ||
 |||
-|2026-06-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_UHD.jpg)|
-||*Copyright: 蛍の光がきらめく森, 日本 (© tdub303/Getty Images)*
+|2026-06-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985_UHD.jpg)|
+||*Copyright: ヨーロッパハチクイ, スペイン (© Andres M. Dominguez/Nature Picture Library)*
 ||
 |||
-|2026-06-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Limpets_EN-IN7322594787_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_EN-IN7322594787_UHD.jpg)|
-||*Copyright: Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
+|2026-06-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SpainBeeEater_EN-IN7232456385_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainBeeEater_EN-IN7232456385_UHD.jpg)|
+||*Copyright: European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)*
 ||
 |||
 |2026-06-12|**Region: pt-BR**||
