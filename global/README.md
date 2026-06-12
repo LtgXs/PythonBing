@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-06-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg)|
-||*Copyright: Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
+|2026-06-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg)|
+||*Copyright: European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)*
 ||
 |||
 |2026-06-12|**Region: ja-JP**||
@@ -16,44 +16,44 @@
 ||*Copyright: European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)*
 ||
 |||
-|2026-06-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Limpets_PT-BR3364231967_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_PT-BR3364231967_UHD.jpg)|
-||*Copyright: Lapas expostas na maré baixa na costa da Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
+|2026-06-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ValentineFrog_PT-BR1899609261_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValentineFrog_PT-BR1899609261_UHD.jpg)|
+||*Copyright: Casal de rãs-leitosas-da-amazônia, ou pererecas-de-leite (© Lauren Suryanata/Shutterstock)*
 ||
 |||
-|2026-06-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.Limpets_FR-FR7051500113_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_FR-FR7051500113_UHD.jpg)|
-||*Copyright: Des patelles à marée basse sur la Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
+|2026-06-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SpainBeeEater_FR-FR5420456430_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainBeeEater_FR-FR5420456430_UHD.jpg)|
+||*Copyright: Guêpier d’Europe, Parc naturel de la Sierra de Grazalema, Cadix, Espagne (© Andres M. Dominguez/Nature Picture Library)*
 ||
 |||
-|2026-06-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374_UHD.jpg)|
-||*Copyright: Napfschnecken bei Ebbe an der Küste von Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
+|2026-06-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SpainBeeEater_DE-DE9310458421_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainBeeEater_DE-DE9310458421_UHD.jpg)|
+||*Copyright: Europäischer Bienenfresser im Naturpark Sierra de Grazalema, Cádiz, Spanien (© Andres M. Dominguez/Nature Picture Library)*
 ||
 |||
-|2026-06-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Limpets_EN-CA5417186464_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_EN-CA5417186464_UHD.jpg)|
-||*Copyright: Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
+|2026-06-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SpainBeeEater_EN-CA4532177883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainBeeEater_EN-CA4532177883_UHD.jpg)|
+||*Copyright: European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)*
 ||
 |||
-|2026-06-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.Limpets_EN-GB0252915957_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_EN-GB0252915957_UHD.jpg)|
-||*Copyright: Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
+|2026-06-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SpainBeeEater_EN-GB0400736039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainBeeEater_EN-GB0400736039_UHD.jpg)|
+||*Copyright: European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)*
 ||
 |||
-|2026-06-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.Limpets_IT-IT0440243465_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_IT-IT0440243465_UHD.jpg)|
-||*Copyright: Patelle, costa di Praia da Ursa, Portogallo (© Theo Bosboom/Nature Picture Library)*
+|2026-06-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SpainBeeEater_IT-IT9615288576_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainBeeEater_IT-IT9615288576_UHD.jpg)|
+||*Copyright: Gruccione comune, parco naturale della Sierra de Grazalema, Spagna (© Andres M. Dominguez/Nature Picture Library)*
 ||
 |||
-|2026-06-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.Limpets_ES-ES0650754334_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_ES-ES0650754334_UHD.jpg)|
-||*Copyright: Lapas en la costa de Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
+|2026-06-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SpainBeeEater_ES-ES8052156644_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainBeeEater_ES-ES8052156644_UHD.jpg)|
+||*Copyright: Abejaruco europeo en el parque natural de la Sierra de Grazalema, Cádiz (© Andres M. Dominguez/Nature Picture Library)*
 ||
 |||
-|2026-06-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Limpets_FR-CA7113071158_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Limpets_FR-CA7113071158_UHD.jpg)|
-||*Copyright: Des patelles à marée basse sur la Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)*
+|2026-06-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SpainBeeEater_FR-CA9277488592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainBeeEater_FR-CA9277488592_UHD.jpg)|
+||*Copyright: Guêpier d’Europe, Parc naturel de la Sierra de Grazalema, Cadix, Espagne (© Andres M. Dominguez/Nature Picture Library)*
 ||
 |||
 
