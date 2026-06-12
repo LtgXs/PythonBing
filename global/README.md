@@ -6,9 +6,9 @@
 ||*Copyright: European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)*
 ||
 |||
-|2026-06-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985_UHD.jpg)|
-||*Copyright: ヨーロッパハチクイ, スペイン (© Andres M. Dominguez/Nature Picture Library)*
+|2026-06-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_UHD.jpg)|
+||*Copyright: はやぶさ 2 から切り離されたカプセル (© MORGAN SETTE/Getty Images)*
 ||
 |||
 |2026-06-12|**Region: en-IN**||

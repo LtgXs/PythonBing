@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [12:28:04] Picture infomations saved to  global/fr-CA/README.md
 [12:28:04] Picture infomations saved to global/fr-CA/history/2026/06/13_fr-CA.md
 Program exit at 12:28:04
+
+Program started at 18:00:17
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm1li68
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[18:00:17] Start geting CN Bing Wallpaper
+[18:00:17] Successful get url: https://www.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg
+[18:00:17] Image saved to img/background.jpg
+[18:00:17] Info saved to README.md
+[18:00:17] Image saved to history/2026/06/13.md
+[18:00:17] Start geting global Bing Wallpaper, region=en-US, local time is 2026-06-12 14:00:17.460999-04:00
+[18:00:17] Successful get url: https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg
+[18:00:17] Picture infomations saved to  global/en-US/README.md
+[18:00:17] Picture infomations saved to global/en-US/history/2026/06/13_en-US.md
+[18:00:17] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-06-13 03:00:17.606267+09:00
+[18:00:17] Successful get url: https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_UHD.jpg
+[18:00:17] Picture infomations saved to  global/ja-JP/README.md
+[18:00:17] Picture infomations saved to global/ja-JP/history/2026/06/13_ja-JP.md
+[18:00:17] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-06-12 23:30:17.820933+05:30
+[18:00:17] Successful get url: https://www.bing.com/th?id=OHR.SpainBeeEater_EN-IN7232456385_UHD.jpg
+[18:00:18] Picture infomations saved to  global/en-IN/README.md
+[18:00:18] Picture infomations saved to global/en-IN/history/2026/06/12_en-IN.md
+[18:00:18] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-06-12 15:00:18.230206-03:00
+[18:00:18] Successful get url: https://www.bing.com/th?id=OHR.ValentineFrog_PT-BR1899609261_UHD.jpg
+[18:00:18] Picture infomations saved to  global/pt-BR/README.md
+[18:00:18] Picture infomations saved to global/pt-BR/history/2026/06/13_pt-BR.md
+[18:00:18] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-06-12 20:00:18.446847+02:00
+[18:00:18] Successful get url: https://www.bing.com/th?id=OHR.SpainBeeEater_FR-FR5420456430_UHD.jpg
+[18:00:18] Picture infomations saved to  global/fr-FR/README.md
+[18:00:18] Picture infomations saved to global/fr-FR/history/2026/06/12_fr-FR.md
+[18:00:18] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-06-12 20:00:18.711337+02:00
+[18:00:18] Successful get url: https://www.bing.com/th?id=OHR.SpainBeeEater_DE-DE9310458421_UHD.jpg
+[18:00:18] Picture infomations saved to  global/de-DE/README.md
+[18:00:18] Picture infomations saved to global/de-DE/history/2026/06/12_de-DE.md
+[18:00:18] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-06-12 14:00:18.831926-04:00
+[18:00:18] Successful get url: https://www.bing.com/th?id=OHR.SpainBeeEater_EN-CA4532177883_UHD.jpg
+[18:00:19] Picture infomations saved to  global/en-CA/README.md
+[18:00:19] Picture infomations saved to global/en-CA/history/2026/06/13_en-CA.md
+[18:00:19] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-06-12 19:00:19.050330+01:00
+[18:00:19] Successful get url: https://www.bing.com/th?id=OHR.SpainBeeEater_EN-GB0400736039_UHD.jpg
+[18:00:19] Picture infomations saved to  global/en-GB/README.md
+[18:00:19] Picture infomations saved to global/en-GB/history/2026/06/12_en-GB.md
+[18:00:19] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-06-12 20:00:19.190091+02:00
+[18:00:19] Successful get url: https://www.bing.com/th?id=OHR.SpainBeeEater_IT-IT9615288576_UHD.jpg
+[18:00:19] Picture infomations saved to  global/it-IT/README.md
+[18:00:19] Picture infomations saved to global/it-IT/history/2026/06/12_it-IT.md
+[18:00:19] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-06-12 20:00:19.317552+02:00
+[18:00:19] Successful get url: https://www.bing.com/th?id=OHR.SpainBeeEater_ES-ES8052156644_UHD.jpg
+[18:00:19] Picture infomations saved to  global/es-ES/README.md
+[18:00:19] Picture infomations saved to global/es-ES/history/2026/06/12_es-ES.md
+[18:00:19] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-06-12 14:00:19.620934-04:00
+[18:00:19] Successful get url: https://www.bing.com/th?id=OHR.SpainBeeEater_FR-CA9277488592_UHD.jpg
+[18:00:19] Picture infomations saved to  global/fr-CA/README.md
+[18:00:19] Picture infomations saved to global/fr-CA/history/2026/06/13_fr-CA.md
+Program exit at 18:00:19
