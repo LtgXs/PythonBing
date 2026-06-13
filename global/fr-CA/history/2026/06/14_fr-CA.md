@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-06-14
+## History Bing Wallpaper
+Wallpaper date: 2026-06-14
 ![](https://www.bing.com/th?id=OHR.BadSunset_FR-CA8889390256_UHD.jpg&w=1000)Download: [Coucher de soleil au parc national des Badlands, Dakota du Sud, États-Unis (© Troy Harrison/Getty Images)](https://www.bing.com/th?id=OHR.BadSunset_FR-CA8889390256_UHD.jpg)
 
 Auto get programm by LtgX
