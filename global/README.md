@@ -6,9 +6,9 @@
 ||*Copyright: Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)*
 ||
 |||
-|2026-06-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_UHD.jpg)|
-||*Copyright: はやぶさ 2 から切り離されたカプセル (© MORGAN SETTE/Getty Images)*
+|2026-06-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484_UHD.jpg)|
+||*Copyright: バッドランズ国立公園, 米国 サウスダコタ州 (© Troy Harrison/Getty Images)*
 ||
 |||
 |2026-06-13|**Region: en-IN**||
