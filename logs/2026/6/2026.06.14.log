@@ -1,0 +1,60 @@
+
+Program started at 11:35:43
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm1li68
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:35:44] Start geting CN Bing Wallpaper
+[11:35:44] Successful get url: https://www.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg
+[11:35:44] Image saved to img/background.jpg
+[11:35:44] Info saved to README.md
+[11:35:44] Image saved to history/2026/06/14.md
+[11:35:44] Start geting global Bing Wallpaper, region=en-US, local time is 2026-06-14 07:35:44.471331-04:00
+[11:35:44] Successful get url: https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg
+[11:35:44] Picture infomations saved to  global/en-US/README.md
+[11:35:44] Picture infomations saved to global/en-US/history/2026/06/15_en-US.md
+[11:35:44] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-06-14 20:35:44.644965+09:00
+[11:35:44] Successful get url: https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484_UHD.jpg
+[11:35:44] Picture infomations saved to  global/ja-JP/README.md
+[11:35:44] Picture infomations saved to global/ja-JP/history/2026/06/14_ja-JP.md
+[11:35:44] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-06-14 17:05:44.868895+05:30
+[11:35:44] Successful get url: https://www.bing.com/th?id=OHR.DuckPond_EN-IN7848254317_UHD.jpg
+[11:35:45] Picture infomations saved to  global/en-IN/README.md
+[11:35:45] Picture infomations saved to global/en-IN/history/2026/06/14_en-IN.md
+[11:35:45] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-06-14 08:35:45.071231-03:00
+[11:35:45] Successful get url: https://www.bing.com/th?id=OHR.DuckPond_PT-BR2199019099_UHD.jpg
+[11:35:45] Picture infomations saved to  global/pt-BR/README.md
+[11:35:45] Picture infomations saved to global/pt-BR/history/2026/06/15_pt-BR.md
+[11:35:45] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-06-14 13:35:45.262809+02:00
+[11:35:45] Successful get url: https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_UHD.jpg
+[11:35:45] Picture infomations saved to  global/fr-FR/README.md
+[11:35:45] Picture infomations saved to global/fr-FR/history/2026/06/14_fr-FR.md
+[11:35:45] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-06-14 13:35:45.453949+02:00
+[11:35:45] Successful get url: https://www.bing.com/th?id=OHR.MainauFlowers_DE-DE9640558313_UHD.jpg
+[11:35:45] Picture infomations saved to  global/de-DE/README.md
+[11:35:45] Picture infomations saved to global/de-DE/history/2026/06/14_de-DE.md
+[11:35:45] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-06-14 07:35:45.672445-04:00
+[11:35:45] Successful get url: https://www.bing.com/th?id=OHR.DuckPond_EN-CA5165691235_UHD.jpg
+[11:35:45] Picture infomations saved to  global/en-CA/README.md
+[11:35:45] Picture infomations saved to global/en-CA/history/2026/06/15_en-CA.md
+[11:35:45] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-06-14 12:35:45.980837+01:00
+[11:35:46] Successful get url: https://www.bing.com/th?id=OHR.BadSunset_EN-GB9659525576_UHD.jpg
+[11:35:46] Picture infomations saved to  global/en-GB/README.md
+[11:35:46] Picture infomations saved to global/en-GB/history/2026/06/14_en-GB.md
+[11:35:46] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-06-14 13:35:46.108075+02:00
+[11:35:46] Successful get url: https://www.bing.com/th?id=OHR.DuckPond_IT-IT3562995004_UHD.jpg
+[11:35:46] Picture infomations saved to  global/it-IT/README.md
+[11:35:46] Picture infomations saved to global/it-IT/history/2026/06/14_it-IT.md
+[11:35:46] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-06-14 13:35:46.282401+02:00
+[11:35:46] Successful get url: https://www.bing.com/th?id=OHR.DuckPond_ES-ES8621996260_UHD.jpg
+[11:35:46] Picture infomations saved to  global/es-ES/README.md
+[11:35:46] Picture infomations saved to global/es-ES/history/2026/06/14_es-ES.md
+[11:35:46] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-06-14 07:35:46.483762-04:00
+[11:35:46] Successful get url: https://www.bing.com/th?id=OHR.DuckPond_FR-CA7727491720_UHD.jpg
+[11:35:46] Picture infomations saved to  global/fr-CA/README.md
+[11:35:46] Picture infomations saved to global/fr-CA/history/2026/06/15_fr-CA.md
+Program exit at 11:35:46
