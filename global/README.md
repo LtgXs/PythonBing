@@ -6,9 +6,9 @@
 ||*Copyright: US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)*
 ||
 |||
-|2026-06-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484_UHD.jpg)|
-||*Copyright: バッドランズ国立公園, 米国 サウスダコタ州 (© Troy Harrison/Getty Images)*
+|2026-06-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ParkEstd_JA-JP9205724491_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParkEstd_JA-JP9205724491_UHD.jpg)|
+||*Copyright: グレート・スモーキー山脈国立公園, 米国 テネシー州 (© Mint Images/Getty Images)*
 ||
 |||
 |2026-06-14|**Region: en-IN**||
