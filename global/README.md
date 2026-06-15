@@ -11,9 +11,9 @@
 ||*Copyright: 優雅に泳ぐタイマイ, ケイマン諸島 (© Alex Mustard/Nature Picture Library)*
 ||
 |||
-|2026-06-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ParkEstd_EN-IN7979223128_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParkEstd_EN-IN7979223128_UHD.jpg)|
-||*Copyright: Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)*
+|2026-06-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-IN0218913418_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-IN0218913418_UHD.jpg)|
+||*Copyright: Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)*
 ||
 |||
 |2026-06-16|**Region: pt-BR**||
