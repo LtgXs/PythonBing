@@ -6,14 +6,14 @@
 ||*Copyright: Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)*
 ||
 |||
-|2026-06-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SevenMileTurtle_JA-JP9577560353_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevenMileTurtle_JA-JP9577560353_UHD.jpg)|
-||*Copyright: 優雅に泳ぐタイマイ, ケイマン諸島 (© Alex Mustard/Nature Picture Library)*
+|2026-06-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TremolaRoad_JA-JP0031183332_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TremolaRoad_JA-JP0031183332_UHD.jpg)|
+||*Copyright: トレモラ道路, スイス (© Sandro Bisaro/Getty Images)*
 ||
 |||
-|2026-06-16|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-IN0218913418_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-IN0218913418_UHD.jpg)|
-||*Copyright: Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)*
+|2026-06-17|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TremolaRoad_EN-IN5047488667_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TremolaRoad_EN-IN5047488667_UHD.jpg)|
+||*Copyright: Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)*
 ||
 |||
 |2026-06-17|**Region: pt-BR**||
