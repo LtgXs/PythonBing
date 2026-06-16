@@ -1,0 +1,60 @@
+
+Program started at 14:23:37
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm1li68
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[14:23:37] Start geting CN Bing Wallpaper
+[14:23:41] Successful get url: https://www.bing.com/th?id=OHR.SevenMileTurtle_ZH-CN4346512721_UHD.jpg
+[14:23:41] Image saved to img/background.jpg
+[14:23:41] Info saved to README.md
+[14:23:41] Image saved to history/2026/06/16.md
+[14:23:41] Start geting global Bing Wallpaper, region=en-US, local time is 2026-06-16 10:23:41.338536-04:00
+[14:23:41] Successful get url: https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg
+[14:23:41] Picture infomations saved to  global/en-US/README.md
+[14:23:41] Picture infomations saved to global/en-US/history/2026/06/17_en-US.md
+[14:23:41] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-06-16 23:23:41.501585+09:00
+[14:23:41] Successful get url: https://www.bing.com/th?id=OHR.SevenMileTurtle_JA-JP9577560353_UHD.jpg
+[14:23:41] Picture infomations saved to  global/ja-JP/README.md
+[14:23:41] Picture infomations saved to global/ja-JP/history/2026/06/16_ja-JP.md
+[14:23:41] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-06-16 19:53:41.643476+05:30
+[14:23:41] Successful get url: https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-IN0218913418_UHD.jpg
+[14:23:41] Picture infomations saved to  global/en-IN/README.md
+[14:23:41] Picture infomations saved to global/en-IN/history/2026/06/16_en-IN.md
+[14:23:41] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-06-16 11:23:41.791836-03:00
+[14:23:41] Successful get url: https://www.bing.com/th?id=OHR.SevenMileTurtle_PT-BR3827841290_UHD.jpg
+[14:23:41] Picture infomations saved to  global/pt-BR/README.md
+[14:23:41] Picture infomations saved to global/pt-BR/history/2026/06/17_pt-BR.md
+[14:23:41] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-06-16 16:23:41.960403+02:00
+[14:23:42] Successful get url: https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-FR7065841321_UHD.jpg
+[14:23:42] Picture infomations saved to  global/fr-FR/README.md
+[14:23:42] Picture infomations saved to global/fr-FR/history/2026/06/16_fr-FR.md
+[14:23:42] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-06-16 16:23:42.107177+02:00
+[14:23:42] Successful get url: https://www.bing.com/th?id=OHR.SevenMileTurtle_DE-DE3122799407_UHD.jpg
+[14:23:42] Picture infomations saved to  global/de-DE/README.md
+[14:23:42] Picture infomations saved to global/de-DE/history/2026/06/16_de-DE.md
+[14:23:42] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-06-16 10:23:42.257205-04:00
+[14:23:42] Successful get url: https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-CA5750272834_UHD.jpg
+[14:23:42] Picture infomations saved to  global/en-CA/README.md
+[14:23:42] Picture infomations saved to global/en-CA/history/2026/06/17_en-CA.md
+[14:23:42] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-06-16 15:23:42.404794+01:00
+[14:23:42] Successful get url: https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-GB9965359647_UHD.jpg
+[14:23:42] Picture infomations saved to  global/en-GB/README.md
+[14:23:42] Picture infomations saved to global/en-GB/history/2026/06/16_en-GB.md
+[14:23:42] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-06-16 16:23:42.558665+02:00
+[14:23:42] Successful get url: https://www.bing.com/th?id=OHR.SevenMileTurtle_IT-IT4183755480_UHD.jpg
+[14:23:42] Picture infomations saved to  global/it-IT/README.md
+[14:23:42] Picture infomations saved to global/it-IT/history/2026/06/16_it-IT.md
+[14:23:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-06-16 16:23:42.716284+02:00
+[14:23:42] Successful get url: https://www.bing.com/th?id=OHR.SevenMileTurtle_ES-ES8939258902_UHD.jpg
+[14:23:42] Picture infomations saved to  global/es-ES/README.md
+[14:23:42] Picture infomations saved to global/es-ES/history/2026/06/16_es-ES.md
+[14:23:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-06-16 10:23:42.874851-04:00
+[14:23:42] Successful get url: https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_UHD.jpg
+[14:23:43] Picture infomations saved to  global/fr-CA/README.md
+[14:23:43] Picture infomations saved to global/fr-CA/history/2026/06/17_fr-CA.md
+Program exit at 14:23:43
