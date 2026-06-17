@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [12:56:07] Picture infomations saved to  global/fr-CA/README.md
 [12:56:07] Picture infomations saved to global/fr-CA/history/2026/06/18_fr-CA.md
 Program exit at 12:56:07
+
+Program started at 18:09:33
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm7b5n9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[18:09:33] Start geting CN Bing Wallpaper
+[18:09:33] Successful get url: https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg
+[18:09:34] Image saved to img/background.jpg
+[18:09:34] Info saved to README.md
+[18:09:34] Image saved to history/2026/06/18.md
+[18:09:34] Start geting global Bing Wallpaper, region=en-US, local time is 2026-06-17 14:09:34.125904-04:00
+[18:09:34] Successful get url: https://www.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg
+[18:09:34] Picture infomations saved to  global/en-US/README.md
+[18:09:34] Picture infomations saved to global/en-US/history/2026/06/18_en-US.md
+[18:09:34] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-06-18 03:09:34.318777+09:00
+[18:09:34] Successful get url: https://www.bing.com/th?id=OHR.Saqsaywaman_JA-JP0282514779_UHD.jpg
+[18:09:34] Picture infomations saved to  global/ja-JP/README.md
+[18:09:34] Picture infomations saved to global/ja-JP/history/2026/06/18_ja-JP.md
+[18:09:34] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-06-17 23:39:34.533040+05:30
+[18:09:34] Successful get url: https://www.bing.com/th?id=OHR.TremolaRoad_EN-IN5047488667_UHD.jpg
+[18:09:34] Picture infomations saved to  global/en-IN/README.md
+[18:09:34] Picture infomations saved to global/en-IN/history/2026/06/17_en-IN.md
+[18:09:34] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-06-17 15:09:34.981784-03:00
+[18:09:35] Successful get url: https://www.bing.com/th?id=OHR.TremolaRoad_PT-BR4929951755_UHD.jpg
+[18:09:35] Picture infomations saved to  global/pt-BR/README.md
+[18:09:35] Picture infomations saved to global/pt-BR/history/2026/06/18_pt-BR.md
+[18:09:35] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-06-17 20:09:35.192348+02:00
+[18:09:35] Successful get url: https://www.bing.com/th?id=OHR.TremolaRoad_FR-FR5199411184_UHD.jpg
+[18:09:35] Picture infomations saved to  global/fr-FR/README.md
+[18:09:35] Picture infomations saved to global/fr-FR/history/2026/06/17_fr-FR.md
+[18:09:35] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-06-17 20:09:35.399959+02:00
+[18:09:35] Successful get url: https://www.bing.com/th?id=OHR.TremolaRoad_DE-DE0167255988_UHD.jpg
+[18:09:35] Picture infomations saved to  global/de-DE/README.md
+[18:09:35] Picture infomations saved to global/de-DE/history/2026/06/17_de-DE.md
+[18:09:35] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-06-17 14:09:35.793287-04:00
+[18:09:35] Successful get url: https://www.bing.com/th?id=OHR.TremolaRoad_EN-CA6025249827_UHD.jpg
+[18:09:36] Picture infomations saved to  global/en-CA/README.md
+[18:09:36] Picture infomations saved to global/en-CA/history/2026/06/18_en-CA.md
+[18:09:36] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-06-17 19:09:36.182397+01:00
+[18:09:36] Successful get url: https://www.bing.com/th?id=OHR.TremolaRoad_EN-GB0467957598_UHD.jpg
+[18:09:36] Picture infomations saved to  global/en-GB/README.md
+[18:09:36] Picture infomations saved to global/en-GB/history/2026/06/17_en-GB.md
+[18:09:36] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-06-17 20:09:36.505802+02:00
+[18:09:36] Successful get url: https://www.bing.com/th?id=OHR.TremolaRoad_IT-IT1436390409_UHD.jpg
+[18:09:36] Picture infomations saved to  global/it-IT/README.md
+[18:09:36] Picture infomations saved to global/it-IT/history/2026/06/17_it-IT.md
+[18:09:36] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-06-17 20:09:36.792190+02:00
+[18:09:36] Successful get url: https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819_UHD.jpg
+[18:09:37] Picture infomations saved to  global/es-ES/README.md
+[18:09:37] Picture infomations saved to global/es-ES/history/2026/06/17_es-ES.md
+[18:09:37] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-06-17 14:09:37.028518-04:00
+[18:09:37] Successful get url: https://www.bing.com/th?id=OHR.TremolaRoad_FR-CA5218229801_UHD.jpg
+[18:09:37] Picture infomations saved to  global/fr-CA/README.md
+[18:09:37] Picture infomations saved to global/fr-CA/history/2026/06/18_fr-CA.md
+Program exit at 18:09:37

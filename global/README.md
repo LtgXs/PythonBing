@@ -6,9 +6,9 @@
 ||*Copyright: Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)*
 ||
 |||
-|2026-06-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TremolaRoad_JA-JP0031183332_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TremolaRoad_JA-JP0031183332_UHD.jpg)|
-||*Copyright: トレモラ道路, スイス (© Sandro Bisaro/Getty Images)*
+|2026-06-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Saqsaywaman_JA-JP0282514779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saqsaywaman_JA-JP0282514779_UHD.jpg)|
+||*Copyright: サクサイワマン, ペルー (© Creative-Family/Getty Images Plus)*
 ||
 |||
 |2026-06-17|**Region: en-IN**||
