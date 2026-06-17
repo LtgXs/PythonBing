@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-06-17|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg)|
-||*Copyright: Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)*
+|2026-06-18|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg)|
+||*Copyright: Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)*
 ||
 |||
 |2026-06-17|**Region: ja-JP**||
@@ -16,44 +16,44 @@
 ||*Copyright: Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)*
 ||
 |||
-|2026-06-17|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SevenMileTurtle_PT-BR3827841290_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevenMileTurtle_PT-BR3827841290_UHD.jpg)|
-||*Copyright: Tartarugas-de-pente perto de Seven Mile Beach, Grand Cayman, Ilhas Cayman (© Alex Mustard/Nature Picture Library)*
+|2026-06-18|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TremolaRoad_PT-BR4929951755_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TremolaRoad_PT-BR4929951755_UHD.jpg)|
+||*Copyright: Estrada Tremola no Passo de São Gotardo, Airolo, Suíça (© Sandro Bisaro/Getty Images)*
 ||
 |||
-|2026-06-16|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-FR7065841321_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-FR7065841321_UHD.jpg)|
-||*Copyright: Un couple de tortues imbriquées près de Seven Mile Beach, Grand Cayman, Îles Caïmans (© Alex Mustard/Nature Picture Library)*
+|2026-06-17|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TremolaRoad_FR-FR5199411184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TremolaRoad_FR-FR5199411184_UHD.jpg)|
+||*Copyright: Route de la Tremola sur le col du Saint-Gothard, Airolo, Suisse (© Sandro Bisaro/Getty Images)*
 ||
 |||
-|2026-06-16|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SevenMileTurtle_DE-DE3122799407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevenMileTurtle_DE-DE3122799407_UHD.jpg)|
-||*Copyright: Zwei Echte Karettschildkröten in der Nähe des Seven Mile Beach, Grand Cayman, Kaimaninseln (© Alex Mustard/Nature Picture Library)*
+|2026-06-17|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TremolaRoad_DE-DE0167255988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TremolaRoad_DE-DE0167255988_UHD.jpg)|
+||*Copyright: Tremolastraße am Gotthardpass in Airolo, Schweiz (© Sandro Bisaro/Getty Images)*
 ||
 |||
-|2026-06-17|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-CA5750272834_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-CA5750272834_UHD.jpg)|
-||*Copyright: Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)*
+|2026-06-18|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TremolaRoad_EN-CA6025249827_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TremolaRoad_EN-CA6025249827_UHD.jpg)|
+||*Copyright: Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)*
 ||
 |||
-|2026-06-16|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-GB9965359647_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-GB9965359647_UHD.jpg)|
-||*Copyright: Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)*
+|2026-06-17|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TremolaRoad_EN-GB0467957598_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TremolaRoad_EN-GB0467957598_UHD.jpg)|
+||*Copyright: Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)*
 ||
 |||
-|2026-06-16|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SevenMileTurtle_IT-IT4183755480_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevenMileTurtle_IT-IT4183755480_UHD.jpg)|
-||*Copyright: Tartarughe embricate, Seven Mile Beach, Isole Cayman (© Alex Mustard/Nature Picture Library)*
+|2026-06-17|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TremolaRoad_IT-IT1436390409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TremolaRoad_IT-IT1436390409_UHD.jpg)|
+||*Copyright: Strada della Tremola, passo del San Gottardo, Airolo, Svizzera (© Sandro Bisaro/Getty Images)*
 ||
 |||
-|2026-06-16|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SevenMileTurtle_ES-ES8939258902_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevenMileTurtle_ES-ES8939258902_UHD.jpg)|
-||*Copyright: Pareja de tortugas carey cerca de Seven Mile Beach, Gran Caimán, Islas Caimán (© Alex Mustard/Nature Picture Library)*
+|2026-06-17|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819_UHD.jpg)|
+||*Copyright: Carretera Tremola en el paso de San Gotardo, en Airolo, Suiza (© Sandro Bisaro/Getty Images)*
 ||
 |||
-|2026-06-17|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-CA4707827243_UHD.jpg)|
-||*Copyright: Un couple de tortues imbriquées près de Seven Mile Beach, Grand Cayman, Îles Caïmans (© Alex Mustard/Nature Picture Library)*
+|2026-06-18|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TremolaRoad_FR-CA5218229801_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TremolaRoad_FR-CA5218229801_UHD.jpg)|
+||*Copyright: Route de la Tremola sur le col du Saint-Gothard, Airolo, Suisse (© Sandro Bisaro/Getty Images)*
 ||
 |||
 
