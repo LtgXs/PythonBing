@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)*
 ||
 |||
-|2026-06-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Saqsaywaman_JA-JP0282514779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saqsaywaman_JA-JP0282514779_UHD.jpg)|
-||*Copyright: サクサイワマン, ペルー (© Creative-Family/Getty Images Plus)*
+|2026-06-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GrandPlace_JA-JP0571812680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandPlace_JA-JP0571812680_UHD.jpg)|
+||*Copyright: グラン＝プラス, ベルギー (© Vladislav Zolotov/Getty Images Plus)*
 ||
 |||
 |2026-06-18|**Region: en-IN**||
