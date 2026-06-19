@@ -6,9 +6,9 @@
 ||*Copyright: National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)*
 ||
 |||
-|2026-06-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GrandPlace_JA-JP0571812680_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrandPlace_JA-JP0571812680_UHD.jpg)|
-||*Copyright: グラン＝プラス, ベルギー (© Vladislav Zolotov/Getty Images Plus)*
+|2026-06-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ArchedIceberg_JA-JP0865478817_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArchedIceberg_JA-JP0865478817_UHD.jpg)|
+||*Copyright: アーチ状の氷山, 南極半島西部 (© Steven Kazlowski/Nature Picture Library)*
 ||
 |||
 |2026-06-19|**Region: en-IN**||
