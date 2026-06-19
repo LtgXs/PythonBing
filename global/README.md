@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-06-19|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg)|
-||*Copyright: Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)*
+|2026-06-20|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg)|
+||*Copyright: National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)*
 ||
 |||
 |2026-06-19|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: グラン＝プラス, ベルギー (© Vladislav Zolotov/Getty Images Plus)*
 ||
 |||
-|2026-06-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-IN9988887646_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-IN9988887646_UHD.jpg)|
-||*Copyright: Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)*
+|2026-06-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.IsolaElba_EN-IN7931152562_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IsolaElba_EN-IN7931152562_UHD.jpg)|
+||*Copyright: La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)*
 ||
 |||
-|2026-06-19|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Saqsaywaman_PT-BR5528021582_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saqsaywaman_PT-BR5528021582_UHD.jpg)|
-||*Copyright: Vista aérea das ruínas de Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)*
+|2026-06-20|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.IsolaElba_PT-BR4257374246_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IsolaElba_PT-BR4257374246_UHD.jpg)|
+||*Copyright: Farol La Rocchetta, Piombino, Toscana, Itália (© StevanZZ/Getty Images)*
 ||
 |||
-|2026-06-18|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.Saqsaywaman_FR-FR7364469911_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saqsaywaman_FR-FR7364469911_UHD.jpg)|
-||*Copyright: Vue aérienne des ruines de Sacsayhuamán, Cusco, Pérou (© Creative-Family/Getty Images Plus)*
+|2026-06-19|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.IsolaElba_FR-FR6759091748_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IsolaElba_FR-FR6759091748_UHD.jpg)|
+||*Copyright: Phare de La Rocchetta, Piombino, Toscane, Italie (© StevanZZ/Getty Images)*
 ||
 |||
-|2026-06-18|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.Saqsaywaman_DE-DE3241976270_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saqsaywaman_DE-DE3241976270_UHD.jpg)|
-||*Copyright: Luftaufnahme der Ruinen von Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)*
+|2026-06-19|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.IsolaElba_DE-DE0710166341_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IsolaElba_DE-DE0710166341_UHD.jpg)|
+||*Copyright: Leuchtturm „La Rocchetta“, Piombino, Italien (© StevanZZ/Getty Images)*
 ||
 |||
-|2026-06-19|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-CA6349309682_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-CA6349309682_UHD.jpg)|
-||*Copyright: Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)*
+|2026-06-20|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.IsolaElba_EN-CA8613795085_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IsolaElba_EN-CA8613795085_UHD.jpg)|
+||*Copyright: La Rocchetta Lighthouse, Piombino, Italy (© StevanZZ/Getty Images)*
 ||
 |||
-|2026-06-18|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-GB0811852640_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-GB0811852640_UHD.jpg)|
-||*Copyright: Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)*
+|2026-06-19|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_UHD.jpg)|
+||*Copyright: La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)*
 ||
 |||
-|2026-06-18|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.Saqsaywaman_IT-IT8503253730_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saqsaywaman_IT-IT8503253730_UHD.jpg)|
-||*Copyright: Rovine di Sacsayhuamán, Cusco, Perù (© Creative-Family/Getty Images Plus)*
+|2026-06-19|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.IsolaElba_IT-IT8863679360_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IsolaElba_IT-IT8863679360_UHD.jpg)|
+||*Copyright: Faro di Piombino, provincia di Livorno, Toscana (© StevanZZ/Getty Images)*
 ||
 |||
-|2026-06-18|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.Saqsaywaman_ES-ES9301445722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saqsaywaman_ES-ES9301445722_UHD.jpg)|
-||*Copyright: Vista aérea de las ruinas de Sacsayhuamán, Cuzco, Perú (© Creative-Family/Getty Images Plus)*
+|2026-06-19|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.IsolaElba_ES-ES9499583337_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IsolaElba_ES-ES9499583337_UHD.jpg)|
+||*Copyright: Faro de La Rocchetta, Piombino, Toscana, Italia (© StevanZZ/Getty Images)*
 ||
 |||
-|2026-06-19|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Saqsaywaman_FR-CA6074758013_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Saqsaywaman_FR-CA6074758013_UHD.jpg)|
-||*Copyright: Vue aérienne des ruines de Sacsayhuamán, Cusco, Pérou (© Creative-Family/Getty Images Plus)*
+|2026-06-20|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.IsolaElba_FR-CA6826330322_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IsolaElba_FR-CA6826330322_UHD.jpg)|
+||*Copyright: Phare de La Rocchetta, Piombino, Toscane, Italie (© StevanZZ/Getty Images)*
 ||
 |||
 

@@ -1,0 +1,60 @@
+
+Program started at 12:53:08
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm7b5n9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[12:53:08] Start geting CN Bing Wallpaper
+[12:53:08] Successful get url: https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555_UHD.jpg
+[12:53:08] Image saved to img/background.jpg
+[12:53:08] Info saved to README.md
+[12:53:08] Image saved to history/2026/06/19.md
+[12:53:08] Start geting global Bing Wallpaper, region=en-US, local time is 2026-06-19 08:53:08.797888-04:00
+[12:53:08] Successful get url: https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg
+[12:53:08] Picture infomations saved to  global/en-US/README.md
+[12:53:08] Picture infomations saved to global/en-US/history/2026/06/20_en-US.md
+[12:53:08] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-06-19 21:53:08.935770+09:00
+[12:53:09] Successful get url: https://www.bing.com/th?id=OHR.GrandPlace_JA-JP0571812680_UHD.jpg
+[12:53:09] Picture infomations saved to  global/ja-JP/README.md
+[12:53:09] Picture infomations saved to global/ja-JP/history/2026/06/19_ja-JP.md
+[12:53:09] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-06-19 18:23:09.068356+05:30
+[12:53:09] Successful get url: https://www.bing.com/th?id=OHR.IsolaElba_EN-IN7931152562_UHD.jpg
+[12:53:09] Picture infomations saved to  global/en-IN/README.md
+[12:53:09] Picture infomations saved to global/en-IN/history/2026/06/19_en-IN.md
+[12:53:09] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-06-19 09:53:09.249301-03:00
+[12:53:09] Successful get url: https://www.bing.com/th?id=OHR.IsolaElba_PT-BR4257374246_UHD.jpg
+[12:53:09] Picture infomations saved to  global/pt-BR/README.md
+[12:53:09] Picture infomations saved to global/pt-BR/history/2026/06/20_pt-BR.md
+[12:53:09] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-06-19 14:53:09.705701+02:00
+[12:53:09] Successful get url: https://www.bing.com/th?id=OHR.IsolaElba_FR-FR6759091748_UHD.jpg
+[12:53:09] Picture infomations saved to  global/fr-FR/README.md
+[12:53:09] Picture infomations saved to global/fr-FR/history/2026/06/19_fr-FR.md
+[12:53:09] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-06-19 14:53:09.852220+02:00
+[12:53:09] Successful get url: https://www.bing.com/th?id=OHR.IsolaElba_DE-DE0710166341_UHD.jpg
+[12:53:09] Picture infomations saved to  global/de-DE/README.md
+[12:53:09] Picture infomations saved to global/de-DE/history/2026/06/19_de-DE.md
+[12:53:09] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-06-19 08:53:09.989348-04:00
+[12:53:10] Successful get url: https://www.bing.com/th?id=OHR.IsolaElba_EN-CA8613795085_UHD.jpg
+[12:53:10] Picture infomations saved to  global/en-CA/README.md
+[12:53:10] Picture infomations saved to global/en-CA/history/2026/06/20_en-CA.md
+[12:53:10] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-06-19 13:53:10.123760+01:00
+[12:53:10] Successful get url: https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_UHD.jpg
+[12:53:10] Picture infomations saved to  global/en-GB/README.md
+[12:53:10] Picture infomations saved to global/en-GB/history/2026/06/19_en-GB.md
+[12:53:10] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-06-19 14:53:10.266795+02:00
+[12:53:10] Successful get url: https://www.bing.com/th?id=OHR.IsolaElba_IT-IT8863679360_UHD.jpg
+[12:53:10] Picture infomations saved to  global/it-IT/README.md
+[12:53:10] Picture infomations saved to global/it-IT/history/2026/06/19_it-IT.md
+[12:53:10] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-06-19 14:53:10.410189+02:00
+[12:53:10] Successful get url: https://www.bing.com/th?id=OHR.IsolaElba_ES-ES9499583337_UHD.jpg
+[12:53:10] Picture infomations saved to  global/es-ES/README.md
+[12:53:10] Picture infomations saved to global/es-ES/history/2026/06/19_es-ES.md
+[12:53:10] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-06-19 08:53:10.540046-04:00
+[12:53:10] Successful get url: https://www.bing.com/th?id=OHR.IsolaElba_FR-CA6826330322_UHD.jpg
+[12:53:10] Picture infomations saved to  global/fr-CA/README.md
+[12:53:10] Picture infomations saved to global/fr-CA/history/2026/06/20_fr-CA.md
+Program exit at 12:53:10
