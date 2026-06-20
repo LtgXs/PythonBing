@@ -1,0 +1,60 @@
+
+Program started at 11:24:27
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm7b5n9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:24:27] Start geting CN Bing Wallpaper
+[11:24:27] Successful get url: https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg
+[11:24:28] Image saved to img/background.jpg
+[11:24:28] Info saved to README.md
+[11:24:28] Image saved to history/2026/06/20.md
+[11:24:28] Start geting global Bing Wallpaper, region=en-US, local time is 2026-06-20 07:24:28.010124-04:00
+[11:24:28] Successful get url: https://www.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg
+[11:24:28] Picture infomations saved to  global/en-US/README.md
+[11:24:28] Picture infomations saved to global/en-US/history/2026/06/21_en-US.md
+[11:24:28] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-06-20 20:24:28.151946+09:00
+[11:24:28] Successful get url: https://www.bing.com/th?id=OHR.ArchedIceberg_JA-JP0865478817_UHD.jpg
+[11:24:28] Picture infomations saved to  global/ja-JP/README.md
+[11:24:28] Picture infomations saved to global/ja-JP/history/2026/06/20_ja-JP.md
+[11:24:28] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-06-20 16:54:28.291396+05:30
+[11:24:28] Successful get url: https://www.bing.com/th?id=OHR.ArchedIceberg_EN-IN0531378206_UHD.jpg
+[11:24:28] Picture infomations saved to  global/en-IN/README.md
+[11:24:28] Picture infomations saved to global/en-IN/history/2026/06/20_en-IN.md
+[11:24:28] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-06-20 08:24:28.435840-03:00
+[11:24:28] Successful get url: https://www.bing.com/th?id=OHR.ArchedIceberg_PT-BR4679375878_UHD.jpg
+[11:24:28] Picture infomations saved to  global/pt-BR/README.md
+[11:24:28] Picture infomations saved to global/pt-BR/history/2026/06/21_pt-BR.md
+[11:24:28] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-06-20 13:24:28.552534+02:00
+[11:24:28] Successful get url: https://www.bing.com/th?id=OHR.ArchedIceberg_FR-FR8603937918_UHD.jpg
+[11:24:28] Picture infomations saved to  global/fr-FR/README.md
+[11:24:28] Picture infomations saved to global/fr-FR/history/2026/06/20_fr-FR.md
+[11:24:28] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-06-20 13:24:28.845372+02:00
+[11:24:28] Successful get url: https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_UHD.jpg
+[11:24:28] Picture infomations saved to  global/de-DE/README.md
+[11:24:28] Picture infomations saved to global/de-DE/history/2026/06/20_de-DE.md
+[11:24:28] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-06-20 07:24:28.970472-04:00
+[11:24:29] Successful get url: https://www.bing.com/th?id=OHR.ArchedIceberg_EN-CA7836830010_UHD.jpg
+[11:24:29] Picture infomations saved to  global/en-CA/README.md
+[11:24:29] Picture infomations saved to global/en-CA/history/2026/06/21_en-CA.md
+[11:24:29] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-06-20 12:24:29.216491+01:00
+[11:24:29] Successful get url: https://www.bing.com/th?id=OHR.ArchedIceberg_EN-GB1807420935_UHD.jpg
+[11:24:29] Picture infomations saved to  global/en-GB/README.md
+[11:24:29] Picture infomations saved to global/en-GB/history/2026/06/20_en-GB.md
+[11:24:29] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-06-20 13:24:29.389186+02:00
+[11:24:29] Successful get url: https://www.bing.com/th?id=OHR.ArchedIceberg_IT-IT9191790217_UHD.jpg
+[11:24:29] Picture infomations saved to  global/it-IT/README.md
+[11:24:29] Picture infomations saved to global/it-IT/history/2026/06/20_it-IT.md
+[11:24:29] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-06-20 13:24:29.576998+02:00
+[11:24:29] Successful get url: https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871_UHD.jpg
+[11:24:30] Picture infomations saved to  global/es-ES/README.md
+[11:24:30] Picture infomations saved to global/es-ES/history/2026/06/20_es-ES.md
+[11:24:30] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-06-20 07:24:30.291113-04:00
+[11:24:30] Successful get url: https://www.bing.com/th?id=OHR.ArchedIceberg_FR-CA6705356210_UHD.jpg
+[11:24:30] Picture infomations saved to  global/fr-CA/README.md
+[11:24:30] Picture infomations saved to global/fr-CA/history/2026/06/21_fr-CA.md
+Program exit at 11:24:30
