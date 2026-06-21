@@ -6,9 +6,9 @@
 ||*Copyright: King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)*
 ||
 |||
-|2026-06-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.EggDad_JA-JP1066785458_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EggDad_JA-JP1066785458_UHD.jpg)|
-||*Copyright: オウサマペンギンの父親 (© McDonald Wildlife Photography Inc./Getty Images)*
+|2026-06-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Fujisan_JA-JP1483326201_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fujisan_JA-JP1483326201_UHD.jpg)|
+||*Copyright: 富士山 (© phutthiseth thongtae/Getty Images)*
 ||
 |||
 |2026-06-21|**Region: en-IN**||
