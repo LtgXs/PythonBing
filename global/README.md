@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-06-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg)|
-||*Copyright: Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)*
+|2026-06-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg)|
+||*Copyright: King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)*
 ||
 |||
 |2026-06-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: オウサマペンギンの父親 (© McDonald Wildlife Photography Inc./Getty Images)*
 ||
 |||
-|2026-06-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-IN0531378206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-IN0531378206_UHD.jpg)|
-||*Copyright: Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)*
+|2026-06-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108_UHD.jpg)|
+||*Copyright: Colourful sky and clouds reflecting over the Ganges River, Rishikesh (© fbxx/iStock/Getty Images)*
 ||
 |||
-|2026-06-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ArchedIceberg_PT-BR4679375878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArchedIceberg_PT-BR4679375878_UHD.jpg)|
-||*Copyright: Iceberg flutuando na Antártica Ocidental, oceano Antártico (© Steven Kazlowski/Nature Picture Library)*
+|2026-06-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.EggDad_PT-BR4988690729_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EggDad_PT-BR4988690729_UHD.jpg)|
+||*Copyright: Pinguim-rei protegendo um ovo (© McDonald Wildlife Photography Inc./Getty Images)*
 ||
 |||
-|2026-06-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-FR8603937918_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-FR8603937918_UHD.jpg)|
-||*Copyright: Arche naturelle sculptée dans un iceberg, Océan Antarctique (© Steven Kazlowski/Nature Picture Library)*
+|2026-06-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_UHD.jpg)|
+||*Copyright: Notre-Dame de Paris et les quais de Seine, Paris (© RudyBalasko/Getty Images)*
 ||
 |||
-|2026-06-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_UHD.jpg)|
-||*Copyright: Windjammerparade zur Kieler Woche in Kiel, Schleswig-Holstein (© Snapshot freddy/Shutterstock)*
+|2026-06-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.EggDad_DE-DE1185821144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EggDad_DE-DE1185821144_UHD.jpg)|
+||*Copyright: Ein Königspinguin-Männchen schaut nach seinem Ei (© McDonald Wildlife Photography Inc./Getty Images)*
 ||
 |||
-|2026-06-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-CA7836830010_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-CA7836830010_UHD.jpg)|
-||*Copyright: Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)*
+|2026-06-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_UHD.jpg)|
+||*Copyright: Red maple leaf, symbol of Canada (© namaki/Getty Images)*
 ||
 |||
-|2026-06-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-GB1807420935_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-GB1807420935_UHD.jpg)|
-||*Copyright: Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)*
+|2026-06-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.EggDad_EN-GB2308215035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EggDad_EN-GB2308215035_UHD.jpg)|
+||*Copyright: King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)*
 ||
 |||
-|2026-06-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ArchedIceberg_IT-IT9191790217_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArchedIceberg_IT-IT9191790217_UHD.jpg)|
-||*Copyright: Iceberg, costa occidentale della penisola Antartica, oceano Antartico (© Steven Kazlowski/Nature Picture Library)*
+|2026-06-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.Cesenatico_IT-IT1478062900_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Cesenatico_IT-IT1478062900_UHD.jpg)|
+||*Copyright: Barche a vela tradizionali, Porto Canale Leonardesco, Cesenatico, Emilia-Romagna (© Francesco Riccardo Iacomino/Getty Images)*
 ||
 |||
-|2026-06-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871_UHD.jpg)|
-||*Copyright: Iceberg arqueado flotando frente a la península Antártica occidental, océano Austral (© Steven Kazlowski/Nature Picture Library)*
+|2026-06-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.Fujisan_ES-ES0010704933_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fujisan_ES-ES0010704933_UHD.jpg)|
+||*Copyright: Monte Fuji en la isla de Honshu, Japón (© phutthiseth thongtae/Getty Images)*
 ||
 |||
-|2026-06-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-CA6705356210_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-CA6705356210_UHD.jpg)|
-||*Copyright: Arche naturelle sculptée dans un iceberg, Océan Antarctique (© Steven Kazlowski/Nature Picture Library)*
+|2026-06-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.IndigenousMaple_FR-CA1946850400_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndigenousMaple_FR-CA1946850400_UHD.jpg)|
+||*Copyright: La feuille d'érable rouge, symbole du Canada (© namaki/Getty Images)*
 ||
 |||
 
