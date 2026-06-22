@@ -6,14 +6,14 @@
 ||*Copyright: Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)*
 ||
 |||
-|2026-06-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Fujisan_JA-JP1483326201_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fujisan_JA-JP1483326201_UHD.jpg)|
-||*Copyright: 富士山 (© phutthiseth thongtae/Getty Images)*
+|2026-06-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.QuinaultFerns_JA-JP6908853562_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_JA-JP6908853562_UHD.jpg)|
+||*Copyright: キノート・レイン・フォレスト, 米国 ワシントン州 (© Chris Moore/Tandem Stills + Motion)*
 ||
 |||
-|2026-06-22|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-IN6306076955_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-IN6306076955_UHD.jpg)|
-||*Copyright: Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)*
+|2026-06-23|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.Fujisan_EN-IN2234581475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fujisan_EN-IN2234581475_UHD.jpg)|
+||*Copyright: Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)*
 ||
 |||
 |2026-06-23|**Region: pt-BR**||
