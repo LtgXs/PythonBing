@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-06-22|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg)|
-||*Copyright: King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)*
+|2026-06-23|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg)|
+||*Copyright: Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)*
 ||
 |||
 |2026-06-22|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: 富士山 (© phutthiseth thongtae/Getty Images)*
 ||
 |||
-|2026-06-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108_UHD.jpg)|
-||*Copyright: Colourful sky and clouds reflecting over the Ganges River, Rishikesh (© fbxx/iStock/Getty Images)*
+|2026-06-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-IN6306076955_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-IN6306076955_UHD.jpg)|
+||*Copyright: Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)*
 ||
 |||
-|2026-06-22|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.EggDad_PT-BR4988690729_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EggDad_PT-BR4988690729_UHD.jpg)|
-||*Copyright: Pinguim-rei protegendo um ovo (© McDonald Wildlife Photography Inc./Getty Images)*
+|2026-06-23|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.QuinaultFerns_PT-BR5147575881_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_PT-BR5147575881_UHD.jpg)|
+||*Copyright: Floresta tropical de Quinault, Parque Nacional Olímpico, estado de Washington, Estados Unidos (© Chris Moore/Tandem Stills + Motion)*
 ||
 |||
-|2026-06-21|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_UHD.jpg)|
-||*Copyright: Notre-Dame de Paris et les quais de Seine, Paris (© RudyBalasko/Getty Images)*
+|2026-06-22|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_UHD.jpg)|
+||*Copyright: Forêt humide de Quinault, Parc national Olympique, État de Washington, États-Unis (© Chris Moore/Tandem Stills + Motion)*
 ||
 |||
-|2026-06-21|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.EggDad_DE-DE1185821144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EggDad_DE-DE1185821144_UHD.jpg)|
-||*Copyright: Ein Königspinguin-Männchen schaut nach seinem Ei (© McDonald Wildlife Photography Inc./Getty Images)*
+|2026-06-22|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.QuinaultFerns_DE-DE3985266590_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_DE-DE3985266590_UHD.jpg)|
+||*Copyright: Quinault‑Regenwald im Olympic‑Nationalpark, Washington, USA (© Chris Moore/Tandem Stills + Motion)*
 ||
 |||
-|2026-06-22|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_UHD.jpg)|
-||*Copyright: Red maple leaf, symbol of Canada (© namaki/Getty Images)*
+|2026-06-23|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-CA8536233053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-CA8536233053_UHD.jpg)|
+||*Copyright: Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)*
 ||
 |||
-|2026-06-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.EggDad_EN-GB2308215035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EggDad_EN-GB2308215035_UHD.jpg)|
-||*Copyright: King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)*
+|2026-06-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-GB3562324915_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-GB3562324915_UHD.jpg)|
+||*Copyright: Quinault rainforest, Olympic National Park, Washington, United States (© Chris Moore/Tandem Stills + Motion)*
 ||
 |||
-|2026-06-21|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.Cesenatico_IT-IT1478062900_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Cesenatico_IT-IT1478062900_UHD.jpg)|
-||*Copyright: Barche a vela tradizionali, Porto Canale Leonardesco, Cesenatico, Emilia-Romagna (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-06-22|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.QuinaultFerns_IT-IT2013381547_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_IT-IT2013381547_UHD.jpg)|
+||*Copyright: Foresta pluviale di Quinault, parco nazionale Olympic, Washington, USA (© Chris Moore/Tandem Stills + Motion)*
 ||
 |||
-|2026-06-21|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.Fujisan_ES-ES0010704933_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Fujisan_ES-ES0010704933_UHD.jpg)|
-||*Copyright: Monte Fuji en la isla de Honshu, Japón (© phutthiseth thongtae/Getty Images)*
+|2026-06-22|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.QuinaultFerns_ES-ES0176872139_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_ES-ES0176872139_UHD.jpg)|
+||*Copyright: Selva tropical de Quinault, parque nacional Olympic, estado de Washington, EE. UU. (© Chris Moore/Tandem Stills + Motion)*
 ||
 |||
-|2026-06-22|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.IndigenousMaple_FR-CA1946850400_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndigenousMaple_FR-CA1946850400_UHD.jpg)|
-||*Copyright: La feuille d'érable rouge, symbole du Canada (© namaki/Getty Images)*
+|2026-06-23|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-CA2183444706_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-CA2183444706_UHD.jpg)|
+||*Copyright: Forêt humide de Quinault, Parc national Olympique, État de Washington, États-Unis (© Chris Moore/Tandem Stills + Motion)*
 ||
 |||
 
