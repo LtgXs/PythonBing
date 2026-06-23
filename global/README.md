@@ -6,9 +6,9 @@
 ||*Copyright: Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)*
 ||
 |||
-|2026-06-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.QuinaultFerns_JA-JP6908853562_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.QuinaultFerns_JA-JP6908853562_UHD.jpg)|
-||*Copyright: キノート・レイン・フォレスト, 米国 ワシントン州 (© Chris Moore/Tandem Stills + Motion)*
+|2026-06-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BFPollin_JA-JP2026844024_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BFPollin_JA-JP2026844024_UHD.jpg)|
+||*Copyright: 花の蜜を味わう蝶 (© lzh/Getty Images)*
 ||
 |||
 |2026-06-23|**Region: en-IN**||
