@@ -6,9 +6,9 @@
 ||*Copyright: Butterfly pollinating on yellow flower (© lzh/Getty Images)*
 ||
 |||
-|2026-06-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BFPollin_JA-JP2026844024_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BFPollin_JA-JP2026844024_UHD.jpg)|
-||*Copyright: 花の蜜を味わう蝶 (© lzh/Getty Images)*
+|2026-06-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_UHD.jpg)|
+||*Copyright: ラベンダー畑, 北海道 中富良野町 (© Weiheng Pan/Getty Images Plus)*
 ||
 |||
 |2026-06-24|**Region: en-IN**||
