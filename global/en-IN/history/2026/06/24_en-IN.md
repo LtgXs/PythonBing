@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-06-24
+## History Bing Wallpaper
+Wallpaper date: 2026-06-24
 ![](https://www.bing.com/th?id=OHR.BFPollin_EN-IN2234226266_UHD.jpg&w=1000)Download: [Butterfly pollinating on yellow flower (© lzh/Getty Images)](https://www.bing.com/th?id=OHR.BFPollin_EN-IN2234226266_UHD.jpg)
 
 Auto get programm by LtgX
