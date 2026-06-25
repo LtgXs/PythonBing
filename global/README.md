@@ -6,9 +6,9 @@
 ||*Copyright: Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)*
 ||
 |||
-|2026-06-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_UHD.jpg)|
-||*Copyright: ラベンダー畑, 北海道 中富良野町 (© Weiheng Pan/Getty Images Plus)*
+|2026-06-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ThamesSummer_JA-JP5302199333_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThamesSummer_JA-JP5302199333_UHD.jpg)|
+||*Copyright: テムズ川, イングランド ロンドン (© Daniel Lange/Getty Images)*
 ||
 |||
 |2026-06-25|**Region: en-IN**||
