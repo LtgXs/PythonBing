@@ -6,9 +6,9 @@
 ||*Copyright: The River Thames, London, England (© Daniel Lange/Getty Images)*
 ||
 |||
-|2026-06-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ThamesSummer_JA-JP5302199333_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ThamesSummer_JA-JP5302199333_UHD.jpg)|
-||*Copyright: テムズ川, イングランド ロンドン (© Daniel Lange/Getty Images)*
+|2026-06-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Ajisai2026_JA-JP5953428145_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Ajisai2026_JA-JP5953428145_UHD.jpg)|
+||*Copyright: あじさいの花房, 岩手県 奥州市 (© nattya3714/Getty Images)*
 ||
 |||
 |2026-06-26|**Region: en-IN**||
