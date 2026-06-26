@@ -1,0 +1,60 @@
+
+Program started at 11:48:37
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmmklqx
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:48:37] Start geting CN Bing Wallpaper
+[11:48:37] Successful get url: https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg
+[11:48:37] Image saved to img/background.jpg
+[11:48:37] Info saved to README.md
+[11:48:37] Image saved to history/2026/06/26.md
+[11:48:37] Start geting global Bing Wallpaper, region=en-US, local time is 2026-06-26 07:48:37.436100-04:00
+[11:48:37] Successful get url: https://www.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg
+[11:48:37] Picture infomations saved to  global/en-US/README.md
+[11:48:37] Picture infomations saved to global/en-US/history/2026/06/27_en-US.md
+[11:48:37] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-06-26 20:48:37.636139+09:00
+[11:48:37] Successful get url: https://www.bing.com/th?id=OHR.ThamesSummer_JA-JP5302199333_UHD.jpg
+[11:48:37] Picture infomations saved to  global/ja-JP/README.md
+[11:48:37] Picture infomations saved to global/ja-JP/history/2026/06/26_ja-JP.md
+[11:48:37] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-06-26 17:18:37.803827+05:30
+[11:48:37] Successful get url: https://www.bing.com/th?id=OHR.ThamesSummer_EN-IN8289570374_UHD.jpg
+[11:48:37] Picture infomations saved to  global/en-IN/README.md
+[11:48:37] Picture infomations saved to global/en-IN/history/2026/06/26_en-IN.md
+[11:48:37] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-06-26 08:48:37.977014-03:00
+[11:48:38] Successful get url: https://www.bing.com/th?id=OHR.Parintins_PT-BR8364769128_UHD.jpg
+[11:48:38] Picture infomations saved to  global/pt-BR/README.md
+[11:48:38] Picture infomations saved to global/pt-BR/history/2026/06/27_pt-BR.md
+[11:48:38] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-06-26 13:48:38.146444+02:00
+[11:48:38] Successful get url: https://www.bing.com/th?id=OHR.ThamesSummer_FR-FR5709336854_UHD.jpg
+[11:48:38] Picture infomations saved to  global/fr-FR/README.md
+[11:48:38] Picture infomations saved to global/fr-FR/history/2026/06/26_fr-FR.md
+[11:48:38] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-06-26 13:48:38.348371+02:00
+[11:48:38] Successful get url: https://www.bing.com/th?id=OHR.ThamesSummer_DE-DE5848189110_UHD.jpg
+[11:48:38] Picture infomations saved to  global/de-DE/README.md
+[11:48:38] Picture infomations saved to global/de-DE/history/2026/06/26_de-DE.md
+[11:48:38] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-06-26 07:48:38.561372-04:00
+[11:48:38] Successful get url: https://www.bing.com/th?id=OHR.ThamesSummer_EN-CA4092680642_UHD.jpg
+[11:48:38] Picture infomations saved to  global/en-CA/README.md
+[11:48:38] Picture infomations saved to global/en-CA/history/2026/06/27_en-CA.md
+[11:48:38] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-06-26 12:48:38.758886+01:00
+[11:48:38] Successful get url: https://www.bing.com/th?id=OHR.ThamesSummer_EN-GB9133126004_UHD.jpg
+[11:48:38] Picture infomations saved to  global/en-GB/README.md
+[11:48:38] Picture infomations saved to global/en-GB/history/2026/06/26_en-GB.md
+[11:48:38] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-06-26 13:48:38.939916+02:00
+[11:48:39] Successful get url: https://www.bing.com/th?id=OHR.ThamesSummer_IT-IT7472747077_UHD.jpg
+[11:48:39] Picture infomations saved to  global/it-IT/README.md
+[11:48:39] Picture infomations saved to global/it-IT/history/2026/06/26_it-IT.md
+[11:48:39] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-06-26 13:48:39.150660+02:00
+[11:48:39] Successful get url: https://www.bing.com/th?id=OHR.ThamesSummer_ES-ES8043595451_UHD.jpg
+[11:48:39] Picture infomations saved to  global/es-ES/README.md
+[11:48:39] Picture infomations saved to global/es-ES/history/2026/06/26_es-ES.md
+[11:48:39] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-06-26 07:48:39.356814-04:00
+[11:48:39] Successful get url: https://www.bing.com/th?id=OHR.ThamesSummer_FR-CA7345424379_UHD.jpg
+[11:48:39] Picture infomations saved to  global/fr-CA/README.md
+[11:48:39] Picture infomations saved to global/fr-CA/history/2026/06/27_fr-CA.md
+Program exit at 11:48:39
