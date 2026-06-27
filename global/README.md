@@ -6,9 +6,9 @@
 ||*Copyright: Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)*
 ||
 |||
-|2026-06-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Ajisai2026_JA-JP5953428145_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Ajisai2026_JA-JP5953428145_UHD.jpg)|
-||*Copyright: あじさいの花房, 岩手県 奥州市 (© nattya3714/Getty Images)*
+|2026-06-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SaguaroSun_JA-JP5856249761_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroSun_JA-JP5856249761_UHD.jpg)|
+||*Copyright: ウィンドゲートパス, 米国 アリゾナ州 (© Eric Mischke/Getty Images)*
 ||
 |||
 |2026-06-27|**Region: en-IN**||

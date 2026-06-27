@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [11:02:23] Picture infomations saved to  global/fr-CA/README.md
 [11:02:23] Picture infomations saved to global/fr-CA/history/2026/06/28_fr-CA.md
 Program exit at 11:02:23
+
+Program started at 17:01:43
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmmklqx
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:01:43] Start geting CN Bing Wallpaper
+[17:01:43] Successful get url: https://www.bing.com/th?id=OHR.SaguaroSun_ZH-CN5820504732_UHD.jpg
+[17:01:43] Image saved to img/background.jpg
+[17:01:43] Info saved to README.md
+[17:01:43] Image saved to history/2026/06/28.md
+[17:01:43] Start geting global Bing Wallpaper, region=en-US, local time is 2026-06-27 13:01:43.534658-04:00
+[17:01:43] Successful get url: https://www.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg
+[17:01:43] Picture infomations saved to  global/en-US/README.md
+[17:01:43] Picture infomations saved to global/en-US/history/2026/06/28_en-US.md
+[17:01:43] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-06-28 02:01:43.714247+09:00
+[17:01:43] Successful get url: https://www.bing.com/th?id=OHR.SaguaroSun_JA-JP5856249761_UHD.jpg
+[17:01:43] Picture infomations saved to  global/ja-JP/README.md
+[17:01:43] Picture infomations saved to global/ja-JP/history/2026/06/28_ja-JP.md
+[17:01:43] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-06-27 22:31:43.969302+05:30
+[17:01:44] Successful get url: https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065_UHD.jpg
+[17:01:44] Picture infomations saved to  global/en-IN/README.md
+[17:01:44] Picture infomations saved to global/en-IN/history/2026/06/27_en-IN.md
+[17:01:44] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-06-27 14:01:44.815693-03:00
+[17:01:44] Successful get url: https://www.bing.com/th?id=OHR.BoneyardBeach_PT-BR8811510135_UHD.jpg
+[17:01:45] Picture infomations saved to  global/pt-BR/README.md
+[17:01:45] Picture infomations saved to global/pt-BR/history/2026/06/28_pt-BR.md
+[17:01:45] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-06-27 19:01:45.057263+02:00
+[17:01:45] Successful get url: https://www.bing.com/th?id=OHR.BoneyardBeach_FR-FR6517949092_UHD.jpg
+[17:01:45] Picture infomations saved to  global/fr-FR/README.md
+[17:01:45] Picture infomations saved to global/fr-FR/history/2026/06/27_fr-FR.md
+[17:01:45] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-06-27 19:01:45.243628+02:00
+[17:01:45] Successful get url: https://www.bing.com/th?id=OHR.Westerheversand_DE-DE9270031466_UHD.jpg
+[17:01:45] Picture infomations saved to  global/de-DE/README.md
+[17:01:45] Picture infomations saved to global/de-DE/history/2026/06/27_de-DE.md
+[17:01:45] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-06-27 13:01:45.511789-04:00
+[17:01:45] Successful get url: https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_UHD.jpg
+[17:01:45] Picture infomations saved to  global/en-CA/README.md
+[17:01:45] Picture infomations saved to global/en-CA/history/2026/06/28_en-CA.md
+[17:01:45] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-06-27 18:01:45.641947+01:00
+[17:01:45] Successful get url: https://www.bing.com/th?id=OHR.BoneyardBeach_EN-GB1157661849_UHD.jpg
+[17:01:45] Picture infomations saved to  global/en-GB/README.md
+[17:01:45] Picture infomations saved to global/en-GB/history/2026/06/27_en-GB.md
+[17:01:45] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-06-27 19:01:45.799027+02:00
+[17:01:45] Successful get url: https://www.bing.com/th?id=OHR.BoneyardBeach_IT-IT9837372965_UHD.jpg
+[17:01:45] Picture infomations saved to  global/it-IT/README.md
+[17:01:45] Picture infomations saved to global/it-IT/history/2026/06/27_it-IT.md
+[17:01:45] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-06-27 19:01:45.969232+02:00
+[17:01:46] Successful get url: https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949_UHD.jpg
+[17:01:46] Picture infomations saved to  global/es-ES/README.md
+[17:01:46] Picture infomations saved to global/es-ES/history/2026/06/27_es-ES.md
+[17:01:46] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-06-27 13:01:46.219632-04:00
+[17:01:46] Successful get url: https://www.bing.com/th?id=OHR.MulticulturalismDY_FR-CA8766350441_UHD.jpg
+[17:01:46] Picture infomations saved to  global/fr-CA/README.md
+[17:01:46] Picture infomations saved to global/fr-CA/history/2026/06/28_fr-CA.md
+Program exit at 17:01:46
