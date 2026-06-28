@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-06-28|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg)|
-||*Copyright: Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)*
+|2026-06-29|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg)|
+||*Copyright: Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)*
 ||
 |||
 |2026-06-28|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ウィンドゲートパス, 米国 アリゾナ州 (© Eric Mischke/Getty Images)*
 ||
 |||
-|2026-06-27|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065_UHD.jpg)|
-||*Copyright: Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)*
+|2026-06-28|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SaguaroSun_EN-IN9141839272_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroSun_EN-IN9141839272_UHD.jpg)|
+||*Copyright: Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)*
 ||
 |||
-|2026-06-28|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BoneyardBeach_PT-BR8811510135_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoneyardBeach_PT-BR8811510135_UHD.jpg)|
-||*Copyright: Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos (© Frances/Adobe Stock)*
+|2026-06-29|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SaguaroSun_PT-BR3626457853_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroSun_PT-BR3626457853_UHD.jpg)|
+||*Copyright: Cactos-saguaro perto de Windgate Pass, cordilheira McDowell, Arizona, Estados Unidos (© Eric Mischke/Getty Images)*
 ||
 |||
-|2026-06-27|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BoneyardBeach_FR-FR6517949092_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoneyardBeach_FR-FR6517949092_UHD.jpg)|
-||*Copyright: Bois flotté sur la plage de Beaufort, Hunting Island, Caroline du Sud, États-Unis (© Frances/Adobe Stock)*
+|2026-06-28|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SaguaroSun_FR-FR5935266298_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroSun_FR-FR5935266298_UHD.jpg)|
+||*Copyright: Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)*
 ||
 |||
-|2026-06-27|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.Westerheversand_DE-DE9270031466_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Westerheversand_DE-DE9270031466_UHD.jpg)|
-||*Copyright: Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)*
+|2026-06-28|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SaguaroSun_DE-DE9702644922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroSun_DE-DE9702644922_UHD.jpg)|
+||*Copyright: Saguaro-Kakteen nahe dem Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)*
 ||
 |||
-|2026-06-28|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_UHD.jpg)|
-||*Copyright: Dramatic sky over Montreal, Quebec (© d3sign/Getty Images)*
+|2026-06-29|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SaguaroSun_EN-CA5131430817_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroSun_EN-CA5131430817_UHD.jpg)|
+||*Copyright: Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)*
 ||
 |||
-|2026-06-27|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-GB1157661849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-GB1157661849_UHD.jpg)|
-||*Copyright: Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)*
+|2026-06-28|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SaguaroSun_EN-GB1588043989_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroSun_EN-GB1588043989_UHD.jpg)|
+||*Copyright: Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)*
 ||
 |||
-|2026-06-27|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BoneyardBeach_IT-IT9837372965_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoneyardBeach_IT-IT9837372965_UHD.jpg)|
-||*Copyright: Spiaggia di Boneyard Beach, Hunting Island, Carolina del Sud, USA (© Frances/Adobe Stock)*
+|2026-06-28|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SaguaroSun_IT-IT8055685927_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroSun_IT-IT8055685927_UHD.jpg)|
+||*Copyright: Cactus Saguaro vicino al Passo Windgate, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)*
 ||
 |||
-|2026-06-27|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949_UHD.jpg)|
-||*Copyright: Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)*
+|2026-06-28|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PrideChueca_ES-ES4043385731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrideChueca_ES-ES4043385731_UHD.jpg)|
+||*Copyright: Chueca, Madrid, España (© MarioMonte/Getty Images)*
 ||
 |||
-|2026-06-28|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MulticulturalismDY_FR-CA8766350441_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MulticulturalismDY_FR-CA8766350441_UHD.jpg)|
-||*Copyright: Ciel spectaculaire sur Montréal, Québec (© d3sign/Getty Images)*
+|2026-06-29|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SaguaroSun_FR-CA9343833672_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SaguaroSun_FR-CA9343833672_UHD.jpg)|
+||*Copyright: Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)*
 ||
 |||
 
