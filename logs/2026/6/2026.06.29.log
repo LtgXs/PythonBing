@@ -1,0 +1,60 @@
+
+Program started at 13:13:35
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmmklqx
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[13:13:35] Start geting CN Bing Wallpaper
+[13:13:35] Successful get url: https://www.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_UHD.jpg
+[13:13:35] Image saved to img/background.jpg
+[13:13:35] Info saved to README.md
+[13:13:35] Image saved to history/2026/06/29.md
+[13:13:35] Start geting global Bing Wallpaper, region=en-US, local time is 2026-06-29 09:13:35.757396-04:00
+[13:13:35] Successful get url: https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg
+[13:13:36] Picture infomations saved to  global/en-US/README.md
+[13:13:36] Picture infomations saved to global/en-US/history/2026/06/30_en-US.md
+[13:13:36] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-06-29 22:13:36.040059+09:00
+[13:13:36] Successful get url: https://www.bing.com/th?id=OHR.BoraBoraLagoon_JA-JP3981162879_UHD.jpg
+[13:13:36] Picture infomations saved to  global/ja-JP/README.md
+[13:13:36] Picture infomations saved to global/ja-JP/history/2026/06/29_ja-JP.md
+[13:13:36] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-06-29 18:43:36.354752+05:30
+[13:13:36] Successful get url: https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-IN9424063973_UHD.jpg
+[13:13:36] Picture infomations saved to  global/en-IN/README.md
+[13:13:36] Picture infomations saved to global/en-IN/history/2026/06/29_en-IN.md
+[13:13:36] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-06-29 10:13:36.514912-03:00
+[13:13:36] Successful get url: https://www.bing.com/th?id=OHR.BoraBoraLagoon_PT-BR8111630763_UHD.jpg
+[13:13:36] Picture infomations saved to  global/pt-BR/README.md
+[13:13:36] Picture infomations saved to global/pt-BR/history/2026/06/30_pt-BR.md
+[13:13:36] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-06-29 15:13:36.708561+02:00
+[13:13:36] Successful get url: https://www.bing.com/th?id=OHR.BoraBoraLagoon_FR-FR6825831086_UHD.jpg
+[13:13:36] Picture infomations saved to  global/fr-FR/README.md
+[13:13:36] Picture infomations saved to global/fr-FR/history/2026/06/29_fr-FR.md
+[13:13:36] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-06-29 15:13:36.958695+02:00
+[13:13:37] Successful get url: https://www.bing.com/th?id=OHR.BoraBoraLagoon_DE-DE4940738686_UHD.jpg
+[13:13:37] Picture infomations saved to  global/de-DE/README.md
+[13:13:37] Picture infomations saved to global/de-DE/history/2026/06/29_de-DE.md
+[13:13:37] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-06-29 09:13:37.127747-04:00
+[13:13:37] Successful get url: https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-CA7294184526_UHD.jpg
+[13:13:37] Picture infomations saved to  global/en-CA/README.md
+[13:13:37] Picture infomations saved to global/en-CA/history/2026/06/30_en-CA.md
+[13:13:37] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-06-29 14:13:37.439955+01:00
+[13:13:37] Successful get url: https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-GB1950063282_UHD.jpg
+[13:13:37] Picture infomations saved to  global/en-GB/README.md
+[13:13:37] Picture infomations saved to global/en-GB/history/2026/06/29_en-GB.md
+[13:13:37] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-06-29 15:13:37.626088+02:00
+[13:13:37] Successful get url: https://www.bing.com/th?id=OHR.SanPietroPaolo_IT-IT6089431696_UHD.jpg
+[13:13:38] Picture infomations saved to  global/it-IT/README.md
+[13:13:38] Picture infomations saved to global/it-IT/history/2026/06/29_it-IT.md
+[13:13:38] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-06-29 15:13:38.004197+02:00
+[13:13:38] Successful get url: https://www.bing.com/th?id=OHR.BoraBoraLagoon_ES-ES4364920301_UHD.jpg
+[13:13:38] Picture infomations saved to  global/es-ES/README.md
+[13:13:38] Picture infomations saved to global/es-ES/history/2026/06/29_es-ES.md
+[13:13:38] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-06-29 09:13:38.195481-04:00
+[13:13:38] Successful get url: https://www.bing.com/th?id=OHR.BoraBoraLagoon_FR-CA4125372123_UHD.jpg
+[13:13:38] Picture infomations saved to  global/fr-CA/README.md
+[13:13:38] Picture infomations saved to global/fr-CA/history/2026/06/30_fr-CA.md
+Program exit at 13:13:38
