@@ -6,9 +6,9 @@
 ||*Copyright: Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)*
 ||
 |||
-|2026-06-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BoraBoraLagoon_JA-JP3981162879_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoraBoraLagoon_JA-JP3981162879_UHD.jpg)|
-||*Copyright: ボラボラ島, フランス領ポリネシア (© Frederick Millett/Shutterstock)*
+|2026-06-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MasaiGiraffe_JA-JP6554855892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiGiraffe_JA-JP6554855892_UHD.jpg)|
+||*Copyright: マサイキリン, ケニヤ (© danm/Getty Images)*
 ||
 |||
 |2026-06-29|**Region: en-IN**||
