@@ -6,9 +6,9 @@
 ||*Copyright: Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)*
 ||
 |||
-|2026-06-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MasaiGiraffe_JA-JP6554855892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MasaiGiraffe_JA-JP6554855892_UHD.jpg)|
-||*Copyright: マサイキリン, ケニヤ (© danm/Getty Images)*
+|2026-07-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DungeonPark_JA-JP3903067497_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DungeonPark_JA-JP3903067497_UHD.jpg)|
+||*Copyright: ダンジョン州立公園, カナダ (© Kaitlyn McLachlan/Getty Images)*
 ||
 |||
 |2026-06-30|**Region: en-IN**||
