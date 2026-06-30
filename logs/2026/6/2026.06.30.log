@@ -1,0 +1,60 @@
+
+Program started at 11:49:09
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmmklqx
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:49:09] Start geting CN Bing Wallpaper
+[11:49:09] Successful get url: https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg
+[11:49:09] Image saved to img/background.jpg
+[11:49:09] Info saved to README.md
+[11:49:09] Image saved to history/2026/06/30.md
+[11:49:09] Start geting global Bing Wallpaper, region=en-US, local time is 2026-06-30 07:49:09.736730-04:00
+[11:49:09] Successful get url: https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg
+[11:49:09] Picture infomations saved to  global/en-US/README.md
+[11:49:09] Picture infomations saved to global/en-US/history/2026/07/01_en-US.md
+[11:49:09] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-06-30 20:49:09.979425+09:00
+[11:49:10] Successful get url: https://www.bing.com/th?id=OHR.MasaiGiraffe_JA-JP6554855892_UHD.jpg
+[11:49:10] Picture infomations saved to  global/ja-JP/README.md
+[11:49:10] Picture infomations saved to global/ja-JP/history/2026/06/30_ja-JP.md
+[11:49:10] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-06-30 17:19:10.274730+05:30
+[11:49:10] Successful get url: https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-IN0088128873_UHD.jpg
+[11:49:10] Picture infomations saved to  global/en-IN/README.md
+[11:49:10] Picture infomations saved to global/en-IN/history/2026/06/30_en-IN.md
+[11:49:10] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-06-30 08:49:10.459288-03:00
+[11:49:10] Successful get url: https://www.bing.com/th?id=OHR.MasaiGiraffe_PT-BR8199198867_UHD.jpg
+[11:49:10] Picture infomations saved to  global/pt-BR/README.md
+[11:49:10] Picture infomations saved to global/pt-BR/history/2026/07/01_pt-BR.md
+[11:49:10] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-06-30 13:49:10.656869+02:00
+[11:49:10] Successful get url: https://www.bing.com/th?id=OHR.MasaiGiraffe_FR-FR7072948459_UHD.jpg
+[11:49:10] Picture infomations saved to  global/fr-FR/README.md
+[11:49:10] Picture infomations saved to global/fr-FR/history/2026/06/30_fr-FR.md
+[11:49:10] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-06-30 13:49:10.886350+02:00
+[11:49:10] Successful get url: https://www.bing.com/th?id=OHR.MasaiGiraffe_DE-DE5053384610_UHD.jpg
+[11:49:11] Picture infomations saved to  global/de-DE/README.md
+[11:49:11] Picture infomations saved to global/de-DE/history/2026/06/30_de-DE.md
+[11:49:11] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-06-30 07:49:11.116788-04:00
+[11:49:11] Successful get url: https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-CA5473733652_UHD.jpg
+[11:49:11] Picture infomations saved to  global/en-CA/README.md
+[11:49:11] Picture infomations saved to global/en-CA/history/2026/07/01_en-CA.md
+[11:49:11] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-06-30 12:49:11.477564+01:00
+[11:49:11] Successful get url: https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-GB8702520320_UHD.jpg
+[11:49:11] Picture infomations saved to  global/en-GB/README.md
+[11:49:11] Picture infomations saved to global/en-GB/history/2026/06/30_en-GB.md
+[11:49:11] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-06-30 13:49:11.696539+02:00
+[11:49:11] Successful get url: https://www.bing.com/th?id=OHR.MasaiGiraffe_IT-IT8100161271_UHD.jpg
+[11:49:11] Picture infomations saved to  global/it-IT/README.md
+[11:49:11] Picture infomations saved to global/it-IT/history/2026/06/30_it-IT.md
+[11:49:11] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-06-30 13:49:11.897485+02:00
+[11:49:11] Successful get url: https://www.bing.com/th?id=OHR.MasaiGiraffe_ES-ES0604244262_UHD.jpg
+[11:49:12] Picture infomations saved to  global/es-ES/README.md
+[11:49:12] Picture infomations saved to global/es-ES/history/2026/06/30_es-ES.md
+[11:49:12] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-06-30 07:49:12.125956-04:00
+[11:49:12] Successful get url: https://www.bing.com/th?id=OHR.MasaiGiraffe_FR-CA3851398838_UHD.jpg
+[11:49:12] Picture infomations saved to  global/fr-CA/README.md
+[11:49:12] Picture infomations saved to global/fr-CA/history/2026/07/01_fr-CA.md
+Program exit at 11:49:12
