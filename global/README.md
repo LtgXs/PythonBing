@@ -6,9 +6,9 @@
 ||*Copyright: Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)*
 ||
 |||
-|2026-07-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DungeonPark_JA-JP3903067497_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DungeonPark_JA-JP3903067497_UHD.jpg)|
-||*Copyright: ダンジョン州立公園, カナダ (© Kaitlyn McLachlan/Getty Images)*
+|2026-07-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TempleEsna_JA-JP0629204284_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TempleEsna_JA-JP0629204284_UHD.jpg)|
+||*Copyright: クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)*
 ||
 |||
 |2026-07-01|**Region: en-IN**||
