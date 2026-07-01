@@ -1,0 +1,60 @@
+
+Program started at 12:15:54
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmmklqx
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[12:15:54] Start geting CN Bing Wallpaper
+[12:15:54] Successful get url: https://www.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg
+[12:15:54] Image saved to img/background.jpg
+[12:15:54] Info saved to README.md
+[12:15:54] Image saved to history/2026/07/01.md
+[12:15:54] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-01 08:15:54.523718-04:00
+[12:15:54] Successful get url: https://www.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg
+[12:15:54] Picture infomations saved to  global/en-US/README.md
+[12:15:54] Picture infomations saved to global/en-US/history/2026/07/02_en-US.md
+[12:15:54] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-01 21:15:54.707683+09:00
+[12:15:54] Successful get url: https://www.bing.com/th?id=OHR.DungeonPark_JA-JP3903067497_UHD.jpg
+[12:15:54] Picture infomations saved to  global/ja-JP/README.md
+[12:15:54] Picture infomations saved to global/ja-JP/history/2026/07/01_ja-JP.md
+[12:15:54] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-01 17:45:54.876168+05:30
+[12:15:54] Successful get url: https://www.bing.com/th?id=OHR.JogFalls2026_EN-IN2533705121_UHD.jpg
+[12:15:54] Picture infomations saved to  global/en-IN/README.md
+[12:15:54] Picture infomations saved to global/en-IN/history/2026/07/01_en-IN.md
+[12:15:54] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-01 09:15:55.016072-03:00
+[12:15:55] Successful get url: https://www.bing.com/th?id=OHR.DungeonPark_PT-BR3960378944_UHD.jpg
+[12:15:55] Picture infomations saved to  global/pt-BR/README.md
+[12:15:55] Picture infomations saved to global/pt-BR/history/2026/07/02_pt-BR.md
+[12:15:55] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-01 14:15:55.141442+02:00
+[12:15:55] Successful get url: https://www.bing.com/th?id=OHR.DungeonPark_FR-FR7667168923_UHD.jpg
+[12:15:55] Picture infomations saved to  global/fr-FR/README.md
+[12:15:55] Picture infomations saved to global/fr-FR/history/2026/07/01_fr-FR.md
+[12:15:55] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-01 14:15:55.283998+02:00
+[12:15:55] Successful get url: https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_UHD.jpg
+[12:15:55] Picture infomations saved to  global/de-DE/README.md
+[12:15:55] Picture infomations saved to global/de-DE/history/2026/07/01_de-DE.md
+[12:15:55] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-01 08:15:55.403484-04:00
+[12:15:55] Successful get url: https://www.bing.com/th?id=OHR.DungeonPark_EN-CA5716185591_UHD.jpg
+[12:15:55] Picture infomations saved to  global/en-CA/README.md
+[12:15:55] Picture infomations saved to global/en-CA/history/2026/07/02_en-CA.md
+[12:15:55] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-01 13:15:55.526256+01:00
+[12:15:55] Successful get url: https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-GB9678795742_UHD.jpg
+[12:15:55] Picture infomations saved to  global/en-GB/README.md
+[12:15:55] Picture infomations saved to global/en-GB/history/2026/07/01_en-GB.md
+[12:15:55] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-01 14:15:55.684988+02:00
+[12:15:55] Successful get url: https://www.bing.com/th?id=OHR.DungeonPark_IT-IT0964634478_UHD.jpg
+[12:15:55] Picture infomations saved to  global/it-IT/README.md
+[12:15:55] Picture infomations saved to global/it-IT/history/2026/07/01_it-IT.md
+[12:15:55] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-01 14:15:55.800844+02:00
+[12:15:55] Successful get url: https://www.bing.com/th?id=OHR.DungeonPark_ES-ES4904785525_UHD.jpg
+[12:15:55] Picture infomations saved to  global/es-ES/README.md
+[12:15:55] Picture infomations saved to global/es-ES/history/2026/07/01_es-ES.md
+[12:15:55] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-01 08:15:55.969620-04:00
+[12:15:56] Successful get url: https://www.bing.com/th?id=OHR.DungeonPark_FR-CA4640740102_UHD.jpg
+[12:15:56] Picture infomations saved to  global/fr-CA/README.md
+[12:15:56] Picture infomations saved to global/fr-CA/history/2026/07/02_fr-CA.md
+Program exit at 12:15:56
