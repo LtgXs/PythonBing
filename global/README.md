@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-07-02|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg)|
-||*Copyright: Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)*
+|2026-07-03|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)|
+||*Copyright: Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)*
 ||
 |||
 |2026-07-02|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2026-07-01|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.JogFalls2026_EN-IN2533705121_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JogFalls2026_EN-IN2533705121_UHD.jpg)|
-||*Copyright: Jog Falls on the Sharavathi River, Shivamogga district, Karnataka (© Amith Nag Photography/Moment/Getty Images)*
+|2026-07-02|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TempleEsna_EN-IN3356286000_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TempleEsna_EN-IN3356286000_UHD.jpg)|
+||*Copyright: Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2026-07-02|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DungeonPark_PT-BR3960378944_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DungeonPark_PT-BR3960378944_UHD.jpg)|
-||*Copyright: Dungeon Provincial Park, Terra Nova e Labrador, Canadá (© Kaitlyn McLachlan/Getty Images)*
+|2026-07-03|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TempleEsna_PT-BR4377934596_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TempleEsna_PT-BR4377934596_UHD.jpg)|
+||*Copyright: Teto do Templo de Esna, Egito (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2026-07-01|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DungeonPark_FR-FR7667168923_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DungeonPark_FR-FR7667168923_UHD.jpg)|
-||*Copyright: Parc provincial de Dungeon, Terre-Neuve-et-Labrador, Canada (© Kaitlyn McLachlan/Getty Images)*
+|2026-07-02|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TempleEsna_FR-FR7122811032_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TempleEsna_FR-FR7122811032_UHD.jpg)|
+||*Copyright: Plafond du temple d'Esna, Égypte (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2026-07-01|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_UHD.jpg)|
-||*Copyright: Sonnenuntergang über den Weinbergen von Steinhaldenfeld im Neckartal bei Stuttgart, Baden-Württemberg (© Cyril Gosselin/Getty Images)*
+|2026-07-02|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TempleEsna_DE-DE2277338406_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TempleEsna_DE-DE2277338406_UHD.jpg)|
+||*Copyright: Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2026-07-02|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DungeonPark_EN-CA5716185591_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DungeonPark_EN-CA5716185591_UHD.jpg)|
-||*Copyright: Dungeon Provincial Park, Newfoundland and Labrador (© Kaitlyn McLachlan/Getty Images)*
+|2026-07-03|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TempleEsna_EN-CA5880187651_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TempleEsna_EN-CA5880187651_UHD.jpg)|
+||*Copyright: Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2026-07-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-GB9678795742_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-GB9678795742_UHD.jpg)|
-||*Copyright: Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)*
+|2026-07-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TempleEsna_EN-GB9683013446_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TempleEsna_EN-GB9683013446_UHD.jpg)|
+||*Copyright: Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2026-07-01|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DungeonPark_IT-IT0964634478_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DungeonPark_IT-IT0964634478_UHD.jpg)|
-||*Copyright: Parco provinciale di Dungeon, Terranova e Labrador, Canada (© Kaitlyn McLachlan/Getty Images)*
+|2026-07-02|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SienaPalioToscana_IT-IT6720555051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SienaPalioToscana_IT-IT6720555051_UHD.jpg)|
+||*Copyright: Palio di Siena, Italia (© Dave Benett/Getty Images)*
 ||
 |||
-|2026-07-01|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.DungeonPark_ES-ES4904785525_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DungeonPark_ES-ES4904785525_UHD.jpg)|
-||*Copyright: Dungeon Provincial Park, Terranova y Labrador, Canadá (© Kaitlyn McLachlan/Getty Images)*
+|2026-07-02|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TempleEsna_ES-ES5295149663_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TempleEsna_ES-ES5295149663_UHD.jpg)|
+||*Copyright: Techo del Templo de Jnum en Esna, Egipto (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2026-07-02|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DungeonPark_FR-CA4640740102_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DungeonPark_FR-CA4640740102_UHD.jpg)|
-||*Copyright: Parc provincial de Dungeon, Terre-Neuve-et-Labrador, Canada (© Kaitlyn McLachlan/Getty Images)*
+|2026-07-03|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TempleEsna_FR-CA4881443149_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TempleEsna_FR-CA4881443149_UHD.jpg)|
+||*Copyright: Plafond du temple d'Esna, Égypte (© Nick Brundle Photography/Getty Images)*
 ||
 |||
 
