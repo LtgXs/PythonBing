@@ -6,9 +6,9 @@
 ||*Copyright: Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)*
 ||
 |||
-|2026-07-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TempleEsna_JA-JP0629204284_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TempleEsna_JA-JP0629204284_UHD.jpg)|
-||*Copyright: クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)*
+|2026-07-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BoneyardBeach_JA-JP3339035555_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoneyardBeach_JA-JP3339035555_UHD.jpg)|
+||*Copyright: ボニーヤード・ビーチ, 米国 サウスカロライナ州 (© Frances/Adobe Stock)*
 ||
 |||
 |2026-07-02|**Region: en-IN**||
