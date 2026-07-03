@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [11:40:17] Picture infomations saved to  global/fr-CA/README.md
 [11:40:17] Picture infomations saved to global/fr-CA/history/2026/07/04_fr-CA.md
 Program exit at 11:40:17
+
+Program started at 17:16:56
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmkkn4f
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:16:56] Start geting CN Bing Wallpaper
+[17:16:56] Successful get url: https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg
+[17:16:57] Image saved to img/background.jpg
+[17:16:57] Info saved to README.md
+[17:16:57] Image saved to history/2026/07/04.md
+[17:16:57] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-03 13:16:57.009204-04:00
+[17:16:57] Successful get url: https://www.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg
+[17:16:57] Picture infomations saved to  global/en-US/README.md
+[17:16:57] Picture infomations saved to global/en-US/history/2026/07/04_en-US.md
+[17:16:57] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-04 02:16:57.164100+09:00
+[17:16:57] Successful get url: https://www.bing.com/th?id=OHR.MountainToucanOrchids_JA-JP8375436996_UHD.jpg
+[17:16:57] Picture infomations saved to  global/ja-JP/README.md
+[17:16:57] Picture infomations saved to global/ja-JP/history/2026/07/04_ja-JP.md
+[17:16:57] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-03 22:46:57.297377+05:30
+[17:16:57] Successful get url: https://www.bing.com/th?id=OHR.FirefliesJapan_EN-IN4315418814_UHD.jpg
+[17:16:57] Picture infomations saved to  global/en-IN/README.md
+[17:16:57] Picture infomations saved to global/en-IN/history/2026/07/03_en-IN.md
+[17:16:57] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-03 14:16:57.435277-03:00
+[17:16:57] Successful get url: https://www.bing.com/th?id=OHR.FirefliesJapan_PT-BR7106842411_UHD.jpg
+[17:16:57] Picture infomations saved to  global/pt-BR/README.md
+[17:16:57] Picture infomations saved to global/pt-BR/history/2026/07/04_pt-BR.md
+[17:16:57] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-03 19:16:57.605659+02:00
+[17:16:57] Successful get url: https://www.bing.com/th?id=OHR.FirefliesJapan_FR-FR8593158782_UHD.jpg
+[17:16:57] Picture infomations saved to  global/fr-FR/README.md
+[17:16:57] Picture infomations saved to global/fr-FR/history/2026/07/03_fr-FR.md
+[17:16:57] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-03 19:16:57.810970+02:00
+[17:16:57] Successful get url: https://www.bing.com/th?id=OHR.FirefliesJapan_DE-DE4398668270_UHD.jpg
+[17:16:57] Picture infomations saved to  global/de-DE/README.md
+[17:16:57] Picture infomations saved to global/de-DE/history/2026/07/03_de-DE.md
+[17:16:57] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-03 13:16:57.946484-04:00
+[17:16:57] Successful get url: https://www.bing.com/th?id=OHR.FirefliesJapan_EN-CA2012875414_UHD.jpg
+[17:16:58] Picture infomations saved to  global/en-CA/README.md
+[17:16:58] Picture infomations saved to global/en-CA/history/2026/07/04_en-CA.md
+[17:16:58] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-03 18:16:58.079326+01:00
+[17:16:58] Successful get url: https://www.bing.com/th?id=OHR.FirefliesJapan_EN-GB8401520779_UHD.jpg
+[17:16:58] Picture infomations saved to  global/en-GB/README.md
+[17:16:58] Picture infomations saved to global/en-GB/history/2026/07/03_en-GB.md
+[17:16:58] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-03 19:16:58.227715+02:00
+[17:16:58] Successful get url: https://www.bing.com/th?id=OHR.FirefliesJapan_IT-IT1298859269_UHD.jpg
+[17:16:58] Picture infomations saved to  global/it-IT/README.md
+[17:16:58] Picture infomations saved to global/it-IT/history/2026/07/03_it-IT.md
+[17:16:58] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-03 19:16:58.353272+02:00
+[17:16:58] Successful get url: https://www.bing.com/th?id=OHR.FirefliesJapan_ES-ES5556389569_UHD.jpg
+[17:16:58] Picture infomations saved to  global/es-ES/README.md
+[17:16:58] Picture infomations saved to global/es-ES/history/2026/07/03_es-ES.md
+[17:16:58] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-03 13:16:58.496395-04:00
+[17:16:58] Successful get url: https://www.bing.com/th?id=OHR.FirefliesJapan_FR-CA0747909662_UHD.jpg
+[17:16:58] Picture infomations saved to  global/fr-CA/README.md
+[17:16:58] Picture infomations saved to global/fr-CA/history/2026/07/04_fr-CA.md
+Program exit at 17:16:58

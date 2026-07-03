@@ -6,9 +6,9 @@
 ||*Copyright: Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)*
 ||
 |||
-|2026-07-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BoneyardBeach_JA-JP3339035555_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoneyardBeach_JA-JP3339035555_UHD.jpg)|
-||*Copyright: ボニーヤード・ビーチ, 米国 サウスカロライナ州 (© Frances/Adobe Stock)*
+|2026-07-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_JA-JP8375436996_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainToucanOrchids_JA-JP8375436996_UHD.jpg)|
+||*Copyright: イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)*
 ||
 |||
 |2026-07-03|**Region: en-IN**||
