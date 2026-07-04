@@ -1,0 +1,60 @@
+
+Program started at 10:59:03
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmkkn4f
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:59:03] Start geting CN Bing Wallpaper
+[10:59:03] Successful get url: https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg
+[10:59:04] Image saved to img/background.jpg
+[10:59:04] Info saved to README.md
+[10:59:04] Image saved to history/2026/07/04.md
+[10:59:04] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-04 06:59:04.022502-04:00
+[10:59:04] Successful get url: https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg
+[10:59:04] Picture infomations saved to  global/en-US/README.md
+[10:59:04] Picture infomations saved to global/en-US/history/2026/07/05_en-US.md
+[10:59:04] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-04 19:59:04.164212+09:00
+[10:59:04] Successful get url: https://www.bing.com/th?id=OHR.MountainToucanOrchids_JA-JP8375436996_UHD.jpg
+[10:59:04] Picture infomations saved to  global/ja-JP/README.md
+[10:59:04] Picture infomations saved to global/ja-JP/history/2026/07/04_ja-JP.md
+[10:59:04] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-04 16:29:04.312930+05:30
+[10:59:04] Successful get url: https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-IN4147544931_UHD.jpg
+[10:59:04] Picture infomations saved to  global/en-IN/README.md
+[10:59:04] Picture infomations saved to global/en-IN/history/2026/07/04_en-IN.md
+[10:59:04] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-04 07:59:04.469993-03:00
+[10:59:04] Successful get url: https://www.bing.com/th?id=OHR.KaysersbergVillage_PT-BR5158585338_UHD.jpg
+[10:59:04] Picture infomations saved to  global/pt-BR/README.md
+[10:59:04] Picture infomations saved to global/pt-BR/history/2026/07/05_pt-BR.md
+[10:59:04] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-04 12:59:04.629993+02:00
+[10:59:04] Successful get url: https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154_UHD.jpg
+[10:59:04] Picture infomations saved to  global/fr-FR/README.md
+[10:59:04] Picture infomations saved to global/fr-FR/history/2026/07/04_fr-FR.md
+[10:59:04] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-04 12:59:04.872808+02:00
+[10:59:04] Successful get url: https://www.bing.com/th?id=OHR.KaysersbergVillage_DE-DE1031882295_UHD.jpg
+[10:59:05] Picture infomations saved to  global/de-DE/README.md
+[10:59:05] Picture infomations saved to global/de-DE/history/2026/07/04_de-DE.md
+[10:59:05] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-04 06:59:05.009673-04:00
+[10:59:05] Successful get url: https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-CA0905183627_UHD.jpg
+[10:59:05] Picture infomations saved to  global/en-CA/README.md
+[10:59:05] Picture infomations saved to global/en-CA/history/2026/07/05_en-CA.md
+[10:59:05] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-04 11:59:05.164317+01:00
+[10:59:05] Successful get url: https://www.bing.com/th?id=OHR.PrideInLondon2026_EN-GB7157270875_UHD.jpg
+[10:59:05] Picture infomations saved to  global/en-GB/README.md
+[10:59:05] Picture infomations saved to global/en-GB/history/2026/07/04_en-GB.md
+[10:59:05] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-04 12:59:05.303150+02:00
+[10:59:05] Successful get url: https://www.bing.com/th?id=OHR.TempleEsna_IT-IT9484438188_UHD.jpg
+[10:59:05] Picture infomations saved to  global/it-IT/README.md
+[10:59:05] Picture infomations saved to global/it-IT/history/2026/07/04_it-IT.md
+[10:59:05] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-04 12:59:05.456942+02:00
+[10:59:05] Successful get url: https://www.bing.com/th?id=OHR.KaysersbergVillage_ES-ES2312486084_UHD.jpg
+[10:59:05] Picture infomations saved to  global/es-ES/README.md
+[10:59:05] Picture infomations saved to global/es-ES/history/2026/07/04_es-ES.md
+[10:59:05] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-04 06:59:05.613246-04:00
+[10:59:05] Successful get url: https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-CA9380377957_UHD.jpg
+[10:59:05] Picture infomations saved to  global/fr-CA/README.md
+[10:59:05] Picture infomations saved to global/fr-CA/history/2026/07/05_fr-CA.md
+Program exit at 10:59:05
