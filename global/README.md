@@ -6,9 +6,9 @@
 ||*Copyright: Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)*
 ||
 |||
-|2026-07-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_JA-JP8375436996_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainToucanOrchids_JA-JP8375436996_UHD.jpg)|
-||*Copyright: イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)*
+|2026-07-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_UHD.jpg)|
+||*Copyright: ヴァランソール高原, フランス (© Robert Harding/Shutterstock)*
 ||
 |||
 |2026-07-04|**Region: en-IN**||
