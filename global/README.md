@@ -6,9 +6,9 @@
 ||*Copyright: Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)*
 ||
 |||
-|2026-07-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_UHD.jpg)|
-||*Copyright: ヴァランソール高原, フランス (© Robert Harding/Shutterstock)*
+|2026-07-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_UHD.jpg)|
+||*Copyright: シラクサ, イタリア (© Balate Dorin/Getty Images)*
 ||
 |||
 |2026-07-05|**Region: en-IN**||
