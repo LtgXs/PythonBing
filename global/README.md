@@ -6,9 +6,9 @@
 ||*Copyright: Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)*
 ||
 |||
-|2026-07-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_UHD.jpg)|
-||*Copyright: シラクサ, イタリア (© Balate Dorin/Getty Images)*
+|2026-07-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Tanabata2026_JA-JP9678732410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Tanabata2026_JA-JP9678732410_UHD.jpg)|
+||*Copyright: 七夕まつりの吹き流し, 宮城県 仙台市 (© kororokerokero/Getty Images)*
 ||
 |||
 |2026-07-06|**Region: en-IN**||
