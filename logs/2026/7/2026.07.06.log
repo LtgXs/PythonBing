@@ -1,0 +1,60 @@
+
+Program started at 12:57:06
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmkkn4f
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[12:57:06] Start geting CN Bing Wallpaper
+[12:57:06] Successful get url: https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg
+[12:57:06] Image saved to img/background.jpg
+[12:57:06] Info saved to README.md
+[12:57:06] Image saved to history/2026/07/06.md
+[12:57:06] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-06 08:57:06.518679-04:00
+[12:57:06] Successful get url: https://www.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg
+[12:57:07] Picture infomations saved to  global/en-US/README.md
+[12:57:07] Picture infomations saved to global/en-US/history/2026/07/07_en-US.md
+[12:57:07] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-06 21:57:07.028710+09:00
+[12:57:07] Successful get url: https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_UHD.jpg
+[12:57:07] Picture infomations saved to  global/ja-JP/README.md
+[12:57:07] Picture infomations saved to global/ja-JP/history/2026/07/06_ja-JP.md
+[12:57:07] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-06 18:27:07.174985+05:30
+[12:57:07] Successful get url: https://www.bing.com/th?id=OHR.SyracuseItaly_EN-IN1535239880_UHD.jpg
+[12:57:07] Picture infomations saved to  global/en-IN/README.md
+[12:57:07] Picture infomations saved to global/en-IN/history/2026/07/06_en-IN.md
+[12:57:07] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-06 09:57:07.323506-03:00
+[12:57:07] Successful get url: https://www.bing.com/th?id=OHR.PepJalapao_PT-BR2714528924_UHD.jpg
+[12:57:07] Picture infomations saved to  global/pt-BR/README.md
+[12:57:07] Picture infomations saved to global/pt-BR/history/2026/07/07_pt-BR.md
+[12:57:07] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-06 14:57:07.580494+02:00
+[12:57:07] Successful get url: https://www.bing.com/th?id=OHR.SyracuseItaly_FR-FR9604430573_UHD.jpg
+[12:57:07] Picture infomations saved to  global/fr-FR/README.md
+[12:57:07] Picture infomations saved to global/fr-FR/history/2026/07/06_fr-FR.md
+[12:57:07] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-06 14:57:07.938106+02:00
+[12:57:07] Successful get url: https://www.bing.com/th?id=OHR.SyracuseItaly_DE-DE7459831277_UHD.jpg
+[12:57:08] Picture infomations saved to  global/de-DE/README.md
+[12:57:08] Picture infomations saved to global/de-DE/history/2026/07/06_de-DE.md
+[12:57:08] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-06 08:57:08.081729-04:00
+[12:57:08] Successful get url: https://www.bing.com/th?id=OHR.SyracuseItaly_EN-CA4724586582_UHD.jpg
+[12:57:08] Picture infomations saved to  global/en-CA/README.md
+[12:57:08] Picture infomations saved to global/en-CA/history/2026/07/07_en-CA.md
+[12:57:08] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-06 13:57:08.248907+01:00
+[12:57:08] Successful get url: https://www.bing.com/th?id=OHR.SyracuseItaly_EN-GB9688094986_UHD.jpg
+[12:57:08] Picture infomations saved to  global/en-GB/README.md
+[12:57:08] Picture infomations saved to global/en-GB/history/2026/07/06_en-GB.md
+[12:57:08] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-06 14:57:08.405154+02:00
+[12:57:08] Successful get url: https://www.bing.com/th?id=OHR.SyracuseItaly_IT-IT1893295925_UHD.jpg
+[12:57:08] Picture infomations saved to  global/it-IT/README.md
+[12:57:08] Picture infomations saved to global/it-IT/history/2026/07/06_it-IT.md
+[12:57:08] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-06 14:57:08.527210+02:00
+[12:57:08] Successful get url: https://www.bing.com/th?id=OHR.SyracuseItaly_ES-ES6910557655_UHD.jpg
+[12:57:08] Picture infomations saved to  global/es-ES/README.md
+[12:57:08] Picture infomations saved to global/es-ES/history/2026/07/06_es-ES.md
+[12:57:08] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-06 08:57:08.669384-04:00
+[12:57:08] Successful get url: https://www.bing.com/th?id=OHR.SyracuseItaly_FR-CA2188707329_UHD.jpg
+[12:57:08] Picture infomations saved to  global/fr-CA/README.md
+[12:57:08] Picture infomations saved to global/fr-CA/history/2026/07/07_fr-CA.md
+Program exit at 12:57:08
