@@ -1,0 +1,60 @@
+
+Program started at 12:07:53
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmkkn4f
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[12:07:53] Start geting CN Bing Wallpaper
+[12:07:53] Successful get url: https://www.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg
+[12:07:53] Image saved to img/background.jpg
+[12:07:53] Info saved to README.md
+[12:07:53] Image saved to history/2026/07/07.md
+[12:07:53] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-07 08:07:53.643581-04:00
+[12:07:53] Successful get url: https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg
+[12:07:53] Picture infomations saved to  global/en-US/README.md
+[12:07:53] Picture infomations saved to global/en-US/history/2026/07/08_en-US.md
+[12:07:53] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-07 21:07:53.765354+09:00
+[12:07:53] Successful get url: https://www.bing.com/th?id=OHR.Tanabata2026_JA-JP9678732410_UHD.jpg
+[12:07:53] Picture infomations saved to  global/ja-JP/README.md
+[12:07:53] Picture infomations saved to global/ja-JP/history/2026/07/07_ja-JP.md
+[12:07:53] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-07 17:37:53.906963+05:30
+[12:07:53] Successful get url: https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-IN1662413935_UHD.jpg
+[12:07:54] Picture infomations saved to  global/en-IN/README.md
+[12:07:54] Picture infomations saved to global/en-IN/history/2026/07/07_en-IN.md
+[12:07:54] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-07 09:07:54.078338-03:00
+[12:07:54] Successful get url: https://www.bing.com/th?id=OHR.MountainToucanOrchids_PT-BR7821851838_UHD.jpg
+[12:07:54] Picture infomations saved to  global/pt-BR/README.md
+[12:07:54] Picture infomations saved to global/pt-BR/history/2026/07/08_pt-BR.md
+[12:07:54] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-07 14:07:54.208480+02:00
+[12:07:54] Successful get url: https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_UHD.jpg
+[12:07:54] Picture infomations saved to  global/fr-FR/README.md
+[12:07:54] Picture infomations saved to global/fr-FR/history/2026/07/07_fr-FR.md
+[12:07:54] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-07 14:07:54.329114+02:00
+[12:07:54] Successful get url: https://www.bing.com/th?id=OHR.MountainToucanOrchids_DE-DE0710570038_UHD.jpg
+[12:07:54] Picture infomations saved to  global/de-DE/README.md
+[12:07:54] Picture infomations saved to global/de-DE/history/2026/07/07_de-DE.md
+[12:07:54] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-07 08:07:54.457654-04:00
+[12:07:54] Successful get url: https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-CA5781848121_UHD.jpg
+[12:07:54] Picture infomations saved to  global/en-CA/README.md
+[12:07:54] Picture infomations saved to global/en-CA/history/2026/07/08_en-CA.md
+[12:07:54] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-07 13:07:54.602459+01:00
+[12:07:54] Successful get url: https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-GB2911291133_UHD.jpg
+[12:07:54] Picture infomations saved to  global/en-GB/README.md
+[12:07:54] Picture infomations saved to global/en-GB/history/2026/07/07_en-GB.md
+[12:07:54] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-07 14:07:54.730891+02:00
+[12:07:54] Successful get url: https://www.bing.com/th?id=OHR.MountainToucanOrchids_IT-IT8965138427_UHD.jpg
+[12:07:54] Picture infomations saved to  global/it-IT/README.md
+[12:07:54] Picture infomations saved to global/it-IT/history/2026/07/07_it-IT.md
+[12:07:54] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-07 14:07:54.886412+02:00
+[12:07:54] Successful get url: https://www.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409_UHD.jpg
+[12:07:55] Picture infomations saved to  global/es-ES/README.md
+[12:07:55] Picture infomations saved to global/es-ES/history/2026/07/07_es-ES.md
+[12:07:55] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-07 08:07:55.027011-04:00
+[12:07:55] Successful get url: https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-CA1496372332_UHD.jpg
+[12:07:55] Picture infomations saved to  global/fr-CA/README.md
+[12:07:55] Picture infomations saved to global/fr-CA/history/2026/07/08_fr-CA.md
+Program exit at 12:07:55
