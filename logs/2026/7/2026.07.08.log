@@ -1,0 +1,60 @@
+
+Program started at 11:14:34
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmkkn4f
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:14:34] Start geting CN Bing Wallpaper
+[11:14:35] Successful get url: https://www.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg
+[11:14:35] Image saved to img/background.jpg
+[11:14:35] Info saved to README.md
+[11:14:35] Image saved to history/2026/07/08.md
+[11:14:35] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-08 07:14:35.448181-04:00
+[11:14:35] Successful get url: https://www.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg
+[11:14:35] Picture infomations saved to  global/en-US/README.md
+[11:14:35] Picture infomations saved to global/en-US/history/2026/07/09_en-US.md
+[11:14:35] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-08 20:14:35.751133+09:00
+[11:14:35] Successful get url: https://www.bing.com/th?id=OHR.LakeAtitlan_JA-JP9857275970_UHD.jpg
+[11:14:36] Picture infomations saved to  global/ja-JP/README.md
+[11:14:36] Picture infomations saved to global/ja-JP/history/2026/07/08_ja-JP.md
+[11:14:36] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-08 16:44:36.068045+05:30
+[11:14:36] Successful get url: https://www.bing.com/th?id=OHR.LakeAtitlan_EN-IN1783282765_UHD.jpg
+[11:14:36] Picture infomations saved to  global/en-IN/README.md
+[11:14:36] Picture infomations saved to global/en-IN/history/2026/07/08_en-IN.md
+[11:14:36] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-08 08:14:36.450793-03:00
+[11:14:36] Successful get url: https://www.bing.com/th?id=OHR.LakeAtitlan_PT-BR6236816511_UHD.jpg
+[11:14:36] Picture infomations saved to  global/pt-BR/README.md
+[11:14:36] Picture infomations saved to global/pt-BR/history/2026/07/09_pt-BR.md
+[11:14:36] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-08 13:14:36.767297+02:00
+[11:14:36] Successful get url: https://www.bing.com/th?id=OHR.LakeAtitlan_FR-FR9789294273_UHD.jpg
+[11:14:37] Picture infomations saved to  global/fr-FR/README.md
+[11:14:37] Picture infomations saved to global/fr-FR/history/2026/07/08_fr-FR.md
+[11:14:37] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-08 13:14:37.146656+02:00
+[11:14:37] Successful get url: https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175_UHD.jpg
+[11:14:37] Picture infomations saved to  global/de-DE/README.md
+[11:14:37] Picture infomations saved to global/de-DE/history/2026/07/08_de-DE.md
+[11:14:37] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-08 07:14:37.740785-04:00
+[11:14:37] Successful get url: https://www.bing.com/th?id=OHR.LakeAtitlan_EN-CA6427862489_UHD.jpg
+[11:14:38] Picture infomations saved to  global/en-CA/README.md
+[11:14:38] Picture infomations saved to global/en-CA/history/2026/07/09_en-CA.md
+[11:14:38] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-08 12:14:38.033158+01:00
+[11:14:38] Successful get url: https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922_UHD.jpg
+[11:14:38] Picture infomations saved to  global/en-GB/README.md
+[11:14:38] Picture infomations saved to global/en-GB/history/2026/07/08_en-GB.md
+[11:14:38] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-08 13:14:38.320469+02:00
+[11:14:38] Successful get url: https://www.bing.com/th?id=OHR.LakeAtitlan_IT-IT2695003451_UHD.jpg
+[11:14:38] Picture infomations saved to  global/it-IT/README.md
+[11:14:38] Picture infomations saved to global/it-IT/history/2026/07/08_it-IT.md
+[11:14:38] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-08 13:14:38.604335+02:00
+[11:14:38] Successful get url: https://www.bing.com/th?id=OHR.LakeAtitlan_ES-ES9285347150_UHD.jpg
+[11:14:39] Picture infomations saved to  global/es-ES/README.md
+[11:14:39] Picture infomations saved to global/es-ES/history/2026/07/08_es-ES.md
+[11:14:39] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-08 07:14:39.001173-04:00
+[11:14:39] Successful get url: https://www.bing.com/th?id=OHR.LakeAtitlan_FR-CA5950856874_UHD.jpg
+[11:14:39] Picture infomations saved to  global/fr-CA/README.md
+[11:14:39] Picture infomations saved to global/fr-CA/history/2026/07/09_fr-CA.md
+Program exit at 11:14:39

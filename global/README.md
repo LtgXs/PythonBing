@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-07-08|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg)|
-||*Copyright: Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)*
+|2026-07-09|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg)|
+||*Copyright: Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)*
 ||
 |||
 |2026-07-08|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: アティトラン湖, グアテマラ (© shayes17/Getty Images)*
 ||
 |||
-|2026-07-07|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-IN1662413935_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-IN1662413935_UHD.jpg)|
-||*Copyright: Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)*
+|2026-07-08|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-IN1783282765_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-IN1783282765_UHD.jpg)|
+||*Copyright: Lake Atitlán, Guatemala (© shayes17/Getty Images)*
 ||
 |||
-|2026-07-08|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_PT-BR7821851838_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainToucanOrchids_PT-BR7821851838_UHD.jpg)|
-||*Copyright: Tucano “Andigena laminirostris” com orquídeas, Equador (© Murray Cooper/Minden Pictures)*
+|2026-07-09|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.LakeAtitlan_PT-BR6236816511_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_PT-BR6236816511_UHD.jpg)|
+||*Copyright: Nascer do sol no Lago de Atitlán, Guatemala (© shayes17/Getty Images)*
 ||
 |||
-|2026-07-07|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_UHD.jpg)|
-||*Copyright: Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)*
+|2026-07-08|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LakeAtitlan_FR-FR9789294273_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_FR-FR9789294273_UHD.jpg)|
+||*Copyright: Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)*
 ||
 |||
-|2026-07-07|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_DE-DE0710570038_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainToucanOrchids_DE-DE0710570038_UHD.jpg)|
-||*Copyright: Leistenschnabeltukan mit Orchideen, Ecuador (© Murray Cooper/Minden Pictures)*
+|2026-07-08|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175_UHD.jpg)|
+||*Copyright: Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)*
 ||
 |||
-|2026-07-08|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-CA5781848121_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-CA5781848121_UHD.jpg)|
-||*Copyright: Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)*
+|2026-07-09|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-CA6427862489_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-CA6427862489_UHD.jpg)|
+||*Copyright: Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)*
 ||
 |||
-|2026-07-07|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-GB2911291133_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-GB2911291133_UHD.jpg)|
-||*Copyright: Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)*
+|2026-07-08|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922_UHD.jpg)|
+||*Copyright: Lake Atitlán, Guatemala (© shayes17/Getty Images)*
 ||
 |||
-|2026-07-07|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_IT-IT8965138427_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainToucanOrchids_IT-IT8965138427_UHD.jpg)|
-||*Copyright: Tucano montano pettogrigio, Ecuador (© Murray Cooper/Minden Pictures)*
+|2026-07-08|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LakeAtitlan_IT-IT2695003451_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_IT-IT2695003451_UHD.jpg)|
+||*Copyright: Lago Atitlán, Guatemala (© shayes17/Getty Images)*
 ||
 |||
-|2026-07-07|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409_UHD.jpg)|
-||*Copyright: Vista aérea del paisaje urbano y las dunas de arena en Maspalomas, Gran Canaria, España (© Marco Bottigelli/Getty Images)*
+|2026-07-08|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LakeAtitlan_ES-ES9285347150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_ES-ES9285347150_UHD.jpg)|
+||*Copyright: Amanecer en el Lago de Atitlán, Guatemala (© shayes17/Getty Images)*
 ||
 |||
-|2026-07-08|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-CA1496372332_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-CA1496372332_UHD.jpg)|
-||*Copyright: Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)*
+|2026-07-09|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.LakeAtitlan_FR-CA5950856874_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_FR-CA5950856874_UHD.jpg)|
+||*Copyright: Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)*
 ||
 |||
 
