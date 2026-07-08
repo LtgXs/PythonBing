@@ -6,9 +6,9 @@
 ||*Copyright: Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)*
 ||
 |||
-|2026-07-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LakeAtitlan_JA-JP9857275970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_JA-JP9857275970_UHD.jpg)|
-||*Copyright: アティトラン湖, グアテマラ (© shayes17/Getty Images)*
+|2026-07-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_JA-JP3354489397_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_JA-JP3354489397_UHD.jpg)|
+||*Copyright: サパの棚田, ベトナム (© Anujak Jaimook/Getty Images)*
 ||
 |||
 |2026-07-08|**Region: en-IN**||
