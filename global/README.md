@@ -6,13 +6,13 @@
 ||*Copyright: Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||
-|2026-07-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_JA-JP3354489397_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_JA-JP3354489397_UHD.jpg)|
-||*Copyright: サパの棚田, ベトナム (© Anujak Jaimook/Getty Images)*
+|2026-07-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.VictoriaBeach_JA-JP5622574083_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VictoriaBeach_JA-JP5622574083_UHD.jpg)|
+||*Copyright: ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)*
 ||
 |||
 |2026-07-09|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-IN1797190767_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-IN1797190767_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-IN2086925801_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-IN2086925801_UHD.jpg)|
 ||*Copyright: Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||
@@ -32,12 +32,12 @@
 ||
 |||
 |2026-07-10|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA7611397487_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA7611397487_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA1120759597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA1120759597_UHD.jpg)|
 ||*Copyright: Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||
 |2026-07-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_UHD.jpg)|
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB1434771886_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB1434771886_UHD.jpg)|
 ||*Copyright: Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||

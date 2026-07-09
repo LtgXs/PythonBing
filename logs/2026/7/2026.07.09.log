@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [12:14:24] Picture infomations saved to  global/fr-CA/README.md
 [12:14:24] Picture infomations saved to global/fr-CA/history/2026/07/10_fr-CA.md
 Program exit at 12:14:24
+
+Program started at 17:49:37
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm5mmn9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:49:37] Start geting CN Bing Wallpaper
+[17:49:37] Successful get url: https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg
+[17:49:38] Image saved to img/background.jpg
+[17:49:38] Info saved to README.md
+[17:49:38] Image saved to history/2026/07/10.md
+[17:49:38] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-09 13:49:38.042668-04:00
+[17:49:38] Successful get url: https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg
+[17:49:38] Picture infomations saved to  global/en-US/README.md
+[17:49:38] Picture infomations saved to global/en-US/history/2026/07/10_en-US.md
+[17:49:38] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-10 02:49:38.465238+09:00
+[17:49:38] Successful get url: https://www.bing.com/th?id=OHR.VictoriaBeach_JA-JP5622574083_UHD.jpg
+[17:49:38] Picture infomations saved to  global/ja-JP/README.md
+[17:49:38] Picture infomations saved to global/ja-JP/history/2026/07/10_ja-JP.md
+[17:49:38] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-09 23:19:38.897583+05:30
+[17:49:38] Successful get url: https://www.bing.com/th?id=OHR.SapaVietnam_EN-IN2086925801_UHD.jpg
+[17:49:39] Picture infomations saved to  global/en-IN/README.md
+[17:49:39] Picture infomations saved to global/en-IN/history/2026/07/09_en-IN.md
+[17:49:39] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-09 14:49:39.254755-03:00
+[17:49:39] Successful get url: https://www.bing.com/th?id=OHR.SapaVietnam_PT-BR6337399774_UHD.jpg
+[17:49:39] Picture infomations saved to  global/pt-BR/README.md
+[17:49:39] Picture infomations saved to global/pt-BR/history/2026/07/10_pt-BR.md
+[17:49:39] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-09 19:49:39.702854+02:00
+[17:49:39] Successful get url: https://www.bing.com/th?id=OHR.SapaVietnam_FR-FR9797558235_UHD.jpg
+[17:49:40] Picture infomations saved to  global/fr-FR/README.md
+[17:49:40] Picture infomations saved to global/fr-FR/history/2026/07/09_fr-FR.md
+[17:49:40] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-09 19:49:40.098997+02:00
+[17:49:40] Successful get url: https://www.bing.com/th?id=OHR.SapaVietnam_DE-DE8741456092_UHD.jpg
+[17:49:40] Picture infomations saved to  global/de-DE/README.md
+[17:49:40] Picture infomations saved to global/de-DE/history/2026/07/09_de-DE.md
+[17:49:40] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-09 13:49:40.682830-04:00
+[17:49:40] Successful get url: https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA1120759597_UHD.jpg
+[17:49:41] Picture infomations saved to  global/en-CA/README.md
+[17:49:41] Picture infomations saved to global/en-CA/history/2026/07/10_en-CA.md
+[17:49:41] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-09 18:49:41.165705+01:00
+[17:49:41] Successful get url: https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB1434771886_UHD.jpg
+[17:49:41] Picture infomations saved to  global/en-GB/README.md
+[17:49:41] Picture infomations saved to global/en-GB/history/2026/07/09_en-GB.md
+[17:49:41] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-09 19:49:41.502218+02:00
+[17:49:41] Successful get url: https://www.bing.com/th?id=OHR.SapaVietnam_IT-IT8377161369_UHD.jpg
+[17:49:42] Picture infomations saved to  global/it-IT/README.md
+[17:49:42] Picture infomations saved to global/it-IT/history/2026/07/09_it-IT.md
+[17:49:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-09 19:49:42.002825+02:00
+[17:49:42] Successful get url: https://www.bing.com/th?id=OHR.SapaVietnam_ES-ES9535992527_UHD.jpg
+[17:49:42] Picture infomations saved to  global/es-ES/README.md
+[17:49:42] Picture infomations saved to global/es-ES/history/2026/07/09_es-ES.md
+[17:49:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-09 13:49:42.486418-04:00
+[17:49:42] Successful get url: https://www.bing.com/th?id=OHR.SapaVietnam_FR-CA4135263049_UHD.jpg
+[17:49:42] Picture infomations saved to  global/fr-CA/README.md
+[17:49:42] Picture infomations saved to global/fr-CA/history/2026/07/10_fr-CA.md
+Program exit at 17:49:42
