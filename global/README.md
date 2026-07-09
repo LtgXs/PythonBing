@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-07-09|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg)|
-||*Copyright: Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)*
+|2026-07-10|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg)|
+||*Copyright: Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||
 |2026-07-09|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: サパの棚田, ベトナム (© Anujak Jaimook/Getty Images)*
 ||
 |||
-|2026-07-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-IN1783282765_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-IN1783282765_UHD.jpg)|
-||*Copyright: Lake Atitlán, Guatemala (© shayes17/Getty Images)*
+|2026-07-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-IN1797190767_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-IN1797190767_UHD.jpg)|
+||*Copyright: Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||
-|2026-07-09|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LakeAtitlan_PT-BR6236816511_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_PT-BR6236816511_UHD.jpg)|
-||*Copyright: Nascer do sol no Lago de Atitlán, Guatemala (© shayes17/Getty Images)*
+|2026-07-10|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_PT-BR6337399774_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_PT-BR6337399774_UHD.jpg)|
+||*Copyright: Campos de arroz em Sapa, província de Lào Cai, Vietnã (© Anujak Jaimook/Getty Images)*
 ||
 |||
-|2026-07-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LakeAtitlan_FR-FR9789294273_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_FR-FR9789294273_UHD.jpg)|
-||*Copyright: Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)*
+|2026-07-09|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_FR-FR9797558235_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_FR-FR9797558235_UHD.jpg)|
+||*Copyright: Champs de riz à Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||
-|2026-07-08|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175_UHD.jpg)|
-||*Copyright: Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)*
+|2026-07-09|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_DE-DE8741456092_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_DE-DE8741456092_UHD.jpg)|
+||*Copyright: Reisfelder in Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||
-|2026-07-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-CA6427862489_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-CA6427862489_UHD.jpg)|
-||*Copyright: Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)*
+|2026-07-10|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA7611397487_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA7611397487_UHD.jpg)|
+||*Copyright: Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||
-|2026-07-08|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922_UHD.jpg)|
-||*Copyright: Lake Atitlán, Guatemala (© shayes17/Getty Images)*
+|2026-07-09|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB9686207282_UHD.jpg)|
+||*Copyright: Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||
-|2026-07-08|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LakeAtitlan_IT-IT2695003451_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_IT-IT2695003451_UHD.jpg)|
-||*Copyright: Lago Atitlán, Guatemala (© shayes17/Getty Images)*
+|2026-07-09|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_IT-IT8377161369_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_IT-IT8377161369_UHD.jpg)|
+||*Copyright: Risaie a Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||
-|2026-07-08|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LakeAtitlan_ES-ES9285347150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_ES-ES9285347150_UHD.jpg)|
-||*Copyright: Amanecer en el Lago de Atitlán, Guatemala (© shayes17/Getty Images)*
+|2026-07-09|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_ES-ES9535992527_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_ES-ES9535992527_UHD.jpg)|
+||*Copyright: Arrozales en Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||
-|2026-07-09|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LakeAtitlan_FR-CA5950856874_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeAtitlan_FR-CA5950856874_UHD.jpg)|
-||*Copyright: Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)*
+|2026-07-10|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SapaVietnam_FR-CA4135263049_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_FR-CA4135263049_UHD.jpg)|
+||*Copyright: Champs de riz à Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
 ||
 |||
 
