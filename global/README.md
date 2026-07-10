@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-07-10|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg)|
-||*Copyright: Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
+|2026-07-11|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg)|
+||*Copyright: Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)*
 ||
 |||
 |2026-07-10|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)*
 ||
 |||
-|2026-07-09|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-IN2086925801_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-IN2086925801_UHD.jpg)|
-||*Copyright: Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
+|2026-07-10|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.VictoriaBeach_EN-IN4783068086_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VictoriaBeach_EN-IN4783068086_UHD.jpg)|
+||*Copyright: Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)*
 ||
 |||
-|2026-07-10|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_PT-BR6337399774_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_PT-BR6337399774_UHD.jpg)|
-||*Copyright: Campos de arroz em Sapa, província de Lào Cai, Vietnã (© Anujak Jaimook/Getty Images)*
+|2026-07-11|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.VictoriaBeach_PT-BR0308396736_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VictoriaBeach_PT-BR0308396736_UHD.jpg)|
+||*Copyright: Vista aérea da costa de Vitória, Austrália (© Nearmap/Getty Images)*
 ||
 |||
-|2026-07-09|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_FR-FR9797558235_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_FR-FR9797558235_UHD.jpg)|
-||*Copyright: Champs de riz à Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
+|2026-07-10|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.VictoriaBeach_FR-FR3702097800_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VictoriaBeach_FR-FR3702097800_UHD.jpg)|
+||*Copyright: Vue aérienne des terres et de l'océan, Victoria, Australie (© Nearmap/Getty Images)*
 ||
 |||
-|2026-07-09|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_DE-DE8741456092_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_DE-DE8741456092_UHD.jpg)|
-||*Copyright: Reisfelder in Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
+|2026-07-10|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938_UHD.jpg)|
+||*Copyright: Luftaufnahme von Land und Meer, Victoria, Australien (© Nearmap/Getty Images)*
 ||
 |||
-|2026-07-10|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA1120759597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-CA1120759597_UHD.jpg)|
-||*Copyright: Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
+|2026-07-11|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SummerBC_EN-CA3026184215_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SummerBC_EN-CA3026184215_UHD.jpg)|
+||*Copyright: Pink wildflowers by Emerald Lake in summer, Yoho National Park, British Columbia (© Olga Matveeva/Getty Images)*
 ||
 |||
-|2026-07-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB1434771886_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB1434771886_UHD.jpg)|
-||*Copyright: Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
+|2026-07-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.LlanthonyPriory2026_EN-GB5365093988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LlanthonyPriory2026_EN-GB5365093988_UHD.jpg)|
+||*Copyright: Llanthony Priory, Black Mountains area, Monmouthshire, Wales (© Chris Griffiths/Moment/Getty Images)*
 ||
 |||
-|2026-07-09|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_IT-IT8377161369_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_IT-IT8377161369_UHD.jpg)|
-||*Copyright: Risaie a Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
+|2026-07-10|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.VictoriaBeach_IT-IT7530420052_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VictoriaBeach_IT-IT7530420052_UHD.jpg)|
+||*Copyright: Veduta aerea di terra e oceano, Victoria, Australia (© Nearmap/Getty Images)*
 ||
 |||
-|2026-07-09|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_ES-ES9535992527_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_ES-ES9535992527_UHD.jpg)|
-||*Copyright: Arrozales en Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
+|2026-07-10|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.VictoriaBeach_ES-ES0275659103_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VictoriaBeach_ES-ES0275659103_UHD.jpg)|
+||*Copyright: Vista aérea de tierra y océano, Victoria, Australia (© Nearmap/Getty Images)*
 ||
 |||
-|2026-07-10|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SapaVietnam_FR-CA4135263049_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SapaVietnam_FR-CA4135263049_UHD.jpg)|
-||*Copyright: Champs de riz à Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)*
+|2026-07-11|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SummerBC_FR-CA8117974195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SummerBC_FR-CA8117974195_UHD.jpg)|
+||*Copyright: Fleurs sauvages au bord du lac Emerald en été, Parc national Yoho, Colombie-Britannique (© Olga Matveeva/Getty Images)*
 ||
 |||
 
