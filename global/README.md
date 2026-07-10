@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)*
 ||
 |||
-|2026-07-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.VictoriaBeach_JA-JP5622574083_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VictoriaBeach_JA-JP5622574083_UHD.jpg)|
-||*Copyright: ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)*
+|2026-07-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_UHD.jpg)|
+||*Copyright: サン＝グスタン港, フランス (© Rolf E. Staerk/Shutterstock)*
 ||
 |||
 |2026-07-10|**Region: en-IN**||

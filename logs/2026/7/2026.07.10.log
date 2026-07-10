@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [12:07:09] Picture infomations saved to  global/fr-CA/README.md
 [12:07:09] Picture infomations saved to global/fr-CA/history/2026/07/11_fr-CA.md
 Program exit at 12:07:09
+
+Program started at 17:42:08
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm5mmn9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:42:08] Start geting CN Bing Wallpaper
+[17:42:09] Successful get url: https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg
+[17:42:09] Image saved to img/background.jpg
+[17:42:09] Info saved to README.md
+[17:42:09] Image saved to history/2026/07/11.md
+[17:42:09] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-10 13:42:09.157322-04:00
+[17:42:09] Successful get url: https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg
+[17:42:09] Picture infomations saved to  global/en-US/README.md
+[17:42:09] Picture infomations saved to global/en-US/history/2026/07/11_en-US.md
+[17:42:09] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-11 02:42:09.309903+09:00
+[17:42:09] Successful get url: https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_UHD.jpg
+[17:42:09] Picture infomations saved to  global/ja-JP/README.md
+[17:42:09] Picture infomations saved to global/ja-JP/history/2026/07/11_ja-JP.md
+[17:42:09] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-10 23:12:09.488866+05:30
+[17:42:09] Successful get url: https://www.bing.com/th?id=OHR.VictoriaBeach_EN-IN4783068086_UHD.jpg
+[17:42:09] Picture infomations saved to  global/en-IN/README.md
+[17:42:09] Picture infomations saved to global/en-IN/history/2026/07/10_en-IN.md
+[17:42:09] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-10 14:42:09.636657-03:00
+[17:42:09] Successful get url: https://www.bing.com/th?id=OHR.VictoriaBeach_PT-BR0308396736_UHD.jpg
+[17:42:09] Picture infomations saved to  global/pt-BR/README.md
+[17:42:09] Picture infomations saved to global/pt-BR/history/2026/07/11_pt-BR.md
+[17:42:09] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-10 19:42:09.903734+02:00
+[17:42:09] Successful get url: https://www.bing.com/th?id=OHR.VictoriaBeach_FR-FR3702097800_UHD.jpg
+[17:42:10] Picture infomations saved to  global/fr-FR/README.md
+[17:42:10] Picture infomations saved to global/fr-FR/history/2026/07/10_fr-FR.md
+[17:42:10] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-10 19:42:10.052269+02:00
+[17:42:10] Successful get url: https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938_UHD.jpg
+[17:42:10] Picture infomations saved to  global/de-DE/README.md
+[17:42:10] Picture infomations saved to global/de-DE/history/2026/07/10_de-DE.md
+[17:42:10] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-10 13:42:10.203883-04:00
+[17:42:10] Successful get url: https://www.bing.com/th?id=OHR.SummerBC_EN-CA3026184215_UHD.jpg
+[17:42:10] Picture infomations saved to  global/en-CA/README.md
+[17:42:10] Picture infomations saved to global/en-CA/history/2026/07/11_en-CA.md
+[17:42:10] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-10 18:42:10.343898+01:00
+[17:42:10] Successful get url: https://www.bing.com/th?id=OHR.LlanthonyPriory2026_EN-GB5365093988_UHD.jpg
+[17:42:10] Picture infomations saved to  global/en-GB/README.md
+[17:42:10] Picture infomations saved to global/en-GB/history/2026/07/10_en-GB.md
+[17:42:10] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-10 19:42:10.566966+02:00
+[17:42:10] Successful get url: https://www.bing.com/th?id=OHR.VictoriaBeach_IT-IT7530420052_UHD.jpg
+[17:42:10] Picture infomations saved to  global/it-IT/README.md
+[17:42:10] Picture infomations saved to global/it-IT/history/2026/07/10_it-IT.md
+[17:42:10] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-10 19:42:10.736862+02:00
+[17:42:10] Successful get url: https://www.bing.com/th?id=OHR.VictoriaBeach_ES-ES0275659103_UHD.jpg
+[17:42:10] Picture infomations saved to  global/es-ES/README.md
+[17:42:10] Picture infomations saved to global/es-ES/history/2026/07/10_es-ES.md
+[17:42:10] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-10 13:42:10.924655-04:00
+[17:42:10] Successful get url: https://www.bing.com/th?id=OHR.SummerBC_FR-CA8117974195_UHD.jpg
+[17:42:11] Picture infomations saved to  global/fr-CA/README.md
+[17:42:11] Picture infomations saved to global/fr-CA/history/2026/07/11_fr-CA.md
+Program exit at 17:42:11
