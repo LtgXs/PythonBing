@@ -6,9 +6,9 @@
 ||*Copyright: Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)*
 ||
 |||
-|2026-07-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_UHD.jpg)|
-||*Copyright: サン＝グスタン港, フランス (© Rolf E. Staerk/Shutterstock)*
+|2026-07-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWWNM_JA-JP6177719073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWWNM_JA-JP6177719073_UHD.jpg)|
+||*Copyright: カタディン・ウッズ・アンド・ウォーターズ国定記念物, 米国 メイン州 (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
 |2026-07-11|**Region: en-IN**||
