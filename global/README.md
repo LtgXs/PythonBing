@@ -6,9 +6,9 @@
 ||*Copyright: Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2026-07-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KatahdinWWNM_JA-JP6177719073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWWNM_JA-JP6177719073_UHD.jpg)|
-||*Copyright: カタディン・ウッズ・アンド・ウォーターズ国定記念物, 米国 メイン州 (© Cavan Images/Offset/Shutterstock)*
+|2026-07-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_UHD.jpg)|
+||*Copyright: アンテロープ・キャニオン, 米国 アリゾナ州 (© Mark Skalny/Getty Images)*
 ||
 |||
 |2026-07-12|**Region: en-IN**||
