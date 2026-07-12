@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-07-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg)|
-||*Copyright: Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)*
+|2026-07-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg)|
+||*Copyright: Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
 |2026-07-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: カタディン・ウッズ・アンド・ウォーターズ国定記念物, 米国 メイン州 (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2026-07-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AurayBrittany_EN-IN7972438884_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurayBrittany_EN-IN7972438884_UHD.jpg)|
-||*Copyright: Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)*
+|2026-07-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-IN8091413320_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-IN8091413320_UHD.jpg)|
+||*Copyright: Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2026-07-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AurayBrittany_PT-BR2396626414_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurayBrittany_PT-BR2396626414_UHD.jpg)|
-||*Copyright: Porto de Saint-Goustan, Auray, Bretanha, França (© Rolf E. Staerk/Shutterstock)*
+|2026-07-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWWNM_PT-BR2485169040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWWNM_PT-BR2485169040_UHD.jpg)|
+||*Copyright: Monumento Nacional Katahdin Woods and Waters, Maine, Estados Unidos (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2026-07-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_UHD.jpg)|
-||*Copyright: Port de Saint-Goustan, Auray, Bretagne (© Rolf E. Staerk/Shutterstock)*
+|2026-07-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWWNM_FR-FR2337328139_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWWNM_FR-FR2337328139_UHD.jpg)|
+||*Copyright: Monument national des bois et des eaux de Katahdin, Maine, États-Unis (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2026-07-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AurayBrittany_DE-DE3196003934_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurayBrittany_DE-DE3196003934_UHD.jpg)|
-||*Copyright: Hafen von Saint-Goustan, Auray, Bretagne, Frankreich (© Rolf E. Staerk/Shutterstock)*
+|2026-07-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWWNM_DE-DE4221964213_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWWNM_DE-DE4221964213_UHD.jpg)|
+||*Copyright: Katahdin Woods and Waters National Monument in Maine, USA (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2026-07-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-CA4145832513_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-CA4145832513_UHD.jpg)|
-||*Copyright: Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)*
+|2026-07-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-CA7288146923_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-CA7288146923_UHD.jpg)|
+||*Copyright: Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2026-07-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AurayBrittany_EN-GB4284557242_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurayBrittany_EN-GB4284557242_UHD.jpg)|
-||*Copyright: Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)*
+|2026-07-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-GB4389807993_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-GB4389807993_UHD.jpg)|
+||*Copyright: Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2026-07-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.IsolaBella_IT-IT9517303219_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IsolaBella_IT-IT9517303219_UHD.jpg)|
-||*Copyright: Veduta aerea di Isola Bella a Taormina, Sicilia, Italia (© DaLiu/iStock/Getty Images)*
+|2026-07-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWWNM_IT-IT7750657395_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWWNM_IT-IT7750657395_UHD.jpg)|
+||*Copyright: Il Monumento Nazionale Katahdin Woods and Waters, Maine, USA (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2026-07-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AurayBrittany_ES-ES0686964132_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurayBrittany_ES-ES0686964132_UHD.jpg)|
-||*Copyright: Puerto de Saint-Goustan, Auray, Bretaña, Francia (© Rolf E. Staerk/Shutterstock)*
+|2026-07-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.KatahdinWWNM_ES-ES0827560100_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatahdinWWNM_ES-ES0827560100_UHD.jpg)|
+||*Copyright: Monumento Nacional Katahdin Woods and Waters, Maine, EE. UU.  (© Cavan Images/Offset/Shutterstock)*
 ||
 |||
-|2026-07-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AurayBrittany_FR-CA4267828936_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurayBrittany_FR-CA4267828936_UHD.jpg)|
-||*Copyright: Port de Saint-Goustan, Auray, Bretagne, France (© Rolf E. Staerk/Shutterstock)*
+|2026-07-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.VictoriaBeach_FR-CA4399261354_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VictoriaBeach_FR-CA4399261354_UHD.jpg)|
+||*Copyright: Vue aérienne des terres et de l'océan, Victoria, Australie (© Nearmap/Getty Images)*
 ||
 |||
 
