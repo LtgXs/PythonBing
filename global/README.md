@@ -6,9 +6,9 @@
 ||*Copyright: Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)*
 ||
 |||
-|2026-07-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_UHD.jpg)|
-||*Copyright: アンテロープ・キャニオン, 米国 アリゾナ州 (© Mark Skalny/Getty Images)*
+|2026-07-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LemonShark_JA-JP9266528977_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LemonShark_JA-JP9266528977_UHD.jpg)|
+||*Copyright: レモンザメの幼魚, バハマ (© Shane Gross/Nature Picture Library)*
 ||
 |||
 |2026-07-13|**Region: en-IN**||
