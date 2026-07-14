@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:54:56] Picture infomations saved to  global/fr-CA/README.md
 [10:54:56] Picture infomations saved to global/fr-CA/history/2026/07/15_fr-CA.md
 Program exit at 10:54:56
+
+Program started at 17:06:01
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm5mmn9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:06:01] Start geting CN Bing Wallpaper
+[17:06:01] Successful get url: https://www.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg
+[17:06:01] Image saved to img/background.jpg
+[17:06:01] Info saved to README.md
+[17:06:01] Image saved to history/2026/07/15.md
+[17:06:01] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-14 13:06:01.872382-04:00
+[17:06:01] Successful get url: https://www.bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg
+[17:06:02] Picture infomations saved to  global/en-US/README.md
+[17:06:02] Picture infomations saved to global/en-US/history/2026/07/15_en-US.md
+[17:06:02] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-15 02:06:02.038709+09:00
+[17:06:02] Successful get url: https://www.bing.com/th?id=OHR.MarieLake_JA-JP9898730602_UHD.jpg
+[17:06:02] Picture infomations saved to  global/ja-JP/README.md
+[17:06:02] Picture infomations saved to global/ja-JP/history/2026/07/15_ja-JP.md
+[17:06:02] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-14 22:36:02.339366+05:30
+[17:06:02] Successful get url: https://www.bing.com/th?id=OHR.LemonShark_EN-IN7069732478_UHD.jpg
+[17:06:02] Picture infomations saved to  global/en-IN/README.md
+[17:06:02] Picture infomations saved to global/en-IN/history/2026/07/14_en-IN.md
+[17:06:02] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-14 14:06:02.529981-03:00
+[17:06:02] Successful get url: https://www.bing.com/th?id=OHR.LemonShark_PT-BR3191818241_UHD.jpg
+[17:06:02] Picture infomations saved to  global/pt-BR/README.md
+[17:06:02] Picture infomations saved to global/pt-BR/history/2026/07/15_pt-BR.md
+[17:06:02] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-14 19:06:02.721913+02:00
+[17:06:02] Successful get url: https://www.bing.com/th?id=OHR.BastilleSacreCoeur_FR-FR3878699722_UHD.jpg
+[17:06:03] Picture infomations saved to  global/fr-FR/README.md
+[17:06:03] Picture infomations saved to global/fr-FR/history/2026/07/14_fr-FR.md
+[17:06:03] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-14 19:06:03.058634+02:00
+[17:06:03] Successful get url: https://www.bing.com/th?id=OHR.LemonShark_DE-DE6087754416_UHD.jpg
+[17:06:03] Picture infomations saved to  global/de-DE/README.md
+[17:06:03] Picture infomations saved to global/de-DE/history/2026/07/14_de-DE.md
+[17:06:03] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-14 13:06:03.201038-04:00
+[17:06:03] Successful get url: https://www.bing.com/th?id=OHR.LemonShark_EN-CA1838897902_UHD.jpg
+[17:06:03] Picture infomations saved to  global/en-CA/README.md
+[17:06:03] Picture infomations saved to global/en-CA/history/2026/07/15_en-CA.md
+[17:06:03] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-14 18:06:03.493020+01:00
+[17:06:03] Successful get url: https://www.bing.com/th?id=OHR.LemonShark_EN-GB6406610577_UHD.jpg
+[17:06:03] Picture infomations saved to  global/en-GB/README.md
+[17:06:03] Picture infomations saved to global/en-GB/history/2026/07/14_en-GB.md
+[17:06:03] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-14 19:06:03.753235+02:00
+[17:06:03] Successful get url: https://www.bing.com/th?id=OHR.LemonShark_IT-IT7940960388_UHD.jpg
+[17:06:03] Picture infomations saved to  global/it-IT/README.md
+[17:06:03] Picture infomations saved to global/it-IT/history/2026/07/14_it-IT.md
+[17:06:03] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-14 19:06:03.987885+02:00
+[17:06:04] Successful get url: https://www.bing.com/th?id=OHR.LemonShark_ES-ES9243591847_UHD.jpg
+[17:06:04] Picture infomations saved to  global/es-ES/README.md
+[17:06:04] Picture infomations saved to global/es-ES/history/2026/07/14_es-ES.md
+[17:06:04] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-14 13:06:04.223534-04:00
+[17:06:04] Successful get url: https://www.bing.com/th?id=OHR.LemonShark_FR-CA5191222812_UHD.jpg
+[17:06:04] Picture infomations saved to  global/fr-CA/README.md
+[17:06:04] Picture infomations saved to global/fr-CA/history/2026/07/15_fr-CA.md
+Program exit at 17:06:04

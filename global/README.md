@@ -6,9 +6,9 @@
 ||*Copyright: Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)*
 ||
 |||
-|2026-07-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LemonShark_JA-JP9266528977_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LemonShark_JA-JP9266528977_UHD.jpg)|
-||*Copyright: レモンザメの幼魚, バハマ (© Shane Gross/Nature Picture Library)*
+|2026-07-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MarieLake_JA-JP9898730602_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MarieLake_JA-JP9898730602_UHD.jpg)|
+||*Copyright: マリー・レイク, 米国 カリフォルニア州 (© Steve Dunleavy/Getty Images)*
 ||
 |||
 |2026-07-14|**Region: en-IN**||
