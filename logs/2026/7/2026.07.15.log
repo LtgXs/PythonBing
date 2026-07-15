@@ -1,0 +1,60 @@
+
+Program started at 11:00:41
+Operating System Name: Linux
+Operating System Version: #18~24.04.1-Ubuntu SMP Thu May 28 16:39:11 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm5mmn9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:00:41] Start geting CN Bing Wallpaper
+[11:00:41] Successful get url: https://www.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg
+[11:00:41] Image saved to img/background.jpg
+[11:00:41] Info saved to README.md
+[11:00:41] Image saved to history/2026/07/15.md
+[11:00:41] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-15 07:00:41.935923-04:00
+[11:00:41] Successful get url: https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg
+[11:00:42] Picture infomations saved to  global/en-US/README.md
+[11:00:42] Picture infomations saved to global/en-US/history/2026/07/16_en-US.md
+[11:00:42] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-15 20:00:42.094544+09:00
+[11:00:42] Successful get url: https://www.bing.com/th?id=OHR.MarieLake_JA-JP9898730602_UHD.jpg
+[11:00:42] Picture infomations saved to  global/ja-JP/README.md
+[11:00:42] Picture infomations saved to global/ja-JP/history/2026/07/15_ja-JP.md
+[11:00:42] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-15 16:30:42.333081+05:30
+[11:00:42] Successful get url: https://www.bing.com/th?id=OHR.MarieLake_EN-IN7488025421_UHD.jpg
+[11:00:42] Picture infomations saved to  global/en-IN/README.md
+[11:00:42] Picture infomations saved to global/en-IN/history/2026/07/15_en-IN.md
+[11:00:42] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-15 08:00:42.656474-03:00
+[11:00:42] Successful get url: https://www.bing.com/th?id=OHR.Tanager_PT-BR3453059902_UHD.jpg
+[11:00:42] Picture infomations saved to  global/pt-BR/README.md
+[11:00:42] Picture infomations saved to global/pt-BR/history/2026/07/16_pt-BR.md
+[11:00:42] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-15 13:00:42.797739+02:00
+[11:00:42] Successful get url: https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_UHD.jpg
+[11:00:43] Picture infomations saved to  global/fr-FR/README.md
+[11:00:43] Picture infomations saved to global/fr-FR/history/2026/07/15_fr-FR.md
+[11:00:43] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-15 13:00:43.071276+02:00
+[11:00:43] Successful get url: https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_UHD.jpg
+[11:00:43] Picture infomations saved to  global/de-DE/README.md
+[11:00:43] Picture infomations saved to global/de-DE/history/2026/07/15_de-DE.md
+[11:00:43] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-15 07:00:43.328282-04:00
+[11:00:43] Successful get url: https://www.bing.com/th?id=OHR.MarieLake_EN-CA6168691994_UHD.jpg
+[11:00:43] Picture infomations saved to  global/en-CA/README.md
+[11:00:43] Picture infomations saved to global/en-CA/history/2026/07/16_en-CA.md
+[11:00:43] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-15 12:00:43.544823+01:00
+[11:00:43] Successful get url: https://www.bing.com/th?id=OHR.MarieLake_EN-GB7432567016_UHD.jpg
+[11:00:43] Picture infomations saved to  global/en-GB/README.md
+[11:00:43] Picture infomations saved to global/en-GB/history/2026/07/15_en-GB.md
+[11:00:43] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-15 13:00:43.705418+02:00
+[11:00:43] Successful get url: https://www.bing.com/th?id=OHR.MarieLake_IT-IT8390636002_UHD.jpg
+[11:00:43] Picture infomations saved to  global/it-IT/README.md
+[11:00:43] Picture infomations saved to global/it-IT/history/2026/07/15_it-IT.md
+[11:00:43] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-15 13:00:43.950520+02:00
+[11:00:44] Successful get url: https://www.bing.com/th?id=OHR.MarieLake_ES-ES0302365880_UHD.jpg
+[11:00:44] Picture infomations saved to  global/es-ES/README.md
+[11:00:44] Picture infomations saved to global/es-ES/history/2026/07/15_es-ES.md
+[11:00:44] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-15 07:00:44.175523-04:00
+[11:00:44] Successful get url: https://www.bing.com/th?id=OHR.KatahdinWWNM_FR-CA5380582641_UHD.jpg
+[11:00:44] Picture infomations saved to  global/fr-CA/README.md
+[11:00:44] Picture infomations saved to global/fr-CA/history/2026/07/16_fr-CA.md
+Program exit at 11:00:44
