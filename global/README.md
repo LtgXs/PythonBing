@@ -6,9 +6,9 @@
 ||*Copyright: Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)*
 ||
 |||
-|2026-07-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MarieLake_JA-JP9898730602_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MarieLake_JA-JP9898730602_UHD.jpg)|
-||*Copyright: マリー・レイク, 米国 カリフォルニア州 (© Steve Dunleavy/Getty Images)*
+|2026-07-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NavyPier_JA-JP0160307645_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NavyPier_JA-JP0160307645_UHD.jpg)|
+||*Copyright: ネイビー・ピア, 米国イリノイ州 (© Christopher.F Photography/Getty Images)*
 ||
 |||
 |2026-07-15|**Region: en-IN**||
