@@ -6,9 +6,9 @@
 ||*Copyright: Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)*
 ||
 |||
-|2026-07-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GionFestival2026_JA-JP0488381919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GionFestival2026_JA-JP0488381919_UHD.jpg)|
-||*Copyright: 八坂神社の神紋が描かれた提灯, 京都府 京都市 (© Felix Choo/Alamy)*
+|2026-07-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg)|
+||*Copyright: ラコツ橋, ドイツ (© Mike Mareen/Getty Images)*
 ||
 |||
 |2026-07-17|**Region: en-IN**||

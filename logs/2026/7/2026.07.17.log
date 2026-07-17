@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:56:54] Picture infomations saved to  global/fr-CA/README.md
 [10:56:54] Picture infomations saved to global/fr-CA/history/2026/07/18_fr-CA.md
 Program exit at 10:56:54
+
+Program started at 17:04:34
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3jd5f
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:04:34] Start geting CN Bing Wallpaper
+[17:04:34] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg
+[17:04:34] Image saved to img/background.jpg
+[17:04:34] Info saved to README.md
+[17:04:34] Image saved to history/2026/07/18.md
+[17:04:34] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-17 13:04:34.980453-04:00
+[17:04:35] Successful get url: https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg
+[17:04:35] Picture infomations saved to  global/en-US/README.md
+[17:04:35] Picture infomations saved to global/en-US/history/2026/07/18_en-US.md
+[17:04:35] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-18 02:04:35.175929+09:00
+[17:04:35] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg
+[17:04:35] Picture infomations saved to  global/ja-JP/README.md
+[17:04:35] Picture infomations saved to global/ja-JP/history/2026/07/18_ja-JP.md
+[17:04:35] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-17 22:34:35.348477+05:30
+[17:04:35] Successful get url: https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-IN8171582034_UHD.jpg
+[17:04:35] Picture infomations saved to  global/en-IN/README.md
+[17:04:35] Picture infomations saved to global/en-IN/history/2026/07/17_en-IN.md
+[17:04:35] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-17 14:04:35.912908-03:00
+[17:04:36] Successful get url: https://www.bing.com/th?id=OHR.HirundoRustica_PT-BR5068728715_UHD.jpg
+[17:04:36] Picture infomations saved to  global/pt-BR/README.md
+[17:04:36] Picture infomations saved to global/pt-BR/history/2026/07/18_pt-BR.md
+[17:04:36] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-17 19:04:36.129080+02:00
+[17:04:36] Successful get url: https://www.bing.com/th?id=OHR.VaiUmbrellas_FR-FR3414218342_UHD.jpg
+[17:04:36] Picture infomations saved to  global/fr-FR/README.md
+[17:04:36] Picture infomations saved to global/fr-FR/history/2026/07/17_fr-FR.md
+[17:04:36] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-17 19:04:36.369615+02:00
+[17:04:36] Successful get url: https://www.bing.com/th?id=OHR.VaiUmbrellas_DE-DE2887576952_UHD.jpg
+[17:04:36] Picture infomations saved to  global/de-DE/README.md
+[17:04:36] Picture infomations saved to global/de-DE/history/2026/07/17_de-DE.md
+[17:04:36] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-17 13:04:36.555091-04:00
+[17:04:36] Successful get url: https://www.bing.com/th?id=OHR.GrainSilosSK_EN-CA7421778186_UHD.jpg
+[17:04:36] Picture infomations saved to  global/en-CA/README.md
+[17:04:36] Picture infomations saved to global/en-CA/history/2026/07/18_en-CA.md
+[17:04:36] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-17 18:04:36.755193+01:00
+[17:04:36] Successful get url: https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-GB3361752741_UHD.jpg
+[17:04:37] Picture infomations saved to  global/en-GB/README.md
+[17:04:37] Picture infomations saved to global/en-GB/history/2026/07/17_en-GB.md
+[17:04:37] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-17 19:04:37.259947+02:00
+[17:04:37] Successful get url: https://www.bing.com/th?id=OHR.VaiUmbrellas_IT-IT8454370780_UHD.jpg
+[17:04:37] Picture infomations saved to  global/it-IT/README.md
+[17:04:37] Picture infomations saved to global/it-IT/history/2026/07/17_it-IT.md
+[17:04:37] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-17 19:04:37.467649+02:00
+[17:04:37] Successful get url: https://www.bing.com/th?id=OHR.PerseidasTenerife_ES-ES7757979261_UHD.jpg
+[17:04:37] Picture infomations saved to  global/es-ES/README.md
+[17:04:37] Picture infomations saved to global/es-ES/history/2026/07/17_es-ES.md
+[17:04:37] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-17 13:04:37.725312-04:00
+[17:04:37] Successful get url: https://www.bing.com/th?id=OHR.GrainSilosSK_FR-CA5844338431_UHD.jpg
+[17:04:38] Picture infomations saved to  global/fr-CA/README.md
+[17:04:38] Picture infomations saved to global/fr-CA/history/2026/07/18_fr-CA.md
+Program exit at 17:04:38
