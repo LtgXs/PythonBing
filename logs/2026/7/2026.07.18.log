@@ -1,0 +1,60 @@
+
+Program started at 10:38:27
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3jd5f
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:38:27] Start geting CN Bing Wallpaper
+[10:38:27] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg
+[10:38:27] Image saved to img/background.jpg
+[10:38:27] Info saved to README.md
+[10:38:27] Image saved to history/2026/07/18.md
+[10:38:27] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-18 06:38:27.404297-04:00
+[10:38:27] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg
+[10:38:27] Picture infomations saved to  global/en-US/README.md
+[10:38:27] Picture infomations saved to global/en-US/history/2026/07/19_en-US.md
+[10:38:27] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-18 19:38:27.572482+09:00
+[10:38:27] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg
+[10:38:27] Picture infomations saved to  global/ja-JP/README.md
+[10:38:27] Picture infomations saved to global/ja-JP/history/2026/07/18_ja-JP.md
+[10:38:27] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-18 16:08:27.763075+05:30
+[10:38:27] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_EN-IN8517892146_UHD.jpg
+[10:38:28] Picture infomations saved to  global/en-IN/README.md
+[10:38:28] Picture infomations saved to global/en-IN/history/2026/07/18_en-IN.md
+[10:38:28] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-18 07:38:28.066581-03:00
+[10:38:28] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_PT-BR5443302606_UHD.jpg
+[10:38:28] Picture infomations saved to  global/pt-BR/README.md
+[10:38:28] Picture infomations saved to global/pt-BR/history/2026/07/19_pt-BR.md
+[10:38:28] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-18 12:38:28.201401+02:00
+[10:38:28] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_FR-FR5259113427_UHD.jpg
+[10:38:28] Picture infomations saved to  global/fr-FR/README.md
+[10:38:28] Picture infomations saved to global/fr-FR/history/2026/07/18_fr-FR.md
+[10:38:28] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-18 12:38:28.544056+02:00
+[10:38:28] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_DE-DE6987454445_UHD.jpg
+[10:38:28] Picture infomations saved to  global/de-DE/README.md
+[10:38:28] Picture infomations saved to global/de-DE/history/2026/07/18_de-DE.md
+[10:38:28] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-18 06:38:28.890559-04:00
+[10:38:28] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_EN-CA9488720591_UHD.jpg
+[10:38:29] Picture infomations saved to  global/en-CA/README.md
+[10:38:29] Picture infomations saved to global/en-CA/history/2026/07/19_en-CA.md
+[10:38:29] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-18 11:38:29.076795+01:00
+[10:38:29] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_EN-GB3657419694_UHD.jpg
+[10:38:29] Picture infomations saved to  global/en-GB/README.md
+[10:38:29] Picture infomations saved to global/en-GB/history/2026/07/18_en-GB.md
+[10:38:29] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-18 12:38:29.267584+02:00
+[10:38:29] Successful get url: https://www.bing.com/th?id=OHR.FestaVenezia_IT-IT8709585056_UHD.jpg
+[10:38:29] Picture infomations saved to  global/it-IT/README.md
+[10:38:29] Picture infomations saved to global/it-IT/history/2026/07/18_it-IT.md
+[10:38:29] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-18 12:38:29.552791+02:00
+[10:38:29] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_ES-ES8242183956_UHD.jpg
+[10:38:29] Picture infomations saved to  global/es-ES/README.md
+[10:38:29] Picture infomations saved to global/es-ES/history/2026/07/18_es-ES.md
+[10:38:29] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-18 06:38:29.907540-04:00
+[10:38:29] Successful get url: https://www.bing.com/th?id=OHR.DevilsBridge_FR-CA6046271427_UHD.jpg
+[10:38:30] Picture infomations saved to  global/fr-CA/README.md
+[10:38:30] Picture infomations saved to global/fr-CA/history/2026/07/19_fr-CA.md
+Program exit at 10:38:30
