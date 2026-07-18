@@ -6,9 +6,9 @@
 ||*Copyright: Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)*
 ||
 |||
-|2026-07-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg)|
-||*Copyright: ラコツ橋, ドイツ (© Mike Mareen/Getty Images)*
+|2026-07-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HirundoRustica_JA-JP1327555795_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HirundoRustica_JA-JP1327555795_UHD.jpg)|
+||*Copyright: ツバメ (© Oscar Dominguez/Tandem Stills + Motion)*
 ||
 |||
 |2026-07-18|**Region: en-IN**||
