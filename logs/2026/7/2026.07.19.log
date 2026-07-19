@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:41:42] Picture infomations saved to  global/fr-CA/README.md
 [10:41:42] Picture infomations saved to global/fr-CA/history/2026/07/20_fr-CA.md
 Program exit at 10:41:42
+
+Program started at 16:50:01
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3jd5f
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:50:01] Start geting CN Bing Wallpaper
+[16:50:02] Successful get url: https://www.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg
+[16:50:02] Image saved to img/background.jpg
+[16:50:02] Info saved to README.md
+[16:50:02] Image saved to history/2026/07/20.md
+[16:50:02] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-19 12:50:02.100942-04:00
+[16:50:02] Successful get url: https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg
+[16:50:02] Picture infomations saved to  global/en-US/README.md
+[16:50:02] Picture infomations saved to global/en-US/history/2026/07/20_en-US.md
+[16:50:02] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-20 01:50:02.231706+09:00
+[16:50:02] Successful get url: https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_UHD.jpg
+[16:50:02] Picture infomations saved to  global/ja-JP/README.md
+[16:50:02] Picture infomations saved to global/ja-JP/history/2026/07/20_ja-JP.md
+[16:50:02] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-19 22:20:02.363548+05:30
+[16:50:02] Successful get url: https://www.bing.com/th?id=OHR.HirundoRustica_EN-IN8751353148_UHD.jpg
+[16:50:02] Picture infomations saved to  global/en-IN/README.md
+[16:50:02] Picture infomations saved to global/en-IN/history/2026/07/19_en-IN.md
+[16:50:02] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-19 13:50:02.501511-03:00
+[16:50:02] Successful get url: https://www.bing.com/th?id=OHR.SoccerDay_PT-BR5859476382_UHD.jpg
+[16:50:02] Picture infomations saved to  global/pt-BR/README.md
+[16:50:02] Picture infomations saved to global/pt-BR/history/2026/07/20_pt-BR.md
+[16:50:02] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-19 18:50:02.619473+02:00
+[16:50:02] Successful get url: https://www.bing.com/th?id=OHR.HirundoRustica_FR-FR5403619513_UHD.jpg
+[16:50:02] Picture infomations saved to  global/fr-FR/README.md
+[16:50:02] Picture infomations saved to global/fr-FR/history/2026/07/19_fr-FR.md
+[16:50:02] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-19 18:50:02.745270+02:00
+[16:50:02] Successful get url: https://www.bing.com/th?id=OHR.HirundoRustica_DE-DE7127271974_UHD.jpg
+[16:50:02] Picture infomations saved to  global/de-DE/README.md
+[16:50:02] Picture infomations saved to global/de-DE/history/2026/07/19_de-DE.md
+[16:50:02] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-19 12:50:02.869125-04:00
+[16:50:02] Successful get url: https://www.bing.com/th?id=OHR.HirundoRustica_EN-CA9613012856_UHD.jpg
+[16:50:03] Picture infomations saved to  global/en-CA/README.md
+[16:50:03] Picture infomations saved to global/en-CA/history/2026/07/20_en-CA.md
+[16:50:03] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-19 17:50:03.017989+01:00
+[16:50:03] Successful get url: https://www.bing.com/th?id=OHR.HirundoRustica_EN-GB4164429315_UHD.jpg
+[16:50:03] Picture infomations saved to  global/en-GB/README.md
+[16:50:03] Picture infomations saved to global/en-GB/history/2026/07/19_en-GB.md
+[16:50:03] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-19 18:50:03.193186+02:00
+[16:50:03] Successful get url: https://www.bing.com/th?id=OHR.HirundoRustica_IT-IT8852691530_UHD.jpg
+[16:50:03] Picture infomations saved to  global/it-IT/README.md
+[16:50:03] Picture infomations saved to global/it-IT/history/2026/07/19_it-IT.md
+[16:50:03] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-19 18:50:03.305313+02:00
+[16:50:03] Successful get url: https://www.bing.com/th?id=OHR.HirundoRustica_ES-ES1865458756_UHD.jpg
+[16:50:03] Picture infomations saved to  global/es-ES/README.md
+[16:50:03] Picture infomations saved to global/es-ES/history/2026/07/19_es-ES.md
+[16:50:03] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-19 12:50:03.418222-04:00
+[16:50:03] Successful get url: https://www.bing.com/th?id=OHR.HirundoRustica_FR-CA6948278300_UHD.jpg
+[16:50:03] Picture infomations saved to  global/fr-CA/README.md
+[16:50:03] Picture infomations saved to global/fr-CA/history/2026/07/20_fr-CA.md
+Program exit at 16:50:03

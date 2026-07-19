@@ -6,9 +6,9 @@
 ||*Copyright: Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)*
 ||
 |||
-|2026-07-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HirundoRustica_JA-JP1327555795_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HirundoRustica_JA-JP1327555795_UHD.jpg)|
-||*Copyright: ツバメ (© Oscar Dominguez/Tandem Stills + Motion)*
+|2026-07-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_UHD.jpg)|
+||*Copyright: 月から見た地球 (© NASA)*
 ||
 |||
 |2026-07-19|**Region: en-IN**||
