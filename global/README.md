@@ -6,9 +6,9 @@
 ||*Copyright: Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)*
 ||
 |||
-|2026-07-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Kawagoe2026_JA-JP2060864918_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Kawagoe2026_JA-JP2060864918_UHD.jpg)|
-||*Copyright: 川越氷川神社, 埼玉県 川越市 (© kudosstudio/Adobe)*
+|2026-07-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CoralAwareness_JA-JP2408708579_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoralAwareness_JA-JP2408708579_UHD.jpg)|
+||*Copyright: サンゴ礁, インドネシア (© SergeUWPhoto/Shutterstock)*
 ||
 |||
 |2026-07-21|**Region: en-IN**||
