@@ -6,9 +6,9 @@
 ||*Copyright: Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)*
 ||
 |||
-|2026-07-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CoralAwareness_JA-JP2408708579_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CoralAwareness_JA-JP2408708579_UHD.jpg)|
-||*Copyright: サンゴ礁, インドネシア (© SergeUWPhoto/Shutterstock)*
+|2026-07-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PinkDahlia_JA-JP3415436544_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkDahlia_JA-JP3415436544_UHD.jpg)|
+||*Copyright: ピンクのダリア (© Harald Biebel/Getty Images)*
 ||
 |||
 |2026-07-22|**Region: en-IN**||
