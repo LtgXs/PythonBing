@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-07-23
+## History Bing Wallpaper
+Wallpaper date: 2026-07-23
 ![](https://www.bing.com/th?id=OHR.CoralAwareness_EN-CA0311926536_UHD.jpg&w=1000)Download: [Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)](https://www.bing.com/th?id=OHR.CoralAwareness_EN-CA0311926536_UHD.jpg)
 
 Auto get programm by LtgX
