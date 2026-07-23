@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [11:18:09] Picture infomations saved to  global/fr-CA/README.md
 [11:18:09] Picture infomations saved to global/fr-CA/history/2026/07/24_fr-CA.md
 Program exit at 11:18:09
+
+Program started at 17:11:23
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3jd5f
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:11:23] Start geting CN Bing Wallpaper
+[17:11:23] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg
+[17:11:24] Image saved to img/background.jpg
+[17:11:24] Info saved to README.md
+[17:11:24] Image saved to history/2026/07/24.md
+[17:11:24] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-23 13:11:24.388744-04:00
+[17:11:28] Successful get url: https://www.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg
+[17:11:28] Picture infomations saved to  global/en-US/README.md
+[17:11:28] Picture infomations saved to global/en-US/history/2026/07/24_en-US.md
+[17:11:28] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-24 02:11:28.672244+09:00
+[17:11:28] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_JA-JP2749729014_UHD.jpg
+[17:11:29] Picture infomations saved to  global/ja-JP/README.md
+[17:11:29] Picture infomations saved to global/ja-JP/history/2026/07/24_ja-JP.md
+[17:11:29] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-23 22:41:29.076003+05:30
+[17:11:29] Successful get url: https://www.bing.com/th?id=OHR.PinkDahlia_EN-IN0092108824_UHD.jpg
+[17:11:29] Picture infomations saved to  global/en-IN/README.md
+[17:11:29] Picture infomations saved to global/en-IN/history/2026/07/23_en-IN.md
+[17:11:29] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-23 14:11:29.476776-03:00
+[17:11:29] Successful get url: https://www.bing.com/th?id=OHR.PinkDahlia_PT-BR7612133818_UHD.jpg
+[17:11:29] Picture infomations saved to  global/pt-BR/README.md
+[17:11:29] Picture infomations saved to global/pt-BR/history/2026/07/24_pt-BR.md
+[17:11:29] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-23 19:11:29.855468+02:00
+[17:11:29] Successful get url: https://www.bing.com/th?id=OHR.PinkDahlia_FR-FR6134462708_UHD.jpg
+[17:11:30] Picture infomations saved to  global/fr-FR/README.md
+[17:11:30] Picture infomations saved to global/fr-FR/history/2026/07/23_fr-FR.md
+[17:11:30] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-23 19:11:30.263804+02:00
+[17:11:30] Successful get url: https://www.bing.com/th?id=OHR.PinkDahlia_DE-DE7886541218_UHD.jpg
+[17:11:30] Picture infomations saved to  global/de-DE/README.md
+[17:11:30] Picture infomations saved to global/de-DE/history/2026/07/23_de-DE.md
+[17:11:30] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-23 13:11:30.735127-04:00
+[17:11:30] Successful get url: https://www.bing.com/th?id=OHR.PinkDahlia_EN-CA0488598633_UHD.jpg
+[17:11:31] Picture infomations saved to  global/en-CA/README.md
+[17:11:31] Picture infomations saved to global/en-CA/history/2026/07/24_en-CA.md
+[17:11:31] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-23 18:11:31.049563+01:00
+[17:11:31] Successful get url: https://www.bing.com/th?id=OHR.PinkDahlia_EN-GB5279918343_UHD.jpg
+[17:11:31] Picture infomations saved to  global/en-GB/README.md
+[17:11:31] Picture infomations saved to global/en-GB/history/2026/07/23_en-GB.md
+[17:11:31] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-23 19:11:31.581926+02:00
+[17:11:31] Successful get url: https://www.bing.com/th?id=OHR.PinkDahlia_IT-IT4710141441_UHD.jpg
+[17:11:31] Picture infomations saved to  global/it-IT/README.md
+[17:11:31] Picture infomations saved to global/it-IT/history/2026/07/23_it-IT.md
+[17:11:31] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-23 19:11:31.906093+02:00
+[17:11:31] Successful get url: https://www.bing.com/th?id=OHR.PinkDahlia_ES-ES2391047367_UHD.jpg
+[17:11:32] Picture infomations saved to  global/es-ES/README.md
+[17:11:32] Picture infomations saved to global/es-ES/history/2026/07/23_es-ES.md
+[17:11:32] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-23 13:11:32.201452-04:00
+[17:11:32] Successful get url: https://www.bing.com/th?id=OHR.PinkDahlia_FR-CA1521890889_UHD.jpg
+[17:11:32] Picture infomations saved to  global/fr-CA/README.md
+[17:11:32] Picture infomations saved to global/fr-CA/history/2026/07/24_fr-CA.md
+Program exit at 17:11:32

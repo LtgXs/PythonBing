@@ -6,9 +6,9 @@
 ||*Copyright: Pink dahlia flower (© Harald Biebel/Getty Images)*
 ||
 |||
-|2026-07-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PinkDahlia_JA-JP3415436544_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PinkDahlia_JA-JP3415436544_UHD.jpg)|
-||*Copyright: ピンクのダリア (© Harald Biebel/Getty Images)*
+|2026-07-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_JA-JP2749729014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosFlamingos_JA-JP2749729014_UHD.jpg)|
+||*Copyright: ベニイロフラミンゴ, エクアドル (© Tui De Roy/Nature Picture Library)*
 ||
 |||
 |2026-07-23|**Region: en-IN**||
