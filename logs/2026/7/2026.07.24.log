@@ -1,0 +1,60 @@
+
+Program started at 11:09:07
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmvrwv9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:09:07] Start geting CN Bing Wallpaper
+[11:09:07] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg
+[11:09:07] Image saved to img/background.jpg
+[11:09:07] Info saved to README.md
+[11:09:07] Image saved to history/2026/07/24.md
+[11:09:07] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-24 07:09:07.549765-04:00
+[11:09:07] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg
+[11:09:07] Picture infomations saved to  global/en-US/README.md
+[11:09:07] Picture infomations saved to global/en-US/history/2026/07/25_en-US.md
+[11:09:07] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-24 20:09:07.687407+09:00
+[11:09:07] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_JA-JP2749729014_UHD.jpg
+[11:09:07] Picture infomations saved to  global/ja-JP/README.md
+[11:09:07] Picture infomations saved to global/ja-JP/history/2026/07/24_ja-JP.md
+[11:09:07] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-24 16:39:07.883163+05:30
+[11:09:08] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-IN8421031392_UHD.jpg
+[11:09:08] Picture infomations saved to  global/en-IN/README.md
+[11:09:08] Picture infomations saved to global/en-IN/history/2026/07/24_en-IN.md
+[11:09:08] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-24 08:09:08.096249-03:00
+[11:09:08] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_PT-BR5022467535_UHD.jpg
+[11:09:08] Picture infomations saved to  global/pt-BR/README.md
+[11:09:08] Picture infomations saved to global/pt-BR/history/2026/07/25_pt-BR.md
+[11:09:08] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-24 13:09:08.219570+02:00
+[11:09:08] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_FR-FR0682662624_UHD.jpg
+[11:09:08] Picture infomations saved to  global/fr-FR/README.md
+[11:09:08] Picture infomations saved to global/fr-FR/history/2026/07/24_fr-FR.md
+[11:09:08] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-24 13:09:08.347215+02:00
+[11:09:08] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_DE-DE1918476943_UHD.jpg
+[11:09:08] Picture infomations saved to  global/de-DE/README.md
+[11:09:08] Picture infomations saved to global/de-DE/history/2026/07/24_de-DE.md
+[11:09:08] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-24 07:09:08.501615-04:00
+[11:09:08] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-CA4325829188_UHD.jpg
+[11:09:08] Picture infomations saved to  global/en-CA/README.md
+[11:09:08] Picture infomations saved to global/en-CA/history/2026/07/25_en-CA.md
+[11:09:08] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-24 12:09:08.759070+01:00
+[11:09:08] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-GB4530568313_UHD.jpg
+[11:09:08] Picture infomations saved to  global/en-GB/README.md
+[11:09:08] Picture infomations saved to global/en-GB/history/2026/07/24_en-GB.md
+[11:09:08] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-24 13:09:08.906696+02:00
+[11:09:08] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_IT-IT7890055647_UHD.jpg
+[11:09:09] Picture infomations saved to  global/it-IT/README.md
+[11:09:09] Picture infomations saved to global/it-IT/history/2026/07/24_it-IT.md
+[11:09:09] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-24 13:09:09.139112+02:00
+[11:09:09] Successful get url: https://www.bing.com/th?id=OHR.ChicagoTiffany_ES-ES2128020420_UHD.jpg
+[11:09:09] Picture infomations saved to  global/es-ES/README.md
+[11:09:09] Picture infomations saved to global/es-ES/history/2026/07/24_es-ES.md
+[11:09:09] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-24 07:09:09.314369-04:00
+[11:09:09] Successful get url: https://www.bing.com/th?id=OHR.GalapagosFlamingos_FR-CA9761823811_UHD.jpg
+[11:09:09] Picture infomations saved to  global/fr-CA/README.md
+[11:09:09] Picture infomations saved to global/fr-CA/history/2026/07/25_fr-CA.md
+Program exit at 11:09:09
