@@ -6,9 +6,9 @@
 ||*Copyright: Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)*
 ||
 |||
-|2026-07-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_JA-JP2749729014_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosFlamingos_JA-JP2749729014_UHD.jpg)|
-||*Copyright: ベニイロフラミンゴ, エクアドル (© Tui De Roy/Nature Picture Library)*
+|2026-07-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609_UHD.jpg)|
+||*Copyright: カテドラル・ビーチ, スペイン (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)*
 ||
 |||
 |2026-07-24|**Region: en-IN**||
