@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-07-25|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg)|
-||*Copyright: Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)*
+|2026-07-26|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg)|
+||*Copyright: Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)*
 ||
 |||
 |2026-07-25|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: カテドラル・ビーチ, スペイン (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)*
 ||
 |||
-|2026-07-24|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-IN8421031392_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-IN8421031392_UHD.jpg)|
-||*Copyright: Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)*
+|2026-07-25|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-IN8935924229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-IN8935924229_UHD.jpg)|
+||*Copyright: Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)*
 ||
 |||
-|2026-07-25|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_PT-BR5022467535_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosFlamingos_PT-BR5022467535_UHD.jpg)|
-||*Copyright: Bando de flamingos-americanos, Ilha Isabela, Ilhas Galápagos, Equador (© Tui De Roy/Nature Picture Library)*
+|2026-07-26|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GaliciaBeach_PT-BR6668206229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaliciaBeach_PT-BR6668206229_UHD.jpg)|
+||*Copyright: Praia das Catedrais, Galícia, Espanha (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)*
 ||
 |||
-|2026-07-24|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_FR-FR0682662624_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosFlamingos_FR-FR0682662624_UHD.jpg)|
-||*Copyright: Flamboyance de flamants des Caraïbes, île Isabela, îles Galápagos, Équateur (© Tui De Roy/Nature Picture Library)*
+|2026-07-25|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GaliciaBeach_FR-FR6503602591_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaliciaBeach_FR-FR6503602591_UHD.jpg)|
+||*Copyright: Plage des Cathédrales, Galice, Espagne (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)*
 ||
 |||
-|2026-07-24|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_DE-DE1918476943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosFlamingos_DE-DE1918476943_UHD.jpg)|
-||*Copyright: Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador (© Tui De Roy/Nature Picture Library)*
+|2026-07-25|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PrideBerlin_DE-DE3369611592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PrideBerlin_DE-DE3369611592_UHD.jpg)|
+||*Copyright: Fernsehturm am Alexanderplatz mit Regenbogen, Berlin (© fhm/Getty Images)*
 ||
 |||
-|2026-07-25|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-CA4325829188_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-CA4325829188_UHD.jpg)|
-||*Copyright: Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)*
+|2026-07-26|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-CA4896799144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-CA4896799144_UHD.jpg)|
+||*Copyright: Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)*
 ||
 |||
-|2026-07-24|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-GB4530568313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-GB4530568313_UHD.jpg)|
-||*Copyright: Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)*
+|2026-07-25|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-GB4804626985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-GB4804626985_UHD.jpg)|
+||*Copyright: Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)*
 ||
 |||
-|2026-07-24|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_IT-IT7890055647_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosFlamingos_IT-IT7890055647_UHD.jpg)|
-||*Copyright: Stormo di fenicotteri americani, Isola Isabela, Isole Galápagos, Ecuador (© Tui De Roy/Nature Picture Library)*
+|2026-07-25|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SardegnaFaro_IT-IT8009785446_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardegnaFaro_IT-IT8009785446_UHD.jpg)|
+||*Copyright: Il Faro Mangiabarche, Sant'Antioco, Sulcis, Sardegna (© Francesco Riccardo Iacomino/Getty Images)*
 ||
 |||
-|2026-07-24|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ChicagoTiffany_ES-ES2128020420_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChicagoTiffany_ES-ES2128020420_UHD.jpg)|
-||*Copyright: Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU.  (© Felix Lipov/Shutterstock)*
+|2026-07-25|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GaliciaBeach_ES-ES2298992138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaliciaBeach_ES-ES2298992138_UHD.jpg)|
+||*Copyright: Playa de las Catedrales, Galicia, España (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)*
 ||
 |||
-|2026-07-25|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.GalapagosFlamingos_FR-CA9761823811_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GalapagosFlamingos_FR-CA9761823811_UHD.jpg)|
-||*Copyright: Flamboyance de flamants des Caraïbes, île Isabela, îles Galápagos, Équateur (© Tui De Roy/Nature Picture Library)*
+|2026-07-26|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GaliciaBeach_FR-CA0091810410_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaliciaBeach_FR-CA0091810410_UHD.jpg)|
+||*Copyright: Plage des Cathédrales, Galice, Espagne (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)*
 ||
 |||
 
