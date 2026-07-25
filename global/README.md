@@ -6,9 +6,9 @@
 ||*Copyright: Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)*
 ||
 |||
-|2026-07-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609_UHD.jpg)|
-||*Copyright: カテドラル・ビーチ, スペイン (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)*
+|2026-07-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RedMangroveSunrise_JA-JP3991738335_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedMangroveSunrise_JA-JP3991738335_UHD.jpg)|
+||*Copyright: アカマングローブ, ホンジュラス (© Mac Stone/Tandem Stills + Motion)*
 ||
 |||
 |2026-07-25|**Region: en-IN**||

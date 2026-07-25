@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [10:41:46] Picture infomations saved to  global/fr-CA/README.md
 [10:41:46] Picture infomations saved to global/fr-CA/history/2026/07/26_fr-CA.md
 Program exit at 10:41:46
+
+Program started at 16:49:52
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmvrwv9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:49:52] Start geting CN Bing Wallpaper
+[16:49:52] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg
+[16:49:52] Image saved to img/background.jpg
+[16:49:52] Info saved to README.md
+[16:49:52] Image saved to history/2026/07/26.md
+[16:49:52] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-25 12:49:52.840476-04:00
+[16:49:52] Successful get url: https://www.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg
+[16:49:52] Picture infomations saved to  global/en-US/README.md
+[16:49:52] Picture infomations saved to global/en-US/history/2026/07/26_en-US.md
+[16:49:52] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-26 01:49:53.020136+09:00
+[16:49:53] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_JA-JP3991738335_UHD.jpg
+[16:49:53] Picture infomations saved to  global/ja-JP/README.md
+[16:49:53] Picture infomations saved to global/ja-JP/history/2026/07/26_ja-JP.md
+[16:49:53] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-25 22:19:53.347560+05:30
+[16:49:53] Successful get url: https://www.bing.com/th?id=OHR.GaliciaBeach_EN-IN8935924229_UHD.jpg
+[16:49:53] Picture infomations saved to  global/en-IN/README.md
+[16:49:53] Picture infomations saved to global/en-IN/history/2026/07/25_en-IN.md
+[16:49:53] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-25 13:49:53.641364-03:00
+[16:49:53] Successful get url: https://www.bing.com/th?id=OHR.GaliciaBeach_PT-BR6668206229_UHD.jpg
+[16:49:53] Picture infomations saved to  global/pt-BR/README.md
+[16:49:53] Picture infomations saved to global/pt-BR/history/2026/07/26_pt-BR.md
+[16:49:53] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-25 18:49:53.861506+02:00
+[16:49:53] Successful get url: https://www.bing.com/th?id=OHR.GaliciaBeach_FR-FR6503602591_UHD.jpg
+[16:49:53] Picture infomations saved to  global/fr-FR/README.md
+[16:49:53] Picture infomations saved to global/fr-FR/history/2026/07/25_fr-FR.md
+[16:49:53] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-25 18:49:53.986340+02:00
+[16:49:54] Successful get url: https://www.bing.com/th?id=OHR.PrideBerlin_DE-DE3369611592_UHD.jpg
+[16:49:54] Picture infomations saved to  global/de-DE/README.md
+[16:49:54] Picture infomations saved to global/de-DE/history/2026/07/25_de-DE.md
+[16:49:54] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-25 12:49:54.232015-04:00
+[16:49:54] Successful get url: https://www.bing.com/th?id=OHR.GaliciaBeach_EN-CA4896799144_UHD.jpg
+[16:49:54] Picture infomations saved to  global/en-CA/README.md
+[16:49:54] Picture infomations saved to global/en-CA/history/2026/07/26_en-CA.md
+[16:49:54] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-25 17:49:54.379431+01:00
+[16:49:54] Successful get url: https://www.bing.com/th?id=OHR.GaliciaBeach_EN-GB4804626985_UHD.jpg
+[16:49:54] Picture infomations saved to  global/en-GB/README.md
+[16:49:54] Picture infomations saved to global/en-GB/history/2026/07/25_en-GB.md
+[16:49:54] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-25 18:49:54.580284+02:00
+[16:49:54] Successful get url: https://www.bing.com/th?id=OHR.SardegnaFaro_IT-IT8009785446_UHD.jpg
+[16:49:54] Picture infomations saved to  global/it-IT/README.md
+[16:49:54] Picture infomations saved to global/it-IT/history/2026/07/25_it-IT.md
+[16:49:54] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-25 18:49:54.749179+02:00
+[16:49:54] Successful get url: https://www.bing.com/th?id=OHR.GaliciaBeach_ES-ES2298992138_UHD.jpg
+[16:49:54] Picture infomations saved to  global/es-ES/README.md
+[16:49:54] Picture infomations saved to global/es-ES/history/2026/07/25_es-ES.md
+[16:49:54] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-25 12:49:54.996641-04:00
+[16:49:55] Successful get url: https://www.bing.com/th?id=OHR.GaliciaBeach_FR-CA0091810410_UHD.jpg
+[16:49:55] Picture infomations saved to  global/fr-CA/README.md
+[16:49:55] Picture infomations saved to global/fr-CA/history/2026/07/26_fr-CA.md
+Program exit at 16:49:55
