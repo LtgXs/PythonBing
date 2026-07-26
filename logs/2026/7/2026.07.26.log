@@ -1,0 +1,60 @@
+
+Program started at 10:51:50
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmvrwv9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:51:50] Start geting CN Bing Wallpaper
+[10:51:50] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg
+[10:51:50] Image saved to img/background.jpg
+[10:51:50] Info saved to README.md
+[10:51:50] Image saved to history/2026/07/26.md
+[10:51:50] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-26 06:51:50.547333-04:00
+[10:51:50] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg
+[10:51:50] Picture infomations saved to  global/en-US/README.md
+[10:51:50] Picture infomations saved to global/en-US/history/2026/07/27_en-US.md
+[10:51:50] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-26 19:51:50.841667+09:00
+[10:51:50] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_JA-JP3991738335_UHD.jpg
+[10:51:51] Picture infomations saved to  global/ja-JP/README.md
+[10:51:51] Picture infomations saved to global/ja-JP/history/2026/07/26_ja-JP.md
+[10:51:51] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-26 16:21:51.014555+05:30
+[10:51:51] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-IN9234069771_UHD.jpg
+[10:51:51] Picture infomations saved to  global/en-IN/README.md
+[10:51:51] Picture infomations saved to global/en-IN/history/2026/07/26_en-IN.md
+[10:51:51] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-26 07:51:51.225066-03:00
+[10:51:51] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_PT-BR7414229565_UHD.jpg
+[10:51:51] Picture infomations saved to  global/pt-BR/README.md
+[10:51:51] Picture infomations saved to global/pt-BR/history/2026/07/27_pt-BR.md
+[10:51:51] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-26 12:51:51.546308+02:00
+[10:51:51] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_FR-FR6736116710_UHD.jpg
+[10:51:51] Picture infomations saved to  global/fr-FR/README.md
+[10:51:51] Picture infomations saved to global/fr-FR/history/2026/07/26_fr-FR.md
+[10:51:51] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-26 12:51:51.714237+02:00
+[10:51:51] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_DE-DE1889746547_UHD.jpg
+[10:51:51] Picture infomations saved to  global/de-DE/README.md
+[10:51:51] Picture infomations saved to global/de-DE/history/2026/07/26_de-DE.md
+[10:51:51] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-26 06:51:51.865066-04:00
+[10:51:51] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-CA8849634199_UHD.jpg
+[10:51:52] Picture infomations saved to  global/en-CA/README.md
+[10:51:52] Picture infomations saved to global/en-CA/history/2026/07/27_en-CA.md
+[10:51:52] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-26 11:51:52.075036+01:00
+[10:51:52] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-GB5065847965_UHD.jpg
+[10:51:52] Picture infomations saved to  global/en-GB/README.md
+[10:51:52] Picture infomations saved to global/en-GB/history/2026/07/26_en-GB.md
+[10:51:52] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-26 12:51:52.474540+02:00
+[10:51:52] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_IT-IT8134664377_UHD.jpg
+[10:51:52] Picture infomations saved to  global/it-IT/README.md
+[10:51:52] Picture infomations saved to global/it-IT/history/2026/07/26_it-IT.md
+[10:51:52] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-26 12:51:52.666535+02:00
+[10:51:52] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_ES-ES2463781861_UHD.jpg
+[10:51:52] Picture infomations saved to  global/es-ES/README.md
+[10:51:52] Picture infomations saved to global/es-ES/history/2026/07/26_es-ES.md
+[10:51:52] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-26 06:51:52.841930-04:00
+[10:51:52] Successful get url: https://www.bing.com/th?id=OHR.RedMangroveSunrise_FR-CA1039565076_UHD.jpg
+[10:51:53] Picture infomations saved to  global/fr-CA/README.md
+[10:51:53] Picture infomations saved to global/fr-CA/history/2026/07/27_fr-CA.md
+Program exit at 10:51:53
