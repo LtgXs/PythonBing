@@ -1,0 +1,60 @@
+
+Program started at 12:34:45
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmvrwv9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[12:34:45] Start geting CN Bing Wallpaper
+[12:34:46] Successful get url: https://www.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg
+[12:34:46] Image saved to img/background.jpg
+[12:34:46] Info saved to README.md
+[12:34:46] Image saved to history/2026/07/27.md
+[12:34:46] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-27 08:34:46.150351-04:00
+[12:34:46] Successful get url: https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg
+[12:34:46] Picture infomations saved to  global/en-US/README.md
+[12:34:46] Picture infomations saved to global/en-US/history/2026/07/28_en-US.md
+[12:34:46] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-27 21:34:46.283589+09:00
+[12:34:46] Successful get url: https://www.bing.com/th?id=OHR.ChicagoTiffany_JA-JP4240566318_UHD.jpg
+[12:34:46] Picture infomations saved to  global/ja-JP/README.md
+[12:34:46] Picture infomations saved to global/ja-JP/history/2026/07/27_ja-JP.md
+[12:34:46] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-27 18:04:46.404925+05:30
+[12:34:46] Successful get url: https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-IN9630629960_UHD.jpg
+[12:34:46] Picture infomations saved to  global/en-IN/README.md
+[12:34:46] Picture infomations saved to global/en-IN/history/2026/07/27_en-IN.md
+[12:34:46] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-27 09:34:46.522877-03:00
+[12:34:46] Successful get url: https://www.bing.com/th?id=OHR.ChicagoTiffany_PT-BR8094909459_UHD.jpg
+[12:34:46] Picture infomations saved to  global/pt-BR/README.md
+[12:34:46] Picture infomations saved to global/pt-BR/history/2026/07/28_pt-BR.md
+[12:34:46] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-27 14:34:46.648987+02:00
+[12:34:46] Successful get url: https://www.bing.com/th?id=OHR.VerdonKayaks_FR-FR6935931270_UHD.jpg
+[12:34:46] Picture infomations saved to  global/fr-FR/README.md
+[12:34:46] Picture infomations saved to global/fr-FR/history/2026/07/27_fr-FR.md
+[12:34:46] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-27 14:34:46.767571+02:00
+[12:34:46] Successful get url: https://www.bing.com/th?id=OHR.ChicagoTiffany_DE-DE2141043635_UHD.jpg
+[12:34:46] Picture infomations saved to  global/de-DE/README.md
+[12:34:46] Picture infomations saved to global/de-DE/history/2026/07/27_de-DE.md
+[12:34:46] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-27 08:34:46.881360-04:00
+[12:34:46] Successful get url: https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-CA9232454244_UHD.jpg
+[12:34:46] Picture infomations saved to  global/en-CA/README.md
+[12:34:46] Picture infomations saved to global/en-CA/history/2026/07/28_en-CA.md
+[12:34:46] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-27 13:34:46.997794+01:00
+[12:34:47] Successful get url: https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-GB5292533317_UHD.jpg
+[12:34:47] Picture infomations saved to  global/en-GB/README.md
+[12:34:47] Picture infomations saved to global/en-GB/history/2026/07/27_en-GB.md
+[12:34:47] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-27 14:34:47.129081+02:00
+[12:34:47] Successful get url: https://www.bing.com/th?id=OHR.GaliciaBeach_IT-IT8238080614_UHD.jpg
+[12:34:47] Picture infomations saved to  global/it-IT/README.md
+[12:34:47] Picture infomations saved to global/it-IT/history/2026/07/27_it-IT.md
+[12:34:47] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-27 14:34:47.266530+02:00
+[12:34:47] Successful get url: https://www.bing.com/th?id=OHR.GaliciaSpain_ES-ES2553115650_UHD.jpg
+[12:34:47] Picture infomations saved to  global/es-ES/README.md
+[12:34:47] Picture infomations saved to global/es-ES/history/2026/07/27_es-ES.md
+[12:34:47] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-27 08:34:47.389207-04:00
+[12:34:47] Successful get url: https://www.bing.com/th?id=OHR.ChicagoTiffany_FR-CA0780326864_UHD.jpg
+[12:34:47] Picture infomations saved to  global/fr-CA/README.md
+[12:34:47] Picture infomations saved to global/fr-CA/history/2026/07/28_fr-CA.md
+Program exit at 12:34:47
