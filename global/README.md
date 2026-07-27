@@ -6,9 +6,9 @@
 ||*Copyright: Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)*
 ||
 |||
-|2026-07-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ChicagoTiffany_JA-JP4240566318_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChicagoTiffany_JA-JP4240566318_UHD.jpg)|
-||*Copyright: シカゴ文化センター, 米国 イリノイ州 (© Felix Lipov/Shutterstock)*
+|2026-07-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KaysersbergVillage_JA-JP4774929635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaysersbergVillage_JA-JP4774929635_UHD.jpg)|
+||*Copyright: ケゼルスベール, フランス (© Federica Gentile/Getty Images)*
 ||
 |||
 |2026-07-27|**Region: en-IN**||
