@@ -6,9 +6,9 @@
 ||*Copyright: A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)*
 ||
 |||
-|2026-07-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KaysersbergVillage_JA-JP4774929635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KaysersbergVillage_JA-JP4774929635_UHD.jpg)|
-||*Copyright: ケゼルスベール, フランス (© Federica Gentile/Getty Images)*
+|2026-07-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TigerFamily_JA-JP4965219864_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TigerFamily_JA-JP4965219864_UHD.jpg)|
+||*Copyright: ベンガルトラの家族, インド (© Archna Singh/Shutterstock)*
 ||
 |||
 |2026-07-28|**Region: en-IN**||
