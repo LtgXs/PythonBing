@@ -1,0 +1,60 @@
+
+Program started at 11:31:49
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmvrwv9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:31:49] Start geting CN Bing Wallpaper
+[11:31:49] Successful get url: https://www.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg
+[11:31:50] Image saved to img/background.jpg
+[11:31:50] Info saved to README.md
+[11:31:50] Image saved to history/2026/07/29.md
+[11:31:50] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-29 07:31:50.041862-04:00
+[11:31:50] Successful get url: https://www.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg
+[11:31:50] Picture infomations saved to  global/en-US/README.md
+[11:31:50] Picture infomations saved to global/en-US/history/2026/07/30_en-US.md
+[11:31:50] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-29 20:31:50.294254+09:00
+[11:31:50] Successful get url: https://www.bing.com/th?id=OHR.TigerFamily_JA-JP4965219864_UHD.jpg
+[11:31:50] Picture infomations saved to  global/ja-JP/README.md
+[11:31:50] Picture infomations saved to global/ja-JP/history/2026/07/29_ja-JP.md
+[11:31:50] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-29 17:01:50.505042+05:30
+[11:31:50] Successful get url: https://www.bing.com/th?id=OHR.GuruPurnima2026_EN-IN0332794905_UHD.jpg
+[11:31:50] Picture infomations saved to  global/en-IN/README.md
+[11:31:50] Picture infomations saved to global/en-IN/history/2026/07/29_en-IN.md
+[11:31:50] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-29 08:31:50.717653-03:00
+[11:31:50] Successful get url: https://www.bing.com/th?id=OHR.TigerFamily_PT-BR8805441851_UHD.jpg
+[11:31:50] Picture infomations saved to  global/pt-BR/README.md
+[11:31:50] Picture infomations saved to global/pt-BR/history/2026/07/30_pt-BR.md
+[11:31:50] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-29 13:31:50.907627+02:00
+[11:31:50] Successful get url: https://www.bing.com/th?id=OHR.TigerFamily_FR-FR7284476347_UHD.jpg
+[11:31:51] Picture infomations saved to  global/fr-FR/README.md
+[11:31:51] Picture infomations saved to global/fr-FR/history/2026/07/29_fr-FR.md
+[11:31:51] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-29 13:31:51.195702+02:00
+[11:31:51] Successful get url: https://www.bing.com/th?id=OHR.TigerFamily_DE-DE3531108966_UHD.jpg
+[11:31:51] Picture infomations saved to  global/de-DE/README.md
+[11:31:51] Picture infomations saved to global/de-DE/history/2026/07/29_de-DE.md
+[11:31:51] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-29 07:31:51.382352-04:00
+[11:31:51] Successful get url: https://www.bing.com/th?id=OHR.TigerFamily_EN-CA0136574316_UHD.jpg
+[11:31:51] Picture infomations saved to  global/en-CA/README.md
+[11:31:51] Picture infomations saved to global/en-CA/history/2026/07/30_en-CA.md
+[11:31:51] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-29 12:31:51.626293+01:00
+[11:31:51] Successful get url: https://www.bing.com/th?id=OHR.TigerFamily_EN-GB5813190934_UHD.jpg
+[11:31:51] Picture infomations saved to  global/en-GB/README.md
+[11:31:51] Picture infomations saved to global/en-GB/history/2026/07/29_en-GB.md
+[11:31:51] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-29 13:31:51.818464+02:00
+[11:31:51] Successful get url: https://www.bing.com/th?id=OHR.TigerFamily_IT-IT8529991341_UHD.jpg
+[11:31:52] Picture infomations saved to  global/it-IT/README.md
+[11:31:52] Picture infomations saved to global/it-IT/history/2026/07/29_it-IT.md
+[11:31:52] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-29 13:31:52.015903+02:00
+[11:31:52] Successful get url: https://www.bing.com/th?id=OHR.TigerFamily_ES-ES8935295288_UHD.jpg
+[11:31:52] Picture infomations saved to  global/es-ES/README.md
+[11:31:52] Picture infomations saved to global/es-ES/history/2026/07/29_es-ES.md
+[11:31:52] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-29 07:31:52.246061-04:00
+[11:31:52] Successful get url: https://www.bing.com/th?id=OHR.TigerFamily_FR-CA2238611520_UHD.jpg
+[11:31:52] Picture infomations saved to  global/fr-CA/README.md
+[11:31:52] Picture infomations saved to global/fr-CA/history/2026/07/30_fr-CA.md
+Program exit at 11:31:52
