@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [11:19:18] Picture infomations saved to  global/fr-CA/README.md
 [11:19:18] Picture infomations saved to global/fr-CA/history/2026/07/31_fr-CA.md
 Program exit at 11:19:18
+
+Program started at 17:18:25
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmvrwv9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[17:18:25] Start geting CN Bing Wallpaper
+[17:18:25] Successful get url: https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg
+[17:18:25] Image saved to img/background.jpg
+[17:18:25] Info saved to README.md
+[17:18:25] Image saved to history/2026/07/31.md
+[17:18:25] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-30 13:18:25.238930-04:00
+[17:18:25] Successful get url: https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg
+[17:18:25] Picture infomations saved to  global/en-US/README.md
+[17:18:25] Picture infomations saved to global/en-US/history/2026/07/31_en-US.md
+[17:18:25] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-31 02:18:25.403578+09:00
+[17:18:25] Successful get url: https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_UHD.jpg
+[17:18:25] Picture infomations saved to  global/ja-JP/README.md
+[17:18:25] Picture infomations saved to global/ja-JP/history/2026/07/31_ja-JP.md
+[17:18:25] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-30 22:48:25.670664+05:30
+[17:18:25] Successful get url: https://www.bing.com/th?id=OHR.NavajoNation_EN-IN0765516783_UHD.jpg
+[17:18:25] Picture infomations saved to  global/en-IN/README.md
+[17:18:25] Picture infomations saved to global/en-IN/history/2026/07/30_en-IN.md
+[17:18:25] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-30 14:18:25.825536-03:00
+[17:18:25] Successful get url: https://www.bing.com/th?id=OHR.Furada_PT-BR7092103592_UHD.jpg
+[17:18:26] Picture infomations saved to  global/pt-BR/README.md
+[17:18:26] Picture infomations saved to global/pt-BR/history/2026/07/31_pt-BR.md
+[17:18:26] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-30 19:18:26.118253+02:00
+[17:18:26] Successful get url: https://www.bing.com/th?id=OHR.WildJackalFriends_FR-FR7398331328_UHD.jpg
+[17:18:26] Picture infomations saved to  global/fr-FR/README.md
+[17:18:26] Picture infomations saved to global/fr-FR/history/2026/07/30_fr-FR.md
+[17:18:26] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-30 19:18:26.503033+02:00
+[17:18:26] Successful get url: https://www.bing.com/th?id=OHR.BearBavaria_DE-DE3681217161_UHD.jpg
+[17:18:26] Picture infomations saved to  global/de-DE/README.md
+[17:18:26] Picture infomations saved to global/de-DE/history/2026/07/30_de-DE.md
+[17:18:26] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-30 13:18:26.888191-04:00
+[17:18:26] Successful get url: https://www.bing.com/th?id=OHR.NavajoNation_EN-CA0609244482_UHD.jpg
+[17:18:27] Picture infomations saved to  global/en-CA/README.md
+[17:18:27] Picture infomations saved to global/en-CA/history/2026/07/31_en-CA.md
+[17:18:27] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-30 18:18:27.143745+01:00
+[17:18:27] Successful get url: https://www.bing.com/th?id=OHR.NavajoNation_EN-GB6080318819_UHD.jpg
+[17:18:27] Picture infomations saved to  global/en-GB/README.md
+[17:18:27] Picture infomations saved to global/en-GB/history/2026/07/30_en-GB.md
+[17:18:27] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-30 19:18:27.387033+02:00
+[17:18:27] Successful get url: https://www.bing.com/th?id=OHR.NavajoNation_IT-IT8632328338_UHD.jpg
+[17:18:27] Picture infomations saved to  global/it-IT/README.md
+[17:18:27] Picture infomations saved to global/it-IT/history/2026/07/30_it-IT.md
+[17:18:27] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-30 19:18:27.669736+02:00
+[17:18:27] Successful get url: https://www.bing.com/th?id=OHR.NavajoNation_ES-ES2923536313_UHD.jpg
+[17:18:27] Picture infomations saved to  global/es-ES/README.md
+[17:18:27] Picture infomations saved to global/es-ES/history/2026/07/30_es-ES.md
+[17:18:27] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-30 13:18:27.927709-04:00
+[17:18:27] Successful get url: https://www.bing.com/th?id=OHR.MaraCrossing_FR-CA1991901639_UHD.jpg
+[17:18:28] Picture infomations saved to  global/fr-CA/README.md
+[17:18:28] Picture infomations saved to global/fr-CA/history/2026/07/31_fr-CA.md
+Program exit at 17:18:28

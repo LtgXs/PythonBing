@@ -6,9 +6,9 @@
 ||*Copyright: Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)*
 ||
 |||
-|2026-07-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NavajoNation_JA-JP5174852282_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NavajoNation_JA-JP5174852282_UHD.jpg)|
-||*Copyright: モニュメント・バレー, 米国 アリゾナ州 (© Westend61/Adobe Stock)*
+|2026-07-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_UHD.jpg)|
+||*Copyright: バージニア・クリーパー・トレイル, 米国 バージニア州 (© Eifel Kreutz/Getty Images)*
 ||
 |||
 |2026-07-30|**Region: en-IN**||
