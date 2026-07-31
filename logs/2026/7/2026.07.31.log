@@ -1,0 +1,60 @@
+
+Program started at 11:33:56
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmvrwv9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[11:33:56] Start geting CN Bing Wallpaper
+[11:33:57] Successful get url: https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg
+[11:33:57] Image saved to img/background.jpg
+[11:33:57] Info saved to README.md
+[11:33:57] Image saved to history/2026/07/31.md
+[11:33:57] Start geting global Bing Wallpaper, region=en-US, local time is 2026-07-31 07:33:57.346580-04:00
+[11:33:57] Successful get url: https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg
+[11:33:57] Picture infomations saved to  global/en-US/README.md
+[11:33:57] Picture infomations saved to global/en-US/history/2026/08/01_en-US.md
+[11:33:57] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-07-31 20:33:57.735176+09:00
+[11:33:57] Successful get url: https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_UHD.jpg
+[11:33:58] Picture infomations saved to  global/ja-JP/README.md
+[11:33:58] Picture infomations saved to global/ja-JP/history/2026/07/31_ja-JP.md
+[11:33:58] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-07-31 17:03:58.128954+05:30
+[11:33:58] Successful get url: https://www.bing.com/th?id=OHR.VirginiaTrail_EN-IN1200650554_UHD.jpg
+[11:33:58] Picture infomations saved to  global/en-IN/README.md
+[11:33:58] Picture infomations saved to global/en-IN/history/2026/07/31_en-IN.md
+[11:33:58] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-07-31 08:33:58.478862-03:00
+[11:33:58] Successful get url: https://www.bing.com/th?id=OHR.VirginiaTrail_PT-BR9310516852_UHD.jpg
+[11:33:58] Picture infomations saved to  global/pt-BR/README.md
+[11:33:58] Picture infomations saved to global/pt-BR/history/2026/08/01_pt-BR.md
+[11:33:58] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-07-31 13:33:58.904109+02:00
+[11:33:58] Successful get url: https://www.bing.com/th?id=OHR.VirginiaTrail_FR-FR7594645617_UHD.jpg
+[11:33:59] Picture infomations saved to  global/fr-FR/README.md
+[11:33:59] Picture infomations saved to global/fr-FR/history/2026/07/31_fr-FR.md
+[11:33:59] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-07-31 13:33:59.655987+02:00
+[11:33:59] Successful get url: https://www.bing.com/th?id=OHR.VirginiaTrail_DE-DE3922991438_UHD.jpg
+[11:34:00] Picture infomations saved to  global/de-DE/README.md
+[11:34:00] Picture infomations saved to global/de-DE/history/2026/07/31_de-DE.md
+[11:34:00] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-07-31 07:34:00.058517-04:00
+[11:34:00] Successful get url: https://www.bing.com/th?id=OHR.VirginiaTrail_EN-CA9063701239_UHD.jpg
+[11:34:00] Picture infomations saved to  global/en-CA/README.md
+[11:34:00] Picture infomations saved to global/en-CA/history/2026/08/01_en-CA.md
+[11:34:00] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-07-31 12:34:00.440977+01:00
+[11:34:00] Successful get url: https://www.bing.com/th?id=OHR.VirginiaTrail_EN-GB6394833598_UHD.jpg
+[11:34:00] Picture infomations saved to  global/en-GB/README.md
+[11:34:00] Picture infomations saved to global/en-GB/history/2026/07/31_en-GB.md
+[11:34:00] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-07-31 13:34:00.869694+02:00
+[11:34:00] Successful get url: https://www.bing.com/th?id=OHR.IsoleEolie_IT-IT8736401041_UHD.jpg
+[11:34:01] Picture infomations saved to  global/it-IT/README.md
+[11:34:01] Picture infomations saved to global/it-IT/history/2026/07/31_it-IT.md
+[11:34:01] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-07-31 13:34:01.278371+02:00
+[11:34:01] Successful get url: https://www.bing.com/th?id=OHR.DeltaEbro_ES-ES3023885514_UHD.jpg
+[11:34:01] Picture infomations saved to  global/es-ES/README.md
+[11:34:01] Picture infomations saved to global/es-ES/history/2026/07/31_es-ES.md
+[11:34:01] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-07-31 07:34:01.676573-04:00
+[11:34:01] Successful get url: https://www.bing.com/th?id=OHR.VirginiaTrail_FR-CA3929932573_UHD.jpg
+[11:34:02] Picture infomations saved to  global/fr-CA/README.md
+[11:34:02] Picture infomations saved to global/fr-CA/history/2026/08/01_fr-CA.md
+Program exit at 11:34:02

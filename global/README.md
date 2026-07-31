@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-07-31|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg)|
-||*Copyright: Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)*
+|2026-08-01|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg)|
+||*Copyright: Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)*
 ||
 |||
 |2026-07-31|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: バージニア・クリーパー・トレイル, 米国 バージニア州 (© Eifel Kreutz/Getty Images)*
 ||
 |||
-|2026-07-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.NavajoNation_EN-IN0765516783_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NavajoNation_EN-IN0765516783_UHD.jpg)|
-||*Copyright: Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)*
+|2026-07-31|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-IN1200650554_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-IN1200650554_UHD.jpg)|
+||*Copyright: Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)*
 ||
 |||
-|2026-07-31|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Furada_PT-BR7092103592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Furada_PT-BR7092103592_UHD.jpg)|
-||*Copyright: Pedra Furada em Jericoacoara, Ceará (© Brendan van Son/Shutterstock)*
+|2026-08-01|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.VirginiaTrail_PT-BR9310516852_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VirginiaTrail_PT-BR9310516852_UHD.jpg)|
+||*Copyright: Vista aérea da Virginia Creeper Trail, Damascus, Virgínia, Estados Unidos (© Eifel Kreutz/Getty Images)*
 ||
 |||
-|2026-07-30|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.WildJackalFriends_FR-FR7398331328_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildJackalFriends_FR-FR7398331328_UHD.jpg)|
-||*Copyright: Jeunes chacals sauvages dans le Bushveld, Afrique du Sud (© Jeff R Clow/Getty Images)*
+|2026-07-31|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.VirginiaTrail_FR-FR7594645617_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VirginiaTrail_FR-FR7594645617_UHD.jpg)|
+||*Copyright: Vue aérienne du sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis (© Eifel Kreutz/Getty Images)*
 ||
 |||
-|2026-07-30|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BearBavaria_DE-DE3681217161_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BearBavaria_DE-DE3681217161_UHD.jpg)|
-||*Copyright: Braunbärenjunges auf einem Felsen, Bayern (© Raimund Linke/Getty Images)*
+|2026-07-31|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.VirginiaTrail_DE-DE3922991438_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VirginiaTrail_DE-DE3922991438_UHD.jpg)|
+||*Copyright: Luftaufnahme des Virginia Creeper Trail in Damascus, Virginia, USA (© Eifel Kreutz/Getty Images)*
 ||
 |||
-|2026-07-31|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.NavajoNation_EN-CA0609244482_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NavajoNation_EN-CA0609244482_UHD.jpg)|
-||*Copyright: Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)*
+|2026-08-01|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-CA9063701239_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-CA9063701239_UHD.jpg)|
+||*Copyright: Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)*
 ||
 |||
-|2026-07-30|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.NavajoNation_EN-GB6080318819_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NavajoNation_EN-GB6080318819_UHD.jpg)|
-||*Copyright: Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)*
+|2026-07-31|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-GB6394833598_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-GB6394833598_UHD.jpg)|
+||*Copyright: Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)*
 ||
 |||
-|2026-07-30|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.NavajoNation_IT-IT8632328338_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NavajoNation_IT-IT8632328338_UHD.jpg)|
-||*Copyright: Monument Valley, Nazione Navajo, Arizona, USA (© Westend61/Adobe Stock)*
+|2026-07-31|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.IsoleEolie_IT-IT8736401041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IsoleEolie_IT-IT8736401041_UHD.jpg)|
+||*Copyright: Cielo colorato al tramonto sopra barche a vela ormeggiate, Isole Eolie, Messina, Sicilia, Italia (© Paolo Graziosi/E+/Getty Images)*
 ||
 |||
-|2026-07-30|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.NavajoNation_ES-ES2923536313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NavajoNation_ES-ES2923536313_UHD.jpg)|
-||*Copyright: El Valle de los Monumentos, Nación Navajo, Arizona, EE. UU. (© Westend61/Adobe Stock)*
+|2026-07-31|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.DeltaEbro_ES-ES3023885514_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DeltaEbro_ES-ES3023885514_UHD.jpg)|
+||*Copyright: Flamencos en el Delta del Ebro, Tarragona, España (© mafrmcfa/Getty Images)*
 ||
 |||
-|2026-07-31|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.MaraCrossing_FR-CA1991901639_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaraCrossing_FR-CA1991901639_UHD.jpg)|
-||*Copyright: Gnous migrateurs traversant la rivière Mara dans la réserve de Masai Mara, au Kenya (© Manoj Shah/Getty Images)*
+|2026-08-01|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.VirginiaTrail_FR-CA3929932573_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VirginiaTrail_FR-CA3929932573_UHD.jpg)|
+||*Copyright: Vue aérienne du sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis (© Eifel Kreutz/Getty Images)*
 ||
 |||
 
