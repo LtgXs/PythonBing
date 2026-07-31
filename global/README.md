@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)*
 ||
 |||
-|2026-07-31|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_UHD.jpg)|
-||*Copyright: バージニア・クリーパー・トレイル, 米国 バージニア州 (© Eifel Kreutz/Getty Images)*
+|2026-08-01|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_UHD.jpg)|
+||*Copyright: 変わり種の金魚ねぷた, 青森県 弘前市 (© David Parker/Alamy)*
 ||
 |||
 |2026-07-31|**Region: en-IN**||
