@@ -6,9 +6,9 @@
 ||*Copyright: A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)*
 ||
 |||
-|2026-08-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_UHD.jpg)|
-||*Copyright: 変わり種の金魚ねぷた, 青森県 弘前市 (© David Parker/Alamy)*
+|2026-08-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_UHD.jpg)|
+||*Copyright: ヘルシンキ, フィンランド (© Miemo Penttinen/Getty Images)*
 ||
 |||
 |2026-08-01|**Region: en-IN**||
