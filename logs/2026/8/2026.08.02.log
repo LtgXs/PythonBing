@@ -1,0 +1,60 @@
+
+Program started at 10:47:55
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmvrwv9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:47:55] Start geting CN Bing Wallpaper
+[10:47:55] Successful get url: https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg
+[10:47:55] Image saved to img/background.jpg
+[10:47:55] Info saved to README.md
+[10:47:55] Image saved to history/2026/08/02.md
+[10:47:55] Start geting global Bing Wallpaper, region=en-US, local time is 2026-08-02 06:47:55.790145-04:00
+[10:47:55] Successful get url: https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg
+[10:47:55] Picture infomations saved to  global/en-US/README.md
+[10:47:55] Picture infomations saved to global/en-US/history/2026/08/03_en-US.md
+[10:47:55] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-08-02 19:47:55.987672+09:00
+[10:47:56] Successful get url: https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_UHD.jpg
+[10:47:56] Picture infomations saved to  global/ja-JP/README.md
+[10:47:56] Picture infomations saved to global/ja-JP/history/2026/08/02_ja-JP.md
+[10:47:56] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-08-02 16:17:56.181504+05:30
+[10:47:56] Successful get url: https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-IN2064439087_UHD.jpg
+[10:47:56] Picture infomations saved to  global/en-IN/README.md
+[10:47:56] Picture infomations saved to global/en-IN/history/2026/08/02_en-IN.md
+[10:47:56] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-08-02 07:47:56.414597-03:00
+[10:47:56] Successful get url: https://www.bing.com/th?id=OHR.HelsinkiBlue_PT-BR0340824647_UHD.jpg
+[10:47:56] Picture infomations saved to  global/pt-BR/README.md
+[10:47:56] Picture infomations saved to global/pt-BR/history/2026/08/03_pt-BR.md
+[10:47:56] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-08-02 12:47:56.607260+02:00
+[10:47:56] Successful get url: https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-FR8717266334_UHD.jpg
+[10:47:56] Picture infomations saved to  global/fr-FR/README.md
+[10:47:56] Picture infomations saved to global/fr-FR/history/2026/08/02_fr-FR.md
+[10:47:56] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-08-02 12:47:56.826590+02:00
+[10:47:56] Successful get url: https://www.bing.com/th?id=OHR.HelsinkiBlue_DE-DE4461850043_UHD.jpg
+[10:47:57] Picture infomations saved to  global/de-DE/README.md
+[10:47:57] Picture infomations saved to global/de-DE/history/2026/08/02_de-DE.md
+[10:47:57] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-08-02 06:47:57.040458-04:00
+[10:47:57] Successful get url: https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-CA2592660505_UHD.jpg
+[10:47:57] Picture infomations saved to  global/en-CA/README.md
+[10:47:57] Picture infomations saved to global/en-CA/history/2026/08/03_en-CA.md
+[10:47:57] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-08-02 11:47:57.216696+01:00
+[10:47:57] Successful get url: https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-GB6980168660_UHD.jpg
+[10:47:57] Picture infomations saved to  global/en-GB/README.md
+[10:47:57] Picture infomations saved to global/en-GB/history/2026/08/02_en-GB.md
+[10:47:57] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-08-02 12:47:57.422294+02:00
+[10:47:57] Successful get url: https://www.bing.com/th?id=OHR.HelsinkiBlue_IT-IT9429337121_UHD.jpg
+[10:47:57] Picture infomations saved to  global/it-IT/README.md
+[10:47:57] Picture infomations saved to global/it-IT/history/2026/08/02_it-IT.md
+[10:47:57] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-08-02 12:47:57.623871+02:00
+[10:47:57] Successful get url: https://www.bing.com/th?id=OHR.HelsinkiBlue_ES-ES3341783633_UHD.jpg
+[10:47:57] Picture infomations saved to  global/es-ES/README.md
+[10:47:57] Picture infomations saved to global/es-ES/history/2026/08/02_es-ES.md
+[10:47:57] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-08-02 06:47:57.808244-04:00
+[10:47:57] Successful get url: https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-CA4418500007_UHD.jpg
+[10:47:58] Picture infomations saved to  global/fr-CA/README.md
+[10:47:58] Picture infomations saved to global/fr-CA/history/2026/08/03_fr-CA.md
+Program exit at 10:47:58
