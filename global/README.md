@@ -6,9 +6,9 @@
 ||*Copyright: Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)*
 ||
 |||
-|2026-08-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_UHD.jpg)|
-||*Copyright: ヘルシンキ, フィンランド (© Miemo Penttinen/Getty Images)*
+|2026-08-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242_UHD.jpg)|
+||*Copyright: マルサシュロック, マルタ (© Klubovy/Getty Images)*
 ||
 |||
 |2026-08-02|**Region: en-IN**||
