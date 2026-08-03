@@ -6,9 +6,9 @@
 ||*Copyright: Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)*
 ||
 |||
-|2026-08-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242_UHD.jpg)|
-||*Copyright: マルサシュロック, マルタ (© Klubovy/Getty Images)*
+|2026-08-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AdorableOwlet_JA-JP7246946497_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AdorableOwlet_JA-JP7246946497_UHD.jpg)|
+||*Copyright: アナホリフクロウのひな, 米国 フロリダ州 (© mlorenzphotography/Getty Images)*
 ||
 |||
 |2026-08-03|**Region: en-IN**||
