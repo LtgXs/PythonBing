@@ -1,59 +1,59 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-08-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg)|
-||*Copyright: Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)*
+|2026-08-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg)|
+||*Copyright: Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)*
 ||
 |||
-|2026-08-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FezMorocco_JA-JP7567982886_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FezMorocco_JA-JP7567982886_UHD.jpg)|
-||*Copyright: フェズ王宮, モロッコ (© cgst26/Shutterstock)*
+|2026-08-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397_UHD.jpg)|
+||*Copyright: 広島平和記念公園のとうろう流し, 広島県 広島市 (© Buddhika Weerasinghe/Stringer/Getty Images)*
 ||
 |||
-|2026-08-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FezMorocco_EN-IN3277799020_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FezMorocco_EN-IN3277799020_UHD.jpg)|
-||*Copyright: Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)*
+|2026-08-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MaraCrossing_EN-IN3635876531_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaraCrossing_EN-IN3635876531_UHD.jpg)|
+||*Copyright: Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)*
 ||
 |||
-|2026-08-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FezMorocco_PT-BR3389215453_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FezMorocco_PT-BR3389215453_UHD.jpg)|
-||*Copyright: Porta decorada do Palácio Real de Fez, Marrocos (© cgst26/Shutterstock)*
+|2026-08-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MaraCrossing_PT-BR3865870931_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaraCrossing_PT-BR3865870931_UHD.jpg)|
+||*Copyright: Migração de gnus cruzando o Rio Mara na Reserva Nacional Masai Mara, Quênia (© Manoj Shah/Getty Images)*
 ||
 |||
-|2026-08-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FezMorocco_FR-FR8577168535_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FezMorocco_FR-FR8577168535_UHD.jpg)|
-||*Copyright: Porte décorée du Palais Royal de Fès, Maroc (© cgst26/Shutterstock)*
+|2026-08-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MaraCrossing_FR-FR8762325537_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaraCrossing_FR-FR8762325537_UHD.jpg)|
+||*Copyright: Gnous migrateurs traversant la rivière Mara dans la réserve de Masai Mara, au Kenya (© Manoj Shah/Getty Images)*
 ||
 |||
-|2026-08-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FezMorocco_DE-DE5645521719_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FezMorocco_DE-DE5645521719_UHD.jpg)|
-||*Copyright: Verziertes Tor des Königspalasts von Fès, Marokko (© cgst26/Shutterstock)*
+|2026-08-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MaraCrossing_DE-DE5747320047_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaraCrossing_DE-DE5747320047_UHD.jpg)|
+||*Copyright: Gnuherden überqueren den Mara-Fluss in der Masai Mara, Kenia (© Manoj Shah/Getty Images)*
 ||
 |||
-|2026-08-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FezMorocco_EN-CA4182192708_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FezMorocco_EN-CA4182192708_UHD.jpg)|
-||*Copyright: Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)*
+|2026-08-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.EDMFolkFest_EN-CA4302918547_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EDMFolkFest_EN-CA4302918547_UHD.jpg)|
+||*Copyright: Edmonton at night, Alberta (© Tetyana Babiy/iStock/Getty Images)*
 ||
 |||
-|2026-08-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FezMorocco_EN-GB7904978053_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FezMorocco_EN-GB7904978053_UHD.jpg)|
-||*Copyright: Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)*
+|2026-08-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.MaraCrossing_EN-GB8480696688_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaraCrossing_EN-GB8480696688_UHD.jpg)|
+||*Copyright: Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)*
 ||
 |||
-|2026-08-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FezMorocco_IT-IT9988975389_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FezMorocco_IT-IT9988975389_UHD.jpg)|
-||*Copyright: Porta decorata del Palazzo Reale di Fès, Marocco (© cgst26/Shutterstock)*
+|2026-08-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.MaraCrossing_IT-IT0069962871_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaraCrossing_IT-IT0069962871_UHD.jpg)|
+||*Copyright: Gnu migratori che attraversano il fiume Mara a Masai Mara, Kenya (© Manoj Shah/Getty Images)*
 ||
 |||
-|2026-08-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FezMorocco_ES-ES3693583012_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FezMorocco_ES-ES3693583012_UHD.jpg)|
-||*Copyright: Puerta decorada del Palacio Real de Fez, Marruecos (© cgst26/Shutterstock)*
+|2026-08-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MaraCrossing_ES-ES3801561108_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaraCrossing_ES-ES3801561108_UHD.jpg)|
+||*Copyright: Ñus migratorios cruzando el río Mara en Masai Mara, Kenia (© Manoj Shah/Getty Images)*
 ||
 |||
-|2026-08-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FezMorocco_FR-CA4909492278_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FezMorocco_FR-CA4909492278_UHD.jpg)|
-||*Copyright: Porte décorée du Palais Royal de Fès, Maroc (© cgst26/Shutterstock)*
+|2026-08-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.EDMFolkFest_FR-CA2482532216_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EDMFolkFest_FR-CA2482532216_UHD.jpg)|
+||*Copyright: Edmonton la nuit, Alberta (© Tetyana Babiy/iStock/Getty Images)*
 ||
 |||
 
