@@ -6,9 +6,9 @@
 ||*Copyright: Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)*
 ||
 |||
-|2026-08-07|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LimeKiln_JA-JP2506397292_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LimeKiln_JA-JP2506397292_UHD.jpg)|
-||*Copyright: ライム・キルン灯台, 米国 ワシントン州 (© Edmund Lowe Photography/Shutterstock)*
+|2026-08-08|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.StocktonInfinity_JA-JP6357248728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StocktonInfinity_JA-JP6357248728_UHD.jpg)|
+||*Copyright: インフィニティ・ブリッジ, イングランド (© Bahadir Yeniceri/Shutterstock)*
 ||
 |||
 |2026-08-07|**Region: en-IN**||
