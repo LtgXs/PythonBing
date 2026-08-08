@@ -6,9 +6,9 @@
 ||*Copyright: Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)*
 ||
 |||
-|2026-08-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.StocktonInfinity_JA-JP6357248728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StocktonInfinity_JA-JP6357248728_UHD.jpg)|
-||*Copyright: インフィニティ・ブリッジ, イングランド (© Bahadir Yeniceri/Shutterstock)*
+|2026-08-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.JMTjibaou_JA-JP3637480935_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JMTjibaou_JA-JP3637480935_UHD.jpg)|
+||*Copyright: チバウ文化センター, ニューカレドニア (© Fabien Astre/Alamy)*
 ||
 |||
 |2026-08-08|**Region: en-IN**||
