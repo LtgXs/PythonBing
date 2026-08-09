@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-08-09|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg)|
-||*Copyright: Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)*
+|2026-08-10|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg)|
+||*Copyright: Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)*
 ||
 |||
 |2026-08-09|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: チバウ文化センター, ニューカレドニア (© Fabien Astre/Alamy)*
 ||
 |||
-|2026-08-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-IN0551257871_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-IN0551257871_UHD.jpg)|
-||*Copyright: Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)*
+|2026-08-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.JMTjibaou_EN-IN0674088225_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JMTjibaou_EN-IN0674088225_UHD.jpg)|
+||*Copyright: Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)*
 ||
 |||
-|2026-08-09|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.StocktonInfinity_PT-BR1264731427_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StocktonInfinity_PT-BR1264731427_UHD.jpg)|
-||*Copyright: Infinity Bridge, Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)*
+|2026-08-10|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.JMTjibaou_PT-BR1657011012_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JMTjibaou_PT-BR1657011012_UHD.jpg)|
+||*Copyright: Centro Cultural Jean-Marie Tjibaou, Nouméa, Nova Caledônia (© Fabien Astre/Alamy)*
 ||
 |||
-|2026-08-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ClothesBarjols_FR-FR4425384248_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ClothesBarjols_FR-FR4425384248_UHD.jpg)|
-||*Copyright: Du linge qui sèche aux fenêtres d’une maison, Barjols, Var, Provence-Alpes-Côtes d'Azur (© mammuth/Getty Images)*
+|2026-08-09|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.JMTjibaou_FR-FR6204350565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JMTjibaou_FR-FR6204350565_UHD.jpg)|
+||*Copyright: Centre culturel Tjibaou, Nouvelle-Calédonie (© Fabien Astre/Alamy)*
 ||
 |||
-|2026-08-08|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.RhineFlames_DE-DE7527393403_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RhineFlames_DE-DE7527393403_UHD.jpg)|
-||*Copyright: Rhein in Flammen vor Schloss Stolzenfels bei Koblenz, Rheinland-Pfalz (© Jule_Berlin/Shutterstock)*
+|2026-08-09|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.JMTjibaou_DE-DE7677372250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JMTjibaou_DE-DE7677372250_UHD.jpg)|
+||*Copyright: Tjibaou-Kulturzentrum, Neukaledonien (© Fabien Astre/Alamy)*
 ||
 |||
-|2026-08-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-CA4539873012_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-CA4539873012_UHD.jpg)|
-||*Copyright: Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)*
+|2026-08-10|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.JMTjibaou_EN-CA4738460132_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JMTjibaou_EN-CA4738460132_UHD.jpg)|
+||*Copyright: Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)*
 ||
 |||
-|2026-08-08|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-GB3847788744_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-GB3847788744_UHD.jpg)|
-||*Copyright: Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)*
+|2026-08-09|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.JMTjibaou_EN-GB3964962434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JMTjibaou_EN-GB3964962434_UHD.jpg)|
+||*Copyright: Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)*
 ||
 |||
-|2026-08-08|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.StocktonInfinity_IT-IT2789649837_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StocktonInfinity_IT-IT2789649837_UHD.jpg)|
-||*Copyright: Ponte dell'Infinito a Stockton-on-Tees, Inghilterra (© Bahadir Yeniceri/Shutterstock)*
+|2026-08-09|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.JMTjibaou_IT-IT2902729380_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JMTjibaou_IT-IT2902729380_UHD.jpg)|
+||*Copyright: Jean-Marie Tjibaou Cultural Centre, Nuova Caledonia (© Fabien Astre/Alamy)*
 ||
 |||
-|2026-08-08|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.StocktonInfinity_ES-ES5321261606_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StocktonInfinity_ES-ES5321261606_UHD.jpg)|
-||*Copyright: Puente del Infinito en Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)*
+|2026-08-09|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.JMTjibaou_ES-ES9350648651_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JMTjibaou_ES-ES9350648651_UHD.jpg)|
+||*Copyright: Centro Cultural Jean-Marie Tjibaou, Nueva Caledonia (© Fabien Astre/Alamy)*
 ||
 |||
-|2026-08-09|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.StocktonInfinity_FR-CA3431140548_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StocktonInfinity_FR-CA3431140548_UHD.jpg)|
-||*Copyright: L’Infinity Bridge à Stockton-on-Tees, Angleterre (© Bahadir Yeniceri/Shutterstock)*
+|2026-08-10|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.JMTjibaou_FR-CA3860969701_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JMTjibaou_FR-CA3860969701_UHD.jpg)|
+||*Copyright: Centre culturel Tjibaou, Nouvelle-Calédonie (© Fabien Astre/Alamy)*
 ||
 |||
 
