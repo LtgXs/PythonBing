@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:53:07] Picture infomations saved to  global/fr-CA/README.md
 [09:53:07] Picture infomations saved to global/fr-CA/history/2026/08/10_fr-CA.md
 Program exit at 09:53:07
+
+Program started at 16:25:42
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmvrwv9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:25:42] Start geting CN Bing Wallpaper
+[16:25:42] Successful get url: https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg
+[16:25:42] Image saved to img/background.jpg
+[16:25:42] Info saved to README.md
+[16:25:42] Image saved to history/2026/08/10.md
+[16:25:42] Start geting global Bing Wallpaper, region=en-US, local time is 2026-08-09 12:25:42.643741-04:00
+[16:25:42] Successful get url: https://www.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg
+[16:25:42] Picture infomations saved to  global/en-US/README.md
+[16:25:42] Picture infomations saved to global/en-US/history/2026/08/10_en-US.md
+[16:25:42] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-08-10 01:25:42.855608+09:00
+[16:25:42] Successful get url: https://www.bing.com/th?id=OHR.ColorfulCop_JA-JP4331289983_UHD.jpg
+[16:25:43] Picture infomations saved to  global/ja-JP/README.md
+[16:25:43] Picture infomations saved to global/ja-JP/history/2026/08/10_ja-JP.md
+[16:25:43] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-08-09 21:55:43.062713+05:30
+[16:25:43] Successful get url: https://www.bing.com/th?id=OHR.JMTjibaou_EN-IN0674088225_UHD.jpg
+[16:25:43] Picture infomations saved to  global/en-IN/README.md
+[16:25:43] Picture infomations saved to global/en-IN/history/2026/08/09_en-IN.md
+[16:25:43] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-08-09 13:25:43.268397-03:00
+[16:25:43] Successful get url: https://www.bing.com/th?id=OHR.JMTjibaou_PT-BR1657011012_UHD.jpg
+[16:25:43] Picture infomations saved to  global/pt-BR/README.md
+[16:25:43] Picture infomations saved to global/pt-BR/history/2026/08/10_pt-BR.md
+[16:25:43] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-08-09 18:25:43.441625+02:00
+[16:25:43] Successful get url: https://www.bing.com/th?id=OHR.JMTjibaou_FR-FR6204350565_UHD.jpg
+[16:25:43] Picture infomations saved to  global/fr-FR/README.md
+[16:25:43] Picture infomations saved to global/fr-FR/history/2026/08/09_fr-FR.md
+[16:25:43] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-08-09 18:25:43.646436+02:00
+[16:25:43] Successful get url: https://www.bing.com/th?id=OHR.JMTjibaou_DE-DE7677372250_UHD.jpg
+[16:25:43] Picture infomations saved to  global/de-DE/README.md
+[16:25:43] Picture infomations saved to global/de-DE/history/2026/08/09_de-DE.md
+[16:25:43] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-08-09 12:25:43.934588-04:00
+[16:25:44] Successful get url: https://www.bing.com/th?id=OHR.JMTjibaou_EN-CA4738460132_UHD.jpg
+[16:25:44] Picture infomations saved to  global/en-CA/README.md
+[16:25:44] Picture infomations saved to global/en-CA/history/2026/08/10_en-CA.md
+[16:25:44] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-08-09 17:25:44.206073+01:00
+[16:25:44] Successful get url: https://www.bing.com/th?id=OHR.JMTjibaou_EN-GB3964962434_UHD.jpg
+[16:25:44] Picture infomations saved to  global/en-GB/README.md
+[16:25:44] Picture infomations saved to global/en-GB/history/2026/08/09_en-GB.md
+[16:25:44] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-08-09 18:25:44.399077+02:00
+[16:25:44] Successful get url: https://www.bing.com/th?id=OHR.JMTjibaou_IT-IT2902729380_UHD.jpg
+[16:25:44] Picture infomations saved to  global/it-IT/README.md
+[16:25:44] Picture infomations saved to global/it-IT/history/2026/08/09_it-IT.md
+[16:25:44] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-08-09 18:25:44.608513+02:00
+[16:25:44] Successful get url: https://www.bing.com/th?id=OHR.JMTjibaou_ES-ES9350648651_UHD.jpg
+[16:25:44] Picture infomations saved to  global/es-ES/README.md
+[16:25:44] Picture infomations saved to global/es-ES/history/2026/08/09_es-ES.md
+[16:25:44] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-08-09 12:25:44.835398-04:00
+[16:25:44] Successful get url: https://www.bing.com/th?id=OHR.JMTjibaou_FR-CA3860969701_UHD.jpg
+[16:25:45] Picture infomations saved to  global/fr-CA/README.md
+[16:25:45] Picture infomations saved to global/fr-CA/history/2026/08/10_fr-CA.md
+Program exit at 16:25:45

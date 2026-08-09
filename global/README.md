@@ -6,9 +6,9 @@
 ||*Copyright: Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)*
 ||
 |||
-|2026-08-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.JMTjibaou_JA-JP3637480935_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JMTjibaou_JA-JP3637480935_UHD.jpg)|
-||*Copyright: チバウ文化センター, ニューカレドニア (© Fabien Astre/Alamy)*
+|2026-08-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ColorfulCop_JA-JP4331289983_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulCop_JA-JP4331289983_UHD.jpg)|
+||*Copyright: ニューハウン, デンマーク (© emicristea/Getty Images)*
 ||
 |||
 |2026-08-09|**Region: en-IN**||
