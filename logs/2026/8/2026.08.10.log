@@ -1,0 +1,60 @@
+
+Program started at 10:34:11
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmvrwv9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:34:11] Start geting CN Bing Wallpaper
+[10:34:12] Successful get url: https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg
+[10:34:12] Image saved to img/background.jpg
+[10:34:12] Info saved to README.md
+[10:34:12] Image saved to history/2026/08/10.md
+[10:34:12] Start geting global Bing Wallpaper, region=en-US, local time is 2026-08-10 06:34:12.188201-04:00
+[10:34:12] Successful get url: https://www.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg
+[10:34:12] Picture infomations saved to  global/en-US/README.md
+[10:34:12] Picture infomations saved to global/en-US/history/2026/08/11_en-US.md
+[10:34:12] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-08-10 19:34:12.376710+09:00
+[10:34:12] Successful get url: https://www.bing.com/th?id=OHR.ColorfulCop_JA-JP4331289983_UHD.jpg
+[10:34:12] Picture infomations saved to  global/ja-JP/README.md
+[10:34:12] Picture infomations saved to global/ja-JP/history/2026/08/10_ja-JP.md
+[10:34:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-08-10 16:04:12.523265+05:30
+[10:34:12] Successful get url: https://www.bing.com/th?id=OHR.SandPath_EN-IN0786758834_UHD.jpg
+[10:34:12] Picture infomations saved to  global/en-IN/README.md
+[10:34:12] Picture infomations saved to global/en-IN/history/2026/08/10_en-IN.md
+[10:34:12] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-08-10 07:34:12.773238-03:00
+[10:34:12] Successful get url: https://www.bing.com/th?id=OHR.Golfinhos_PT-BR2634808905_UHD.jpg
+[10:34:13] Picture infomations saved to  global/pt-BR/README.md
+[10:34:13] Picture infomations saved to global/pt-BR/history/2026/08/11_pt-BR.md
+[10:34:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-08-10 12:34:13.334238+02:00
+[10:34:13] Successful get url: https://www.bing.com/th?id=OHR.SandPath_FR-FR7702357138_UHD.jpg
+[10:34:13] Picture infomations saved to  global/fr-FR/README.md
+[10:34:13] Picture infomations saved to global/fr-FR/history/2026/08/10_fr-FR.md
+[10:34:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-08-10 12:34:13.514999+02:00
+[10:34:13] Successful get url: https://www.bing.com/th?id=OHR.SandPath_DE-DE5965414761_UHD.jpg
+[10:34:13] Picture infomations saved to  global/de-DE/README.md
+[10:34:13] Picture infomations saved to global/de-DE/history/2026/08/10_de-DE.md
+[10:34:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-08-10 06:34:13.683160-04:00
+[10:34:13] Successful get url: https://www.bing.com/th?id=OHR.SandPath_EN-CA4913487409_UHD.jpg
+[10:34:13] Picture infomations saved to  global/en-CA/README.md
+[10:34:13] Picture infomations saved to global/en-CA/history/2026/08/11_en-CA.md
+[10:34:13] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-08-10 11:34:13.885897+01:00
+[10:34:13] Successful get url: https://www.bing.com/th?id=OHR.SandPath_EN-GB4047990489_UHD.jpg
+[10:34:14] Picture infomations saved to  global/en-GB/README.md
+[10:34:14] Picture infomations saved to global/en-GB/history/2026/08/10_en-GB.md
+[10:34:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-08-10 12:34:14.032918+02:00
+[10:34:14] Successful get url: https://www.bing.com/th?id=OHR.DolomitiAgosto_IT-IT3030401591_UHD.jpg
+[10:34:14] Picture infomations saved to  global/it-IT/README.md
+[10:34:14] Picture infomations saved to global/it-IT/history/2026/08/10_it-IT.md
+[10:34:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-08-10 12:34:14.225905+02:00
+[10:34:14] Successful get url: https://www.bing.com/th?id=OHR.SandPath_ES-ES7679772396_UHD.jpg
+[10:34:14] Picture infomations saved to  global/es-ES/README.md
+[10:34:14] Picture infomations saved to global/es-ES/history/2026/08/10_es-ES.md
+[10:34:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-08-10 06:34:14.548580-04:00
+[10:34:14] Successful get url: https://www.bing.com/th?id=OHR.SandPath_FR-CA4489726034_UHD.jpg
+[10:34:14] Picture infomations saved to  global/fr-CA/README.md
+[10:34:14] Picture infomations saved to global/fr-CA/history/2026/08/11_fr-CA.md
+Program exit at 10:34:14
