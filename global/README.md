@@ -6,9 +6,9 @@
 ||*Copyright: Joshua Tree National Park, California (© JJ Landscapes/Getty Images)*
 ||
 |||
-|2026-08-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ColorfulCop_JA-JP4331289983_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulCop_JA-JP4331289983_UHD.jpg)|
-||*Copyright: ニューハウン, デンマーク (© emicristea/Getty Images)*
+|2026-08-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MountainDay2026_JA-JP4675980762_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MountainDay2026_JA-JP4675980762_UHD.jpg)|
+||*Copyright: 日本アルプス (© Sergey Alimov/Getty Images)*
 ||
 |||
 |2026-08-10|**Region: en-IN**||
