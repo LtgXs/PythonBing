@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-08-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg)|
-||*Copyright: Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)*
+|2026-08-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg)|
+||*Copyright: A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
 |2026-08-12|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ゾウの群れ, ケニア (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
-|2026-08-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ColorfulCop_EN-IN0862473585_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulCop_EN-IN0862473585_UHD.jpg)|
-||*Copyright: Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)*
+|2026-08-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ElephantDay_EN-IN1002436143_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_EN-IN1002436143_UHD.jpg)|
+||*Copyright: A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
-|2026-08-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.StuDay_PT-BR3798231635_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StuDay_PT-BR3798231635_UHD.jpg)|
-||*Copyright: Real Gabinete Português de Leitura, Rio de Janeiro, Rio de Janeiro (© Pulsar Imagens/Alamy)*
+|2026-08-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ElephantDay_PT-BR6092042150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_PT-BR6092042150_UHD.jpg)|
+||*Copyright: Grupo de elefantes no Parque Nacional de Amboseli, Quênia (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
-|2026-08-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ColorfulCop_FR-FR8595384019_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulCop_FR-FR8595384019_UHD.jpg)|
-||*Copyright: Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark (© emicristea/Getty Images)*
+|2026-08-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ElephantDay_FR-FR9760624892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_FR-FR9760624892_UHD.jpg)|
+||*Copyright: Un troupeau d’éléphants, Parc national d’Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
-|2026-08-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253_UHD.jpg)|
-||*Copyright: Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images)*
+|2026-08-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ElephantDay_DE-DE9475374565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_DE-DE9475374565_UHD.jpg)|
+||*Copyright: Eine Elefantengruppe im Amboseli-Nationalpark, Kenia (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
-|2026-08-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ColorfulCop_EN-CA5069380652_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulCop_EN-CA5069380652_UHD.jpg)|
-||*Copyright: Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)*
+|2026-08-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ElephantDay_EN-CA5228508211_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_EN-CA5228508211_UHD.jpg)|
+||*Copyright: A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
-|2026-08-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ColorfulCop_EN-GB4254714055_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulCop_EN-GB4254714055_UHD.jpg)|
-||*Copyright: Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)*
+|2026-08-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ElephantDay_EN-GB4622751774_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_EN-GB4622751774_UHD.jpg)|
+||*Copyright: A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
-|2026-08-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ColorfulCop_IT-IT3126463813_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulCop_IT-IT3126463813_UHD.jpg)|
-||*Copyright: Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca (© emicristea/Getty Images)*
+|2026-08-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ElephantDay_IT-IT3230857791_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_IT-IT3230857791_UHD.jpg)|
+||*Copyright: Un gruppo di elefanti, Parco Nazionale di Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
-|2026-08-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LloretdeMar_ES-ES9587440947_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LloretdeMar_ES-ES9587440947_UHD.jpg)|
-||*Copyright: Camino de Ronda, Lloret de Mar, Girona, Cataluña (© MEDITERRANEAN/Getty Images)*
+|2026-08-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ElephantDay_ES-ES9999263656_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_ES-ES9999263656_UHD.jpg)|
+||*Copyright: Un grupo de elefantes, Parque Nacional Amboseli, Kenia (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
-|2026-08-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ColorfulCop_FR-CA4855520574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulCop_FR-CA4855520574_UHD.jpg)|
-||*Copyright: Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark (© emicristea/Getty Images)*
+|2026-08-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ElephantDay_FR-CA5269724209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_FR-CA5269724209_UHD.jpg)|
+||*Copyright: Un troupeau d’éléphants, Parc national d’Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
 

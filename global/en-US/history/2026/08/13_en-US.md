@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-08-13
+## History Bing Wallpaper
+Wallpaper date: 2026-08-13
 ![](https://www.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg&w=1000)Download: [A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](https://www.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg)
 
 Auto get programm by LtgX
