@@ -6,9 +6,9 @@
 ||*Copyright: A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)*
 ||
 |||
-|2026-08-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_UHD.jpg)|
-||*Copyright: ゾウの群れ, ケニア (© Ibrahim Suha Derbent/Getty Images)*
+|2026-08-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PerseidasTenerife_JA-JP5992050152_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidasTenerife_JA-JP5992050152_UHD.jpg)|
+||*Copyright: テイデ天文台, スペイン (© Westend61/Getty Images)*
 ||
 |||
 |2026-08-12|**Region: en-IN**||
