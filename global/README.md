@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-08-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg)|
-||*Copyright: A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)*
+|2026-08-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg)|
+||*Copyright: Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)*
 ||
 |||
 |2026-08-13|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: テイデ天文台, スペイン (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ElephantDay_EN-IN1002436143_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_EN-IN1002436143_UHD.jpg)|
-||*Copyright: A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)*
+|2026-08-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-IN1090547464_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-IN1090547464_UHD.jpg)|
+||*Copyright: Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ElephantDay_PT-BR6092042150_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_PT-BR6092042150_UHD.jpg)|
-||*Copyright: Grupo de elefantes no Parque Nacional de Amboseli, Quênia (© Ibrahim Suha Derbent/Getty Images)*
+|2026-08-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PerseidasTenerife_PT-BR3896657935_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidasTenerife_PT-BR3896657935_UHD.jpg)|
+||*Copyright: Meteoros Perseidas sobre o Observatório do Teide, Tenerife, Espanha (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ElephantDay_FR-FR9760624892_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_FR-FR9760624892_UHD.jpg)|
-||*Copyright: Un troupeau d’éléphants, Parc national d’Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)*
+|2026-08-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PerseidasTenerife_FR-FR7138274954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidasTenerife_FR-FR7138274954_UHD.jpg)|
+||*Copyright: Perséides au-dessus de l’observatoire du Teide, Tenerife, Espagne (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ElephantDay_DE-DE9475374565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_DE-DE9475374565_UHD.jpg)|
-||*Copyright: Eine Elefantengruppe im Amboseli-Nationalpark, Kenia (© Ibrahim Suha Derbent/Getty Images)*
+|2026-08-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PerseidasTenerife_DE-DE8459328996_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidasTenerife_DE-DE8459328996_UHD.jpg)|
+||*Copyright: Perseiden-Meteore über dem Teide-Observatorium auf Teneriffa, Spanien (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ElephantDay_EN-CA5228508211_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_EN-CA5228508211_UHD.jpg)|
-||*Copyright: A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)*
+|2026-08-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-CA5389279972_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-CA5389279972_UHD.jpg)|
+||*Copyright: Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ElephantDay_EN-GB4622751774_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_EN-GB4622751774_UHD.jpg)|
-||*Copyright: A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)*
+|2026-08-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-GB6939134267_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-GB6939134267_UHD.jpg)|
+||*Copyright: Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.ElephantDay_IT-IT3230857791_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_IT-IT3230857791_UHD.jpg)|
-||*Copyright: Un gruppo di elefanti, Parco Nazionale di Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)*
+|2026-08-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PerseidasTenerife_IT-IT4575150144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidasTenerife_IT-IT4575150144_UHD.jpg)|
+||*Copyright: Meteore delle Perseidi sopra l'Osservatorio del Teide, Tenerife, Spagna (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ElephantDay_ES-ES9999263656_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_ES-ES9999263656_UHD.jpg)|
-||*Copyright: Un grupo de elefantes, Parque Nacional Amboseli, Kenia (© Ibrahim Suha Derbent/Getty Images)*
+|2026-08-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ColorfulCop_ES-ES0268766801_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulCop_ES-ES0268766801_UHD.jpg)|
+||*Copyright: Casas coloridas que bordean el canal de Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)*
 ||
 |||
-|2026-08-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ElephantDay_FR-CA5269724209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElephantDay_FR-CA5269724209_UHD.jpg)|
-||*Copyright: Un troupeau d’éléphants, Parc national d’Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)*
+|2026-08-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PerseidasTenerife_FR-CA5435617740_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidasTenerife_FR-CA5435617740_UHD.jpg)|
+||*Copyright: Perséides au-dessus de l’observatoire du Teide, Tenerife, Espagne (© Westend61/Getty Images)*
 ||
 |||
 
