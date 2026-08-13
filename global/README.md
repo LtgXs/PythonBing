@@ -6,9 +6,9 @@
 ||*Copyright: Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PerseidasTenerife_JA-JP5992050152_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerseidasTenerife_JA-JP5992050152_UHD.jpg)|
-||*Copyright: テイデ天文台, スペイン (© Westend61/Getty Images)*
+|2026-08-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Shimoda2026_JA-JP6266826592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Shimoda2026_JA-JP6266826592_UHD.jpg)|
+||*Copyright: 下田港, 静岡県 下田市 (© Sean Pavone/Getty Images)*
 ||
 |||
 |2026-08-13|**Region: en-IN**||
