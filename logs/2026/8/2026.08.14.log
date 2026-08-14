@@ -1,0 +1,60 @@
+
+Program started at 10:14:22
+Operating System Name: Linux
+Operating System Version: #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmvrwv9
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[10:14:22] Start geting CN Bing Wallpaper
+[10:14:22] Successful get url: https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg
+[10:14:22] Image saved to img/background.jpg
+[10:14:22] Info saved to README.md
+[10:14:22] Image saved to history/2026/08/14.md
+[10:14:22] Start geting global Bing Wallpaper, region=en-US, local time is 2026-08-14 06:14:22.200568-04:00
+[10:14:22] Successful get url: https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg
+[10:14:22] Picture infomations saved to  global/en-US/README.md
+[10:14:22] Picture infomations saved to global/en-US/history/2026/08/15_en-US.md
+[10:14:22] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-08-14 19:14:22.340215+09:00
+[10:14:22] Successful get url: https://www.bing.com/th?id=OHR.Shimoda2026_JA-JP6266826592_UHD.jpg
+[10:14:22] Picture infomations saved to  global/ja-JP/README.md
+[10:14:22] Picture infomations saved to global/ja-JP/history/2026/08/14_ja-JP.md
+[10:14:22] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-08-14 15:44:22.555440+05:30
+[10:14:22] Successful get url: https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-IN1351400780_UHD.jpg
+[10:14:22] Picture infomations saved to  global/en-IN/README.md
+[10:14:22] Picture infomations saved to global/en-IN/history/2026/08/14_en-IN.md
+[10:14:22] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-08-14 07:14:22.922072-03:00
+[10:14:22] Successful get url: https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_PT-BR9589823073_UHD.jpg
+[10:14:23] Picture infomations saved to  global/pt-BR/README.md
+[10:14:23] Picture infomations saved to global/pt-BR/history/2026/08/15_pt-BR.md
+[10:14:23] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-08-14 12:14:23.093720+02:00
+[10:14:23] Successful get url: https://www.bing.com/th?id=OHR.DolmenRoche_FR-FR1513962303_UHD.jpg
+[10:14:23] Picture infomations saved to  global/fr-FR/README.md
+[10:14:23] Picture infomations saved to global/fr-FR/history/2026/08/14_fr-FR.md
+[10:14:23] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-08-14 12:14:23.238743+02:00
+[10:14:23] Successful get url: https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409_UHD.jpg
+[10:14:23] Picture infomations saved to  global/de-DE/README.md
+[10:14:23] Picture infomations saved to global/de-DE/history/2026/08/14_de-DE.md
+[10:14:23] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-08-14 06:14:23.416751-04:00
+[10:14:23] Successful get url: https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-CA5559253434_UHD.jpg
+[10:14:23] Picture infomations saved to  global/en-CA/README.md
+[10:14:23] Picture infomations saved to global/en-CA/history/2026/08/15_en-CA.md
+[10:14:23] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-08-14 11:14:23.901027+01:00
+[10:14:23] Successful get url: https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597_UHD.jpg
+[10:14:24] Picture infomations saved to  global/en-GB/README.md
+[10:14:24] Picture infomations saved to global/en-GB/history/2026/08/14_en-GB.md
+[10:14:24] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-08-14 12:14:24.024524+02:00
+[10:14:24] Successful get url: https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_IT-IT3470939727_UHD.jpg
+[10:14:24] Picture infomations saved to  global/it-IT/README.md
+[10:14:24] Picture infomations saved to global/it-IT/history/2026/08/14_it-IT.md
+[10:14:24] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-08-14 12:14:24.152852+02:00
+[10:14:24] Successful get url: https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817_UHD.jpg
+[10:14:24] Picture infomations saved to  global/es-ES/README.md
+[10:14:24] Picture infomations saved to global/es-ES/history/2026/08/14_es-ES.md
+[10:14:24] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-08-14 06:14:24.340060-04:00
+[10:14:24] Successful get url: https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-CA4397568569_UHD.jpg
+[10:14:24] Picture infomations saved to  global/fr-CA/README.md
+[10:14:24] Picture infomations saved to global/fr-CA/history/2026/08/15_fr-CA.md
+Program exit at 10:14:24
