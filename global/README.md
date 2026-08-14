@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)*
 ||
 |||
-|2026-08-14|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Shimoda2026_JA-JP6266826592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Shimoda2026_JA-JP6266826592_UHD.jpg)|
-||*Copyright: 下田港, 静岡県 下田市 (© Sean Pavone/Getty Images)*
+|2026-08-15|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ValleyDreams_JA-JP6579828761_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValleyDreams_JA-JP6579828761_UHD.jpg)|
+||*Copyright: ア・シ・スレ・パ自然保護区, 米国 ニューメキシコ州 (© Westend61/Getty Images)*
 ||
 |||
 |2026-08-14|**Region: en-IN**||
