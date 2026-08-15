@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-08-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg)|
-||*Copyright: Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)*
+|2026-08-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg)|
+||*Copyright: Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)*
 ||
 |||
 |2026-08-15|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ア・シ・スレ・パ自然保護区, 米国 ニューメキシコ州 (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-IN1351400780_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-IN1351400780_UHD.jpg)|
-||*Copyright: Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)*
+|2026-08-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.IndependenceDay2026_EN-IN1491568628_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IndependenceDay2026_EN-IN1491568628_UHD.jpg)|
+||*Copyright: The India Gate, New Delhi (© Arnav Pratap Singh/iStock/Getty Images)*
 ||
 |||
-|2026-08-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_PT-BR9589823073_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_PT-BR9589823073_UHD.jpg)|
-||*Copyright: Vista aérea de um ecoduto perto de Zakrzów, Polônia (© bbsferrari/Getty Images)*
+|2026-08-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ColorfulCop_PT-BR4548843545_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ColorfulCop_PT-BR4548843545_UHD.jpg)|
+||*Copyright: Casas coloridas às margens do Canal Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)*
 ||
 |||
-|2026-08-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DolmenRoche_FR-FR1513962303_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolmenRoche_FR-FR1513962303_UHD.jpg)|
-||*Copyright: Dolmen, La Roche-Aux-Fées, Bretagne (© Michal Boubin/Getty Images)*
+|2026-08-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ValleyDreams_FR-FR7228733244_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValleyDreams_FR-FR7228733244_UHD.jpg)|
+||*Copyright: Cheminées de fées à Ah Shi Sle Pah Wilderness dans le comté de San Juan, Nouveau-Mexique, États-Unis (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409_UHD.jpg)|
-||*Copyright: Luftaufnahme einer Grünbrücke bei Zakrzów, Polen (© bbsferrari/Getty Images)*
+|2026-08-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SellinSunrise_DE-DE6501539287_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SellinSunrise_DE-DE6501539287_UHD.jpg)|
+||*Copyright: Sonnenaufgang an der Seebrücke Sellin, Rügen, Mecklenburg-Vorpommern (© bluejayphoto/Getty Images)*
 ||
 |||
-|2026-08-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-CA5559253434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-CA5559253434_UHD.jpg)|
-||*Copyright: Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)*
+|2026-08-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ValleyDreams_EN-CA5979323627_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValleyDreams_EN-CA5979323627_UHD.jpg)|
+||*Copyright: Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-14|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597_UHD.jpg)|
-||*Copyright: Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)*
+|2026-08-15|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ValleyDreams_EN-GB5755022749_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValleyDreams_EN-GB5755022749_UHD.jpg)|
+||*Copyright: Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_IT-IT3470939727_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_IT-IT3470939727_UHD.jpg)|
-||*Copyright: Veduta aerea di un passaggio faunistico vicino a Zakrzów, Polonia (© bbsferrari/Getty Images)*
+|2026-08-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.EstateItaliana_IT-IT7841784337_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.EstateItaliana_IT-IT7841784337_UHD.jpg)|
+||*Copyright: Cala Spinosa, Capo Testa, Santa Teresa di Gallura, Sardegna, Italia (© Francesco Riccardo Iacomino/Moment/Getty Images)*
 ||
 |||
-|2026-08-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817_UHD.jpg)|
-||*Copyright: Vista aérea de un ecoducto cerca de Zakrzów, Polonia (© bbsferrari/Getty Images)*
+|2026-08-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.MalagaFairAgosto_ES-ES2221508269_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MalagaFairAgosto_ES-ES2221508269_UHD.jpg)|
+||*Copyright: Vista de la Catedral y la Alcazaba de Málaga, Andalucía, España (© SeanPavonePhoto/Getty Images)*
 ||
 |||
-|2026-08-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-CA4397568569_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-CA4397568569_UHD.jpg)|
-||*Copyright: Vue aérienne d’un écoduc près de Zakrzów, Pologne (© bbsferrari/Getty Images)*
+|2026-08-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ValleyDreams_FR-CA7670530303_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValleyDreams_FR-CA7670530303_UHD.jpg)|
+||*Copyright: Cheminées de fées à Ah Shi Sle Pah Wilderness dans le comté de San Juan, Nouveau-Mexique, États-Unis (© Westend61/Getty Images)*
 ||
 |||
 
