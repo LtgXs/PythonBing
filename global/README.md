@@ -6,9 +6,9 @@
 ||*Copyright: Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ValleyDreams_JA-JP6579828761_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ValleyDreams_JA-JP6579828761_UHD.jpg)|
-||*Copyright: ア・シ・スレ・パ自然保護区, 米国 ニューメキシコ州 (© Westend61/Getty Images)*
+|2026-08-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_UHD.jpg)|
+||*Copyright: ロス・エリリー修道院跡, アイルランド (© Maria Janus/Shutterstock)*
 ||
 |||
 |2026-08-15|**Region: en-IN**||
