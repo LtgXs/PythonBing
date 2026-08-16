@@ -1,0 +1,60 @@
+
+Program started at 09:38:13
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmzvulz
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[09:38:13] Start geting CN Bing Wallpaper
+[09:38:13] Successful get url: https://www.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg
+[09:38:13] Image saved to img/background.jpg
+[09:38:13] Info saved to README.md
+[09:38:13] Image saved to history/2026/08/16.md
+[09:38:13] Start geting global Bing Wallpaper, region=en-US, local time is 2026-08-16 05:38:13.378558-04:00
+[09:38:13] Successful get url: https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg
+[09:38:13] Picture infomations saved to  global/en-US/README.md
+[09:38:13] Picture infomations saved to global/en-US/history/2026/08/17_en-US.md
+[09:38:13] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-08-16 18:38:13.523784+09:00
+[09:38:13] Successful get url: https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_UHD.jpg
+[09:38:13] Picture infomations saved to  global/ja-JP/README.md
+[09:38:13] Picture infomations saved to global/ja-JP/history/2026/08/16_ja-JP.md
+[09:38:13] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-08-16 15:08:13.680653+05:30
+[09:38:13] Successful get url: https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-IN1645230186_UHD.jpg
+[09:38:13] Picture infomations saved to  global/en-IN/README.md
+[09:38:13] Picture infomations saved to global/en-IN/history/2026/08/16_en-IN.md
+[09:38:13] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-08-16 06:38:13.831028-03:00
+[09:38:13] Successful get url: https://www.bing.com/th?id=OHR.RossErrillyRuins_PT-BR4842065654_UHD.jpg
+[09:38:13] Picture infomations saved to  global/pt-BR/README.md
+[09:38:13] Picture infomations saved to global/pt-BR/history/2026/08/17_pt-BR.md
+[09:38:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-08-16 11:38:13.956350+02:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.RossErrillyRuins_FR-FR6708321048_UHD.jpg
+[09:38:14] Picture infomations saved to  global/fr-FR/README.md
+[09:38:14] Picture infomations saved to global/fr-FR/history/2026/08/16_fr-FR.md
+[09:38:14] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-08-16 11:38:14.113505+02:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.RossErrillyRuins_DE-DE7983217751_UHD.jpg
+[09:38:14] Picture infomations saved to  global/de-DE/README.md
+[09:38:14] Picture infomations saved to global/de-DE/history/2026/08/16_de-DE.md
+[09:38:14] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-08-16 05:38:14.251993-04:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-CA6127917779_UHD.jpg
+[09:38:14] Picture infomations saved to  global/en-CA/README.md
+[09:38:14] Picture infomations saved to global/en-CA/history/2026/08/17_en-CA.md
+[09:38:14] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-08-16 10:38:14.394849+01:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-GB5823104227_UHD.jpg
+[09:38:14] Picture infomations saved to  global/en-GB/README.md
+[09:38:14] Picture infomations saved to global/en-GB/history/2026/08/16_en-GB.md
+[09:38:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-08-16 11:38:14.545499+02:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.RossErrillyRuins_IT-IT6009541490_UHD.jpg
+[09:38:14] Picture infomations saved to  global/it-IT/README.md
+[09:38:14] Picture infomations saved to global/it-IT/history/2026/08/16_it-IT.md
+[09:38:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-08-16 11:38:14.669337+02:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.RossErrillyRuins_ES-ES2238203619_UHD.jpg
+[09:38:14] Picture infomations saved to  global/es-ES/README.md
+[09:38:14] Picture infomations saved to global/es-ES/history/2026/08/16_es-ES.md
+[09:38:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-08-16 05:38:14.797287-04:00
+[09:38:14] Successful get url: https://www.bing.com/th?id=OHR.RossErrillyRuins_FR-CA6852023489_UHD.jpg
+[09:38:15] Picture infomations saved to  global/fr-CA/README.md
+[09:38:15] Picture infomations saved to global/fr-CA/history/2026/08/17_fr-CA.md
+Program exit at 09:38:15
