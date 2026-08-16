@@ -6,9 +6,9 @@
 ||*Copyright: Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)*
 ||
 |||
-|2026-08-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_UHD.jpg)|
-||*Copyright: ロス・エリリー修道院跡, アイルランド (© Maria Janus/Shutterstock)*
+|2026-08-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_UHD.jpg)|
+||*Copyright: カクレクマノミ, フィリピン (© Franco Banfi/Nature Picture Library)*
 ||
 |||
 |2026-08-16|**Region: en-IN**||
