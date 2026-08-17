@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:54:50] Picture infomations saved to  global/fr-CA/README.md
 [09:54:50] Picture infomations saved to global/fr-CA/history/2026/08/18_fr-CA.md
 Program exit at 09:54:50
+
+Program started at 16:18:11
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmzvulz
+Processor Type: x86_64
+Python Version: 3.12.13
+Python Interpreter Name: CPython
+[16:18:11] Start geting CN Bing Wallpaper
+[16:18:11] Successful get url: https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg
+[16:18:11] Image saved to img/background.jpg
+[16:18:11] Info saved to README.md
+[16:18:11] Image saved to history/2026/08/18.md
+[16:18:11] Start geting global Bing Wallpaper, region=en-US, local time is 2026-08-17 12:18:11.519494-04:00
+[16:18:11] Successful get url: https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg
+[16:18:11] Picture infomations saved to  global/en-US/README.md
+[16:18:11] Picture infomations saved to global/en-US/history/2026/08/18_en-US.md
+[16:18:11] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-08-18 01:18:11.987544+09:00
+[16:18:12] Successful get url: https://www.bing.com/th?id=OHR.Palmanova_JA-JP7271854286_UHD.jpg
+[16:18:12] Picture infomations saved to  global/ja-JP/README.md
+[16:18:12] Picture infomations saved to global/ja-JP/history/2026/08/18_ja-JP.md
+[16:18:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-08-17 21:48:12.327487+05:30
+[16:18:12] Successful get url: https://www.bing.com/th?id=OHR.CabilaoClowns_EN-IN1781663885_UHD.jpg
+[16:18:12] Picture infomations saved to  global/en-IN/README.md
+[16:18:12] Picture infomations saved to global/en-IN/history/2026/08/17_en-IN.md
+[16:18:12] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-08-17 13:18:12.667098-03:00
+[16:18:12] Successful get url: https://www.bing.com/th?id=OHR.CabilaoClowns_PT-BR4676255668_UHD.jpg
+[16:18:12] Picture infomations saved to  global/pt-BR/README.md
+[16:18:12] Picture infomations saved to global/pt-BR/history/2026/08/18_pt-BR.md
+[16:18:12] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-08-17 18:18:12.985078+02:00
+[16:18:13] Successful get url: https://www.bing.com/th?id=OHR.CabilaoClowns_FR-FR3714615654_UHD.jpg
+[16:18:13] Picture infomations saved to  global/fr-FR/README.md
+[16:18:13] Picture infomations saved to global/fr-FR/history/2026/08/17_fr-FR.md
+[16:18:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-08-17 18:18:13.305593+02:00
+[16:18:13] Successful get url: https://www.bing.com/th?id=OHR.CabilaoClowns_DE-DE7285791368_UHD.jpg
+[16:18:13] Picture infomations saved to  global/de-DE/README.md
+[16:18:13] Picture infomations saved to global/de-DE/history/2026/08/17_de-DE.md
+[16:18:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-08-17 12:18:13.787714-04:00
+[16:18:13] Successful get url: https://www.bing.com/th?id=OHR.CabilaoClowns_EN-CA6278195956_UHD.jpg
+[16:18:14] Picture infomations saved to  global/en-CA/README.md
+[16:18:14] Picture infomations saved to global/en-CA/history/2026/08/18_en-CA.md
+[16:18:14] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-08-17 17:18:14.234295+01:00
+[16:18:14] Successful get url: https://www.bing.com/th?id=OHR.CabilaoClowns_EN-GB5900354557_UHD.jpg
+[16:18:14] Picture infomations saved to  global/en-GB/README.md
+[16:18:14] Picture infomations saved to global/en-GB/history/2026/08/17_en-GB.md
+[16:18:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-08-17 18:18:14.700311+02:00
+[16:18:14] Successful get url: https://www.bing.com/th?id=OHR.LimeKiln_IT-IT6111794447_UHD.jpg
+[16:18:15] Picture infomations saved to  global/it-IT/README.md
+[16:18:15] Picture infomations saved to global/it-IT/history/2026/08/17_it-IT.md
+[16:18:15] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-08-17 18:18:15.170879+02:00
+[16:18:15] Successful get url: https://www.bing.com/th?id=OHR.CabilaoClowns_ES-ES2300770147_UHD.jpg
+[16:18:15] Picture infomations saved to  global/es-ES/README.md
+[16:18:15] Picture infomations saved to global/es-ES/history/2026/08/17_es-ES.md
+[16:18:15] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-08-17 12:18:15.670581-04:00
+[16:18:15] Successful get url: https://www.bing.com/th?id=OHR.CabilaoClowns_FR-CA6346458733_UHD.jpg
+[16:18:16] Picture infomations saved to  global/fr-CA/README.md
+[16:18:16] Picture infomations saved to global/fr-CA/history/2026/08/18_fr-CA.md
+Program exit at 16:18:16

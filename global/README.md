@@ -6,9 +6,9 @@
 ||*Copyright: Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)*
 ||
 |||
-|2026-08-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_UHD.jpg)|
-||*Copyright: カクレクマノミ, フィリピン (© Franco Banfi/Nature Picture Library)*
+|2026-08-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Palmanova_JA-JP7271854286_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Palmanova_JA-JP7271854286_UHD.jpg)|
+||*Copyright: パルマノーヴァ, イタリア (© Riccardo Saponi/Getty Images)*
 ||
 |||
 |2026-08-17|**Region: en-IN**||
