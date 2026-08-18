@@ -6,9 +6,9 @@
 ||*Copyright: Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)*
 ||
 |||
-|2026-08-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Palmanova_JA-JP7271854286_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Palmanova_JA-JP7271854286_UHD.jpg)|
-||*Copyright: パルマノーヴァ, イタリア (© Riccardo Saponi/Getty Images)*
+|2026-08-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_UHD.jpg)|
+||*Copyright: エコダクト, ポーランド (© bbsferrari/Getty Images)*
 ||
 |||
 |2026-08-18|**Region: en-IN**||
