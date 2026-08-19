@@ -6,9 +6,9 @@
 ||*Copyright: NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)*
 ||
 |||
-|2026-08-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_UHD.jpg)|
-||*Copyright: エコダクト, ポーランド (© bbsferrari/Getty Images)*
+|2026-08-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LynnCanalOrca_JA-JP7810665550_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynnCanalOrca_JA-JP7810665550_UHD.jpg)|
+||*Copyright: シャチ, 米国 アラスカ州 (© John Hyde/Alamy)*
 ||
 |||
 |2026-08-19|**Region: en-IN**||
