@@ -6,9 +6,9 @@
 ||*Copyright: An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)*
 ||
 |||
-|2026-08-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LynnCanalOrca_JA-JP7810665550_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynnCanalOrca_JA-JP7810665550_UHD.jpg)|
-||*Copyright: シャチ, 米国 アラスカ州 (© John Hyde/Alamy)*
+|2026-08-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.JulierPass_JA-JP8487146662_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_JA-JP8487146662_UHD.jpg)|
+||*Copyright: ユリア峠, スイス (© Westend61/Getty Images)*
 ||
 |||
 |2026-08-20|**Region: en-IN**||
