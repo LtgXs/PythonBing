@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-08-20
+## History Bing Wallpaper
+Wallpaper date: 2026-08-20
 ![](https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-FR3710534707_UHD.jpg&w=1000)Download: [Une orque à la surface du canal de Lynn, près des montagnes Chilkat, Alaska, États-Unis (© John Hyde/Alamy)](https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-FR3710534707_UHD.jpg)
 
 Auto get programm by LtgX
