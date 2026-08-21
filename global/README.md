@@ -6,9 +6,9 @@
 ||*Copyright: Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.JulierPass_JA-JP8487146662_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_JA-JP8487146662_UHD.jpg)|
-||*Copyright: ユリア峠, スイス (© Westend61/Getty Images)*
+|2026-08-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.CommonBlue_JA-JP8682246058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CommonBlue_JA-JP8682246058_UHD.jpg)|
+||*Copyright: イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)*
 ||
 |||
 |2026-08-21|**Region: en-IN**||
