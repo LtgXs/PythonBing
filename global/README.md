@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-08-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg)|
-||*Copyright: An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)*
+|2026-08-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg)|
+||*Copyright: Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)*
 ||
 |||
 |2026-08-21|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ユリア峠, スイス (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-IN2125273963_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-IN2125273963_UHD.jpg)|
-||*Copyright: An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)*
+|2026-08-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.JulierPass_EN-IN9398665018_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_EN-IN9398665018_UHD.jpg)|
+||*Copyright: Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.LynnCanalOrca_PT-BR5511829673_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynnCanalOrca_PT-BR5511829673_UHD.jpg)|
-||*Copyright: Orca no Canal Lynn, próximo às Montanhas Chilkat, Alasca, Estados Unidos (© John Hyde/Alamy)*
+|2026-08-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.JulierPass_PT-BR6496661993_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_PT-BR6496661993_UHD.jpg)|
+||*Copyright: Estrada sinuosa da Passagem de Julier, Suíça (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-FR3710534707_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-FR3710534707_UHD.jpg)|
-||*Copyright: Une orque à la surface du canal de Lynn, près des montagnes Chilkat, Alaska, États-Unis (© John Hyde/Alamy)*
+|2026-08-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.JulierPass_FR-FR0870283971_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_FR-FR0870283971_UHD.jpg)|
+||*Copyright: Route sinueuse du col du Julier, Suisse (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_UHD.jpg)|
-||*Copyright: Ein Schwertwal im Lynn Canal nahe den Chilkat Mountains in Alaska, USA (© John Hyde/Alamy)*
+|2026-08-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.JulierPass_DE-DE4547078745_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_DE-DE4547078745_UHD.jpg)|
+||*Copyright: Serpentinenstraße am Julierpass, Schweiz (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-CA6813259779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-CA6813259779_UHD.jpg)|
-||*Copyright: An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)*
+|2026-08-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CanadaNE_EN-CA9090606067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaNE_EN-CA9090606067_UHD.jpg)|
+||*Copyright: Aerial view of Canadian National Exhibition in Toronto (© Wirestock/Getty Images)*
 ||
 |||
-|2026-08-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-GB6204959413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-GB6204959413_UHD.jpg)|
-||*Copyright: An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)*
+|2026-08-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.JulierPass_EN-GB1060938084_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_EN-GB1060938084_UHD.jpg)|
+||*Copyright: Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.LynnCanalOrca_IT-IT4270143164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynnCanalOrca_IT-IT4270143164_UHD.jpg)|
-||*Copyright: Un'orca emerge nel Lynn Canal vicino ai Monti Chilkat, Alaska, USA (© John Hyde/Alamy)*
+|2026-08-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.JulierPass_IT-IT0417165500_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_IT-IT0417165500_UHD.jpg)|
+||*Copyright: Passo del Giulio, Svizzera (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.LynnCanalOrca_ES-ES3652598331_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynnCanalOrca_ES-ES3652598331_UHD.jpg)|
-||*Copyright: Una orca emerge en el canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU. (© John Hyde/Alamy)*
+|2026-08-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.JulierPass_ES-ES7799772209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_ES-ES7799772209_UHD.jpg)|
+||*Copyright: Carretera sinuosa del Paso de Julier, Grisones, Suiza (© Westend61/Getty Images)*
 ||
 |||
-|2026-08-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-CA5672693565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-CA5672693565_UHD.jpg)|
-||*Copyright: Une orque à la surface du canal de Lynn, près des montagnes Chilkat, Alaska, États-Unis (© John Hyde/Alamy)*
+|2026-08-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CanadaNE_FR-CA5981626201_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaNE_FR-CA5981626201_UHD.jpg)|
+||*Copyright: L’Exposition nationale canadienne à Toronto (© Wirestock/Getty Images)*
 ||
 |||
 
