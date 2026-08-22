@@ -6,9 +6,9 @@
 ||*Copyright: Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)*
 ||
 |||
-|2026-08-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.CommonBlue_JA-JP8682246058_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CommonBlue_JA-JP8682246058_UHD.jpg)|
-||*Copyright: イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)*
+|2026-08-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076_UHD.jpg)|
+||*Copyright: 夏の森を潤す清流, 静岡県 (© Keiji Komatsu/AFLO/Getty Images)*
 ||
 |||
 |2026-08-22|**Region: en-IN**||
