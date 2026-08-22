@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-08-22|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg)|
-||*Copyright: Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)*
+|2026-08-23|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg)|
+||*Copyright: Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)*
 ||
 |||
 |2026-08-22|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)*
 ||
 |||
-|2026-08-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.JulierPass_EN-IN9398665018_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_EN-IN9398665018_UHD.jpg)|
-||*Copyright: Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)*
+|2026-08-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CommonBlue_EN-IN9476454539_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CommonBlue_EN-IN9476454539_UHD.jpg)|
+||*Copyright: Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)*
 ||
 |||
-|2026-08-22|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.JulierPass_PT-BR6496661993_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_PT-BR6496661993_UHD.jpg)|
-||*Copyright: Estrada sinuosa da Passagem de Julier, Suíça (© Westend61/Getty Images)*
+|2026-08-23|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.FolkRJ_PT-BR6598036806_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FolkRJ_PT-BR6598036806_UHD.jpg)|
+||*Copyright: Integrantes da Salgueiro na Marquês de Sapucaí em 2022, Rio de Janeiro (© MAURO PIMENTEL/Getty Images)*
 ||
 |||
-|2026-08-21|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.JulierPass_FR-FR0870283971_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_FR-FR0870283971_UHD.jpg)|
-||*Copyright: Route sinueuse du col du Julier, Suisse (© Westend61/Getty Images)*
+|2026-08-22|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CommonBlue_FR-FR7050471063_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CommonBlue_FR-FR7050471063_UHD.jpg)|
+||*Copyright: Argus bleu, Devon, Angleterre (© Ross Hoddinott/Nature Picture Library)*
 ||
 |||
-|2026-08-21|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.JulierPass_DE-DE4547078745_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_DE-DE4547078745_UHD.jpg)|
-||*Copyright: Serpentinenstraße am Julierpass, Schweiz (© Westend61/Getty Images)*
+|2026-08-22|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CommonBlue_DE-DE9673283581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CommonBlue_DE-DE9673283581_UHD.jpg)|
+||*Copyright: Hauhechel-Bläuling, Devon, England (© Ross Hoddinott/Nature Picture Library)*
 ||
 |||
-|2026-08-22|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CanadaNE_EN-CA9090606067_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaNE_EN-CA9090606067_UHD.jpg)|
-||*Copyright: Aerial view of Canadian National Exhibition in Toronto (© Wirestock/Getty Images)*
+|2026-08-23|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.CommonBlue_EN-CA6718491810_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CommonBlue_EN-CA6718491810_UHD.jpg)|
+||*Copyright: Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)*
 ||
 |||
-|2026-08-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.JulierPass_EN-GB1060938084_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_EN-GB1060938084_UHD.jpg)|
-||*Copyright: Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)*
+|2026-08-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CommonBlue_EN-GB1147628721_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CommonBlue_EN-GB1147628721_UHD.jpg)|
+||*Copyright: Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)*
 ||
 |||
-|2026-08-21|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.JulierPass_IT-IT0417165500_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_IT-IT0417165500_UHD.jpg)|
-||*Copyright: Passo del Giulio, Svizzera (© Westend61/Getty Images)*
+|2026-08-22|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.NotteTaranta_IT-IT0811899295_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NotteTaranta_IT-IT0811899295_UHD.jpg)|
+||*Copyright: Torre Sant'Andrea, Salento, Puglia, Italia (© Balate.Dorin/Shutterstock)*
 ||
 |||
-|2026-08-21|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.JulierPass_ES-ES7799772209_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_ES-ES7799772209_UHD.jpg)|
-||*Copyright: Carretera sinuosa del Paso de Julier, Grisones, Suiza (© Westend61/Getty Images)*
+|2026-08-22|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.VueltaEspana_ES-ES4697960673_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VueltaEspana_ES-ES4697960673_UHD.jpg)|
+||*Copyright: Vista general del pelotón durante la 77ª Vuelta a España 2022, Etapa 20, Navacerrada, España (© Europa Press Sports/Getty Images)*
 ||
 |||
-|2026-08-22|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CanadaNE_FR-CA5981626201_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CanadaNE_FR-CA5981626201_UHD.jpg)|
-||*Copyright: L’Exposition nationale canadienne à Toronto (© Wirestock/Getty Images)*
+|2026-08-23|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.CommonBlue_FR-CA6957827229_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CommonBlue_FR-CA6957827229_UHD.jpg)|
+||*Copyright: Argus bleu, Devon, Angleterre (© Ross Hoddinott/Nature Picture Library)*
 ||
 |||
 
