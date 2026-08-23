@@ -6,9 +6,9 @@
 ||*Copyright: Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)*
 ||
 |||
-|2026-08-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076_UHD.jpg)|
-||*Copyright: 夏の森を潤す清流, 静岡県 (© Keiji Komatsu/AFLO/Getty Images)*
+|2026-08-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BKBridge_JA-JP9540004516_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BKBridge_JA-JP9540004516_UHD.jpg)|
+||*Copyright: ブルックリン橋, 米国 ニューヨーク州 (© shayes17/Getty Images)*
 ||
 |||
 |2026-08-23|**Region: en-IN**||
