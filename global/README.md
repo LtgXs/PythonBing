@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-08-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg)|
-||*Copyright: Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)*
+|2026-08-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg)|
+||*Copyright: Brooklyn Bridge, New York City (© shayes17/Getty Images)*
 ||
 |||
 |2026-08-24|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: ブルックリン橋, 米国 ニューヨーク州 (© shayes17/Getty Images)*
 ||
 |||
-|2026-08-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.KatmaiBear_EN-IN9565722566_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatmaiBear_EN-IN9565722566_UHD.jpg)|
-||*Copyright: Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)*
+|2026-08-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BKBridge_EN-IN9646645592_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BKBridge_EN-IN9646645592_UHD.jpg)|
+||*Copyright: Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)*
 ||
 |||
-|2026-08-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.KatmaiBear_PT-BR9294561770_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatmaiBear_PT-BR9294561770_UHD.jpg)|
-||*Copyright: Urso-pardo pescando em um rio no Parque Nacional de Katmai, Alasca, Estados Unidos (© Pal Hermansen/Nature Picture Library)*
+|2026-08-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Lencois_PT-BR9491147631_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Lencois_PT-BR9491147631_UHD.jpg)|
+||*Copyright: Parque Nacional dos Lençóis Maranhenses, Maranhão (© Ignacio Palacios/Getty Images)*
 ||
 |||
-|2026-08-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.KatmaiBear_FR-FR3593143405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatmaiBear_FR-FR3593143405_UHD.jpg)|
-||*Copyright: Ours brun en pleine pêche au saumon rouge, Parc national de Katmai, Alaska, États-Unis (© Pal Hermansen/Nature Picture Library)*
+|2026-08-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BKBridge_FR-FR7150855439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BKBridge_FR-FR7150855439_UHD.jpg)|
+||*Copyright: Pont de Brooklyn, New York, États-Unis (© shayes17/Getty Images)*
 ||
 |||
-|2026-08-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.KatmaiBear_DE-DE4863569312_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatmaiBear_DE-DE4863569312_UHD.jpg)|
-||*Copyright: Braunbär beim Fischen im Fluss, Katmai-Nationalpark, Alaska, USA (© Pal Hermansen/Nature Picture Library)*
+|2026-08-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514_UHD.jpg)|
+||*Copyright: Brooklyn Bridge, New York, USA (© shayes17/Getty Images)*
 ||
 |||
-|2026-08-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.KatmaiBear_EN-CA7184475938_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatmaiBear_EN-CA7184475938_UHD.jpg)|
-||*Copyright: Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)*
+|2026-08-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BKBridge_EN-CA9847334652_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BKBridge_EN-CA9847334652_UHD.jpg)|
+||*Copyright: Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)*
 ||
 |||
-|2026-08-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.KatmaiBear_EN-GB1247114173_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatmaiBear_EN-GB1247114173_UHD.jpg)|
-||*Copyright: Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)*
+|2026-08-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BKBridge_EN-GB1324235273_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BKBridge_EN-GB1324235273_UHD.jpg)|
+||*Copyright: Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)*
 ||
 |||
-|2026-08-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.KatmaiBear_IT-IT0998174582_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatmaiBear_IT-IT0998174582_UHD.jpg)|
-||*Copyright: Pesca dell'orso bruno, Parco Nazionale e Riserva di Katmai, Alaska, USA (© Pal Hermansen/Nature Picture Library)*
+|2026-08-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BKBridge_IT-IT1092253957_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BKBridge_IT-IT1092253957_UHD.jpg)|
+||*Copyright: Ponte di Brooklyn, New York City, USA (© shayes17/Getty Images)*
 ||
 |||
-|2026-08-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.KatmaiBear_ES-ES8288785894_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatmaiBear_ES-ES8288785894_UHD.jpg)|
-||*Copyright: Oso pardo pescando en el río, Parque Nacional Katmai, Alaska, EE. UU. (© Pal Hermansen/Nature Picture Library)*
+|2026-08-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BKBridge_ES-ES8423562789_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BKBridge_ES-ES8423562789_UHD.jpg)|
+||*Copyright: Puente de Brooklyn, Nueva York, EE. UU. (© shayes17/Getty Images)*
 ||
 |||
-|2026-08-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.KatmaiBear_FR-CA5626278090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KatmaiBear_FR-CA5626278090_UHD.jpg)|
-||*Copyright: Ours brun en pleine pêche au saumon rouge, Parc national de Katmai, Alaska, États-Unis (© Pal Hermansen/Nature Picture Library)*
+|2026-08-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BKBridge_FR-CA6863459006_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BKBridge_FR-CA6863459006_UHD.jpg)|
+||*Copyright: Pont de Brooklyn, New York, États-Unis (© shayes17/Getty Images)*
 ||
 |||
 

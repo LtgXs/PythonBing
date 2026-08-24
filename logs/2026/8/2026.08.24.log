@@ -1,0 +1,60 @@
+
+Program started at 10:00:45
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm76f27
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[10:00:45] Start geting CN Bing Wallpaper
+[10:00:46] Successful get url: https://www.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg
+[10:00:46] Image saved to img/background.jpg
+[10:00:46] Info saved to README.md
+[10:00:46] Image saved to history/2026/08/24.md
+[10:00:46] Start geting global Bing Wallpaper, region=en-US, local time is 2026-08-24 06:00:46.395630-04:00
+[10:00:46] Successful get url: https://www.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg
+[10:00:46] Picture infomations saved to  global/en-US/README.md
+[10:00:46] Picture infomations saved to global/en-US/history/2026/08/25_en-US.md
+[10:00:46] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-08-24 19:00:46.834693+09:00
+[10:00:46] Successful get url: https://www.bing.com/th?id=OHR.BKBridge_JA-JP9540004516_UHD.jpg
+[10:00:47] Picture infomations saved to  global/ja-JP/README.md
+[10:00:47] Picture infomations saved to global/ja-JP/history/2026/08/24_ja-JP.md
+[10:00:47] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-08-24 15:30:47.141476+05:30
+[10:00:47] Successful get url: https://www.bing.com/th?id=OHR.BKBridge_EN-IN9646645592_UHD.jpg
+[10:00:47] Picture infomations saved to  global/en-IN/README.md
+[10:00:47] Picture infomations saved to global/en-IN/history/2026/08/24_en-IN.md
+[10:00:47] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-08-24 07:00:47.647174-03:00
+[10:00:47] Successful get url: https://www.bing.com/th?id=OHR.Lencois_PT-BR9491147631_UHD.jpg
+[10:00:47] Picture infomations saved to  global/pt-BR/README.md
+[10:00:47] Picture infomations saved to global/pt-BR/history/2026/08/25_pt-BR.md
+[10:00:47] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-08-24 12:00:48.037195+02:00
+[10:00:48] Successful get url: https://www.bing.com/th?id=OHR.BKBridge_FR-FR7150855439_UHD.jpg
+[10:00:48] Picture infomations saved to  global/fr-FR/README.md
+[10:00:48] Picture infomations saved to global/fr-FR/history/2026/08/24_fr-FR.md
+[10:00:48] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-08-24 12:00:48.342853+02:00
+[10:00:48] Successful get url: https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514_UHD.jpg
+[10:00:48] Picture infomations saved to  global/de-DE/README.md
+[10:00:48] Picture infomations saved to global/de-DE/history/2026/08/24_de-DE.md
+[10:00:48] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-08-24 06:00:48.673697-04:00
+[10:00:48] Successful get url: https://www.bing.com/th?id=OHR.BKBridge_EN-CA9847334652_UHD.jpg
+[10:00:49] Picture infomations saved to  global/en-CA/README.md
+[10:00:49] Picture infomations saved to global/en-CA/history/2026/08/25_en-CA.md
+[10:00:49] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-08-24 11:00:49.067120+01:00
+[10:00:49] Successful get url: https://www.bing.com/th?id=OHR.BKBridge_EN-GB1324235273_UHD.jpg
+[10:00:49] Picture infomations saved to  global/en-GB/README.md
+[10:00:49] Picture infomations saved to global/en-GB/history/2026/08/24_en-GB.md
+[10:00:49] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-08-24 12:00:49.360835+02:00
+[10:00:49] Successful get url: https://www.bing.com/th?id=OHR.BKBridge_IT-IT1092253957_UHD.jpg
+[10:00:49] Picture infomations saved to  global/it-IT/README.md
+[10:00:49] Picture infomations saved to global/it-IT/history/2026/08/24_it-IT.md
+[10:00:49] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-08-24 12:00:49.770297+02:00
+[10:00:49] Successful get url: https://www.bing.com/th?id=OHR.BKBridge_ES-ES8423562789_UHD.jpg
+[10:00:50] Picture infomations saved to  global/es-ES/README.md
+[10:00:50] Picture infomations saved to global/es-ES/history/2026/08/24_es-ES.md
+[10:00:50] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-08-24 06:00:50.061209-04:00
+[10:00:50] Successful get url: https://www.bing.com/th?id=OHR.BKBridge_FR-CA6863459006_UHD.jpg
+[10:00:50] Picture infomations saved to  global/fr-CA/README.md
+[10:00:50] Picture infomations saved to global/fr-CA/history/2026/08/25_fr-CA.md
+Program exit at 10:00:50
