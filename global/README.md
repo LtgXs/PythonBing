@@ -6,9 +6,9 @@
 ||*Copyright: Brooklyn Bridge, New York City (© shayes17/Getty Images)*
 ||
 |||
-|2026-08-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BKBridge_JA-JP9540004516_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BKBridge_JA-JP9540004516_UHD.jpg)|
-||*Copyright: ブルックリン橋, 米国 ニューヨーク州 (© shayes17/Getty Images)*
+|2026-08-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RedwoodPark_JA-JP9805095528_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedwoodPark_JA-JP9805095528_UHD.jpg)|
+||*Copyright: レッドウッド国立州立公園, 米国 カリフォルニア州 (© HadelProductions/Getty Images)*
 ||
 |||
 |2026-08-24|**Region: en-IN**||
