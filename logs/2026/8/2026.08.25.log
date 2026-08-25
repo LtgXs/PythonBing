@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [09:49:04] Picture infomations saved to  global/fr-CA/README.md
 [09:49:04] Picture infomations saved to global/fr-CA/history/2026/08/26_fr-CA.md
 Program exit at 09:49:04
+
+Program started at 16:27:23
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm76f27
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[16:27:23] Start geting CN Bing Wallpaper
+[16:27:23] Successful get url: https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg
+[16:27:23] Image saved to img/background.jpg
+[16:27:23] Info saved to README.md
+[16:27:23] Image saved to history/2026/08/26.md
+[16:27:23] Start geting global Bing Wallpaper, region=en-US, local time is 2026-08-25 12:27:23.998145-04:00
+[16:27:24] Successful get url: https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg
+[16:27:24] Picture infomations saved to  global/en-US/README.md
+[16:27:24] Picture infomations saved to global/en-US/history/2026/08/26_en-US.md
+[16:27:24] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-08-26 01:27:24.133229+09:00
+[16:27:24] Successful get url: https://www.bing.com/th?id=OHR.AurorasIceland_JA-JP9970815507_UHD.jpg
+[16:27:24] Picture infomations saved to  global/ja-JP/README.md
+[16:27:24] Picture infomations saved to global/ja-JP/history/2026/08/26_ja-JP.md
+[16:27:24] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-08-25 21:57:24.288982+05:30
+[16:27:24] Successful get url: https://www.bing.com/th?id=OHR.RedwoodPark_EN-IN9796195264_UHD.jpg
+[16:27:24] Picture infomations saved to  global/en-IN/README.md
+[16:27:24] Picture infomations saved to global/en-IN/history/2026/08/25_en-IN.md
+[16:27:24] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-08-25 13:27:24.428601-03:00
+[16:27:24] Successful get url: https://www.bing.com/th?id=OHR.RedwoodPark_PT-BR4867222756_UHD.jpg
+[16:27:24] Picture infomations saved to  global/pt-BR/README.md
+[16:27:24] Picture infomations saved to global/pt-BR/history/2026/08/26_pt-BR.md
+[16:27:24] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-08-25 18:27:24.585313+02:00
+[16:27:24] Successful get url: https://www.bing.com/th?id=OHR.GlenanSummer_FR-FR4786744371_UHD.jpg
+[16:27:24] Picture infomations saved to  global/fr-FR/README.md
+[16:27:24] Picture infomations saved to global/fr-FR/history/2026/08/25_fr-FR.md
+[16:27:24] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-08-25 18:27:24.721742+02:00
+[16:27:24] Successful get url: https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_UHD.jpg
+[16:27:24] Picture infomations saved to  global/de-DE/README.md
+[16:27:24] Picture infomations saved to global/de-DE/history/2026/08/25_de-DE.md
+[16:27:24] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-08-25 12:27:24.915560-04:00
+[16:27:24] Successful get url: https://www.bing.com/th?id=OHR.PurplePuffin_EN-CA8959604660_UHD.jpg
+[16:27:25] Picture infomations saved to  global/en-CA/README.md
+[16:27:25] Picture infomations saved to global/en-CA/history/2026/08/26_en-CA.md
+[16:27:25] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-08-25 17:27:25.031951+01:00
+[16:27:25] Successful get url: https://www.bing.com/th?id=OHR.SantaCatarina_EN-GB1458336075_UHD.jpg
+[16:27:25] Picture infomations saved to  global/en-GB/README.md
+[16:27:25] Picture infomations saved to global/en-GB/history/2026/08/25_en-GB.md
+[16:27:25] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-08-25 18:27:25.157906+02:00
+[16:27:25] Successful get url: https://www.bing.com/th?id=OHR.RedwoodPark_IT-IT1204038943_UHD.jpg
+[16:27:25] Picture infomations saved to  global/it-IT/README.md
+[16:27:25] Picture infomations saved to global/it-IT/history/2026/08/25_it-IT.md
+[16:27:25] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-08-25 18:27:25.388906+02:00
+[16:27:25] Successful get url: https://www.bing.com/th?id=OHR.RedwoodPark_ES-ES8525177894_UHD.jpg
+[16:27:25] Picture infomations saved to  global/es-ES/README.md
+[16:27:25] Picture infomations saved to global/es-ES/history/2026/08/25_es-ES.md
+[16:27:25] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-08-25 12:27:25.520612-04:00
+[16:27:25] Successful get url: https://www.bing.com/th?id=OHR.PurplePuffin_FR-CA6231129761_UHD.jpg
+[16:27:25] Picture infomations saved to  global/fr-CA/README.md
+[16:27:25] Picture infomations saved to global/fr-CA/history/2026/08/26_fr-CA.md
+Program exit at 16:27:25

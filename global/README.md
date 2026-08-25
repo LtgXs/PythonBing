@@ -6,9 +6,9 @@
 ||*Copyright: Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)*
 ||
 |||
-|2026-08-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RedwoodPark_JA-JP9805095528_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedwoodPark_JA-JP9805095528_UHD.jpg)|
-||*Copyright: レッドウッド国立州立公園, 米国 カリフォルニア州 (© HadelProductions/Getty Images)*
+|2026-08-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AurorasIceland_JA-JP9970815507_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurorasIceland_JA-JP9970815507_UHD.jpg)|
+||*Copyright: オーロラ, アイスランド (© Cavan Images/Alamy)*
 ||
 |||
 |2026-08-25|**Region: en-IN**||
