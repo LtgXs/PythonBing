@@ -1,59 +1,59 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-08-27|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg)|
-||*Copyright: Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)*
+|2026-08-28|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg)|
+||*Copyright: Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)*
 ||
 |||
-|2026-08-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LakeMagadi_JA-JP0125683063_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeMagadi_JA-JP0125683063_UHD.jpg)|
-||*Copyright: マガディ湖, ケニア (© Denis-Huot/Nature Picture Library)*
+|2026-08-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MichelSunset_JA-JP0274204340_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MichelSunset_JA-JP0274204340_UHD.jpg)|
+||*Copyright: モン・サン＝ミシェル, フランス (© Clement LEONARD/Getty Images)*
 ||
 |||
-|2026-08-26|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AurorasIceland_EN-IN9916681236_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurorasIceland_EN-IN9916681236_UHD.jpg)|
-||*Copyright: Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)*
+|2026-08-28|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MichelSunset_EN-IN0118589173_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MichelSunset_EN-IN0118589173_UHD.jpg)|
+||*Copyright: Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)*
 ||
 |||
-|2026-08-27|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AurorasIceland_PT-BR0858766581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurorasIceland_PT-BR0858766581_UHD.jpg)|
-||*Copyright: Auroras sobre Kirkjufell, Islândia (© Cavan Images/Alamy)*
+|2026-08-28|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.LakeMagadi_PT-BR1138055993_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeMagadi_PT-BR1138055993_UHD.jpg)|
+||*Copyright: Bando de flamingos-pequenos ao nascer do sol no Lago Magadi, Quênia (© Denis-Huot/Nature Picture Library)*
 ||
 |||
-|2026-08-26|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_UHD.jpg)|
-||*Copyright: Aurores boréales sur Kirkjufell, Islande (© Cavan Images/Alamy)*
+|2026-08-27|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.LakeMagadi_FR-FR8316800874_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeMagadi_FR-FR8316800874_UHD.jpg)|
+||*Copyright: Volée de flamants nains à l’aube, Lac Magadi, Kenya (© Denis-Huot/Nature Picture Library)*
 ||
 |||
-|2026-08-26|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AurorasIceland_DE-DE5182720309_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurorasIceland_DE-DE5182720309_UHD.jpg)|
-||*Copyright: Polarlichter über dem Kirkjufell, Island (© Cavan Images/Alamy)*
+|2026-08-27|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.LakeMagadi_DE-DE5321228958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeMagadi_DE-DE5321228958_UHD.jpg)|
+||*Copyright: Zwergflamingos bei Sonnenaufgang am Magadi-See, Kenia (© Denis-Huot/Nature Picture Library)*
 ||
 |||
-|2026-08-27|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AurorasIceland_EN-CA9381288782_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurorasIceland_EN-CA9381288782_UHD.jpg)|
-||*Copyright: Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)*
+|2026-08-28|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.LakeMagadi_EN-CA0091651040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeMagadi_EN-CA0091651040_UHD.jpg)|
+||*Copyright: Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)*
 ||
 |||
-|2026-08-26|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AurorasIceland_EN-GB1541173608_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurorasIceland_EN-GB1541173608_UHD.jpg)|
-||*Copyright: Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)*
+|2026-08-27|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.LakeMagadi_EN-GB1628809720_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeMagadi_EN-GB1628809720_UHD.jpg)|
+||*Copyright: Lesser flamingo flock, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)*
 ||
 |||
-|2026-08-26|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AurorasIceland_IT-IT1298284038_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurorasIceland_IT-IT1298284038_UHD.jpg)|
-||*Copyright: L'aurora boreale su Kirkjufell, Islanda (© Cavan Images/Alamy)*
+|2026-08-27|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.LakeMagadi_IT-IT1397011994_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeMagadi_IT-IT1397011994_UHD.jpg)|
+||*Copyright: Il fenicottero minore all'alba, Lago Magadi, Kenya (© Denis-Huot/Nature Picture Library)*
 ||
 |||
-|2026-08-26|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TomatinaBunol_ES-ES8709376731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TomatinaBunol_ES-ES8709376731_UHD.jpg)|
-||*Copyright: Parroquia San Pedro Apóstol, Buñol, España (© Venemama/Getty Images)*
+|2026-08-27|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.LakeMagadi_ES-ES9474511114_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeMagadi_ES-ES9474511114_UHD.jpg)|
+||*Copyright: Bandada de flamencos enanos al amanecer, Lago Magadi, Kenia (© Denis-Huot/Nature Picture Library)*
 ||
 |||
-|2026-08-27|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AurorasIceland_FR-CA6768685677_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AurorasIceland_FR-CA6768685677_UHD.jpg)|
-||*Copyright: Aurores boréales sur Kirkjufell, Islande (© Cavan Images/Alamy)*
+|2026-08-28|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.LakeMagadi_FR-CA8220213797_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeMagadi_FR-CA8220213797_UHD.jpg)|
+||*Copyright: Volée de flamants nains à l’aube, Lac Magadi, Kenya (© Denis-Huot/Nature Picture Library)*
 ||
 |||
 
