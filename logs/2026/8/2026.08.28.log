@@ -1,0 +1,60 @@
+
+Program started at 00:42:28
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmgx7h7
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[00:42:28] Start geting CN Bing Wallpaper
+[00:42:28] Successful get url: https://www.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg
+[00:42:28] Image saved to img/background.jpg
+[00:42:28] Info saved to README.md
+[00:42:28] Image saved to history/2026/08/28.md
+[00:42:28] Start geting global Bing Wallpaper, region=en-US, local time is 2026-08-27 20:42:28.874545-04:00
+[00:42:28] Successful get url: https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg
+[00:42:29] Picture infomations saved to  global/en-US/README.md
+[00:42:29] Picture infomations saved to global/en-US/history/2026/08/28_en-US.md
+[00:42:29] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-08-28 09:42:29.300248+09:00
+[00:42:29] Successful get url: https://www.bing.com/th?id=OHR.MichelSunset_JA-JP0274204340_UHD.jpg
+[00:42:29] Picture infomations saved to  global/ja-JP/README.md
+[00:42:29] Picture infomations saved to global/ja-JP/history/2026/08/28_ja-JP.md
+[00:42:29] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-08-28 06:12:29.576754+05:30
+[00:42:29] Successful get url: https://www.bing.com/th?id=OHR.MichelSunset_EN-IN0118589173_UHD.jpg
+[00:42:30] Picture infomations saved to  global/en-IN/README.md
+[00:42:30] Picture infomations saved to global/en-IN/history/2026/08/28_en-IN.md
+[00:42:30] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-08-27 21:42:30.066222-03:00
+[00:42:30] Successful get url: https://www.bing.com/th?id=OHR.LakeMagadi_PT-BR1138055993_UHD.jpg
+[00:42:30] Picture infomations saved to  global/pt-BR/README.md
+[00:42:30] Picture infomations saved to global/pt-BR/history/2026/08/28_pt-BR.md
+[00:42:30] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-08-28 02:42:30.465056+02:00
+[00:42:30] Successful get url: https://www.bing.com/th?id=OHR.MichelSunset_FR-FR8060193680_UHD.jpg
+[00:42:30] Picture infomations saved to  global/fr-FR/README.md
+[00:42:30] Picture infomations saved to global/fr-FR/history/2026/08/28_fr-FR.md
+[00:42:30] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-08-28 02:42:30.760279+02:00
+[00:42:30] Successful get url: https://www.bing.com/th?id=OHR.MichelSunset_DE-DE7463636835_UHD.jpg
+[00:42:30] Picture infomations saved to  global/de-DE/README.md
+[00:42:30] Picture infomations saved to global/de-DE/history/2026/08/28_de-DE.md
+[00:42:30] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-08-27 20:42:31.021906-04:00
+[00:42:31] Successful get url: https://www.bing.com/th?id=OHR.LakeMagadi_EN-CA0091651040_UHD.jpg
+[00:42:31] Picture infomations saved to  global/en-CA/README.md
+[00:42:31] Picture infomations saved to global/en-CA/history/2026/08/28_en-CA.md
+[00:42:31] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-08-28 01:42:31.275087+01:00
+[00:42:31] Successful get url: https://www.bing.com/th?id=OHR.MichelSunset_EN-GB1738815139_UHD.jpg
+[00:42:31] Picture infomations saved to  global/en-GB/README.md
+[00:42:31] Picture infomations saved to global/en-GB/history/2026/08/28_en-GB.md
+[00:42:31] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-08-28 02:42:31.544148+02:00
+[00:42:31] Successful get url: https://www.bing.com/th?id=OHR.MichelSunset_IT-IT1503723648_UHD.jpg
+[00:42:31] Picture infomations saved to  global/it-IT/README.md
+[00:42:31] Picture infomations saved to global/it-IT/history/2026/08/28_it-IT.md
+[00:42:31] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-08-28 02:42:31.857633+02:00
+[00:42:31] Successful get url: https://www.bing.com/th?id=OHR.MichelSunset_ES-ES9649662621_UHD.jpg
+[00:42:32] Picture infomations saved to  global/es-ES/README.md
+[00:42:32] Picture infomations saved to global/es-ES/history/2026/08/28_es-ES.md
+[00:42:32] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-08-27 20:42:32.224207-04:00
+[00:42:32] Successful get url: https://www.bing.com/th?id=OHR.LakeMagadi_FR-CA8220213797_UHD.jpg
+[00:42:32] Picture infomations saved to  global/fr-CA/README.md
+[00:42:32] Picture infomations saved to global/fr-CA/history/2026/08/28_fr-CA.md
+Program exit at 00:42:32
