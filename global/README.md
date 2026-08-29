@@ -6,14 +6,14 @@
 ||*Copyright: Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)*
 ||
 |||
-|2026-08-29|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_UHD.jpg)|
-||*Copyright: 全国花火競技大会, 秋田県, 大仙市 (© Toru Hanai/Getty Images)*
+|2026-08-30|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YellowShark_JA-JP0572284773_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowShark_JA-JP0572284773_UHD.jpg)|
+||*Copyright: ジンベエザメ, インドネシア (© Pete Oxford/Nature Picture Library)*
 ||
 |||
-|2026-08-29|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SantaCatarina_EN-IN0197195904_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SantaCatarina_EN-IN0197195904_UHD.jpg)|
-||*Copyright: Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)*
+|2026-08-30|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.YellowShark_EN-IN0280820685_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowShark_EN-IN0280820685_UHD.jpg)|
+||*Copyright: Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)*
 ||
 |||
 |2026-08-30|**Region: pt-BR**||
