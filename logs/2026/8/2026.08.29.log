@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [00:18:28] Picture infomations saved to  global/fr-CA/README.md
 [00:18:28] Picture infomations saved to global/fr-CA/history/2026/08/29_fr-CA.md
 Program exit at 00:18:28
+
+Program started at 14:26:39
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmgx7h7
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[14:26:39] Start geting CN Bing Wallpaper
+[14:26:39] Successful get url: https://www.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg
+[14:26:39] Image saved to img/background.jpg
+[14:26:39] Info saved to README.md
+[14:26:39] Image saved to history/2026/08/29.md
+[14:26:39] Start geting global Bing Wallpaper, region=en-US, local time is 2026-08-29 10:26:39.891563-04:00
+[14:26:39] Successful get url: https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg
+[14:26:40] Picture infomations saved to  global/en-US/README.md
+[14:26:40] Picture infomations saved to global/en-US/history/2026/08/30_en-US.md
+[14:26:40] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-08-29 23:26:40.142402+09:00
+[14:26:40] Successful get url: https://www.bing.com/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_UHD.jpg
+[14:26:40] Picture infomations saved to  global/ja-JP/README.md
+[14:26:40] Picture infomations saved to global/ja-JP/history/2026/08/29_ja-JP.md
+[14:26:40] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-08-29 19:56:40.394638+05:30
+[14:26:40] Successful get url: https://www.bing.com/th?id=OHR.SantaCatarina_EN-IN0197195904_UHD.jpg
+[14:26:40] Picture infomations saved to  global/en-IN/README.md
+[14:26:40] Picture infomations saved to global/en-IN/history/2026/08/29_en-IN.md
+[14:26:40] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-08-29 11:26:40.582090-03:00
+[14:26:40] Successful get url: https://www.bing.com/th?id=OHR.SantaCatarina_PT-BR2149597812_UHD.jpg
+[14:26:40] Picture infomations saved to  global/pt-BR/README.md
+[14:26:40] Picture infomations saved to global/pt-BR/history/2026/08/30_pt-BR.md
+[14:26:40] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-08-29 16:26:40.755576+02:00
+[14:26:40] Successful get url: https://www.bing.com/th?id=OHR.SantaCatarina_FR-FR8615743181_UHD.jpg
+[14:26:40] Picture infomations saved to  global/fr-FR/README.md
+[14:26:40] Picture infomations saved to global/fr-FR/history/2026/08/29_fr-FR.md
+[14:26:40] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-08-29 16:26:40.956597+02:00
+[14:26:41] Successful get url: https://www.bing.com/th?id=OHR.SantaCatarina_DE-DE7458345257_UHD.jpg
+[14:26:41] Picture infomations saved to  global/de-DE/README.md
+[14:26:41] Picture infomations saved to global/de-DE/history/2026/08/29_de-DE.md
+[14:26:41] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-08-29 10:26:41.120264-04:00
+[14:26:41] Successful get url: https://www.bing.com/th?id=OHR.SantaCatarina_EN-CA1161995702_UHD.jpg
+[14:26:41] Picture infomations saved to  global/en-CA/README.md
+[14:26:41] Picture infomations saved to global/en-CA/history/2026/08/30_en-CA.md
+[14:26:41] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-08-29 15:26:41.301066+01:00
+[14:26:41] Successful get url: https://www.bing.com/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135_UHD.jpg
+[14:26:41] Picture infomations saved to  global/en-GB/README.md
+[14:26:41] Picture infomations saved to global/en-GB/history/2026/08/29_en-GB.md
+[14:26:41] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-08-29 16:26:41.634131+02:00
+[14:26:41] Successful get url: https://www.bing.com/th?id=OHR.SantaCatarina_IT-IT1605956723_UHD.jpg
+[14:26:41] Picture infomations saved to  global/it-IT/README.md
+[14:26:41] Picture infomations saved to global/it-IT/history/2026/08/29_it-IT.md
+[14:26:41] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-08-29 16:26:41.857187+02:00
+[14:26:41] Successful get url: https://www.bing.com/th?id=OHR.SantaCatarina_ES-ES9631069615_UHD.jpg
+[14:26:42] Picture infomations saved to  global/es-ES/README.md
+[14:26:42] Picture infomations saved to global/es-ES/history/2026/08/29_es-ES.md
+[14:26:42] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-08-29 10:26:42.078674-04:00
+[14:26:42] Successful get url: https://www.bing.com/th?id=OHR.SantaCatarina_FR-CA8739192894_UHD.jpg
+[14:26:42] Picture infomations saved to  global/fr-CA/README.md
+[14:26:42] Picture infomations saved to global/fr-CA/history/2026/08/30_fr-CA.md
+Program exit at 14:26:42
