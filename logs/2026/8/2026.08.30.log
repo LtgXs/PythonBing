@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [14:24:07] Picture infomations saved to  global/fr-CA/README.md
 [14:24:07] Picture infomations saved to global/fr-CA/history/2026/08/31_fr-CA.md
 Program exit at 14:24:07
+
+Program started at 18:58:05
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmgx7h7
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[18:58:05] Start geting CN Bing Wallpaper
+[18:58:05] Successful get url: https://www.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg
+[18:58:05] Image saved to img/background.jpg
+[18:58:05] Info saved to README.md
+[18:58:05] Image saved to history/2026/08/31.md
+[18:58:05] Start geting global Bing Wallpaper, region=en-US, local time is 2026-08-30 14:58:05.596402-04:00
+[18:58:05] Successful get url: https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg
+[18:58:05] Picture infomations saved to  global/en-US/README.md
+[18:58:05] Picture infomations saved to global/en-US/history/2026/08/31_en-US.md
+[18:58:05] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-08-31 03:58:05.740967+09:00
+[18:58:05] Successful get url: https://www.bing.com/th?id=OHR.SamarkandCeiling_JA-JP0717876578_UHD.jpg
+[18:58:05] Picture infomations saved to  global/ja-JP/README.md
+[18:58:05] Picture infomations saved to global/ja-JP/history/2026/08/31_ja-JP.md
+[18:58:05] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-08-31 00:28:05.920341+05:30
+[18:58:05] Successful get url: https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-IN0367504407_UHD.jpg
+[18:58:06] Picture infomations saved to  global/en-IN/README.md
+[18:58:06] Picture infomations saved to global/en-IN/history/2026/08/31_en-IN.md
+[18:58:06] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-08-30 15:58:06.052535-03:00
+[18:58:06] Successful get url: https://www.bing.com/th?id=OHR.YellowShark_PT-BR2490068911_UHD.jpg
+[18:58:06] Picture infomations saved to  global/pt-BR/README.md
+[18:58:06] Picture infomations saved to global/pt-BR/history/2026/08/31_pt-BR.md
+[18:58:06] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-08-30 20:58:06.190825+02:00
+[18:58:06] Successful get url: https://www.bing.com/th?id=OHR.YellowShark_FR-FR9208937852_UHD.jpg
+[18:58:06] Picture infomations saved to  global/fr-FR/README.md
+[18:58:06] Picture infomations saved to global/fr-FR/history/2026/08/30_fr-FR.md
+[18:58:06] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-08-30 20:58:06.336592+02:00
+[18:58:06] Successful get url: https://www.bing.com/th?id=OHR.YellowShark_DE-DE7632036192_UHD.jpg
+[18:58:06] Picture infomations saved to  global/de-DE/README.md
+[18:58:06] Picture infomations saved to global/de-DE/history/2026/08/30_de-DE.md
+[18:58:06] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-08-30 14:58:06.468170-04:00
+[18:58:06] Successful get url: https://www.bing.com/th?id=OHR.YellowShark_EN-CA1504942162_UHD.jpg
+[18:58:06] Picture infomations saved to  global/en-CA/README.md
+[18:58:06] Picture infomations saved to global/en-CA/history/2026/08/31_en-CA.md
+[18:58:06] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-08-30 19:58:06.609950+01:00
+[18:58:06] Successful get url: https://www.bing.com/th?id=OHR.YellowShark_EN-GB1905405727_UHD.jpg
+[18:58:06] Picture infomations saved to  global/en-GB/README.md
+[18:58:06] Picture infomations saved to global/en-GB/history/2026/08/30_en-GB.md
+[18:58:06] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-08-30 20:58:06.804515+02:00
+[18:58:06] Successful get url: https://www.bing.com/th?id=OHR.YellowShark_IT-IT2405493473_UHD.jpg
+[18:58:06] Picture infomations saved to  global/it-IT/README.md
+[18:58:06] Picture infomations saved to global/it-IT/history/2026/08/30_it-IT.md
+[18:58:06] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-08-30 20:58:06.956366+02:00
+[18:58:07] Successful get url: https://www.bing.com/th?id=OHR.YellowShark_ES-ES9780213231_UHD.jpg
+[18:58:07] Picture infomations saved to  global/es-ES/README.md
+[18:58:07] Picture infomations saved to global/es-ES/history/2026/08/30_es-ES.md
+[18:58:07] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-08-30 14:58:07.072238-04:00
+[18:58:07] Successful get url: https://www.bing.com/th?id=OHR.YellowShark_FR-CA9103593317_UHD.jpg
+[18:58:07] Picture infomations saved to  global/fr-CA/README.md
+[18:58:07] Picture infomations saved to global/fr-CA/history/2026/08/31_fr-CA.md
+Program exit at 18:58:07

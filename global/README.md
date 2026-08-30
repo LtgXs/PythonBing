@@ -6,14 +6,14 @@
 ||*Copyright: Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)*
 ||
 |||
-|2026-08-30|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YellowShark_JA-JP0572284773_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowShark_JA-JP0572284773_UHD.jpg)|
-||*Copyright: ジンベエザメ, インドネシア (© Pete Oxford/Nature Picture Library)*
+|2026-08-31|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SamarkandCeiling_JA-JP0717876578_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SamarkandCeiling_JA-JP0717876578_UHD.jpg)|
+||*Copyright: レギスタン広場のマドラサ, ウズベキスタン (© Piero M. Bianchi/Getty Images)*
 ||
 |||
-|2026-08-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.YellowShark_EN-IN0280820685_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowShark_EN-IN0280820685_UHD.jpg)|
-||*Copyright: Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)*
+|2026-08-31|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-IN0367504407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-IN0367504407_UHD.jpg)|
+||*Copyright: Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)*
 ||
 |||
 |2026-08-31|**Region: pt-BR**||
