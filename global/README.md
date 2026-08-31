@@ -11,9 +11,9 @@
 ||*Copyright: オチバタケ, ベラルーシ (© Máté/Nature Picture Library)*
 ||
 |||
-|2026-08-31|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-IN0367504407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-IN0367504407_UHD.jpg)|
-||*Copyright: Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)*
+|2026-09-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_UHD.jpg)|
+||*Copyright: The stranded wreck at Surathkal Beach, Karnataka (© Amith Nag Photography/Moment/Getty Images)*
 ||
 |||
 |2026-09-01|**Region: pt-BR**||

@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [17:02:11] Picture infomations saved to  global/fr-CA/README.md
 [17:02:11] Picture infomations saved to global/fr-CA/history/2026/09/01_fr-CA.md
 Program exit at 17:02:11
+
+Program started at 21:14:37
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmgx7h7
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[21:14:37] Start geting CN Bing Wallpaper
+[21:14:37] Successful get url: https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg
+[21:14:38] Image saved to img/background.jpg
+[21:14:38] Info saved to README.md
+[21:14:38] Image saved to history/2026/09/01.md
+[21:14:38] Start geting global Bing Wallpaper, region=en-US, local time is 2026-08-31 17:14:38.155970-04:00
+[21:14:38] Successful get url: https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg
+[21:14:38] Picture infomations saved to  global/en-US/README.md
+[21:14:38] Picture infomations saved to global/en-US/history/2026/09/01_en-US.md
+[21:14:38] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-01 06:14:38.611625+09:00
+[21:14:38] Successful get url: https://www.bing.com/th?id=OHR.HorseHairShroom_JA-JP2550807968_UHD.jpg
+[21:14:39] Picture infomations saved to  global/ja-JP/README.md
+[21:14:39] Picture infomations saved to global/ja-JP/history/2026/09/01_ja-JP.md
+[21:14:39] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-01 02:44:39.013622+05:30
+[21:14:39] Successful get url: https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_UHD.jpg
+[21:14:39] Picture infomations saved to  global/en-IN/README.md
+[21:14:39] Picture infomations saved to global/en-IN/history/2026/09/01_en-IN.md
+[21:14:39] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-08-31 18:14:39.402248-03:00
+[21:14:39] Successful get url: https://www.bing.com/th?id=OHR.SamarkandCeiling_PT-BR2655743090_UHD.jpg
+[21:14:39] Picture infomations saved to  global/pt-BR/README.md
+[21:14:39] Picture infomations saved to global/pt-BR/history/2026/09/01_pt-BR.md
+[21:14:39] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-08-31 23:14:39.791601+02:00
+[21:14:39] Successful get url: https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-FR3513297737_UHD.jpg
+[21:14:40] Picture infomations saved to  global/fr-FR/README.md
+[21:14:40] Picture infomations saved to global/fr-FR/history/2026/08/31_fr-FR.md
+[21:14:40] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-08-31 23:14:40.483823+02:00
+[21:14:40] Successful get url: https://www.bing.com/th?id=OHR.SamarkandCeiling_DE-DE7789243927_UHD.jpg
+[21:14:40] Picture infomations saved to  global/de-DE/README.md
+[21:14:40] Picture infomations saved to global/de-DE/history/2026/08/31_de-DE.md
+[21:14:40] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-08-31 17:14:40.916291-04:00
+[21:14:40] Successful get url: https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-CA1921310723_UHD.jpg
+[21:14:41] Picture infomations saved to  global/en-CA/README.md
+[21:14:41] Picture infomations saved to global/en-CA/history/2026/09/01_en-CA.md
+[21:14:41] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-08-31 22:14:41.423126+01:00
+[21:14:41] Successful get url: https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-GB2027090405_UHD.jpg
+[21:14:41] Picture infomations saved to  global/en-GB/README.md
+[21:14:41] Picture infomations saved to global/en-GB/history/2026/08/31_en-GB.md
+[21:14:41] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-08-31 23:14:41.935511+02:00
+[21:14:42] Successful get url: https://www.bing.com/th?id=OHR.SamarkandCeiling_IT-IT1763957510_UHD.jpg
+[21:14:42] Picture infomations saved to  global/it-IT/README.md
+[21:14:42] Picture infomations saved to global/it-IT/history/2026/08/31_it-IT.md
+[21:14:42] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-08-31 23:14:42.672843+02:00
+[21:14:42] Successful get url: https://www.bing.com/th?id=OHR.SamarkandCeiling_ES-ES9960905844_UHD.jpg
+[21:14:43] Picture infomations saved to  global/es-ES/README.md
+[21:14:43] Picture infomations saved to global/es-ES/history/2026/08/31_es-ES.md
+[21:14:43] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-08-31 17:14:43.200091-04:00
+[21:14:43] Successful get url: https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-CA7845792345_UHD.jpg
+[21:14:44] Picture infomations saved to  global/fr-CA/README.md
+[21:14:44] Picture infomations saved to global/fr-CA/history/2026/09/01_fr-CA.md
+Program exit at 21:14:44
