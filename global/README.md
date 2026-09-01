@@ -6,14 +6,14 @@
 ||*Copyright: Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)*
 ||
 |||
-|2026-09-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.HorseHairShroom_JA-JP2550807968_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HorseHairShroom_JA-JP2550807968_UHD.jpg)|
-||*Copyright: オチバタケ, ベラルーシ (© Máté/Nature Picture Library)*
+|2026-09-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_UHD.jpg)|
+||*Copyright: ビーチハット, イングランド (© stevendocwra/Getty Images)*
 ||
 |||
-|2026-09-01|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_UHD.jpg)|
-||*Copyright: The stranded wreck at Surathkal Beach, Karnataka (© Amith Nag Photography/Moment/Getty Images)*
+|2026-09-02|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-IN0536689027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-IN0536689027_UHD.jpg)|
+||*Copyright: Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)*
 ||
 |||
 |2026-09-02|**Region: pt-BR**||
