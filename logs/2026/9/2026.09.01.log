@@ -1,0 +1,60 @@
+
+Program started at 14:07:20
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmgx7h7
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[14:07:20] Start geting CN Bing Wallpaper
+[14:07:20] Successful get url: https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg
+[14:07:21] Image saved to img/background.jpg
+[14:07:21] Info saved to README.md
+[14:07:21] Image saved to history/2026/09/01.md
+[14:07:21] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-01 10:07:21.167212-04:00
+[14:07:21] Successful get url: https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg
+[14:07:21] Picture infomations saved to  global/en-US/README.md
+[14:07:21] Picture infomations saved to global/en-US/history/2026/09/02_en-US.md
+[14:07:21] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-01 23:07:21.308738+09:00
+[14:07:21] Successful get url: https://www.bing.com/th?id=OHR.HorseHairShroom_JA-JP2550807968_UHD.jpg
+[14:07:21] Picture infomations saved to  global/ja-JP/README.md
+[14:07:21] Picture infomations saved to global/ja-JP/history/2026/09/01_ja-JP.md
+[14:07:21] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-01 19:37:21.582142+05:30
+[14:07:21] Successful get url: https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_UHD.jpg
+[14:07:21] Picture infomations saved to  global/en-IN/README.md
+[14:07:21] Picture infomations saved to global/en-IN/history/2026/09/01_en-IN.md
+[14:07:21] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-01 11:07:21.875748-03:00
+[14:07:21] Successful get url: https://www.bing.com/th?id=OHR.HorseHairShroom_PT-BR3941207361_UHD.jpg
+[14:07:22] Picture infomations saved to  global/pt-BR/README.md
+[14:07:22] Picture infomations saved to global/pt-BR/history/2026/09/02_pt-BR.md
+[14:07:22] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-01 16:07:22.002325+02:00
+[14:07:22] Successful get url: https://www.bing.com/th?id=OHR.HorseHairShroom_FR-FR3845055413_UHD.jpg
+[14:07:22] Picture infomations saved to  global/fr-FR/README.md
+[14:07:22] Picture infomations saved to global/fr-FR/history/2026/09/01_fr-FR.md
+[14:07:22] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-01 16:07:22.234503+02:00
+[14:07:22] Successful get url: https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_UHD.jpg
+[14:07:22] Picture infomations saved to  global/de-DE/README.md
+[14:07:22] Picture infomations saved to global/de-DE/history/2026/09/01_de-DE.md
+[14:07:22] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-01 10:07:22.378507-04:00
+[14:07:22] Successful get url: https://www.bing.com/th?id=OHR.HorseHairShroom_EN-CA6859526783_UHD.jpg
+[14:07:22] Picture infomations saved to  global/en-CA/README.md
+[14:07:22] Picture infomations saved to global/en-CA/history/2026/09/02_en-CA.md
+[14:07:22] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-01 15:07:22.591187+01:00
+[14:07:22] Successful get url: https://www.bing.com/th?id=OHR.HorseHairShroom_EN-GB2103309829_UHD.jpg
+[14:07:22] Picture infomations saved to  global/en-GB/README.md
+[14:07:22] Picture infomations saved to global/en-GB/history/2026/09/01_en-GB.md
+[14:07:22] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-01 16:07:22.742104+02:00
+[14:07:22] Successful get url: https://www.bing.com/th?id=OHR.CapodannoBizantino_IT-IT2305233649_UHD.jpg
+[14:07:22] Picture infomations saved to  global/it-IT/README.md
+[14:07:22] Picture infomations saved to global/it-IT/history/2026/09/01_it-IT.md
+[14:07:22] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-01 16:07:22.866957+02:00
+[14:07:22] Successful get url: https://www.bing.com/th?id=OHR.HorseHairShroom_ES-ES0065882566_UHD.jpg
+[14:07:23] Picture infomations saved to  global/es-ES/README.md
+[14:07:23] Picture infomations saved to global/es-ES/history/2026/09/01_es-ES.md
+[14:07:23] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-01 10:07:23.082722-04:00
+[14:07:23] Successful get url: https://www.bing.com/th?id=OHR.HorseHairShroom_FR-CA8035285563_UHD.jpg
+[14:07:23] Picture infomations saved to  global/fr-CA/README.md
+[14:07:23] Picture infomations saved to global/fr-CA/history/2026/09/02_fr-CA.md
+Program exit at 14:07:23
