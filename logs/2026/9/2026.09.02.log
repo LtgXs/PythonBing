@@ -1,0 +1,60 @@
+
+Program started at 13:36:24
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmgx7h7
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[13:36:24] Start geting CN Bing Wallpaper
+[13:36:24] Successful get url: https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg
+[13:36:24] Image saved to img/background.jpg
+[13:36:24] Info saved to README.md
+[13:36:24] Image saved to history/2026/09/02.md
+[13:36:24] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-02 09:36:24.560546-04:00
+[13:36:24] Successful get url: https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg
+[13:36:24] Picture infomations saved to  global/en-US/README.md
+[13:36:24] Picture infomations saved to global/en-US/history/2026/09/03_en-US.md
+[13:36:24] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-02 22:36:24.902101+09:00
+[13:36:24] Successful get url: https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_UHD.jpg
+[13:36:25] Picture infomations saved to  global/ja-JP/README.md
+[13:36:25] Picture infomations saved to global/ja-JP/history/2026/09/02_ja-JP.md
+[13:36:25] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-02 19:06:25.083201+05:30
+[13:36:25] Successful get url: https://www.bing.com/th?id=OHR.SuffolkHuts_EN-IN0536689027_UHD.jpg
+[13:36:25] Picture infomations saved to  global/en-IN/README.md
+[13:36:25] Picture infomations saved to global/en-IN/history/2026/09/02_en-IN.md
+[13:36:25] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-02 10:36:25.352048-03:00
+[13:36:25] Successful get url: https://www.bing.com/th?id=OHR.SuffolkHuts_PT-BR0383836238_UHD.jpg
+[13:36:25] Picture infomations saved to  global/pt-BR/README.md
+[13:36:25] Picture infomations saved to global/pt-BR/history/2026/09/03_pt-BR.md
+[13:36:25] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-02 15:36:25.519956+02:00
+[13:36:25] Successful get url: https://www.bing.com/th?id=OHR.SuffolkHuts_FR-FR9132067809_UHD.jpg
+[13:36:25] Picture infomations saved to  global/fr-FR/README.md
+[13:36:25] Picture infomations saved to global/fr-FR/history/2026/09/02_fr-FR.md
+[13:36:25] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-02 15:36:25.652546+02:00
+[13:36:25] Successful get url: https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_UHD.jpg
+[13:36:25] Picture infomations saved to  global/de-DE/README.md
+[13:36:25] Picture infomations saved to global/de-DE/history/2026/09/02_de-DE.md
+[13:36:25] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-02 09:36:25.820770-04:00
+[13:36:25] Successful get url: https://www.bing.com/th?id=OHR.SuffolkHuts_EN-CA7283935954_UHD.jpg
+[13:36:25] Picture infomations saved to  global/en-CA/README.md
+[13:36:25] Picture infomations saved to global/en-CA/history/2026/09/03_en-CA.md
+[13:36:25] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-02 14:36:25.978029+01:00
+[13:36:26] Successful get url: https://www.bing.com/th?id=OHR.SuffolkHuts_EN-GB2261622731_UHD.jpg
+[13:36:26] Picture infomations saved to  global/en-GB/README.md
+[13:36:26] Picture infomations saved to global/en-GB/history/2026/09/02_en-GB.md
+[13:36:26] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-02 15:36:26.143890+02:00
+[13:36:26] Successful get url: https://www.bing.com/th?id=OHR.SuffolkHuts_IT-IT2530615485_UHD.jpg
+[13:36:26] Picture infomations saved to  global/it-IT/README.md
+[13:36:26] Picture infomations saved to global/it-IT/history/2026/09/02_it-IT.md
+[13:36:26] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-02 15:36:26.327883+02:00
+[13:36:26] Successful get url: https://www.bing.com/th?id=OHR.SuffolkHuts_ES-ES0180739471_UHD.jpg
+[13:36:26] Picture infomations saved to  global/es-ES/README.md
+[13:36:26] Picture infomations saved to global/es-ES/history/2026/09/02_es-ES.md
+[13:36:26] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-02 09:36:26.548721-04:00
+[13:36:26] Successful get url: https://www.bing.com/th?id=OHR.SuffolkHuts_FR-CA9474847832_UHD.jpg
+[13:36:27] Picture infomations saved to  global/fr-CA/README.md
+[13:36:27] Picture infomations saved to global/fr-CA/history/2026/09/03_fr-CA.md
+Program exit at 13:36:27
