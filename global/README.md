@@ -6,14 +6,14 @@
 ||*Copyright: Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)*
 ||
 |||
-|2026-09-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_UHD.jpg)|
-||*Copyright: ビーチハット, イングランド (© stevendocwra/Getty Images)*
+|2026-09-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AZWilderness_JA-JP3309055326_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AZWilderness_JA-JP3309055326_UHD.jpg)|
+||*Copyright: コヨーテ・ビュート, 米国 アリゾナ州 (© James Hager/Getty Images)*
 ||
 |||
-|2026-09-02|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-IN0536689027_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-IN0536689027_UHD.jpg)|
-||*Copyright: Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)*
+|2026-09-03|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AZWilderness_EN-IN0610933686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AZWilderness_EN-IN0610933686_UHD.jpg)|
+||*Copyright: Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)*
 ||
 |||
 |2026-09-03|**Region: pt-BR**||
