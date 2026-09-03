@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-09-03|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg)|
-||*Copyright: Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)*
+|2026-09-04|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg)|
+||*Copyright: Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)*
 ||
 |||
 |2026-09-03|**Region: ja-JP**||
@@ -16,44 +16,44 @@
 ||*Copyright: Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)*
 ||
 |||
-|2026-09-03|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SuffolkHuts_PT-BR0383836238_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_PT-BR0383836238_UHD.jpg)|
-||*Copyright: Cabanas de praia tradicionais em Southwold, Suffolk, Inglaterra (© stevendocwra/Getty Images)*
+|2026-09-04|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.CommonBlue_PT-BR1879697147_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CommonBlue_PT-BR1879697147_UHD.jpg)|
+||*Copyright: Borboleta-azul-comum, Devon, Inglaterra (© Ross Hoddinott/Nature Picture Library)*
 ||
 |||
-|2026-09-02|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SuffolkHuts_FR-FR9132067809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_FR-FR9132067809_UHD.jpg)|
-||*Copyright: Cabanes de plage, Southwold, Suffolk Heritage Coast, Angleterre (© stevendocwra/Getty Images)*
+|2026-09-03|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AZWilderness_FR-FR4389464671_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AZWilderness_FR-FR4389464671_UHD.jpg)|
+||*Copyright: Buttes Coyote, Monument national des Falaises Vermilion, Arizona, États-Unis (© James Hager/Getty Images)*
 ||
 |||
-|2026-09-02|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_UHD.jpg)|
-||*Copyright: Traditionelle Strandhütten, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)*
+|2026-09-03|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_UHD.jpg)|
+||*Copyright: Römerberg, historischer Altstadtplatz in Frankfurt am Main (© f11photo/Getty Images)*
 ||
 |||
-|2026-09-03|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-CA7283935954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-CA7283935954_UHD.jpg)|
-||*Copyright: Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)*
+|2026-09-04|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.JulierPass_EN-CA1672226611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_EN-CA1672226611_UHD.jpg)|
+||*Copyright: Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)*
 ||
 |||
-|2026-09-02|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-GB2261622731_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-GB2261622731_UHD.jpg)|
-||*Copyright: Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)*
+|2026-09-03|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_UHD.jpg)|
+||*Copyright: Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)*
 ||
 |||
-|2026-09-02|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SuffolkHuts_IT-IT2530615485_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_IT-IT2530615485_UHD.jpg)|
-||*Copyright: Capanne tradizionali sulla spiaggia, Southwold, Suffolk Heritage Coast, Inghilterra (© stevendocwra/Getty Images)*
+|2026-09-03|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AZWilderness_IT-IT2616845424_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AZWilderness_IT-IT2616845424_UHD.jpg)|
+||*Copyright: Coyote Buttes, Monumento Nazionale Vermilion Cliffs, Arizona, USA (© James Hager/Getty Images)*
 ||
 |||
-|2026-09-02|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SuffolkHuts_ES-ES0180739471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_ES-ES0180739471_UHD.jpg)|
-||*Copyright: Cabañas de playa en Southwold, condado de Suffolk, Inglaterra (© stevendocwra/Getty Images)*
+|2026-09-03|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AZWilderness_ES-ES0293957035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AZWilderness_ES-ES0293957035_UHD.jpg)|
+||*Copyright: Coyote Buttes, Monumento Nacional Vermilion Cliffs, Arizona, EE. UU. (© James Hager/Getty Images)*
 ||
 |||
-|2026-09-03|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SuffolkHuts_FR-CA9474847832_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SuffolkHuts_FR-CA9474847832_UHD.jpg)|
-||*Copyright: Cabanes de plage, Southwold, Suffolk Heritage Coast, Angleterre (© stevendocwra/Getty Images)*
+|2026-09-04|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.JulierPass_FR-CA8399720241_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JulierPass_FR-CA8399720241_UHD.jpg)|
+||*Copyright: Route sinueuse du col du Julier, Suisse (© Westend61/Getty Images)*
 ||
 |||
 

@@ -1,0 +1,60 @@
+
+Program started at 13:32:55
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmejwal
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[13:32:55] Start geting CN Bing Wallpaper
+[13:32:55] Successful get url: https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg
+[13:32:55] Image saved to img/background.jpg
+[13:32:55] Info saved to README.md
+[13:32:55] Image saved to history/2026/09/03.md
+[13:32:55] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-03 09:32:55.370853-04:00
+[13:32:55] Successful get url: https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg
+[13:32:55] Picture infomations saved to  global/en-US/README.md
+[13:32:55] Picture infomations saved to global/en-US/history/2026/09/04_en-US.md
+[13:32:55] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-03 22:32:55.639480+09:00
+[13:32:55] Successful get url: https://www.bing.com/th?id=OHR.AZWilderness_JA-JP3309055326_UHD.jpg
+[13:32:55] Picture infomations saved to  global/ja-JP/README.md
+[13:32:55] Picture infomations saved to global/ja-JP/history/2026/09/03_ja-JP.md
+[13:32:55] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-03 19:02:55.936140+05:30
+[13:32:55] Successful get url: https://www.bing.com/th?id=OHR.AZWilderness_EN-IN0610933686_UHD.jpg
+[13:32:56] Picture infomations saved to  global/en-IN/README.md
+[13:32:56] Picture infomations saved to global/en-IN/history/2026/09/03_en-IN.md
+[13:32:56] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-03 10:32:56.253365-03:00
+[13:32:56] Successful get url: https://www.bing.com/th?id=OHR.CommonBlue_PT-BR1879697147_UHD.jpg
+[13:32:56] Picture infomations saved to  global/pt-BR/README.md
+[13:32:56] Picture infomations saved to global/pt-BR/history/2026/09/04_pt-BR.md
+[13:32:56] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-03 15:32:56.423604+02:00
+[13:32:56] Successful get url: https://www.bing.com/th?id=OHR.AZWilderness_FR-FR4389464671_UHD.jpg
+[13:32:56] Picture infomations saved to  global/fr-FR/README.md
+[13:32:56] Picture infomations saved to global/fr-FR/history/2026/09/03_fr-FR.md
+[13:32:56] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-03 15:32:56.619266+02:00
+[13:32:56] Successful get url: https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_UHD.jpg
+[13:32:56] Picture infomations saved to  global/de-DE/README.md
+[13:32:56] Picture infomations saved to global/de-DE/history/2026/09/03_de-DE.md
+[13:32:56] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-03 09:32:56.936990-04:00
+[13:32:56] Successful get url: https://www.bing.com/th?id=OHR.JulierPass_EN-CA1672226611_UHD.jpg
+[13:32:57] Picture infomations saved to  global/en-CA/README.md
+[13:32:57] Picture infomations saved to global/en-CA/history/2026/09/04_en-CA.md
+[13:32:57] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-03 14:32:57.123157+01:00
+[13:32:57] Successful get url: https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_UHD.jpg
+[13:32:57] Picture infomations saved to  global/en-GB/README.md
+[13:32:57] Picture infomations saved to global/en-GB/history/2026/09/03_en-GB.md
+[13:32:57] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-03 15:32:57.297328+02:00
+[13:32:57] Successful get url: https://www.bing.com/th?id=OHR.AZWilderness_IT-IT2616845424_UHD.jpg
+[13:32:57] Picture infomations saved to  global/it-IT/README.md
+[13:32:57] Picture infomations saved to global/it-IT/history/2026/09/03_it-IT.md
+[13:32:57] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-03 15:32:57.467845+02:00
+[13:32:57] Successful get url: https://www.bing.com/th?id=OHR.AZWilderness_ES-ES0293957035_UHD.jpg
+[13:32:57] Picture infomations saved to  global/es-ES/README.md
+[13:32:57] Picture infomations saved to global/es-ES/history/2026/09/03_es-ES.md
+[13:32:57] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-03 09:32:57.869871-04:00
+[13:32:57] Successful get url: https://www.bing.com/th?id=OHR.JulierPass_FR-CA8399720241_UHD.jpg
+[13:32:59] Picture infomations saved to  global/fr-CA/README.md
+[13:32:59] Picture infomations saved to global/fr-CA/history/2026/09/04_fr-CA.md
+Program exit at 13:32:59
