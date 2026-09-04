@@ -6,14 +6,14 @@
 ||*Copyright: Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)*
 ||
 |||
-|2026-09-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Westerheversand_JA-JP0136915036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Westerheversand_JA-JP0136915036_UHD.jpg)|
-||*Copyright: ヴェスターヘーファーザント灯台, ドイツ (© bluejayphoto/Getty Images)*
+|2026-09-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_UHD.jpg)|
+||*Copyright: ミドリボウシテリハチドリ, コスタリカ (© Paul Hobson/Nature Picture Library)*
 ||
 |||
-|2026-09-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Westerheversand_EN-IN6508979486_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Westerheversand_EN-IN6508979486_UHD.jpg)|
-||*Copyright: Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)*
+|2026-09-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PuranaQila2026_EN-IN6620233403_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PuranaQila2026_EN-IN6620233403_UHD.jpg)|
+||*Copyright: Khairul Manazil, New Delhi (© SoumenNath/E+/Getty Images)*
 ||
 |||
 |2026-09-05|**Region: pt-BR**||

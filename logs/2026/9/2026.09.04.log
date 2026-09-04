@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [13:29:44] Picture infomations saved to  global/fr-CA/README.md
 [13:29:44] Picture infomations saved to global/fr-CA/history/2026/09/05_fr-CA.md
 Program exit at 13:29:44
+
+Program started at 18:44:24
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmejwal
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[18:44:24] Start geting CN Bing Wallpaper
+[18:44:24] Successful get url: https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg
+[18:44:24] Image saved to img/background.jpg
+[18:44:24] Info saved to README.md
+[18:44:24] Image saved to history/2026/09/05.md
+[18:44:24] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-04 14:44:24.657098-04:00
+[18:44:24] Successful get url: https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg
+[18:44:24] Picture infomations saved to  global/en-US/README.md
+[18:44:24] Picture infomations saved to global/en-US/history/2026/09/05_en-US.md
+[18:44:24] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-05 03:44:24.867805+09:00
+[18:44:24] Successful get url: https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_UHD.jpg
+[18:44:25] Picture infomations saved to  global/ja-JP/README.md
+[18:44:25] Picture infomations saved to global/ja-JP/history/2026/09/05_ja-JP.md
+[18:44:25] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-05 00:14:25.104554+05:30
+[18:44:25] Successful get url: https://www.bing.com/th?id=OHR.PuranaQila2026_EN-IN6620233403_UHD.jpg
+[18:44:25] Picture infomations saved to  global/en-IN/README.md
+[18:44:25] Picture infomations saved to global/en-IN/history/2026/09/05_en-IN.md
+[18:44:25] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-04 15:44:25.292088-03:00
+[18:44:25] Successful get url: https://www.bing.com/th?id=OHR.BambergTownhall_PT-BR1820123013_UHD.jpg
+[18:44:25] Picture infomations saved to  global/pt-BR/README.md
+[18:44:25] Picture infomations saved to global/pt-BR/history/2026/09/05_pt-BR.md
+[18:44:25] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-04 20:44:25.469726+02:00
+[18:44:25] Successful get url: https://www.bing.com/th?id=OHR.Westerheversand_FR-FR6860967880_UHD.jpg
+[18:44:25] Picture infomations saved to  global/fr-FR/README.md
+[18:44:25] Picture infomations saved to global/fr-FR/history/2026/09/04_fr-FR.md
+[18:44:25] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-04 20:44:25.609574+02:00
+[18:44:25] Successful get url: https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_UHD.jpg
+[18:44:25] Picture infomations saved to  global/de-DE/README.md
+[18:44:25] Picture infomations saved to global/de-DE/history/2026/09/04_de-DE.md
+[18:44:25] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-04 14:44:25.841426-04:00
+[18:44:25] Successful get url: https://www.bing.com/th?id=OHR.Westerheversand_EN-CA7107631944_UHD.jpg
+[18:44:26] Picture infomations saved to  global/en-CA/README.md
+[18:44:26] Picture infomations saved to global/en-CA/history/2026/09/05_en-CA.md
+[18:44:26] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-04 19:44:26.070737+01:00
+[18:44:26] Successful get url: https://www.bing.com/th?id=OHR.Westerheversand_EN-GB5592839708_UHD.jpg
+[18:44:26] Picture infomations saved to  global/en-GB/README.md
+[18:44:26] Picture infomations saved to global/en-GB/history/2026/09/04_en-GB.md
+[18:44:26] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-04 20:44:26.224385+02:00
+[18:44:26] Successful get url: https://www.bing.com/th?id=OHR.Westerheversand_IT-IT2705992595_UHD.jpg
+[18:44:26] Picture infomations saved to  global/it-IT/README.md
+[18:44:26] Picture infomations saved to global/it-IT/history/2026/09/04_it-IT.md
+[18:44:26] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-04 20:44:26.396748+02:00
+[18:44:26] Successful get url: https://www.bing.com/th?id=OHR.Westerheversand_ES-ES7729851361_UHD.jpg
+[18:44:26] Picture infomations saved to  global/es-ES/README.md
+[18:44:26] Picture infomations saved to global/es-ES/history/2026/09/04_es-ES.md
+[18:44:26] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-04 14:44:26.867329-04:00
+[18:44:26] Successful get url: https://www.bing.com/th?id=OHR.Westerheversand_FR-CA7932678396_UHD.jpg
+[18:44:27] Picture infomations saved to  global/fr-CA/README.md
+[18:44:27] Picture infomations saved to global/fr-CA/history/2026/09/05_fr-CA.md
+Program exit at 18:44:27
