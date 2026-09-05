@@ -6,9 +6,9 @@
 ||*Copyright: Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)*
 ||
 |||
-|2026-09-05|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_UHD.jpg)|
-||*Copyright: ミドリボウシテリハチドリ, コスタリカ (© Paul Hobson/Nature Picture Library)*
+|2026-09-06|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_UHD.jpg)|
+||*Copyright: ファイアンズ湖, オーストラリア (© tracielouise/Getty Images)*
 ||
 |||
 |2026-09-05|**Region: en-IN**||
