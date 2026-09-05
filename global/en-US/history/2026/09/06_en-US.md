@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-09-06
+## History Bing Wallpaper
+Wallpaper date: 2026-09-06
 ![](https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&w=1000)Download: [Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)](https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg)
 
 Auto get programm by LtgX
