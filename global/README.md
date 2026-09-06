@@ -6,9 +6,9 @@
 ||*Copyright: Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)*
 ||
 |||
-|2026-09-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_UHD.jpg)|
-||*Copyright: ファイアンズ湖, オーストラリア (© tracielouise/Getty Images)*
+|2026-09-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BambergTownhall_JA-JP4474746509_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BambergTownhall_JA-JP4474746509_UHD.jpg)|
+||*Copyright: バンベルク市街, ドイツ (© SCStock/Getty Images)*
 ||
 |||
 |2026-09-06|**Region: en-IN**||
