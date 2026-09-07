@@ -11,9 +11,9 @@
 ||*Copyright: イースト・ミーオン, イングランド (© Guy Edwardes/Minden Pictures)*
 ||
 |||
-|2026-09-07|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BambergTownhall_EN-IN6755744687_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BambergTownhall_EN-IN6755744687_UHD.jpg)|
-||*Copyright: Old Town Hall, Bamberg, Germany (© SCStock/Getty Images)*
+|2026-09-08|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BeechEngland_EN-IN6965523030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeechEngland_EN-IN6965523030_UHD.jpg)|
+||*Copyright: Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)*
 ||
 |||
 |2026-09-08|**Region: pt-BR**||
