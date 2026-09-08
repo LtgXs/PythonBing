@@ -1,0 +1,60 @@
+
+Program started at 13:34:24
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmejwal
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[13:34:24] Start geting CN Bing Wallpaper
+[13:34:24] Successful get url: https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg
+[13:34:25] Image saved to img/background.jpg
+[13:34:25] Info saved to README.md
+[13:34:25] Image saved to history/2026/09/08.md
+[13:34:25] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-08 09:34:25.226662-04:00
+[13:34:25] Successful get url: https://www.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg
+[13:34:25] Picture infomations saved to  global/en-US/README.md
+[13:34:25] Picture infomations saved to global/en-US/history/2026/09/09_en-US.md
+[13:34:25] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-08 22:34:25.630660+09:00
+[13:34:25] Successful get url: https://www.bing.com/th?id=OHR.BeechEngland_JA-JP4737159434_UHD.jpg
+[13:34:25] Picture infomations saved to  global/ja-JP/README.md
+[13:34:25] Picture infomations saved to global/ja-JP/history/2026/09/08_ja-JP.md
+[13:34:25] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-08 19:04:25.933933+05:30
+[13:34:25] Successful get url: https://www.bing.com/th?id=OHR.BeechEngland_EN-IN6965523030_UHD.jpg
+[13:34:26] Picture infomations saved to  global/en-IN/README.md
+[13:34:26] Picture infomations saved to global/en-IN/history/2026/09/08_en-IN.md
+[13:34:26] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-08 10:34:26.334041-03:00
+[13:34:26] Successful get url: https://www.bing.com/th?id=OHR.BeechEngland_PT-BR8581055675_UHD.jpg
+[13:34:26] Picture infomations saved to  global/pt-BR/README.md
+[13:34:26] Picture infomations saved to global/pt-BR/history/2026/09/09_pt-BR.md
+[13:34:26] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-08 15:34:26.625967+02:00
+[13:34:26] Successful get url: https://www.bing.com/th?id=OHR.BeechEngland_FR-FR3378648733_UHD.jpg
+[13:34:27] Picture infomations saved to  global/fr-FR/README.md
+[13:34:27] Picture infomations saved to global/fr-FR/history/2026/09/08_fr-FR.md
+[13:34:27] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-08 15:34:27.074278+02:00
+[13:34:27] Successful get url: https://www.bing.com/th?id=OHR.BeechEngland_DE-DE7492588392_UHD.jpg
+[13:34:27] Picture infomations saved to  global/de-DE/README.md
+[13:34:27] Picture infomations saved to global/de-DE/history/2026/09/08_de-DE.md
+[13:34:27] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-08 09:34:27.406604-04:00
+[13:34:27] Successful get url: https://www.bing.com/th?id=OHR.BeechEngland_EN-CA5827828853_UHD.jpg
+[13:34:27] Picture infomations saved to  global/en-CA/README.md
+[13:34:27] Picture infomations saved to global/en-CA/history/2026/09/09_en-CA.md
+[13:34:27] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-08 14:34:27.719279+01:00
+[13:34:27] Successful get url: https://www.bing.com/th?id=OHR.BeechEngland_EN-GB6264734535_UHD.jpg
+[13:34:28] Picture infomations saved to  global/en-GB/README.md
+[13:34:28] Picture infomations saved to global/en-GB/history/2026/09/08_en-GB.md
+[13:34:28] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-08 15:34:28.037016+02:00
+[13:34:28] Successful get url: https://www.bing.com/th?id=OHR.BeechEngland_IT-IT3767842262_UHD.jpg
+[13:34:28] Picture infomations saved to  global/it-IT/README.md
+[13:34:28] Picture infomations saved to global/it-IT/history/2026/09/08_it-IT.md
+[13:34:28] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-08 15:34:28.479680+02:00
+[13:34:28] Successful get url: https://www.bing.com/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072_UHD.jpg
+[13:34:28] Picture infomations saved to  global/es-ES/README.md
+[13:34:28] Picture infomations saved to global/es-ES/history/2026/09/08_es-ES.md
+[13:34:28] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-08 09:34:28.770548-04:00
+[13:34:28] Successful get url: https://www.bing.com/th?id=OHR.BeechEngland_FR-CA6408073757_UHD.jpg
+[13:34:29] Picture infomations saved to  global/fr-CA/README.md
+[13:34:29] Picture infomations saved to global/fr-CA/history/2026/09/09_fr-CA.md
+Program exit at 13:34:29

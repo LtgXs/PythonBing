@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-09-09
+## History Bing Wallpaper
+Wallpaper date: 2026-09-09
 ![](https://www.bing.com/th?id=OHR.BeechEngland_EN-CA5827828853_UHD.jpg&w=1000)Download: [Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.BeechEngland_EN-CA5827828853_UHD.jpg)
 
 Auto get programm by LtgX
