@@ -6,14 +6,14 @@
 ||*Copyright: Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2026-09-09|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ChungYang2026_JA-JP4920316432_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChungYang2026_JA-JP4920316432_UHD.jpg)|
-||*Copyright: 菊の花 (© yanjf/Getty Images)*
+|2026-09-10|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Olvera_JA-JP5093791420_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olvera_JA-JP5093791420_UHD.jpg)|
+||*Copyright: オルベラ, スペイン (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2026-09-09|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GabitKeni_EN-IN7043546490_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_EN-IN7043546490_UHD.jpg)|
-||*Copyright: Gabit Keni Beach near Ankola, Karnataka (© Amith Nag Photography/Getty Images)*
+|2026-09-10|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.Olvera_EN-IN7126654941_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olvera_EN-IN7126654941_UHD.jpg)|
+||*Copyright: Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)*
 ||
 |||
 |2026-09-10|**Region: pt-BR**||
