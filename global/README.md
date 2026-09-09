@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-09-09|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg)|
-||*Copyright: Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)*
+|2026-09-10|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg)|
+||*Copyright: Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)*
 ||
 |||
 |2026-09-09|**Region: ja-JP**||
@@ -16,44 +16,44 @@
 ||*Copyright: Gabit Keni Beach near Ankola, Karnataka (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2026-09-09|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BeechEngland_PT-BR8581055675_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeechEngland_PT-BR8581055675_UHD.jpg)|
-||*Copyright: Faia-europeia em um campo de cereais, Parque Nacional de South Downs, Hampshire, Inglaterra (© Guy Edwardes/Minden Pictures)*
+|2026-09-10|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GabitKeni_PT-BR1706073463_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_PT-BR1706073463_UHD.jpg)|
+||*Copyright: Praia de Gabit Keni, perto de Ankola, Carnataca, Índia (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2026-09-08|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BeechEngland_FR-FR3378648733_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeechEngland_FR-FR3378648733_UHD.jpg)|
-||*Copyright: Hêtre au milieu de champs de céréales, East Meon, Parc national des South Downs, Hampshire, Angleterre (© Guy Edwardes/Minden Pictures)*
+|2026-09-09|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GabitKeni_FR-FR5031931256_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_FR-FR5031931256_UHD.jpg)|
+||*Copyright: Plage de Gabit Keni près d’Ankola, Karnataka, Inde (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2026-09-08|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BeechEngland_DE-DE7492588392_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeechEngland_DE-DE7492588392_UHD.jpg)|
-||*Copyright: Buche in einem Getreidefeld, East Meon, South-Downs-Nationalpark, Hampshire, England (© Guy Edwardes/Minden Pictures)*
+|2026-09-09|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GabitKeni_DE-DE7644159107_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_DE-DE7644159107_UHD.jpg)|
+||*Copyright: Gabit-Keni-Strand bei Ankola, Karnataka, Indien (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2026-09-09|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BeechEngland_EN-CA5827828853_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeechEngland_EN-CA5827828853_UHD.jpg)|
-||*Copyright: Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)*
+|2026-09-10|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GabitKeni_EN-CA6326584239_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_EN-CA6326584239_UHD.jpg)|
+||*Copyright: Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2026-09-08|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BeechEngland_EN-GB6264734535_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeechEngland_EN-GB6264734535_UHD.jpg)|
-||*Copyright: Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)*
+|2026-09-09|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GabitKeni_EN-GB6382808847_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_EN-GB6382808847_UHD.jpg)|
+||*Copyright: Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2026-09-08|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BeechEngland_IT-IT3767842262_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeechEngland_IT-IT3767842262_UHD.jpg)|
-||*Copyright: Faggio in un campo di cereali, East Meon, Parco Nazionale dei South Downs, Hampshire, Inghilterra (© Guy Edwardes/Minden Pictures)*
+|2026-09-09|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GabitKeni_IT-IT3860805604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_IT-IT3860805604_UHD.jpg)|
+||*Copyright: Gabit Keni Beach vicino ad Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2026-09-08|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072_UHD.jpg)|
-||*Copyright: Real Monasterio de Nuestra Señora de Guadalupe, Cáceres, Extremadura, España (© Armando Oliveira/Getty Images)*
+|2026-09-09|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GabitKeni_ES-ES9410799048_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_ES-ES9410799048_UHD.jpg)|
+||*Copyright: Playa Gabit Keni cerca de Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2026-09-09|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BeechEngland_FR-CA6408073757_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeechEngland_FR-CA6408073757_UHD.jpg)|
-||*Copyright: Hêtre au milieu de champs de céréales, East Meon, Parc national des South Downs, Hampshire, Angleterre (© Guy Edwardes/Minden Pictures)*
+|2026-09-10|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GabitKeni_FR-CA6967891600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_FR-CA6967891600_UHD.jpg)|
+||*Copyright: Plage de Gabit Keni près d’Ankola, Karnataka, Inde (© Amith Nag Photography/Getty Images)*
 ||
 |||
 

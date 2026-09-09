@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-09-10
+## History Bing Wallpaper
+Wallpaper date: 2026-09-10
 ![](https://www.bing.com/th?id=OHR.GabitKeni_EN-CA6326584239_UHD.jpg&w=1000)Download: [Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.GabitKeni_EN-CA6326584239_UHD.jpg)
 
 Auto get programm by LtgX

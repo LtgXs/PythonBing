@@ -1,0 +1,60 @@
+
+Program started at 13:40:53
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmejwal
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[13:40:53] Start geting CN Bing Wallpaper
+[13:40:53] Successful get url: https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg
+[13:40:53] Image saved to img/background.jpg
+[13:40:53] Info saved to README.md
+[13:40:53] Image saved to history/2026/09/09.md
+[13:40:53] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-09 09:40:53.864711-04:00
+[13:40:53] Successful get url: https://www.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg
+[13:40:54] Picture infomations saved to  global/en-US/README.md
+[13:40:54] Picture infomations saved to global/en-US/history/2026/09/10_en-US.md
+[13:40:54] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-09 22:40:54.268890+09:00
+[13:40:54] Successful get url: https://www.bing.com/th?id=OHR.ChungYang2026_JA-JP4920316432_UHD.jpg
+[13:40:54] Picture infomations saved to  global/ja-JP/README.md
+[13:40:54] Picture infomations saved to global/ja-JP/history/2026/09/09_ja-JP.md
+[13:40:54] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-09 19:10:54.971098+05:30
+[13:40:55] Successful get url: https://www.bing.com/th?id=OHR.GabitKeni_EN-IN7043546490_UHD.jpg
+[13:40:55] Picture infomations saved to  global/en-IN/README.md
+[13:40:55] Picture infomations saved to global/en-IN/history/2026/09/09_en-IN.md
+[13:40:55] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-09 10:40:55.515394-03:00
+[13:40:55] Successful get url: https://www.bing.com/th?id=OHR.GabitKeni_PT-BR1706073463_UHD.jpg
+[13:40:55] Picture infomations saved to  global/pt-BR/README.md
+[13:40:55] Picture infomations saved to global/pt-BR/history/2026/09/10_pt-BR.md
+[13:40:55] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-09 15:40:55.849612+02:00
+[13:40:55] Successful get url: https://www.bing.com/th?id=OHR.GabitKeni_FR-FR5031931256_UHD.jpg
+[13:40:56] Picture infomations saved to  global/fr-FR/README.md
+[13:40:56] Picture infomations saved to global/fr-FR/history/2026/09/09_fr-FR.md
+[13:40:56] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-09 15:40:56.350841+02:00
+[13:40:56] Successful get url: https://www.bing.com/th?id=OHR.GabitKeni_DE-DE7644159107_UHD.jpg
+[13:40:56] Picture infomations saved to  global/de-DE/README.md
+[13:40:56] Picture infomations saved to global/de-DE/history/2026/09/09_de-DE.md
+[13:40:56] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-09 09:40:56.869536-04:00
+[13:40:56] Successful get url: https://www.bing.com/th?id=OHR.GabitKeni_EN-CA6326584239_UHD.jpg
+[13:40:57] Picture infomations saved to  global/en-CA/README.md
+[13:40:57] Picture infomations saved to global/en-CA/history/2026/09/10_en-CA.md
+[13:40:57] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-09 14:40:57.218107+01:00
+[13:40:57] Successful get url: https://www.bing.com/th?id=OHR.GabitKeni_EN-GB6382808847_UHD.jpg
+[13:40:57] Picture infomations saved to  global/en-GB/README.md
+[13:40:57] Picture infomations saved to global/en-GB/history/2026/09/09_en-GB.md
+[13:40:57] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-09 15:40:57.500726+02:00
+[13:40:57] Successful get url: https://www.bing.com/th?id=OHR.GabitKeni_IT-IT3860805604_UHD.jpg
+[13:40:57] Picture infomations saved to  global/it-IT/README.md
+[13:40:57] Picture infomations saved to global/it-IT/history/2026/09/09_it-IT.md
+[13:40:57] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-09 15:40:57.858924+02:00
+[13:40:57] Successful get url: https://www.bing.com/th?id=OHR.GabitKeni_ES-ES9410799048_UHD.jpg
+[13:40:58] Picture infomations saved to  global/es-ES/README.md
+[13:40:58] Picture infomations saved to global/es-ES/history/2026/09/09_es-ES.md
+[13:40:58] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-09 09:40:58.203273-04:00
+[13:40:58] Successful get url: https://www.bing.com/th?id=OHR.GabitKeni_FR-CA6967891600_UHD.jpg
+[13:40:58] Picture infomations saved to  global/fr-CA/README.md
+[13:40:58] Picture infomations saved to global/fr-CA/history/2026/09/10_fr-CA.md
+Program exit at 13:40:58
