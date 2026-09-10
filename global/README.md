@@ -6,14 +6,14 @@
 ||*Copyright: Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2026-09-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Olvera_JA-JP5093791420_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olvera_JA-JP5093791420_UHD.jpg)|
-||*Copyright: オルベラ, スペイン (© Marco Bottigelli/Getty Images)*
+|2026-09-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GabitKeni_JA-JP3823379916_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_JA-JP3823379916_UHD.jpg)|
+||*Copyright: ガビット・ケニ・ビーチ, インド (© Amith Nag Photography/Getty Images)*
 ||
 |||
-|2026-09-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Olvera_EN-IN7126654941_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olvera_EN-IN7126654941_UHD.jpg)|
-||*Copyright: Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)*
+|2026-09-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-IN6145300439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-IN6145300439_UHD.jpg)|
+||*Copyright: The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)*
 ||
 |||
 |2026-09-11|**Region: pt-BR**||
