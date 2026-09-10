@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-09-10|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg)|
-||*Copyright: Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)*
+|2026-09-11|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg)|
+||*Copyright: Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)*
 ||
 |||
 |2026-09-10|**Region: ja-JP**||
@@ -16,44 +16,44 @@
 ||*Copyright: Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2026-09-10|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GabitKeni_PT-BR1706073463_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_PT-BR1706073463_UHD.jpg)|
-||*Copyright: Praia de Gabit Keni, perto de Ankola, Carnataca, Índia (© Amith Nag Photography/Getty Images)*
+|2026-09-11|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Olvera_PT-BR2296737928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olvera_PT-BR2296737928_UHD.jpg)|
+||*Copyright: Vista aérea de Olvera, Andaluzia, Espanha (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2026-09-09|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GabitKeni_FR-FR5031931256_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_FR-FR5031931256_UHD.jpg)|
-||*Copyright: Plage de Gabit Keni près d’Ankola, Karnataka, Inde (© Amith Nag Photography/Getty Images)*
+|2026-09-10|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Olvera_FR-FR2163620703_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olvera_FR-FR2163620703_UHD.jpg)|
+||*Copyright: Vue aérienne d’Olvera, Andalousie, Espagne (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2026-09-09|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GabitKeni_DE-DE7644159107_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_DE-DE7644159107_UHD.jpg)|
-||*Copyright: Gabit-Keni-Strand bei Ankola, Karnataka, Indien (© Amith Nag Photography/Getty Images)*
+|2026-09-10|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.Olvera_DE-DE7810722479_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olvera_DE-DE7810722479_UHD.jpg)|
+||*Copyright: Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2026-09-10|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GabitKeni_EN-CA6326584239_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_EN-CA6326584239_UHD.jpg)|
-||*Copyright: Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)*
+|2026-09-11|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.TIFFRoy_EN-CA6717935809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TIFFRoy_EN-CA6717935809_UHD.jpg)|
+||*Copyright: The Roy Thomson Hall, Toronto, Ontario (© eskystudio/Shutterstock)*
 ||
 |||
-|2026-09-09|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.GabitKeni_EN-GB6382808847_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_EN-GB6382808847_UHD.jpg)|
-||*Copyright: Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)*
+|2026-09-10|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.Olvera_EN-GB6934313279_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olvera_EN-GB6934313279_UHD.jpg)|
+||*Copyright: Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2026-09-09|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GabitKeni_IT-IT3860805604_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_IT-IT3860805604_UHD.jpg)|
-||*Copyright: Gabit Keni Beach vicino ad Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)*
+|2026-09-10|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.Olvera_IT-IT3958001884_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olvera_IT-IT3958001884_UHD.jpg)|
+||*Copyright: Vista aerea di Olvera, Cadice, Andalusia, Spagna (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2026-09-09|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GabitKeni_ES-ES9410799048_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_ES-ES9410799048_UHD.jpg)|
-||*Copyright: Playa Gabit Keni cerca de Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)*
+|2026-09-10|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.Olvera_ES-ES2719648293_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Olvera_ES-ES2719648293_UHD.jpg)|
+||*Copyright: Vista aérea de Olvera, Cádiz, Andalucía, España (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2026-09-10|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.GabitKeni_FR-CA6967891600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_FR-CA6967891600_UHD.jpg)|
-||*Copyright: Plage de Gabit Keni près d’Ankola, Karnataka, Inde (© Amith Nag Photography/Getty Images)*
+|2026-09-11|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.TIFFRoy_FR-CA9616987709_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TIFFRoy_FR-CA9616987709_UHD.jpg)|
+||*Copyright: Roy Thomson Hall, Toronto, Ontario (© eskystudio/Shutterstock)*
 ||
 |||
 
