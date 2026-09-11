@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [13:31:47] Picture infomations saved to  global/fr-CA/README.md
 [13:31:47] Picture infomations saved to global/fr-CA/history/2026/09/12_fr-CA.md
 Program exit at 13:31:47
+
+Program started at 18:54:18
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmlun5p
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[18:54:18] Start geting CN Bing Wallpaper
+[18:54:18] Successful get url: https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg
+[18:54:18] Image saved to img/background.jpg
+[18:54:18] Info saved to README.md
+[18:54:18] Image saved to history/2026/09/12.md
+[18:54:18] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-11 14:54:18.570711-04:00
+[18:54:18] Successful get url: https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg
+[18:54:18] Picture infomations saved to  global/en-US/README.md
+[18:54:18] Picture infomations saved to global/en-US/history/2026/09/12_en-US.md
+[18:54:18] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-12 03:54:18.736025+09:00
+[18:54:18] Successful get url: https://www.bing.com/th?id=OHR.SardineBait_JA-JP5540649445_UHD.jpg
+[18:54:18] Picture infomations saved to  global/ja-JP/README.md
+[18:54:18] Picture infomations saved to global/ja-JP/history/2026/09/12_ja-JP.md
+[18:54:18] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-12 00:24:18.851193+05:30
+[18:54:18] Successful get url: https://www.bing.com/th?id=OHR.SardineBait_EN-IN7573319017_UHD.jpg
+[18:54:19] Picture infomations saved to  global/en-IN/README.md
+[18:54:19] Picture infomations saved to global/en-IN/history/2026/09/12_en-IN.md
+[18:54:19] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-11 15:54:19.126767-03:00
+[18:54:19] Successful get url: https://www.bing.com/th?id=OHR.RedMacaws_PT-BR5164998297_UHD.jpg
+[18:54:19] Picture infomations saved to  global/pt-BR/README.md
+[18:54:19] Picture infomations saved to global/pt-BR/history/2026/09/12_pt-BR.md
+[18:54:19] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-11 20:54:19.328149+02:00
+[18:54:19] Successful get url: https://www.bing.com/th?id=OHR.FrenchRivieraVillage_FR-FR2966437166_UHD.jpg
+[18:54:19] Picture infomations saved to  global/fr-FR/README.md
+[18:54:19] Picture infomations saved to global/fr-FR/history/2026/09/11_fr-FR.md
+[18:54:19] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-11 20:54:19.441709+02:00
+[18:54:19] Successful get url: https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127_UHD.jpg
+[18:54:19] Picture infomations saved to  global/de-DE/README.md
+[18:54:19] Picture infomations saved to global/de-DE/history/2026/09/11_de-DE.md
+[18:54:19] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-11 14:54:19.568687-04:00
+[18:54:19] Successful get url: https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252_UHD.jpg
+[18:54:19] Picture infomations saved to  global/en-CA/README.md
+[18:54:19] Picture infomations saved to global/en-CA/history/2026/09/12_en-CA.md
+[18:54:19] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-11 19:54:19.688016+01:00
+[18:54:19] Successful get url: https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823_UHD.jpg
+[18:54:19] Picture infomations saved to  global/en-GB/README.md
+[18:54:19] Picture infomations saved to global/en-GB/history/2026/09/11_en-GB.md
+[18:54:19] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-11 20:54:19.810404+02:00
+[18:54:19] Successful get url: https://www.bing.com/th?id=OHR.Castelmezzano_IT-IT4140249349_UHD.jpg
+[18:54:19] Picture infomations saved to  global/it-IT/README.md
+[18:54:19] Picture infomations saved to global/it-IT/history/2026/09/11_it-IT.md
+[18:54:19] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-11 20:54:19.919703+02:00
+[18:54:19] Successful get url: https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ES-ES2800644521_UHD.jpg
+[18:54:20] Picture infomations saved to  global/es-ES/README.md
+[18:54:20] Picture infomations saved to global/es-ES/history/2026/09/11_es-ES.md
+[18:54:20] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-11 14:54:20.024844-04:00
+[18:54:20] Successful get url: https://www.bing.com/th?id=OHR.FrenchRivieraVillage_FR-CA0451501455_UHD.jpg
+[18:54:20] Picture infomations saved to  global/fr-CA/README.md
+[18:54:20] Picture infomations saved to global/fr-CA/history/2026/09/12_fr-CA.md
+Program exit at 18:54:20

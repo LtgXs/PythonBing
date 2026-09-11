@@ -6,14 +6,14 @@
 ||*Copyright: The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)*
 ||
 |||
-|2026-09-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GabitKeni_JA-JP3823379916_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GabitKeni_JA-JP3823379916_UHD.jpg)|
-||*Copyright: ガビット・ケニ・ビーチ, インド (© Amith Nag Photography/Getty Images)*
+|2026-09-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SardineBait_JA-JP5540649445_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardineBait_JA-JP5540649445_UHD.jpg)|
+||*Copyright: カリフォルニアアシカ, メキシコ沖 (© Henley Spiers/Nature Picture Library)*
 ||
 |||
-|2026-09-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-IN6145300439_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-IN6145300439_UHD.jpg)|
-||*Copyright: The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)*
+|2026-09-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SardineBait_EN-IN7573319017_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardineBait_EN-IN7573319017_UHD.jpg)|
+||*Copyright: California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)*
 ||
 |||
 |2026-09-12|**Region: pt-BR**||
