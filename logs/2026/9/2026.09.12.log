@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [12:49:33] Picture infomations saved to  global/fr-CA/README.md
 [12:49:33] Picture infomations saved to global/fr-CA/history/2026/09/13_fr-CA.md
 Program exit at 12:49:33
+
+Program started at 18:00:19
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmlun5p
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[18:00:19] Start geting CN Bing Wallpaper
+[18:00:19] Successful get url: https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg
+[18:00:19] Image saved to img/background.jpg
+[18:00:19] Info saved to README.md
+[18:00:19] Image saved to history/2026/09/13.md
+[18:00:19] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-12 14:00:19.867392-04:00
+[18:00:19] Successful get url: https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg
+[18:00:20] Picture infomations saved to  global/en-US/README.md
+[18:00:20] Picture infomations saved to global/en-US/history/2026/09/13_en-US.md
+[18:00:20] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-13 03:00:20.253136+09:00
+[18:00:20] Successful get url: https://www.bing.com/th?id=OHR.MisurinaPeak_JA-JP5655621348_UHD.jpg
+[18:00:20] Picture infomations saved to  global/ja-JP/README.md
+[18:00:20] Picture infomations saved to global/ja-JP/history/2026/09/13_ja-JP.md
+[18:00:20] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-12 23:30:20.510602+05:30
+[18:00:20] Successful get url: https://www.bing.com/th?id=OHR.SardineBait_EN-IN7573319017_UHD.jpg
+[18:00:20] Picture infomations saved to  global/en-IN/README.md
+[18:00:20] Picture infomations saved to global/en-IN/history/2026/09/12_en-IN.md
+[18:00:20] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-12 15:00:20.830073-03:00
+[18:00:20] Successful get url: https://www.bing.com/th?id=OHR.SardineBait_PT-BR1473169959_UHD.jpg
+[18:00:21] Picture infomations saved to  global/pt-BR/README.md
+[18:00:21] Picture infomations saved to global/pt-BR/history/2026/09/13_pt-BR.md
+[18:00:21] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-12 20:00:21.765780+02:00
+[18:00:21] Successful get url: https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_UHD.jpg
+[18:00:21] Picture infomations saved to  global/fr-FR/README.md
+[18:00:21] Picture infomations saved to global/fr-FR/history/2026/09/12_fr-FR.md
+[18:00:21] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-12 20:00:21.968426+02:00
+[18:00:22] Successful get url: https://www.bing.com/th?id=OHR.SardineBait_DE-DE9091780632_UHD.jpg
+[18:00:22] Picture infomations saved to  global/de-DE/README.md
+[18:00:22] Picture infomations saved to global/de-DE/history/2026/09/12_de-DE.md
+[18:00:22] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-12 14:00:22.128265-04:00
+[18:00:22] Successful get url: https://www.bing.com/th?id=OHR.SardineBait_EN-CA8301633998_UHD.jpg
+[18:00:22] Picture infomations saved to  global/en-CA/README.md
+[18:00:22] Picture infomations saved to global/en-CA/history/2026/09/13_en-CA.md
+[18:00:22] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-12 19:00:22.330364+01:00
+[18:00:22] Successful get url: https://www.bing.com/th?id=OHR.LastNightOfTheProms2026_EN-GB7492486139_UHD.jpg
+[18:00:22] Picture infomations saved to  global/en-GB/README.md
+[18:00:22] Picture infomations saved to global/en-GB/history/2026/09/12_en-GB.md
+[18:00:22] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-12 20:00:22.600352+02:00
+[18:00:22] Successful get url: https://www.bing.com/th?id=OHR.SardineBait_IT-IT4326891508_UHD.jpg
+[18:00:22] Picture infomations saved to  global/it-IT/README.md
+[18:00:22] Picture infomations saved to global/it-IT/history/2026/09/12_it-IT.md
+[18:00:22] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-12 20:00:22.960038+02:00
+[18:00:23] Successful get url: https://www.bing.com/th?id=OHR.SardineBait_ES-ES9719293392_UHD.jpg
+[18:00:23] Picture infomations saved to  global/es-ES/README.md
+[18:00:23] Picture infomations saved to global/es-ES/history/2026/09/12_es-ES.md
+[18:00:23] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-12 14:00:23.129823-04:00
+[18:00:23] Successful get url: https://www.bing.com/th?id=OHR.SardineBait_FR-CA8182471916_UHD.jpg
+[18:00:25] Picture infomations saved to  global/fr-CA/README.md
+[18:00:25] Picture infomations saved to global/fr-CA/history/2026/09/13_fr-CA.md
+Program exit at 18:00:25

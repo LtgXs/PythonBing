@@ -6,9 +6,9 @@
 ||*Copyright: California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)*
 ||
 |||
-|2026-09-12|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SardineBait_JA-JP5540649445_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardineBait_JA-JP5540649445_UHD.jpg)|
-||*Copyright: カリフォルニアアシカ, メキシコ沖 (© Henley Spiers/Nature Picture Library)*
+|2026-09-13|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MisurinaPeak_JA-JP5655621348_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaPeak_JA-JP5655621348_UHD.jpg)|
+||*Copyright: カディーニ・ディ・ミズリーナ山塊, イタリア (© Vithun Khamsong/Getty Images)*
 ||
 |||
 |2026-09-12|**Region: en-IN**||
