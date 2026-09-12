@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-09-12|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg)|
-||*Copyright: The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)*
+|2026-09-13|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg)|
+||*Copyright: California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)*
 ||
 |||
 |2026-09-12|**Region: ja-JP**||
@@ -16,44 +16,44 @@
 ||*Copyright: California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)*
 ||
 |||
-|2026-09-12|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.RedMacaws_PT-BR5164998297_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedMacaws_PT-BR5164998297_UHD.jpg)|
-||*Copyright: Araras-vermelhas, América do Sul (© markes51/Getty Images)*
+|2026-09-13|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SardineBait_PT-BR1473169959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardineBait_PT-BR1473169959_UHD.jpg)|
+||*Copyright: Leões-marinhos-da-califórnia caçando cardume de sardinhas no litoral do México, Oceano Pacífico (© Henley Spiers/Nature Picture Library)*
 ||
 |||
-|2026-09-11|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_FR-FR2966437166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_FR-FR2966437166_UHD.jpg)|
-||*Copyright: Vue aérienne de la baie de Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur (© StockByM/Getty Images)*
+|2026-09-12|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_UHD.jpg)|
+||*Copyright: Des lions de mer de Californie chassant un banc de sardines au large du Mexique, Océan Pacifique (© Henley Spiers/Nature Picture Library)*
 ||
 |||
-|2026-09-11|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127_UHD.jpg)|
-||*Copyright: Villefranche-sur-Mer, Alpes-Maritimes, Côte d’Azur, Frankreich (© StockByM/Getty Images)*
+|2026-09-12|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SardineBait_DE-DE9091780632_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardineBait_DE-DE9091780632_UHD.jpg)|
+||*Copyright: Kalifornische Seelöwen bei der Jagd auf einen Sardinen-Köderball vor der Küste Mexikos im Pazifik (© Henley Spiers/Nature Picture Library)*
 ||
 |||
-|2026-09-12|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252_UHD.jpg)|
-||*Copyright: Villefranche-sur-Mer, French Riviera, France (© StockByM/Getty Images)*
+|2026-09-13|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SardineBait_EN-CA8301633998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardineBait_EN-CA8301633998_UHD.jpg)|
+||*Copyright: California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)*
 ||
 |||
-|2026-09-11|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823_UHD.jpg)|
-||*Copyright: The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)*
+|2026-09-12|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.LastNightOfTheProms2026_EN-GB7492486139_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.LastNightOfTheProms2026_EN-GB7492486139_UHD.jpg)|
+||*Copyright: Interior of the Royal Albert Hall, London (© William Barton/Shutterstock)*
 ||
 |||
-|2026-09-11|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.Castelmezzano_IT-IT4140249349_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Castelmezzano_IT-IT4140249349_UHD.jpg)|
-||*Copyright: Castelmezzano, provincia di Potenza in Basilicata, Italia (© Sean Pavone/Getty Images)*
+|2026-09-12|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SardineBait_IT-IT4326891508_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardineBait_IT-IT4326891508_UHD.jpg)|
+||*Copyright: Leoni marini della California a caccia di una palla di esca per sardine, al largo del Messico, Oceano Pacifico (© Henley Spiers/Nature Picture Library)*
 ||
 |||
-|2026-09-11|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ES-ES2800644521_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ES-ES2800644521_UHD.jpg)|
-||*Copyright: La bahía de Villefranche-sur-Mer, Alpes Marítimos, en la región de Provenza-Alpes-Costa Azul, Francia (© StockByM/Getty Images)*
+|2026-09-12|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SardineBait_ES-ES9719293392_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardineBait_ES-ES9719293392_UHD.jpg)|
+||*Copyright: Leones marinos de California cazando un cardumen de sardinas, México, Océano Pacífico (© Henley Spiers/Nature Picture Library)*
 ||
 |||
-|2026-09-12|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_FR-CA0451501455_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_FR-CA0451501455_UHD.jpg)|
-||*Copyright: Vue aérienne de la baie de Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)*
+|2026-09-13|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SardineBait_FR-CA8182471916_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SardineBait_FR-CA8182471916_UHD.jpg)|
+||*Copyright: Des lions de mer de Californie chassant un banc de sardines au large du Mexique, Océan Pacifique (© Henley Spiers/Nature Picture Library)*
 ||
 |||
 
