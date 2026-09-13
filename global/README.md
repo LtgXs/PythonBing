@@ -6,9 +6,9 @@
 ||*Copyright: Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)*
 ||
 |||
-|2026-09-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MisurinaPeak_JA-JP5655621348_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MisurinaPeak_JA-JP5655621348_UHD.jpg)|
-||*Copyright: カディーニ・ディ・ミズリーナ山塊, イタリア (© Vithun Khamsong/Getty Images)*
+|2026-09-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Cosmos2026_JA-JP5810317842_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Cosmos2026_JA-JP5810317842_UHD.jpg)|
+||*Copyright: 川辺のコスモス (© iplan/a.collectionRF/Getty Images)*
 ||
 |||
 |2026-09-13|**Region: en-IN**||
