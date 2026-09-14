@@ -11,9 +11,9 @@
 ||*Copyright: コキア, 中国 (© lingqi xie/Getty Images)*
 ||
 |||
-|2026-09-14|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.KochiaChina_EN-IN7950718460_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KochiaChina_EN-IN7950718460_UHD.jpg)|
-||*Copyright: Field of kochia plants, China (© lingqi xie/Getty Images)*
+|2026-09-15|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.RedMacawsFlight_EN-IN8058515331_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedMacawsFlight_EN-IN8058515331_UHD.jpg)|
+||*Copyright: Red-and-green macaws (© markes51/Getty Images)*
 ||
 |||
 |2026-09-15|**Region: pt-BR**||
