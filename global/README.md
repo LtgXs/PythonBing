@@ -6,14 +6,14 @@
 ||*Copyright: Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)*
 ||
 |||
-|2026-09-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_UHD.jpg)|
-||*Copyright: コキア, 中国 (© lingqi xie/Getty Images)*
+|2026-09-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.IcyCubs_JA-JP6302430788_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcyCubs_JA-JP6302430788_UHD.jpg)|
+||*Copyright: ホッキョクグマの子, ノルウェー (© Danny Green/Nature Picture Library)*
 ||
 |||
-|2026-09-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RedMacawsFlight_EN-IN8058515331_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedMacawsFlight_EN-IN8058515331_UHD.jpg)|
-||*Copyright: Red-and-green macaws (© markes51/Getty Images)*
+|2026-09-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.IcyCubs_EN-IN8228486187_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcyCubs_EN-IN8228486187_UHD.jpg)|
+||*Copyright: Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)*
 ||
 |||
 |2026-09-16|**Region: pt-BR**||

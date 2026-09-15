@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-09-16
+## History Bing Wallpaper
+Wallpaper date: 2026-09-16
 ![](https://www.bing.com/th?id=OHR.IcyCubs_EN-IN8228486187_UHD.jpg&w=1000)Download: [Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)](https://www.bing.com/th?id=OHR.IcyCubs_EN-IN8228486187_UHD.jpg)
 
 Auto get programm by LtgX
