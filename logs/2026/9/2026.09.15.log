@@ -1,0 +1,60 @@
+
+Program started at 14:18:12
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmlun5p
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[14:18:12] Start geting CN Bing Wallpaper
+[14:18:12] Successful get url: https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg
+[14:18:12] Image saved to img/background.jpg
+[14:18:12] Info saved to README.md
+[14:18:12] Image saved to history/2026/09/15.md
+[14:18:12] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-15 10:18:12.929970-04:00
+[14:18:13] Successful get url: https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg
+[14:18:13] Picture infomations saved to  global/en-US/README.md
+[14:18:13] Picture infomations saved to global/en-US/history/2026/09/16_en-US.md
+[14:18:13] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-15 23:18:13.068827+09:00
+[14:18:13] Successful get url: https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_UHD.jpg
+[14:18:13] Picture infomations saved to  global/ja-JP/README.md
+[14:18:13] Picture infomations saved to global/ja-JP/history/2026/09/15_ja-JP.md
+[14:18:13] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-15 19:48:13.201770+05:30
+[14:18:13] Successful get url: https://www.bing.com/th?id=OHR.RedMacawsFlight_EN-IN8058515331_UHD.jpg
+[14:18:13] Picture infomations saved to  global/en-IN/README.md
+[14:18:13] Picture infomations saved to global/en-IN/history/2026/09/15_en-IN.md
+[14:18:13] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-15 11:18:13.332960-03:00
+[14:18:13] Successful get url: https://www.bing.com/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034_UHD.jpg
+[14:18:13] Picture infomations saved to  global/pt-BR/README.md
+[14:18:13] Picture infomations saved to global/pt-BR/history/2026/09/16_pt-BR.md
+[14:18:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-15 16:18:13.466499+02:00
+[14:18:13] Successful get url: https://www.bing.com/th?id=OHR.RedMacawsFlight_FR-FR7707103223_UHD.jpg
+[14:18:13] Picture infomations saved to  global/fr-FR/README.md
+[14:18:13] Picture infomations saved to global/fr-FR/history/2026/09/15_fr-FR.md
+[14:18:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-15 16:18:13.689246+02:00
+[14:18:13] Successful get url: https://www.bing.com/th?id=OHR.RedMacawsFlight_DE-DE7450519779_UHD.jpg
+[14:18:13] Picture infomations saved to  global/de-DE/README.md
+[14:18:13] Picture infomations saved to global/de-DE/history/2026/09/15_de-DE.md
+[14:18:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-15 10:18:13.856863-04:00
+[14:18:13] Successful get url: https://www.bing.com/th?id=OHR.RedMacawsFlight_EN-CA9501790458_UHD.jpg
+[14:18:14] Picture infomations saved to  global/en-CA/README.md
+[14:18:14] Picture infomations saved to global/en-CA/history/2026/09/16_en-CA.md
+[14:18:14] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-15 15:18:14.005168+01:00
+[14:18:14] Successful get url: https://www.bing.com/th?id=OHR.RedMacawsFlight_EN-GB8204775819_UHD.jpg
+[14:18:14] Picture infomations saved to  global/en-GB/README.md
+[14:18:14] Picture infomations saved to global/en-GB/history/2026/09/15_en-GB.md
+[14:18:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-15 16:18:14.127017+02:00
+[14:18:14] Successful get url: https://www.bing.com/th?id=OHR.RedMacawsFlight_IT-IT4575485670_UHD.jpg
+[14:18:14] Picture infomations saved to  global/it-IT/README.md
+[14:18:14] Picture infomations saved to global/it-IT/history/2026/09/15_it-IT.md
+[14:18:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-15 16:18:14.419823+02:00
+[14:18:14] Successful get url: https://www.bing.com/th?id=OHR.RedMacawsFlight_ES-ES0325042957_UHD.jpg
+[14:18:14] Picture infomations saved to  global/es-ES/README.md
+[14:18:14] Picture infomations saved to global/es-ES/history/2026/09/15_es-ES.md
+[14:18:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-15 10:18:14.559827-04:00
+[14:18:14] Successful get url: https://www.bing.com/th?id=OHR.RedMacawsFlight_FR-CA8949552310_UHD.jpg
+[14:18:14] Picture infomations saved to  global/fr-CA/README.md
+[14:18:14] Picture infomations saved to global/fr-CA/history/2026/09/16_fr-CA.md
+Program exit at 14:18:14
