@@ -6,14 +6,14 @@
 ||*Copyright: Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)*
 ||
 |||
-|2026-09-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.IcyCubs_JA-JP6302430788_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcyCubs_JA-JP6302430788_UHD.jpg)|
-||*Copyright: ホッキョクグマの子, ノルウェー (© Danny Green/Nature Picture Library)*
+|2026-09-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Santenay_JA-JP6491231112_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Santenay_JA-JP6491231112_UHD.jpg)|
+||*Copyright: サントネー, フランス (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2026-09-16|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.IcyCubs_EN-IN8228486187_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IcyCubs_EN-IN8228486187_UHD.jpg)|
-||*Copyright: Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)*
+|2026-09-17|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.Santenay_EN-IN8437955164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Santenay_EN-IN8437955164_UHD.jpg)|
+||*Copyright: Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)*
 ||
 |||
 |2026-09-17|**Region: pt-BR**||

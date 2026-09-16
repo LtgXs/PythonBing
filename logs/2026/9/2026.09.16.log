@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [14:10:21] Picture infomations saved to  global/fr-CA/README.md
 [14:10:21] Picture infomations saved to global/fr-CA/history/2026/09/17_fr-CA.md
 Program exit at 14:10:21
+
+Program started at 19:16:08
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmlun5p
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[19:16:08] Start geting CN Bing Wallpaper
+[19:16:08] Successful get url: https://www.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg
+[19:16:08] Image saved to img/background.jpg
+[19:16:08] Info saved to README.md
+[19:16:08] Image saved to history/2026/09/17.md
+[19:16:08] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-16 15:16:08.611217-04:00
+[19:16:08] Successful get url: https://www.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg
+[19:16:09] Picture infomations saved to  global/en-US/README.md
+[19:16:09] Picture infomations saved to global/en-US/history/2026/09/17_en-US.md
+[19:16:09] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-17 04:16:09.062582+09:00
+[19:16:09] Successful get url: https://www.bing.com/th?id=OHR.Santenay_JA-JP6491231112_UHD.jpg
+[19:16:09] Picture infomations saved to  global/ja-JP/README.md
+[19:16:09] Picture infomations saved to global/ja-JP/history/2026/09/17_ja-JP.md
+[19:16:09] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-17 00:46:09.494542+05:30
+[19:16:09] Successful get url: https://www.bing.com/th?id=OHR.Santenay_EN-IN8437955164_UHD.jpg
+[19:16:09] Picture infomations saved to  global/en-IN/README.md
+[19:16:09] Picture infomations saved to global/en-IN/history/2026/09/17_en-IN.md
+[19:16:09] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-16 16:16:09.888411-03:00
+[19:16:09] Successful get url: https://www.bing.com/th?id=OHR.IcyCubs_PT-BR1372199595_UHD.jpg
+[19:16:10] Picture infomations saved to  global/pt-BR/README.md
+[19:16:10] Picture infomations saved to global/pt-BR/history/2026/09/17_pt-BR.md
+[19:16:10] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-16 21:16:10.277244+02:00
+[19:16:10] Successful get url: https://www.bing.com/th?id=OHR.IcyCubs_FR-FR5288498074_UHD.jpg
+[19:16:10] Picture infomations saved to  global/fr-FR/README.md
+[19:16:10] Picture infomations saved to global/fr-FR/history/2026/09/16_fr-FR.md
+[19:16:10] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-16 21:16:10.829428+02:00
+[19:16:10] Successful get url: https://www.bing.com/th?id=OHR.IcyCubs_DE-DE7622238275_UHD.jpg
+[19:16:11] Picture infomations saved to  global/de-DE/README.md
+[19:16:11] Picture infomations saved to global/de-DE/history/2026/09/16_de-DE.md
+[19:16:11] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-16 15:16:11.496307-04:00
+[19:16:11] Successful get url: https://www.bing.com/th?id=OHR.IcyCubs_EN-CA9827485327_UHD.jpg
+[19:16:12] Picture infomations saved to  global/en-CA/README.md
+[19:16:12] Picture infomations saved to global/en-CA/history/2026/09/17_en-CA.md
+[19:16:12] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-16 20:16:12.546155+01:00
+[19:16:12] Successful get url: https://www.bing.com/th?id=OHR.IcyCubs_EN-GB8373772893_UHD.jpg
+[19:16:12] Picture infomations saved to  global/en-GB/README.md
+[19:16:12] Picture infomations saved to global/en-GB/history/2026/09/16_en-GB.md
+[19:16:12] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-16 21:16:12.955158+02:00
+[19:16:13] Successful get url: https://www.bing.com/th?id=OHR.IcyCubs_IT-IT4666651798_UHD.jpg
+[19:16:13] Picture infomations saved to  global/it-IT/README.md
+[19:16:13] Picture infomations saved to global/it-IT/history/2026/09/16_it-IT.md
+[19:16:13] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-16 21:16:13.476677+02:00
+[19:16:13] Successful get url: https://www.bing.com/th?id=OHR.IcyCubs_ES-ES0423960114_UHD.jpg
+[19:16:14] Picture infomations saved to  global/es-ES/README.md
+[19:16:14] Picture infomations saved to global/es-ES/history/2026/09/16_es-ES.md
+[19:16:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-16 15:16:14.028586-04:00
+[19:16:14] Successful get url: https://www.bing.com/th?id=OHR.IcyCubs_FR-CA3759770931_UHD.jpg
+[19:16:14] Picture infomations saved to  global/fr-CA/README.md
+[19:16:14] Picture infomations saved to global/fr-CA/history/2026/09/17_fr-CA.md
+Program exit at 19:16:14
