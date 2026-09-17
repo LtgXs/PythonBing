@@ -6,14 +6,14 @@
 ||*Copyright: Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)*
 ||
 |||
-|2026-09-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Santenay_JA-JP6491231112_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Santenay_JA-JP6491231112_UHD.jpg)|
-||*Copyright: サントネー, フランス (© Marco Bottigelli/Getty Images)*
+|2026-09-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609_UHD.jpg)|
+||*Copyright: ウィナッツ・パス, イングランド (© Daniel_Kay/Getty Images)*
 ||
 |||
-|2026-09-17|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Santenay_EN-IN8437955164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Santenay_EN-IN8437955164_UHD.jpg)|
-||*Copyright: Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)*
+|2026-09-18|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-IN7644884043_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-IN7644884043_UHD.jpg)|
+||*Copyright: Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)*
 ||
 |||
 |2026-09-18|**Region: pt-BR**||
