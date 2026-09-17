@@ -1,0 +1,60 @@
+
+Program started at 14:15:47
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmlun5p
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[14:15:47] Start geting CN Bing Wallpaper
+[14:15:47] Successful get url: https://www.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg
+[14:15:47] Image saved to img/background.jpg
+[14:15:47] Info saved to README.md
+[14:15:47] Image saved to history/2026/09/17.md
+[14:15:47] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-17 10:15:47.900041-04:00
+[14:15:47] Successful get url: https://www.bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg
+[14:15:48] Picture infomations saved to  global/en-US/README.md
+[14:15:48] Picture infomations saved to global/en-US/history/2026/09/18_en-US.md
+[14:15:48] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-17 23:15:48.183550+09:00
+[14:15:48] Successful get url: https://www.bing.com/th?id=OHR.Santenay_JA-JP6491231112_UHD.jpg
+[14:15:48] Picture infomations saved to  global/ja-JP/README.md
+[14:15:48] Picture infomations saved to global/ja-JP/history/2026/09/17_ja-JP.md
+[14:15:48] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-17 19:45:48.676939+05:30
+[14:15:48] Successful get url: https://www.bing.com/th?id=OHR.Santenay_EN-IN8437955164_UHD.jpg
+[14:15:49] Picture infomations saved to  global/en-IN/README.md
+[14:15:49] Picture infomations saved to global/en-IN/history/2026/09/17_en-IN.md
+[14:15:49] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-17 11:15:49.102131-03:00
+[14:15:49] Successful get url: https://www.bing.com/th?id=OHR.Santenay_PT-BR1634508094_UHD.jpg
+[14:15:49] Picture infomations saved to  global/pt-BR/README.md
+[14:15:49] Picture infomations saved to global/pt-BR/history/2026/09/18_pt-BR.md
+[14:15:49] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-17 16:15:49.679379+02:00
+[14:15:49] Successful get url: https://www.bing.com/th?id=OHR.Santenay_FR-FR5987836668_UHD.jpg
+[14:15:50] Picture infomations saved to  global/fr-FR/README.md
+[14:15:50] Picture infomations saved to global/fr-FR/history/2026/09/17_fr-FR.md
+[14:15:50] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-17 16:15:50.189252+02:00
+[14:15:50] Successful get url: https://www.bing.com/th?id=OHR.Santenay_DE-DE7807006506_UHD.jpg
+[14:15:50] Picture infomations saved to  global/de-DE/README.md
+[14:15:50] Picture infomations saved to global/de-DE/history/2026/09/17_de-DE.md
+[14:15:50] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-17 10:15:50.690449-04:00
+[14:15:50] Successful get url: https://www.bing.com/th?id=OHR.Olvera_EN-CA0142222460_UHD.jpg
+[14:15:51] Picture infomations saved to  global/en-CA/README.md
+[14:15:51] Picture infomations saved to global/en-CA/history/2026/09/18_en-CA.md
+[14:15:51] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-17 15:15:51.157983+01:00
+[14:15:51] Successful get url: https://www.bing.com/th?id=OHR.Santenay_EN-GB8477225756_UHD.jpg
+[14:15:51] Picture infomations saved to  global/en-GB/README.md
+[14:15:51] Picture infomations saved to global/en-GB/history/2026/09/17_en-GB.md
+[14:15:51] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-17 16:15:51.626370+02:00
+[14:15:51] Successful get url: https://www.bing.com/th?id=OHR.Santenay_IT-IT4764829953_UHD.jpg
+[14:15:52] Picture infomations saved to  global/it-IT/README.md
+[14:15:52] Picture infomations saved to global/it-IT/history/2026/09/17_it-IT.md
+[14:15:52] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-17 16:15:52.027248+02:00
+[14:15:52] Successful get url: https://www.bing.com/th?id=OHR.Santenay_ES-ES0534993805_UHD.jpg
+[14:15:52] Picture infomations saved to  global/es-ES/README.md
+[14:15:52] Picture infomations saved to global/es-ES/history/2026/09/17_es-ES.md
+[14:15:52] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-17 10:15:52.768661-04:00
+[14:15:52] Successful get url: https://www.bing.com/th?id=OHR.Santenay_FR-CA4331984445_UHD.jpg
+[14:15:53] Picture infomations saved to  global/fr-CA/README.md
+[14:15:53] Picture infomations saved to global/fr-CA/history/2026/09/18_fr-CA.md
+Program exit at 14:15:53
