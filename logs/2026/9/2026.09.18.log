@@ -1,0 +1,60 @@
+
+Program started at 13:33:58
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmlun5p
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[13:33:58] Start geting CN Bing Wallpaper
+[13:33:58] Successful get url: https://www.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg
+[13:33:58] Image saved to img/background.jpg
+[13:33:58] Info saved to README.md
+[13:33:58] Image saved to history/2026/09/18.md
+[13:33:58] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-18 09:33:58.338645-04:00
+[13:33:58] Successful get url: https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg
+[13:33:58] Picture infomations saved to  global/en-US/README.md
+[13:33:58] Picture infomations saved to global/en-US/history/2026/09/19_en-US.md
+[13:33:58] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-18 22:33:58.484556+09:00
+[13:33:58] Successful get url: https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609_UHD.jpg
+[13:33:58] Picture infomations saved to  global/ja-JP/README.md
+[13:33:58] Picture infomations saved to global/ja-JP/history/2026/09/18_ja-JP.md
+[13:33:58] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-18 19:03:58.619498+05:30
+[13:33:58] Successful get url: https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-IN7644884043_UHD.jpg
+[13:33:58] Picture infomations saved to  global/en-IN/README.md
+[13:33:58] Picture infomations saved to global/en-IN/history/2026/09/18_en-IN.md
+[13:33:58] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-18 10:33:58.817540-03:00
+[13:33:58] Successful get url: https://www.bing.com/th?id=OHR.WinnatsPassPeak_PT-BR5887935422_UHD.jpg
+[13:34:00] Picture infomations saved to  global/pt-BR/README.md
+[13:34:00] Picture infomations saved to global/pt-BR/history/2026/09/19_pt-BR.md
+[13:34:00] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-18 15:34:00.506001+02:00
+[13:34:00] Successful get url: https://www.bing.com/th?id=OHR.WinnatsPassPeak_FR-FR7611183995_UHD.jpg
+[13:34:01] Picture infomations saved to  global/fr-FR/README.md
+[13:34:01] Picture infomations saved to global/fr-FR/history/2026/09/18_fr-FR.md
+[13:34:01] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-18 15:34:01.276494+02:00
+[13:34:01] Successful get url: https://www.bing.com/th?id=OHR.WinnatsPassPeak_DE-DE1067601127_UHD.jpg
+[13:34:01] Picture infomations saved to  global/de-DE/README.md
+[13:34:01] Picture infomations saved to global/de-DE/history/2026/09/18_de-DE.md
+[13:34:01] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-18 09:34:01.451937-04:00
+[13:34:01] Successful get url: https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-CA3554895186_UHD.jpg
+[13:34:01] Picture infomations saved to  global/en-CA/README.md
+[13:34:01] Picture infomations saved to global/en-CA/history/2026/09/19_en-CA.md
+[13:34:01] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-18 14:34:01.721231+01:00
+[13:34:01] Successful get url: https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-GB8850951451_UHD.jpg
+[13:34:02] Picture infomations saved to  global/en-GB/README.md
+[13:34:02] Picture infomations saved to global/en-GB/history/2026/09/18_en-GB.md
+[13:34:02] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-18 15:34:02.636801+02:00
+[13:34:02] Successful get url: https://www.bing.com/th?id=OHR.WinnatsPassPeak_IT-IT0574437458_UHD.jpg
+[13:34:02] Picture infomations saved to  global/it-IT/README.md
+[13:34:02] Picture infomations saved to global/it-IT/history/2026/09/18_it-IT.md
+[13:34:02] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-18 15:34:02.790303+02:00
+[13:34:02] Successful get url: https://www.bing.com/th?id=OHR.SanSebastian_ES-ES7080505846_UHD.jpg
+[13:34:02] Picture infomations saved to  global/es-ES/README.md
+[13:34:02] Picture infomations saved to global/es-ES/history/2026/09/18_es-ES.md
+[13:34:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-18 09:34:02.943404-04:00
+[13:34:02] Successful get url: https://www.bing.com/th?id=OHR.WinnatsPassPeak_FR-CA8454495397_UHD.jpg
+[13:34:03] Picture infomations saved to  global/fr-CA/README.md
+[13:34:03] Picture infomations saved to global/fr-CA/history/2026/09/19_fr-CA.md
+Program exit at 13:34:03
