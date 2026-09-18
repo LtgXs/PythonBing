@@ -6,14 +6,14 @@
 ||*Copyright: Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)*
 ||
 |||
-|2026-09-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609_UHD.jpg)|
-||*Copyright: ウィナッツ・パス, イングランド (© Daniel_Kay/Getty Images)*
+|2026-09-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AlphornBavaria_JA-JP7669654652_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_JA-JP7669654652_UHD.jpg)|
+||*Copyright: アルプホルン奏者たち, ドイツ (© U. J. Alexander/Shutterstock)*
 ||
 |||
-|2026-09-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-IN7644884043_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-IN7644884043_UHD.jpg)|
-||*Copyright: Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)*
+|2026-09-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-IN7812928124_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-IN7812928124_UHD.jpg)|
+||*Copyright: Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)*
 ||
 |||
 |2026-09-19|**Region: pt-BR**||
