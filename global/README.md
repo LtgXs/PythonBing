@@ -6,9 +6,9 @@
 ||*Copyright: Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)*
 ||
 |||
-|2026-09-19|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AlphornBavaria_JA-JP7669654652_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_JA-JP7669654652_UHD.jpg)|
-||*Copyright: アルプホルン奏者たち, ドイツ (© U. J. Alexander/Shutterstock)*
+|2026-09-20|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ParisSunset_JA-JP6560235841_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_JA-JP6560235841_UHD.jpg)|
+||*Copyright: パリ, フランス (© Alexander Spatari/Getty Images)*
 ||
 |||
 |2026-09-19|**Region: en-IN**||
