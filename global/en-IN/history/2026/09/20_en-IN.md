@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-09-20
+## History Bing Wallpaper
+Wallpaper date: 2026-09-20
 ![](https://www.bing.com/th?id=OHR.ParisSunset_EN-IN7894876294_UHD.jpg&w=1000)Download: [Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)](https://www.bing.com/th?id=OHR.ParisSunset_EN-IN7894876294_UHD.jpg)
 
 Auto get programm by LtgX

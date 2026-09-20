@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-09-20|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg)|
-||*Copyright: Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)*
+|2026-09-21|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg)|
+||*Copyright: Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)*
 ||
 |||
 |2026-09-20|**Region: ja-JP**||
@@ -11,49 +11,49 @@
 ||*Copyright: パリ, フランス (© Alexander Spatari/Getty Images)*
 ||
 |||
-|2026-09-19|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-IN7812928124_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-IN7812928124_UHD.jpg)|
-||*Copyright: Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)*
+|2026-09-20|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ParisSunset_EN-IN7894876294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_EN-IN7894876294_UHD.jpg)|
+||*Copyright: Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)*
 ||
 |||
-|2026-09-20|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AlphornBavaria_PT-BR5395210076_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_PT-BR5395210076_UHD.jpg)|
-||*Copyright: Músicos de trompa alpina, Baviera, Alemanha (© U. J. Alexander/Shutterstock)*
+|2026-09-21|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.ParisSunset_PT-BR5131210882_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_PT-BR5131210882_UHD.jpg)|
+||*Copyright: Torre Eiffel ao pôr do sol, Paris, França (© Alexander Spatari/Getty Images)*
 ||
 |||
-|2026-09-19|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AlphornBavaria_FR-FR7751398658_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_FR-FR7751398658_UHD.jpg)|
-||*Copyright: Joueurs de cor des Alpes, Bavière, Allemagne (© U. J. Alexander/Shutterstock)*
+|2026-09-20|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_UHD.jpg)|
+||*Copyright: Château de Castelnaud, Castelnaud-la-Chapelle, Nouvelle-Aquitaine (© garethkirklandphotogrphy/Getty Images)*
 ||
 |||
-|2026-09-19|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.OktoberfestMunich_DE-DE1236844623_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OktoberfestMunich_DE-DE1236844623_UHD.jpg)|
-||*Copyright: Oktoberfest München, Bayern (© FooTToo/Getty Images)*
+|2026-09-20|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ParisSunset_DE-DE1426517976_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_DE-DE1426517976_UHD.jpg)|
+||*Copyright: Eiffelturm bei Sonnenuntergang, Paris, Frankreich (© Alexander Spatari/Getty Images)*
 ||
 |||
-|2026-09-20|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-CA4386550572_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-CA4386550572_UHD.jpg)|
-||*Copyright: Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)*
+|2026-09-21|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ParisSunset_EN-CA5063473686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_EN-CA5063473686_UHD.jpg)|
+||*Copyright: Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)*
 ||
 |||
-|2026-09-19|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-GB8912057279_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-GB8912057279_UHD.jpg)|
-||*Copyright: Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)*
+|2026-09-20|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ParisSunset_EN-GB8990968501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_EN-GB8990968501_UHD.jpg)|
+||*Copyright: Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)*
 ||
 |||
-|2026-09-19|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BorgoMarinari_IT-IT7423218886_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BorgoMarinari_IT-IT7423218886_UHD.jpg)|
-||*Copyright: A Borgo Marinari, sul Golfo di Napoli, Campania, Italia (© Siegfried Schnepf/Getty Images)*
+|2026-09-20|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AlphornBavaria_IT-IT7483263500_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_IT-IT7483263500_UHD.jpg)|
+||*Copyright: Giocatori di alphorn, Baviera, Germania (© U. J. Alexander/Shutterstock)*
 ||
 |||
-|2026-09-19|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AlphornBavaria_ES-ES7277929054_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_ES-ES7277929054_UHD.jpg)|
-||*Copyright: Músicos tocando la trompa de los Alpes, Waltenhofen, Baviera, Alemania (© U. J. Alexander/Shutterstock)*
+|2026-09-20|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ParisSunset_ES-ES7380438298_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_ES-ES7380438298_UHD.jpg)|
+||*Copyright: Torre Eiffel al atardecer, París, Francia (© Alexander Spatari/Getty Images)*
 ||
 |||
-|2026-09-20|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AlphornBavaria_FR-CA8631597445_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_FR-CA8631597445_UHD.jpg)|
-||*Copyright: Joueurs de cor des Alpes, Bavière, Allemagne (© U. J. Alexander/Shutterstock)*
+|2026-09-21|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_UHD.jpg)|
+||*Copyright: La tour Eiffel au coucher de soleil, Paris, France (© Alexander Spatari/Getty Images)*
 ||
 |||
 
