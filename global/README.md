@@ -6,9 +6,9 @@
 ||*Copyright: Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)*
 ||
 |||
-|2026-09-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ParisSunset_JA-JP6560235841_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_JA-JP6560235841_UHD.jpg)|
-||*Copyright: パリ, フランス (© Alexander Spatari/Getty Images)*
+|2026-09-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.GroomingOtter_JA-JP7012183872_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GroomingOtter_JA-JP7012183872_UHD.jpg)|
+||*Copyright: ラッコ, 米国 カリフォルニア州 (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
 |2026-09-20|**Region: en-IN**||
