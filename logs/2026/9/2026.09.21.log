@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [15:52:26] Picture infomations saved to  global/fr-CA/README.md
 [15:52:26] Picture infomations saved to global/fr-CA/history/2026/09/22_fr-CA.md
 Program exit at 15:52:26
+
+Program started at 20:12:45
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmlun5p
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[20:12:45] Start geting CN Bing Wallpaper
+[20:12:45] Successful get url: https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg
+[20:12:46] Image saved to img/background.jpg
+[20:12:46] Info saved to README.md
+[20:12:46] Image saved to history/2026/09/22.md
+[20:12:46] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-21 16:12:46.129534-04:00
+[20:12:46] Successful get url: https://www.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg
+[20:12:46] Picture infomations saved to  global/en-US/README.md
+[20:12:46] Picture infomations saved to global/en-US/history/2026/09/22_en-US.md
+[20:12:46] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-22 05:12:46.317371+09:00
+[20:12:46] Successful get url: https://www.bing.com/th?id=OHR.FallAspens_JA-JP7201900997_UHD.jpg
+[20:12:46] Picture infomations saved to  global/ja-JP/README.md
+[20:12:46] Picture infomations saved to global/ja-JP/history/2026/09/22_ja-JP.md
+[20:12:46] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-22 01:42:46.472225+05:30
+[20:12:46] Successful get url: https://www.bing.com/th?id=OHR.ElGolfo_EN-IN8071994539_UHD.jpg
+[20:12:46] Picture infomations saved to  global/en-IN/README.md
+[20:12:46] Picture infomations saved to global/en-IN/history/2026/09/22_en-IN.md
+[20:12:46] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-21 17:12:46.631821-03:00
+[20:12:46] Successful get url: https://www.bing.com/th?id=OHR.GroomingOtter_PT-BR4986034219_UHD.jpg
+[20:12:46] Picture infomations saved to  global/pt-BR/README.md
+[20:12:46] Picture infomations saved to global/pt-BR/history/2026/09/22_pt-BR.md
+[20:12:46] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-21 22:12:46.814911+02:00
+[20:12:46] Successful get url: https://www.bing.com/th?id=OHR.GroomingOtter_FR-FR7953128169_UHD.jpg
+[20:12:47] Picture infomations saved to  global/fr-FR/README.md
+[20:12:47] Picture infomations saved to global/fr-FR/history/2026/09/21_fr-FR.md
+[20:12:47] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-21 22:12:47.171980+02:00
+[20:12:47] Successful get url: https://www.bing.com/th?id=OHR.GroomingOtter_DE-DE1586162162_UHD.jpg
+[20:12:47] Picture infomations saved to  global/de-DE/README.md
+[20:12:47] Picture infomations saved to global/de-DE/history/2026/09/21_de-DE.md
+[20:12:47] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-21 16:12:47.336194-04:00
+[20:12:47] Successful get url: https://www.bing.com/th?id=OHR.GroomingOtter_EN-CA5802555233_UHD.jpg
+[20:12:47] Picture infomations saved to  global/en-CA/README.md
+[20:12:47] Picture infomations saved to global/en-CA/history/2026/09/22_en-CA.md
+[20:12:47] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-21 21:12:47.562191+01:00
+[20:12:47] Successful get url: https://www.bing.com/th?id=OHR.GroomingOtter_EN-GB9079842121_UHD.jpg
+[20:12:47] Picture infomations saved to  global/en-GB/README.md
+[20:12:47] Picture infomations saved to global/en-GB/history/2026/09/21_en-GB.md
+[20:12:47] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-21 22:12:47.765960+02:00
+[20:12:47] Successful get url: https://www.bing.com/th?id=OHR.GroomingOtter_IT-IT7662965878_UHD.jpg
+[20:12:48] Picture infomations saved to  global/it-IT/README.md
+[20:12:48] Picture infomations saved to global/it-IT/history/2026/09/21_it-IT.md
+[20:12:48] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-21 22:12:48.155275+02:00
+[20:12:48] Successful get url: https://www.bing.com/th?id=OHR.GroomingOtter_ES-ES7483799211_UHD.jpg
+[20:12:48] Picture infomations saved to  global/es-ES/README.md
+[20:12:48] Picture infomations saved to global/es-ES/history/2026/09/21_es-ES.md
+[20:12:48] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-21 16:12:48.279338-04:00
+[20:12:48] Successful get url: https://www.bing.com/th?id=OHR.GroomingOtter_FR-CA9172746231_UHD.jpg
+[20:12:48] Picture infomations saved to  global/fr-CA/README.md
+[20:12:48] Picture infomations saved to global/fr-CA/history/2026/09/22_fr-CA.md
+Program exit at 20:12:48
