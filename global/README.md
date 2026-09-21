@@ -1,59 +1,59 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-09-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg)|
-||*Copyright: Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)*
+|2026-09-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg)|
+||*Copyright: Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2026-09-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GroomingOtter_JA-JP7012183872_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GroomingOtter_JA-JP7012183872_UHD.jpg)|
-||*Copyright: ラッコ, 米国 カリフォルニア州 (© Suzi Eszterhas/Minden Pictures)*
+|2026-09-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FallAspens_JA-JP7201900997_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FallAspens_JA-JP7201900997_UHD.jpg)|
+||*Copyright: アスペンの森, 米国 ユタ州 (© Danita Delimont/Shutterstock)*
 ||
 |||
-|2026-09-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ParisSunset_EN-IN7894876294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_EN-IN7894876294_UHD.jpg)|
-||*Copyright: Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)*
+|2026-09-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GroomingOtter_EN-IN7966484109_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GroomingOtter_EN-IN7966484109_UHD.jpg)|
+||*Copyright: Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2026-09-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.ParisSunset_PT-BR5131210882_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_PT-BR5131210882_UHD.jpg)|
-||*Copyright: Torre Eiffel ao pôr do sol, Paris, França (© Alexander Spatari/Getty Images)*
+|2026-09-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GroomingOtter_PT-BR4986034219_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GroomingOtter_PT-BR4986034219_UHD.jpg)|
+||*Copyright: Lontra-marinha na Baía de Monterey, Califórnia, EUA (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2026-09-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_UHD.jpg)|
-||*Copyright: Château de Castelnaud, Castelnaud-la-Chapelle, Nouvelle-Aquitaine (© garethkirklandphotogrphy/Getty Images)*
+|2026-09-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GroomingOtter_FR-FR7953128169_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GroomingOtter_FR-FR7953128169_UHD.jpg)|
+||*Copyright: Loutre de mer peignant son pelage, Baie de Monterey, Californie, États-Unis (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2026-09-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.ParisSunset_DE-DE1426517976_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_DE-DE1426517976_UHD.jpg)|
-||*Copyright: Eiffelturm bei Sonnenuntergang, Paris, Frankreich (© Alexander Spatari/Getty Images)*
+|2026-09-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GroomingOtter_DE-DE1586162162_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GroomingOtter_DE-DE1586162162_UHD.jpg)|
+||*Copyright: Seeotter bei der Fellpflege, Monterey Bay, Kalifornien, USA (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2026-09-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ParisSunset_EN-CA5063473686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_EN-CA5063473686_UHD.jpg)|
-||*Copyright: Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)*
+|2026-09-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GroomingOtter_EN-CA5802555233_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GroomingOtter_EN-CA5802555233_UHD.jpg)|
+||*Copyright: Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2026-09-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ParisSunset_EN-GB8990968501_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_EN-GB8990968501_UHD.jpg)|
-||*Copyright: Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)*
+|2026-09-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GroomingOtter_EN-GB9079842121_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GroomingOtter_EN-GB9079842121_UHD.jpg)|
+||*Copyright: Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2026-09-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AlphornBavaria_IT-IT7483263500_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlphornBavaria_IT-IT7483263500_UHD.jpg)|
-||*Copyright: Giocatori di alphorn, Baviera, Germania (© U. J. Alexander/Shutterstock)*
+|2026-09-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GroomingOtter_IT-IT7662965878_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GroomingOtter_IT-IT7662965878_UHD.jpg)|
+||*Copyright: Lontra marina, baia di Monterey, California, USA (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2026-09-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ParisSunset_ES-ES7380438298_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_ES-ES7380438298_UHD.jpg)|
-||*Copyright: Torre Eiffel al atardecer, París, Francia (© Alexander Spatari/Getty Images)*
+|2026-09-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GroomingOtter_ES-ES7483799211_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GroomingOtter_ES-ES7483799211_UHD.jpg)|
+||*Copyright: Nutria marina acicalándose, Bahía de Monterey, California, EE. UU. (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2026-09-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_FR-CA9828122530_UHD.jpg)|
-||*Copyright: La tour Eiffel au coucher de soleil, Paris, France (© Alexander Spatari/Getty Images)*
+|2026-09-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GroomingOtter_FR-CA9172746231_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GroomingOtter_FR-CA9172746231_UHD.jpg)|
+||*Copyright: Loutre de mer peignant son pelage, Baie de Monterey, Californie, États-Unis (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
 
