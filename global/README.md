@@ -6,14 +6,14 @@
 ||*Copyright: Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)*
 ||
 |||
-|2026-09-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.FallAspens_JA-JP7201900997_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FallAspens_JA-JP7201900997_UHD.jpg)|
-||*Copyright: アスペンの森, 米国 ユタ州 (© Danita Delimont/Shutterstock)*
+|2026-09-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593_UHD.jpg)|
+||*Copyright: 秋の七草のナデシコ (© igaguri_1/Getty Images)*
 ||
 |||
-|2026-09-22|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ElGolfo_EN-IN8071994539_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElGolfo_EN-IN8071994539_UHD.jpg)|
-||*Copyright: Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)*
+|2026-09-23|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133_UHD.jpg)|
+||*Copyright: Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)*
 ||
 |||
 |2026-09-23|**Region: pt-BR**||
