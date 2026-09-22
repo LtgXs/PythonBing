@@ -1,0 +1,60 @@
+
+Program started at 14:00:48
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmlun5p
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[14:00:48] Start geting CN Bing Wallpaper
+[14:00:48] Successful get url: https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg
+[14:00:48] Image saved to img/background.jpg
+[14:00:48] Info saved to README.md
+[14:00:48] Image saved to history/2026/09/22.md
+[14:00:48] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-22 10:00:48.944297-04:00
+[14:00:49] Successful get url: https://www.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg
+[14:00:49] Picture infomations saved to  global/en-US/README.md
+[14:00:49] Picture infomations saved to global/en-US/history/2026/09/23_en-US.md
+[14:00:49] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-22 23:00:49.108180+09:00
+[14:00:49] Successful get url: https://www.bing.com/th?id=OHR.FallAspens_JA-JP7201900997_UHD.jpg
+[14:00:49] Picture infomations saved to  global/ja-JP/README.md
+[14:00:49] Picture infomations saved to global/ja-JP/history/2026/09/22_ja-JP.md
+[14:00:49] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-22 19:30:49.236468+05:30
+[14:00:49] Successful get url: https://www.bing.com/th?id=OHR.ElGolfo_EN-IN8071994539_UHD.jpg
+[14:00:49] Picture infomations saved to  global/en-IN/README.md
+[14:00:49] Picture infomations saved to global/en-IN/history/2026/09/22_en-IN.md
+[14:00:49] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-22 11:00:49.776259-03:00
+[14:00:49] Successful get url: https://www.bing.com/th?id=OHR.FallAspens_PT-BR3565559044_UHD.jpg
+[14:00:50] Picture infomations saved to  global/pt-BR/README.md
+[14:00:50] Picture infomations saved to global/pt-BR/history/2026/09/23_pt-BR.md
+[14:00:50] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-22 16:00:50.149105+02:00
+[14:00:50] Successful get url: https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_UHD.jpg
+[14:00:50] Picture infomations saved to  global/fr-FR/README.md
+[14:00:50] Picture infomations saved to global/fr-FR/history/2026/09/22_fr-FR.md
+[14:00:50] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-22 16:00:50.519197+02:00
+[14:00:50] Successful get url: https://www.bing.com/th?id=OHR.TolkienWeek_DE-DE1744424672_UHD.jpg
+[14:00:50] Picture infomations saved to  global/de-DE/README.md
+[14:00:50] Picture infomations saved to global/de-DE/history/2026/09/22_de-DE.md
+[14:00:50] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-22 10:00:50.634716-04:00
+[14:00:50] Successful get url: https://www.bing.com/th?id=OHR.FallAspens_EN-CA6568286298_UHD.jpg
+[14:00:51] Picture infomations saved to  global/en-CA/README.md
+[14:00:51] Picture infomations saved to global/en-CA/history/2026/09/23_en-CA.md
+[14:00:51] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-22 15:00:51.547031+01:00
+[14:00:51] Successful get url: https://www.bing.com/th?id=OHR.ElGolfo_EN-GB9192637782_UHD.jpg
+[14:00:51] Picture infomations saved to  global/en-GB/README.md
+[14:00:51] Picture infomations saved to global/en-GB/history/2026/09/22_en-GB.md
+[14:00:51] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-22 16:00:51.739787+02:00
+[14:00:51] Successful get url: https://www.bing.com/th?id=OHR.TolkienWeek_IT-IT7744314580_UHD.jpg
+[14:00:52] Picture infomations saved to  global/it-IT/README.md
+[14:00:52] Picture infomations saved to global/it-IT/history/2026/09/22_it-IT.md
+[14:00:52] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-22 16:00:52.018571+02:00
+[14:00:52] Successful get url: https://www.bing.com/th?id=OHR.TolkienWeek_ES-ES8577009856_UHD.jpg
+[14:00:52] Picture infomations saved to  global/es-ES/README.md
+[14:00:52] Picture infomations saved to global/es-ES/history/2026/09/22_es-ES.md
+[14:00:52] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-22 10:00:52.236391-04:00
+[14:00:52] Successful get url: https://www.bing.com/th?id=OHR.FallAspens_FR-CA3892904931_UHD.jpg
+[14:00:52] Picture infomations saved to  global/fr-CA/README.md
+[14:00:52] Picture infomations saved to global/fr-CA/history/2026/09/23_fr-CA.md
+Program exit at 14:00:52
