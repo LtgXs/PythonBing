@@ -6,14 +6,14 @@
 ||*Copyright: Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)*
 ||
 |||
-|2026-09-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593_UHD.jpg)|
-||*Copyright: 秋の七草のナデシコ (© igaguri_1/Getty Images)*
+|2026-09-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_UHD.jpg)|
+||*Copyright: ランサローテ島, スペイン (© Westend61/Adobe Stock)*
 ||
 |||
-|2026-09-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133_UHD.jpg)|
-||*Copyright: Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)*
+|2026-09-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TolkienWeek_EN-IN8323924749_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienWeek_EN-IN8323924749_UHD.jpg)|
+||*Copyright: Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)*
 ||
 |||
 |2026-09-24|**Region: pt-BR**||
