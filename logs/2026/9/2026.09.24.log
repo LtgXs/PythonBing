@@ -1,0 +1,60 @@
+
+Program started at 14:10:47
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmtr4k5
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[14:10:47] Start geting CN Bing Wallpaper
+[14:10:47] Successful get url: https://www.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg
+[14:10:47] Image saved to img/background.jpg
+[14:10:47] Info saved to README.md
+[14:10:47] Image saved to history/2026/09/24.md
+[14:10:47] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-24 10:10:47.923799-04:00
+[14:10:48] Successful get url: https://www.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg
+[14:10:48] Picture infomations saved to  global/en-US/README.md
+[14:10:48] Picture infomations saved to global/en-US/history/2026/09/25_en-US.md
+[14:10:48] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-24 23:10:48.244837+09:00
+[14:10:48] Successful get url: https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_UHD.jpg
+[14:10:48] Picture infomations saved to  global/ja-JP/README.md
+[14:10:48] Picture infomations saved to global/ja-JP/history/2026/09/24_ja-JP.md
+[14:10:48] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-24 19:40:48.756342+05:30
+[14:10:48] Successful get url: https://www.bing.com/th?id=OHR.TolkienWeek_EN-IN8323924749_UHD.jpg
+[14:10:49] Picture infomations saved to  global/en-IN/README.md
+[14:10:49] Picture infomations saved to global/en-IN/history/2026/09/24_en-IN.md
+[14:10:49] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-24 11:10:49.064447-03:00
+[14:10:49] Successful get url: https://www.bing.com/th?id=OHR.TolkienWeek_PT-BR2214990560_UHD.jpg
+[14:10:49] Picture infomations saved to  global/pt-BR/README.md
+[14:10:49] Picture infomations saved to global/pt-BR/history/2026/09/25_pt-BR.md
+[14:10:49] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-24 16:10:49.365037+02:00
+[14:10:49] Successful get url: https://www.bing.com/th?id=OHR.ElGolfo_FR-FR8422872224_UHD.jpg
+[14:10:49] Picture infomations saved to  global/fr-FR/README.md
+[14:10:49] Picture infomations saved to global/fr-FR/history/2026/09/24_fr-FR.md
+[14:10:49] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-24 16:10:49.776510+02:00
+[14:10:49] Successful get url: https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_UHD.jpg
+[14:10:50] Picture infomations saved to  global/de-DE/README.md
+[14:10:50] Picture infomations saved to global/de-DE/history/2026/09/24_de-DE.md
+[14:10:50] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-24 10:10:50.106992-04:00
+[14:10:50] Successful get url: https://www.bing.com/th?id=OHR.ElGolfo_EN-CA7672858081_UHD.jpg
+[14:10:50] Picture infomations saved to  global/en-CA/README.md
+[14:10:50] Picture infomations saved to global/en-CA/history/2026/09/25_en-CA.md
+[14:10:50] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-24 15:10:50.671238+01:00
+[14:10:50] Successful get url: https://www.bing.com/th?id=OHR.TolkienWeek_EN-GB9361035480_UHD.jpg
+[14:10:51] Picture infomations saved to  global/en-GB/README.md
+[14:10:51] Picture infomations saved to global/en-GB/history/2026/09/24_en-GB.md
+[14:10:51] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-24 16:10:51.128114+02:00
+[14:10:51] Successful get url: https://www.bing.com/th?id=OHR.ElGolfo_IT-IT8270823745_UHD.jpg
+[14:10:51] Picture infomations saved to  global/it-IT/README.md
+[14:10:51] Picture infomations saved to global/it-IT/history/2026/09/24_it-IT.md
+[14:10:51] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-24 16:10:51.521302+02:00
+[14:10:51] Successful get url: https://www.bing.com/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972_UHD.jpg
+[14:10:51] Picture infomations saved to  global/es-ES/README.md
+[14:10:51] Picture infomations saved to global/es-ES/history/2026/09/24_es-ES.md
+[14:10:51] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-24 10:10:51.995084-04:00
+[14:10:52] Successful get url: https://www.bing.com/th?id=OHR.ElGolfo_FR-CA4400313791_UHD.jpg
+[14:10:52] Picture infomations saved to  global/fr-CA/README.md
+[14:10:52] Picture infomations saved to global/fr-CA/history/2026/09/25_fr-CA.md
+Program exit at 14:10:52

@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-09-24|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg)|
-||*Copyright: Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)*
+|2026-09-25|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg)|
+||*Copyright: Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)*
 ||
 |||
 |2026-09-24|**Region: ja-JP**||
@@ -16,44 +16,44 @@
 ||*Copyright: Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)*
 ||
 |||
-|2026-09-24|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SpringTree_PT-BR3107057910_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SpringTree_PT-BR3107057910_UHD.jpg)|
-||*Copyright: Ipê-amarelo florido contra o céu azul (© Rogerio Peccioli/Getty Images)*
+|2026-09-25|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.TolkienWeek_PT-BR2214990560_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienWeek_PT-BR2214990560_UHD.jpg)|
+||*Copyright: Vila dos Hobbits em Matamata, Nova Zelândia (© djr-photography/Shutterstock)*
 ||
 |||
-|2026-09-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_UHD.jpg)|
-||*Copyright: Peupliers faux-trembles près du col de Guardsman Pass, Utah, États-Unis (© Danita Delimont/Shutterstock)*
+|2026-09-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.ElGolfo_FR-FR8422872224_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElGolfo_FR-FR8422872224_UHD.jpg)|
+||*Copyright: Vue aérienne de la plage de sable noir El Golfo, Lanzarote, Îles Canaries, Espagne (© Westend61/Adobe Stock)*
 ||
 |||
-|2026-09-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_UHD.jpg)|
-||*Copyright: Herbstliche Espen nahe dem Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)*
+|2026-09-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_UHD.jpg)|
+||*Copyright: Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)*
 ||
 |||
-|2026-09-24|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TolkienWeek_EN-CA7225706887_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienWeek_EN-CA7225706887_UHD.jpg)|
+|2026-09-25|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ElGolfo_EN-CA7672858081_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElGolfo_EN-CA7672858081_UHD.jpg)|
+||*Copyright: Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)*
+||
+|||
+|2026-09-24|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.TolkienWeek_EN-GB9361035480_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienWeek_EN-GB9361035480_UHD.jpg)|
 ||*Copyright: Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)*
 ||
 |||
-|2026-09-23|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FallAspens_EN-GB9268931266_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FallAspens_EN-GB9268931266_UHD.jpg)|
-||*Copyright: Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)*
+|2026-09-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.ElGolfo_IT-IT8270823745_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElGolfo_IT-IT8270823745_UHD.jpg)|
+||*Copyright: Vista aerea della spiaggia di lava nera, El Golfo, Lanzarote, Isole Canarie, Spagna (© Westend61/Adobe Stock)*
 ||
 |||
-|2026-09-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AutumnTrentino_IT-IT8118999546_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnTrentino_IT-IT8118999546_UHD.jpg)|
-||*Copyright: Chiesa in Val di Funes, Trentino-Alto Adige, Dolomiti, Italia (© DieterMeyrl/Getty Images)*
+|2026-09-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972_UHD.jpg)|
+||*Copyright: Vista del Parque Güell en Barcelona, Cataluña, España (© Vershinin/Getty Images)*
 ||
 |||
-|2026-09-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FallAspens_ES-ES8557164613_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FallAspens_ES-ES8557164613_UHD.jpg)|
-||*Copyright: Álamos de otoño cerca de Guardsman Pass, Utah, EE. UU. (© Danita Delimont/Shutterstock)*
-||
-|||
-|2026-09-24|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TolkienWeek_FR-CA4077123678_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienWeek_FR-CA4077123678_UHD.jpg)|
-||*Copyright: Maison Hobbit dans le décor de Hobbiton, Matamata, Nouvelle-Zélande (© djr-photography/Shutterstock)*
+|2026-09-25|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.ElGolfo_FR-CA4400313791_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElGolfo_FR-CA4400313791_UHD.jpg)|
+||*Copyright: Vue aérienne de la plage de sable noir El Golfo, Lanzarote, Îles Canaries, Espagne (© Westend61/Adobe Stock)*
 ||
 |||
 
