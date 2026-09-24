@@ -6,14 +6,14 @@
 ||*Copyright: Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)*
 ||
 |||
-|2026-09-24|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_UHD.jpg)|
-||*Copyright: ランサローテ島, スペイン (© Westend61/Adobe Stock)*
+|2026-09-25|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.MidAutumn2026_JA-JP8034446964_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumn2026_JA-JP8034446964_UHD.jpg)|
+||*Copyright: 中秋節用の中国提灯 (© LeeYiuTung/Getty Images)*
 ||
 |||
-|2026-09-24|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.TolkienWeek_EN-IN8323924749_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TolkienWeek_EN-IN8323924749_UHD.jpg)|
-||*Copyright: Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)*
+|2026-09-25|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MidAutumn2026_EN-IN8396341266_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumn2026_EN-IN8396341266_UHD.jpg)|
+||*Copyright: Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)*
 ||
 |||
 |2026-09-25|**Region: pt-BR**||
