@@ -6,14 +6,14 @@
 ||*Copyright: Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)*
 ||
 |||
-|2026-09-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.MidAutumn2026_JA-JP8034446964_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumn2026_JA-JP8034446964_UHD.jpg)|
-||*Copyright: 中秋節用の中国提灯 (© LeeYiuTung/Getty Images)*
+|2026-09-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_UHD.jpg)|
+||*Copyright: シーダーメサ, 米国 ユタ州 (© Jeff Clay/Tandem Stills + Motion)*
 ||
 |||
-|2026-09-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MidAutumn2026_EN-IN8396341266_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MidAutumn2026_EN-IN8396341266_UHD.jpg)|
-||*Copyright: Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)*
+|2026-09-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BearsEars_EN-IN8507636618_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BearsEars_EN-IN8507636618_UHD.jpg)|
+||*Copyright: Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States (© Jeff Clay/Tandem Stills + Motion)*
 ||
 |||
 |2026-09-26|**Region: pt-BR**||
