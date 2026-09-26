@@ -6,14 +6,14 @@
 ||*Copyright: Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)*
 ||
 |||
-|2026-09-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_UHD.jpg)|
-||*Copyright: シーダーメサ, 米国 ユタ州 (© Jeff Clay/Tandem Stills + Motion)*
+|2026-09-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.YokohamaBayBridge_JA-JP8812921625_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YokohamaBayBridge_JA-JP8812921625_UHD.jpg)|
+||*Copyright: 横浜ベイブリッジ, 神奈川県 横浜市 (© Yuga Kurita/Getty Images)*
 ||
 |||
-|2026-09-26|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BearsEars_EN-IN8507636618_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BearsEars_EN-IN8507636618_UHD.jpg)|
-||*Copyright: Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States (© Jeff Clay/Tandem Stills + Motion)*
+|2026-09-27|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.DecoCrab_EN-IN8596521807_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DecoCrab_EN-IN8596521807_UHD.jpg)|
+||*Copyright: Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)*
 ||
 |||
 |2026-09-27|**Region: pt-BR**||
