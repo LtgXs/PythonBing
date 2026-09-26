@@ -1,0 +1,60 @@
+
+Program started at 13:43:35
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmtr4k5
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[13:43:35] Start geting CN Bing Wallpaper
+[13:43:35] Successful get url: https://www.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg
+[13:43:36] Image saved to img/background.jpg
+[13:43:36] Info saved to README.md
+[13:43:36] Image saved to history/2026/09/26.md
+[13:43:36] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-26 09:43:36.066378-04:00
+[13:43:36] Successful get url: https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg
+[13:43:36] Picture infomations saved to  global/en-US/README.md
+[13:43:36] Picture infomations saved to global/en-US/history/2026/09/27_en-US.md
+[13:43:36] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-26 22:43:36.220760+09:00
+[13:43:36] Successful get url: https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_UHD.jpg
+[13:43:36] Picture infomations saved to  global/ja-JP/README.md
+[13:43:36] Picture infomations saved to global/ja-JP/history/2026/09/26_ja-JP.md
+[13:43:36] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-26 19:13:36.381258+05:30
+[13:43:36] Successful get url: https://www.bing.com/th?id=OHR.BearsEars_EN-IN8507636618_UHD.jpg
+[13:43:36] Picture infomations saved to  global/en-IN/README.md
+[13:43:36] Picture infomations saved to global/en-IN/history/2026/09/26_en-IN.md
+[13:43:36] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-26 10:43:36.538749-03:00
+[13:43:36] Successful get url: https://www.bing.com/th?id=OHR.ElGolfo_PT-BR1964322549_UHD.jpg
+[13:43:36] Picture infomations saved to  global/pt-BR/README.md
+[13:43:36] Picture infomations saved to global/pt-BR/history/2026/09/27_pt-BR.md
+[13:43:36] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-26 15:43:36.711593+02:00
+[13:43:36] Successful get url: https://www.bing.com/th?id=OHR.BoriesPoppies_FR-FR9955316118_UHD.jpg
+[13:43:36] Picture infomations saved to  global/fr-FR/README.md
+[13:43:36] Picture infomations saved to global/fr-FR/history/2026/09/26_fr-FR.md
+[13:43:36] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-26 15:43:36.838441+02:00
+[13:43:36] Successful get url: https://www.bing.com/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754_UHD.jpg
+[13:43:37] Picture infomations saved to  global/de-DE/README.md
+[13:43:37] Picture infomations saved to global/de-DE/history/2026/09/26_de-DE.md
+[13:43:37] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-26 09:43:37.139024-04:00
+[13:43:37] Successful get url: https://www.bing.com/th?id=OHR.NiagaraOnt_EN-CA8662967301_UHD.jpg
+[13:43:37] Picture infomations saved to  global/en-CA/README.md
+[13:43:37] Picture infomations saved to global/en-CA/history/2026/09/27_en-CA.md
+[13:43:37] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-26 14:43:37.313281+01:00
+[13:43:37] Successful get url: https://www.bing.com/th?id=OHR.BearsEars_EN-GB9519047413_UHD.jpg
+[13:43:37] Picture infomations saved to  global/en-GB/README.md
+[13:43:37] Picture infomations saved to global/en-GB/history/2026/09/26_en-GB.md
+[13:43:37] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-26 15:43:37.450746+02:00
+[13:43:37] Successful get url: https://www.bing.com/th?id=OHR.BearsEars_IT-IT8450841263_UHD.jpg
+[13:43:37] Picture infomations saved to  global/it-IT/README.md
+[13:43:37] Picture infomations saved to global/it-IT/history/2026/09/26_it-IT.md
+[13:43:37] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-26 15:43:37.584297+02:00
+[13:43:37] Successful get url: https://www.bing.com/th?id=OHR.BearsEars_ES-ES7934745679_UHD.jpg
+[13:43:37] Picture infomations saved to  global/es-ES/README.md
+[13:43:37] Picture infomations saved to global/es-ES/history/2026/09/26_es-ES.md
+[13:43:37] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-26 09:43:37.749026-04:00
+[13:43:37] Successful get url: https://www.bing.com/th?id=OHR.NiagaraOnt_FR-CA4828648207_UHD.jpg
+[13:43:38] Picture infomations saved to  global/fr-CA/README.md
+[13:43:38] Picture infomations saved to global/fr-CA/history/2026/09/27_fr-CA.md
+Program exit at 13:43:38
