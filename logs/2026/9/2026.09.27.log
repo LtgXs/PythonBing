@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [14:40:17] Picture infomations saved to  global/fr-CA/README.md
 [14:40:17] Picture infomations saved to global/fr-CA/history/2026/09/28_fr-CA.md
 Program exit at 14:40:17
+
+Program started at 19:26:08
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmtr4k5
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[19:26:08] Start geting CN Bing Wallpaper
+[19:26:08] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg
+[19:26:08] Image saved to img/background.jpg
+[19:26:08] Info saved to README.md
+[19:26:08] Image saved to history/2026/09/28.md
+[19:26:08] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-27 15:26:08.735114-04:00
+[19:26:08] Successful get url: https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg
+[19:26:09] Picture infomations saved to  global/en-US/README.md
+[19:26:09] Picture infomations saved to global/en-US/history/2026/09/28_en-US.md
+[19:26:09] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-28 04:26:09.126455+09:00
+[19:26:09] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_JA-JP9172458689_UHD.jpg
+[19:26:09] Picture infomations saved to  global/ja-JP/README.md
+[19:26:09] Picture infomations saved to global/ja-JP/history/2026/09/28_ja-JP.md
+[19:26:09] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-28 00:56:09.569275+05:30
+[19:26:09] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_EN-IN8681494262_UHD.jpg
+[19:26:10] Picture infomations saved to  global/en-IN/README.md
+[19:26:10] Picture infomations saved to global/en-IN/history/2026/09/28_en-IN.md
+[19:26:10] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-27 16:26:10.016460-03:00
+[19:26:10] Successful get url: https://www.bing.com/th?id=OHR.DecoCrab_PT-BR1863827080_UHD.jpg
+[19:26:11] Picture infomations saved to  global/pt-BR/README.md
+[19:26:11] Picture infomations saved to global/pt-BR/history/2026/09/28_pt-BR.md
+[19:26:11] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-27 21:26:11.068820+02:00
+[19:26:11] Successful get url: https://www.bing.com/th?id=OHR.DecoCrab_FR-FR8789802868_UHD.jpg
+[19:26:11] Picture infomations saved to  global/fr-FR/README.md
+[19:26:11] Picture infomations saved to global/fr-FR/history/2026/09/27_fr-FR.md
+[19:26:11] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-27 21:26:11.600835+02:00
+[19:26:11] Successful get url: https://www.bing.com/th?id=OHR.DecoCrab_DE-DE3687547943_UHD.jpg
+[19:26:12] Picture infomations saved to  global/de-DE/README.md
+[19:26:12] Picture infomations saved to global/de-DE/history/2026/09/27_de-DE.md
+[19:26:12] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-27 15:26:12.043149-04:00
+[19:26:12] Successful get url: https://www.bing.com/th?id=OHR.DecoCrab_EN-CA9118939695_UHD.jpg
+[19:26:12] Picture infomations saved to  global/en-CA/README.md
+[19:26:12] Picture infomations saved to global/en-CA/history/2026/09/28_en-CA.md
+[19:26:12] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-27 20:26:12.573483+01:00
+[19:26:12] Successful get url: https://www.bing.com/th?id=OHR.DecoCrab_EN-GB9651352105_UHD.jpg
+[19:26:13] Picture infomations saved to  global/en-GB/README.md
+[19:26:13] Picture infomations saved to global/en-GB/history/2026/09/27_en-GB.md
+[19:26:13] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-27 21:26:13.016737+02:00
+[19:26:13] Successful get url: https://www.bing.com/th?id=OHR.DecoCrab_IT-IT5114188667_UHD.jpg
+[19:26:13] Picture infomations saved to  global/it-IT/README.md
+[19:26:13] Picture infomations saved to global/it-IT/history/2026/09/27_it-IT.md
+[19:26:13] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-27 21:26:13.438051+02:00
+[19:26:13] Successful get url: https://www.bing.com/th?id=OHR.DecoCrab_ES-ES3779382499_UHD.jpg
+[19:26:14] Picture infomations saved to  global/es-ES/README.md
+[19:26:14] Picture infomations saved to global/es-ES/history/2026/09/27_es-ES.md
+[19:26:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-27 15:26:14.012972-04:00
+[19:26:14] Successful get url: https://www.bing.com/th?id=OHR.DecoCrab_FR-CA5033026630_UHD.jpg
+[19:26:14] Picture infomations saved to  global/fr-CA/README.md
+[19:26:14] Picture infomations saved to global/fr-CA/history/2026/09/28_fr-CA.md
+Program exit at 19:26:14
