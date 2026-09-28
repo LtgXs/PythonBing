@@ -11,9 +11,9 @@
 ||*Copyright: カシロフ川, 米国 アラスカ州 (© jared lloyd/Getty Images)*
 ||
 |||
-|2026-09-28|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AmberHall_EN-IN8681494262_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmberHall_EN-IN8681494262_UHD.jpg)|
-||*Copyright: Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)*
+|2026-09-29|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KasilofRiver_EN-IN8772070314_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KasilofRiver_EN-IN8772070314_UHD.jpg)|
+||*Copyright: The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)*
 ||
 |||
 |2026-09-29|**Region: pt-BR**||
