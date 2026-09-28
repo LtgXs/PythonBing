@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-09-28|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg)|
-||*Copyright: Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)*
+|2026-09-29|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg)|
+||*Copyright: Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)*
 ||
 |||
-|2026-09-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AmberHall_JA-JP9172458689_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmberHall_JA-JP9172458689_UHD.jpg)|
-||*Copyright: アンベール城, インド (© R.M. Nunes/Getty Images)*
+|2026-09-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KasilofRiver_JA-JP7219675730_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KasilofRiver_JA-JP7219675730_UHD.jpg)|
+||*Copyright: カシロフ川, 米国 アラスカ州 (© jared lloyd/Getty Images)*
 ||
 |||
 |2026-09-28|**Region: en-IN**||
@@ -16,44 +16,44 @@
 ||*Copyright: Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)*
 ||
 |||
-|2026-09-28|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DecoCrab_PT-BR1863827080_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DecoCrab_PT-BR1863827080_UHD.jpg)|
-||*Copyright: Caranguejo-decorador em pena-do-mar, Parque Nacional de Komodo, Indonésia (© Alex Mustard/Nature Picture Library)*
+|2026-09-29|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AmberHall_PT-BR1465916376_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmberHall_PT-BR1465916376_UHD.jpg)|
+||*Copyright: Salão Sattais Katcheri no Forte de Amber, perto de Jaipur, Rajastão, Índia (© R.M. Nunes/Getty Images)*
 ||
 |||
-|2026-09-27|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DecoCrab_FR-FR8789802868_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DecoCrab_FR-FR8789802868_UHD.jpg)|
-||*Copyright: Crabe décorateur sur une plume de mer, Parc national de Komodo, Indonésie (© Alex Mustard/Nature Picture Library)*
+|2026-09-28|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AmberHall_FR-FR6136179100_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmberHall_FR-FR6136179100_UHD.jpg)|
+||*Copyright: La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)*
 ||
 |||
-|2026-09-27|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.DecoCrab_DE-DE3687547943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DecoCrab_DE-DE3687547943_UHD.jpg)|
-||*Copyright: Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien (© Alex Mustard/Nature Picture Library)*
+|2026-09-28|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_UHD.jpg)|
+||*Copyright: Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)*
 ||
 |||
-|2026-09-28|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DecoCrab_EN-CA9118939695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DecoCrab_EN-CA9118939695_UHD.jpg)|
-||*Copyright: Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)*
+|2026-09-29|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AmberHall_EN-CA9553208557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmberHall_EN-CA9553208557_UHD.jpg)|
+||*Copyright: Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)*
 ||
 |||
-|2026-09-27|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DecoCrab_EN-GB9651352105_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DecoCrab_EN-GB9651352105_UHD.jpg)|
-||*Copyright: Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)*
+|2026-09-28|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AmberHall_EN-GB9719100676_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmberHall_EN-GB9719100676_UHD.jpg)|
+||*Copyright: Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)*
 ||
 |||
-|2026-09-27|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DecoCrab_IT-IT5114188667_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DecoCrab_IT-IT5114188667_UHD.jpg)|
-||*Copyright: Granchio decoratore su penna marina, Parco Nazionale di Komodo, Indonesia (© Alex Mustard/Nature Picture Library)*
+|2026-09-28|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AmberHall_IT-IT8621021328_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmberHall_IT-IT8621021328_UHD.jpg)|
+||*Copyright: Sattais Katcheri, Forte Amber vicino a Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)*
 ||
 |||
-|2026-09-27|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.DecoCrab_ES-ES3779382499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DecoCrab_ES-ES3779382499_UHD.jpg)|
-||*Copyright: Cangrejo decorador en una pluma marina, Parque Nacional de Komodo, Indonesia (© Alex Mustard/Nature Picture Library)*
+|2026-09-28|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AmberHall_ES-ES8111355480_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmberHall_ES-ES8111355480_UHD.jpg)|
+||*Copyright: Sattais Katcheri en el Fuerte de Amber cerca de Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)*
 ||
 |||
-|2026-09-28|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DecoCrab_FR-CA5033026630_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DecoCrab_FR-CA5033026630_UHD.jpg)|
-||*Copyright: Crabe décorateur sur une plume de mer, Parc national de Komodo, Indonésie (© Alex Mustard/Nature Picture Library)*
+|2026-09-29|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AmberHall_FR-CA5187503259_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmberHall_FR-CA5187503259_UHD.jpg)|
+||*Copyright: La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)*
 ||
 |||
 

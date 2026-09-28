@@ -1,0 +1,60 @@
+
+Program started at 17:37:23
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmtr4k5
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[17:37:23] Start geting CN Bing Wallpaper
+[17:37:23] Successful get url: https://www.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg
+[17:37:24] Image saved to img/background.jpg
+[17:37:24] Info saved to README.md
+[17:37:24] Image saved to history/2026/09/29.md
+[17:37:24] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-28 13:37:24.022900-04:00
+[17:37:24] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg
+[17:37:24] Picture infomations saved to  global/en-US/README.md
+[17:37:24] Picture infomations saved to global/en-US/history/2026/09/29_en-US.md
+[17:37:24] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-29 02:37:24.177464+09:00
+[17:37:24] Successful get url: https://www.bing.com/th?id=OHR.KasilofRiver_JA-JP7219675730_UHD.jpg
+[17:37:24] Picture infomations saved to  global/ja-JP/README.md
+[17:37:24] Picture infomations saved to global/ja-JP/history/2026/09/29_ja-JP.md
+[17:37:24] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-28 23:07:24.336174+05:30
+[17:37:24] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_EN-IN8681494262_UHD.jpg
+[17:37:24] Picture infomations saved to  global/en-IN/README.md
+[17:37:24] Picture infomations saved to global/en-IN/history/2026/09/28_en-IN.md
+[17:37:24] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-28 14:37:24.592042-03:00
+[17:37:24] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_PT-BR1465916376_UHD.jpg
+[17:37:24] Picture infomations saved to  global/pt-BR/README.md
+[17:37:24] Picture infomations saved to global/pt-BR/history/2026/09/29_pt-BR.md
+[17:37:24] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-28 19:37:24.742509+02:00
+[17:37:24] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_FR-FR6136179100_UHD.jpg
+[17:37:24] Picture infomations saved to  global/fr-FR/README.md
+[17:37:24] Picture infomations saved to global/fr-FR/history/2026/09/28_fr-FR.md
+[17:37:24] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-28 19:37:24.863496+02:00
+[17:37:24] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_UHD.jpg
+[17:37:25] Picture infomations saved to  global/de-DE/README.md
+[17:37:25] Picture infomations saved to global/de-DE/history/2026/09/28_de-DE.md
+[17:37:25] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-28 13:37:25.042811-04:00
+[17:37:25] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_EN-CA9553208557_UHD.jpg
+[17:37:25] Picture infomations saved to  global/en-CA/README.md
+[17:37:25] Picture infomations saved to global/en-CA/history/2026/09/29_en-CA.md
+[17:37:25] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-28 18:37:25.163980+01:00
+[17:37:25] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_EN-GB9719100676_UHD.jpg
+[17:37:25] Picture infomations saved to  global/en-GB/README.md
+[17:37:25] Picture infomations saved to global/en-GB/history/2026/09/28_en-GB.md
+[17:37:25] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-28 19:37:25.295744+02:00
+[17:37:25] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_IT-IT8621021328_UHD.jpg
+[17:37:25] Picture infomations saved to  global/it-IT/README.md
+[17:37:25] Picture infomations saved to global/it-IT/history/2026/09/28_it-IT.md
+[17:37:25] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-28 19:37:25.434710+02:00
+[17:37:25] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_ES-ES8111355480_UHD.jpg
+[17:37:25] Picture infomations saved to  global/es-ES/README.md
+[17:37:25] Picture infomations saved to global/es-ES/history/2026/09/28_es-ES.md
+[17:37:25] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-28 13:37:25.561170-04:00
+[17:37:25] Successful get url: https://www.bing.com/th?id=OHR.AmberHall_FR-CA5187503259_UHD.jpg
+[17:37:25] Picture infomations saved to  global/fr-CA/README.md
+[17:37:25] Picture infomations saved to global/fr-CA/history/2026/09/29_fr-CA.md
+Program exit at 17:37:25
