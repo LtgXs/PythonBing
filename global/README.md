@@ -11,9 +11,9 @@
 ||*Copyright: ヒゲガラ, イングランド (© Andrew Sproule/Shutterstock)*
 ||
 |||
-|2026-09-29|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.KasilofRiver_EN-IN8772070314_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KasilofRiver_EN-IN8772070314_UHD.jpg)|
-||*Copyright: The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)*
+|2026-09-30|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BeardReedling_EN-IN8949803206_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeardReedling_EN-IN8949803206_UHD.jpg)|
+||*Copyright: Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)*
 ||
 |||
 |2026-09-30|**Region: pt-BR**||

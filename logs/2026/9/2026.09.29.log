@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [15:46:11] Picture infomations saved to  global/fr-CA/README.md
 [15:46:11] Picture infomations saved to global/fr-CA/history/2026/09/30_fr-CA.md
 Program exit at 15:46:11
+
+Program started at 20:22:26
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm8df0l
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[20:22:26] Start geting CN Bing Wallpaper
+[20:22:26] Successful get url: https://www.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg
+[20:22:26] Image saved to img/background.jpg
+[20:22:26] Info saved to README.md
+[20:22:26] Image saved to history/2026/09/30.md
+[20:22:26] Start geting global Bing Wallpaper, region=en-US, local time is 2026-09-29 16:22:26.226356-04:00
+[20:22:26] Successful get url: https://www.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg
+[20:22:26] Picture infomations saved to  global/en-US/README.md
+[20:22:26] Picture infomations saved to global/en-US/history/2026/09/30_en-US.md
+[20:22:26] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-09-30 05:22:26.420280+09:00
+[20:22:26] Successful get url: https://www.bing.com/th?id=OHR.BeardReedling_JA-JP9843863193_UHD.jpg
+[20:22:26] Picture infomations saved to  global/ja-JP/README.md
+[20:22:26] Picture infomations saved to global/ja-JP/history/2026/09/30_ja-JP.md
+[20:22:26] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-09-30 01:52:26.602985+05:30
+[20:22:26] Successful get url: https://www.bing.com/th?id=OHR.BeardReedling_EN-IN8949803206_UHD.jpg
+[20:22:27] Picture infomations saved to  global/en-IN/README.md
+[20:22:27] Picture infomations saved to global/en-IN/history/2026/09/30_en-IN.md
+[20:22:27] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-09-29 17:22:27.293472-03:00
+[20:22:27] Successful get url: https://www.bing.com/th?id=OHR.KasilofRiver_PT-BR1313310893_UHD.jpg
+[20:22:27] Picture infomations saved to  global/pt-BR/README.md
+[20:22:27] Picture infomations saved to global/pt-BR/history/2026/09/30_pt-BR.md
+[20:22:27] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-09-29 22:22:27.546602+02:00
+[20:22:27] Successful get url: https://www.bing.com/th?id=OHR.KasilofRiver_FR-FR9609860572_UHD.jpg
+[20:22:27] Picture infomations saved to  global/fr-FR/README.md
+[20:22:27] Picture infomations saved to global/fr-FR/history/2026/09/29_fr-FR.md
+[20:22:27] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-09-29 22:22:27.723061+02:00
+[20:22:27] Successful get url: https://www.bing.com/th?id=OHR.KasilofRiver_DE-DE4065933153_UHD.jpg
+[20:22:27] Picture infomations saved to  global/de-DE/README.md
+[20:22:27] Picture infomations saved to global/de-DE/history/2026/09/29_de-DE.md
+[20:22:27] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-09-29 16:22:27.911392-04:00
+[20:22:27] Successful get url: https://www.bing.com/th?id=OHR.KasilofRiver_EN-CA0207893749_UHD.jpg
+[20:22:28] Picture infomations saved to  global/en-CA/README.md
+[20:22:28] Picture infomations saved to global/en-CA/history/2026/09/30_en-CA.md
+[20:22:28] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-09-29 21:22:28.094429+01:00
+[20:22:28] Successful get url: https://www.bing.com/th?id=OHR.KasilofRiver_EN-GB9796874794_UHD.jpg
+[20:22:28] Picture infomations saved to  global/en-GB/README.md
+[20:22:28] Picture infomations saved to global/en-GB/history/2026/09/29_en-GB.md
+[20:22:28] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-09-29 22:22:28.272837+02:00
+[20:22:28] Successful get url: https://www.bing.com/th?id=OHR.KasilofRiver_IT-IT8693387372_UHD.jpg
+[20:22:28] Picture infomations saved to  global/it-IT/README.md
+[20:22:28] Picture infomations saved to global/it-IT/history/2026/09/29_it-IT.md
+[20:22:28] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-09-29 22:22:28.483344+02:00
+[20:22:28] Successful get url: https://www.bing.com/th?id=OHR.KasilofRiver_ES-ES8214443142_UHD.jpg
+[20:22:28] Picture infomations saved to  global/es-ES/README.md
+[20:22:28] Picture infomations saved to global/es-ES/history/2026/09/29_es-ES.md
+[20:22:28] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-09-29 16:22:28.676390-04:00
+[20:22:28] Successful get url: https://www.bing.com/th?id=OHR.KasilofRiver_FR-CA9696942647_UHD.jpg
+[20:22:28] Picture infomations saved to  global/fr-CA/README.md
+[20:22:28] Picture infomations saved to global/fr-CA/history/2026/09/30_fr-CA.md
+Program exit at 20:22:28
