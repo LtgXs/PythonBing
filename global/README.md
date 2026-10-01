@@ -11,9 +11,9 @@
 ||*Copyright: チャトゥーガ川, 米国 ノースカロライナ州 (© mtilghma/Getty Images)*
 ||
 |||
-|2026-10-01|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376_UHD.jpg)|
-||*Copyright: View into the sky from Nathmal Ki Haveli courtyard, Jaisalmer, Rajasthan (© Emad Aljumah/Moment/Getty Images)*
+|2026-10-02|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GandhiJayanti2026_EN-IN7052712451_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GandhiJayanti2026_EN-IN7052712451_UHD.jpg)|
+||*Copyright: Mahatma Gandhi statue at the Sabarmati Ashram in Ahmedabad, Gujarat (© Kandarp Gupta/Alamy)*
 ||
 |||
 |2026-10-02|**Region: pt-BR**||
