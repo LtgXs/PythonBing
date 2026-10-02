@@ -11,9 +11,9 @@
 ||*Copyright: アンモナイトの化石 (© J Nemchinova/Getty Images)*
 ||
 |||
-|2026-10-02|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GandhiJayanti2026_EN-IN7052712451_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GandhiJayanti2026_EN-IN7052712451_UHD.jpg)|
-||*Copyright: Mahatma Gandhi statue at the Sabarmati Ashram in Ahmedabad, Gujarat (© Kandarp Gupta/Alamy)*
+|2026-10-03|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-IN7120112042_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-IN7120112042_UHD.jpg)|
+||*Copyright: Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)*
 ||
 |||
 |2026-10-03|**Region: pt-BR**||
