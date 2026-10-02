@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-10-02|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg)|
-||*Copyright: Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)*
+|2026-10-03|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg)|
+||*Copyright: Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)*
 ||
 |||
-|2026-10-02|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ChattoogaRiver_JA-JP8558662500_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChattoogaRiver_JA-JP8558662500_UHD.jpg)|
-||*Copyright: チャトゥーガ川, 米国 ノースカロライナ州 (© mtilghma/Getty Images)*
+|2026-10-03|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AmmoniteFossils_JA-JP8778940090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmmoniteFossils_JA-JP8778940090_UHD.jpg)|
+||*Copyright: アンモナイトの化石 (© J Nemchinova/Getty Images)*
 ||
 |||
 |2026-10-02|**Region: en-IN**||
@@ -16,44 +16,44 @@
 ||*Copyright: Mahatma Gandhi statue at the Sabarmati Ashram in Ahmedabad, Gujarat (© Kandarp Gupta/Alamy)*
 ||
 |||
-|2026-10-02|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.GreenLake_PT-BR0948770849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GreenLake_PT-BR0948770849_UHD.jpg)|
-||*Copyright: Vista aérea da Lagoa Verde, Angra dos Reis, Rio de Janeiro (© Avalon/Getty Images)*
+|2026-10-03|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Camburiu_PT-BR9036477210_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Camburiu_PT-BR9036477210_UHD.jpg)|
+||*Copyright: Praia de Taquaras no Balneário Camboriú, Santa Catarina (© MaRabelo/Getty Images)*
 ||
 |||
-|2026-10-01|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_UHD.jpg)|
-||*Copyright: La tour Eiffel au coucher de soleil, Paris (© Alexander Spatari/Getty Images)*
+|2026-10-02|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AutumnPeatBog_FR-FR3286332172_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnPeatBog_FR-FR3286332172_UHD.jpg)|
+||*Copyright: Végétation automnale multicolore sur la tourbière (© Utopia_88/Getty Images)*
 ||
 |||
-|2026-10-01|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BeardReedling_DE-DE4310310403_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BeardReedling_DE-DE4310310403_UHD.jpg)|
-||*Copyright: Bartmeisenmännchen, Norfolk, England (© Andrew Sproule/Shutterstock)*
+|2026-10-02|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695_UHD.jpg)|
+||*Copyright: Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)*
 ||
 |||
-|2026-10-02|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.OlmstedPoint_EN-CA1947517359_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlmstedPoint_EN-CA1947517359_UHD.jpg)|
-||*Copyright: Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)*
+|2026-10-03|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-CA5808971566_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-CA5808971566_UHD.jpg)|
+||*Copyright: Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)*
 ||
 |||
-|2026-10-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BlackHistoryMonthUK2026_EN-GB9938862434_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlackHistoryMonthUK2026_EN-GB9938862434_UHD.jpg)|
-||*Copyright: Panorama of Parliament Square and Nelson Mandela memorial, London (© ansharphoto/Shutterstock)*
+|2026-10-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-GB2495394216_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-GB2495394216_UHD.jpg)|
+||*Copyright: Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)*
 ||
 |||
-|2026-10-01|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.OlmstedPoint_IT-IT8819239294_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlmstedPoint_IT-IT8819239294_UHD.jpg)|
-||*Copyright: Tramonto da Olmsted Point, Parco Nazionale di Yosemite, California, USA (© Robb Hirsch/Tandem Stills + Motion)*
+|2026-10-02|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PerugiaAqueduct_IT-IT7918245077_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerugiaAqueduct_IT-IT7918245077_UHD.jpg)|
+||*Copyright: L'acquedotto medievale di Perugia, Umbria, Italia (© Marco Saracco/Getty Images)*
 ||
 |||
-|2026-10-01|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ElGolfo_ES-ES8850772045_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ElGolfo_ES-ES8850772045_UHD.jpg)|
-||*Copyright: Vista aérea de la playa de lava negra, El Golfo, Lanzarote, Islas Canarias, España (© Westend61/Adobe Stock)*
+|2026-10-02|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.ChattoogaRiver_ES-ES4729549409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChattoogaRiver_ES-ES4729549409_UHD.jpg)|
+||*Copyright: Río Chattooga en los montes Apalaches, Carolina del Norte, EE. UU. (© mtilghma/Getty Images)*
 ||
 |||
-|2026-10-02|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.OlmstedPoint_FR-CA5921347773_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.OlmstedPoint_FR-CA5921347773_UHD.jpg)|
-||*Copyright: Coucher de soleil vu depuis Olmsted Point, Parc national de Yosemite, Californie, États-Unis (© Robb Hirsch/Tandem Stills + Motion)*
+|2026-10-03|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GrizzlySwim_FR-CA5305999392_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_FR-CA5305999392_UHD.jpg)|
+||*Copyright: Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Uniska (© Danny Green/Nature Picture Library)*
 ||
 |||
 
