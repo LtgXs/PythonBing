@@ -6,14 +6,14 @@
 ||*Copyright: Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)*
 ||
 |||
-|2026-10-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AmmoniteFossils_JA-JP8778940090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmmoniteFossils_JA-JP8778940090_UHD.jpg)|
-||*Copyright: アンモナイトの化石 (© J Nemchinova/Getty Images)*
+|2026-10-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_UHD.jpg)|
+||*Copyright: アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)*
 ||
 |||
-|2026-10-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-IN7120112042_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-IN7120112042_UHD.jpg)|
-||*Copyright: Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)*
+|2026-10-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ArtemisRocket_EN-IN7247754075_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArtemisRocket_EN-IN7247754075_UHD.jpg)|
+||*Copyright: Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)*
 ||
 |||
 |2026-10-04|**Region: pt-BR**||
