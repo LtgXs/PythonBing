@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-10-03|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg)|
-||*Copyright: Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)*
+|2026-10-04|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg)|
+||*Copyright: Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)*
 ||
 |||
 |2026-10-03|**Region: ja-JP**||
@@ -16,44 +16,44 @@
 ||*Copyright: Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)*
 ||
 |||
-|2026-10-03|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Camburiu_PT-BR9036477210_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Camburiu_PT-BR9036477210_UHD.jpg)|
-||*Copyright: Praia de Taquaras no Balneário Camboriú, Santa Catarina (© MaRabelo/Getty Images)*
+|2026-10-04|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GrizzlySwim_PT-BR4132076191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_PT-BR4132076191_UHD.jpg)|
+||*Copyright: Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA (© Danny Green/Nature Picture Library)*
 ||
 |||
-|2026-10-02|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AutumnPeatBog_FR-FR3286332172_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnPeatBog_FR-FR3286332172_UHD.jpg)|
-||*Copyright: Végétation automnale multicolore sur la tourbière (© Utopia_88/Getty Images)*
+|2026-10-03|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GrizzlySwim_FR-FR9368655618_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_FR-FR9368655618_UHD.jpg)|
+||*Copyright: Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis (© Danny Green/Nature Picture Library)*
 ||
 |||
-|2026-10-02|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695_UHD.jpg)|
-||*Copyright: Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)*
+|2026-10-03|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528_UHD.jpg)|
+||*Copyright: Brandenburger Tor, Berlin (© almir1968/Getty Images)*
 ||
 |||
-|2026-10-03|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-CA5808971566_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-CA5808971566_UHD.jpg)|
-||*Copyright: Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)*
+|2026-10-04|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.NuitBToro_EN-CA6592121527_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuitBToro_EN-CA6592121527_UHD.jpg)|
+||*Copyright: Toronto City Hall illuminated at night (© EB Adventure Photography/Shutterstock)*
 ||
 |||
-|2026-10-02|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-GB2495394216_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-GB2495394216_UHD.jpg)|
-||*Copyright: Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)*
+|2026-10-03|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-GB2587469687_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-GB2587469687_UHD.jpg)|
+||*Copyright: Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)*
 ||
 |||
-|2026-10-02|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PerugiaAqueduct_IT-IT7918245077_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PerugiaAqueduct_IT-IT7918245077_UHD.jpg)|
-||*Copyright: L'acquedotto medievale di Perugia, Umbria, Italia (© Marco Saracco/Getty Images)*
+|2026-10-03|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GrizzlySwim_IT-IT0100605871_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_IT-IT0100605871_UHD.jpg)|
+||*Copyright: Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti (© Danny Green/Nature Picture Library)*
 ||
 |||
-|2026-10-02|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ChattoogaRiver_ES-ES4729549409_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChattoogaRiver_ES-ES4729549409_UHD.jpg)|
-||*Copyright: Río Chattooga en los montes Apalaches, Carolina del Norte, EE. UU. (© mtilghma/Getty Images)*
+|2026-10-03|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GrizzlySwim_ES-ES2255914104_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_ES-ES2255914104_UHD.jpg)|
+||*Copyright: Oso pardo en Silver Salmon Creek, Parque Nacional y Reserva del lago Clark, Alaska, EE. UU. (© Danny Green/Nature Picture Library)*
 ||
 |||
-|2026-10-03|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.GrizzlySwim_FR-CA5305999392_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_FR-CA5305999392_UHD.jpg)|
-||*Copyright: Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Uniska (© Danny Green/Nature Picture Library)*
+|2026-10-04|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.NuitBToro_FR-CA5653208063_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NuitBToro_FR-CA5653208063_UHD.jpg)|
+||*Copyright: Hôtel de ville de Toronto illuminé la nuit (© EB Adventure Photography/Shutterstock)*
 ||
 |||
 
