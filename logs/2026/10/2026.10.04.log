@@ -1,0 +1,60 @@
+
+Program started at 14:45:45
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm8df0l
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[14:45:45] Start geting CN Bing Wallpaper
+[14:45:45] Successful get url: https://www.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg
+[14:45:45] Image saved to img/background.jpg
+[14:45:45] Info saved to README.md
+[14:45:45] Image saved to history/2026/10/04.md
+[14:45:45] Start geting global Bing Wallpaper, region=en-US, local time is 2026-10-04 10:45:45.571147-04:00
+[14:45:45] Successful get url: https://www.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg
+[14:45:45] Picture infomations saved to  global/en-US/README.md
+[14:45:45] Picture infomations saved to global/en-US/history/2026/10/05_en-US.md
+[14:45:45] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-10-04 23:45:45.880737+09:00
+[14:45:45] Successful get url: https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_UHD.jpg
+[14:45:46] Picture infomations saved to  global/ja-JP/README.md
+[14:45:46] Picture infomations saved to global/ja-JP/history/2026/10/04_ja-JP.md
+[14:45:46] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-10-04 20:15:46.044830+05:30
+[14:45:46] Successful get url: https://www.bing.com/th?id=OHR.ArtemisRocket_EN-IN7247754075_UHD.jpg
+[14:45:46] Picture infomations saved to  global/en-IN/README.md
+[14:45:46] Picture infomations saved to global/en-IN/history/2026/10/04_en-IN.md
+[14:45:46] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-10-04 11:45:46.197164-03:00
+[14:45:46] Successful get url: https://www.bing.com/th?id=OHR.ArtemisRocket_PT-BR6940961892_UHD.jpg
+[14:45:46] Picture infomations saved to  global/pt-BR/README.md
+[14:45:46] Picture infomations saved to global/pt-BR/history/2026/10/05_pt-BR.md
+[14:45:46] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-10-04 16:45:46.374187+02:00
+[14:45:46] Successful get url: https://www.bing.com/th?id=OHR.GruesDer_FR-FR4180166006_UHD.jpg
+[14:45:46] Picture infomations saved to  global/fr-FR/README.md
+[14:45:46] Picture infomations saved to global/fr-FR/history/2026/10/04_fr-FR.md
+[14:45:46] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-10-04 16:45:46.503015+02:00
+[14:45:46] Successful get url: https://www.bing.com/th?id=OHR.ArtemisRocket_DE-DE4474155042_UHD.jpg
+[14:45:46] Picture infomations saved to  global/de-DE/README.md
+[14:45:46] Picture infomations saved to global/de-DE/history/2026/10/04_de-DE.md
+[14:45:46] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-10-04 10:45:46.689766-04:00
+[14:45:46] Successful get url: https://www.bing.com/th?id=OHR.ArtemisRocket_EN-CA8945669255_UHD.jpg
+[14:45:46] Picture infomations saved to  global/en-CA/README.md
+[14:45:46] Picture infomations saved to global/en-CA/history/2026/10/05_en-CA.md
+[14:45:46] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-10-04 15:45:46.830295+01:00
+[14:45:46] Successful get url: https://www.bing.com/th?id=OHR.ArtemisRocket_EN-GB2659306567_UHD.jpg
+[14:45:46] Picture infomations saved to  global/en-GB/README.md
+[14:45:46] Picture infomations saved to global/en-GB/history/2026/10/04_en-GB.md
+[14:45:46] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-10-04 16:45:46.978212+02:00
+[14:45:47] Successful get url: https://www.bing.com/th?id=OHR.ArtemisRocket_IT-IT8266299733_UHD.jpg
+[14:45:47] Picture infomations saved to  global/it-IT/README.md
+[14:45:47] Picture infomations saved to global/it-IT/history/2026/10/04_it-IT.md
+[14:45:47] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-10-04 16:45:47.193910+02:00
+[14:45:47] Successful get url: https://www.bing.com/th?id=OHR.ArtemisRocket_ES-ES2701886938_UHD.jpg
+[14:45:47] Picture infomations saved to  global/es-ES/README.md
+[14:45:47] Picture infomations saved to global/es-ES/history/2026/10/04_es-ES.md
+[14:45:47] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-10-04 10:45:47.325495-04:00
+[14:45:47] Successful get url: https://www.bing.com/th?id=OHR.ArtemisRocket_FR-CA1622707789_UHD.jpg
+[14:45:47] Picture infomations saved to  global/fr-CA/README.md
+[14:45:47] Picture infomations saved to global/fr-CA/history/2026/10/05_fr-CA.md
+Program exit at 14:45:47
