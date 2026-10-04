@@ -6,14 +6,14 @@
 ||*Copyright: Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)*
 ||
 |||
-|2026-10-04|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_UHD.jpg)|
-||*Copyright: アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)*
+|2026-10-05|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AdelieTeacher_JA-JP9090254921_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AdelieTeacher_JA-JP9090254921_UHD.jpg)|
+||*Copyright: アデリーペンギンのグループ, 南極大陸 (© Otto Plantema/Minden Pictures)*
 ||
 |||
-|2026-10-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ArtemisRocket_EN-IN7247754075_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArtemisRocket_EN-IN7247754075_UHD.jpg)|
-||*Copyright: Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)*
+|2026-10-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-IN7367199250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-IN7367199250_UHD.jpg)|
+||*Copyright: Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)*
 ||
 |||
 |2026-10-05|**Region: pt-BR**||
