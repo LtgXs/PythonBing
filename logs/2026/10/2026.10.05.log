@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [18:22:28] Picture infomations saved to  global/fr-CA/README.md
 [18:22:28] Picture infomations saved to global/fr-CA/history/2026/10/06_fr-CA.md
 Program exit at 18:22:28
+
+Program started at 22:16:26
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm8df0l
+Processor Type: x86_64
+Python Version: 3.12.14
+Python Interpreter Name: CPython
+[22:16:26] Start geting CN Bing Wallpaper
+[22:16:26] Successful get url: https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg
+[22:16:26] Image saved to img/background.jpg
+[22:16:26] Info saved to README.md
+[22:16:26] Image saved to history/2026/10/06.md
+[22:16:26] Start geting global Bing Wallpaper, region=en-US, local time is 2026-10-05 18:16:26.549129-04:00
+[22:16:26] Successful get url: https://www.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg
+[22:16:26] Picture infomations saved to  global/en-US/README.md
+[22:16:26] Picture infomations saved to global/en-US/history/2026/10/06_en-US.md
+[22:16:26] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-10-06 07:16:26.989333+09:00
+[22:16:27] Successful get url: https://www.bing.com/th?id=OHR.DanxiaLandform_JA-JP9811731742_UHD.jpg
+[22:16:27] Picture infomations saved to  global/ja-JP/README.md
+[22:16:27] Picture infomations saved to global/ja-JP/history/2026/10/06_ja-JP.md
+[22:16:27] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-10-06 03:46:27.263116+05:30
+[22:16:27] Successful get url: https://www.bing.com/th?id=OHR.DanxiaLandform_EN-IN7469232165_UHD.jpg
+[22:16:27] Picture infomations saved to  global/en-IN/README.md
+[22:16:27] Picture infomations saved to global/en-IN/history/2026/10/06_en-IN.md
+[22:16:27] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-10-05 19:16:27.587053-03:00
+[22:16:27] Successful get url: https://www.bing.com/th?id=OHR.AdelieTeacher_PT-BR7440299182_UHD.jpg
+[22:16:27] Picture infomations saved to  global/pt-BR/README.md
+[22:16:27] Picture infomations saved to global/pt-BR/history/2026/10/06_pt-BR.md
+[22:16:27] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-10-06 00:16:27.758635+02:00
+[22:16:27] Successful get url: https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_UHD.jpg
+[22:16:27] Picture infomations saved to  global/fr-FR/README.md
+[22:16:27] Picture infomations saved to global/fr-FR/history/2026/10/06_fr-FR.md
+[22:16:27] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-10-06 00:16:27.945683+02:00
+[22:16:28] Successful get url: https://www.bing.com/th?id=OHR.DanxiaLandform_DE-DE4675912635_UHD.jpg
+[22:16:28] Picture infomations saved to  global/de-DE/README.md
+[22:16:28] Picture infomations saved to global/de-DE/history/2026/10/06_de-DE.md
+[22:16:28] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-10-05 18:16:28.229816-04:00
+[22:16:28] Successful get url: https://www.bing.com/th?id=OHR.AdelieTeacher_EN-CA9613439676_UHD.jpg
+[22:16:28] Picture infomations saved to  global/en-CA/README.md
+[22:16:28] Picture infomations saved to global/en-CA/history/2026/10/06_en-CA.md
+[22:16:28] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-10-05 23:16:28.603217+01:00
+[22:16:28] Successful get url: https://www.bing.com/th?id=OHR.AdelieTeacher_EN-GB2790518533_UHD.jpg
+[22:16:28] Picture infomations saved to  global/en-GB/README.md
+[22:16:28] Picture infomations saved to global/en-GB/history/2026/10/05_en-GB.md
+[22:16:28] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-10-06 00:16:28.924669+02:00
+[22:16:28] Successful get url: https://www.bing.com/th?id=OHR.DanxiaLandform_IT-IT8922583550_UHD.jpg
+[22:16:29] Picture infomations saved to  global/it-IT/README.md
+[22:16:29] Picture infomations saved to global/it-IT/history/2026/10/06_it-IT.md
+[22:16:29] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-10-06 00:16:29.103657+02:00
+[22:16:29] Successful get url: https://www.bing.com/th?id=OHR.DanxiaLandform_ES-ES4557489111_UHD.jpg
+[22:16:29] Picture infomations saved to  global/es-ES/README.md
+[22:16:29] Picture infomations saved to global/es-ES/history/2026/10/06_es-ES.md
+[22:16:29] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-10-05 18:16:29.460231-04:00
+[22:16:29] Successful get url: https://www.bing.com/th?id=OHR.AdelieTeacher_FR-CA2651914460_UHD.jpg
+[22:16:30] Picture infomations saved to  global/fr-CA/README.md
+[22:16:30] Picture infomations saved to global/fr-CA/history/2026/10/06_fr-CA.md
+Program exit at 22:16:30
