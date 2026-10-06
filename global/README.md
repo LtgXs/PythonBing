@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-10-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg)|
-||*Copyright: Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)*
+|2026-10-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg)|
+||*Copyright: Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)*
 ||
 |||
-|2026-10-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DanxiaLandform_JA-JP9811731742_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DanxiaLandform_JA-JP9811731742_UHD.jpg)|
-||*Copyright: 張掖国家地質公園, 中国 (© Weiquan Lin/Getty Images)*
+|2026-10-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.ForestofDean_JA-JP0675230191_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ForestofDean_JA-JP0675230191_UHD.jpg)|
+||*Copyright: パズルウッド, イングランド (© Fulcanelli_AOS/Getty Images)*
 ||
 |||
 |2026-10-06|**Region: en-IN**||
@@ -16,9 +16,9 @@
 ||*Copyright: Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)*
 ||
 |||
-|2026-10-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AdelieTeacher_PT-BR7440299182_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AdelieTeacher_PT-BR7440299182_UHD.jpg)|
-||*Copyright: Pinguins-de-adélia, Antártica (© Otto Plantema/Minden Pictures)*
+|2026-10-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DanxiaLandform_PT-BR7632834539_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DanxiaLandform_PT-BR7632834539_UHD.jpg)|
+||*Copyright: Formações de Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)*
 ||
 |||
 |2026-10-06|**Region: fr-FR**||
@@ -31,14 +31,14 @@
 ||*Copyright: Zhangye-Danxia-Geopark, Gansu, China (© Weiquan Lin/Getty Images)*
 ||
 |||
-|2026-10-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-CA9613439676_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-CA9613439676_UHD.jpg)|
-||*Copyright: Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)*
+|2026-10-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-CA0294271100_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-CA0294271100_UHD.jpg)|
+||*Copyright: Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)*
 ||
 |||
-|2026-10-05|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-GB2790518533_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-GB2790518533_UHD.jpg)|
-||*Copyright: Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)*
+|2026-10-06|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-GB2873051697_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-GB2873051697_UHD.jpg)|
+||*Copyright: Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)*
 ||
 |||
 |2026-10-06|**Region: it-IT**||
@@ -51,9 +51,9 @@
 ||*Copyright: Relieve Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)*
 ||
 |||
-|2026-10-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AdelieTeacher_FR-CA2651914460_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AdelieTeacher_FR-CA2651914460_UHD.jpg)|
-||*Copyright: Manchots Adélie, Antarctique (© Otto Plantema/Minden Pictures)*
+|2026-10-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.DanxiaLandform_FR-CA2247822289_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DanxiaLandform_FR-CA2247822289_UHD.jpg)|
+||*Copyright: Relief Danxia, géoparc national de Zhangye, Gansu, Chine (© Weiquan Lin/Getty Images)*
 ||
 |||
 
