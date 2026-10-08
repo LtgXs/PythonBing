@@ -11,9 +11,9 @@
 ||*Copyright: サンギネール諸島, フランス (© Francesco Riccardo Iacomino/Getty Images)*
 ||
 |||
-|2026-10-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MayotteOctopus_EN-IN7698524475_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MayotteOctopus_EN-IN7698524475_UHD.jpg)|
-||*Copyright: Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)*
+|2026-10-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-IN7867200667_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-IN7867200667_UHD.jpg)|
+||*Copyright: View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)*
 ||
 |||
 |2026-10-09|**Region: pt-BR**||
