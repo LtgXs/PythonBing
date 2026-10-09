@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [16:09:10] Picture infomations saved to  global/fr-CA/README.md
 [16:09:10] Picture infomations saved to global/fr-CA/history/2026/10/10_fr-CA.md
 Program exit at 16:09:10
+
+Program started at 20:26:00
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmmprz5
+Processor Type: x86_64
+Python Version: 3.12.15
+Python Interpreter Name: CPython
+[20:26:00] Start geting CN Bing Wallpaper
+[20:26:00] Successful get url: https://www.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg
+[20:26:00] Image saved to img/background.jpg
+[20:26:00] Info saved to README.md
+[20:26:00] Image saved to history/2026/10/10.md
+[20:26:00] Start geting global Bing Wallpaper, region=en-US, local time is 2026-10-09 16:26:00.254557-04:00
+[20:26:00] Successful get url: https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg
+[20:26:00] Picture infomations saved to  global/en-US/README.md
+[20:26:00] Picture infomations saved to global/en-US/history/2026/10/10_en-US.md
+[20:26:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-10-10 05:26:00.452473+09:00
+[20:26:00] Successful get url: https://www.bing.com/th?id=OHR.CormorantsFlight_JA-JP1768857084_UHD.jpg
+[20:26:00] Picture infomations saved to  global/ja-JP/README.md
+[20:26:00] Picture infomations saved to global/ja-JP/history/2026/10/10_ja-JP.md
+[20:26:00] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-10-10 01:56:00.897191+05:30
+[20:26:00] Successful get url: https://www.bing.com/th?id=OHR.CormorantsFlight_EN-IN8066576004_UHD.jpg
+[20:26:01] Picture infomations saved to  global/en-IN/README.md
+[20:26:01] Picture infomations saved to global/en-IN/history/2026/10/10_en-IN.md
+[20:26:01] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-10-09 17:26:01.140859-03:00
+[20:26:01] Successful get url: https://www.bing.com/th?id=OHR.IlesSanguinaires_PT-BR8805004077_UHD.jpg
+[20:26:01] Picture infomations saved to  global/pt-BR/README.md
+[20:26:01] Picture infomations saved to global/pt-BR/history/2026/10/10_pt-BR.md
+[20:26:01] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-10-09 22:26:01.357677+02:00
+[20:26:01] Successful get url: https://www.bing.com/th?id=OHR.IlesSanguinaires_FR-FR5994303029_UHD.jpg
+[20:26:01] Picture infomations saved to  global/fr-FR/README.md
+[20:26:01] Picture infomations saved to global/fr-FR/history/2026/10/09_fr-FR.md
+[20:26:01] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-10-09 22:26:01.746546+02:00
+[20:26:01] Successful get url: https://www.bing.com/th?id=OHR.IlesSanguinaires_DE-DE5457015089_UHD.jpg
+[20:26:02] Picture infomations saved to  global/de-DE/README.md
+[20:26:02] Picture infomations saved to global/de-DE/history/2026/10/09_de-DE.md
+[20:26:02] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-10-09 16:26:02.048112-04:00
+[20:26:02] Successful get url: https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-CA1335462039_UHD.jpg
+[20:26:02] Picture infomations saved to  global/en-CA/README.md
+[20:26:02] Picture infomations saved to global/en-CA/history/2026/10/10_en-CA.md
+[20:26:02] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-10-09 21:26:02.282484+01:00
+[20:26:02] Successful get url: https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-GB3151593517_UHD.jpg
+[20:26:02] Picture infomations saved to  global/en-GB/README.md
+[20:26:02] Picture infomations saved to global/en-GB/history/2026/10/09_en-GB.md
+[20:26:02] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-10-09 22:26:02.536438+02:00
+[20:26:02] Successful get url: https://www.bing.com/th?id=OHR.IlesSanguinaires_IT-IT9763114016_UHD.jpg
+[20:26:02] Picture infomations saved to  global/it-IT/README.md
+[20:26:02] Picture infomations saved to global/it-IT/history/2026/10/09_it-IT.md
+[20:26:02] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-10-09 22:26:02.995433+02:00
+[20:26:03] Successful get url: https://www.bing.com/th?id=OHR.IlesSanguinaires_ES-ES4266688471_UHD.jpg
+[20:26:03] Picture infomations saved to  global/es-ES/README.md
+[20:26:03] Picture infomations saved to global/es-ES/history/2026/10/09_es-ES.md
+[20:26:03] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-10-09 16:26:03.250328-04:00
+[20:26:03] Successful get url: https://www.bing.com/th?id=OHR.IlesSanguinaires_FR-CA7551520379_UHD.jpg
+[20:26:03] Picture infomations saved to  global/fr-CA/README.md
+[20:26:03] Picture infomations saved to global/fr-CA/history/2026/10/10_fr-CA.md
+Program exit at 20:26:03

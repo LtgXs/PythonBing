@@ -11,9 +11,9 @@
 ||*Copyright: モントレー湾, 米国 カリフォルニア州 (© Hiroya Minakuchi/Minden Pictures)*
 ||
 |||
-|2026-10-09|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-IN7867200667_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-IN7867200667_UHD.jpg)|
-||*Copyright: View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)*
+|2026-10-10|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-IN8066576004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-IN8066576004_UHD.jpg)|
+||*Copyright: Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)*
 ||
 |||
 |2026-10-10|**Region: pt-BR**||
