@@ -1,5 +1,5 @@
-## Today's Bing Wallpaper
-Update: 2026-10-11
+## History Bing Wallpaper
+Wallpaper date: 2026-10-11
 ![](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&w=1000)Download: [Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg)
 
 Auto get programm by LtgX
