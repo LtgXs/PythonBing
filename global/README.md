@@ -11,9 +11,9 @@
 ||*Copyright: グレイド・クリーク・グリスト・ミル, 米国 ウェストバージニア州 (© dszc/Getty Images)*
 ||
 |||
-|2026-10-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-IN8066576004_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-IN8066576004_UHD.jpg)|
-||*Copyright: Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)*
+|2026-10-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BabcockSP_EN-IN8141556742_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabcockSP_EN-IN8141556742_UHD.jpg)|
+||*Copyright: Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)*
 ||
 |||
 |2026-10-11|**Region: pt-BR**||
