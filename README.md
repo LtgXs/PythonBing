@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-11
-![](https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg&w=1000)Download: [格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)](https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg)
+Update: 2026-10-12
+![](https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg&w=1000)Download: [曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock)](https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg)
 
 Auto get programm by LtgX

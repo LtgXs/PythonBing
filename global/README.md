@@ -11,9 +11,9 @@
 ||*Copyright: ベニコンゴウインコのペア (© markes51/Getty Images)*
 ||
 |||
-|2026-10-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BabcockSP_EN-IN8141556742_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabcockSP_EN-IN8141556742_UHD.jpg)|
-||*Copyright: Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)*
+|2026-10-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.MumblesSwansea2026_EN-IN8292362227_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MumblesSwansea2026_EN-IN8292362227_UHD.jpg)|
+||*Copyright: Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock)*
 ||
 |||
 |2026-10-12|**Region: pt-BR**||
