@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-11
-![](https://www.bing.com/th?id=OHR.CormorantsFlight_FR-CA9194690567_UHD.jpg&w=1000)Download: [Cormorans à aigrettes au-dessus de la baie de Monterey, Californie, États-Unis (© Hiroya Minakuchi/Minden Pictures)](https://www.bing.com/th?id=OHR.CormorantsFlight_FR-CA9194690567_UHD.jpg)
+Update: 2026-10-12
+![](https://www.bing.com/th?id=OHR.BabcockSP_FR-CA9649349647_UHD.jpg&w=1000)Download: [Moulin de Glade Creek, parc d'État de Babcock, Virginie-Occidentale, États-Unis (© dszc/Getty Images)](https://www.bing.com/th?id=OHR.BabcockSP_FR-CA9649349647_UHD.jpg)
 
 Auto get programm by LtgX

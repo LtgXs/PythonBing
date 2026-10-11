@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-11
-![](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-CA1602296581_UHD.jpg&w=1000)Download: [Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-CA1602296581_UHD.jpg)
+Update: 2026-10-12
+![](https://www.bing.com/th?id=OHR.BabcockSP_EN-CA1944147188_UHD.jpg&w=1000)Download: [Glade Creek Grist Mill, Babcock State Park, West Virginia, USA (© dszc/Getty Images)](https://www.bing.com/th?id=OHR.BabcockSP_EN-CA1944147188_UHD.jpg)
 
 Auto get programm by LtgX

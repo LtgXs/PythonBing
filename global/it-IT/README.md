@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-10
-![](https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213_UHD.jpg&w=1000)Download: [Cormorani crestati americani sopra la baia di Monterey, California, Stati Uniti (© Hiroya Minakuchi/Minden Pictures)](https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213_UHD.jpg)
+Update: 2026-10-11
+![](https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555_UHD.jpg&w=1000)Download: [La regata della Barcolana nel Golfo di Trieste, Friuli-Venezia Giulia, Italia (© Marco Saracco/Getty Images)](https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555_UHD.jpg)
 
 Auto get programm by LtgX

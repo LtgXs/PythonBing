@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-11
-![](https://www.bing.com/th?id=OHR.CormorantsFlight_PT-BR9427423298_UHD.jpg&w=1000)Download: [Corvos-marinhos-de-orelhas sobre a baía de Monterey, Califórnia, EUA (© Hiroya Minakuchi/Minden Pictures)](https://www.bing.com/th?id=OHR.CormorantsFlight_PT-BR9427423298_UHD.jpg)
+Update: 2026-10-12
+![](https://www.bing.com/th?id=OHR.BabcockSP_PT-BR9617512928_UHD.jpg&w=1000)Download: [Moinho de Glade Creek, Parque Estadual Babcock, Virgínia Ocidental, EUA (© dszc/Getty Images)](https://www.bing.com/th?id=OHR.BabcockSP_PT-BR9617512928_UHD.jpg)
 
 Auto get programm by LtgX

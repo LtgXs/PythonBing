@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-10-11|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg)|
-||*Copyright: Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)*
+|2026-10-12|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg)|
+||*Copyright: Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)*
 ||
 |||
-|2026-10-11|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BabcockSP_JA-JP1996620132_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabcockSP_JA-JP1996620132_UHD.jpg)|
-||*Copyright: グレイド・クリーク・グリスト・ミル, 米国 ウェストバージニア州 (© dszc/Getty Images)*
+|2026-10-12|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RedMacawsFlight_JA-JP3781300138_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedMacawsFlight_JA-JP3781300138_UHD.jpg)|
+||*Copyright: ベニコンゴウインコのペア (© markes51/Getty Images)*
 ||
 |||
 |2026-10-11|**Region: en-IN**||
@@ -16,44 +16,44 @@
 ||*Copyright: Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)*
 ||
 |||
-|2026-10-11|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CormorantsFlight_PT-BR9427423298_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CormorantsFlight_PT-BR9427423298_UHD.jpg)|
-||*Copyright: Corvos-marinhos-de-orelhas sobre a baía de Monterey, Califórnia, EUA (© Hiroya Minakuchi/Minden Pictures)*
+|2026-10-12|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BabcockSP_PT-BR9617512928_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabcockSP_PT-BR9617512928_UHD.jpg)|
+||*Copyright: Moinho de Glade Creek, Parque Estadual Babcock, Virgínia Ocidental, EUA (© dszc/Getty Images)*
 ||
 |||
-|2026-10-10|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.ArtemisRocket_FR-FR7987344274_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ArtemisRocket_FR-FR7987344274_UHD.jpg)|
-||*Copyright: Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022 (© EVA MARIE UZCATEGUI/Getty Images)*
+|2026-10-11|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BabcockSP_FR-FR9462539296_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabcockSP_FR-FR9462539296_UHD.jpg)|
+||*Copyright: Moulin de Glade Creek, parc d'État de Babcock, Virginie-Occidentale, États-Unis (© dszc/Getty Images)*
 ||
 |||
-|2026-10-10|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.CormorantsFlight_DE-DE5717719144_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CormorantsFlight_DE-DE5717719144_UHD.jpg)|
-||*Copyright: Ohrenscharben über der Monterey Bay, Kalifornien, USA (© Hiroya Minakuchi/Minden Pictures)*
+|2026-10-11|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MouflonAutumn_DE-DE6144771164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MouflonAutumn_DE-DE6144771164_UHD.jpg)|
+||*Copyright: Europäisches Mufflon (Widder) im Herbstwald, Bayern (© imageBROKER/David & Micha Sheldon/Getty Images)*
 ||
 |||
-|2026-10-11|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-CA1602296581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-CA1602296581_UHD.jpg)|
-||*Copyright: Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)*
+|2026-10-12|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BabcockSP_EN-CA1944147188_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabcockSP_EN-CA1944147188_UHD.jpg)|
+||*Copyright: Glade Creek Grist Mill, Babcock State Park, West Virginia, USA (© dszc/Getty Images)*
 ||
 |||
-|2026-10-10|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-GB3315477514_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CormorantsFlight_EN-GB3315477514_UHD.jpg)|
-||*Copyright: Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)*
+|2026-10-11|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BabcockSP_EN-GB3870597164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabcockSP_EN-GB3870597164_UHD.jpg)|
+||*Copyright: Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)*
 ||
 |||
-|2026-10-10|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213_UHD.jpg)|
-||*Copyright: Cormorani crestati americani sopra la baia di Monterey, California, Stati Uniti (© Hiroya Minakuchi/Minden Pictures)*
+|2026-10-11|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555_UHD.jpg)|
+||*Copyright: La regata della Barcolana nel Golfo di Trieste, Friuli-Venezia Giulia, Italia (© Marco Saracco/Getty Images)*
 ||
 |||
-|2026-10-10|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.ZaragozaBasilica_ES-ES1990532240_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ZaragozaBasilica_ES-ES1990532240_UHD.jpg)|
-||*Copyright: Catedral-Basílica de Nuestra Señora del Pilar, Zaragoza, Aragón, España (© frantic00/Getty Images)*
+|2026-10-11|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BabcockSP_ES-ES4865600988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabcockSP_ES-ES4865600988_UHD.jpg)|
+||*Copyright: Molino de Glade Creek, Parque Estatal Babcock, Virginia Occidental, EE. UU. (© dszc/Getty Images)*
 ||
 |||
-|2026-10-11|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CormorantsFlight_FR-CA9194690567_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CormorantsFlight_FR-CA9194690567_UHD.jpg)|
-||*Copyright: Cormorans à aigrettes au-dessus de la baie de Monterey, Californie, États-Unis (© Hiroya Minakuchi/Minden Pictures)*
+|2026-10-12|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BabcockSP_FR-CA9649349647_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BabcockSP_FR-CA9649349647_UHD.jpg)|
+||*Copyright: Moulin de Glade Creek, parc d'État de Babcock, Virginie-Occidentale, États-Unis (© dszc/Getty Images)*
 ||
 |||
 
