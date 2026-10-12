@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-12
-![](https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519_UHD.jpg&w=1000)Download: [Il pontile di Mumbles, Swansea, Galles (© Helen Hotson/Shutterstock)](https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519_UHD.jpg)
+Update: 2026-10-13
+![](https://www.bing.com/th?id=OHR.PlitviceAutumn_IT-IT0543699035_UHD.jpg&w=1000)Download: [Parco nazionale dei laghi di Plitvice, Croazia (© Jan Wlodarczyk/Alamy)](https://www.bing.com/th?id=OHR.PlitviceAutumn_IT-IT0543699035_UHD.jpg)
 
 Auto get programm by LtgX

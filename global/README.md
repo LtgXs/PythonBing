@@ -21,14 +21,14 @@
 ||*Copyright: Brinquedos tradicionais de miriti expostos durante o Círio de Nazaré em Belém, Pará (© Ricardo Lima/Getty Images)*
 ||
 |||
-|2026-10-12|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.MumblesSwansea2026_FR-FR6666496816_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MumblesSwansea2026_FR-FR6666496816_UHD.jpg)|
-||*Copyright: Jetée de Mumbles, Swansea, Pays de Galles (© Helen Hotson/Shutterstock)*
+|2026-10-13|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PlitviceAutumn_FR-FR7127723381_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlitviceAutumn_FR-FR7127723381_UHD.jpg)|
+||*Copyright: Parc national des lacs de Plitvice, Croatie (© Jan Wlodarczyk/Alamy)*
 ||
 |||
-|2026-10-12|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MumblesSwansea2026_DE-DE6402348082_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MumblesSwansea2026_DE-DE6402348082_UHD.jpg)|
-||*Copyright: Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock)*
+|2026-10-13|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_UHD.jpg)|
+||*Copyright: Nationalpark Plitvicer Seen, Kroatien (© Jan Wlodarczyk/Alamy)*
 ||
 |||
 |2026-10-13|**Region: en-CA**||
@@ -41,14 +41,14 @@
 ||*Copyright: Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock)*
 ||
 |||
-|2026-10-12|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519_UHD.jpg)|
-||*Copyright: Il pontile di Mumbles, Swansea, Galles (© Helen Hotson/Shutterstock)*
+|2026-10-13|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PlitviceAutumn_IT-IT0543699035_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlitviceAutumn_IT-IT0543699035_UHD.jpg)|
+||*Copyright: Parco nazionale dei laghi di Plitvice, Croazia (© Jan Wlodarczyk/Alamy)*
 ||
 |||
-|2026-10-12|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PatrullaAguila_ES-ES5090687481_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PatrullaAguila_ES-ES5090687481_UHD.jpg)|
-||*Copyright: La Patrulla Águila sobrevuela durante el Desfile Militar del Día Nacional, Madrid, España (© Carlos Alvarez/Getty Images)*
+|2026-10-13|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PlitviceAutumn_ES-ES5332185237_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlitviceAutumn_ES-ES5332185237_UHD.jpg)|
+||*Copyright: Parque Nacional de los Lagos de Plitvice, Croacia (© Jan Wlodarczyk/Alamy)*
 ||
 |||
 |2026-10-13|**Region: fr-CA**||

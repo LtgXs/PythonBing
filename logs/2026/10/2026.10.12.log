@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [18:58:49] Picture infomations saved to  global/fr-CA/README.md
 [18:58:49] Picture infomations saved to global/fr-CA/history/2026/10/13_fr-CA.md
 Program exit at 18:58:49
+
+Program started at 22:40:46
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmmprz5
+Processor Type: x86_64
+Python Version: 3.12.15
+Python Interpreter Name: CPython
+[22:40:46] Start geting CN Bing Wallpaper
+[22:40:46] Successful get url: https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg
+[22:40:47] Image saved to img/background.jpg
+[22:40:47] Info saved to README.md
+[22:40:47] Image saved to history/2026/10/13.md
+[22:40:47] Start geting global Bing Wallpaper, region=en-US, local time is 2026-10-12 18:40:47.067476-04:00
+[22:40:47] Successful get url: https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg
+[22:40:47] Picture infomations saved to  global/en-US/README.md
+[22:40:47] Picture infomations saved to global/en-US/history/2026/10/13_en-US.md
+[22:40:47] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-10-13 07:40:47.325677+09:00
+[22:40:47] Successful get url: https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_UHD.jpg
+[22:40:47] Picture infomations saved to  global/ja-JP/README.md
+[22:40:47] Picture infomations saved to global/ja-JP/history/2026/10/13_ja-JP.md
+[22:40:47] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-10-13 04:10:47.777850+05:30
+[22:40:47] Successful get url: https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-IN8498813927_UHD.jpg
+[22:40:48] Picture infomations saved to  global/en-IN/README.md
+[22:40:48] Picture infomations saved to global/en-IN/history/2026/10/13_en-IN.md
+[22:40:48] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-10-12 19:40:48.101446-03:00
+[22:40:48] Successful get url: https://www.bing.com/th?id=OHR.KidsDay_PT-BR1347488359_UHD.jpg
+[22:40:48] Picture infomations saved to  global/pt-BR/README.md
+[22:40:48] Picture infomations saved to global/pt-BR/history/2026/10/13_pt-BR.md
+[22:40:48] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-10-13 00:40:48.626458+02:00
+[22:40:48] Successful get url: https://www.bing.com/th?id=OHR.PlitviceAutumn_FR-FR7127723381_UHD.jpg
+[22:40:49] Picture infomations saved to  global/fr-FR/README.md
+[22:40:49] Picture infomations saved to global/fr-FR/history/2026/10/13_fr-FR.md
+[22:40:49] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-10-13 00:40:49.118917+02:00
+[22:40:49] Successful get url: https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_UHD.jpg
+[22:40:49] Picture infomations saved to  global/de-DE/README.md
+[22:40:49] Picture infomations saved to global/de-DE/history/2026/10/13_de-DE.md
+[22:40:49] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-10-12 18:40:49.845811-04:00
+[22:40:49] Successful get url: https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_UHD.jpg
+[22:40:50] Picture infomations saved to  global/en-CA/README.md
+[22:40:50] Picture infomations saved to global/en-CA/history/2026/10/13_en-CA.md
+[22:40:50] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-10-12 23:40:50.080737+01:00
+[22:40:50] Successful get url: https://www.bing.com/th?id=OHR.MumblesSwansea2026_EN-GB4411542970_UHD.jpg
+[22:40:50] Picture infomations saved to  global/en-GB/README.md
+[22:40:50] Picture infomations saved to global/en-GB/history/2026/10/12_en-GB.md
+[22:40:50] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-10-13 00:40:50.313105+02:00
+[22:40:50] Successful get url: https://www.bing.com/th?id=OHR.PlitviceAutumn_IT-IT0543699035_UHD.jpg
+[22:40:50] Picture infomations saved to  global/it-IT/README.md
+[22:40:50] Picture infomations saved to global/it-IT/history/2026/10/13_it-IT.md
+[22:40:50] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-10-13 00:40:50.765188+02:00
+[22:40:50] Successful get url: https://www.bing.com/th?id=OHR.PlitviceAutumn_ES-ES5332185237_UHD.jpg
+[22:40:51] Picture infomations saved to  global/es-ES/README.md
+[22:40:51] Picture infomations saved to global/es-ES/history/2026/10/13_es-ES.md
+[22:40:51] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-10-12 18:40:51.252097-04:00
+[22:40:51] Successful get url: https://www.bing.com/th?id=OHR.HeartLakeTG_FR-CA2797611244_UHD.jpg
+[22:40:51] Picture infomations saved to  global/fr-CA/README.md
+[22:40:51] Picture infomations saved to global/fr-CA/history/2026/10/13_fr-CA.md
+Program exit at 22:40:51
