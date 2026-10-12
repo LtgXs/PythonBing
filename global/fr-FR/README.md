@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-11
-![](https://www.bing.com/th?id=OHR.BabcockSP_FR-FR9462539296_UHD.jpg&w=1000)Download: [Moulin de Glade Creek, parc d'État de Babcock, Virginie-Occidentale, États-Unis (© dszc/Getty Images)](https://www.bing.com/th?id=OHR.BabcockSP_FR-FR9462539296_UHD.jpg)
+Update: 2026-10-12
+![](https://www.bing.com/th?id=OHR.MumblesSwansea2026_FR-FR6666496816_UHD.jpg&w=1000)Download: [Jetée de Mumbles, Swansea, Pays de Galles (© Helen Hotson/Shutterstock)](https://www.bing.com/th?id=OHR.MumblesSwansea2026_FR-FR6666496816_UHD.jpg)
 
 Auto get programm by LtgX

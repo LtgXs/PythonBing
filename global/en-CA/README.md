@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-12
-![](https://www.bing.com/th?id=OHR.BabcockSP_EN-CA1944147188_UHD.jpg&w=1000)Download: [Glade Creek Grist Mill, Babcock State Park, West Virginia, USA (© dszc/Getty Images)](https://www.bing.com/th?id=OHR.BabcockSP_EN-CA1944147188_UHD.jpg)
+Update: 2026-10-13
+![](https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_UHD.jpg&w=1000)Download: [Baker Lake near East Bolton, Quebec (© SEBASTIEN ST-JEAN/Contributor/Getty Images)](https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_UHD.jpg)
 
 Auto get programm by LtgX

@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-12
-![](https://www.bing.com/th?id=OHR.RedMacawsFlight_JA-JP3781300138_UHD.jpg&w=1000)Download: [ベニコンゴウインコのペア (© markes51/Getty Images)](https://www.bing.com/th?id=OHR.RedMacawsFlight_JA-JP3781300138_UHD.jpg)
+Update: 2026-10-13
+![](https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_UHD.jpg&w=1000)Download: [プリトヴィツェ湖群国立公園, クロアチア (© Jan Wlodarczyk/Alamy)](https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_UHD.jpg)
 
 Auto get programm by LtgX

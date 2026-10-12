@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-12
-![](https://www.bing.com/th?id=OHR.BabcockSP_PT-BR9617512928_UHD.jpg&w=1000)Download: [Moinho de Glade Creek, Parque Estadual Babcock, Virgínia Ocidental, EUA (© dszc/Getty Images)](https://www.bing.com/th?id=OHR.BabcockSP_PT-BR9617512928_UHD.jpg)
+Update: 2026-10-13
+![](https://www.bing.com/th?id=OHR.KidsDay_PT-BR1347488359_UHD.jpg&w=1000)Download: [Brinquedos tradicionais de miriti expostos durante o Círio de Nazaré em Belém, Pará (© Ricardo Lima/Getty Images)](https://www.bing.com/th?id=OHR.KidsDay_PT-BR1347488359_UHD.jpg)
 
 Auto get programm by LtgX
