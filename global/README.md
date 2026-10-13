@@ -11,9 +11,9 @@
 ||*Copyright: 嵯峨野トロッコ列車, 京都府京都市 (© giggsy25/Shutterstock)*
 ||
 |||
-|2026-10-13|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-IN8498813927_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-IN8498813927_UHD.jpg)|
-||*Copyright: Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)*
+|2026-10-14|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-IN8565946131_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-IN8565946131_UHD.jpg)|
+||*Copyright: Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)*
 ||
 |||
 |2026-10-14|**Region: pt-BR**||
