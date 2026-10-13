@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-13
-![](https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_UHD.jpg&w=1000)Download: [Baker Lake near East Bolton, Quebec (© SEBASTIEN ST-JEAN/Contributor/Getty Images)](https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_UHD.jpg)
+Update: 2026-10-14
+![](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-CA2443117103_UHD.jpg&w=1000)Download: [Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-CA2443117103_UHD.jpg)
 
 Auto get programm by LtgX

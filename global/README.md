@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-10-13|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg)|
-||*Copyright: White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)*
+|2026-10-14|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg)|
+||*Copyright: Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)*
 ||
 |||
-|2026-10-13|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_UHD.jpg)|
-||*Copyright: プリトヴィツェ湖群国立公園, クロアチア (© Jan Wlodarczyk/Alamy)*
+|2026-10-14|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_UHD.jpg)|
+||*Copyright: 嵯峨野トロッコ列車, 京都府京都市 (© giggsy25/Shutterstock)*
 ||
 |||
 |2026-10-13|**Region: en-IN**||
@@ -16,9 +16,9 @@
 ||*Copyright: Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)*
 ||
 |||
-|2026-10-13|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.KidsDay_PT-BR1347488359_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KidsDay_PT-BR1347488359_UHD.jpg)|
-||*Copyright: Brinquedos tradicionais de miriti expostos durante o Círio de Nazaré em Belém, Pará (© Ricardo Lima/Getty Images)*
+|2026-10-14|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PlitviceAutumn_PT-BR4568960471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlitviceAutumn_PT-BR4568960471_UHD.jpg)|
+||*Copyright: Parque Nacional dos Lagos de Plitvice, Croácia (© Jan Wlodarczyk/Alamy)*
 ||
 |||
 |2026-10-13|**Region: fr-FR**||
@@ -31,14 +31,14 @@
 ||*Copyright: Nationalpark Plitvicer Seen, Kroatien (© Jan Wlodarczyk/Alamy)*
 ||
 |||
-|2026-10-13|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_UHD.jpg)|
-||*Copyright: Baker Lake near East Bolton, Quebec (© SEBASTIEN ST-JEAN/Contributor/Getty Images)*
+|2026-10-14|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-CA2443117103_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-CA2443117103_UHD.jpg)|
+||*Copyright: Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)*
 ||
 |||
-|2026-10-12|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.MumblesSwansea2026_EN-GB4411542970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MumblesSwansea2026_EN-GB4411542970_UHD.jpg)|
-||*Copyright: Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock)*
+|2026-10-13|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-GB4470740504_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-GB4470740504_UHD.jpg)|
+||*Copyright: Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)*
 ||
 |||
 |2026-10-13|**Region: it-IT**||
@@ -51,9 +51,9 @@
 ||*Copyright: Parque Nacional de los Lagos de Plitvice, Croacia (© Jan Wlodarczyk/Alamy)*
 ||
 |||
-|2026-10-13|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HeartLakeTG_FR-CA2797611244_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HeartLakeTG_FR-CA2797611244_UHD.jpg)|
-||*Copyright: Lac Baker près d'East Bolton, Québec (© SEBASTIEN ST-JEAN/Contributor/Getty Images)*
+|2026-10-14|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PlitviceAutumn_FR-CA8939506796_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PlitviceAutumn_FR-CA8939506796_UHD.jpg)|
+||*Copyright: Parc national des lacs de Plitvice, Croatie (© Jan Wlodarczyk/Alamy)*
 ||
 |||
 

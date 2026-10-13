@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-13
-![](https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&w=1000)Download: [普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)](https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg)
+Update: 2026-10-14
+![](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&w=1000)Download: [侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg)
 
 Auto get programm by LtgX

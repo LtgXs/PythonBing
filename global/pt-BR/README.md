@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-13
-![](https://www.bing.com/th?id=OHR.KidsDay_PT-BR1347488359_UHD.jpg&w=1000)Download: [Brinquedos tradicionais de miriti expostos durante o Círio de Nazaré em Belém, Pará (© Ricardo Lima/Getty Images)](https://www.bing.com/th?id=OHR.KidsDay_PT-BR1347488359_UHD.jpg)
+Update: 2026-10-14
+![](https://www.bing.com/th?id=OHR.PlitviceAutumn_PT-BR4568960471_UHD.jpg&w=1000)Download: [Parque Nacional dos Lagos de Plitvice, Croácia (© Jan Wlodarczyk/Alamy)](https://www.bing.com/th?id=OHR.PlitviceAutumn_PT-BR4568960471_UHD.jpg)
 
 Auto get programm by LtgX
