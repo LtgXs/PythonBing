@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-13
-![](https://www.bing.com/th?id=OHR.PlitviceAutumn_IT-IT0543699035_UHD.jpg&w=1000)Download: [Parco nazionale dei laghi di Plitvice, Croazia (© Jan Wlodarczyk/Alamy)](https://www.bing.com/th?id=OHR.PlitviceAutumn_IT-IT0543699035_UHD.jpg)
+Update: 2026-10-14
+![](https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_UHD.jpg&w=1000)Download: [Fossili di ammoniti del Giurassico (© J Nemchinova/Getty Images)](https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_UHD.jpg)
 
 Auto get programm by LtgX

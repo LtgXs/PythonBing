@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-13
-![](https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_UHD.jpg&w=1000)Download: [Nationalpark Plitvicer Seen, Kroatien (© Jan Wlodarczyk/Alamy)](https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_UHD.jpg)
+Update: 2026-10-14
+![](https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072_UHD.jpg&w=1000)Download: [Ammonitenfossilien aus der Jurazeit (© J Nemchinova/Getty Images)](https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072_UHD.jpg)
 
 Auto get programm by LtgX
