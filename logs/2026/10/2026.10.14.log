@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [14:28:44] Picture infomations saved to  global/fr-CA/README.md
 [14:28:44] Picture infomations saved to global/fr-CA/history/2026/10/15_fr-CA.md
 Program exit at 14:28:44
+
+Program started at 19:54:11
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm8k3b6
+Processor Type: x86_64
+Python Version: 3.12.15
+Python Interpreter Name: CPython
+[19:54:11] Start geting CN Bing Wallpaper
+[19:54:12] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg
+[19:54:12] Image saved to img/background.jpg
+[19:54:12] Info saved to README.md
+[19:54:12] Image saved to history/2026/10/15.md
+[19:54:12] Start geting global Bing Wallpaper, region=en-US, local time is 2026-10-14 15:54:12.179886-04:00
+[19:54:12] Successful get url: https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg
+[19:54:12] Picture infomations saved to  global/en-US/README.md
+[19:54:12] Picture infomations saved to global/en-US/history/2026/10/15_en-US.md
+[19:54:12] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-10-15 04:54:12.367655+09:00
+[19:54:12] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_UHD.jpg
+[19:54:12] Picture infomations saved to  global/ja-JP/README.md
+[19:54:12] Picture infomations saved to global/ja-JP/history/2026/10/15_ja-JP.md
+[19:54:12] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-10-15 01:24:12.615953+05:30
+[19:54:12] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_EN-IN8643220357_UHD.jpg
+[19:54:12] Picture infomations saved to  global/en-IN/README.md
+[19:54:12] Picture infomations saved to global/en-IN/history/2026/10/15_en-IN.md
+[19:54:12] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-10-14 16:54:12.910899-03:00
+[19:54:12] Successful get url: https://www.bing.com/th?id=OHR.AmmoniteFossils_PT-BR4750235603_UHD.jpg
+[19:54:13] Picture infomations saved to  global/pt-BR/README.md
+[19:54:13] Picture infomations saved to global/pt-BR/history/2026/10/15_pt-BR.md
+[19:54:13] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-10-14 21:54:13.121391+02:00
+[19:54:13] Successful get url: https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_UHD.jpg
+[19:54:13] Picture infomations saved to  global/fr-FR/README.md
+[19:54:13] Picture infomations saved to global/fr-FR/history/2026/10/14_fr-FR.md
+[19:54:13] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-10-14 21:54:13.423040+02:00
+[19:54:13] Successful get url: https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072_UHD.jpg
+[19:54:13] Picture infomations saved to  global/de-DE/README.md
+[19:54:13] Picture infomations saved to global/de-DE/history/2026/10/14_de-DE.md
+[19:54:13] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-10-14 15:54:13.606264-04:00
+[19:54:13] Successful get url: https://www.bing.com/th?id=OHR.GrizzlySwim_EN-CA2710630781_UHD.jpg
+[19:54:13] Picture infomations saved to  global/en-CA/README.md
+[19:54:13] Picture infomations saved to global/en-CA/history/2026/10/15_en-CA.md
+[19:54:13] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-10-14 20:54:13.831919+01:00
+[19:54:13] Successful get url: https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-GB4546470412_UHD.jpg
+[19:54:14] Picture infomations saved to  global/en-GB/README.md
+[19:54:14] Picture infomations saved to global/en-GB/history/2026/10/14_en-GB.md
+[19:54:14] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-10-14 21:54:14.030943+02:00
+[19:54:14] Successful get url: https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_UHD.jpg
+[19:54:14] Picture infomations saved to  global/it-IT/README.md
+[19:54:14] Picture infomations saved to global/it-IT/history/2026/10/14_it-IT.md
+[19:54:14] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-10-14 21:54:14.337648+02:00
+[19:54:14] Successful get url: https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890_UHD.jpg
+[19:54:14] Picture infomations saved to  global/es-ES/README.md
+[19:54:14] Picture infomations saved to global/es-ES/history/2026/10/14_es-ES.md
+[19:54:14] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-10-14 15:54:14.664390-04:00
+[19:54:14] Successful get url: https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-CA9216035858_UHD.jpg
+[19:54:15] Picture infomations saved to  global/fr-CA/README.md
+[19:54:15] Picture infomations saved to global/fr-CA/history/2026/10/15_fr-CA.md
+Program exit at 19:54:15

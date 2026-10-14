@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-14
-![](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&w=1000)Download: [侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg)
+Update: 2026-10-15
+![](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg&w=1000)Download: [弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg)
 
 Auto get programm by LtgX
