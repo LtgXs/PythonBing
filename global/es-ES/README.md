@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-14
-![](https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890_UHD.jpg&w=1000)Download: [Fósiles de amonites del Jurásico (© J Nemchinova/Getty Images)](https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890_UHD.jpg)
+Update: 2026-10-15
+![](https://www.bing.com/th?id=OHR.WroclawPoland_ES-ES6249915839_UHD.jpg&w=1000)Download: [Vista de la plaza del Mercado de Breslavia desde el Puente de las Brujas, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)](https://www.bing.com/th?id=OHR.WroclawPoland_ES-ES6249915839_UHD.jpg)
 
 Auto get programm by LtgX

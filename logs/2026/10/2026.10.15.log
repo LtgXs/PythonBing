@@ -1,0 +1,60 @@
+
+Program started at 14:07:53
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm8k3b6
+Processor Type: x86_64
+Python Version: 3.12.15
+Python Interpreter Name: CPython
+[14:07:53] Start geting CN Bing Wallpaper
+[14:07:53] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg
+[14:07:53] Image saved to img/background.jpg
+[14:07:53] Info saved to README.md
+[14:07:53] Image saved to history/2026/10/15.md
+[14:07:53] Start geting global Bing Wallpaper, region=en-US, local time is 2026-10-15 10:07:53.754135-04:00
+[14:07:53] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg
+[14:07:53] Picture infomations saved to  global/en-US/README.md
+[14:07:53] Picture infomations saved to global/en-US/history/2026/10/16_en-US.md
+[14:07:53] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-10-15 23:07:53.966407+09:00
+[14:07:54] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_UHD.jpg
+[14:07:54] Picture infomations saved to  global/ja-JP/README.md
+[14:07:54] Picture infomations saved to global/ja-JP/history/2026/10/15_ja-JP.md
+[14:07:54] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-10-15 19:37:54.154262+05:30
+[14:07:54] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_EN-IN8643220357_UHD.jpg
+[14:07:54] Picture infomations saved to  global/en-IN/README.md
+[14:07:54] Picture infomations saved to global/en-IN/history/2026/10/15_en-IN.md
+[14:07:54] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-10-15 11:07:54.337257-03:00
+[14:07:54] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_PT-BR5779158730_UHD.jpg
+[14:07:54] Picture infomations saved to  global/pt-BR/README.md
+[14:07:54] Picture infomations saved to global/pt-BR/history/2026/10/16_pt-BR.md
+[14:07:54] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-10-15 16:07:54.473853+02:00
+[14:07:54] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_FR-FR0061683282_UHD.jpg
+[14:07:54] Picture infomations saved to  global/fr-FR/README.md
+[14:07:54] Picture infomations saved to global/fr-FR/history/2026/10/15_fr-FR.md
+[14:07:54] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-10-15 16:07:54.612388+02:00
+[14:07:54] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_UHD.jpg
+[14:07:54] Picture infomations saved to  global/de-DE/README.md
+[14:07:54] Picture infomations saved to global/de-DE/history/2026/10/15_de-DE.md
+[14:07:54] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-10-15 10:07:54.819267-04:00
+[14:07:54] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_UHD.jpg
+[14:07:54] Picture infomations saved to  global/en-CA/README.md
+[14:07:54] Picture infomations saved to global/en-CA/history/2026/10/16_en-CA.md
+[14:07:54] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-10-15 15:07:54.956355+01:00
+[14:07:55] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_EN-GB4702725574_UHD.jpg
+[14:07:55] Picture infomations saved to  global/en-GB/README.md
+[14:07:55] Picture infomations saved to global/en-GB/history/2026/10/15_en-GB.md
+[14:07:55] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-10-15 16:07:55.505654+02:00
+[14:07:55] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_IT-IT1033829565_UHD.jpg
+[14:07:55] Picture infomations saved to  global/it-IT/README.md
+[14:07:55] Picture infomations saved to global/it-IT/history/2026/10/15_it-IT.md
+[14:07:55] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-10-15 16:07:55.714592+02:00
+[14:07:55] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_ES-ES6249915839_UHD.jpg
+[14:07:55] Picture infomations saved to  global/es-ES/README.md
+[14:07:55] Picture infomations saved to global/es-ES/history/2026/10/15_es-ES.md
+[14:07:55] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-10-15 10:07:55.997730-04:00
+[14:07:56] Successful get url: https://www.bing.com/th?id=OHR.WroclawPoland_FR-CA0326496890_UHD.jpg
+[14:07:56] Picture infomations saved to  global/fr-CA/README.md
+[14:07:56] Picture infomations saved to global/fr-CA/history/2026/10/16_fr-CA.md
+Program exit at 14:07:56

@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-10-15|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg)|
-||*Copyright: Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)*
+|2026-10-16|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg)|
+||*Copyright: View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)*
 ||
 |||
 |2026-10-15|**Region: ja-JP**||
@@ -16,44 +16,44 @@
 ||*Copyright: View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)*
 ||
 |||
-|2026-10-15|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.AmmoniteFossils_PT-BR4750235603_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmmoniteFossils_PT-BR4750235603_UHD.jpg)|
-||*Copyright: Fósseis de amonites do período Jurássico (© J Nemchinova/Getty Images)*
+|2026-10-16|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.WroclawPoland_PT-BR5779158730_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WroclawPoland_PT-BR5779158730_UHD.jpg)|
+||*Copyright: Vista da Praça do Mercado de Wrocław a partir da Ponte das Bruxas, Wrocław, Polônia (© Piotr Mitelski/Shutterstock)*
 ||
 |||
-|2026-10-14|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_UHD.jpg)|
-||*Copyright: Fossiles d'ammonites du Jurassique (© J Nemchinova/Getty Images)*
+|2026-10-15|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.WroclawPoland_FR-FR0061683282_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WroclawPoland_FR-FR0061683282_UHD.jpg)|
+||*Copyright: Vue sur la place du marché de Wrocław depuis le pont des Sorcières, Wrocław, Pologne (© Piotr Mitelski/Shutterstock)*
 ||
 |||
-|2026-10-14|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072_UHD.jpg)|
-||*Copyright: Ammonitenfossilien aus der Jurazeit (© J Nemchinova/Getty Images)*
+|2026-10-15|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_UHD.jpg)|
+||*Copyright: Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen (© Piotr Mitelski/Shutterstock)*
 ||
 |||
-|2026-10-15|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-CA2710630781_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-CA2710630781_UHD.jpg)|
-||*Copyright: Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)*
+|2026-10-16|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_UHD.jpg)|
+||*Copyright: View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)*
 ||
 |||
-|2026-10-14|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-GB4546470412_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-GB4546470412_UHD.jpg)|
-||*Copyright: Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)*
+|2026-10-15|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.WroclawPoland_EN-GB4702725574_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WroclawPoland_EN-GB4702725574_UHD.jpg)|
+||*Copyright: View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)*
 ||
 |||
-|2026-10-14|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_UHD.jpg)|
-||*Copyright: Fossili di ammoniti del Giurassico (© J Nemchinova/Getty Images)*
+|2026-10-15|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.WroclawPoland_IT-IT1033829565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WroclawPoland_IT-IT1033829565_UHD.jpg)|
+||*Copyright: Veduta della piazza del Mercato di Breslavia dal Ponte delle Streghe, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)*
 ||
 |||
-|2026-10-14|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890_UHD.jpg)|
-||*Copyright: Fósiles de amonites del Jurásico (© J Nemchinova/Getty Images)*
+|2026-10-15|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.WroclawPoland_ES-ES6249915839_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WroclawPoland_ES-ES6249915839_UHD.jpg)|
+||*Copyright: Vista de la plaza del Mercado de Breslavia desde el Puente de las Brujas, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)*
 ||
 |||
-|2026-10-15|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-CA9216035858_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-CA9216035858_UHD.jpg)|
-||*Copyright: Fossiles d'ammonites du Jurassique (© J Nemchinova/Getty Images)*
+|2026-10-16|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.WroclawPoland_FR-CA0326496890_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WroclawPoland_FR-CA0326496890_UHD.jpg)|
+||*Copyright: Vue sur la place du marché de Wrocław depuis le pont des Sorcières, Wrocław, Pologne (© Piotr Mitelski/Shutterstock)*
 ||
 |||
 
