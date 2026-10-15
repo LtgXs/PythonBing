@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-15
-![](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg&w=1000)Download: [弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg)
+Update: 2026-10-16
+![](https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg&w=1000)Download: [斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)](https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg)
 
 Auto get programm by LtgX

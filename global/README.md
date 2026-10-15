@@ -6,14 +6,14 @@
 ||*Copyright: View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)*
 ||
 |||
-|2026-10-15|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_UHD.jpg)|
-||*Copyright: ヴロツワフ, ポーランド (© Piotr Mitelski/Shutterstock)*
+|2026-10-16|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SneffelsAutumn_JA-JP1327078827_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SneffelsAutumn_JA-JP1327078827_UHD.jpg)|
+||*Copyright: スネフェル山, 米国 コロラド州 (© lightphoto/Getty Images)*
 ||
 |||
-|2026-10-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.WroclawPoland_EN-IN8643220357_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WroclawPoland_EN-IN8643220357_UHD.jpg)|
-||*Copyright: View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)*
+|2026-10-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-IN6402134522_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-IN6402134522_UHD.jpg)|
+||*Copyright: Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)*
 ||
 |||
 |2026-10-16|**Region: pt-BR**||
