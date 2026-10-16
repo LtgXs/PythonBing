@@ -6,14 +6,14 @@
 ||*Copyright: Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)*
 ||
 |||
-|2026-10-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SneffelsAutumn_JA-JP1327078827_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SneffelsAutumn_JA-JP1327078827_UHD.jpg)|
-||*Copyright: スネフェル山, 米国 コロラド州 (© lightphoto/Getty Images)*
+|2026-10-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Persimmons2026_JA-JP2192858733_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Persimmons2026_JA-JP2192858733_UHD.jpg)|
+||*Copyright: ずらりと並ぶ干し柿, 長野県 妻籠宿 (© wayfarer2020/Shutterstock)*
 ||
 |||
-|2026-10-16|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-IN6402134522_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-IN6402134522_UHD.jpg)|
-||*Copyright: Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)*
+|2026-10-17|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-IN6496493041_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-IN6496493041_UHD.jpg)|
+||*Copyright: Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)*
 ||
 |||
 |2026-10-17|**Region: pt-BR**||
