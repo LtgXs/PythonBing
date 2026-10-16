@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-16
-![](https://www.bing.com/th?id=OHR.WroclawPoland_FR-CA0326496890_UHD.jpg&w=1000)Download: [Vue sur la place du marché de Wrocław depuis le pont des Sorcières, Wrocław, Pologne (© Piotr Mitelski/Shutterstock)](https://www.bing.com/th?id=OHR.WroclawPoland_FR-CA0326496890_UHD.jpg)
+Update: 2026-10-17
+![](https://www.bing.com/th?id=OHR.MaligneFest_FR-CA1812148894_UHD.jpg&w=1000)Download: [Lac Maligne, Parc national Jasper, Alberta (© Andrey Popov/Getty Images)](https://www.bing.com/th?id=OHR.MaligneFest_FR-CA1812148894_UHD.jpg)
 
 Auto get programm by LtgX

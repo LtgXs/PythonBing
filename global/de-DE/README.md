@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-15
-![](https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_UHD.jpg&w=1000)Download: [Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen (© Piotr Mitelski/Shutterstock)](https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_UHD.jpg)
+Update: 2026-10-16
+![](https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_UHD.jpg&w=1000)Download: [Kloster Andechs bei Sonnenuntergang, Andechs, Bayern (© imageBROKER/Martin Moxter)](https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_UHD.jpg)
 
 Auto get programm by LtgX

@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-15
-![](https://www.bing.com/th?id=OHR.WroclawPoland_ES-ES6249915839_UHD.jpg&w=1000)Download: [Vista de la plaza del Mercado de Breslavia desde el Puente de las Brujas, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)](https://www.bing.com/th?id=OHR.WroclawPoland_ES-ES6249915839_UHD.jpg)
+Update: 2026-10-16
+![](https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168_UHD.jpg&w=1000)Download: [Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU. (© lightphoto/Getty Images)](https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168_UHD.jpg)
 
 Auto get programm by LtgX
