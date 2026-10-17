@@ -6,9 +6,9 @@
 ||*Copyright: Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)*
 ||
 |||
-|2026-10-17|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Persimmons2026_JA-JP2192858733_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Persimmons2026_JA-JP2192858733_UHD.jpg)|
-||*Copyright: ずらりと並ぶ干し柿, 長野県 妻籠宿 (© wayfarer2020/Shutterstock)*
+|2026-10-18|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DolbadarnWales_JA-JP2361140889_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolbadarnWales_JA-JP2361140889_UHD.jpg)|
+||*Copyright: ドルバダーン城, ウェールズ (© joe daniel price/Getty Images)*
 ||
 |||
 |2026-10-17|**Region: en-IN**||

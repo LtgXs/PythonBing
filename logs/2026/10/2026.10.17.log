@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [12:56:10] Picture infomations saved to  global/fr-CA/README.md
 [12:56:10] Picture infomations saved to global/fr-CA/history/2026/10/18_fr-CA.md
 Program exit at 12:56:10
+
+Program started at 18:04:26
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm8k3b6
+Processor Type: x86_64
+Python Version: 3.12.15
+Python Interpreter Name: CPython
+[18:04:26] Start geting CN Bing Wallpaper
+[18:04:26] Successful get url: https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg
+[18:04:26] Image saved to img/background.jpg
+[18:04:26] Info saved to README.md
+[18:04:26] Image saved to history/2026/10/18.md
+[18:04:26] Start geting global Bing Wallpaper, region=en-US, local time is 2026-10-17 14:04:26.676475-04:00
+[18:04:26] Successful get url: https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg
+[18:04:27] Picture infomations saved to  global/en-US/README.md
+[18:04:27] Picture infomations saved to global/en-US/history/2026/10/18_en-US.md
+[18:04:27] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-10-18 03:04:27.119991+09:00
+[18:04:27] Successful get url: https://www.bing.com/th?id=OHR.DolbadarnWales_JA-JP2361140889_UHD.jpg
+[18:04:27] Picture infomations saved to  global/ja-JP/README.md
+[18:04:27] Picture infomations saved to global/ja-JP/history/2026/10/18_ja-JP.md
+[18:04:27] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-10-17 23:34:27.348926+05:30
+[18:04:27] Successful get url: https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-IN6496493041_UHD.jpg
+[18:04:27] Picture infomations saved to  global/en-IN/README.md
+[18:04:27] Picture infomations saved to global/en-IN/history/2026/10/17_en-IN.md
+[18:04:27] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-10-17 15:04:27.780520-03:00
+[18:04:27] Successful get url: https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_PT-BR7808142972_UHD.jpg
+[18:04:28] Picture infomations saved to  global/pt-BR/README.md
+[18:04:28] Picture infomations saved to global/pt-BR/history/2026/10/18_pt-BR.md
+[18:04:28] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-10-17 20:04:28.223338+02:00
+[18:04:28] Successful get url: https://www.bing.com/th?id=OHR.SmilingSquirrel_FR-FR7350313584_UHD.jpg
+[18:04:28] Picture infomations saved to  global/fr-FR/README.md
+[18:04:28] Picture infomations saved to global/fr-FR/history/2026/10/17_fr-FR.md
+[18:04:28] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-10-17 20:04:28.494136+02:00
+[18:04:28] Successful get url: https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_DE-DE0392727746_UHD.jpg
+[18:04:29] Picture infomations saved to  global/de-DE/README.md
+[18:04:29] Picture infomations saved to global/de-DE/history/2026/10/17_de-DE.md
+[18:04:29] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-10-17 14:04:29.040448-04:00
+[18:04:29] Successful get url: https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-CA7438357428_UHD.jpg
+[18:04:29] Picture infomations saved to  global/en-CA/README.md
+[18:04:29] Picture infomations saved to global/en-CA/history/2026/10/18_en-CA.md
+[18:04:29] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-10-17 19:04:29.280795+01:00
+[18:04:29] Successful get url: https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874_UHD.jpg
+[18:04:29] Picture infomations saved to  global/en-GB/README.md
+[18:04:29] Picture infomations saved to global/en-GB/history/2026/10/17_en-GB.md
+[18:04:29] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-10-17 20:04:29.700723+02:00
+[18:04:29] Successful get url: https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809_UHD.jpg
+[18:04:29] Picture infomations saved to  global/it-IT/README.md
+[18:04:29] Picture infomations saved to global/it-IT/history/2026/10/17_it-IT.md
+[18:04:29] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-10-17 20:04:29.965618+02:00
+[18:04:30] Successful get url: https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224_UHD.jpg
+[18:04:30] Picture infomations saved to  global/es-ES/README.md
+[18:04:30] Picture infomations saved to global/es-ES/history/2026/10/17_es-ES.md
+[18:04:30] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-10-17 14:04:30.400483-04:00
+[18:04:30] Successful get url: https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_FR-CA3221725158_UHD.jpg
+[18:04:30] Picture infomations saved to  global/fr-CA/README.md
+[18:04:30] Picture infomations saved to global/fr-CA/history/2026/10/18_fr-CA.md
+Program exit at 18:04:30
