@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-17
-![](https://www.bing.com/th?id=OHR.MaligneFest_FR-CA1812148894_UHD.jpg&w=1000)Download: [Lac Maligne, Parc national Jasper, Alberta (© Andrey Popov/Getty Images)](https://www.bing.com/th?id=OHR.MaligneFest_FR-CA1812148894_UHD.jpg)
+Update: 2026-10-18
+![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_FR-CA3221725158_UHD.jpg&w=1000)Download: [Reconstitution grande nature d’une œuvre de la Grotte Chauvet à Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_FR-CA3221725158_UHD.jpg)
 
 Auto get programm by LtgX

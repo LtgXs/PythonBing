@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-16
-![](https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_UHD.jpg&w=1000)Download: [Kloster Andechs bei Sonnenuntergang, Andechs, Bayern (© imageBROKER/Martin Moxter)](https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_UHD.jpg)
+Update: 2026-10-17
+![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_DE-DE0392727746_UHD.jpg&w=1000)Download: [Lebensgroße Nachbildung der Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich (© Audrey Poree/Alamy)](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_DE-DE0392727746_UHD.jpg)
 
 Auto get programm by LtgX

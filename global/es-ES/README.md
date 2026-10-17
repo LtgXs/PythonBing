@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-16
-![](https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168_UHD.jpg&w=1000)Download: [Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU. (© lightphoto/Getty Images)](https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168_UHD.jpg)
+Update: 2026-10-17
+![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224_UHD.jpg&w=1000)Download: [Reproducción a tamaño real de las pinturas de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224_UHD.jpg)
 
 Auto get programm by LtgX
