@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-17
-![](https://www.bing.com/th?id=OHR.SmilingSquirrel_FR-FR7350313584_UHD.jpg&w=1000)Download: [Écureuil roux (© Cédric GUERE/Getty Images)](https://www.bing.com/th?id=OHR.SmilingSquirrel_FR-FR7350313584_UHD.jpg)
+Update: 2026-10-18
+![](https://www.bing.com/th?id=OHR.DolbadarnWales_FR-FR3604957648_UHD.jpg&w=1000)Download: [Château de Dolbadarn, Llanberis, Parc national d’Eryri (Snowdonia), Pays de Galles (© joe daniel price/Getty Images)](https://www.bing.com/th?id=OHR.DolbadarnWales_FR-FR3604957648_UHD.jpg)
 
 Auto get programm by LtgX

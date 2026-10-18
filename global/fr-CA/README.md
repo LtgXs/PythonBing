@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-18
-![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_FR-CA3221725158_UHD.jpg&w=1000)Download: [Reconstitution grande nature d’une œuvre de la Grotte Chauvet à Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_FR-CA3221725158_UHD.jpg)
+Update: 2026-10-19
+![](https://www.bing.com/th?id=OHR.DolbadarnWales_FR-CA3676677924_UHD.jpg&w=1000)Download: [Château de Dolbadarn, Llanberis, Parc national d’Eryri (© joe daniel price/Getty Images)](https://www.bing.com/th?id=OHR.DolbadarnWales_FR-CA3676677924_UHD.jpg)
 
 Auto get programm by LtgX

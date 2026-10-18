@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-17
-![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_DE-DE0392727746_UHD.jpg&w=1000)Download: [Lebensgroße Nachbildung der Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich (© Audrey Poree/Alamy)](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_DE-DE0392727746_UHD.jpg)
+Update: 2026-10-18
+![](https://www.bing.com/th?id=OHR.DolbadarnWales_DE-DE0565954250_UHD.jpg&w=1000)Download: [Dolbadarn Castle, Llanberis, Eryri-Nationalpark (Snowdonia), Wales (© joe daniel price/Getty Images)](https://www.bing.com/th?id=OHR.DolbadarnWales_DE-DE0565954250_UHD.jpg)
 
 Auto get programm by LtgX
