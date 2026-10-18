@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-18
-![](https://www.bing.com/th?id=OHR.DolbadarnWales_JA-JP2361140889_UHD.jpg&w=1000)Download: [ドルバダーン城, ウェールズ (© joe daniel price/Getty Images)](https://www.bing.com/th?id=OHR.DolbadarnWales_JA-JP2361140889_UHD.jpg)
+Update: 2026-10-19
+![](https://www.bing.com/th?id=OHR.VeniceSunrise_JA-JP2535499489_UHD.jpg&w=1000)Download: [カナル・グランデ, イタリア (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.VeniceSunrise_JA-JP2535499489_UHD.jpg)
 
 Auto get programm by LtgX

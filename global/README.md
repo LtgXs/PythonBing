@@ -6,9 +6,9 @@
 ||*Copyright: Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)*
 ||
 |||
-|2026-10-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DolbadarnWales_JA-JP2361140889_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DolbadarnWales_JA-JP2361140889_UHD.jpg)|
-||*Copyright: ドルバダーン城, ウェールズ (© joe daniel price/Getty Images)*
+|2026-10-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.VeniceSunrise_JA-JP2535499489_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceSunrise_JA-JP2535499489_UHD.jpg)|
+||*Copyright: カナル・グランデ, イタリア (© Juan Romero/Cavan Images)*
 ||
 |||
 |2026-10-18|**Region: en-IN**||
