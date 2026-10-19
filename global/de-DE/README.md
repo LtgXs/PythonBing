@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-18
-![](https://www.bing.com/th?id=OHR.DolbadarnWales_DE-DE0565954250_UHD.jpg&w=1000)Download: [Dolbadarn Castle, Llanberis, Eryri-Nationalpark (Snowdonia), Wales (© joe daniel price/Getty Images)](https://www.bing.com/th?id=OHR.DolbadarnWales_DE-DE0565954250_UHD.jpg)
+Update: 2026-10-19
+![](https://www.bing.com/th?id=OHR.VeniceSunrise_DE-DE1204445748_UHD.jpg&w=1000)Download: [Canal Grande in Venedig, Italien (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.VeniceSunrise_DE-DE1204445748_UHD.jpg)
 
 Auto get programm by LtgX

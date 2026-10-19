@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-18
-![](https://www.bing.com/th?id=OHR.DolbadarnWales_EN-IN6584156399_UHD.jpg&w=1000)Download: [Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)](https://www.bing.com/th?id=OHR.DolbadarnWales_EN-IN6584156399_UHD.jpg)
+Update: 2026-10-19
+![](https://www.bing.com/th?id=OHR.MahaNavami2026_EN-IN6653933239_UHD.jpg&w=1000)Download: [Goddess Durga idol in a pandal (© shouvik mondal/iStock/Getty Images)](https://www.bing.com/th?id=OHR.MahaNavami2026_EN-IN6653933239_UHD.jpg)
 
 Auto get programm by LtgX
