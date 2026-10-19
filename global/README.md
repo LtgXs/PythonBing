@@ -11,9 +11,9 @@
 ||*Copyright: 木の枝にぶら下がるナマケモノ, コスタリカ (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2026-10-19|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.MahaNavami2026_EN-IN6653933239_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MahaNavami2026_EN-IN6653933239_UHD.jpg)|
-||*Copyright: Goddess Durga idol in a pandal (© shouvik mondal/iStock/Getty Images)*
+|2026-10-20|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BrownSloth_EN-IN7427775510_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrownSloth_EN-IN7427775510_UHD.jpg)|
+||*Copyright: Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
 |2026-10-20|**Region: pt-BR**||

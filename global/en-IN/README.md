@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-19
-![](https://www.bing.com/th?id=OHR.MahaNavami2026_EN-IN6653933239_UHD.jpg&w=1000)Download: [Goddess Durga idol in a pandal (© shouvik mondal/iStock/Getty Images)](https://www.bing.com/th?id=OHR.MahaNavami2026_EN-IN6653933239_UHD.jpg)
+Update: 2026-10-20
+![](https://www.bing.com/th?id=OHR.BrownSloth_EN-IN7427775510_UHD.jpg&w=1000)Download: [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_EN-IN7427775510_UHD.jpg)
 
 Auto get programm by LtgX
