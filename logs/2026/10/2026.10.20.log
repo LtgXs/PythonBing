@@ -1,0 +1,60 @@
+
+Program started at 14:15:59
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm8k3b6
+Processor Type: x86_64
+Python Version: 3.12.15
+Python Interpreter Name: CPython
+[14:15:59] Start geting CN Bing Wallpaper
+[14:15:59] Successful get url: https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg
+[14:16:00] Image saved to img/background.jpg
+[14:16:00] Info saved to README.md
+[14:16:00] Image saved to history/2026/10/20.md
+[14:16:00] Start geting global Bing Wallpaper, region=en-US, local time is 2026-10-20 10:16:00.011829-04:00
+[14:16:00] Successful get url: https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg
+[14:16:00] Picture infomations saved to  global/en-US/README.md
+[14:16:00] Picture infomations saved to global/en-US/history/2026/10/21_en-US.md
+[14:16:00] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-10-20 23:16:00.207708+09:00
+[14:16:00] Successful get url: https://www.bing.com/th?id=OHR.BrownSloth_JA-JP2697515435_UHD.jpg
+[14:16:00] Picture infomations saved to  global/ja-JP/README.md
+[14:16:00] Picture infomations saved to global/ja-JP/history/2026/10/20_ja-JP.md
+[14:16:00] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-10-20 19:46:00.735750+05:30
+[14:16:00] Successful get url: https://www.bing.com/th?id=OHR.BrownSloth_EN-IN7427775510_UHD.jpg
+[14:16:01] Picture infomations saved to  global/en-IN/README.md
+[14:16:01] Picture infomations saved to global/en-IN/history/2026/10/20_en-IN.md
+[14:16:01] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-10-20 11:16:01.196177-03:00
+[14:16:01] Successful get url: https://www.bing.com/th?id=OHR.BrownSloth_PT-BR9878913953_UHD.jpg
+[14:16:01] Picture infomations saved to  global/pt-BR/README.md
+[14:16:01] Picture infomations saved to global/pt-BR/history/2026/10/21_pt-BR.md
+[14:16:01] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-10-20 16:16:01.428053+02:00
+[14:16:01] Successful get url: https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_UHD.jpg
+[14:16:01] Picture infomations saved to  global/fr-FR/README.md
+[14:16:01] Picture infomations saved to global/fr-FR/history/2026/10/20_fr-FR.md
+[14:16:01] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-10-20 16:16:01.595927+02:00
+[14:16:01] Successful get url: https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_UHD.jpg
+[14:16:01] Picture infomations saved to  global/de-DE/README.md
+[14:16:01] Picture infomations saved to global/de-DE/history/2026/10/20_de-DE.md
+[14:16:01] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-10-20 10:16:01.779030-04:00
+[14:16:01] Successful get url: https://www.bing.com/th?id=OHR.BrownSloth_EN-CA8530499250_UHD.jpg
+[14:16:01] Picture infomations saved to  global/en-CA/README.md
+[14:16:01] Picture infomations saved to global/en-CA/history/2026/10/21_en-CA.md
+[14:16:01] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-10-20 15:16:01.969114+01:00
+[14:16:02] Successful get url: https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_UHD.jpg
+[14:16:02] Picture infomations saved to  global/en-GB/README.md
+[14:16:02] Picture infomations saved to global/en-GB/history/2026/10/20_en-GB.md
+[14:16:02] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-10-20 16:16:02.239726+02:00
+[14:16:02] Successful get url: https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_UHD.jpg
+[14:16:02] Picture infomations saved to  global/it-IT/README.md
+[14:16:02] Picture infomations saved to global/it-IT/history/2026/10/20_it-IT.md
+[14:16:02] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-10-20 16:16:02.366273+02:00
+[14:16:02] Successful get url: https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_UHD.jpg
+[14:16:02] Picture infomations saved to  global/es-ES/README.md
+[14:16:02] Picture infomations saved to global/es-ES/history/2026/10/20_es-ES.md
+[14:16:02] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-10-20 10:16:02.597703-04:00
+[14:16:02] Successful get url: https://www.bing.com/th?id=OHR.BrownSloth_FR-CA4031451695_UHD.jpg
+[14:16:02] Picture infomations saved to  global/fr-CA/README.md
+[14:16:02] Picture infomations saved to global/fr-CA/history/2026/10/21_fr-CA.md
+Program exit at 14:16:02

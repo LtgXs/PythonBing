@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-20
-![](https://www.bing.com/th?id=OHR.VeniceSunrise_FR-CA4290531365_UHD.jpg&w=1000)Download: [Le Grand Canal à Venise, Italie (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.VeniceSunrise_FR-CA4290531365_UHD.jpg)
+Update: 2026-10-21
+![](https://www.bing.com/th?id=OHR.BrownSloth_FR-CA4031451695_UHD.jpg&w=1000)Download: [Paresseux à gorge brune, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_FR-CA4031451695_UHD.jpg)
 
 Auto get programm by LtgX

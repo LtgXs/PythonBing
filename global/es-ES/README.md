@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-19
-![](https://www.bing.com/th?id=OHR.VeniceSunrise_ES-ES2930999770_UHD.jpg&w=1000)Download: [Amanecer sobre el Gran Canal, Venecia, Italia (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.VeniceSunrise_ES-ES2930999770_UHD.jpg)
+Update: 2026-10-20
+![](https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_UHD.jpg&w=1000)Download: [Perezoso de tres dedos de garganta marrón joven, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_UHD.jpg)
 
 Auto get programm by LtgX

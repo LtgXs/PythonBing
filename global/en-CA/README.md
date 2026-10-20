@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-20
-![](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-CA8133659672_UHD.jpg&w=1000)Download: [Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-CA8133659672_UHD.jpg)
+Update: 2026-10-21
+![](https://www.bing.com/th?id=OHR.BrownSloth_EN-CA8530499250_UHD.jpg&w=1000)Download: [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_EN-CA8530499250_UHD.jpg)
 
 Auto get programm by LtgX

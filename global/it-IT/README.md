@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-19
-![](https://www.bing.com/th?id=OHR.VeniceSunrise_IT-IT2943629456_UHD.jpg&w=1000)Download: [Alba sul Canal Grande, Venezia, Veneto, Italia (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.VeniceSunrise_IT-IT2943629456_UHD.jpg)
+Update: 2026-10-20
+![](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_UHD.jpg&w=1000)Download: [Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_UHD.jpg)
 
 Auto get programm by LtgX
