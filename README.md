@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-20
-![](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg&w=1000)Download: [褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg)
+Update: 2026-10-21
+![](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg&w=1000)Download: [香江上的阮潢桥，顺化，越南 (© VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg)
 
 Auto get programm by LtgX

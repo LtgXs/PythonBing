@@ -6,14 +6,14 @@
 ||*Copyright: Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)*
 ||
 |||
-|2026-10-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BrownSloth_JA-JP2697515435_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrownSloth_JA-JP2697515435_UHD.jpg)|
-||*Copyright: 木の枝にぶら下がるナマケモノ, コスタリカ (© Suzi Eszterhas/Minden Pictures)*
+|2026-10-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767_UHD.jpg)|
+||*Copyright: グエン・ホアン橋, ベトナム (© VU PHAM VAN/Getty Images)*
 ||
 |||
-|2026-10-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BrownSloth_EN-IN7427775510_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrownSloth_EN-IN7427775510_UHD.jpg)|
-||*Copyright: Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)*
+|2026-10-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.VietnamBridge_EN-IN7535392593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_EN-IN7535392593_UHD.jpg)|
+||*Copyright: Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)*
 ||
 |||
 |2026-10-21|**Region: pt-BR**||
