@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-20
-![](https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_UHD.jpg&w=1000)Download: [Paresseux à gorge brune, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_UHD.jpg)
+Update: 2026-10-21
+![](https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_UHD.jpg&w=1000)Download: [Le pont Nguyen Hoang sur la rivière des Parfums, Hué, Vietnam (© VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_UHD.jpg)
 
 Auto get programm by LtgX

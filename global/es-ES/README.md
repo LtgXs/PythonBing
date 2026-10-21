@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-20
-![](https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_UHD.jpg&w=1000)Download: [Perezoso de tres dedos de garganta marrón joven, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_UHD.jpg)
+Update: 2026-10-21
+![](https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493_UHD.jpg&w=1000)Download: [Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam (© VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493_UHD.jpg)
 
 Auto get programm by LtgX

@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-20
-![](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_UHD.jpg&w=1000)Download: [Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_UHD.jpg)
+Update: 2026-10-21
+![](https://www.bing.com/th?id=OHR.VietnamBridge_IT-IT3479546401_UHD.jpg&w=1000)Download: [Ponte Nguyễn Hoàng sul fiume dei Profumi, Hue, Vietnam (© VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_IT-IT3479546401_UHD.jpg)
 
 Auto get programm by LtgX

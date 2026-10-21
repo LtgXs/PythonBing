@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-10-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg)|
-||*Copyright: Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)*
+|2026-10-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg)|
+||*Copyright: Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)*
 ||
 |||
 |2026-10-21|**Region: ja-JP**||
@@ -16,44 +16,44 @@
 ||*Copyright: Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)*
 ||
 |||
-|2026-10-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.BrownSloth_PT-BR9878913953_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrownSloth_PT-BR9878913953_UHD.jpg)|
-||*Copyright: Preguiça-comum em Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)*
+|2026-10-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.VietnamBridge_PT-BR8870725479_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_PT-BR8870725479_UHD.jpg)|
+||*Copyright: Ponte Nguyen Hoang sobre o Rio Perfume, Hue, Vietnã (© VU PHAM VAN/Getty Images)*
 ||
 |||
-|2026-10-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_UHD.jpg)|
-||*Copyright: Paresseux à gorge brune, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)*
+|2026-10-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_UHD.jpg)|
+||*Copyright: Le pont Nguyen Hoang sur la rivière des Parfums, Hué, Vietnam (© VU PHAM VAN/Getty Images)*
 ||
 |||
-|2026-10-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_UHD.jpg)|
-||*Copyright: Braunkehl-Faultier, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)*
+|2026-10-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.VietnamBridge_DE-DE1735618070_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_DE-DE1735618070_UHD.jpg)|
+||*Copyright: Nguyen-Hoang-Brücke über den Parfümfluss, Huế, Vietnam (© VU PHAM VAN/Getty Images)*
 ||
 |||
-|2026-10-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.BrownSloth_EN-CA8530499250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrownSloth_EN-CA8530499250_UHD.jpg)|
-||*Copyright: Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)*
+|2026-10-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.VietnamBridge_EN-CA8865714729_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_EN-CA8865714729_UHD.jpg)|
+||*Copyright: Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)*
 ||
 |||
-|2026-10-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_UHD.jpg)|
-||*Copyright: Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)*
+|2026-10-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.VietnamBridge_EN-GB5180652549_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_EN-GB5180652549_UHD.jpg)|
+||*Copyright: Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)*
 ||
 |||
-|2026-10-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_UHD.jpg)|
-||*Copyright: Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)*
+|2026-10-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.VietnamBridge_IT-IT3479546401_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_IT-IT3479546401_UHD.jpg)|
+||*Copyright: Ponte Nguyễn Hoàng sul fiume dei Profumi, Hue, Vietnam (© VU PHAM VAN/Getty Images)*
 ||
 |||
-|2026-10-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_UHD.jpg)|
-||*Copyright: Perezoso de tres dedos de garganta marrón joven, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)*
+|2026-10-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493_UHD.jpg)|
+||*Copyright: Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam (© VU PHAM VAN/Getty Images)*
 ||
 |||
-|2026-10-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.BrownSloth_FR-CA4031451695_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BrownSloth_FR-CA4031451695_UHD.jpg)|
-||*Copyright: Paresseux à gorge brune, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)*
+|2026-10-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.VietnamBridge_FR-CA4323829972_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_FR-CA4323829972_UHD.jpg)|
+||*Copyright: Le pont Nguyen Hoang sur la rivière des Parfums, Hué, Vietnam (© VU PHAM VAN/Getty Images)*
 ||
 |||
 

@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-21
-![](https://www.bing.com/th?id=OHR.BrownSloth_EN-CA8530499250_UHD.jpg&w=1000)Download: [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_EN-CA8530499250_UHD.jpg)
+Update: 2026-10-22
+![](https://www.bing.com/th?id=OHR.VietnamBridge_EN-CA8865714729_UHD.jpg&w=1000)Download: [Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_EN-CA8865714729_UHD.jpg)
 
 Auto get programm by LtgX
