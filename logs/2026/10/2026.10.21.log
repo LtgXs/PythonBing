@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [14:27:30] Picture infomations saved to  global/fr-CA/README.md
 [14:27:30] Picture infomations saved to global/fr-CA/history/2026/10/22_fr-CA.md
 Program exit at 14:27:30
+
+Program started at 19:50:47
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm8k3b6
+Processor Type: x86_64
+Python Version: 3.12.15
+Python Interpreter Name: CPython
+[19:50:47] Start geting CN Bing Wallpaper
+[19:50:47] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg
+[19:50:47] Image saved to img/background.jpg
+[19:50:47] Info saved to README.md
+[19:50:47] Image saved to history/2026/10/22.md
+[19:50:47] Start geting global Bing Wallpaper, region=en-US, local time is 2026-10-21 15:50:47.496117-04:00
+[19:50:47] Successful get url: https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg
+[19:50:47] Picture infomations saved to  global/en-US/README.md
+[19:50:47] Picture infomations saved to global/en-US/history/2026/10/22_en-US.md
+[19:50:47] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-10-22 04:50:47.641840+09:00
+[19:50:47] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg
+[19:50:47] Picture infomations saved to  global/ja-JP/README.md
+[19:50:47] Picture infomations saved to global/ja-JP/history/2026/10/22_ja-JP.md
+[19:50:47] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-10-22 01:20:47.810361+05:30
+[19:50:47] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_UHD.jpg
+[19:50:47] Picture infomations saved to  global/en-IN/README.md
+[19:50:47] Picture infomations saved to global/en-IN/history/2026/10/22_en-IN.md
+[19:50:47] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-10-21 16:50:47.977293-03:00
+[19:50:48] Successful get url: https://www.bing.com/th?id=OHR.VietnamBridge_PT-BR8870725479_UHD.jpg
+[19:50:48] Picture infomations saved to  global/pt-BR/README.md
+[19:50:48] Picture infomations saved to global/pt-BR/history/2026/10/22_pt-BR.md
+[19:50:48] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-10-21 21:50:48.130043+02:00
+[19:50:48] Successful get url: https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_UHD.jpg
+[19:50:48] Picture infomations saved to  global/fr-FR/README.md
+[19:50:48] Picture infomations saved to global/fr-FR/history/2026/10/21_fr-FR.md
+[19:50:48] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-10-21 21:50:48.258097+02:00
+[19:50:48] Successful get url: https://www.bing.com/th?id=OHR.VietnamBridge_DE-DE1735618070_UHD.jpg
+[19:50:48] Picture infomations saved to  global/de-DE/README.md
+[19:50:48] Picture infomations saved to global/de-DE/history/2026/10/21_de-DE.md
+[19:50:48] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-10-21 15:50:48.441745-04:00
+[19:50:48] Successful get url: https://www.bing.com/th?id=OHR.VietnamBridge_EN-CA8865714729_UHD.jpg
+[19:50:48] Picture infomations saved to  global/en-CA/README.md
+[19:50:48] Picture infomations saved to global/en-CA/history/2026/10/22_en-CA.md
+[19:50:48] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-10-21 20:50:48.562686+01:00
+[19:50:48] Successful get url: https://www.bing.com/th?id=OHR.VietnamBridge_EN-GB5180652549_UHD.jpg
+[19:50:48] Picture infomations saved to  global/en-GB/README.md
+[19:50:48] Picture infomations saved to global/en-GB/history/2026/10/21_en-GB.md
+[19:50:48] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-10-21 21:50:48.743750+02:00
+[19:50:48] Successful get url: https://www.bing.com/th?id=OHR.VietnamBridge_IT-IT3479546401_UHD.jpg
+[19:50:48] Picture infomations saved to  global/it-IT/README.md
+[19:50:48] Picture infomations saved to global/it-IT/history/2026/10/21_it-IT.md
+[19:50:48] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-10-21 21:50:48.934722+02:00
+[19:50:48] Successful get url: https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493_UHD.jpg
+[19:50:49] Picture infomations saved to  global/es-ES/README.md
+[19:50:49] Picture infomations saved to global/es-ES/history/2026/10/21_es-ES.md
+[19:50:49] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-10-21 15:50:49.138967-04:00
+[19:50:49] Successful get url: https://www.bing.com/th?id=OHR.VietnamBridge_FR-CA4323829972_UHD.jpg
+[19:50:49] Picture infomations saved to  global/fr-CA/README.md
+[19:50:49] Picture infomations saved to global/fr-CA/history/2026/10/22_fr-CA.md
+Program exit at 19:50:49

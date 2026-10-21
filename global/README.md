@@ -6,14 +6,14 @@
 ||*Copyright: Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)*
 ||
 |||
-|2026-10-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767_UHD.jpg)|
-||*Copyright: グエン・ホアン橋, ベトナム (© VU PHAM VAN/Getty Images)*
+|2026-10-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg)|
+||*Copyright: 内蔵山国立公園, 韓国 (© Twenty47studio/Getty Images)*
 ||
 |||
-|2026-10-21|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.VietnamBridge_EN-IN7535392593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VietnamBridge_EN-IN7535392593_UHD.jpg)|
-||*Copyright: Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)*
+|2026-10-22|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_UHD.jpg)|
+||*Copyright: Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)*
 ||
 |||
 |2026-10-22|**Region: pt-BR**||

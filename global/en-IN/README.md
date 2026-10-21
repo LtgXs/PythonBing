@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-21
-![](https://www.bing.com/th?id=OHR.VietnamBridge_EN-IN7535392593_UHD.jpg&w=1000)Download: [Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_EN-IN7535392593_UHD.jpg)
+Update: 2026-10-22
+![](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_UHD.jpg&w=1000)Download: [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_UHD.jpg)
 
 Auto get programm by LtgX
