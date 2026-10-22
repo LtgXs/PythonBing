@@ -6,14 +6,14 @@
 ||*Copyright: Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)*
 ||
 |||
-|2026-10-22|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg)|
-||*Copyright: 内蔵山国立公園, 韓国 (© Twenty47studio/Getty Images)*
+|2026-10-23|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988_UHD.jpg)|
+||*Copyright: 蔦沼, 青森県 十和田市 (© MASATO SAITO/Getty Images)*
 ||
 |||
-|2026-10-22|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_UHD.jpg)|
-||*Copyright: Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)*
+|2026-10-23|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-IN7964007510_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-IN7964007510_UHD.jpg)|
+||*Copyright: Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)*
 ||
 |||
 |2026-10-23|**Region: pt-BR**||
