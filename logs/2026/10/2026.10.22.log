@@ -1,0 +1,60 @@
+
+Program started at 14:29:04
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm8k3b6
+Processor Type: x86_64
+Python Version: 3.12.15
+Python Interpreter Name: CPython
+[14:29:04] Start geting CN Bing Wallpaper
+[14:29:04] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg
+[14:29:04] Image saved to img/background.jpg
+[14:29:04] Info saved to README.md
+[14:29:04] Image saved to history/2026/10/22.md
+[14:29:04] Start geting global Bing Wallpaper, region=en-US, local time is 2026-10-22 10:29:04.722584-04:00
+[14:29:04] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg
+[14:29:04] Picture infomations saved to  global/en-US/README.md
+[14:29:04] Picture infomations saved to global/en-US/history/2026/10/23_en-US.md
+[14:29:04] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-10-22 23:29:04.910592+09:00
+[14:29:04] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg
+[14:29:05] Picture infomations saved to  global/ja-JP/README.md
+[14:29:05] Picture infomations saved to global/ja-JP/history/2026/10/22_ja-JP.md
+[14:29:05] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-10-22 19:59:05.058065+05:30
+[14:29:05] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_UHD.jpg
+[14:29:05] Picture infomations saved to  global/en-IN/README.md
+[14:29:05] Picture infomations saved to global/en-IN/history/2026/10/22_en-IN.md
+[14:29:05] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-10-22 11:29:05.210121-03:00
+[14:29:05] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_PT-BR4250456618_UHD.jpg
+[14:29:05] Picture infomations saved to  global/pt-BR/README.md
+[14:29:05] Picture infomations saved to global/pt-BR/history/2026/10/23_pt-BR.md
+[14:29:05] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-10-22 16:29:05.365090+02:00
+[14:29:05] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_FR-FR8219456677_UHD.jpg
+[14:29:05] Picture infomations saved to  global/fr-FR/README.md
+[14:29:05] Picture infomations saved to global/fr-FR/history/2026/10/22_fr-FR.md
+[14:29:05] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-10-22 16:29:05.522061+02:00
+[14:29:05] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_UHD.jpg
+[14:29:05] Picture infomations saved to  global/de-DE/README.md
+[14:29:05] Picture infomations saved to global/de-DE/history/2026/10/22_de-DE.md
+[14:29:05] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-10-22 10:29:05.764998-04:00
+[14:29:05] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_EN-CA9328142735_UHD.jpg
+[14:29:05] Picture infomations saved to  global/en-CA/README.md
+[14:29:05] Picture infomations saved to global/en-CA/history/2026/10/23_en-CA.md
+[14:29:05] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-10-22 15:29:05.999470+01:00
+[14:29:06] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_EN-GB5252582759_UHD.jpg
+[14:29:06] Picture infomations saved to  global/en-GB/README.md
+[14:29:06] Picture infomations saved to global/en-GB/history/2026/10/22_en-GB.md
+[14:29:06] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-10-22 16:29:06.138369+02:00
+[14:29:06] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_IT-IT3718795886_UHD.jpg
+[14:29:06] Picture infomations saved to  global/it-IT/README.md
+[14:29:06] Picture infomations saved to global/it-IT/history/2026/10/22_it-IT.md
+[14:29:06] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-10-22 16:29:06.297140+02:00
+[14:29:06] Successful get url: https://www.bing.com/th?id=OHR.CordobaPatios_ES-ES7294783560_UHD.jpg
+[14:29:06] Picture infomations saved to  global/es-ES/README.md
+[14:29:06] Picture infomations saved to global/es-ES/history/2026/10/22_es-ES.md
+[14:29:06] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-10-22 10:29:06.544500-04:00
+[14:29:06] Successful get url: https://www.bing.com/th?id=OHR.NaejangsanNP_FR-CA4917501592_UHD.jpg
+[14:29:07] Picture infomations saved to  global/fr-CA/README.md
+[14:29:07] Picture infomations saved to global/fr-CA/history/2026/10/23_fr-CA.md
+Program exit at 14:29:07
