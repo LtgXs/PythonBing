@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-22
-![](https://www.bing.com/th?id=OHR.CordobaPatios_ES-ES7294783560_UHD.jpg&w=1000)Download: [Patio interior tradicional cordobés, Córdoba, Andalucía, España (© Martinez Studio/ShutterStock)](https://www.bing.com/th?id=OHR.CordobaPatios_ES-ES7294783560_UHD.jpg)
+Update: 2026-10-23
+![](https://www.bing.com/th?id=OHR.YellowstoneWolves_ES-ES1877782674_UHD.jpg&w=1000)Download: [Dos lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© John Morrison/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneWolves_ES-ES1877782674_UHD.jpg)
 
 Auto get programm by LtgX

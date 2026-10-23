@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-23
-![](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-CA9328142735_UHD.jpg&w=1000)Download: [Fall in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-CA9328142735_UHD.jpg)
+Update: 2026-10-24
+![](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-CA9692259331_UHD.jpg&w=1000)Download: [Two grey wolves Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-CA9692259331_UHD.jpg)
 
 Auto get programm by LtgX
