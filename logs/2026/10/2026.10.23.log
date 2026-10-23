@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [14:12:07] Picture infomations saved to  global/fr-CA/README.md
 [14:12:07] Picture infomations saved to global/fr-CA/history/2026/10/24_fr-CA.md
 Program exit at 14:12:07
+
+Program started at 19:41:31
+Operating System Name: Linux
+Operating System Version: #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmtai0g
+Processor Type: x86_64
+Python Version: 3.12.15
+Python Interpreter Name: CPython
+[19:41:31] Start geting CN Bing Wallpaper
+[19:41:31] Successful get url: https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg
+[19:41:32] Image saved to img/background.jpg
+[19:41:32] Info saved to README.md
+[19:41:32] Image saved to history/2026/10/24.md
+[19:41:32] Start geting global Bing Wallpaper, region=en-US, local time is 2026-10-23 15:41:32.920571-04:00
+[19:41:32] Successful get url: https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg
+[19:41:33] Picture infomations saved to  global/en-US/README.md
+[19:41:33] Picture infomations saved to global/en-US/history/2026/10/24_en-US.md
+[19:41:33] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-10-24 04:41:33.134642+09:00
+[19:41:33] Successful get url: https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_UHD.jpg
+[19:41:33] Picture infomations saved to  global/ja-JP/README.md
+[19:41:33] Picture infomations saved to global/ja-JP/history/2026/10/24_ja-JP.md
+[19:41:33] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-10-24 01:11:33.800613+05:30
+[19:41:33] Successful get url: https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-IN8235557432_UHD.jpg
+[19:41:34] Picture infomations saved to  global/en-IN/README.md
+[19:41:34] Picture infomations saved to global/en-IN/history/2026/10/24_en-IN.md
+[19:41:34] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-10-23 16:41:34.301977-03:00
+[19:41:34] Successful get url: https://www.bing.com/th?id=OHR.YellowstoneWolves_PT-BR5538259597_UHD.jpg
+[19:41:35] Picture infomations saved to  global/pt-BR/README.md
+[19:41:35] Picture infomations saved to global/pt-BR/history/2026/10/24_pt-BR.md
+[19:41:35] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-10-23 21:41:35.167262+02:00
+[19:41:35] Successful get url: https://www.bing.com/th?id=OHR.ReimsChampagne_FR-FR6230244152_UHD.jpg
+[19:41:35] Picture infomations saved to  global/fr-FR/README.md
+[19:41:35] Picture infomations saved to global/fr-FR/history/2026/10/23_fr-FR.md
+[19:41:35] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-10-23 21:41:35.955015+02:00
+[19:41:35] Successful get url: https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_UHD.jpg
+[19:41:36] Picture infomations saved to  global/de-DE/README.md
+[19:41:36] Picture infomations saved to global/de-DE/history/2026/10/23_de-DE.md
+[19:41:36] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-10-23 15:41:36.634458-04:00
+[19:41:36] Successful get url: https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-CA9692259331_UHD.jpg
+[19:41:37] Picture infomations saved to  global/en-CA/README.md
+[19:41:37] Picture infomations saved to global/en-CA/history/2026/10/24_en-CA.md
+[19:41:37] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-10-23 20:41:37.081663+01:00
+[19:41:37] Successful get url: https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-GB5342942021_UHD.jpg
+[19:41:37] Picture infomations saved to  global/en-GB/README.md
+[19:41:37] Picture infomations saved to global/en-GB/history/2026/10/23_en-GB.md
+[19:41:37] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-10-23 21:41:37.497464+02:00
+[19:41:37] Successful get url: https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_UHD.jpg
+[19:41:39] Picture infomations saved to  global/it-IT/README.md
+[19:41:39] Picture infomations saved to global/it-IT/history/2026/10/23_it-IT.md
+[19:41:39] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-10-23 21:41:39.085096+02:00
+[19:41:39] Successful get url: https://www.bing.com/th?id=OHR.YellowstoneWolves_ES-ES1877782674_UHD.jpg
+[19:41:41] Picture infomations saved to  global/es-ES/README.md
+[19:41:41] Picture infomations saved to global/es-ES/history/2026/10/23_es-ES.md
+[19:41:41] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-10-23 15:41:41.360394-04:00
+[19:41:41] Successful get url: https://www.bing.com/th?id=OHR.YellowstoneWolves_FR-CA5316157363_UHD.jpg
+[19:41:41] Picture infomations saved to  global/fr-CA/README.md
+[19:41:41] Picture infomations saved to global/fr-CA/history/2026/10/24_fr-CA.md
+Program exit at 19:41:41

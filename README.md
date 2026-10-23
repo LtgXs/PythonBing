@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-23
-![](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg&w=1000)Download: [两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg)
+Update: 2026-10-24
+![](https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg&w=1000)Download: [皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)](https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg)
 
 Auto get programm by LtgX

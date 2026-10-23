@@ -6,14 +6,14 @@
 ||*Copyright: Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)*
 ||
 |||
-|2026-10-23|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988_UHD.jpg)|
-||*Copyright: 蔦沼, 青森県 十和田市 (© MASATO SAITO/Getty Images)*
+|2026-10-24|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_UHD.jpg)|
+||*Copyright: 王立ポルトガル図書館, ブラジル (© Antonio Salaverry/Shutterstock)*
 ||
 |||
-|2026-10-23|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-IN7964007510_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-IN7964007510_UHD.jpg)|
-||*Copyright: Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)*
+|2026-10-24|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-IN8235557432_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-IN8235557432_UHD.jpg)|
+||*Copyright: Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)*
 ||
 |||
 |2026-10-24|**Region: pt-BR**||
