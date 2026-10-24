@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-24
-![](https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg&w=1000)Download: [皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)](https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg)
+Update: 2026-10-25
+![](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg&w=1000)Download: [玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg)
 
 Auto get programm by LtgX

@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-24
-![](https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_UHD.jpg&w=1000)Download: [王立ポルトガル図書館, ブラジル (© Antonio Salaverry/Shutterstock)](https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_UHD.jpg)
+Update: 2026-10-25
+![](https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_UHD.jpg&w=1000)Download: [ハイイロオオカミ, 米国 ワイオミング州 (© John Morrison/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_UHD.jpg)
 
 Auto get programm by LtgX
