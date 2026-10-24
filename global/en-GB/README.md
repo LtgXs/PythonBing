@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-23
-![](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-GB5342942021_UHD.jpg&w=1000)Download: [Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-GB5342942021_UHD.jpg)
+Update: 2026-10-24
+![](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315_UHD.jpg&w=1000)Download: [Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315_UHD.jpg)
 
 Auto get programm by LtgX

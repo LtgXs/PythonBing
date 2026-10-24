@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-23
-![](https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_UHD.jpg&w=1000)Download: [Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_UHD.jpg)
+Update: 2026-10-24
+![](https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_UHD.jpg&w=1000)Download: [Philologische Bibliothek der Freien Universität Berlin, Berlin (© ullstein bild/Getty Images)](https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_UHD.jpg)
 
 Auto get programm by LtgX
