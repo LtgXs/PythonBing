@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-25
-![](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg&w=1000)Download: [玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg)
+Update: 2026-10-26
+![](https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg&w=1000)Download: [秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚 (© Nadya85/Getty Images)](https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg)
 
 Auto get programm by LtgX

@@ -6,14 +6,14 @@
 ||*Copyright: Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)*
 ||
 |||
-|2026-10-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_UHD.jpg)|
-||*Copyright: ハイイロオオカミ, 米国 ワイオミング州 (© John Morrison/Getty Images)*
+|2026-10-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_UHD.jpg)|
+||*Copyright: シトヴォ滝, ブルガリア (© Nadya85/Getty Images)*
 ||
 |||
-|2026-10-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_UHD.jpg)|
-||*Copyright: Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)*
+|2026-10-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-IN8441319721_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-IN8441319721_UHD.jpg)|
+||*Copyright: Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)*
 ||
 |||
 |2026-10-26|**Region: pt-BR**||
