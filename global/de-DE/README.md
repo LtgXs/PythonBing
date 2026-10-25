@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-24
-![](https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_UHD.jpg&w=1000)Download: [Philologische Bibliothek der Freien Universität Berlin, Berlin (© ullstein bild/Getty Images)](https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_UHD.jpg)
+Update: 2026-10-25
+![](https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_UHD.jpg&w=1000)Download: [Maligne Lake, Jasper-Nationalpark, Alberta, Kanada (© Andrey Popov/Getty Images)](https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_UHD.jpg)
 
 Auto get programm by LtgX

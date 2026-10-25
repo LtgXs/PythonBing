@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-24
-![](https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_UHD.jpg&w=1000)Download: [Real Gabinete Portoghese di Lettura, Rio de Janeiro, Brasile (© Antonio Salaverry/Shutterstock)](https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_UHD.jpg)
+Update: 2026-10-25
+![](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg&w=1000)Download: [Chiesa di Santa Barbara in Largo dei Librari, vicino al mercato di Campo de' Fiori a Roma, Italia (© Alexander Spatari/Getty Images)](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg)
 
 Auto get programm by LtgX

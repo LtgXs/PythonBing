@@ -1,9 +1,9 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-10-25|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg)|
-||*Copyright: Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)*
+|2026-10-26|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg)|
+||*Copyright: Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)*
 ||
 |||
 |2026-10-25|**Region: ja-JP**||
@@ -16,44 +16,44 @@
 ||*Copyright: Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)*
 ||
 |||
-|2026-10-25|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_UHD.jpg)|
-||*Copyright: Real Gabinete Português de Leitura, Rio de Janeiro (© Antonio Salaverry/Shutterstock)*
+|2026-10-26|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.MaligneFest_PT-BR7307872506_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaligneFest_PT-BR7307872506_UHD.jpg)|
+||*Copyright: Lago Maligne, Parque Nacional de Jasper, Alberta, Canadá (© Andrey Popov/Getty Images)*
 ||
 |||
-|2026-10-24|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.PortugueseLibrary_FR-FR9364310812_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortugueseLibrary_FR-FR9364310812_UHD.jpg)|
-||*Copyright: Cabinet royal portugais de lecture, Rio de Janeiro, Brésil (© Antonio Salaverry/Shutterstock)*
+|2026-10-25|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_UHD.jpg)|
+||*Copyright: Lac Maligne, Parc national Jasper, Alberta, Canada (© Andrey Popov/Getty Images)*
 ||
 |||
-|2026-10-24|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_UHD.jpg)|
-||*Copyright: Philologische Bibliothek der Freien Universität Berlin, Berlin (© ullstein bild/Getty Images)*
+|2026-10-25|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_UHD.jpg)|
+||*Copyright: Maligne Lake, Jasper-Nationalpark, Alberta, Kanada (© Andrey Popov/Getty Images)*
 ||
 |||
-|2026-10-25|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-CA0206045106_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-CA0206045106_UHD.jpg)|
-||*Copyright: Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)*
+|2026-10-26|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-CA1700205921_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-CA1700205921_UHD.jpg)|
+||*Copyright: Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)*
 ||
 |||
-|2026-10-24|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315_UHD.jpg)|
-||*Copyright: Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)*
+|2026-10-26|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_UHD.jpg)|
+||*Copyright: The Eastgate Clock, Chester, England (© Alexey_Fedoren/iStock/Getty Images)*
 ||
 |||
-|2026-10-24|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_UHD.jpg)|
-||*Copyright: Real Gabinete Portoghese di Lettura, Rio de Janeiro, Brasile (© Antonio Salaverry/Shutterstock)*
+|2026-10-25|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg)|
+||*Copyright: Chiesa di Santa Barbara in Largo dei Librari, vicino al mercato di Campo de' Fiori a Roma, Italia (© Alexander Spatari/Getty Images)*
 ||
 |||
-|2026-10-24|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.PortugueseLibrary_ES-ES7866547666_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortugueseLibrary_ES-ES7866547666_UHD.jpg)|
-||*Copyright: Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil (© Antonio Salaverry/Shutterstock)*
+|2026-10-25|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GernikaPaisVasco_ES-ES5108223011_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GernikaPaisVasco_ES-ES5108223011_UHD.jpg)|
+||*Copyright: Entrada a la Iglesia de Santa María, Gernika-Lumo, Vizcaya, País Vasco, España (© tichr/ShutterStock)*
 ||
 |||
-|2026-10-25|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.PortugueseLibrary_FR-CA5530025263_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PortugueseLibrary_FR-CA5530025263_UHD.jpg)|
-||*Copyright: Cabinet royal portugais de lecture, Rio de Janeiro, Brésil (© Antonio Salaverry/Shutterstock)*
+|2026-10-26|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SneffelsAutumn_FR-CA3868659060_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SneffelsAutumn_FR-CA3868659060_UHD.jpg)|
+||*Copyright: Le mont Sneffels dans les montagnes San Juan, près de Ridgway, Colorado, États-Unis (© lightphoto/Getty Images)*
 ||
 |||
 

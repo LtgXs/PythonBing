@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-25
-![](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-CA0206045106_UHD.jpg&w=1000)Download: [Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-CA0206045106_UHD.jpg)
+Update: 2026-10-26
+![](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-CA1700205921_UHD.jpg&w=1000)Download: [Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-CA1700205921_UHD.jpg)
 
 Auto get programm by LtgX
