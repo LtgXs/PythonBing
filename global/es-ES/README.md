@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-25
-![](https://www.bing.com/th?id=OHR.GernikaPaisVasco_ES-ES5108223011_UHD.jpg&w=1000)Download: [Entrada a la Iglesia de Santa María, Gernika-Lumo, Vizcaya, País Vasco, España (© tichr/ShutterStock)](https://www.bing.com/th?id=OHR.GernikaPaisVasco_ES-ES5108223011_UHD.jpg)
+Update: 2026-10-26
+![](https://www.bing.com/th?id=OHR.SitovoWaterfall_ES-ES1073935690_UHD.jpg&w=1000)Download: [Cascadas otoñales cerca de Sitovo, provincia de Plovdiv, Bulgaria (© Nadya85/Getty Images)](https://www.bing.com/th?id=OHR.SitovoWaterfall_ES-ES1073935690_UHD.jpg)
 
 Auto get programm by LtgX

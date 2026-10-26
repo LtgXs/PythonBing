@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-26
-![](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&w=1000)Download: [Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg)
+Update: 2026-10-27
+![](https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&w=1000)Download: [Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)](https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg)
 
 Auto get programm by LtgX

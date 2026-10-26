@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-25
-![](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg&w=1000)Download: [Chiesa di Santa Barbara in Largo dei Librari, vicino al mercato di Campo de' Fiori a Roma, Italia (© Alexander Spatari/Getty Images)](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg)
+Update: 2026-10-26
+![](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_UHD.jpg&w=1000)Download: [Cascate autunnali vicino a Sitovo, provincia di Plovdiv, Bulgaria (© Nadya85/Getty Images)](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_UHD.jpg)
 
 Auto get programm by LtgX
