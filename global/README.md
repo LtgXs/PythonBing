@@ -11,9 +11,9 @@
 ||*Copyright: ポンドサイプレス, 米国 ジョージア州 (© Chris Moore/Getty Images)*
 ||
 |||
-|2026-10-26|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-IN8441319721_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-IN8441319721_UHD.jpg)|
-||*Copyright: Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)*
+|2026-10-27|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PondCypress_EN-IN8944704657_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCypress_EN-IN8944704657_UHD.jpg)|
+||*Copyright: A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)*
 ||
 |||
 |2026-10-27|**Region: pt-BR**||
