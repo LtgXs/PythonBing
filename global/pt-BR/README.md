@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-27
-![](https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_UHD.jpg&w=1000)Download: [Basílica Santuário de Nossa Senhora de Nazaré, Belém, Pará (© filipefrazao/Getty Images)](https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_UHD.jpg)
+Update: 2026-10-28
+![](https://www.bing.com/th?id=OHR.PondCypress_PT-BR8608067056_UHD.jpg&w=1000)Download: [Bosque de ciprestes-dos-pântanos com folhagem de outono, Geórgia, EUA (© Chris Moore/Getty Images)](https://www.bing.com/th?id=OHR.PondCypress_PT-BR8608067056_UHD.jpg)
 
 Auto get programm by LtgX

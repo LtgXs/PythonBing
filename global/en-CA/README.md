@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-27
-![](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-CA2117878012_UHD.jpg&w=1000)Download: [Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-CA2117878012_UHD.jpg)
+Update: 2026-10-28
+![](https://www.bing.com/th?id=OHR.PondCypress_EN-CA4795569261_UHD.jpg&w=1000)Download: [A grove of pond cypress trees with fall foliage, Georgia, United States (© Chris Moore/Getty Images)](https://www.bing.com/th?id=OHR.PondCypress_EN-CA4795569261_UHD.jpg)
 
 Auto get programm by LtgX

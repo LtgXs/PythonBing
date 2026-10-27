@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-10-27|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg)|
-||*Copyright: Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)*
+|2026-10-28|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg)|
+||*Copyright: A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)*
 ||
 |||
-|2026-10-27|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_UHD.jpg)|
-||*Copyright: ポンドサイプレス, 米国 ジョージア州 (© Chris Moore/Getty Images)*
+|2026-10-28|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_UHD.jpg)|
+||*Copyright: クネティツカー・ホラ城, チェコ (© Marek Saroch/Alamy)*
 ||
 |||
 |2026-10-27|**Region: en-IN**||
@@ -16,44 +16,44 @@
 ||*Copyright: A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)*
 ||
 |||
-|2026-10-27|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_UHD.jpg)|
-||*Copyright: Basílica Santuário de Nossa Senhora de Nazaré, Belém, Pará (© filipefrazao/Getty Images)*
+|2026-10-28|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PondCypress_PT-BR8608067056_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCypress_PT-BR8608067056_UHD.jpg)|
+||*Copyright: Bosque de ciprestes-dos-pântanos com folhagem de outono, Geórgia, EUA (© Chris Moore/Getty Images)*
 ||
 |||
-|2026-10-26|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.SitovoWaterfall_FR-FR3730397148_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SitovoWaterfall_FR-FR3730397148_UHD.jpg)|
-||*Copyright: Une cascade en Automne près de Sitovo, Oblast de Plovdiv, Bulgarie (© Nadya85/Getty Images)*
+|2026-10-27|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_UHD.jpg)|
+||*Copyright: Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis (© Chris Moore/Getty Images)*
 ||
 |||
-|2026-10-26|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641_UHD.jpg)|
-||*Copyright: Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien (© Nadya85/Getty Images)*
+|2026-10-27|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_UHD.jpg)|
+||*Copyright: Teichzypressen in herbstlicher Färbung, Georgia, USA (© Chris Moore/Getty Images)*
 ||
 |||
-|2026-10-27|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-CA2117878012_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-CA2117878012_UHD.jpg)|
-||*Copyright: Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)*
+|2026-10-28|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PondCypress_EN-CA4795569261_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCypress_EN-CA4795569261_UHD.jpg)|
+||*Copyright: A grove of pond cypress trees with fall foliage, Georgia, United States (© Chris Moore/Getty Images)*
 ||
 |||
-|2026-10-27|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-GB5626792550_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-GB5626792550_UHD.jpg)|
-||*Copyright: Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)*
+|2026-10-28|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PondCypress_EN-GB5711949030_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCypress_EN-GB5711949030_UHD.jpg)|
+||*Copyright: A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)*
 ||
 |||
-|2026-10-26|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_UHD.jpg)|
-||*Copyright: Cascate autunnali vicino a Sitovo, provincia di Plovdiv, Bulgaria (© Nadya85/Getty Images)*
+|2026-10-27|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PondCypress_IT-IT6320902214_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCypress_IT-IT6320902214_UHD.jpg)|
+||*Copyright: Boschetto di cipressi delle paludi con colori autunnali, Georgia, USA (© Chris Moore/Getty Images)*
 ||
 |||
-|2026-10-26|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.SitovoWaterfall_ES-ES1073935690_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SitovoWaterfall_ES-ES1073935690_UHD.jpg)|
-||*Copyright: Cascadas otoñales cerca de Sitovo, provincia de Plovdiv, Bulgaria (© Nadya85/Getty Images)*
+|2026-10-27|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PondCypress_ES-ES1413599118_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCypress_ES-ES1413599118_UHD.jpg)|
+||*Copyright: Bosque de cipreses de estanque, Georgia, EE. UU. (© Chris Moore/Getty Images)*
 ||
 |||
-|2026-10-27|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SitovoWaterfall_FR-CA1592960286_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SitovoWaterfall_FR-CA1592960286_UHD.jpg)|
-||*Copyright: Une cascade en Automne près de Sitovo, Oblast de Plovdiv, Bulgarie (© Nadya85/Getty Images)*
+|2026-10-28|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PondCypress_FR-CA2583133681_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCypress_FR-CA2583133681_UHD.jpg)|
+||*Copyright: Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis (© Chris Moore/Getty Images)*
 ||
 |||
 

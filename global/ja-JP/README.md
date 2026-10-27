@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-27
-![](https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_UHD.jpg&w=1000)Download: [ポンドサイプレス, 米国 ジョージア州 (© Chris Moore/Getty Images)](https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_UHD.jpg)
+Update: 2026-10-28
+![](https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_UHD.jpg&w=1000)Download: [クネティツカー・ホラ城, チェコ (© Marek Saroch/Alamy)](https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_UHD.jpg)
 
 Auto get programm by LtgX
