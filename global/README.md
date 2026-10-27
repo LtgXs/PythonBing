@@ -11,9 +11,9 @@
 ||*Copyright: クネティツカー・ホラ城, チェコ (© Marek Saroch/Alamy)*
 ||
 |||
-|2026-10-27|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PondCypress_EN-IN8944704657_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PondCypress_EN-IN8944704657_UHD.jpg)|
-||*Copyright: A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)*
+|2026-10-28|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-IN9209042094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-IN9209042094_UHD.jpg)|
+||*Copyright: Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)*
 ||
 |||
 |2026-10-28|**Region: pt-BR**||

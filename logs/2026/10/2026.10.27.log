@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [15:18:26] Picture infomations saved to  global/fr-CA/README.md
 [15:18:26] Picture infomations saved to global/fr-CA/history/2026/10/28_fr-CA.md
 Program exit at 15:18:26
+
+Program started at 20:20:56
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP PREEMPT Thu Sep 24 18:46:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm48cm3
+Processor Type: x86_64
+Python Version: 3.12.15
+Python Interpreter Name: CPython
+[20:20:56] Start geting CN Bing Wallpaper
+[20:20:56] Successful get url: https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg
+[20:20:56] Image saved to img/background.jpg
+[20:20:56] Info saved to README.md
+[20:20:56] Image saved to history/2026/10/28.md
+[20:20:56] Start geting global Bing Wallpaper, region=en-US, local time is 2026-10-27 16:20:56.782473-04:00
+[20:20:56] Successful get url: https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg
+[20:20:56] Picture infomations saved to  global/en-US/README.md
+[20:20:56] Picture infomations saved to global/en-US/history/2026/10/28_en-US.md
+[20:20:56] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-10-28 05:20:56.976060+09:00
+[20:20:57] Successful get url: https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_UHD.jpg
+[20:20:57] Picture infomations saved to  global/ja-JP/README.md
+[20:20:57] Picture infomations saved to global/ja-JP/history/2026/10/28_ja-JP.md
+[20:20:57] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-10-28 01:50:57.516771+05:30
+[20:20:57] Successful get url: https://www.bing.com/th?id=OHR.KuneticeCastle_EN-IN9209042094_UHD.jpg
+[20:20:57] Picture infomations saved to  global/en-IN/README.md
+[20:20:57] Picture infomations saved to global/en-IN/history/2026/10/28_en-IN.md
+[20:20:57] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-10-27 17:20:57.697409-03:00
+[20:20:57] Successful get url: https://www.bing.com/th?id=OHR.PondCypress_PT-BR8608067056_UHD.jpg
+[20:20:58] Picture infomations saved to  global/pt-BR/README.md
+[20:20:58] Picture infomations saved to global/pt-BR/history/2026/10/28_pt-BR.md
+[20:20:58] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-10-27 21:20:58.054007+01:00
+[20:20:58] Successful get url: https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_UHD.jpg
+[20:20:58] Picture infomations saved to  global/fr-FR/README.md
+[20:20:58] Picture infomations saved to global/fr-FR/history/2026/10/27_fr-FR.md
+[20:20:58] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-10-27 21:20:58.204075+01:00
+[20:20:58] Successful get url: https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_UHD.jpg
+[20:20:58] Picture infomations saved to  global/de-DE/README.md
+[20:20:58] Picture infomations saved to global/de-DE/history/2026/10/27_de-DE.md
+[20:20:58] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-10-27 16:20:58.473272-04:00
+[20:20:58] Successful get url: https://www.bing.com/th?id=OHR.PondCypress_EN-CA4795569261_UHD.jpg
+[20:20:58] Picture infomations saved to  global/en-CA/README.md
+[20:20:58] Picture infomations saved to global/en-CA/history/2026/10/28_en-CA.md
+[20:20:58] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-10-27 20:20:58.738498+00:00
+[20:20:58] Successful get url: https://www.bing.com/th?id=OHR.PondCypress_EN-GB5711949030_UHD.jpg
+[20:20:58] Picture infomations saved to  global/en-GB/README.md
+[20:20:58] Picture infomations saved to global/en-GB/history/2026/10/28_en-GB.md
+[20:20:58] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-10-27 21:20:58.921564+01:00
+[20:20:58] Successful get url: https://www.bing.com/th?id=OHR.PondCypress_IT-IT6320902214_UHD.jpg
+[20:20:59] Picture infomations saved to  global/it-IT/README.md
+[20:20:59] Picture infomations saved to global/it-IT/history/2026/10/27_it-IT.md
+[20:20:59] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-10-27 21:20:59.100035+01:00
+[20:20:59] Successful get url: https://www.bing.com/th?id=OHR.PondCypress_ES-ES1413599118_UHD.jpg
+[20:20:59] Picture infomations saved to  global/es-ES/README.md
+[20:20:59] Picture infomations saved to global/es-ES/history/2026/10/27_es-ES.md
+[20:20:59] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-10-27 16:20:59.240403-04:00
+[20:20:59] Successful get url: https://www.bing.com/th?id=OHR.PondCypress_FR-CA2583133681_UHD.jpg
+[20:20:59] Picture infomations saved to  global/fr-CA/README.md
+[20:20:59] Picture infomations saved to global/fr-CA/history/2026/10/28_fr-CA.md
+Program exit at 20:20:59
