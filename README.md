@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-28
-![](https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg&w=1000)Download: [库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)](https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg)
+Update: 2026-10-29
+![](https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg&w=1000)Download: [立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)](https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg)
 
 Auto get programm by LtgX

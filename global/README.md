@@ -11,9 +11,9 @@
 ||*Copyright: エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images)*
 ||
 |||
-|2026-10-28|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-IN9209042094_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-IN9209042094_UHD.jpg)|
-||*Copyright: Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)*
+|2026-10-29|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AveburyStones_EN-IN9660577333_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AveburyStones_EN-IN9660577333_UHD.jpg)|
+||*Copyright: Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)*
 ||
 |||
 |2026-10-29|**Region: pt-BR**||
