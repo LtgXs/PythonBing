@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-28
-![](https://www.bing.com/th?id=OHR.PondCypress_EN-GB5711949030_UHD.jpg&w=1000)Download: [A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)](https://www.bing.com/th?id=OHR.PondCypress_EN-GB5711949030_UHD.jpg)
+Update: 2026-10-29
+![](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-GB5805400783_UHD.jpg&w=1000)Download: [Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-GB5805400783_UHD.jpg)
 
 Auto get programm by LtgX
