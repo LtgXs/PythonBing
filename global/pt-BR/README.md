@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-29
-![](https://www.bing.com/th?id=OHR.KuneticeCastle_PT-BR8917469200_UHD.jpg&w=1000)Download: [Castelo de Kunětická hora, Boêmia, Chéquia (© Marek Saroch/Alamy)](https://www.bing.com/th?id=OHR.KuneticeCastle_PT-BR8917469200_UHD.jpg)
+Update: 2026-10-30
+![](https://www.bing.com/th?id=OHR.AveburyStones_PT-BR9317811680_UHD.jpg&w=1000)Download: [Círculo de Pedras de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)](https://www.bing.com/th?id=OHR.AveburyStones_PT-BR9317811680_UHD.jpg)
 
 Auto get programm by LtgX
