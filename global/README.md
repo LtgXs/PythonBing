@@ -11,9 +11,9 @@
 ||*Copyright: カナダヅル、ボスケ・デル・アパッチ国立野生動物保護区、ニューメキシコ州、アメリカ (© Terry St.Louis/Getty Images)*
 ||
 |||
-|2026-10-29|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AveburyStones_EN-IN9660577333_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AveburyStones_EN-IN9660577333_UHD.jpg)|
-||*Copyright: Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)*
+|2026-10-30|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AutumnCranes_EN-IN9113460841_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnCranes_EN-IN9113460841_UHD.jpg)|
+||*Copyright: Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)*
 ||
 |||
 |2026-10-30|**Region: pt-BR**||
