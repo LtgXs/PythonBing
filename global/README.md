@@ -11,9 +11,9 @@
 ||*Copyright: 聖バルトロメウス大聖堂、フランクフルト、ドイツ (© AlxeyPnferov/Getty Images)*
 ||
 |||
-|2026-10-30|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AutumnCranes_EN-IN9113460841_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnCranes_EN-IN9113460841_UHD.jpg)|
-||*Copyright: Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)*
+|2026-10-31|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-IN8941917618_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-IN8941917618_UHD.jpg)|
+||*Copyright: St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)*
 ||
 |||
 |2026-10-31|**Region: pt-BR**||
