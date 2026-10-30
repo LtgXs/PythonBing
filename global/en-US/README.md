@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-30
-![](https://www.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&w=1000)Download: [Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)](https://www.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg)
+Update: 2026-10-31
+![](https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&w=1000)Download: [Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg)
 
 Auto get programm by LtgX

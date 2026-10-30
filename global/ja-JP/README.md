@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-30
-![](https://www.bing.com/th?id=OHR.AutumnCranes_JA-JP2456396404_UHD.jpg&w=1000)Download: [カナダヅル、ボスケ・デル・アパッチ国立野生動物保護区、ニューメキシコ州、アメリカ (© Terry St.Louis/Getty Images)](https://www.bing.com/th?id=OHR.AutumnCranes_JA-JP2456396404_UHD.jpg)
+Update: 2026-10-31
+![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_JA-JP4785085446_UHD.jpg&w=1000)Download: [聖バルトロメウス大聖堂、フランクフルト、ドイツ (© AlxeyPnferov/Getty Images)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_JA-JP4785085446_UHD.jpg)
 
 Auto get programm by LtgX
