@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-30
-![](https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_UHD.jpg&w=1000)Download: [Kanadakraniche, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_UHD.jpg)
+Update: 2026-10-31
+![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg&w=1000)Download: [Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg)
 
 Auto get programm by LtgX
