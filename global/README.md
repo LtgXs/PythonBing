@@ -11,9 +11,9 @@
 ||*Copyright: シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ (© Britus/Getty Images)*
 ||
 |||
-|2026-10-31|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-IN8941917618_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-IN8941917618_UHD.jpg)|
-||*Copyright: St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)*
+|2026-11-01|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_UHD.jpg)|
+||*Copyright: Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)*
 ||
 |||
 |2026-11-01|**Region: pt-BR**||
