@@ -11,9 +11,9 @@
 ||*Copyright: ホッキョクグマの親子、ハドソン湾、マニトバ州、カナダ (© Danita Delimont/Adobe Stock)*
 ||
 |||
-|2026-11-01|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_UHD.jpg)|
-||*Copyright: Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)*
+|2026-11-02|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.HudsonBear_EN-IN9299365522_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HudsonBear_EN-IN9299365522_UHD.jpg)|
+||*Copyright: Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)*
 ||
 |||
 |2026-11-02|**Region: pt-BR**||

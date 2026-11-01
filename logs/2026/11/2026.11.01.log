@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [15:58:23] Picture infomations saved to  global/fr-CA/README.md
 [15:58:23] Picture infomations saved to global/fr-CA/history/2026/11/02_fr-CA.md
 Program exit at 15:58:23
+
+Program started at 20:01:04
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP PREEMPT Thu Sep 24 18:46:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm48cm3
+Processor Type: x86_64
+Python Version: 3.12.15
+Python Interpreter Name: CPython
+[20:01:04] Start geting CN Bing Wallpaper
+[20:01:04] Successful get url: https://www.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg
+[20:01:04] Image saved to img/background.jpg
+[20:01:04] Info saved to README.md
+[20:01:04] Image saved to history/2026/11/02.md
+[20:01:04] Start geting global Bing Wallpaper, region=en-US, local time is 2026-11-01 15:01:04.893428-05:00
+[20:01:04] Successful get url: https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg
+[20:01:05] Picture infomations saved to  global/en-US/README.md
+[20:01:05] Picture infomations saved to global/en-US/history/2026/11/02_en-US.md
+[20:01:05] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-11-02 05:01:05.041810+09:00
+[20:01:05] Successful get url: https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647_UHD.jpg
+[20:01:05] Picture infomations saved to  global/ja-JP/README.md
+[20:01:05] Picture infomations saved to global/ja-JP/history/2026/11/02_ja-JP.md
+[20:01:05] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-11-02 01:31:05.171563+05:30
+[20:01:05] Successful get url: https://www.bing.com/th?id=OHR.HudsonBear_EN-IN9299365522_UHD.jpg
+[20:01:05] Picture infomations saved to  global/en-IN/README.md
+[20:01:05] Picture infomations saved to global/en-IN/history/2026/11/02_en-IN.md
+[20:01:05] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-11-01 17:01:05.395554-03:00
+[20:01:05] Successful get url: https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_PT-BR1065721767_UHD.jpg
+[20:01:05] Picture infomations saved to  global/pt-BR/README.md
+[20:01:05] Picture infomations saved to global/pt-BR/history/2026/11/02_pt-BR.md
+[20:01:05] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-11-01 21:01:05.560064+01:00
+[20:01:05] Successful get url: https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_UHD.jpg
+[20:01:05] Picture infomations saved to  global/fr-FR/README.md
+[20:01:05] Picture infomations saved to global/fr-FR/history/2026/11/01_fr-FR.md
+[20:01:05] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-11-01 21:01:05.811690+01:00
+[20:01:05] Successful get url: https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg
+[20:01:06] Picture infomations saved to  global/de-DE/README.md
+[20:01:06] Picture infomations saved to global/de-DE/history/2026/11/01_de-DE.md
+[20:01:06] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-11-01 15:01:06.026395-05:00
+[20:01:06] Successful get url: https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535_UHD.jpg
+[20:01:06] Picture infomations saved to  global/en-CA/README.md
+[20:01:06] Picture infomations saved to global/en-CA/history/2026/11/02_en-CA.md
+[20:01:06] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-11-01 20:01:06.245000+00:00
+[20:01:06] Successful get url: https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438_UHD.jpg
+[20:01:06] Picture infomations saved to  global/en-GB/README.md
+[20:01:06] Picture infomations saved to global/en-GB/history/2026/11/02_en-GB.md
+[20:01:06] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-11-01 21:01:06.489967+01:00
+[20:01:06] Successful get url: https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_UHD.jpg
+[20:01:06] Picture infomations saved to  global/it-IT/README.md
+[20:01:06] Picture infomations saved to global/it-IT/history/2026/11/01_it-IT.md
+[20:01:06] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-11-01 21:01:06.680649+01:00
+[20:01:06] Successful get url: https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_UHD.jpg
+[20:01:06] Picture infomations saved to  global/es-ES/README.md
+[20:01:06] Picture infomations saved to global/es-ES/history/2026/11/01_es-ES.md
+[20:01:06] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-11-01 15:01:06.873828-05:00
+[20:01:06] Successful get url: https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-CA0751040857_UHD.jpg
+[20:01:07] Picture infomations saved to  global/fr-CA/README.md
+[20:01:07] Picture infomations saved to global/fr-CA/history/2026/11/02_fr-CA.md
+Program exit at 20:01:07
