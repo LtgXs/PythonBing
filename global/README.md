@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-11-01|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg)|
-||*Copyright: St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)*
+|2026-11-02|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg)|
+||*Copyright: Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)*
 ||
 |||
-|2026-11-01|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951_UHD.jpg)|
-||*Copyright: シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ (© Britus/Getty Images)*
+|2026-11-02|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647_UHD.jpg)|
+||*Copyright: ホッキョクグマの親子、ハドソン湾、マニトバ州、カナダ (© Danita Delimont/Adobe Stock)*
 ||
 |||
 |2026-11-01|**Region: en-IN**||
@@ -16,44 +16,44 @@
 ||*Copyright: Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)*
 ||
 |||
-|2026-11-01|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_PT-BR9368321413_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrankfurtHalloween_PT-BR9368321413_UHD.jpg)|
-||*Copyright: Catedral de São Bartolomeu, em Frankfurt, Alemanha (© AlxeyPnferov/Getty Images)*
+|2026-11-02|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_PT-BR1065721767_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_PT-BR1065721767_UHD.jpg)|
+||*Copyright: Floresta Negra, Baden-Württemberg, Alemanha (© Britus/Getty Images)*
 ||
 |||
-|2026-10-31|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_FR-FR8337402452_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrankfurtHalloween_FR-FR8337402452_UHD.jpg)|
-||*Copyright: Cathédrale Saint-Barthélemy à Francfort, Allemagne (© AlxeyPnferov/Getty Images)*
+|2026-11-01|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_UHD.jpg)|
+||*Copyright: Forêt-Noire, Bade-Wurtemberg, Allemagne  (© Britus/Getty Images)*
 ||
 |||
-|2026-10-31|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg)|
-||*Copyright: Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images)*
+|2026-11-01|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg)|
+||*Copyright: Schwarzwald, Baden-Württemberg (© Britus/Getty Images)*
 ||
 |||
-|2026-11-01|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-CA9657628051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-CA9657628051_UHD.jpg)|
-||*Copyright: St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)*
+|2026-11-02|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535_UHD.jpg)|
+||*Copyright: Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)*
 ||
 |||
-|2026-11-01|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-GB3041218795_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-GB3041218795_UHD.jpg)|
-||*Copyright: St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)*
+|2026-11-02|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438_UHD.jpg)|
+||*Copyright: Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)*
 ||
 |||
-|2026-10-31|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_IT-IT1676201038_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrankfurtHalloween_IT-IT1676201038_UHD.jpg)|
-||*Copyright: Duomo Imperiale di Francoforte, Germania (© AlxeyPnferov/Getty Images)*
+|2026-11-01|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_UHD.jpg)|
+||*Copyright: Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images)*
 ||
 |||
-|2026-10-31|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_UHD.jpg)|
-||*Copyright: Catedral de San Bartolomé, Fráncfort, Alemania (© AlxeyPnferov/Getty Images)*
+|2026-11-01|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_UHD.jpg)|
+||*Copyright: La selva Negra, Baden-Württemberg, Alemania (© Britus/Getty Images)*
 ||
 |||
-|2026-11-01|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_FR-CA0091510299_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FrankfurtHalloween_FR-CA0091510299_UHD.jpg)|
-||*Copyright: Cathédrale Saint-Barthélemy de Francfort, Allemagne (© AlxeyPnferov/Getty Images)*
+|2026-11-02|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-CA0751040857_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-CA0751040857_UHD.jpg)|
+||*Copyright: Forêt-Noire, Bade-Wurtemberg, Allemagne (© Britus/Getty Images)*
 ||
 |||
 

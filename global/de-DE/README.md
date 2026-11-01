@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-10-31
-![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg&w=1000)Download: [Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg)
+Update: 2026-11-01
+![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg&w=1000)Download: [Schwarzwald, Baden-Württemberg (© Britus/Getty Images)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg)
 
 Auto get programm by LtgX
