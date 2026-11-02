@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-02
-![](https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_UHD.jpg&w=1000)Download: [Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)](https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_UHD.jpg)
+Update: 2026-11-03
+![](https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_UHD.jpg&w=1000)Download: [Lago di Braies, Parco Naturale Fanes‑Sennes‑Braies, Dolomiti (© leonid_tit/Getty Images)](https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_UHD.jpg)
 
 Auto get programm by LtgX

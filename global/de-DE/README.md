@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-02
-![](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg&w=1000)Download: [Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock)](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg)
+Update: 2026-11-03
+![](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg&w=1000)Download: [Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images)](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg)
 
 Auto get programm by LtgX

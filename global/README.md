@@ -21,14 +21,14 @@
 ||*Copyright: Urso-polar e filhotes na Baía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)*
 ||
 |||
-|2026-11-02|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_UHD.jpg)|
-||*Copyright: Ours polaire et oursons, baie d'Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)*
+|2026-11-03|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_UHD.jpg)|
+||*Copyright: Lac de Braies, Parc naturel Fanes‑Sennes‑Braies, Dolomites, Italie (© leonid_tit/Getty Images)*
 ||
 |||
-|2026-11-02|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg)|
-||*Copyright: Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock)*
+|2026-11-03|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg)|
+||*Copyright: Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images)*
 ||
 |||
 |2026-11-03|**Region: en-CA**||
@@ -41,14 +41,14 @@
 ||*Copyright: Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)*
 ||
 |||
-|2026-11-02|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_UHD.jpg)|
-||*Copyright: Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)*
+|2026-11-03|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_UHD.jpg)|
+||*Copyright: Lago di Braies, Parco Naturale Fanes‑Sennes‑Braies, Dolomiti (© leonid_tit/Getty Images)*
 ||
 |||
-|2026-11-02|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.HudsonBear_ES-ES0469501883_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HudsonBear_ES-ES0469501883_UHD.jpg)|
-||*Copyright: Osa polar con sus cachorros cerca de la bahía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)*
+|2026-11-03|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.AlpineBraies_ES-ES0997130535_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineBraies_ES-ES0997130535_UHD.jpg)|
+||*Copyright: Lago Braies, Parque Natural Fanes‑Sennes‑Braies, Los Dolomitas, Italia (© leonid_tit/Getty Images)*
 ||
 |||
 |2026-11-03|**Region: fr-CA**||
