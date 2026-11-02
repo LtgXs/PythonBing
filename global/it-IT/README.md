@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-01
-![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_UHD.jpg&w=1000)Download: [Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_UHD.jpg)
+Update: 2026-11-02
+![](https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_UHD.jpg&w=1000)Download: [Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)](https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_UHD.jpg)
 
 Auto get programm by LtgX

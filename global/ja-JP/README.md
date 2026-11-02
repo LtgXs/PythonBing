@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-02
-![](https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647_UHD.jpg&w=1000)Download: [ホッキョクグマの親子、ハドソン湾、マニトバ州、カナダ (© Danita Delimont/Adobe Stock)](https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647_UHD.jpg)
+Update: 2026-11-03
+![](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_UHD.jpg&w=1000)Download: [ブライエス湖、ファネス・セネス・ブラーイエス自然公園、ドロミテ、イタリア (© leonid_tit/Getty Images)](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_UHD.jpg)
 
 Auto get programm by LtgX
