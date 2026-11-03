@@ -11,9 +11,9 @@
 ||*Copyright: 色鮮やかなラクウショウの森をボートで進む人々、安徽省宣城市、中国 (© Jackal Pan/Getty Images)*
 ||
 |||
-|2026-11-03|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AlpineBraies_EN-IN9491975263_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineBraies_EN-IN9491975263_UHD.jpg)|
-||*Copyright: Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)*
+|2026-11-04|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.AutumnChina_EN-IN9898936239_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnChina_EN-IN9898936239_UHD.jpg)|
+||*Copyright: People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)*
 ||
 |||
 |2026-11-04|**Region: pt-BR**||
