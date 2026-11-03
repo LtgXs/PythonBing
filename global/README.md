@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-11-03|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg)|
-||*Copyright: Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)*
+|2026-11-04|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg)|
+||*Copyright: Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)*
 ||
 |||
-|2026-11-03|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_UHD.jpg)|
-||*Copyright: ブライエス湖、ファネス・セネス・ブラーイエス自然公園、ドロミテ、イタリア (© leonid_tit/Getty Images)*
+|2026-11-04|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_UHD.jpg)|
+||*Copyright: 色鮮やかなラクウショウの森をボートで進む人々、安徽省宣城市、中国 (© Jackal Pan/Getty Images)*
 ||
 |||
 |2026-11-03|**Region: en-IN**||
@@ -16,9 +16,9 @@
 ||*Copyright: Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)*
 ||
 |||
-|2026-11-03|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.HudsonBear_PT-BR1375226804_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HudsonBear_PT-BR1375226804_UHD.jpg)|
-||*Copyright: Urso-polar e filhotes na Baía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)*
+|2026-11-04|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.AlpineBraies_PT-BR2922400118_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineBraies_PT-BR2922400118_UHD.jpg)|
+||*Copyright: Lago di Braies, Parque Natural Fanes-Sennes-Braies, Dolomitas, Itália (© leonid_tit/Getty Images)*
 ||
 |||
 |2026-11-03|**Region: fr-FR**||
@@ -31,14 +31,14 @@
 ||*Copyright: Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images)*
 ||
 |||
-|2026-11-03|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.HudsonBear_EN-CA5688581864_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HudsonBear_EN-CA5688581864_UHD.jpg)|
-||*Copyright: Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)*
+|2026-11-04|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.AlpineBraies_EN-CA5888574678_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineBraies_EN-CA5888574678_UHD.jpg)|
+||*Copyright: Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)*
 ||
 |||
-|2026-11-03|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.HudsonBear_EN-GB3657065728_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HudsonBear_EN-GB3657065728_UHD.jpg)|
-||*Copyright: Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)*
+|2026-11-04|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_UHD.jpg)|
+||*Copyright: Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)*
 ||
 |||
 |2026-11-03|**Region: it-IT**||
@@ -51,9 +51,9 @@
 ||*Copyright: Lago Braies, Parque Natural Fanes‑Sennes‑Braies, Los Dolomitas, Italia (© leonid_tit/Getty Images)*
 ||
 |||
-|2026-11-03|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.HudsonBear_FR-CA1124184910_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.HudsonBear_FR-CA1124184910_UHD.jpg)|
-||*Copyright: Ours polaire et ses petits, baie d'Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)*
+|2026-11-04|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.AlpineBraies_FR-CA1379569003_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AlpineBraies_FR-CA1379569003_UHD.jpg)|
+||*Copyright: Lac de Braies, parc naturel Fanes-Sennes-Braies, Dolomites, Italie (© leonid_tit/Getty Images)*
 ||
 |||
 

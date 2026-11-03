@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-03
-![](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_UHD.jpg&w=1000)Download: [ブライエス湖、ファネス・セネス・ブラーイエス自然公園、ドロミテ、イタリア (© leonid_tit/Getty Images)](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_UHD.jpg)
+Update: 2026-11-04
+![](https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_UHD.jpg&w=1000)Download: [色鮮やかなラクウショウの森をボートで進む人々、安徽省宣城市、中国 (© Jackal Pan/Getty Images)](https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_UHD.jpg)
 
 Auto get programm by LtgX
