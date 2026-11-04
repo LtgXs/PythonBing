@@ -11,9 +11,9 @@
 ||*Copyright: 石垣に設けられた木製の踏み越し段、ブラック・クラッグ、湖水地方、イギリス (© Alex Treadway/Getty Images)*
 ||
 |||
-|2026-11-04|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.AutumnChina_EN-IN9898936239_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.AutumnChina_EN-IN9898936239_UHD.jpg)|
-||*Copyright: People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)*
+|2026-11-05|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.StileCrossing_EN-IN0635462552_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StileCrossing_EN-IN0635462552_UHD.jpg)|
+||*Copyright: Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)*
 ||
 |||
 |2026-11-05|**Region: pt-BR**||
