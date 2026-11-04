@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-04
-![](https://www.bing.com/th?id=OHR.AlpineBraies_EN-CA5888574678_UHD.jpg&w=1000)Download: [Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)](https://www.bing.com/th?id=OHR.AlpineBraies_EN-CA5888574678_UHD.jpg)
+Update: 2026-11-05
+![](https://www.bing.com/th?id=OHR.AutumnChina_EN-CA6335982294_UHD.jpg&w=1000)Download: [People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)](https://www.bing.com/th?id=OHR.AutumnChina_EN-CA6335982294_UHD.jpg)
 
 Auto get programm by LtgX

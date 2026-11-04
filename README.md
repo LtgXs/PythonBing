@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-04
-![](https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg&w=1000)Download: [五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)](https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg)
+Update: 2026-11-05
+![](https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&w=1000)Download: [石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)](https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg)
 
 Auto get programm by LtgX

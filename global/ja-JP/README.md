@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-04
-![](https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_UHD.jpg&w=1000)Download: [色鮮やかなラクウショウの森をボートで進む人々、安徽省宣城市、中国 (© Jackal Pan/Getty Images)](https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_UHD.jpg)
+Update: 2026-11-05
+![](https://www.bing.com/th?id=OHR.StileCrossing_JA-JP3443452365_UHD.jpg&w=1000)Download: [石垣に設けられた木製の踏み越し段、ブラック・クラッグ、湖水地方、イギリス (© Alex Treadway/Getty Images)](https://www.bing.com/th?id=OHR.StileCrossing_JA-JP3443452365_UHD.jpg)
 
 Auto get programm by LtgX

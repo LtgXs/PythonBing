@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-03
-![](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg&w=1000)Download: [Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images)](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg)
+Update: 2026-11-04
+![](https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_UHD.jpg&w=1000)Download: [Paddler zwischen farbenprächtigen Sumpfzypressen, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)](https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_UHD.jpg)
 
 Auto get programm by LtgX
