@@ -11,9 +11,9 @@
 ||*Copyright: ピピワイ・トレイルの竹林、ハレアカラ国立公園、マウイ島、ハワイ、アメリカ (© MNStudio/Getty Images)*
 ||
 |||
-|2026-11-05|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.StileCrossing_EN-IN0635462552_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StileCrossing_EN-IN0635462552_UHD.jpg)|
-||*Copyright: Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)*
+|2026-11-06|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-IN0566152296_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-IN0566152296_UHD.jpg)|
+||*Copyright: Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)*
 ||
 |||
 |2026-11-06|**Region: pt-BR**||
