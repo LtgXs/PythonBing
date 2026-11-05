@@ -1,0 +1,60 @@
+
+Program started at 17:20:08
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP PREEMPT Thu Sep 24 18:46:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm7aw5e
+Processor Type: x86_64
+Python Version: 3.12.16
+Python Interpreter Name: CPython
+[17:20:08] Start geting CN Bing Wallpaper
+[17:20:08] Successful get url: https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg
+[17:20:08] Image saved to img/background.jpg
+[17:20:08] Info saved to README.md
+[17:20:08] Image saved to history/2026/11/06.md
+[17:20:08] Start geting global Bing Wallpaper, region=en-US, local time is 2026-11-05 12:20:08.880113-05:00
+[17:20:08] Successful get url: https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg
+[17:20:09] Picture infomations saved to  global/en-US/README.md
+[17:20:09] Picture infomations saved to global/en-US/history/2026/11/06_en-US.md
+[17:20:09] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-11-06 02:20:09.075061+09:00
+[17:20:09] Successful get url: https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_UHD.jpg
+[17:20:09] Picture infomations saved to  global/ja-JP/README.md
+[17:20:09] Picture infomations saved to global/ja-JP/history/2026/11/06_ja-JP.md
+[17:20:09] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-11-05 22:50:09.229855+05:30
+[17:20:09] Successful get url: https://www.bing.com/th?id=OHR.StileCrossing_EN-IN0635462552_UHD.jpg
+[17:20:09] Picture infomations saved to  global/en-IN/README.md
+[17:20:09] Picture infomations saved to global/en-IN/history/2026/11/05_en-IN.md
+[17:20:09] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-11-05 14:20:09.487189-03:00
+[17:20:09] Successful get url: https://www.bing.com/th?id=OHR.StileCrossing_PT-BR3493884309_UHD.jpg
+[17:20:09] Picture infomations saved to  global/pt-BR/README.md
+[17:20:09] Picture infomations saved to global/pt-BR/history/2026/11/06_pt-BR.md
+[17:20:09] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-11-05 18:20:09.622939+01:00
+[17:20:09] Successful get url: https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_UHD.jpg
+[17:20:09] Picture infomations saved to  global/fr-FR/README.md
+[17:20:09] Picture infomations saved to global/fr-FR/history/2026/11/05_fr-FR.md
+[17:20:09] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-11-05 18:20:09.787993+01:00
+[17:20:09] Successful get url: https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_UHD.jpg
+[17:20:09] Picture infomations saved to  global/de-DE/README.md
+[17:20:09] Picture infomations saved to global/de-DE/history/2026/11/05_de-DE.md
+[17:20:09] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-11-05 12:20:09.916974-05:00
+[17:20:09] Successful get url: https://www.bing.com/th?id=OHR.StileCrossing_EN-CA6257654888_UHD.jpg
+[17:20:10] Picture infomations saved to  global/en-CA/README.md
+[17:20:10] Picture infomations saved to global/en-CA/history/2026/11/06_en-CA.md
+[17:20:10] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-11-05 17:20:10.035376+00:00
+[17:20:10] Successful get url: https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_UHD.jpg
+[17:20:10] Picture infomations saved to  global/en-GB/README.md
+[17:20:10] Picture infomations saved to global/en-GB/history/2026/11/06_en-GB.md
+[17:20:10] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-11-05 18:20:10.260299+01:00
+[17:20:10] Successful get url: https://www.bing.com/th?id=OHR.StileCrossing_IT-IT7249235484_UHD.jpg
+[17:20:10] Picture infomations saved to  global/it-IT/README.md
+[17:20:10] Picture infomations saved to global/it-IT/history/2026/11/05_it-IT.md
+[17:20:10] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-11-05 18:20:10.397756+01:00
+[17:20:10] Successful get url: https://www.bing.com/th?id=OHR.StileCrossing_ES-ES1149628904_UHD.jpg
+[17:20:10] Picture infomations saved to  global/es-ES/README.md
+[17:20:10] Picture infomations saved to global/es-ES/history/2026/11/05_es-ES.md
+[17:20:10] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-11-05 12:20:10.608400-05:00
+[17:20:10] Successful get url: https://www.bing.com/th?id=OHR.StileCrossing_FR-CA1954728536_UHD.jpg
+[17:20:10] Picture infomations saved to  global/fr-CA/README.md
+[17:20:10] Picture infomations saved to global/fr-CA/history/2026/11/06_fr-CA.md
+Program exit at 17:20:10

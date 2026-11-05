@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-05
-![](https://www.bing.com/th?id=OHR.AutumnChina_EN-GB4167994080_UHD.jpg&w=1000)Download: [People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)](https://www.bing.com/th?id=OHR.AutumnChina_EN-GB4167994080_UHD.jpg)
+Update: 2026-11-06
+![](https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_UHD.jpg&w=1000)Download: [Fireworks over Battersea Power Station, London (© Michael Lee/Getty Images)](https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_UHD.jpg)
 
 Auto get programm by LtgX

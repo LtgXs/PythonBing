@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-05
-![](https://www.bing.com/th?id=OHR.AutumnChina_FR-CA1700914335_UHD.jpg&w=1000)Download: [Personnes ramant au milieu de cyprès chauves aux couleurs automnales, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images)](https://www.bing.com/th?id=OHR.AutumnChina_FR-CA1700914335_UHD.jpg)
+Update: 2026-11-06
+![](https://www.bing.com/th?id=OHR.StileCrossing_FR-CA1954728536_UHD.jpg&w=1000)Download: [Échalier en bois dans un muret de pierre, Black Crag, Lake District, Angleterre (© Alex Treadway/Getty Images)](https://www.bing.com/th?id=OHR.StileCrossing_FR-CA1954728536_UHD.jpg)
 
 Auto get programm by LtgX

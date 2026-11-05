@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-04
-![](https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_UHD.jpg&w=1000)Download: [Paddler zwischen farbenprächtigen Sumpfzypressen, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)](https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_UHD.jpg)
+Update: 2026-11-05
+![](https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_UHD.jpg&w=1000)Download: [Holzsteg an einer Steinmauer, Black Crag, Lake District, England (© Alex Treadway/Getty Images)](https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_UHD.jpg)
 
 Auto get programm by LtgX
