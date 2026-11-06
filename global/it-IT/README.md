@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-05
-![](https://www.bing.com/th?id=OHR.StileCrossing_IT-IT7249235484_UHD.jpg&w=1000)Download: [Una scaletta appoggiata ad un muro di pietra, Black Crag, Lake District, Inghilterra (© Alex Treadway/Getty Images)](https://www.bing.com/th?id=OHR.StileCrossing_IT-IT7249235484_UHD.jpg)
+Update: 2026-11-06
+![](https://www.bing.com/th?id=OHR.PipiwaiTrail_IT-IT5147973458_UHD.jpg&w=1000)Download: [Foresta di Bambù, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)](https://www.bing.com/th?id=OHR.PipiwaiTrail_IT-IT5147973458_UHD.jpg)
 
 Auto get programm by LtgX

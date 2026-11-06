@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-06
-![](https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_UHD.jpg&w=1000)Download: [ピピワイ・トレイルの竹林、ハレアカラ国立公園、マウイ島、ハワイ、アメリカ (© MNStudio/Getty Images)](https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_UHD.jpg)
+Update: 2026-11-07
+![](https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_UHD.jpg&w=1000)Download: [セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ (© Tandem Stock/Adobe Stock)](https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_UHD.jpg)
 
 Auto get programm by LtgX

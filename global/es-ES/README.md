@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-05
-![](https://www.bing.com/th?id=OHR.StileCrossing_ES-ES1149628904_UHD.jpg&w=1000)Download: [Escalera de madera, Black Crag, Distrito de los Lagos, Inglaterra (© Alex Treadway/Getty Images)](https://www.bing.com/th?id=OHR.StileCrossing_ES-ES1149628904_UHD.jpg)
+Update: 2026-11-06
+![](https://www.bing.com/th?id=OHR.PipiwaiTrail_ES-ES2022669562_UHD.jpg&w=1000)Download: [Bosque de Bambú, Sendero Pīpīwai, Parque Nacional Haleakalā, Maui, Hawái, EE. UU. (© MNStudio/Getty Images)](https://www.bing.com/th?id=OHR.PipiwaiTrail_ES-ES2022669562_UHD.jpg)
 
 Auto get programm by LtgX

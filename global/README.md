@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-11-06|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg)|
-||*Copyright: Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)*
+|2026-11-07|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg)|
+||*Copyright: Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)*
 ||
 |||
-|2026-11-06|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_UHD.jpg)|
-||*Copyright: ピピワイ・トレイルの竹林、ハレアカラ国立公園、マウイ島、ハワイ、アメリカ (© MNStudio/Getty Images)*
+|2026-11-07|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_UHD.jpg)|
+||*Copyright: セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ (© Tandem Stock/Adobe Stock)*
 ||
 |||
 |2026-11-06|**Region: en-IN**||
@@ -16,44 +16,44 @@
 ||*Copyright: Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)*
 ||
 |||
-|2026-11-06|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.StileCrossing_PT-BR3493884309_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StileCrossing_PT-BR3493884309_UHD.jpg)|
-||*Copyright: Escada de madeira sobre um muro de pedra, Black Crag, Lake District, Inglaterra (© Alex Treadway/Getty Images)*
+|2026-11-07|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.PipiwaiTrail_PT-BR4772010381_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PipiwaiTrail_PT-BR4772010381_UHD.jpg)|
+||*Copyright: Floresta de bambu, Trilha Pīpīwai, Parque Nacional de Haleakalā, Maui, Havaí, Estados Unidos (© MNStudio/Getty Images)*
 ||
 |||
-|2026-11-05|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_UHD.jpg)|
-||*Copyright: Échelle près d'un mur de pierre, Black Crag, Lake District, Angleterre (© Alex Treadway/Getty Images)*
+|2026-11-06|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_UHD.jpg)|
+||*Copyright: Forêt de bambous, Pīpīwai Trail, Hawaii, États-Unis (© MNStudio/Getty Images)*
 ||
 |||
-|2026-11-05|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_UHD.jpg)|
-||*Copyright: Holzsteg an einer Steinmauer, Black Crag, Lake District, England (© Alex Treadway/Getty Images)*
+|2026-11-06|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_UHD.jpg)|
+||*Copyright: Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA (© MNStudio/Getty Images)*
 ||
 |||
-|2026-11-06|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.StileCrossing_EN-CA6257654888_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StileCrossing_EN-CA6257654888_UHD.jpg)|
-||*Copyright: Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)*
+|2026-11-07|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_UHD.jpg)|
+||*Copyright: Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)*
 ||
 |||
-|2026-11-06|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_UHD.jpg)|
-||*Copyright: Fireworks over Battersea Power Station, London (© Michael Lee/Getty Images)*
+|2026-11-07|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-GB4651327269_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-GB4651327269_UHD.jpg)|
+||*Copyright: Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)*
 ||
 |||
-|2026-11-05|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.StileCrossing_IT-IT7249235484_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StileCrossing_IT-IT7249235484_UHD.jpg)|
-||*Copyright: Una scaletta appoggiata ad un muro di pietra, Black Crag, Lake District, Inghilterra (© Alex Treadway/Getty Images)*
+|2026-11-06|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.PipiwaiTrail_IT-IT5147973458_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PipiwaiTrail_IT-IT5147973458_UHD.jpg)|
+||*Copyright: Foresta di Bambù, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)*
 ||
 |||
-|2026-11-05|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.StileCrossing_ES-ES1149628904_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StileCrossing_ES-ES1149628904_UHD.jpg)|
-||*Copyright: Escalera de madera, Black Crag, Distrito de los Lagos, Inglaterra (© Alex Treadway/Getty Images)*
+|2026-11-06|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.PipiwaiTrail_ES-ES2022669562_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PipiwaiTrail_ES-ES2022669562_UHD.jpg)|
+||*Copyright: Bosque de Bambú, Sendero Pīpīwai, Parque Nacional Haleakalā, Maui, Hawái, EE. UU. (© MNStudio/Getty Images)*
 ||
 |||
-|2026-11-06|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.StileCrossing_FR-CA1954728536_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.StileCrossing_FR-CA1954728536_UHD.jpg)|
-||*Copyright: Échalier en bois dans un muret de pierre, Black Crag, Lake District, Angleterre (© Alex Treadway/Getty Images)*
+|2026-11-07|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-CA2178065377_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-CA2178065377_UHD.jpg)|
+||*Copyright: Forêt de bambous, sentier Pīpīwai, parc national de Haleakalā, Maui, Hawaï, États-Unis (© MNStudio/Getty Images)*
 ||
 |||
 
