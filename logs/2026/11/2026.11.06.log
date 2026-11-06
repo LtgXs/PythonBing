@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [16:43:21] Picture infomations saved to  global/fr-CA/README.md
 [16:43:21] Picture infomations saved to global/fr-CA/history/2026/11/07_fr-CA.md
 Program exit at 16:43:21
+
+Program started at 21:11:09
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP PREEMPT Thu Sep 24 18:46:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm7aw5e
+Processor Type: x86_64
+Python Version: 3.12.16
+Python Interpreter Name: CPython
+[21:11:09] Start geting CN Bing Wallpaper
+[21:11:09] Successful get url: https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg
+[21:11:09] Image saved to img/background.jpg
+[21:11:09] Info saved to README.md
+[21:11:09] Image saved to history/2026/11/07.md
+[21:11:09] Start geting global Bing Wallpaper, region=en-US, local time is 2026-11-06 16:11:09.354362-05:00
+[21:11:09] Successful get url: https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg
+[21:11:09] Picture infomations saved to  global/en-US/README.md
+[21:11:09] Picture infomations saved to global/en-US/history/2026/11/07_en-US.md
+[21:11:09] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-11-07 06:11:09.526067+09:00
+[21:11:09] Successful get url: https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_UHD.jpg
+[21:11:09] Picture infomations saved to  global/ja-JP/README.md
+[21:11:09] Picture infomations saved to global/ja-JP/history/2026/11/07_ja-JP.md
+[21:11:09] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-11-07 02:41:09.791947+05:30
+[21:11:09] Successful get url: https://www.bing.com/th?id=OHR.DakotaBison_EN-IN0635434875_UHD.jpg
+[21:11:10] Picture infomations saved to  global/en-IN/README.md
+[21:11:10] Picture infomations saved to global/en-IN/history/2026/11/07_en-IN.md
+[21:11:10] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-11-06 18:11:10.020049-03:00
+[21:11:10] Successful get url: https://www.bing.com/th?id=OHR.PipiwaiTrail_PT-BR4772010381_UHD.jpg
+[21:11:10] Picture infomations saved to  global/pt-BR/README.md
+[21:11:10] Picture infomations saved to global/pt-BR/history/2026/11/07_pt-BR.md
+[21:11:10] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-11-06 22:11:10.163156+01:00
+[21:11:10] Successful get url: https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_UHD.jpg
+[21:11:10] Picture infomations saved to  global/fr-FR/README.md
+[21:11:10] Picture infomations saved to global/fr-FR/history/2026/11/06_fr-FR.md
+[21:11:10] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-11-06 22:11:10.413824+01:00
+[21:11:10] Successful get url: https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_UHD.jpg
+[21:11:10] Picture infomations saved to  global/de-DE/README.md
+[21:11:10] Picture infomations saved to global/de-DE/history/2026/11/06_de-DE.md
+[21:11:10] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-11-06 16:11:10.615022-05:00
+[21:11:10] Successful get url: https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_UHD.jpg
+[21:11:10] Picture infomations saved to  global/en-CA/README.md
+[21:11:10] Picture infomations saved to global/en-CA/history/2026/11/07_en-CA.md
+[21:11:10] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-11-06 21:11:10.836535+00:00
+[21:11:10] Successful get url: https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-GB4651327269_UHD.jpg
+[21:11:11] Picture infomations saved to  global/en-GB/README.md
+[21:11:11] Picture infomations saved to global/en-GB/history/2026/11/07_en-GB.md
+[21:11:11] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-11-06 22:11:11.140724+01:00
+[21:11:11] Successful get url: https://www.bing.com/th?id=OHR.PipiwaiTrail_IT-IT5147973458_UHD.jpg
+[21:11:11] Picture infomations saved to  global/it-IT/README.md
+[21:11:11] Picture infomations saved to global/it-IT/history/2026/11/06_it-IT.md
+[21:11:11] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-11-06 22:11:11.309243+01:00
+[21:11:11] Successful get url: https://www.bing.com/th?id=OHR.PipiwaiTrail_ES-ES2022669562_UHD.jpg
+[21:11:11] Picture infomations saved to  global/es-ES/README.md
+[21:11:11] Picture infomations saved to global/es-ES/history/2026/11/06_es-ES.md
+[21:11:11] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-11-06 16:11:11.639380-05:00
+[21:11:11] Successful get url: https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-CA2178065377_UHD.jpg
+[21:11:12] Picture infomations saved to  global/fr-CA/README.md
+[21:11:12] Picture infomations saved to global/fr-CA/history/2026/11/07_fr-CA.md
+Program exit at 21:11:12

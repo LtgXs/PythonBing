@@ -11,9 +11,9 @@
 ||*Copyright: セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ (© Tandem Stock/Adobe Stock)*
 ||
 |||
-|2026-11-06|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-IN0566152296_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-IN0566152296_UHD.jpg)|
-||*Copyright: Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)*
+|2026-11-07|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.DakotaBison_EN-IN0635434875_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DakotaBison_EN-IN0635434875_UHD.jpg)|
+||*Copyright: A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)*
 ||
 |||
 |2026-11-07|**Region: pt-BR**||
