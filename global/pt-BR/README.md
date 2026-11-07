@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-07
-![](https://www.bing.com/th?id=OHR.PipiwaiTrail_PT-BR4772010381_UHD.jpg&w=1000)Download: [Floresta de bambu, Trilha Pīpīwai, Parque Nacional de Haleakalā, Maui, Havaí, Estados Unidos (© MNStudio/Getty Images)](https://www.bing.com/th?id=OHR.PipiwaiTrail_PT-BR4772010381_UHD.jpg)
+Update: 2026-11-08
+![](https://www.bing.com/th?id=OHR.DakotaBison_PT-BR6015279362_UHD.jpg&w=1000)Download: [Um bisão nas pastagens do Parque Nacional Theodore Roosevelt, Dakota do Norte, EUA. (© Tandem Stock/Adobe Stock)](https://www.bing.com/th?id=OHR.DakotaBison_PT-BR6015279362_UHD.jpg)
 
 Auto get programm by LtgX
