@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-08
-![](https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg&w=1000)Download: [排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)](https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg)
+Update: 2026-11-09
+![](https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg&w=1000)Download: [特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)](https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg)
 
 Auto get programm by LtgX

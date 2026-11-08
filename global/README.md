@@ -11,9 +11,9 @@
 ||*Copyright: セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images)*
 ||
 |||
-|2026-11-08|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-IN0900276687_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-IN0900276687_UHD.jpg)|
-||*Copyright: Lanterns for Diwali in Mumbai, Maharashtra (© Dinodia Photo/Getty Images)*
+|2026-11-09|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TrianaSpain_EN-IN5231956941_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrianaSpain_EN-IN5231956941_UHD.jpg)|
+||*Copyright: Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)*
 ||
 |||
 |2026-11-09|**Region: pt-BR**||
