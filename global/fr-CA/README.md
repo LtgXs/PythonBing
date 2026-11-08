@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-08
-![](https://www.bing.com/th?id=OHR.DakotaBison_FR-CA7354389540_UHD.jpg&w=1000)Download: [Bison dans les prairies du parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock)](https://www.bing.com/th?id=OHR.DakotaBison_FR-CA7354389540_UHD.jpg)
+Update: 2026-11-09
+![](https://www.bing.com/th?id=OHR.DiwaliLamps_FR-CA2735854482_UHD.jpg&w=1000)Download: [Lanternes de Diwali, Mumbai, Maharashtra, Inde (© Dinodia Photo/Getty Images)](https://www.bing.com/th?id=OHR.DiwaliLamps_FR-CA2735854482_UHD.jpg)
 
 Auto get programm by LtgX

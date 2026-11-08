@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-11-08|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg)|
-||*Copyright: A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)*
+|2026-11-09|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg)|
+||*Copyright: Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)*
 ||
 |||
-|2026-11-08|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.DiwaliLamps_JA-JP0443643151_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiwaliLamps_JA-JP0443643151_UHD.jpg)|
-||*Copyright: ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド (© Dinodia Photo/Getty Images)*
+|2026-11-09|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_UHD.jpg)|
+||*Copyright: セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images)*
 ||
 |||
 |2026-11-08|**Region: en-IN**||
@@ -16,44 +16,44 @@
 ||*Copyright: Lanterns for Diwali in Mumbai, Maharashtra (© Dinodia Photo/Getty Images)*
 ||
 |||
-|2026-11-08|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.DakotaBison_PT-BR6015279362_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DakotaBison_PT-BR6015279362_UHD.jpg)|
-||*Copyright: Um bisão nas pastagens do Parque Nacional Theodore Roosevelt, Dakota do Norte, EUA. (© Tandem Stock/Adobe Stock)*
+|2026-11-09|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.DiwaliLamps_PT-BR7355901557_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiwaliLamps_PT-BR7355901557_UHD.jpg)|
+||*Copyright: Lanternas para o Diwali, Mumbai, Maharashtra, Índia (© Dinodia Photo/Getty Images)*
 ||
 |||
-|2026-11-07|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_UHD.jpg)|
-||*Copyright: Bison dans le parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock)*
+|2026-11-08|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.DiwaliLamps_FR-FR3288508792_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiwaliLamps_FR-FR3288508792_UHD.jpg)|
+||*Copyright: Lanternes pour Diwali, Mumbai, Maharashtra, Inde (© Dinodia Photo/Getty Images)*
 ||
 |||
-|2026-11-07|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_UHD.jpg)|
-||*Copyright: Ein Bison in der Grassteppe des Theodore-Roosevelt-Nationalparks, Nord-Dakota, USA (© Tandem Stock/Adobe Stock)*
+|2026-11-08|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.DiwaliLamps_DE-DE0703233561_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiwaliLamps_DE-DE0703233561_UHD.jpg)|
+||*Copyright: Laternen für Diwali, Mumbai, Maharashtra, Indien (© Dinodia Photo/Getty Images)*
 ||
 |||
-|2026-11-08|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.DakotaBison_EN-CA6055061732_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DakotaBison_EN-CA6055061732_UHD.jpg)|
-||*Copyright: A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)*
+|2026-11-09|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-CA5815375040_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-CA5815375040_UHD.jpg)|
+||*Copyright: Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)*
 ||
 |||
-|2026-11-08|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.DakotaBison_EN-GB4535875354_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DakotaBison_EN-GB4535875354_UHD.jpg)|
-||*Copyright: A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)*
+|2026-11-09|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-GB4404345220_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-GB4404345220_UHD.jpg)|
+||*Copyright: Lanterns for Diwali in Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)*
 ||
 |||
-|2026-11-07|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.DakotaBison_IT-IT5607960276_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DakotaBison_IT-IT5607960276_UHD.jpg)|
-||*Copyright: Un bisonte nelle praterie del Parco Nazionale Theodore Roosevelt, North Dakota, USA (© Tandem Stock/Adobe Stock)*
+|2026-11-08|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.DiwaliLamps_IT-IT6072370244_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiwaliLamps_IT-IT6072370244_UHD.jpg)|
+||*Copyright: Lanterne per il Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)*
 ||
 |||
-|2026-11-07|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.DakotaBison_ES-ES8128030749_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DakotaBison_ES-ES8128030749_UHD.jpg)|
-||*Copyright: Un bisonte en los pastizales del Parque Nacional Theodore Roosevelt, Dakota del Norte, EE. UU. (© Tandem Stock/Adobe Stock)*
+|2026-11-08|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.DiwaliLamps_ES-ES3505917135_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiwaliLamps_ES-ES3505917135_UHD.jpg)|
+||*Copyright: Linternas del Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)*
 ||
 |||
-|2026-11-08|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.DakotaBison_FR-CA7354389540_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DakotaBison_FR-CA7354389540_UHD.jpg)|
-||*Copyright: Bison dans les prairies du parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock)*
+|2026-11-09|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.DiwaliLamps_FR-CA2735854482_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.DiwaliLamps_FR-CA2735854482_UHD.jpg)|
+||*Copyright: Lanternes de Diwali, Mumbai, Maharashtra, Inde (© Dinodia Photo/Getty Images)*
 ||
 |||
 
