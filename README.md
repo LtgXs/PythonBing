@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-09
-![](https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg&w=1000)Download: [特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)](https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg)
+Update: 2026-11-10
+![](https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg&w=1000)Download: [玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg)
 
 Auto get programm by LtgX

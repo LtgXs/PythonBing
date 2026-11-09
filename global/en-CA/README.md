@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-09
-![](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-CA5815375040_UHD.jpg&w=1000)Download: [Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-CA5815375040_UHD.jpg)
+Update: 2026-11-10
+![](https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_UHD.jpg&w=1000)Download: [Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)](https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_UHD.jpg)
 
 Auto get programm by LtgX
