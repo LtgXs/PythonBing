@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-09
-![](https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_UHD.jpg&w=1000)Download: [Schüler spähen durch einen Spalt in einem noch erhaltenen Abschnitt der Berliner Mauer (© Sean Gallup/Getty Images)](https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_UHD.jpg)
+Update: 2026-11-10
+![](https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963_UHD.jpg&w=1000)Download: [Luftaufnahme von Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963_UHD.jpg)
 
 Auto get programm by LtgX

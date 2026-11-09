@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [19:44:58] Picture infomations saved to  global/fr-CA/README.md
 [19:44:58] Picture infomations saved to global/fr-CA/history/2026/11/10_fr-CA.md
 Program exit at 19:44:58
+
+Program started at 23:55:17
+Operating System Name: Linux
+Operating System Version: #17~24.04.1-Ubuntu SMP PREEMPT Thu Sep 24 18:46:57 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm7aw5e
+Processor Type: x86_64
+Python Version: 3.12.16
+Python Interpreter Name: CPython
+[23:55:17] Start geting CN Bing Wallpaper
+[23:55:17] Successful get url: https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg
+[23:55:17] Image saved to img/background.jpg
+[23:55:17] Info saved to README.md
+[23:55:17] Image saved to history/2026/11/10.md
+[23:55:17] Start geting global Bing Wallpaper, region=en-US, local time is 2026-11-09 18:55:17.409993-05:00
+[23:55:17] Successful get url: https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg
+[23:55:17] Picture infomations saved to  global/en-US/README.md
+[23:55:17] Picture infomations saved to global/en-US/history/2026/11/10_en-US.md
+[23:55:17] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-11-10 08:55:17.571888+09:00
+[23:55:17] Successful get url: https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_UHD.jpg
+[23:55:17] Picture infomations saved to  global/ja-JP/README.md
+[23:55:17] Picture infomations saved to global/ja-JP/history/2026/11/10_ja-JP.md
+[23:55:17] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-11-10 05:25:17.730226+05:30
+[23:55:17] Successful get url: https://www.bing.com/th?id=OHR.RoseIsland_EN-IN1259562642_UHD.jpg
+[23:55:18] Picture infomations saved to  global/en-IN/README.md
+[23:55:18] Picture infomations saved to global/en-IN/history/2026/11/10_en-IN.md
+[23:55:18] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-11-09 20:55:18.094656-03:00
+[23:55:18] Successful get url: https://www.bing.com/th?id=OHR.TrianaSpain_PT-BR8294912902_UHD.jpg
+[23:55:18] Picture infomations saved to  global/pt-BR/README.md
+[23:55:18] Picture infomations saved to global/pt-BR/history/2026/11/10_pt-BR.md
+[23:55:18] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-11-10 00:55:18.244915+01:00
+[23:55:18] Successful get url: https://www.bing.com/th?id=OHR.RoseIsland_FR-FR0867516842_UHD.jpg
+[23:55:18] Picture infomations saved to  global/fr-FR/README.md
+[23:55:18] Picture infomations saved to global/fr-FR/history/2026/11/10_fr-FR.md
+[23:55:18] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-11-10 00:55:18.639970+01:00
+[23:55:18] Successful get url: https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963_UHD.jpg
+[23:55:18] Picture infomations saved to  global/de-DE/README.md
+[23:55:18] Picture infomations saved to global/de-DE/history/2026/11/10_de-DE.md
+[23:55:18] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-11-09 18:55:18.938547-05:00
+[23:55:18] Successful get url: https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_UHD.jpg
+[23:55:19] Picture infomations saved to  global/en-CA/README.md
+[23:55:19] Picture infomations saved to global/en-CA/history/2026/11/10_en-CA.md
+[23:55:19] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-11-09 23:55:19.295532+00:00
+[23:55:19] Successful get url: https://www.bing.com/th?id=OHR.TrianaSpain_EN-GB4312074959_UHD.jpg
+[23:55:19] Picture infomations saved to  global/en-GB/README.md
+[23:55:19] Picture infomations saved to global/en-GB/history/2026/11/10_en-GB.md
+[23:55:19] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-11-10 00:55:19.573541+01:00
+[23:55:19] Successful get url: https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_UHD.jpg
+[23:55:20] Picture infomations saved to  global/it-IT/README.md
+[23:55:20] Picture infomations saved to global/it-IT/history/2026/11/10_it-IT.md
+[23:55:20] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-11-10 00:55:20.160339+01:00
+[23:55:20] Successful get url: https://www.bing.com/th?id=OHR.RoseIsland_ES-ES2836865726_UHD.jpg
+[23:55:20] Picture infomations saved to  global/es-ES/README.md
+[23:55:20] Picture infomations saved to global/es-ES/history/2026/11/10_es-ES.md
+[23:55:20] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-11-09 18:55:20.564258-05:00
+[23:55:20] Successful get url: https://www.bing.com/th?id=OHR.TrianaSpain_FR-CA2924730216_UHD.jpg
+[23:55:20] Picture infomations saved to  global/fr-CA/README.md
+[23:55:20] Picture infomations saved to global/fr-CA/history/2026/11/10_fr-CA.md
+Program exit at 23:55:20

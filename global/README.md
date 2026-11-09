@@ -21,14 +21,14 @@
 ||*Copyright: Bairro histórico de Triana, Sevilha, Espanha (© Andrzej Rostek/Getty Images)*
 ||
 |||
-|2026-11-09|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TrianaSpain_FR-FR5872801405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrianaSpain_FR-FR5872801405_UHD.jpg)|
-||*Copyright: Quartier historique de Triana, Séville, Espagne (© Andrzej Rostek/Getty Images)*
+|2026-11-10|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.RoseIsland_FR-FR0867516842_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RoseIsland_FR-FR0867516842_UHD.jpg)|
+||*Copyright: Vue aérienne de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)*
 ||
 |||
-|2026-11-09|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_UHD.jpg)|
-||*Copyright: Schüler spähen durch einen Spalt in einem noch erhaltenen Abschnitt der Berliner Mauer (© Sean Gallup/Getty Images)*
+|2026-11-10|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963_UHD.jpg)|
+||*Copyright: Luftaufnahme von Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)*
 ||
 |||
 |2026-11-10|**Region: en-CA**||
@@ -41,14 +41,14 @@
 ||*Copyright: Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)*
 ||
 |||
-|2026-11-09|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TrianaSpain_IT-IT6419651277_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrianaSpain_IT-IT6419651277_UHD.jpg)|
-||*Copyright: Quartiere storico di Triana, Siviglia, Spagna (© Andrzej Rostek/Getty Images)*
+|2026-11-10|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_UHD.jpg)|
+||*Copyright: Vista aerea di Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)*
 ||
 |||
-|2026-11-09|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TrianaSpain_ES-ES2622392783_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrianaSpain_ES-ES2622392783_UHD.jpg)|
-||*Copyright: Distrito histórico de Triana, Sevilla, España (© Andrzej Rostek/Getty Images)*
+|2026-11-10|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.RoseIsland_ES-ES2836865726_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RoseIsland_ES-ES2836865726_UHD.jpg)|
+||*Copyright: Vista aérea de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)*
 ||
 |||
 |2026-11-10|**Region: fr-CA**||
