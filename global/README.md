@@ -11,9 +11,9 @@
 ||*Copyright: 大西洋岸森林、ブラジル (© FG Trade/Getty Images)*
 ||
 |||
-|2026-11-10|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RoseIsland_EN-IN1259562642_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RoseIsland_EN-IN1259562642_UHD.jpg)|
-||*Copyright: Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)*
+|2026-11-11|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.Atlantica_EN-IN3149189379_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Atlantica_EN-IN3149189379_UHD.jpg)|
+||*Copyright: The Atlantic Forest, Brazil (© FG Trade/Getty Images)*
 ||
 |||
 |2026-11-11|**Region: pt-BR**||
