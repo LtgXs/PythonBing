@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-10
-![](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_UHD.jpg&w=1000)Download: [ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_UHD.jpg)
+Update: 2026-11-11
+![](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_UHD.jpg&w=1000)Download: [大西洋岸森林、ブラジル (© FG Trade/Getty Images)](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_UHD.jpg)
 
 Auto get programm by LtgX

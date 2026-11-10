@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-11-10|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg)|
-||*Copyright: Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)*
+|2026-11-11|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg)|
+||*Copyright: Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)*
 ||
 |||
-|2026-11-10|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_UHD.jpg)|
-||*Copyright: ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images)*
+|2026-11-11|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_UHD.jpg)|
+||*Copyright: 大西洋岸森林、ブラジル (© FG Trade/Getty Images)*
 ||
 |||
 |2026-11-10|**Region: en-IN**||
@@ -16,9 +16,9 @@
 ||*Copyright: Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)*
 ||
 |||
-|2026-11-10|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TrianaSpain_PT-BR8294912902_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrianaSpain_PT-BR8294912902_UHD.jpg)|
-||*Copyright: Bairro histórico de Triana, Sevilha, Espanha (© Andrzej Rostek/Getty Images)*
+|2026-11-11|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.RoseIsland_PT-BR8484348763_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RoseIsland_PT-BR8484348763_UHD.jpg)|
+||*Copyright: Vista aérea de Rose Island, nas Bahamas (© Abstract Aerial Art/Getty Images)*
 ||
 |||
 |2026-11-10|**Region: fr-FR**||
@@ -31,14 +31,14 @@
 ||*Copyright: Luftaufnahme von Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)*
 ||
 |||
-|2026-11-10|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_UHD.jpg)|
-||*Copyright: Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)*
+|2026-11-11|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_UHD.jpg)|
+||*Copyright: Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)*
 ||
 |||
-|2026-11-10|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TrianaSpain_EN-GB4312074959_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrianaSpain_EN-GB4312074959_UHD.jpg)|
-||*Copyright: Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)*
+|2026-11-11|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.RoseIsland_EN-GB4222638797_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RoseIsland_EN-GB4222638797_UHD.jpg)|
+||*Copyright: Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)*
 ||
 |||
 |2026-11-10|**Region: it-IT**||
@@ -51,9 +51,9 @@
 ||*Copyright: Vista aérea de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)*
 ||
 |||
-|2026-11-10|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TrianaSpain_FR-CA2924730216_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrianaSpain_FR-CA2924730216_UHD.jpg)|
-||*Copyright: Quartier historique de Triana, Séville, Espagne (© Andrzej Rostek/Getty Images)*
+|2026-11-11|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.RoseIsland_FR-CA3401287918_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RoseIsland_FR-CA3401287918_UHD.jpg)|
+||*Copyright: Vue aérienne de Rose Island, aux Bahamas (© Abstract Aerial Art/Getty Images)*
 ||
 |||
 

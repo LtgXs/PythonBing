@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-10
-![](https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg&w=1000)Download: [玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg)
+Update: 2026-11-11
+![](https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg&w=1000)Download: [大西洋森林，巴西 (© FG Trade/Getty Images)](https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg)
 
 Auto get programm by LtgX

@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-10
-![](https://www.bing.com/th?id=OHR.TrianaSpain_FR-CA2924730216_UHD.jpg&w=1000)Download: [Quartier historique de Triana, Séville, Espagne (© Andrzej Rostek/Getty Images)](https://www.bing.com/th?id=OHR.TrianaSpain_FR-CA2924730216_UHD.jpg)
+Update: 2026-11-11
+![](https://www.bing.com/th?id=OHR.RoseIsland_FR-CA3401287918_UHD.jpg&w=1000)Download: [Vue aérienne de Rose Island, aux Bahamas (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.RoseIsland_FR-CA3401287918_UHD.jpg)
 
 Auto get programm by LtgX
