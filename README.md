@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-11
-![](https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg&w=1000)Download: [大西洋森林，巴西 (© FG Trade/Getty Images)](https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg)
+Update: 2026-11-12
+![](https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg&w=1000)Download: [北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)](https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg)
 
 Auto get programm by LtgX

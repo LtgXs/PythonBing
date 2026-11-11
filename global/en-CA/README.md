@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-11
-![](https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_UHD.jpg&w=1000)Download: [Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_UHD.jpg)
+Update: 2026-11-12
+![](https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_UHD.jpg&w=1000)Download: [The Atlantic Forest, Brazil (© FG Trade/Getty Images)](https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_UHD.jpg)
 
 Auto get programm by LtgX

@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-10
-![](https://www.bing.com/th?id=OHR.RoseIsland_FR-FR0867516842_UHD.jpg&w=1000)Download: [Vue aérienne de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.RoseIsland_FR-FR0867516842_UHD.jpg)
+Update: 2026-11-11
+![](https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_UHD.jpg&w=1000)Download: [Arc de Triomphe, Paris, France (© Beboy_ltd/Getty Images)](https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_UHD.jpg)
 
 Auto get programm by LtgX
