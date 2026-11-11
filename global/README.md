@@ -11,9 +11,9 @@
 ||*Copyright: ノース・ウィンドウ、アーチーズ国立公園、モアブ、ユタ州、アメリカ (© lightphoto/Getty Images)*
 ||
 |||
-|2026-11-11|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Atlantica_EN-IN3149189379_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Atlantica_EN-IN3149189379_UHD.jpg)|
-||*Copyright: The Atlantic Forest, Brazil (© FG Trade/Getty Images)*
+|2026-11-12|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.NorthWindow_EN-IN3919602543_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthWindow_EN-IN3919602543_UHD.jpg)|
+||*Copyright: North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images)*
 ||
 |||
 |2026-11-12|**Region: pt-BR**||
