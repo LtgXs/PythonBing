@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-11
-![](https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_UHD.jpg&w=1000)Download: [Arc de Triomphe, Paris, France (© Beboy_ltd/Getty Images)](https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_UHD.jpg)
+Update: 2026-11-12
+![](https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_UHD.jpg&w=1000)Download: [North Window, parc national des Arches, Moab, Utah, États-Unis (© lightphoto/Getty Images)](https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_UHD.jpg)
 
 Auto get programm by LtgX
