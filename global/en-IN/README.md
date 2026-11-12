@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-12
-![](https://www.bing.com/th?id=OHR.NorthWindow_EN-IN3919602543_UHD.jpg&w=1000)Download: [North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images)](https://www.bing.com/th?id=OHR.NorthWindow_EN-IN3919602543_UHD.jpg)
+Update: 2026-11-13
+![](https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_UHD.jpg&w=1000)Download: [Sunset over the Damodar River during Chhath Puja (© ParthapratimMukherjee2056/Shutterstock)](https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_UHD.jpg)
 
 Auto get programm by LtgX

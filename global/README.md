@@ -11,9 +11,9 @@
 ||*Copyright: アブラハム湖、アルバータ州、カナダ (© Guang Cao/Getty Images)*
 ||
 |||
-|2026-11-12|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.NorthWindow_EN-IN3919602543_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.NorthWindow_EN-IN3919602543_UHD.jpg)|
-||*Copyright: North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images)*
+|2026-11-13|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_UHD.jpg)|
+||*Copyright: Sunset over the Damodar River during Chhath Puja (© ParthapratimMukherjee2056/Shutterstock)*
 ||
 |||
 |2026-11-13|**Region: pt-BR**||
