@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-12
-![](https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_UHD.jpg&w=1000)Download: [North Window, Arches-Nationalpark, Moab, Utah, USA (© lightphoto/Getty Images)](https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_UHD.jpg)
+Update: 2026-11-13
+![](https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043_UHD.jpg&w=1000)Download: [Abraham Lake in Alberta, Kanada (© Guang Cao/Getty Images)](https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043_UHD.jpg)
 
 Auto get programm by LtgX
