@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-13
-![](https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_UHD.jpg&w=1000)Download: [Sunset over the Damodar River during Chhath Puja (© ParthapratimMukherjee2056/Shutterstock)](https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_UHD.jpg)
+Update: 2026-11-14
+![](https://www.bing.com/th?id=OHR.BlueHK_EN-IN1948913499_UHD.jpg&w=1000)Download: [Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.BlueHK_EN-IN1948913499_UHD.jpg)
 
 Auto get programm by LtgX

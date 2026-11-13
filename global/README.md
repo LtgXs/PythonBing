@@ -11,9 +11,9 @@
 ||*Copyright: ビクトリア・ハーバー、香港、中国 (© Juan Romero/Cavan Images)*
 ||
 |||
-|2026-11-13|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_UHD.jpg)|
-||*Copyright: Sunset over the Damodar River during Chhath Puja (© ParthapratimMukherjee2056/Shutterstock)*
+|2026-11-14|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.BlueHK_EN-IN1948913499_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BlueHK_EN-IN1948913499_UHD.jpg)|
+||*Copyright: Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)*
 ||
 |||
 |2026-11-14|**Region: pt-BR**||
