@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-14
-![](https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg&w=1000)Download: [中国香港维多利亚港 (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg)
+Update: 2026-11-15
+![](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg&w=1000)Download: [覆霜的红叶杜鹃 (© avoferten/Shutterstock)](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg)
 
 Auto get programm by LtgX
