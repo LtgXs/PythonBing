@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-13
-![](https://www.bing.com/th?id=OHR.AbrahamCanada_ES-ES6587136379_UHD.jpg&w=1000)Download: [Hielo en el lago Abraham, Alberta, Canadá (© Guang Cao/Getty Images)](https://www.bing.com/th?id=OHR.AbrahamCanada_ES-ES6587136379_UHD.jpg)
+Update: 2026-11-14
+![](https://www.bing.com/th?id=OHR.BlueHK_ES-ES3038554146_UHD.jpg&w=1000)Download: [Puerto Victoria, Hong Kong, China (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.BlueHK_ES-ES3038554146_UHD.jpg)
 
 Auto get programm by LtgX

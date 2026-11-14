@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-13
-![](https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_UHD.jpg&w=1000)Download: [Lac Abraham, Alberta, Canada (© Guang Cao/Getty Images)](https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_UHD.jpg)
+Update: 2026-11-14
+![](https://www.bing.com/th?id=OHR.BlueHK_FR-FR2342913478_UHD.jpg&w=1000)Download: [Port Victoria, Hong Kong, Chine (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.BlueHK_FR-FR2342913478_UHD.jpg)
 
 Auto get programm by LtgX
