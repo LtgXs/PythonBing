@@ -11,9 +11,9 @@
 ||*Copyright: ヒラ・クリフ・ドウェリングス国定記念物、ニューメキシコ州、アメリカ (© Chiara Salvadori/Getty Images)*
 ||
 |||
-|2026-11-15|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.FirstFrost_EN-IN2174706343_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FirstFrost_EN-IN2174706343_UHD.jpg)|
-||*Copyright: Frozen azalea with red leaves (© avoferten/Shutterstock)*
+|2026-11-16|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.GilaCliff_EN-IN2285530087_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_EN-IN2285530087_UHD.jpg)|
+||*Copyright: Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)*
 ||
 |||
 |2026-11-16|**Region: pt-BR**||
