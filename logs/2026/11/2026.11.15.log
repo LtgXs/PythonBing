@@ -1,0 +1,60 @@
+
+Program started at 16:17:40
+Operating System Name: Linux
+Operating System Version: #20-Ubuntu SMP PREEMPT Mon Oct 19 22:41:16 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmccnms
+Processor Type: 
+Python Version: 3.12.16
+Python Interpreter Name: CPython
+[16:17:40] Start geting CN Bing Wallpaper
+[16:17:40] Successful get url: https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg
+[16:17:40] Image saved to img/background.jpg
+[16:17:40] Info saved to README.md
+[16:17:40] Image saved to history/2026/11/16.md
+[16:17:40] Start geting global Bing Wallpaper, region=en-US, local time is 2026-11-15 11:17:40.713365-05:00
+[16:17:40] Successful get url: https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg
+[16:17:41] Picture infomations saved to  global/en-US/README.md
+[16:17:41] Picture infomations saved to global/en-US/history/2026/11/16_en-US.md
+[16:17:41] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-11-16 01:17:41.151559+09:00
+[16:17:41] Successful get url: https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_UHD.jpg
+[16:17:41] Picture infomations saved to  global/ja-JP/README.md
+[16:17:41] Picture infomations saved to global/ja-JP/history/2026/11/16_ja-JP.md
+[16:17:41] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-11-15 21:47:41.426665+05:30
+[16:17:41] Successful get url: https://www.bing.com/th?id=OHR.FirstFrost_EN-IN2174706343_UHD.jpg
+[16:17:41] Picture infomations saved to  global/en-IN/README.md
+[16:17:41] Picture infomations saved to global/en-IN/history/2026/11/15_en-IN.md
+[16:17:41] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-11-15 13:17:41.665299-03:00
+[16:17:41] Successful get url: https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_UHD.jpg
+[16:17:41] Picture infomations saved to  global/pt-BR/README.md
+[16:17:41] Picture infomations saved to global/pt-BR/history/2026/11/16_pt-BR.md
+[16:17:41] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-11-15 17:17:41.983078+01:00
+[16:17:42] Successful get url: https://www.bing.com/th?id=OHR.FirstFrost_FR-FR6372552822_UHD.jpg
+[16:17:42] Picture infomations saved to  global/fr-FR/README.md
+[16:17:42] Picture infomations saved to global/fr-FR/history/2026/11/15_fr-FR.md
+[16:17:42] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-11-15 17:17:42.219259+01:00
+[16:17:42] Successful get url: https://www.bing.com/th?id=OHR.FirstFrost_DE-DE6574553682_UHD.jpg
+[16:17:42] Picture infomations saved to  global/de-DE/README.md
+[16:17:42] Picture infomations saved to global/de-DE/history/2026/11/15_de-DE.md
+[16:17:42] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-11-15 11:17:42.649475-05:00
+[16:17:42] Successful get url: https://www.bing.com/th?id=OHR.FirstFrost_EN-CA1501787869_UHD.jpg
+[16:17:43] Picture infomations saved to  global/en-CA/README.md
+[16:17:43] Picture infomations saved to global/en-CA/history/2026/11/16_en-CA.md
+[16:17:43] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-11-15 16:17:43.508062+00:00
+[16:17:43] Successful get url: https://www.bing.com/th?id=OHR.FirstFrost_EN-GB4338987849_UHD.jpg
+[16:17:44] Picture infomations saved to  global/en-GB/README.md
+[16:17:44] Picture infomations saved to global/en-GB/history/2026/11/16_en-GB.md
+[16:17:44] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-11-15 17:17:44.047498+01:00
+[16:17:44] Successful get url: https://www.bing.com/th?id=OHR.FirstFrost_IT-IT9068405965_UHD.jpg
+[16:17:44] Picture infomations saved to  global/it-IT/README.md
+[16:17:44] Picture infomations saved to global/it-IT/history/2026/11/15_it-IT.md
+[16:17:44] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-11-15 17:17:44.381262+01:00
+[16:17:44] Successful get url: https://www.bing.com/th?id=OHR.FirstFrost_ES-ES3306321438_UHD.jpg
+[16:17:44] Picture infomations saved to  global/es-ES/README.md
+[16:17:44] Picture infomations saved to global/es-ES/history/2026/11/15_es-ES.md
+[16:17:44] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-11-15 11:17:44.621355-05:00
+[16:17:44] Successful get url: https://www.bing.com/th?id=OHR.FirstFrost_FR-CA9228513518_UHD.jpg
+[16:17:44] Picture infomations saved to  global/fr-CA/README.md
+[16:17:44] Picture infomations saved to global/fr-CA/history/2026/11/16_fr-CA.md
+Program exit at 16:17:44

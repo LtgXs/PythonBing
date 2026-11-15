@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-15
-![](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg&w=1000)Download: [覆霜的红叶杜鹃 (© avoferten/Shutterstock)](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg)
+Update: 2026-11-16
+![](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg&w=1000)Download: [美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg)
 
 Auto get programm by LtgX

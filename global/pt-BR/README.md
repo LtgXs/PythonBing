@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-15
-![](https://www.bing.com/th?id=OHR.BlueHK_PT-BR4557088394_UHD.jpg&w=1000)Download: [Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.BlueHK_PT-BR4557088394_UHD.jpg)
+Update: 2026-11-16
+![](https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_UHD.jpg&w=1000)Download: [Azaleia congelada com folhas vermelhas (© avoferten/Shutterstock)](https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_UHD.jpg)
 
 Auto get programm by LtgX
