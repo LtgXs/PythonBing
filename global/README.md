@@ -21,14 +21,14 @@
 ||*Copyright: Monumento Nacional Gila Cliff Dwellings, Novo México, EUA (© Chiara Salvadori/Getty Images)*
 ||
 |||
-|2026-11-16|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.GilaCliff_FR-FR9544531277_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_FR-FR9544531277_UHD.jpg)|
-||*Copyright: Habitations troglodytes de Gila, Nouveau-Mexique, États-Unis (© Chiara Salvadori/Getty Images)*
+|2026-11-17|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_UHD.jpg)|
+||*Copyright: Sentier des cèdres, parc national de Glacier, Montana, États-Unis (© DBushue Photography/Getty Images)*
 ||
 |||
-|2026-11-16|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.GilaCliff_DE-DE8866174254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_DE-DE8866174254_UHD.jpg)|
-||*Copyright: Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)*
+|2026-11-17|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.TrailCedars_DE-DE2756657002_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_DE-DE2756657002_UHD.jpg)|
+||*Copyright: Trail of the Cedars, Glacier-Nationalpark, Montana, USA (© DBushue Photography/Getty Images)*
 ||
 |||
 |2026-11-17|**Region: en-CA**||
@@ -41,14 +41,14 @@
 ||*Copyright: Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)*
 ||
 |||
-|2026-11-16|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.GilaCliff_IT-IT4703679044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_IT-IT4703679044_UHD.jpg)|
-||*Copyright: Gila Cliff Dwellings National Monument, Nuovo Messico, USA (© Chiara Salvadori/Getty Images)*
+|2026-11-17|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.TrailCedars_IT-IT4677653640_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_IT-IT4677653640_UHD.jpg)|
+||*Copyright: Trail of the Cedars, Parco Nazionale dei Ghiacciai, Montana, USA (© DBushue Photography/Getty Images)*
 ||
 |||
-|2026-11-16|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595_UHD.jpg)|
-||*Copyright: Monumento de las Viviendas en los Acantilados de Gila (© Chiara Salvadori/Getty Images)*
+|2026-11-17|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.TrailCedars_ES-ES7366091421_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_ES-ES7366091421_UHD.jpg)|
+||*Copyright: Sendero de los Cedros, Montana, EE. UU. (© DBushue Photography/Getty Images)*
 ||
 |||
 |2026-11-17|**Region: fr-CA**||
