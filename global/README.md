@@ -1,59 +1,59 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-11-16|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg)|
-||*Copyright: Frozen azalea with red leaves (© avoferten/Shutterstock)*
+|2026-11-17|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg)|
+||*Copyright: Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)*
 ||
 |||
-|2026-11-16|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_UHD.jpg)|
-||*Copyright: ヒラ・クリフ・ドウェリングス国定記念物、ニューメキシコ州、アメリカ (© Chiara Salvadori/Getty Images)*
+|2026-11-17|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_UHD.jpg)|
+||*Copyright: トレイル・オブ・ザ・シーダーズ、グレイシャー国立公園、モンタナ州、アメリカ (© DBushue Photography/Getty Images)*
 ||
 |||
-|2026-11-16|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.GilaCliff_EN-IN2285530087_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_EN-IN2285530087_UHD.jpg)|
+|2026-11-17|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.TrailCedars_EN-IN2433074172_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_EN-IN2433074172_UHD.jpg)|
+||*Copyright: Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)*
+||
+|||
+|2026-11-17|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.GilaCliff_PT-BR7125417411_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_PT-BR7125417411_UHD.jpg)|
+||*Copyright: Monumento Nacional Gila Cliff Dwellings, Novo México, EUA (© Chiara Salvadori/Getty Images)*
+||
+|||
+|2026-11-16|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.GilaCliff_FR-FR9544531277_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_FR-FR9544531277_UHD.jpg)|
+||*Copyright: Habitations troglodytes de Gila, Nouveau-Mexique, États-Unis (© Chiara Salvadori/Getty Images)*
+||
+|||
+|2026-11-16|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.GilaCliff_DE-DE8866174254_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_DE-DE8866174254_UHD.jpg)|
 ||*Copyright: Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)*
 ||
 |||
-|2026-11-16|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_UHD.jpg)|
-||*Copyright: Azaleia congelada com folhas vermelhas (© avoferten/Shutterstock)*
+|2026-11-17|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.GilaCliff_EN-CA1952203135_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_EN-CA1952203135_UHD.jpg)|
+||*Copyright: Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)*
 ||
 |||
-|2026-11-15|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FirstFrost_FR-FR6372552822_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FirstFrost_FR-FR6372552822_UHD.jpg)|
-||*Copyright: Azalée gelée aux feuilles rouges (© avoferten/Shutterstock)*
+|2026-11-17|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.GilaCliff_EN-GB1863069273_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_EN-GB1863069273_UHD.jpg)|
+||*Copyright: Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)*
 ||
 |||
-|2026-11-15|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FirstFrost_DE-DE6574553682_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FirstFrost_DE-DE6574553682_UHD.jpg)|
-||*Copyright: Gefrorene Azalee mit roten Blättern (© avoferten/Shutterstock)*
+|2026-11-16|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.GilaCliff_IT-IT4703679044_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_IT-IT4703679044_UHD.jpg)|
+||*Copyright: Gila Cliff Dwellings National Monument, Nuovo Messico, USA (© Chiara Salvadori/Getty Images)*
 ||
 |||
-|2026-11-16|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FirstFrost_EN-CA1501787869_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FirstFrost_EN-CA1501787869_UHD.jpg)|
-||*Copyright: Frozen azalea with red leaves (© avoferten/Shutterstock)*
+|2026-11-16|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595_UHD.jpg)|
+||*Copyright: Monumento de las Viviendas en los Acantilados de Gila (© Chiara Salvadori/Getty Images)*
 ||
 |||
-|2026-11-16|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FirstFrost_EN-GB4338987849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FirstFrost_EN-GB4338987849_UHD.jpg)|
-||*Copyright: Frozen azalea with red leaves (© avoferten/Shutterstock)*
-||
-|||
-|2026-11-15|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FirstFrost_IT-IT9068405965_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FirstFrost_IT-IT9068405965_UHD.jpg)|
-||*Copyright: Azalea rossa ricoperta di brina (© avoferten/Shutterstock)*
-||
-|||
-|2026-11-15|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FirstFrost_ES-ES3306321438_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FirstFrost_ES-ES3306321438_UHD.jpg)|
-||*Copyright: Escarcha sobre hojas de azalea (© avoferten/Shutterstock)*
-||
-|||
-|2026-11-16|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FirstFrost_FR-CA9228513518_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FirstFrost_FR-CA9228513518_UHD.jpg)|
-||*Copyright: Azalée gelée aux feuilles rouges (© avoferten/Shutterstock)*
+|2026-11-17|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.GilaCliff_FR-CA9862789282_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.GilaCliff_FR-CA9862789282_UHD.jpg)|
+||*Copyright: Monument national des habitations troglodytiques de Gila, Nouveau-Mexique, États-Unis (© Chiara Salvadori/Getty Images)*
 ||
 |||
 

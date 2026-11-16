@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-16
-![](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg&w=1000)Download: [美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg)
+Update: 2026-11-17
+![](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg&w=1000)Download: [雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg)
 
 Auto get programm by LtgX

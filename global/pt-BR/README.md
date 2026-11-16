@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-16
-![](https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_UHD.jpg&w=1000)Download: [Azaleia congelada com folhas vermelhas (© avoferten/Shutterstock)](https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_UHD.jpg)
+Update: 2026-11-17
+![](https://www.bing.com/th?id=OHR.GilaCliff_PT-BR7125417411_UHD.jpg&w=1000)Download: [Monumento Nacional Gila Cliff Dwellings, Novo México, EUA (© Chiara Salvadori/Getty Images)](https://www.bing.com/th?id=OHR.GilaCliff_PT-BR7125417411_UHD.jpg)
 
 Auto get programm by LtgX

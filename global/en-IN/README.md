@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-16
-![](https://www.bing.com/th?id=OHR.GilaCliff_EN-IN2285530087_UHD.jpg&w=1000)Download: [Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)](https://www.bing.com/th?id=OHR.GilaCliff_EN-IN2285530087_UHD.jpg)
+Update: 2026-11-17
+![](https://www.bing.com/th?id=OHR.TrailCedars_EN-IN2433074172_UHD.jpg&w=1000)Download: [Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)](https://www.bing.com/th?id=OHR.TrailCedars_EN-IN2433074172_UHD.jpg)
 
 Auto get programm by LtgX

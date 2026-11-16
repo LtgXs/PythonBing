@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-16
-![](https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_UHD.jpg&w=1000)Download: [ヒラ・クリフ・ドウェリングス国定記念物、ニューメキシコ州、アメリカ (© Chiara Salvadori/Getty Images)](https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_UHD.jpg)
+Update: 2026-11-17
+![](https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_UHD.jpg&w=1000)Download: [トレイル・オブ・ザ・シーダーズ、グレイシャー国立公園、モンタナ州、アメリカ (© DBushue Photography/Getty Images)](https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_UHD.jpg)
 
 Auto get programm by LtgX
