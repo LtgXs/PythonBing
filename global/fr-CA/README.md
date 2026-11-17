@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-17
-![](https://www.bing.com/th?id=OHR.GilaCliff_FR-CA9862789282_UHD.jpg&w=1000)Download: [Monument national des habitations troglodytiques de Gila, Nouveau-Mexique, États-Unis (© Chiara Salvadori/Getty Images)](https://www.bing.com/th?id=OHR.GilaCliff_FR-CA9862789282_UHD.jpg)
+Update: 2026-11-18
+![](https://www.bing.com/th?id=OHR.TrailCedars_FR-CA4561759863_UHD.jpg&w=1000)Download: [Sentier des Cèdres, parc national des Glaciers, Montana, États-Unis (© DBushue Photography/Getty Images)](https://www.bing.com/th?id=OHR.TrailCedars_FR-CA4561759863_UHD.jpg)
 
 Auto get programm by LtgX
