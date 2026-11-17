@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [18:30:24] Picture infomations saved to  global/fr-CA/README.md
 [18:30:24] Picture infomations saved to global/fr-CA/history/2026/11/18_fr-CA.md
 Program exit at 18:30:24
+
+Program started at 23:15:47
+Operating System Name: Linux
+Operating System Version: #20-Ubuntu SMP PREEMPT Mon Oct 19 22:41:16 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervmccnms
+Processor Type: 
+Python Version: 3.12.16
+Python Interpreter Name: CPython
+[23:15:47] Start geting CN Bing Wallpaper
+[23:15:47] Successful get url: https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg
+[23:15:47] Image saved to img/background.jpg
+[23:15:47] Info saved to README.md
+[23:15:47] Image saved to history/2026/11/18.md
+[23:15:47] Start geting global Bing Wallpaper, region=en-US, local time is 2026-11-17 18:15:47.806214-05:00
+[23:15:47] Successful get url: https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg
+[23:15:48] Picture infomations saved to  global/en-US/README.md
+[23:15:48] Picture infomations saved to global/en-US/history/2026/11/18_en-US.md
+[23:15:48] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-11-18 08:15:48.039044+09:00
+[23:15:48] Successful get url: https://www.bing.com/th?id=OHR.BarnOwlsUnite_JA-JP5990292316_UHD.jpg
+[23:15:48] Picture infomations saved to  global/ja-JP/README.md
+[23:15:48] Picture infomations saved to global/ja-JP/history/2026/11/18_ja-JP.md
+[23:15:48] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-11-18 04:45:48.200606+05:30
+[23:15:48] Successful get url: https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-IN2617869555_UHD.jpg
+[23:15:48] Picture infomations saved to  global/en-IN/README.md
+[23:15:48] Picture infomations saved to global/en-IN/history/2026/11/18_en-IN.md
+[23:15:48] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-11-17 20:15:48.406847-03:00
+[23:15:48] Successful get url: https://www.bing.com/th?id=OHR.TrailCedars_PT-BR3104230051_UHD.jpg
+[23:15:48] Picture infomations saved to  global/pt-BR/README.md
+[23:15:48] Picture infomations saved to global/pt-BR/history/2026/11/18_pt-BR.md
+[23:15:48] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-11-18 00:15:48.581480+01:00
+[23:15:48] Successful get url: https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg
+[23:15:48] Picture infomations saved to  global/fr-FR/README.md
+[23:15:48] Picture infomations saved to global/fr-FR/history/2026/11/18_fr-FR.md
+[23:15:48] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-11-18 00:15:48.719602+01:00
+[23:15:48] Successful get url: https://www.bing.com/th?id=OHR.BarnOwlsUnite_DE-DE3292837255_UHD.jpg
+[23:15:48] Picture infomations saved to  global/de-DE/README.md
+[23:15:48] Picture infomations saved to global/de-DE/history/2026/11/18_de-DE.md
+[23:15:48] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-11-17 18:15:48.904902-05:00
+[23:15:48] Successful get url: https://www.bing.com/th?id=OHR.TrailCedars_EN-CA2369458166_UHD.jpg
+[23:15:49] Picture infomations saved to  global/en-CA/README.md
+[23:15:49] Picture infomations saved to global/en-CA/history/2026/11/18_en-CA.md
+[23:15:49] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-11-17 23:15:49.036022+00:00
+[23:15:49] Successful get url: https://www.bing.com/th?id=OHR.TrailCedars_EN-GB2504891943_UHD.jpg
+[23:15:49] Picture infomations saved to  global/en-GB/README.md
+[23:15:49] Picture infomations saved to global/en-GB/history/2026/11/18_en-GB.md
+[23:15:49] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-11-18 00:15:49.185732+01:00
+[23:15:49] Successful get url: https://www.bing.com/th?id=OHR.BarnOwlsUnite_IT-IT5941580476_UHD.jpg
+[23:15:49] Picture infomations saved to  global/it-IT/README.md
+[23:15:49] Picture infomations saved to global/it-IT/history/2026/11/18_it-IT.md
+[23:15:49] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-11-18 00:15:49.431913+01:00
+[23:15:49] Successful get url: https://www.bing.com/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_UHD.jpg
+[23:15:49] Picture infomations saved to  global/es-ES/README.md
+[23:15:49] Picture infomations saved to global/es-ES/history/2026/11/18_es-ES.md
+[23:15:49] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-11-17 18:15:49.559040-05:00
+[23:15:49] Successful get url: https://www.bing.com/th?id=OHR.TrailCedars_FR-CA4561759863_UHD.jpg
+[23:15:49] Picture infomations saved to  global/fr-CA/README.md
+[23:15:49] Picture infomations saved to global/fr-CA/history/2026/11/18_fr-CA.md
+Program exit at 23:15:49

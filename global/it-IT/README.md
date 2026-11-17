@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-17
-![](https://www.bing.com/th?id=OHR.TrailCedars_IT-IT4677653640_UHD.jpg&w=1000)Download: [Trail of the Cedars, Parco Nazionale dei Ghiacciai, Montana, USA (© DBushue Photography/Getty Images)](https://www.bing.com/th?id=OHR.TrailCedars_IT-IT4677653640_UHD.jpg)
+Update: 2026-11-18
+![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_IT-IT5941580476_UHD.jpg&w=1000)Download: [Una coppia di barbagianni (© Zahoor Salmi/Getty Images)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_IT-IT5941580476_UHD.jpg)
 
 Auto get programm by LtgX

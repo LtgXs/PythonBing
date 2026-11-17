@@ -21,14 +21,14 @@
 ||*Copyright: Trilha dos Cedros, Parque Nacional Glacier, Montana, EUA  (© DBushue Photography/Getty Images)*
 ||
 |||
-|2026-11-17|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_UHD.jpg)|
-||*Copyright: Sentier des cèdres, parc national de Glacier, Montana, États-Unis (© DBushue Photography/Getty Images)*
+|2026-11-18|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg)|
+||*Copyright: Couple de chouettes effraies  (© Zahoor Salmi/Getty Images)*
 ||
 |||
-|2026-11-17|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.TrailCedars_DE-DE2756657002_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_DE-DE2756657002_UHD.jpg)|
-||*Copyright: Trail of the Cedars, Glacier-Nationalpark, Montana, USA (© DBushue Photography/Getty Images)*
+|2026-11-18|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_DE-DE3292837255_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarnOwlsUnite_DE-DE3292837255_UHD.jpg)|
+||*Copyright: Ein Schleiereulenpaar (© Zahoor Salmi/Getty Images)*
 ||
 |||
 |2026-11-18|**Region: en-CA**||
@@ -41,14 +41,14 @@
 ||*Copyright: Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)*
 ||
 |||
-|2026-11-17|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.TrailCedars_IT-IT4677653640_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_IT-IT4677653640_UHD.jpg)|
-||*Copyright: Trail of the Cedars, Parco Nazionale dei Ghiacciai, Montana, USA (© DBushue Photography/Getty Images)*
+|2026-11-18|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_IT-IT5941580476_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarnOwlsUnite_IT-IT5941580476_UHD.jpg)|
+||*Copyright: Una coppia di barbagianni (© Zahoor Salmi/Getty Images)*
 ||
 |||
-|2026-11-17|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.TrailCedars_ES-ES7366091421_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_ES-ES7366091421_UHD.jpg)|
-||*Copyright: Sendero de los Cedros, Montana, EE. UU. (© DBushue Photography/Getty Images)*
+|2026-11-18|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_UHD.jpg)|
+||*Copyright: Una pareja de lechuzas al anochecer (© Zahoor Salmi/Getty Images)*
 ||
 |||
 |2026-11-18|**Region: fr-CA**||
