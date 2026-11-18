@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-11-18|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg)|
-||*Copyright: Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)*
+|2026-11-19|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg)|
+||*Copyright: Pair of barn owls (© Zahoor Salmi/Getty Images)*
 ||
 |||
-|2026-11-18|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_JA-JP5990292316_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarnOwlsUnite_JA-JP5990292316_UHD.jpg)|
-||*Copyright: メンフクロウのつがい (© Zahoor Salmi/Getty Images)*
+|2026-11-19|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_JA-JP6514822082_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KnowledgeSculpture_JA-JP6514822082_UHD.jpg)|
+||*Copyright: ジャウメ・プレンサの彫刻「ボディ・オブ・ノレッジ」、ゲーテ大学、フランクフルト、ドイツ (© Todamo/Shutterstock)*
 ||
 |||
 |2026-11-18|**Region: en-IN**||
@@ -16,9 +16,9 @@
 ||*Copyright: Pair of barn owls (© Zahoor Salmi/Getty Images)*
 ||
 |||
-|2026-11-18|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.TrailCedars_PT-BR3104230051_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_PT-BR3104230051_UHD.jpg)|
-||*Copyright: Trilha dos Cedros, Parque Nacional Glacier, Montana, EUA  (© DBushue Photography/Getty Images)*
+|2026-11-19|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_PT-BR3615870863_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarnOwlsUnite_PT-BR3615870863_UHD.jpg)|
+||*Copyright: Corujas-das-torres  (© Zahoor Salmi/Getty Images)*
 ||
 |||
 |2026-11-18|**Region: fr-FR**||
@@ -31,14 +31,14 @@
 ||*Copyright: Ein Schleiereulenpaar (© Zahoor Salmi/Getty Images)*
 ||
 |||
-|2026-11-18|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.TrailCedars_EN-CA2369458166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_EN-CA2369458166_UHD.jpg)|
-||*Copyright: Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)*
+|2026-11-19|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-CA4667422481_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-CA4667422481_UHD.jpg)|
+||*Copyright: Pair of barn owls (© Zahoor Salmi/Getty Images)*
 ||
 |||
-|2026-11-18|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.TrailCedars_EN-GB2504891943_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_EN-GB2504891943_UHD.jpg)|
-||*Copyright: Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)*
+|2026-11-19|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-GB9873814926_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-GB9873814926_UHD.jpg)|
+||*Copyright: Pair of barn owls (© Zahoor Salmi/Getty Images)*
 ||
 |||
 |2026-11-18|**Region: it-IT**||
@@ -51,9 +51,9 @@
 ||*Copyright: Una pareja de lechuzas al anochecer (© Zahoor Salmi/Getty Images)*
 ||
 |||
-|2026-11-18|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.TrailCedars_FR-CA4561759863_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.TrailCedars_FR-CA4561759863_UHD.jpg)|
-||*Copyright: Sentier des Cèdres, parc national des Glaciers, Montana, États-Unis (© DBushue Photography/Getty Images)*
+|2026-11-19|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-CA0631165427_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-CA0631165427_UHD.jpg)|
+||*Copyright: Couple d’effraies des clochers (© Zahoor Salmi/Getty Images)*
 ||
 |||
 
