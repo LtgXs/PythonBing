@@ -11,9 +11,9 @@
 ||*Copyright: ジャウメ・プレンサの彫刻「ボディ・オブ・ノレッジ」、ゲーテ大学、フランクフルト、ドイツ (© Todamo/Shutterstock)*
 ||
 |||
-|2026-11-18|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-IN2617869555_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-IN2617869555_UHD.jpg)|
-||*Copyright: Pair of barn owls (© Zahoor Salmi/Getty Images)*
+|2026-11-19|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-IN5790560543_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-IN5790560543_UHD.jpg)|
+||*Copyright: The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)*
 ||
 |||
 |2026-11-19|**Region: pt-BR**||
