@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-19
-![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-CA4667422481_UHD.jpg&w=1000)Download: [Pair of barn owls (© Zahoor Salmi/Getty Images)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-CA4667422481_UHD.jpg)
+Update: 2026-11-20
+![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-CA4919138764_UHD.jpg&w=1000)Download: [The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-CA4919138764_UHD.jpg)
 
 Auto get programm by LtgX

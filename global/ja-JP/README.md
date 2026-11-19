@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-19
-![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_JA-JP6514822082_UHD.jpg&w=1000)Download: [ジャウメ・プレンサの彫刻「ボディ・オブ・ノレッジ」、ゲーテ大学、フランクフルト、ドイツ (© Todamo/Shutterstock)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_JA-JP6514822082_UHD.jpg)
+Update: 2026-11-20
+![](https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_UHD.jpg&w=1000)Download: [潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー (© Espen Bergersen/Minden Pictures)](https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_UHD.jpg)
 
 Auto get programm by LtgX
