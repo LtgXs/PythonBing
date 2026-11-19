@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-19
-![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-IN5790560543_UHD.jpg&w=1000)Download: [The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-IN5790560543_UHD.jpg)
+Update: 2026-11-20
+![](https://www.bing.com/th?id=OHR.Megaptera_EN-IN2800635615_UHD.jpg&w=1000)Download: [Diving humpback whale, Kvaløya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)](https://www.bing.com/th?id=OHR.Megaptera_EN-IN2800635615_UHD.jpg)
 
 Auto get programm by LtgX

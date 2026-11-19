@@ -11,9 +11,9 @@
 ||*Copyright: 潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー (© Espen Bergersen/Minden Pictures)*
 ||
 |||
-|2026-11-19|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-IN5790560543_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-IN5790560543_UHD.jpg)|
-||*Copyright: The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)*
+|2026-11-20|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.Megaptera_EN-IN2800635615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_EN-IN2800635615_UHD.jpg)|
+||*Copyright: Diving humpback whale, Kvaløya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)*
 ||
 |||
 |2026-11-20|**Region: pt-BR**||
