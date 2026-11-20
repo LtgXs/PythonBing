@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-20
-![](https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_UHD.jpg&w=1000)Download: [潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー (© Espen Bergersen/Minden Pictures)](https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_UHD.jpg)
+Update: 2026-11-21
+![](https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_UHD.jpg&w=1000)Download: [ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス (© Siripong Kaewla-iad/Getty Images)](https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_UHD.jpg)
 
 Auto get programm by LtgX

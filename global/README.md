@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-11-20|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg)|
-||*Copyright: The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)*
+|2026-11-21|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg)|
+||*Copyright: Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)*
 ||
 |||
-|2026-11-20|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_UHD.jpg)|
-||*Copyright: 潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー (© Espen Bergersen/Minden Pictures)*
+|2026-11-21|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_UHD.jpg)|
+||*Copyright: ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
 |2026-11-20|**Region: en-IN**||
@@ -16,44 +16,44 @@
 ||*Copyright: Diving humpback whale, Kvaløya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)*
 ||
 |||
-|2026-11-20|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_PT-BR4000726900_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KnowledgeSculpture_PT-BR4000726900_UHD.jpg)|
-||*Copyright: Escultura "Body of Knowledge", de Jaume Plensa, na Universidade Goethe em Frankfurt, Alemanha (© Todamo/Shutterstock)*
+|2026-11-21|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.Megaptera_PT-BR4336826763_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_PT-BR4336826763_UHD.jpg)|
+||*Copyright: Baleia-jubarte (Megaptera novaeangliae) mergulhando, Kvaløya, Troms, norte da Noruega (© Espen Bergersen/Minden Pictures)*
 ||
 |||
-|2026-11-19|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_FR-FR2837374405_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KnowledgeSculpture_FR-FR2837374405_UHD.jpg)|
-||*Copyright: "Body of Knowledge" sculpture de Jaume Plensa, Université Goethe de Francfort, Allemagne (© Todamo/Shutterstock)*
+|2026-11-20|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_UHD.jpg)|
+||*Copyright: Baleine à bosse plongeant, Kvaløya, Troms, Norvège (© Espen Bergersen/Minden Pictures)*
 ||
 |||
-|2026-11-19|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_DE-DE3802350761_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KnowledgeSculpture_DE-DE3802350761_UHD.jpg)|
-||*Copyright: Die Skulptur „Body of Knowledge“ von Jaume Plensa an der Goethe-Universität in Frankfurt am Main (© Todamo/Shutterstock)*
+|2026-11-20|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_UHD.jpg)|
+||*Copyright: Tauchender Buckelwal (Megaptera novaeangliae) Kvaloya, Troms, Norwegen (© Espen Bergersen/Minden Pictures)*
 ||
 |||
-|2026-11-20|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-CA4919138764_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-CA4919138764_UHD.jpg)|
-||*Copyright: The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)*
+|2026-11-21|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.Megaptera_EN-CA5111539661_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_EN-CA5111539661_UHD.jpg)|
+||*Copyright: Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)*
 ||
 |||
-|2026-11-20|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-GB1364284090_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-GB1364284090_UHD.jpg)|
-||*Copyright: The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)*
+|2026-11-21|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.Megaptera_EN-GB2786065203_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_EN-GB2786065203_UHD.jpg)|
+||*Copyright: Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)*
 ||
 |||
-|2026-11-19|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_IT-IT1368212298_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KnowledgeSculpture_IT-IT1368212298_UHD.jpg)|
-||*Copyright: "Body of Knowledge", scultura di Jaume Plensa, Università Goethe, Francoforte, Germania (© Todamo/Shutterstock)*
+|2026-11-20|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.Megaptera_IT-IT1232088954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_IT-IT1232088954_UHD.jpg)|
+||*Copyright: Megattera (Megaptera novaeangliae) in immersione, Kvaløya, Troms, Norvegia settentrionale (© Espen Bergersen/Minden Pictures)*
 ||
 |||
-|2026-11-19|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_ES-ES4863914751_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KnowledgeSculpture_ES-ES4863914751_UHD.jpg)|
-||*Copyright: La escultura “El cuerpo del conocimiento”, de Jaume Plensa, en la Universidad de Goethe, en Fráncfort, Alemania (© Todamo/Shutterstock)*
+|2026-11-20|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.Megaptera_ES-ES5370739195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_ES-ES5370739195_UHD.jpg)|
+||*Copyright: Ballena jorobada (Megaptera novaeangliae) sumergiéndose, Kvaløya, Troms, norte de Noruega (© Espen Bergersen/Minden Pictures)*
 ||
 |||
-|2026-11-20|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_FR-CA0844625055_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.KnowledgeSculpture_FR-CA0844625055_UHD.jpg)|
-||*Copyright: La sculpture « Body of Knowledge » de Jaume Plensa à l'université Goethe de Francfort, Allemagne (© Todamo/Shutterstock)*
+|2026-11-21|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.Megaptera_FR-CA7010941954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_FR-CA7010941954_UHD.jpg)|
+||*Copyright: Baleine à bosse (Megaptera novaeangliae) en plongée, Kvaløya, Troms, nord de la Norvège (© Espen Bergersen/Minden Pictures)*
 ||
 |||
 
