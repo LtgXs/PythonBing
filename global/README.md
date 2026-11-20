@@ -11,9 +11,9 @@
 ||*Copyright: ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
-|2026-11-20|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.Megaptera_EN-IN2800635615_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_EN-IN2800635615_UHD.jpg)|
-||*Copyright: Diving humpback whale, Kvaløya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)*
+|2026-11-21|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.RedNice_EN-IN2901720503_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedNice_EN-IN2901720503_UHD.jpg)|
+||*Copyright: Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
 |2026-11-21|**Region: pt-BR**||
