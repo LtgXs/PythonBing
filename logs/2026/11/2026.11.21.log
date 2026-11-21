@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [16:44:29] Picture infomations saved to  global/fr-CA/README.md
 [16:44:29] Picture infomations saved to global/fr-CA/history/2026/11/22_fr-CA.md
 Program exit at 16:44:29
+
+Program started at 21:23:02
+Operating System Name: Linux
+Operating System Version: #21-Ubuntu SMP PREEMPT Tue Oct 27 22:34:38 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm0hi8g
+Processor Type: 
+Python Version: 3.12.16
+Python Interpreter Name: CPython
+[21:23:02] Start geting CN Bing Wallpaper
+[21:23:02] Successful get url: https://www.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg
+[21:23:02] Image saved to img/background.jpg
+[21:23:02] Info saved to README.md
+[21:23:02] Image saved to history/2026/11/22.md
+[21:23:02] Start geting global Bing Wallpaper, region=en-US, local time is 2026-11-21 16:23:02.701739-05:00
+[21:23:02] Successful get url: https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg
+[21:23:02] Picture infomations saved to  global/en-US/README.md
+[21:23:02] Picture infomations saved to global/en-US/history/2026/11/22_en-US.md
+[21:23:02] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-11-22 06:23:02.852884+09:00
+[21:23:02] Successful get url: https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_UHD.jpg
+[21:23:02] Picture infomations saved to  global/ja-JP/README.md
+[21:23:02] Picture infomations saved to global/ja-JP/history/2026/11/22_ja-JP.md
+[21:23:02] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-11-22 02:53:02.965636+05:30
+[21:23:03] Successful get url: https://www.bing.com/th?id=OHR.JustaHermitage_EN-IN3031288581_UHD.jpg
+[21:23:03] Picture infomations saved to  global/en-IN/README.md
+[21:23:03] Picture infomations saved to global/en-IN/history/2026/11/22_en-IN.md
+[21:23:03] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-11-21 18:23:03.065351-03:00
+[21:23:03] Successful get url: https://www.bing.com/th?id=OHR.RedNice_PT-BR5183216039_UHD.jpg
+[21:23:03] Picture infomations saved to  global/pt-BR/README.md
+[21:23:03] Picture infomations saved to global/pt-BR/history/2026/11/22_pt-BR.md
+[21:23:03] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-11-21 22:23:03.178019+01:00
+[21:23:03] Successful get url: https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_UHD.jpg
+[21:23:03] Picture infomations saved to  global/fr-FR/README.md
+[21:23:03] Picture infomations saved to global/fr-FR/history/2026/11/21_fr-FR.md
+[21:23:03] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-11-21 22:23:03.245596+01:00
+[21:23:03] Successful get url: https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_UHD.jpg
+[21:23:03] Picture infomations saved to  global/de-DE/README.md
+[21:23:03] Picture infomations saved to global/de-DE/history/2026/11/21_de-DE.md
+[21:23:03] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-11-21 16:23:03.553802-05:00
+[21:23:03] Successful get url: https://www.bing.com/th?id=OHR.RedNice_EN-CA5974961332_UHD.jpg
+[21:23:03] Picture infomations saved to  global/en-CA/README.md
+[21:23:03] Picture infomations saved to global/en-CA/history/2026/11/22_en-CA.md
+[21:23:03] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-11-21 21:23:03.670947+00:00
+[21:23:03] Successful get url: https://www.bing.com/th?id=OHR.RedNice_EN-GB3371662260_UHD.jpg
+[21:23:03] Picture infomations saved to  global/en-GB/README.md
+[21:23:03] Picture infomations saved to global/en-GB/history/2026/11/22_en-GB.md
+[21:23:03] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-11-21 22:23:03.788523+01:00
+[21:23:03] Successful get url: https://www.bing.com/th?id=OHR.RedNice_IT-IT2041247927_UHD.jpg
+[21:23:03] Picture infomations saved to  global/it-IT/README.md
+[21:23:03] Picture infomations saved to global/it-IT/history/2026/11/21_it-IT.md
+[21:23:03] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-11-21 22:23:03.876775+01:00
+[21:23:03] Successful get url: https://www.bing.com/th?id=OHR.RedNice_ES-ES5584986553_UHD.jpg
+[21:23:04] Picture infomations saved to  global/es-ES/README.md
+[21:23:04] Picture infomations saved to global/es-ES/history/2026/11/21_es-ES.md
+[21:23:04] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-11-21 16:23:04.068848-05:00
+[21:23:04] Successful get url: https://www.bing.com/th?id=OHR.RedNice_FR-CA1455374145_UHD.jpg
+[21:23:04] Picture infomations saved to  global/fr-CA/README.md
+[21:23:04] Picture infomations saved to global/fr-CA/history/2026/11/22_fr-CA.md
+Program exit at 21:23:04
