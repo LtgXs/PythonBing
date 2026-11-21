@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-21
-![](https://www.bing.com/th?id=OHR.Megaptera_PT-BR4336826763_UHD.jpg&w=1000)Download: [Baleia-jubarte (Megaptera novaeangliae) mergulhando, Kvaløya, Troms, norte da Noruega (© Espen Bergersen/Minden Pictures)](https://www.bing.com/th?id=OHR.Megaptera_PT-BR4336826763_UHD.jpg)
+Update: 2026-11-22
+![](https://www.bing.com/th?id=OHR.RedNice_PT-BR5183216039_UHD.jpg&w=1000)Download: [Nice, Provença-Alpes-Costa Azul, França (© Siripong Kaewla-iad/Getty Images)](https://www.bing.com/th?id=OHR.RedNice_PT-BR5183216039_UHD.jpg)
 
 Auto get programm by LtgX

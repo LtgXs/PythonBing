@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-11-21|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg)|
-||*Copyright: Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)*
+|2026-11-22|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg)|
+||*Copyright: Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
-|2026-11-21|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_UHD.jpg)|
-||*Copyright: ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス (© Siripong Kaewla-iad/Getty Images)*
+|2026-11-22|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_UHD.jpg)|
+||*Copyright: サンタ・フスタ礼拝堂、カンタブリア州、スペイン (© Tramont_ana/Getty Images)*
 ||
 |||
 |2026-11-21|**Region: en-IN**||
@@ -16,44 +16,44 @@
 ||*Copyright: Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
-|2026-11-21|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.Megaptera_PT-BR4336826763_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_PT-BR4336826763_UHD.jpg)|
-||*Copyright: Baleia-jubarte (Megaptera novaeangliae) mergulhando, Kvaløya, Troms, norte da Noruega (© Espen Bergersen/Minden Pictures)*
+|2026-11-22|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.RedNice_PT-BR5183216039_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedNice_PT-BR5183216039_UHD.jpg)|
+||*Copyright: Nice, Provença-Alpes-Costa Azul, França (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
-|2026-11-20|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_UHD.jpg)|
-||*Copyright: Baleine à bosse plongeant, Kvaløya, Troms, Norvège (© Espen Bergersen/Minden Pictures)*
+|2026-11-21|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_UHD.jpg)|
+||*Copyright: Nice, Provence-Alpes-Côte d'Azur (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
-|2026-11-20|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_UHD.jpg)|
-||*Copyright: Tauchender Buckelwal (Megaptera novaeangliae) Kvaloya, Troms, Norwegen (© Espen Bergersen/Minden Pictures)*
+|2026-11-21|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_UHD.jpg)|
+||*Copyright: Nizza, Provence-Alpes-Côte d'Azur, Frankreich (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
-|2026-11-21|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.Megaptera_EN-CA5111539661_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_EN-CA5111539661_UHD.jpg)|
-||*Copyright: Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)*
+|2026-11-22|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.RedNice_EN-CA5974961332_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedNice_EN-CA5974961332_UHD.jpg)|
+||*Copyright: Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
-|2026-11-21|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.Megaptera_EN-GB2786065203_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_EN-GB2786065203_UHD.jpg)|
-||*Copyright: Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)*
+|2026-11-22|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.RedNice_EN-GB3371662260_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedNice_EN-GB3371662260_UHD.jpg)|
+||*Copyright: Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
-|2026-11-20|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.Megaptera_IT-IT1232088954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_IT-IT1232088954_UHD.jpg)|
-||*Copyright: Megattera (Megaptera novaeangliae) in immersione, Kvaløya, Troms, Norvegia settentrionale (© Espen Bergersen/Minden Pictures)*
+|2026-11-21|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.RedNice_IT-IT2041247927_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedNice_IT-IT2041247927_UHD.jpg)|
+||*Copyright: Nizza, Provenza-Alpi-Costa Azzurra, Francia (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
-|2026-11-20|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.Megaptera_ES-ES5370739195_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_ES-ES5370739195_UHD.jpg)|
-||*Copyright: Ballena jorobada (Megaptera novaeangliae) sumergiéndose, Kvaløya, Troms, norte de Noruega (© Espen Bergersen/Minden Pictures)*
+|2026-11-21|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.RedNice_ES-ES5584986553_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedNice_ES-ES5584986553_UHD.jpg)|
+||*Copyright: Niza, Provenza-Alpes-Costa Azul, Francia (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
-|2026-11-21|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.Megaptera_FR-CA7010941954_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.Megaptera_FR-CA7010941954_UHD.jpg)|
-||*Copyright: Baleine à bosse (Megaptera novaeangliae) en plongée, Kvaløya, Troms, nord de la Norvège (© Espen Bergersen/Minden Pictures)*
+|2026-11-22|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.RedNice_FR-CA1455374145_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RedNice_FR-CA1455374145_UHD.jpg)|
+||*Copyright: Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)*
 ||
 |||
 
