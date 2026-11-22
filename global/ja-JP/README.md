@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-22
-![](https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_UHD.jpg&w=1000)Download: [サンタ・フスタ礼拝堂、カンタブリア州、スペイン (© Tramont_ana/Getty Images)](https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_UHD.jpg)
+Update: 2026-11-23
+![](https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg&w=1000)Download: [シダの若芽 (© Reza Saputra/Getty Images)](https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg)
 
 Auto get programm by LtgX

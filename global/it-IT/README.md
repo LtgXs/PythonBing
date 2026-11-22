@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-21
-![](https://www.bing.com/th?id=OHR.RedNice_IT-IT2041247927_UHD.jpg&w=1000)Download: [Nizza, Provenza-Alpi-Costa Azzurra, Francia (© Siripong Kaewla-iad/Getty Images)](https://www.bing.com/th?id=OHR.RedNice_IT-IT2041247927_UHD.jpg)
+Update: 2026-11-22
+![](https://www.bing.com/th?id=OHR.JustaHermitage_IT-IT2553496386_UHD.jpg&w=1000)Download: [Cappella e Eremo di Santa Justa, Cantabria, Spagna (© Tramont_ana/Getty Images)](https://www.bing.com/th?id=OHR.JustaHermitage_IT-IT2553496386_UHD.jpg)
 
 Auto get programm by LtgX
