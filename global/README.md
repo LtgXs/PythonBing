@@ -11,9 +11,9 @@
 ||*Copyright: シダの若芽 (© Reza Saputra/Getty Images)*
 ||
 |||
-|2026-11-22|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.JustaHermitage_EN-IN3031288581_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.JustaHermitage_EN-IN3031288581_UHD.jpg)|
-||*Copyright: The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)*
+|2026-11-23|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.FibonacciFern_EN-IN6938090263_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FibonacciFern_EN-IN6938090263_UHD.jpg)|
+||*Copyright: Fiddlehead fern (© Reza Saputra/Getty Images)*
 ||
 |||
 |2026-11-23|**Region: pt-BR**||

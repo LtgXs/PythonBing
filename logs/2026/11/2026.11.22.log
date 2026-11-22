@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [17:05:23] Picture infomations saved to  global/fr-CA/README.md
 [17:05:23] Picture infomations saved to global/fr-CA/history/2026/11/23_fr-CA.md
 Program exit at 17:05:23
+
+Program started at 21:26:09
+Operating System Name: Linux
+Operating System Version: #21-Ubuntu SMP PREEMPT Tue Oct 27 22:34:38 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm0hi8g
+Processor Type: 
+Python Version: 3.12.16
+Python Interpreter Name: CPython
+[21:26:09] Start geting CN Bing Wallpaper
+[21:26:09] Successful get url: https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg
+[21:26:09] Image saved to img/background.jpg
+[21:26:09] Info saved to README.md
+[21:26:09] Image saved to history/2026/11/23.md
+[21:26:09] Start geting global Bing Wallpaper, region=en-US, local time is 2026-11-22 16:26:09.827137-05:00
+[21:26:09] Successful get url: https://www.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg
+[21:26:09] Picture infomations saved to  global/en-US/README.md
+[21:26:09] Picture infomations saved to global/en-US/history/2026/11/23_en-US.md
+[21:26:09] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-11-23 06:26:09.998768+09:00
+[21:26:10] Successful get url: https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg
+[21:26:10] Picture infomations saved to  global/ja-JP/README.md
+[21:26:10] Picture infomations saved to global/ja-JP/history/2026/11/23_ja-JP.md
+[21:26:10] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-11-23 02:56:10.151764+05:30
+[21:26:10] Successful get url: https://www.bing.com/th?id=OHR.FibonacciFern_EN-IN6938090263_UHD.jpg
+[21:26:10] Picture infomations saved to  global/en-IN/README.md
+[21:26:10] Picture infomations saved to global/en-IN/history/2026/11/23_en-IN.md
+[21:26:10] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-11-22 18:26:10.313516-03:00
+[21:26:10] Successful get url: https://www.bing.com/th?id=OHR.JustaHermitage_PT-BR5712827780_UHD.jpg
+[21:26:10] Picture infomations saved to  global/pt-BR/README.md
+[21:26:10] Picture infomations saved to global/pt-BR/history/2026/11/23_pt-BR.md
+[21:26:10] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-11-22 22:26:10.571708+01:00
+[21:26:10] Successful get url: https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_UHD.jpg
+[21:26:10] Picture infomations saved to  global/fr-FR/README.md
+[21:26:10] Picture infomations saved to global/fr-FR/history/2026/11/22_fr-FR.md
+[21:26:10] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-11-22 22:26:10.778197+01:00
+[21:26:10] Successful get url: https://www.bing.com/th?id=OHR.JustaHermitage_DE-DE4182731523_UHD.jpg
+[21:26:11] Picture infomations saved to  global/de-DE/README.md
+[21:26:11] Picture infomations saved to global/de-DE/history/2026/11/22_de-DE.md
+[21:26:11] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-11-22 16:26:11.112899-05:00
+[21:26:11] Successful get url: https://www.bing.com/th?id=OHR.JustaHermitage_EN-CA5542255570_UHD.jpg
+[21:26:11] Picture infomations saved to  global/en-CA/README.md
+[21:26:11] Picture infomations saved to global/en-CA/history/2026/11/23_en-CA.md
+[21:26:11] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-11-22 21:26:11.387612+00:00
+[21:26:11] Successful get url: https://www.bing.com/th?id=OHR.JustaHermitage_EN-GB3758221368_UHD.jpg
+[21:26:11] Picture infomations saved to  global/en-GB/README.md
+[21:26:11] Picture infomations saved to global/en-GB/history/2026/11/23_en-GB.md
+[21:26:11] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-11-22 22:26:11.565939+01:00
+[21:26:11] Successful get url: https://www.bing.com/th?id=OHR.JustaHermitage_IT-IT2553496386_UHD.jpg
+[21:26:11] Picture infomations saved to  global/it-IT/README.md
+[21:26:11] Picture infomations saved to global/it-IT/history/2026/11/22_it-IT.md
+[21:26:11] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-11-22 22:26:11.742265+01:00
+[21:26:11] Successful get url: https://www.bing.com/th?id=OHR.JustaHermitage_ES-ES5920553602_UHD.jpg
+[21:26:12] Picture infomations saved to  global/es-ES/README.md
+[21:26:12] Picture infomations saved to global/es-ES/history/2026/11/22_es-ES.md
+[21:26:12] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-11-22 16:26:12.046773-05:00
+[21:26:12] Successful get url: https://www.bing.com/th?id=OHR.JustaHermitage_FR-CA7082856922_UHD.jpg
+[21:26:12] Picture infomations saved to  global/fr-CA/README.md
+[21:26:12] Picture infomations saved to global/fr-CA/history/2026/11/23_fr-CA.md
+Program exit at 21:26:12
