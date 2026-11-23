@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-23
-![](https://www.bing.com/th?id=OHR.JustaHermitage_EN-CA5542255570_UHD.jpg&w=1000)Download: [The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)](https://www.bing.com/th?id=OHR.JustaHermitage_EN-CA5542255570_UHD.jpg)
+Update: 2026-11-24
+![](https://www.bing.com/th?id=OHR.FibonacciFern_EN-CA6531851443_UHD.jpg&w=1000)Download: [Fiddlehead fern (© Reza Saputra/Getty Images)](https://www.bing.com/th?id=OHR.FibonacciFern_EN-CA6531851443_UHD.jpg)
 
 Auto get programm by LtgX

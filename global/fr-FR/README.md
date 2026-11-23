@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-22
-![](https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_UHD.jpg&w=1000)Download: [Ermitage de Santa Justa, Cantabrie, Espagne (© Tramont_ana/Getty Images)](https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_UHD.jpg)
+Update: 2026-11-23
+![](https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg&w=1000)Download: [Pousse de fougère (© Reza Saputra/Getty Images)](https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg)
 
 Auto get programm by LtgX
