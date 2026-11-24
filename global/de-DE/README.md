@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-23
-![](https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_UHD.jpg&w=1000)Download: [Farnspitzen (© Reza Saputra/Getty Images)](https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_UHD.jpg)
+Update: 2026-11-24
+![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_UHD.jpg&w=1000)Download: [Eichhörnchen (Sciurus vulgaris) im Cairngorms-Nationalpark, Highlands, Schottland (© Scotland: The Big Picture/Minden Pictures)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_UHD.jpg)
 
 Auto get programm by LtgX

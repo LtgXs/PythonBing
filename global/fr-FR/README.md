@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-23
-![](https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg&w=1000)Download: [Pousse de fougère (© Reza Saputra/Getty Images)](https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg)
+Update: 2026-11-24
+![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_UHD.jpg&w=1000)Download: [Écureuil roux dans le parc national des Cairngorms, Highlands, Écosse (© Scotland: The Big Picture/Minden Pictures)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_UHD.jpg)
 
 Auto get programm by LtgX

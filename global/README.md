@@ -21,14 +21,14 @@
 ||*Copyright: Broto de samambaia (© Reza Saputra/Getty Images)*
 ||
 |||
-|2026-11-23|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg)|
-||*Copyright: Pousse de fougère (© Reza Saputra/Getty Images)*
+|2026-11-24|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_UHD.jpg)|
+||*Copyright: Écureuil roux dans le parc national des Cairngorms, Highlands, Écosse (© Scotland: The Big Picture/Minden Pictures)*
 ||
 |||
-|2026-11-23|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_UHD.jpg)|
-||*Copyright: Farnspitzen (© Reza Saputra/Getty Images)*
+|2026-11-24|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_UHD.jpg)|
+||*Copyright: Eichhörnchen (Sciurus vulgaris) im Cairngorms-Nationalpark, Highlands, Schottland (© Scotland: The Big Picture/Minden Pictures)*
 ||
 |||
 |2026-11-24|**Region: en-CA**||
@@ -36,19 +36,19 @@
 ||*Copyright: Fiddlehead fern (© Reza Saputra/Getty Images)*
 ||
 |||
-|2026-11-24|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FibonacciFern_EN-GB6785963710_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FibonacciFern_EN-GB6785963710_UHD.jpg)|
-||*Copyright: Fiddlehead fern (© Reza Saputra/Getty Images)*
+|2026-11-25|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-GB7505295031_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-GB7505295031_UHD.jpg)|
+||*Copyright: Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)*
 ||
 |||
-|2026-11-23|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FibonacciFern_IT-IT3074319544_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FibonacciFern_IT-IT3074319544_UHD.jpg)|
-||*Copyright: Germoglio di felce (© Reza Saputra/Getty Images)*
+|2026-11-24|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_IT-IT3679426218_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CairngormsSquirrel_IT-IT3679426218_UHD.jpg)|
+||*Copyright: Scoiattolo rosso (Sciurus vulgaris), Parco Nazionale Cairngorms, Highlands, Scozia (© Scotland: The Big Picture/Minden Pictures)*
 ||
 |||
-|2026-11-23|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_UHD.jpg)|
-||*Copyright: Brote de helecho (© Reza Saputra/Getty Images)*
+|2026-11-24|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_ES-ES5472061849_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CairngormsSquirrel_ES-ES5472061849_UHD.jpg)|
+||*Copyright: Ardilla roja (Sciurus vulgaris) en el Parque Nacional Cairngorms, Tierras Altas de Escocia (© Scotland: The Big Picture/Minden Pictures)*
 ||
 |||
 |2026-11-24|**Region: fr-CA**||

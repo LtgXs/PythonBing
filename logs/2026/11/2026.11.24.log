@@ -1,0 +1,60 @@
+
+Program started at 02:42:06
+Operating System Name: Linux
+Operating System Version: #21-Ubuntu SMP PREEMPT Tue Oct 27 22:34:38 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm0hi8g
+Processor Type: 
+Python Version: 3.12.16
+Python Interpreter Name: CPython
+[02:42:06] Start geting CN Bing Wallpaper
+[02:42:06] Successful get url: https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg
+[02:42:07] Image saved to img/background.jpg
+[02:42:07] Info saved to README.md
+[02:42:07] Image saved to history/2026/11/24.md
+[02:42:07] Start geting global Bing Wallpaper, region=en-US, local time is 2026-11-23 21:42:07.106095-05:00
+[02:42:07] Successful get url: https://www.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg
+[02:42:07] Picture infomations saved to  global/en-US/README.md
+[02:42:07] Picture infomations saved to global/en-US/history/2026/11/24_en-US.md
+[02:42:07] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-11-24 11:42:07.226108+09:00
+[02:42:07] Successful get url: https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_UHD.jpg
+[02:42:07] Picture infomations saved to  global/ja-JP/README.md
+[02:42:07] Picture infomations saved to global/ja-JP/history/2026/11/24_ja-JP.md
+[02:42:07] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-11-24 08:12:07.373374+05:30
+[02:42:07] Successful get url: https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-IN7928513964_UHD.jpg
+[02:42:07] Picture infomations saved to  global/en-IN/README.md
+[02:42:07] Picture infomations saved to global/en-IN/history/2026/11/24_en-IN.md
+[02:42:07] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-11-23 23:42:07.556754-03:00
+[02:42:07] Successful get url: https://www.bing.com/th?id=OHR.FibonacciFern_PT-BR5976883875_UHD.jpg
+[02:42:07] Picture infomations saved to  global/pt-BR/README.md
+[02:42:07] Picture infomations saved to global/pt-BR/history/2026/11/24_pt-BR.md
+[02:42:07] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-11-24 03:42:07.691994+01:00
+[02:42:07] Successful get url: https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_UHD.jpg
+[02:42:07] Picture infomations saved to  global/fr-FR/README.md
+[02:42:07] Picture infomations saved to global/fr-FR/history/2026/11/24_fr-FR.md
+[02:42:07] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-11-24 03:42:07.826022+01:00
+[02:42:07] Successful get url: https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_UHD.jpg
+[02:42:07] Picture infomations saved to  global/de-DE/README.md
+[02:42:07] Picture infomations saved to global/de-DE/history/2026/11/24_de-DE.md
+[02:42:07] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-11-23 21:42:08.001124-05:00
+[02:42:08] Successful get url: https://www.bing.com/th?id=OHR.FibonacciFern_EN-CA6531851443_UHD.jpg
+[02:42:08] Picture infomations saved to  global/en-CA/README.md
+[02:42:08] Picture infomations saved to global/en-CA/history/2026/11/24_en-CA.md
+[02:42:08] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-11-24 02:42:08.163830+00:00
+[02:42:08] Successful get url: https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-GB7505295031_UHD.jpg
+[02:42:08] Picture infomations saved to  global/en-GB/README.md
+[02:42:08] Picture infomations saved to global/en-GB/history/2026/11/25_en-GB.md
+[02:42:08] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-11-24 03:42:08.314793+01:00
+[02:42:08] Successful get url: https://www.bing.com/th?id=OHR.CairngormsSquirrel_IT-IT3679426218_UHD.jpg
+[02:42:08] Picture infomations saved to  global/it-IT/README.md
+[02:42:08] Picture infomations saved to global/it-IT/history/2026/11/24_it-IT.md
+[02:42:08] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-11-24 03:42:08.434707+01:00
+[02:42:08] Successful get url: https://www.bing.com/th?id=OHR.CairngormsSquirrel_ES-ES5472061849_UHD.jpg
+[02:42:08] Picture infomations saved to  global/es-ES/README.md
+[02:42:08] Picture infomations saved to global/es-ES/history/2026/11/24_es-ES.md
+[02:42:08] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-11-23 21:42:08.646074-05:00
+[02:42:08] Successful get url: https://www.bing.com/th?id=OHR.FibonacciFern_FR-CA1965188790_UHD.jpg
+[02:42:08] Picture infomations saved to  global/fr-CA/README.md
+[02:42:08] Picture infomations saved to global/fr-CA/history/2026/11/24_fr-CA.md
+Program exit at 02:42:08
