@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-25
-![](https://www.bing.com/th?id=OHR.SunsetPoint_FR-FR4616557781_UHD.jpg&w=1000)Download: [Sunset Point, parc national de Bryce Canyon, Utah, États-Unis (© Colin D. Young/Alamy)](https://www.bing.com/th?id=OHR.SunsetPoint_FR-FR4616557781_UHD.jpg)
+Update: 2026-11-26
+![](https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_UHD.jpg&w=1000)Download: [Cascades Rainbow sur la rivière Wailuku, Hilo, Hawaï, États-Unis (© Peter Unger/Getty Images)](https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_UHD.jpg)
 
 Auto get programm by LtgX
