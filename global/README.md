@@ -1,24 +1,24 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-11-25|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg)|
-||*Copyright: Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)*
+|2026-11-26|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg)|
+||*Copyright: Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)*
 ||
 |||
-|2026-11-25|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.SunsetPoint_JA-JP7278727628_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPoint_JA-JP7278727628_UHD.jpg)|
-||*Copyright: サンセット・ポイント、ブライスキャニオン国立公園、ユタ州 (© Colin D. Young/Alamy)*
+|2026-11-26|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.RFHilo_JA-JP7653681991_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_JA-JP7653681991_UHD.jpg)|
+||*Copyright: ワイルク川のレインボー・フォールズ、ヒロ、ハワイ州、アメリカ (© Peter Unger/Getty Images)*
 ||
 |||
-|2026-11-25|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.SunsetPoint_EN-IN8140664778_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPoint_EN-IN8140664778_UHD.jpg)|
-||*Copyright: Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy)*
+|2026-11-26|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.RFHilo_EN-IN3818497787_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_EN-IN3818497787_UHD.jpg)|
+||*Copyright: Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images)*
 ||
 |||
-|2026-11-25|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_PT-BR6516004781_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CairngormsSquirrel_PT-BR6516004781_UHD.jpg)|
-||*Copyright: Esquilo-vermelho (Sciurus vulgaris) no Parque Nacional de Cairngorms, Highlands, Escócia (© Scotland: The Big Picture/Minden Pictures)*
+|2026-11-26|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998_UHD.jpg)|
+||*Copyright: Sunset Point, Parque Nacional Bryce Canyon, Utah (© Colin D. Young/Alamy)*
 ||
 |||
 |2026-11-25|**Region: fr-FR**||
@@ -31,9 +31,9 @@
 ||*Copyright: Sunset Point, Bryce-Canyon-Nationalpark, Utah (© Colin D. Young/Alamy)*
 ||
 |||
-|2026-11-25|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-CA7409521257_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-CA7409521257_UHD.jpg)|
-||*Copyright: Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)*
+|2026-11-26|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.SunsetPoint_EN-CA6444917407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPoint_EN-CA6444917407_UHD.jpg)|
+||*Copyright: Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy)*
 ||
 |||
 |2026-11-26|**Region: en-GB**||
@@ -51,9 +51,9 @@
 ||*Copyright: Sunset Point, Parque Nacional Bryce Canyon, Utah (© Colin D. Young/Alamy)*
 ||
 |||
-|2026-11-25|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-CA7380157565_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-CA7380157565_UHD.jpg)|
-||*Copyright: Écureuil roux dans le parc national des Cairngorms, Highlands, Écosse (© Scotland: The Big Picture/Minden Pictures)*
+|2026-11-26|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.SunsetPoint_FR-CA2469732400_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPoint_FR-CA2469732400_UHD.jpg)|
+||*Copyright: Sunset Point, Parc national Bryce Canyon, Utah (© Colin D. Young/Alamy)*
 ||
 |||
 

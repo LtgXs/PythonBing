@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-25
-![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_PT-BR6516004781_UHD.jpg&w=1000)Download: [Esquilo-vermelho (Sciurus vulgaris) no Parque Nacional de Cairngorms, Highlands, Escócia (© Scotland: The Big Picture/Minden Pictures)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_PT-BR6516004781_UHD.jpg)
+Update: 2026-11-26
+![](https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998_UHD.jpg&w=1000)Download: [Sunset Point, Parque Nacional Bryce Canyon, Utah (© Colin D. Young/Alamy)](https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998_UHD.jpg)
 
 Auto get programm by LtgX
