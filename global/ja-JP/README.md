@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-26
-![](https://www.bing.com/th?id=OHR.RFHilo_JA-JP7653681991_UHD.jpg&w=1000)Download: [ワイルク川のレインボー・フォールズ、ヒロ、ハワイ州、アメリカ (© Peter Unger/Getty Images)](https://www.bing.com/th?id=OHR.RFHilo_JA-JP7653681991_UHD.jpg)
+Update: 2026-11-27
+![](https://www.bing.com/th?id=OHR.FaceCanyon_JA-JP4501981808_UHD.jpg&w=1000)Download: [夕暮れの岩山、フェイス・キャニオン、パウエル湖、ユタ州、アメリカ (© Jeff Foott/Minden)](https://www.bing.com/th?id=OHR.FaceCanyon_JA-JP4501981808_UHD.jpg)
 
 Auto get programm by LtgX

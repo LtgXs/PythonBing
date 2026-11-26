@@ -1,24 +1,24 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-11-26|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg)|
-||*Copyright: Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)*
+|2026-11-27|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg)|
+||*Copyright: Two wild tom turkeys (© davidsdodd/Getty Images)*
 ||
 |||
-|2026-11-26|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.RFHilo_JA-JP7653681991_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_JA-JP7653681991_UHD.jpg)|
-||*Copyright: ワイルク川のレインボー・フォールズ、ヒロ、ハワイ州、アメリカ (© Peter Unger/Getty Images)*
+|2026-11-27|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.FaceCanyon_JA-JP4501981808_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_JA-JP4501981808_UHD.jpg)|
+||*Copyright: 夕暮れの岩山、フェイス・キャニオン、パウエル湖、ユタ州、アメリカ (© Jeff Foott/Minden)*
 ||
 |||
-|2026-11-26|**Region: en-IN**||
-||![](https://www.bing.com/th?id=OHR.RFHilo_EN-IN3818497787_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_EN-IN3818497787_UHD.jpg)|
-||*Copyright: Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images)*
+|2026-11-27|**Region: en-IN**||
+||![](https://www.bing.com/th?id=OHR.FaceCanyon_EN-IN7727815834_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_EN-IN7727815834_UHD.jpg)|
+||*Copyright: Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)*
 ||
 |||
-|2026-11-26|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998_UHD.jpg)|
-||*Copyright: Sunset Point, Parque Nacional Bryce Canyon, Utah (© Colin D. Young/Alamy)*
+|2026-11-27|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.RFHilo_PT-BR6954250665_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_PT-BR6954250665_UHD.jpg)|
+||*Copyright: Rainbow Falls no rio Wailuku, Hilo, Havaí, EUA (© Peter Unger/Getty Images)*
 ||
 |||
 |2026-11-26|**Region: fr-FR**||
@@ -31,14 +31,14 @@
 ||*Copyright: Rainbow Falls am Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images)*
 ||
 |||
-|2026-11-26|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.SunsetPoint_EN-CA6444917407_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPoint_EN-CA6444917407_UHD.jpg)|
-||*Copyright: Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy)*
+|2026-11-27|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.RFHilo_EN-CA6698357173_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_EN-CA6698357173_UHD.jpg)|
+||*Copyright: Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images)*
 ||
 |||
-|2026-11-26|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.SunsetPoint_EN-GB6418180336_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPoint_EN-GB6418180336_UHD.jpg)|
-||*Copyright: Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy)*
+|2026-11-27|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.RFHilo_EN-GB7287228600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_EN-GB7287228600_UHD.jpg)|
+||*Copyright: Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images)*
 ||
 |||
 |2026-11-26|**Region: it-IT**||
@@ -51,9 +51,9 @@
 ||*Copyright: Rainbow Falls, río Wailuku, Hilo, Hawái, Estados Unidos (© Peter Unger/Getty Images)*
 ||
 |||
-|2026-11-26|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.SunsetPoint_FR-CA2469732400_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SunsetPoint_FR-CA2469732400_UHD.jpg)|
-||*Copyright: Sunset Point, Parc national Bryce Canyon, Utah (© Colin D. Young/Alamy)*
+|2026-11-27|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.RFHilo_FR-CA2661177529_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_FR-CA2661177529_UHD.jpg)|
+||*Copyright: Rainbow Falls sur la rivière Wailuku, Hilo, Hawaii, États-Unis (© Peter Unger/Getty Images)*
 ||
 |||
 
