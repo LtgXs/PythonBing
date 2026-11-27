@@ -21,14 +21,14 @@
 ||*Copyright: Rainbow Falls no rio Wailuku, Hilo, Havaí, EUA (© Peter Unger/Getty Images)*
 ||
 |||
-|2026-11-26|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_UHD.jpg)|
-||*Copyright: Cascades Rainbow sur la rivière Wailuku, Hilo, Hawaï, États-Unis (© Peter Unger/Getty Images)*
+|2026-11-27|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.FaceCanyon_FR-FR9763207069_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_FR-FR9763207069_UHD.jpg)|
+||*Copyright: Coucher du soleil sur Face Canyon, Lac Powell, Utah, États-Unis (© Jeff Foott/Minden)*
 ||
 |||
-|2026-11-26|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.RFHilo_DE-DE3182652312_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_DE-DE3182652312_UHD.jpg)|
-||*Copyright: Rainbow Falls am Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images)*
+|2026-11-27|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_UHD.jpg)|
+||*Copyright: Butte bei Sonnenuntergang, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)*
 ||
 |||
 |2026-11-27|**Region: en-CA**||
@@ -36,19 +36,19 @@
 ||*Copyright: Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images)*
 ||
 |||
-|2026-11-27|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.RFHilo_EN-GB7287228600_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_EN-GB7287228600_UHD.jpg)|
-||*Copyright: Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images)*
+|2026-11-28|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_UHD.jpg)|
+||*Copyright: Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)*
 ||
 |||
-|2026-11-26|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.RFHilo_IT-IT3377596162_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_IT-IT3377596162_UHD.jpg)|
-||*Copyright: Rainbow Falls sul fiume Wailuku, Hilo, Hawaii, Stati Uniti (© Peter Unger/Getty Images)*
+|2026-11-27|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.FaceCanyon_IT-IT4616461166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_IT-IT4616461166_UHD.jpg)|
+||*Copyright: Butte al tramonto, Face Canyon, Lago Powell, Utah, USA (© Jeff Foott/Minden)*
 ||
 |||
-|2026-11-26|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.RFHilo_ES-ES7516757686_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.RFHilo_ES-ES7516757686_UHD.jpg)|
-||*Copyright: Rainbow Falls, río Wailuku, Hilo, Hawái, Estados Unidos (© Peter Unger/Getty Images)*
+|2026-11-27|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.FaceCanyon_ES-ES7167229862_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_ES-ES7167229862_UHD.jpg)|
+||*Copyright: Colina aislada al atardecer, Face Canyon, Lago Powell, Utah, EE. UU. (© Jeff Foott/Minden)*
 ||
 |||
 |2026-11-27|**Region: fr-CA**||
