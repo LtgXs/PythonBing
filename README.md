@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-27
-![](https://www.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg&w=1000)Download: [夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)](https://www.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg)
+Update: 2026-11-28
+![](https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg&w=1000)Download: [捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)](https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg)
 
 Auto get programm by LtgX

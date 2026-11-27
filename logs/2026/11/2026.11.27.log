@@ -58,3 +58,63 @@ Python Interpreter Name: CPython
 [00:13:18] Picture infomations saved to  global/fr-CA/README.md
 [00:13:18] Picture infomations saved to global/fr-CA/history/2026/11/27_fr-CA.md
 Program exit at 00:13:18
+
+Program started at 18:54:10
+Operating System Name: Linux
+Operating System Version: #21-Ubuntu SMP PREEMPT Tue Oct 27 22:34:38 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3lb7s
+Processor Type: 
+Python Version: 3.12.16
+Python Interpreter Name: CPython
+[18:54:10] Start geting CN Bing Wallpaper
+[18:54:10] Successful get url: https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg
+[18:54:10] Image saved to img/background.jpg
+[18:54:10] Info saved to README.md
+[18:54:10] Image saved to history/2026/11/28.md
+[18:54:10] Start geting global Bing Wallpaper, region=en-US, local time is 2026-11-27 13:54:10.946558-05:00
+[18:54:10] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg
+[18:54:11] Picture infomations saved to  global/en-US/README.md
+[18:54:11] Picture infomations saved to global/en-US/history/2026/11/28_en-US.md
+[18:54:11] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-11-28 03:54:11.053408+09:00
+[18:54:11] Successful get url: https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_UHD.jpg
+[18:54:11] Picture infomations saved to  global/ja-JP/README.md
+[18:54:11] Picture infomations saved to global/ja-JP/history/2026/11/28_ja-JP.md
+[18:54:11] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-11-28 00:24:11.274464+05:30
+[18:54:11] Successful get url: https://www.bing.com/th?id=OHR.VltavaPrague_EN-IN7319350687_UHD.jpg
+[18:54:11] Picture infomations saved to  global/en-IN/README.md
+[18:54:11] Picture infomations saved to global/en-IN/history/2026/11/28_en-IN.md
+[18:54:11] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-11-27 15:54:11.622338-03:00
+[18:54:11] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_PT-BR9349113908_UHD.jpg
+[18:54:11] Picture infomations saved to  global/pt-BR/README.md
+[18:54:11] Picture infomations saved to global/pt-BR/history/2026/11/28_pt-BR.md
+[18:54:11] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-11-27 19:54:11.730468+01:00
+[18:54:11] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_FR-FR9763207069_UHD.jpg
+[18:54:11] Picture infomations saved to  global/fr-FR/README.md
+[18:54:11] Picture infomations saved to global/fr-FR/history/2026/11/27_fr-FR.md
+[18:54:11] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-11-27 19:54:11.848318+01:00
+[18:54:11] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_UHD.jpg
+[18:54:11] Picture infomations saved to  global/de-DE/README.md
+[18:54:11] Picture infomations saved to global/de-DE/history/2026/11/27_de-DE.md
+[18:54:11] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-11-27 13:54:11.980891-05:00
+[18:54:12] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_EN-CA9192055868_UHD.jpg
+[18:54:12] Picture infomations saved to  global/en-CA/README.md
+[18:54:12] Picture infomations saved to global/en-CA/history/2026/11/28_en-CA.md
+[18:54:12] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-11-27 18:54:12.074540+00:00
+[18:54:12] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_UHD.jpg
+[18:54:12] Picture infomations saved to  global/en-GB/README.md
+[18:54:12] Picture infomations saved to global/en-GB/history/2026/11/28_en-GB.md
+[18:54:12] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-11-27 19:54:12.171687+01:00
+[18:54:12] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_IT-IT4616461166_UHD.jpg
+[18:54:12] Picture infomations saved to  global/it-IT/README.md
+[18:54:12] Picture infomations saved to global/it-IT/history/2026/11/27_it-IT.md
+[18:54:12] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-11-27 19:54:12.262303+01:00
+[18:54:12] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_ES-ES7167229862_UHD.jpg
+[18:54:12] Picture infomations saved to  global/es-ES/README.md
+[18:54:12] Picture infomations saved to global/es-ES/history/2026/11/27_es-ES.md
+[18:54:12] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-11-27 13:54:12.581095-05:00
+[18:54:12] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_FR-CA8559464645_UHD.jpg
+[18:54:12] Picture infomations saved to  global/fr-CA/README.md
+[18:54:12] Picture infomations saved to global/fr-CA/history/2026/11/28_fr-CA.md
+Program exit at 18:54:12

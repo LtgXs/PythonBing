@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-27
-![](https://www.bing.com/th?id=OHR.RFHilo_FR-CA2661177529_UHD.jpg&w=1000)Download: [Rainbow Falls sur la rivière Wailuku, Hilo, Hawaii, États-Unis (© Peter Unger/Getty Images)](https://www.bing.com/th?id=OHR.RFHilo_FR-CA2661177529_UHD.jpg)
+Update: 2026-11-28
+![](https://www.bing.com/th?id=OHR.FaceCanyon_FR-CA8559464645_UHD.jpg&w=1000)Download: [Butte au coucher du soleil, Face Canyon, Lac Powell, Utah, États-Unis (© Jeff Foott/Minden)](https://www.bing.com/th?id=OHR.FaceCanyon_FR-CA8559464645_UHD.jpg)
 
 Auto get programm by LtgX
