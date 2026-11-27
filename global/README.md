@@ -21,14 +21,14 @@
 ||*Copyright: Monolito ao pôr do sol, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)*
 ||
 |||
-|2026-11-27|**Region: fr-FR**||
-||![](https://www.bing.com/th?id=OHR.FaceCanyon_FR-FR9763207069_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_FR-FR9763207069_UHD.jpg)|
-||*Copyright: Coucher du soleil sur Face Canyon, Lac Powell, Utah, États-Unis (© Jeff Foott/Minden)*
+|2026-11-28|**Region: fr-FR**||
+||![](https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_UHD.jpg)|
+||*Copyright: Vieille ville et rivière Vltava, Prague, Tchéquie (© Lara_Uhryn/Getty Images)*
 ||
 |||
-|2026-11-27|**Region: de-DE**||
-||![](https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_UHD.jpg)|
-||*Copyright: Butte bei Sonnenuntergang, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)*
+|2026-11-28|**Region: de-DE**||
+||![](https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_UHD.jpg)|
+||*Copyright: Altstadt und Moldau, Prag, Tschechien (© Lara_Uhryn/Getty Images)*
 ||
 |||
 |2026-11-28|**Region: en-CA**||
@@ -41,14 +41,14 @@
 ||*Copyright: Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)*
 ||
 |||
-|2026-11-27|**Region: it-IT**||
-||![](https://www.bing.com/th?id=OHR.FaceCanyon_IT-IT4616461166_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_IT-IT4616461166_UHD.jpg)|
-||*Copyright: Butte al tramonto, Face Canyon, Lago Powell, Utah, USA (© Jeff Foott/Minden)*
+|2026-11-28|**Region: it-IT**||
+||![](https://www.bing.com/th?id=OHR.VltavaPrague_IT-IT0736491794_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VltavaPrague_IT-IT0736491794_UHD.jpg)|
+||*Copyright: Città Vecchia, fiume Moldava, Praga, Cechia (© Lara_Uhryn/Getty Images)*
 ||
 |||
-|2026-11-27|**Region: es-ES**||
-||![](https://www.bing.com/th?id=OHR.FaceCanyon_ES-ES7167229862_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_ES-ES7167229862_UHD.jpg)|
-||*Copyright: Colina aislada al atardecer, Face Canyon, Lago Powell, Utah, EE. UU. (© Jeff Foott/Minden)*
+|2026-11-28|**Region: es-ES**||
+||![](https://www.bing.com/th?id=OHR.VltavaPrague_ES-ES8901377082_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VltavaPrague_ES-ES8901377082_UHD.jpg)|
+||*Copyright: Casco antiguo y río Moldava, Praga, Chequia (© Lara_Uhryn/Getty Images)*
 ||
 |||
 |2026-11-28|**Region: fr-CA**||

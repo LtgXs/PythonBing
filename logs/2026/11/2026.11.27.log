@@ -118,3 +118,63 @@ Python Interpreter Name: CPython
 [18:54:12] Picture infomations saved to  global/fr-CA/README.md
 [18:54:12] Picture infomations saved to global/fr-CA/history/2026/11/28_fr-CA.md
 Program exit at 18:54:12
+
+Program started at 23:51:19
+Operating System Name: Linux
+Operating System Version: #21-Ubuntu SMP PREEMPT Tue Oct 27 22:34:38 UTC 2026
+System Architecture: ('64bit', 'ELF')
+Computer Type: x86_64
+Computer Name: runnervm3lb7s
+Processor Type: 
+Python Version: 3.12.16
+Python Interpreter Name: CPython
+[23:51:19] Start geting CN Bing Wallpaper
+[23:51:19] Successful get url: https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg
+[23:51:19] Image saved to img/background.jpg
+[23:51:19] Info saved to README.md
+[23:51:19] Image saved to history/2026/11/28.md
+[23:51:19] Start geting global Bing Wallpaper, region=en-US, local time is 2026-11-27 18:51:19.668427-05:00
+[23:51:19] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg
+[23:51:19] Picture infomations saved to  global/en-US/README.md
+[23:51:19] Picture infomations saved to global/en-US/history/2026/11/28_en-US.md
+[23:51:19] Start geting global Bing Wallpaper, region=ja-JP, local time is 2026-11-28 08:51:19.803697+09:00
+[23:51:19] Successful get url: https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_UHD.jpg
+[23:51:20] Picture infomations saved to  global/ja-JP/README.md
+[23:51:20] Picture infomations saved to global/ja-JP/history/2026/11/28_ja-JP.md
+[23:51:20] Start geting global Bing Wallpaper, region=en-IN, local time is 2026-11-28 05:21:20.108701+05:30
+[23:51:20] Successful get url: https://www.bing.com/th?id=OHR.VltavaPrague_EN-IN7319350687_UHD.jpg
+[23:51:20] Picture infomations saved to  global/en-IN/README.md
+[23:51:20] Picture infomations saved to global/en-IN/history/2026/11/28_en-IN.md
+[23:51:20] Start geting global Bing Wallpaper, region=pt-BR, local time is 2026-11-27 20:51:20.227280-03:00
+[23:51:20] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_PT-BR9349113908_UHD.jpg
+[23:51:20] Picture infomations saved to  global/pt-BR/README.md
+[23:51:20] Picture infomations saved to global/pt-BR/history/2026/11/28_pt-BR.md
+[23:51:20] Start geting global Bing Wallpaper, region=fr-FR, local time is 2026-11-28 00:51:20.318150+01:00
+[23:51:20] Successful get url: https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_UHD.jpg
+[23:51:20] Picture infomations saved to  global/fr-FR/README.md
+[23:51:20] Picture infomations saved to global/fr-FR/history/2026/11/28_fr-FR.md
+[23:51:20] Start geting global Bing Wallpaper, region=de-DE, local time is 2026-11-28 00:51:20.491603+01:00
+[23:51:20] Successful get url: https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_UHD.jpg
+[23:51:20] Picture infomations saved to  global/de-DE/README.md
+[23:51:20] Picture infomations saved to global/de-DE/history/2026/11/28_de-DE.md
+[23:51:20] Start geting global Bing Wallpaper, region=en-CA, local time is 2026-11-27 18:51:20.666311-05:00
+[23:51:20] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_EN-CA9192055868_UHD.jpg
+[23:51:20] Picture infomations saved to  global/en-CA/README.md
+[23:51:20] Picture infomations saved to global/en-CA/history/2026/11/28_en-CA.md
+[23:51:20] Start geting global Bing Wallpaper, region=en-GB, local time is 2026-11-27 23:51:20.848758+00:00
+[23:51:20] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_UHD.jpg
+[23:51:20] Picture infomations saved to  global/en-GB/README.md
+[23:51:20] Picture infomations saved to global/en-GB/history/2026/11/28_en-GB.md
+[23:51:20] Start geting global Bing Wallpaper, region=it-IT, local time is 2026-11-28 00:51:20.943712+01:00
+[23:51:20] Successful get url: https://www.bing.com/th?id=OHR.VltavaPrague_IT-IT0736491794_UHD.jpg
+[23:51:21] Picture infomations saved to  global/it-IT/README.md
+[23:51:21] Picture infomations saved to global/it-IT/history/2026/11/28_it-IT.md
+[23:51:21] Start geting global Bing Wallpaper, region=es-ES, local time is 2026-11-28 00:51:21.107730+01:00
+[23:51:21] Successful get url: https://www.bing.com/th?id=OHR.VltavaPrague_ES-ES8901377082_UHD.jpg
+[23:51:21] Picture infomations saved to  global/es-ES/README.md
+[23:51:21] Picture infomations saved to global/es-ES/history/2026/11/28_es-ES.md
+[23:51:21] Start geting global Bing Wallpaper, region=fr-CA, local time is 2026-11-27 18:51:21.316479-05:00
+[23:51:21] Successful get url: https://www.bing.com/th?id=OHR.FaceCanyon_FR-CA8559464645_UHD.jpg
+[23:51:22] Picture infomations saved to  global/fr-CA/README.md
+[23:51:22] Picture infomations saved to global/fr-CA/history/2026/11/28_fr-CA.md
+Program exit at 23:51:22
