@@ -1,14 +1,14 @@
 ## Today's Bing Wallpaper
 |      |      |      |
 | :----: | :----: | :----: |
-|2026-11-28|**Region: en-US**||
-||![](https://www.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg)|
-||*Copyright: Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)*
+|2026-11-29|**Region: en-US**||
+||![](https://www.bing.com/th?id=OHR.VltavaPrague_EN-US6068116977_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VltavaPrague_EN-US6068116977_UHD.jpg)|
+||*Copyright: Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)*
 ||
 |||
-|2026-11-28|**Region: ja-JP**||
-||![](https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_UHD.jpg)|
-||*Copyright: 旧市街とヴルタヴァ川、プラハ、チェコ (© Lara_Uhryn/Getty Images)*
+|2026-11-29|**Region: ja-JP**||
+||![](https://www.bing.com/th?id=OHR.SommaroyBridge_JA-JP5698715932_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.SommaroyBridge_JA-JP5698715932_UHD.jpg)|
+||*Copyright: 上空から見たソマロイ橋、トロムソ、ノルウェー (© Roberto Moiola/Sysaworld/Getty Images)*
 ||
 |||
 |2026-11-28|**Region: en-IN**||
@@ -16,9 +16,9 @@
 ||*Copyright: Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)*
 ||
 |||
-|2026-11-28|**Region: pt-BR**||
-||![](https://www.bing.com/th?id=OHR.FaceCanyon_PT-BR9349113908_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_PT-BR9349113908_UHD.jpg)|
-||*Copyright: Monolito ao pôr do sol, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)*
+|2026-11-29|**Region: pt-BR**||
+||![](https://www.bing.com/th?id=OHR.VltavaPrague_PT-BR9631249556_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VltavaPrague_PT-BR9631249556_UHD.jpg)|
+||*Copyright: Cidade Antiga e rio Vltava, Praga, República Tcheca (© Lara_Uhryn/Getty Images)*
 ||
 |||
 |2026-11-28|**Region: fr-FR**||
@@ -31,14 +31,14 @@
 ||*Copyright: Altstadt und Moldau, Prag, Tschechien (© Lara_Uhryn/Getty Images)*
 ||
 |||
-|2026-11-28|**Region: en-CA**||
-||![](https://www.bing.com/th?id=OHR.FaceCanyon_EN-CA9192055868_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_EN-CA9192055868_UHD.jpg)|
-||*Copyright: Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)*
+|2026-11-29|**Region: en-CA**||
+||![](https://www.bing.com/th?id=OHR.VltavaPrague_EN-CA3635435343_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VltavaPrague_EN-CA3635435343_UHD.jpg)|
+||*Copyright: Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)*
 ||
 |||
-|2026-11-28|**Region: en-GB**||
-||![](https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_UHD.jpg)|
-||*Copyright: Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)*
+|2026-11-29|**Region: en-GB**||
+||![](https://www.bing.com/th?id=OHR.VltavaPrague_EN-GB9335121200_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VltavaPrague_EN-GB9335121200_UHD.jpg)|
+||*Copyright: Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)*
 ||
 |||
 |2026-11-28|**Region: it-IT**||
@@ -51,9 +51,9 @@
 ||*Copyright: Casco antiguo y río Moldava, Praga, Chequia (© Lara_Uhryn/Getty Images)*
 ||
 |||
-|2026-11-28|**Region: fr-CA**||
-||![](https://www.bing.com/th?id=OHR.FaceCanyon_FR-CA8559464645_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.FaceCanyon_FR-CA8559464645_UHD.jpg)|
-||*Copyright: Butte au coucher du soleil, Face Canyon, Lac Powell, Utah, États-Unis (© Jeff Foott/Minden)*
+|2026-11-29|**Region: fr-CA**||
+||![](https://www.bing.com/th?id=OHR.VltavaPrague_FR-CA8756613835_UHD.jpg&pid=hp&w=1152&h=648&rs=1&c=4)| [download](https://www.bing.com/th?id=OHR.VltavaPrague_FR-CA8756613835_UHD.jpg)|
+||*Copyright: Vieille Ville et rivière Vltava, Prague, Tchéquie (© Lara_Uhryn/Getty Images)*
 ||
 |||
 

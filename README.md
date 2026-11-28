@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-28
-![](https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg&w=1000)Download: [捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)](https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg)
+Update: 2026-11-29
+![](https://www.bing.com/th?id=OHR.SommaroyBridge_ZH-CN0060105443_UHD.jpg&w=1000)Download: [俯瞰挪威特罗姆瑟的索马若伊大桥 (© Roberto Moiola/Sysaworld/Getty Images)](https://www.bing.com/th?id=OHR.SommaroyBridge_ZH-CN0060105443_UHD.jpg)
 
 Auto get programm by LtgX

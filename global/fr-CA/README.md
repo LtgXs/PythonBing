@@ -1,5 +1,5 @@
 ## Today's Bing Wallpaper
-Update: 2026-11-28
-![](https://www.bing.com/th?id=OHR.FaceCanyon_FR-CA8559464645_UHD.jpg&w=1000)Download: [Butte au coucher du soleil, Face Canyon, Lac Powell, Utah, États-Unis (© Jeff Foott/Minden)](https://www.bing.com/th?id=OHR.FaceCanyon_FR-CA8559464645_UHD.jpg)
+Update: 2026-11-29
+![](https://www.bing.com/th?id=OHR.VltavaPrague_FR-CA8756613835_UHD.jpg&w=1000)Download: [Vieille Ville et rivière Vltava, Prague, Tchéquie (© Lara_Uhryn/Getty Images)](https://www.bing.com/th?id=OHR.VltavaPrague_FR-CA8756613835_UHD.jpg)
 
 Auto get programm by LtgX
